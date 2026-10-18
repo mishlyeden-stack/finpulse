@@ -120,6 +120,20 @@ const COACH = {
   learn: 'את מורה לפיננסים ועסקים שלי (אשת כספים שמתפתחת לחשיבת CFO). לא הגדרת ויקיפדיה. קודם שאלי מה אני כבר יודעת על המושג וחכי. אחר כך, קצר: מה זה, למה זה קיים, איך זה עובד, איפה פוגשים את זה בחברת פרויקטים ושירותים (ושאלי איפה זה אצלנו), למה CFO מתעניינת, דוגמה מספרית בדויה קטנה, ושאלת יישום אחת שבודקת הבנה. בסוף כתבי בלוק "📓 לרישום ביומן". בעברית, שאלה אחת בכל פעם. המושג: ',
 };
 const claudeLink = (mode, context) => 'https://claude.ai/new?q=' + encodeURIComponent(COACH[mode] + context);
+// Eden's own device: open her "רדאר עדן" Project (instructions live there). Others: self-contained prefill link.
+const MY_PROJECT = 'https://claude.ai/project/01a14fc7-3bb0-7334-9c46-a202316c17f1';
+const useProject = () => { try { return localStorage.getItem('radarUseProject') === '1'; } catch { return false; } };
+function toast(msg) {
+  const t = document.createElement('div'); t.textContent = msg;
+  t.style.cssText = 'position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#1f2933;color:#fff;padding:10px 16px;border-radius:10px;z-index:99;font-size:14px;max-width:90%;text-align:center';
+  document.body.appendChild(t); setTimeout(() => t.remove(), 2500);
+}
+async function openInClaude(mode, context) {
+  if (!useProject()) { location.href = claudeLink(mode, context); return; }
+  const text = mode === 'think' ? 'בואי נחשוב על המקרה הזה:\n' + context : 'תסבירי לי את המושג: ' + context;
+  try { await navigator.clipboard.writeText(text); toast('📋 המקרה הועתק. בפרויקט: שיחה חדשה ← הדביקי'); } catch { toast('פותחת את הפרויקט…'); }
+  setTimeout(() => { location.href = MY_PROJECT; }, 900);
+}
 const staticPath = (path) => {
   if (path === '/api/days') return 'data/days.json';
   if (path.startsWith('/api/daily?d=')) return 'data/daily-' + path.split('=')[1] + '.json';
@@ -188,7 +202,7 @@ function showPanel(title) {
   $('ctitle').textContent = title; $('chat').classList.add('open');
 }
 async function openChat(mode, context, title) {
-  if (STATIC) { location.href = claudeLink(mode, context); return; }   // phone: continue in the Claude app
+  if (STATIC) { openInClaude(mode, context); return; }   // phone: continue in the Claude app
   sid = null; showPanel(title);
   const w = add('sys', 'פותחת שיחה'); w.classList.add('dots'); setBusy(true);
   try {
@@ -283,6 +297,13 @@ async function loadToday() {
 if (STATIC) {   // phone copy: no local conversation history; Think/Learn open in the Claude app
   document.querySelector('.notice').textContent = 'גרסת הטלפון. "בואי נחשוב" ו"למדי" נפתחים באפליקציית Claude, והשיחה נשמרת שם. בסוף השיחה העתיקי את בלוק היומן.';
   const conv = document.getElementById('convs'); conv.previousElementSibling.style.display = 'none'; conv.style.display = 'none';
+  // one-time per-device switch: open conversations in Eden's own Project
+  const sw = document.createElement('div'); sw.className = 'notice'; sw.style.marginTop = '24px';
+  const paint = () => { sw.innerHTML = useProject()
+    ? '✅ במכשיר הזה השיחות נפתחות בפרויקט "רדאר עדן" שלך. <a href="#" id="pj">ביטול</a>'
+    : '⚙️ זה המכשיר שלך? <a href="#" id="pj">פתחי את השיחות בפרויקט "רדאר עדן" שלי</a>';
+    sw.querySelector('#pj').onclick = (e) => { e.preventDefault(); try { localStorage.setItem('radarUseProject', useProject() ? '0' : '1'); } catch {} paint(); }; };
+  paint(); document.querySelector('.wrap').appendChild(sw);
 }
 if (STATIC && 'serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 loadDays();
