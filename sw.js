@@ -1,5 +1,5 @@
 // Radar Eden – service worker: fast open + works offline with the last loaded data
-const CACHE = 'radar-eden-v3';
+const CACHE = 'radar-eden-v4';
 const SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => { e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL))); self.skipWaiting(); });
@@ -14,7 +14,7 @@ self.addEventListener('fetch', (e) => {
   if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
   const key = req.url.split('?')[0];
   e.respondWith(
-    fetch(req).then((res) => { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(key, copy)); return res; })
+    fetch(req, { cache: 'no-store' }).then((res) => { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(key, copy)); return res; })
       .catch(() => caches.match(key).then((r) => r || caches.match('./index.html')))
   );
 });

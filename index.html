@@ -329,7 +329,11 @@ if (STATIC) {   // phone copy: no local conversation history; Think/Learn open i
     sw.querySelector('#pj').onclick = (e) => { e.preventDefault(); try { localStorage.setItem('radarUseProject', useProject() ? '0' : '1'); } catch {} paint(); }; };
   paint(); document.querySelector('.wrap').appendChild(sw);
 }
-if (STATIC && 'serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+if (STATIC && 'serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then((r) => r.update()).catch(() => {});
+  let reloaded = false;   // a new version was installed → reload once so it shows immediately
+  navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloaded) { reloaded = true; location.reload(); } });
+}
 loadDays();
 loadConvs();
 loadToday();
