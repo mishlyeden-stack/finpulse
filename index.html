@@ -77,10 +77,14 @@
     <button class="ghost" id="learnBtn">למדי אותי</button>
   </div>
 
+  <div style="display:flex;gap:8px;margin:6px 0 12px;position:sticky;top:0;background:var(--bg);padding:6px 0;z-index:5">
+    <button id="tabDaily">☀️ Daily</button>
+    <button id="tabToday" class="ghost">📡 נקלט היום</button>
+  </div>
   <div id="daily"><div class="empty">טוען…</div></div>
 
-  <div class="sec" style="color:#b45309; margin-top:28px;">📡 נקלט במהלך היום <span style="font-weight:normal;color:var(--muted)">(מתעדכן אוטומטית. עדיין לא מאומת: הטובים ייבחרו ויאומתו ב-Daily של מחר)</span></div>
-  <div id="today"></div>
+  <div class="sec" id="todayHead" style="color:#b45309; margin-top:28px; display:none">📡 נקלט במהלך היום <span style="font-weight:normal;color:var(--muted)">(מתעדכן אוטומטית. עדיין לא מאומת: הטובים ייבחרו ויאומתו ב-Daily של מחר)</span></div>
+  <div id="today" style="display:none"></div>
 
   <div class="sec" style="color:#374151; margin-top:28px;">📚 השיחות שלי <span style="font-weight:normal;color:var(--muted)">(נשמרות אוטומטית. אפשר לקרוא שוב ולהמשיך)</span></div>
   <div id="convs"></div>
@@ -275,6 +279,19 @@ $('saveBtn').onclick = async () => {
   catch (e) { alert(e.message); }
 };
 
+// ---- tabs: Daily | נקלט היום ----
+function showTab(which) {
+  const today = which === 'today';
+  $('daily').style.display = today ? 'none' : '';
+  $('todayHead').style.display = today ? '' : 'none';
+  $('today').style.display = today ? '' : 'none';
+  $('tabDaily').className = today ? 'ghost' : '';
+  $('tabToday').className = today ? '' : 'ghost';
+  window.scrollTo(0, 0);
+}
+$('tabDaily').onclick = () => showTab('daily');
+$('tabToday').onclick = () => showTab('today');
+
 // ---- topic filter for "נקלט במהלך היום" ----
 const TOPICS = { all: 'הכול', israel: '🇮🇱 ישראל', world: '🌍 עולם ושווקים', industry: '🏭 הענפים שלנו', cfo: '🎓 מקרים ל-CFO' };
 let topicFilter = 'all';
@@ -296,6 +313,7 @@ async function loadToday() {
 function renderToday() {
   {
     const t = todayData; if (!t) return;
+    $('tabToday').textContent = `📡 נקלט היום (${t.items.length})`;
     const counts = { all: t.items.length }; t.items.forEach((i) => { const k = topicOf(i); counts[k] = (counts[k] || 0) + 1; });
     const chips = `<div style="display:flex;gap:6px;flex-wrap:wrap;margin:8px 0">` + Object.entries(TOPICS).map(([k, v]) =>
       `<button class="small ${topicFilter === k ? '' : 'ghost'}" data-topic="${k}">${v} (${counts[k] || 0})</button>`).join('') + `</div>`;
