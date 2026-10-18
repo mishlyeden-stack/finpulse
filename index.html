@@ -135,6 +135,31 @@
   .grp.brief > summary { background:linear-gradient(90deg, rgba(124,58,237,.10), transparent); }
   .grp.mine > summary { background:linear-gradient(90deg, rgba(245,158,11,.12), transparent); }
   @media (max-width:700px) { .toolbar { top:0; } .grp { scroll-margin-top:110px; } }
+  /* executive view */
+  .exec { background:var(--ink); color:#fff; border-radius:18px; padding:16px 18px; margin:12px 0 6px; box-shadow:var(--shadow); }
+  .exec h2 { margin:0 0 10px; font-size:16px; font-weight:800; display:flex; justify-content:space-between; gap:8px; }
+  .exec h2 small { font-weight:500; color:#cbd5e1; font-size:12px; }
+  .exec ol { margin:0; padding:0 22px 0 0; }
+  .exec li { margin:8px 0; line-height:1.55; cursor:pointer; }
+  .exec li b { font-size:15px; }
+  .exec li span { display:block; color:#cbd5e1; font-size:13px; }
+  .exec li:hover b { text-decoration:underline; }
+  .star { background:var(--amber); color:#111; border-radius:6px; padding:0 6px; font-size:11px; font-weight:800; margin-inline-start:6px; }
+  details.qq { margin-top:8px; }
+  details.qq > summary { cursor:pointer; display:inline-block; font-size:13px; font-weight:700; color:var(--ink2); background:var(--amber-bg); border:1px solid #fcd34d; border-radius:999px; padding:3px 12px; list-style:none; }
+  details.qq > summary::-webkit-details-marker { display:none; }
+  details.qq > div { margin-top:8px; padding:10px 12px; background:var(--amber-bg); border-radius:10px; font-weight:600; }
+  .card.hl { box-shadow:0 0 0 3px var(--amber); }
+  /* desktop: wide, two columns (news | numbers + brief) */
+  .dgrid { display:flex; flex-direction:column; }
+  .dside { order:-1; }
+  @media (min-width:1000px) {
+    .hero-in, .tabs-in, .wrap { max-width:1240px; }
+    .dgrid { display:grid; grid-template-columns:minmax(0,1fr) 400px; gap:22px; align-items:start; }
+    .dmain { grid-column:1; grid-row:1; }
+    .dside { grid-column:2; grid-row:1; order:0; position:sticky; top:150px; max-height:calc(100vh - 160px); overflow-y:auto; padding-bottom:10px; }
+    .dside .numbers { grid-template-columns:1fr 1fr; }
+  }
   /* collapsible groups */
   .grp { background:var(--card); border-radius:16px; box-shadow:var(--shadow); margin:10px 0; overflow:hidden; border:1px solid rgba(226,232,240,.7); }
   .grp > summary { list-style:none; cursor:pointer; padding:14px 16px; display:flex; justify-content:space-between; align-items:center; gap:10px; font-weight:800; font-size:16px; }
@@ -174,11 +199,15 @@
   <!-- DAILY -->
   <section class="view on" id="v-daily">
     <div class="toolbar"><div class="ask"><input id="newsQ" placeholder="🔍 חיפוש בחדשות (למשל: ריבית, מטא, מכרז)"></div><div class="tbar" id="tbar"></div></div>
+    <div id="exec"></div>
+    <div class="dgrid"><aside class="dside">
     <div id="kpi"></div>
     <details class="grp brief" id="briefGrp"><summary><span>☀️ תדריך הבוקר <span class="gmeta">· המעט שהכי כדאי לדעת, להבין ולחשוב עליו היום, מוסבר לעומק (זה גם המייל של הבוקר)</span></span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
-    <div class="sec" style="margin-top:24px">📰 החדשות לפי נושא</div>
+    </aside><div class="dmain">
+    <div class="sec" style="margin-top:14px">📰 החדשות לפי נושא</div>
     <div class="notice">מאומת מול הכתבה המקורית ומסוכם כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות. לחצי על נושא כדי לפתוח.</div>
     <div id="today"></div>
+    </div></div>
   </section>
 
   <!-- LEARN -->
@@ -191,7 +220,7 @@
   <!-- THINK -->
   <section class="view" id="v-think">
     <div class="sec" style="margin-top:4px">🎯 המקרה של היום</div><div id="thinkToday"></div>
-    <div class="sec">🧠 מקרים נוספים מהחדשות של היום</div><div id="thinkLive"></div>
+    <details class="grp" id="thinkMore"><summary><span>🧠 עוד מקרים מהחדשות של היום <span class="gmeta">· לבחירה, לא חובה</span></span><span class="gcount" id="thinkCount">0</span></summary><div class="gbody"><div id="thinkLive"></div></div></details>
     <div class="sec convHead">📚 השיחות שלי</div><div id="thinkConvs"></div>
   </section>
 
@@ -348,6 +377,7 @@ function renderThink() {
   const cases = (todayData?.items || []).filter((i) => i.level === '🧠');
   $('thinkLive').innerHTML = cases.length ? cases.map((i) => `<div class="card" style="--accent:var(--violet)"><h3>${esc(i.title)}</h3><p>${esc(i.what)}</p><div style="margin-top:8px"><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 בואי נחשוב</button></div></div>`).join('')
     : '<div class="notice">עוד לא נקלטו היום מקרים נוספים.</div>';
+  $('thinkCount').textContent = cases.length;
   bindThink($('thinkLive'));
 }
 
@@ -384,7 +414,7 @@ function mergeDup(items) {
   const out = [];
   for (const i of items) {
     const m = out.find((o) => catOf(o) === catOf(i) && sameEvent(o, i));
-    if (m) { m.more = m.more || []; if (!m.more.some((x) => x.source === i.source) && m.source !== i.source) m.more.push({ source: i.source, link: i.link }); m.dups = (m.dups || 1) + 1; }
+    if (m) { m.more = m.more || []; if (!m.more.some((x) => x.source === i.source) && m.source !== i.source) m.more.push({ source: i.source, link: i.link }); m.dups = (m.dups || 1) + 1; m.impact = Math.max(m.impact || 0, i.impact || 0); m.question = m.question || i.question; }
     else out.push({ ...i });
   }
   return out;
@@ -397,6 +427,13 @@ function renderToday() {
   const matchQ = (i) => !q || (i.title + ' ' + i.what + ' ' + i.why + ' ' + i.source).toLowerCase().includes(q);
   const all = mergeDup(t.items);
   const pool = all.filter(matchQ);
+  // ranking: impact on a group like ours (from the filter), then newest. top 3 of 🎯 = the executive view
+  const byImpact = (a, b) => (b.impact || 0) - (a.impact || 0) || String(b.time).localeCompare(String(a.time));
+  const top = (all.some(isMine) ? all.filter(isMine) : [...all]).sort(byImpact).slice(0, 3);
+  topKeys = new Set(top.map((i) => i.title));
+  const rankedOk = all.some((i) => i.impact);
+  $('exec').innerHTML = q || !top.length ? '' : `<div class="exec"><h2><span>🎯 ${top.length === 3 ? '3 הדברים' : 'הדברים'} החשובים היום לקבוצה</span><small>${rankedOk ? 'לפי השפעה אפשרית על הכנסות, עלויות, מימון ולקוחות' : 'האחרונים שנוגעים לקבוצה (הדירוג לפי השפעה נבנה בסריקות הבאות)'} · לחצי לפרטים</small></h2><ol>` +
+    top.map((i) => `<li data-go="${esc(i.title)}"><b>${esc(i.title)}</b><span>${esc(i.why)}</span></li>`).join('') + '</ol></div>';
   const s = t.stats;
   let h = s ? `<div class="stat">🔎 היום: ${s.runs} סריקות · ${s.newItems} פריטים חדשים · נבדקו ${s.judged} · עברו סינון ואימות <b>${all.length}</b> אירועים · עדכון אחרון ${esc(s.last)}</div>`
             : '<div class="notice">עוד לא היו סריקות היום (הן רצות כשהמחשב ער, א׳–ה׳ 07:00–18:00).</div>';
@@ -404,7 +441,7 @@ function renderToday() {
   if (s && !t.items.length) h += '<div class="empty">עוד לא נקלט היום משהו שעבר את הסינון והאימות.</div>';
   // groups: first what touches the group (any topic), then every topic in CFO/CEO priority order (CATS order).
   // inside a topic, items that touch the group come first. a search opens all matching groups.
-  const groups = [{ k: 'mine', label: '🎯 נוגע לקבוצה', items: pool.filter(isMine) },
+  const groups = [{ k: 'mine', label: '🎯 נוגע לקבוצה', items: pool.filter(isMine).sort(byImpact) },
     ...Object.keys(CATS).map((k) => ({ k, label: CATS[k], items: pool.filter((i) => catOf(i) === k).sort((a, b) => isMine(b) - isMine(a)) }))].filter((g) => g.items.length);
   for (const g of groups) {
     const latest = g.items.map((i) => i.time).sort().at(-1) || '';
@@ -422,8 +459,17 @@ function renderToday() {
     `<button data-all="1">⇕ פתיחה/סגירה של הכול</button>`;
   document.querySelectorAll('[data-jump]').forEach((b) => b.onclick = () => { const d = $(b.dataset.jump); d.open = true; const off = document.querySelector('.toolbar').getBoundingClientRect().bottom + 10; window.scrollTo({ top: d.getBoundingClientRect().top + window.scrollY - off, behavior: 'smooth' }); d.classList.remove('flash'); void d.offsetWidth; d.classList.add('flash'); });
   document.querySelector('[data-all]').onclick = () => { const ds = [...document.querySelectorAll('#today details.grp')]; const o = !ds.every((d) => d.open); ds.forEach((d) => d.open = o); };
+  // executive view: jump to the item inside 🎯
+  document.querySelectorAll('[data-go]').forEach((li) => li.onclick = () => {
+    const g = $('g-mine') || document.querySelector('#today details.grp'); if (!g) return; g.open = true;
+    const card = [...g.querySelectorAll('.card')].find((c) => c.dataset.key === li.dataset.go) || g;
+    const off = document.querySelector('.toolbar').getBoundingClientRect().bottom + 10;
+    window.scrollTo({ top: card.getBoundingClientRect().top + window.scrollY - off, behavior: 'smooth' });
+    card.classList.add('hl'); setTimeout(() => card.classList.remove('hl'), 2000);
+  });
 }
 const openCats = new Set();
+let topKeys = new Set();
 $('newsQ').oninput = () => { query = $('newsQ').value; renderToday(); if (query.trim()) $('briefGrp').open = false; };
 function newsCard(i, mineTag) {
   let h = '';
@@ -431,8 +477,9 @@ function newsCard(i, mineTag) {
     const srcLink = (x) => { const gn = /news\.google\.com/.test(x.link);
       const href = gn ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title + ' ' + x.source.replace(/\(.*$/, '')) : x.link;
       return `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(x.source.replace(/\(Google News.*$/, ''))} ↗</a>`; };
-    h += `<div class="card" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${esc(CATS[catOf(i)])} · ${esc(i.time)}${mineTag && isMine(i) ? ' · 🎯 נוגע לקבוצה' : ''}${i.level === '🧠' ? ' · 🧠 מקרה ללמידה' : ''}${i.dups > 1 ? ` · דווח ב-${i.dups} מקורות` : ''}</div><h3>${esc(i.title)}</h3>
+    h += `<div class="card" data-key="${esc(i.title)}" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${esc(CATS[catOf(i)])} · ${esc(i.time)}${mineTag && isMine(i) ? ' · 🎯 נוגע לקבוצה' : ''}${i.level === '🧠' ? ' · 🧠 מקרה ללמידה' : ''}${i.dups > 1 ? ` · דווח ב-${i.dups} מקורות` : ''}${topKeys.has(i.title) ? '<span class="star">⭐ מהחשובים היום</span>' : ''}</div><h3>${esc(i.title)}</h3>
       <p>${esc(i.what)}</p><p><b>למה מעניין:</b> ${esc(i.why)}</p>
+      ${i.question ? `<details class="qq"><summary>❓ שאלה לפגישה</summary><div>${esc(i.question)}</div></details>` : ''}
       <div class="src">${[i, ...(i.more || [])].map(srcLink).join(' · ')}</div>
       <div style="margin-top:8px"><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 בואי נחשוב על זה</button></div></div>`;
   }
