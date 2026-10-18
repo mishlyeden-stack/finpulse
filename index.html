@@ -127,14 +127,16 @@
   .tbar::-webkit-scrollbar { display:none; }
   .tbar button { flex:none; background:#fff; color:var(--ink2); border:1px solid var(--line); border-radius:999px; padding:5px 12px; font-size:13px; font-weight:600; white-space:nowrap; }
   .tbar button.mine { background:var(--ink); color:#fff; border-color:var(--ink); }
-  .grp { scroll-margin-top:150px; }
+  .grp.flash { animation:flash 1.2s; }
+  @keyframes flash { 0%,40% { box-shadow:0 0 0 3px var(--amber); } 100% { box-shadow:var(--shadow); } }
+  .grp.brief > summary { background:linear-gradient(90deg, rgba(124,58,237,.10), transparent); }
   .grp.mine > summary { background:linear-gradient(90deg, rgba(245,158,11,.12), transparent); }
   @media (max-width:700px) { .toolbar { top:0; } .grp { scroll-margin-top:110px; } }
   /* collapsible groups */
   .grp { background:var(--card); border-radius:16px; box-shadow:var(--shadow); margin:10px 0; overflow:hidden; border:1px solid rgba(226,232,240,.7); }
   .grp > summary { list-style:none; cursor:pointer; padding:14px 16px; display:flex; justify-content:space-between; align-items:center; gap:10px; font-weight:800; font-size:16px; }
   .grp > summary::-webkit-details-marker { display:none; }
-  .grp > summary::after { content:'⌄'; font-size:20px; color:var(--muted); transition:transform .2s; }
+  .grp > summary::after { content:'▾'; font-size:18px; color:var(--muted); transition:transform .2s; }
   .grp[open] > summary::after { transform:rotate(180deg); }
   .grp > summary span:first-child { flex:1; }
   .gmeta { font-size:12px; font-weight:500; color:var(--muted); }
@@ -170,7 +172,7 @@
   <section class="view on" id="v-daily">
     <div class="toolbar"><div class="ask"><input id="newsQ" placeholder="🔍 חיפוש בחדשות (למשל: ריבית, מטא, מכרז)"></div><div class="tbar" id="tbar"></div></div>
     <div id="kpi"></div>
-    <details class="grp" id="briefGrp" open><summary><span>☀️ תדריך הבוקר</span><span class="gmeta">נבחרים · מוסברים לעומק</span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
+    <details class="grp brief" id="briefGrp"><summary><span>☀️ תדריך הבוקר <span class="gmeta">· המעט שהכי כדאי לדעת, להבין ולחשוב עליו היום, מוסבר לעומק (זה גם המייל של הבוקר)</span></span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
     <div class="sec" style="margin-top:24px">📰 החדשות לפי נושא</div>
     <div class="notice">מאומת מול הכתבה המקורית ומסוכם כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות. לחצי על נושא כדי לפתוח.</div>
     <div id="today"></div>
@@ -415,11 +417,11 @@ function renderToday() {
   $('tbar').innerHTML = `<button data-jump="briefGrp">☀️ תדריך</button>` +
     groups.map((g) => `<button class="${g.k === 'mine' ? 'mine' : ''}" data-jump="g-${g.k}">${g.label} · ${g.items.length}</button>`).join('') +
     `<button data-all="1">⇕ פתיחה/סגירה של הכול</button>`;
-  document.querySelectorAll('[data-jump]').forEach((b) => b.onclick = () => { const d = $(b.dataset.jump); d.open = true; d.scrollIntoView({ behavior: 'smooth', block: 'start' }); });
+  document.querySelectorAll('[data-jump]').forEach((b) => b.onclick = () => { const d = $(b.dataset.jump); d.open = true; const off = document.querySelector('.toolbar').getBoundingClientRect().bottom + 10; window.scrollTo({ top: d.getBoundingClientRect().top + window.scrollY - off, behavior: 'smooth' }); d.classList.remove('flash'); void d.offsetWidth; d.classList.add('flash'); });
   document.querySelector('[data-all]').onclick = () => { const ds = [...document.querySelectorAll('#today details.grp')]; const o = !ds.every((d) => d.open); ds.forEach((d) => d.open = o); };
 }
 const openCats = new Set();
-$('newsQ').oninput = () => { query = $('newsQ').value; renderToday(); $('briefGrp').open = !query.trim(); };
+$('newsQ').oninput = () => { query = $('newsQ').value; renderToday(); if (query.trim()) $('briefGrp').open = false; };
 function newsCard(i, mineTag) {
   let h = '';
   {
