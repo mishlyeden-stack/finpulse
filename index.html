@@ -139,19 +139,16 @@
 </header>
 
 <nav class="tabs"><div class="tabs-in">
-  <button class="tab on" data-view="daily"><span class="ic">☀️</span>Daily Brief</button>
-  <button class="tab" data-view="live"><span class="ic">📡</span><span>Live <span class="badge" id="liveBadge" style="display:none"></span></span></button>
+  <button class="tab on" data-view="daily"><span class="ic">☀️</span>היום</button>
   <button class="tab" data-view="learn"><span class="ic">📖</span>Learn</button>
   <button class="tab" data-view="think"><span class="ic">🧠</span>Think</button>
 </div></nav>
 
 <main class="wrap">
   <!-- DAILY -->
-  <section class="view on" id="v-daily"><div id="kpi"></div><div id="daily"><div class="empty">טוען…</div></div></section>
-
-  <!-- LIVE -->
-  <section class="view" id="v-live">
-    <div class="notice">מה שנקלט היום, מאומת מול הכתבה המקורית. רק מה שעובר את שלושת המבחנים: מאקרו בישראל · העולם שלנו · מקרה CFO. עד 10 ביום.</div>
+  <section class="view on" id="v-daily"><div id="kpi"></div><div id="daily"><div class="empty">טוען…</div></div>
+    <div class="sec" style="margin-top:30px">📰 כל החדשות של היום</div>
+    <div class="notice">כל מה שחשוב לעסקים ולכספים, מאומת מול הכתבה המקורית ומסוכם כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות.</div>
     <div id="today"></div>
   </section>
 
@@ -165,7 +162,7 @@
   <!-- THINK -->
   <section class="view" id="v-think">
     <div class="sec" style="margin-top:4px">🎯 המקרה של היום</div><div id="thinkToday"></div>
-    <div class="sec">🧠 מקרים נוספים מ-Live</div><div id="thinkLive"></div>
+    <div class="sec">🧠 מקרים נוספים מהחדשות של היום</div><div id="thinkLive"></div>
     <div class="sec convHead">📚 השיחות שלי</div><div id="thinkConvs"></div>
   </section>
 
@@ -269,7 +266,7 @@ async function loadNumbers() {
     let h = `<div class="sec" style="margin-top:2px">📊 המספרים של היום</div><div class="numbers">` + x.numbers.map((n) => {
       const dir = /^\+/.test(n.change || '') ? 'up' : /^[-−]/.test(n.change || '') ? 'down' : 'flat';
       const arrow = dir === 'up' ? '▲' : dir === 'down' ? '▼' : '';
-      return `<a class="num" href="${esc(n.source || '#')}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none"><div class="l">${esc(n.label)}</div><div class="v">${esc(n.value)}</div>${n.change ? `<div class="c ${dir}">${arrow} ${esc(n.change.replace(/^[+-]/, ''))}</div>` : ''}${n.note ? `<div class="n">${esc(n.note)}</div>` : ''}</a>`;
+      return `<a class="num" href="${esc(n.source || '#')}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none"><div class="l">${esc(n.label)}</div><div class="v">${esc(n.value)}</div>${n.change ? `<div class="c ${dir}">${arrow} ${esc(n.change.replace(/^[+-]/, ''))}</div>` : ''}${n.note ? `<div class="n">${esc(n.note)}</div>` : ''}${n.by ? `<div class="n" style="color:#059669">✓ ${esc(n.by)}</div>` : ''}</a>`;
     }).join('') + `</div>`;
     if (x.events?.length) h += `<div class="sec">🗓️ אירועים קרובים</div><div class="stat">${x.events.map((e) => `<b>${esc(e.date)}</b> ${esc(e.what)}`).join(' &nbsp;·&nbsp; ')}</div>`;
     $('kpi').innerHTML = h;
@@ -340,7 +337,7 @@ let todayData = null;
 async function loadToday() { try { todayData = await api('/api/today'); renderToday(); renderThink(); } catch {} }
 function renderToday() {
   const t = todayData; if (!t) return;
-  const b = $('liveBadge'); b.textContent = t.items.length; b.style.display = t.items.length ? '' : 'none';
+  
   const counts = { all: t.items.length }; t.items.forEach((i) => { const k = topicOf(i); counts[k] = (counts[k] || 0) + 1; });
   const shown = t.items.filter((i) => topicFilter === 'all' || topicOf(i) === topicFilter);
   const s = t.stats;
