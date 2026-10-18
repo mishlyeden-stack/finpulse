@@ -4,6 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>רדאר עדן</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2563eb">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="רדאר עדן">
 <style>
   :root { --bg:#f4f5f7; --card:#fff; --ink:#1f2933; --muted:#6b7280; --line:#e5e7eb;
           --blue:#2563eb; --blue-bg:#eff6ff; --green:#059669; --green-bg:#ecfdf5; --amber:#d97706; --amber-bg:#fffbeb; }
@@ -277,6 +284,7 @@ if (STATIC) {   // phone copy: no local conversation history; Think/Learn open i
   document.querySelector('.notice').textContent = 'גרסת הטלפון. "בואי נחשוב" ו"למדי" נפתחים באפליקציית Claude, והשיחה נשמרת שם. בסוף השיחה העתיקי את בלוק היומן.';
   const conv = document.getElementById('convs'); conv.previousElementSibling.style.display = 'none'; conv.style.display = 'none';
 }
+if (STATIC && 'serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 loadDays();
 loadConvs();
 loadToday();
