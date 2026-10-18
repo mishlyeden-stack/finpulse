@@ -2,93 +2,175 @@
 <html dir="rtl" lang="he">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>רדאר עדן</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>FinPulse</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#2563eb">
+<meta name="theme-color" content="#0f172a">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="רדאר עדן">
+<meta name="apple-mobile-web-app-title" content="FinPulse">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&display=swap" rel="stylesheet">
 <style>
-  :root { --bg:#f4f5f7; --card:#fff; --ink:#1f2933; --muted:#6b7280; --line:#e5e7eb;
-          --blue:#2563eb; --blue-bg:#eff6ff; --green:#059669; --green-bg:#ecfdf5; --amber:#d97706; --amber-bg:#fffbeb; }
-  * { box-sizing:border-box; }
-  body { margin:0; background:var(--bg); color:var(--ink); font-family:Arial,"Segoe UI",sans-serif; font-size:15px; line-height:1.6; }
-  .wrap { max-width:760px; margin:0 auto; padding:18px 16px 60px; }
-  header { display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap; }
-  h1 { font-size:22px; margin:0; }
+  :root {
+    --bg:#f1f4f9; --card:#ffffff; --ink:#0f172a; --ink2:#334155; --muted:#64748b; --line:#e2e8f0;
+    --navy:#0f172a; --navy2:#1e3a8a; --cyan:#38bdf8; --gold:#fbbf24;
+    --blue:#2563eb; --blue-bg:#eff6ff; --green:#059669; --green-bg:#ecfdf5; --amber:#d97706; --amber-bg:#fff7ed;
+    --violet:#7c3aed; --violet-bg:#f5f3ff; --red:#dc2626;
+    --shadow:0 1px 2px rgba(15,23,42,.06), 0 6px 20px rgba(15,23,42,.06);
+  }
+  * { box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+  body { margin:0; background:var(--bg); color:var(--ink); font-family:Heebo,Arial,"Segoe UI",sans-serif; font-size:15px; line-height:1.6; }
   select, input, textarea, button { font:inherit; }
-  select { padding:4px 8px; border:1px solid var(--line); border-radius:8px; background:#fff; }
-  .notice { font-size:12px; color:var(--muted); margin:6px 0 14px; }
-  .learnbar { display:flex; gap:8px; margin-bottom:16px; }
-  .learnbar input { flex:1; padding:8px 12px; border:1px solid var(--line); border-radius:10px; }
-  button { cursor:pointer; border:0; border-radius:10px; padding:8px 14px; background:var(--blue); color:#fff; font-weight:bold; }
-  button.ghost { background:#fff; color:var(--blue); border:1px solid var(--blue); }
-  button.small { padding:3px 10px; font-size:13px; }
-  button:disabled { opacity:.5; cursor:default; }
-  .headline { font-size:18px; font-weight:bold; margin:4px 0 12px; }
-  .sec { font-size:13px; font-weight:bold; margin:18px 0 6px; }
-  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin:8px 0; border-right:4px solid var(--blue); }
-  .card.u { border-right-color:var(--green); } .card.t { border-right-color:var(--amber); background:var(--amber-bg); }
-  .card h3 { margin:0 0 6px; font-size:16px; }
-  .card p { margin:3px 0; }
-  .src { font-size:13px; } .src a { color:var(--blue); }
-  .concept { background:var(--blue-bg); border-radius:8px; padding:4px 8px; margin-top:6px; font-size:14px; display:flex; justify-content:space-between; align-items:center; gap:8px; }
-  .q { font-weight:bold; color:#92400e; margin-top:8px; }
+  a { color:var(--blue); text-decoration:none; } a:hover { text-decoration:underline; }
+
+  /* ---------- hero header ---------- */
+  .hero { background:radial-gradient(1200px 400px at 85% -40%, rgba(56,189,248,.35), transparent 60%), linear-gradient(135deg,var(--navy),var(--navy2)); color:#fff; padding:22px 16px 26px; padding-top:calc(22px + env(safe-area-inset-top)); }
+  .hero-in { max-width:820px; margin:0 auto; display:flex; justify-content:space-between; align-items:flex-end; gap:12px; flex-wrap:wrap; }
+  .brand { display:flex; align-items:center; gap:10px; }
+  .brand svg { width:40px; height:40px; flex:none; filter:drop-shadow(0 0 10px rgba(56,189,248,.5)); }
+  .brand h1 { margin:0; font-size:26px; font-weight:800; letter-spacing:.3px; direction:ltr; }
+  .brand h1 span { color:var(--cyan); }
+  .hello { margin-top:6px; font-size:15px; opacity:.9; }
+  .hello b { font-weight:700; }
+  .day-sel { background:rgba(255,255,255,.12); color:#fff; border:1px solid rgba(255,255,255,.25); border-radius:10px; padding:6px 10px; }
+  .day-sel option { color:#0f172a; }
+
+  /* ---------- tabs ---------- */
+  .tabs { position:sticky; top:0; z-index:20; background:rgba(241,244,249,.92); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+  .tabs-in { max-width:820px; margin:0 auto; display:flex; gap:4px; padding:8px 12px; }
+  .tab { flex:1; background:none; border:0; border-radius:12px; padding:9px 6px; color:var(--muted); font-weight:700; cursor:pointer; display:flex; flex-direction:column; align-items:center; gap:2px; font-size:14px; }
+  .tab .ic { font-size:18px; line-height:1; }
+  .tab.on { background:var(--card); color:var(--ink); box-shadow:var(--shadow); }
+  .badge { font-size:11px; background:var(--amber); color:#fff; border-radius:999px; padding:0 6px; font-weight:700; }
+  @media (max-width:700px) {
+    .tabs { position:fixed; top:auto; bottom:0; left:0; right:0; border-top:1px solid var(--line); border-bottom:0; padding-bottom:env(safe-area-inset-bottom); background:rgba(255,255,255,.96); }
+    .tab.on { box-shadow:none; background:var(--blue-bg); color:var(--blue); }
+    body { padding-bottom:80px; }
+  }
+
+  /* ---------- content ---------- */
+  .wrap { max-width:820px; margin:0 auto; padding:18px 14px 40px; }
+  .view { display:none; animation:fade .25s ease; } .view.on { display:block; }
+  @keyframes fade { from { opacity:0; transform:translateY(4px); } to { opacity:1; transform:none; } }
+  .headline { font-size:20px; font-weight:800; line-height:1.4; margin:2px 0 14px; }
+  .sec { display:flex; align-items:center; gap:8px; font-size:13px; font-weight:800; letter-spacing:.3px; margin:22px 0 8px; color:var(--ink2); }
+  .sec::after { content:''; flex:1; height:1px; background:var(--line); }
+  .card { background:var(--card); border-radius:16px; padding:16px 18px; margin:10px 0; box-shadow:var(--shadow); border:1px solid rgba(226,232,240,.7); position:relative; overflow:hidden; }
+  .card::before { content:''; position:absolute; inset:0 0 0 auto; width:4px; background:var(--accent, var(--blue)); }
+  .card h3 { margin:0 0 6px; font-size:16.5px; font-weight:800; line-height:1.4; }
+  .card p { margin:4px 0; color:var(--ink2); }
+  .card p b { color:var(--ink); }
+  .meta { font-size:12px; color:var(--muted); }
+  .src { font-size:13px; margin-top:8px; }
+  .warn { font-size:13px; color:#b45309; margin-top:6px; }
+  .concept { background:var(--blue-bg); border-radius:12px; padding:8px 12px; margin-top:10px; font-size:14px; display:flex; justify-content:space-between; align-items:center; gap:10px; }
+  .q { font-weight:800; color:#9a3412; margin-top:10px; font-size:15.5px; }
   .empty { color:var(--muted); text-align:center; padding:40px 0; }
-  /* chat */
-  #chat { position:fixed; inset:0; background:rgba(15,23,42,.35); display:none; align-items:center; justify-content:center; padding:12px; }
-  #chat.open { display:flex; }
-  .panel { background:#fff; width:100%; max-width:720px; height:min(92vh,820px); border-radius:14px; display:flex; flex-direction:column; overflow:hidden; }
-  .phead { padding:10px 14px; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; gap:8px; }
-  .phead b { font-size:15px; }
-  #msgs { flex:1; overflow:auto; padding:14px; background:#fafafa; }
-  .m { max-width:85%; padding:8px 12px; border-radius:12px; margin:6px 0; white-space:pre-wrap; }
-  .m.ai { background:#f1f5f9; border:1px solid var(--line); }
-  .m.me { background:#dbeafe; margin-right:auto; }
-  .m.sys { background:none; color:var(--muted); font-size:13px; text-align:center; max-width:100%; }
-  .pfoot { border-top:1px solid var(--line); padding:10px; display:flex; gap:8px; align-items:flex-end; }
-  .pfoot textarea { flex:1; min-height:44px; max-height:160px; padding:8px 10px; border:1px solid var(--line); border-radius:10px; resize:vertical; }
-  #review { padding:14px; overflow:auto; display:none; }
-  #review label { display:block; font-size:13px; color:var(--muted); margin-top:10px; }
-  #review textarea, #review input { width:100%; padding:6px 8px; border:1px solid var(--line); border-radius:8px; }
-  #review .ro { background:#f3f4f6; padding:8px; border-radius:8px; white-space:pre-wrap; }
-  .conv { display:flex; justify-content:space-between; align-items:center; gap:8px; background:#fff; border:1px solid var(--line); border-radius:10px; padding:8px 12px; margin:6px 0; cursor:pointer; }
-  .conv:hover { border-color:var(--blue); }
+  .notice { font-size:12.5px; color:var(--muted); margin:6px 0 12px; }
+
+  button { cursor:pointer; border:0; border-radius:12px; padding:9px 16px; background:var(--blue); color:#fff; font-weight:700; transition:transform .1s, box-shadow .2s; }
+  button:active { transform:scale(.97); }
+  button.ghost { background:#fff; color:var(--blue); border:1px solid #bfdbfe; }
+  button.small { padding:4px 12px; font-size:13px; border-radius:999px; }
+  button.cta { background:linear-gradient(135deg,#f59e0b,#ea580c); box-shadow:0 6px 16px rgba(234,88,12,.25); }
+  button:disabled { opacity:.5; cursor:default; }
+
+  /* numbers */
+  .numbers { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:10px; margin:6px 0 4px; }
+  .num { background:var(--card); border-radius:14px; padding:12px 14px; box-shadow:var(--shadow); }
+  .num .l { font-size:12px; color:var(--muted); font-weight:500; }
+  .num .v { font-size:20px; font-weight:800; direction:ltr; text-align:right; }
+  .num .c { font-size:12px; font-weight:700; } .up { color:var(--green); } .down { color:var(--red); } .flat { color:var(--muted); }
+  .num .n { font-size:11.5px; color:var(--muted); }
+
+  /* chips */
+  .chips { display:flex; gap:6px; flex-wrap:wrap; margin:10px 0; }
+  .chips button { background:#fff; color:var(--ink2); border:1px solid var(--line); border-radius:999px; padding:5px 12px; font-size:13px; font-weight:500; }
+  .chips button.on { background:var(--ink); color:#fff; border-color:var(--ink); }
+  .stat { background:var(--card); border-radius:14px; padding:10px 14px; box-shadow:var(--shadow); font-size:13px; color:var(--ink2); }
+
+  /* learn / think inputs + conversation list */
+  .ask { display:flex; gap:8px; background:var(--card); padding:8px; border-radius:16px; box-shadow:var(--shadow); }
+  .ask input { flex:1; border:0; outline:0; padding:8px 10px; background:none; font-size:16px; }
+  .conv { display:flex; justify-content:space-between; align-items:center; gap:8px; background:var(--card); border-radius:14px; padding:10px 14px; margin:8px 0; cursor:pointer; box-shadow:var(--shadow); }
   .conv small { color:var(--muted); white-space:nowrap; }
-  .chip { font-size:12px; border-radius:999px; padding:1px 8px; background:#f3f4f6; white-space:nowrap; }
-  .chip.saved { background:var(--green-bg); color:var(--green); }
+  .pill { font-size:11.5px; border-radius:999px; padding:1px 8px; background:#f1f5f9; white-space:nowrap; }
+  .pill.saved { background:var(--green-bg); color:var(--green); }
+
+  /* chat */
+  #chat { position:fixed; inset:0; background:rgba(15,23,42,.45); backdrop-filter:blur(2px); display:none; align-items:center; justify-content:center; padding:12px; z-index:50; }
+  #chat.open { display:flex; }
+  .panel { background:#fff; width:100%; max-width:740px; height:min(92vh,840px); border-radius:20px; display:flex; flex-direction:column; overflow:hidden; box-shadow:0 20px 60px rgba(15,23,42,.3); }
+  .phead { padding:12px 16px; background:linear-gradient(135deg,var(--navy),var(--navy2)); color:#fff; display:flex; justify-content:space-between; align-items:center; gap:8px; }
+  .phead b { font-size:15px; }
+  .phead button.ghost { background:rgba(255,255,255,.12); color:#fff; border-color:rgba(255,255,255,.3); }
+  #msgs { flex:1; overflow:auto; padding:16px; background:#f8fafc; }
+  .m { max-width:85%; padding:10px 14px; border-radius:16px; margin:8px 0; white-space:pre-wrap; line-height:1.65; }
+  .m.ai { background:#fff; border:1px solid var(--line); border-top-right-radius:4px; }
+  .m.me { background:var(--blue); color:#fff; margin-right:auto; border-top-left-radius:4px; }
+  .m.sys { background:none; color:var(--muted); font-size:13px; text-align:center; max-width:100%; }
+  .pfoot { border-top:1px solid var(--line); padding:10px; display:flex; gap:8px; align-items:flex-end; background:#fff; }
+  .pfoot textarea { flex:1; min-height:46px; max-height:160px; padding:10px 12px; border:1px solid var(--line); border-radius:14px; resize:vertical; outline:0; }
+  #review { padding:16px; overflow:auto; display:none; }
+  #review label { display:block; font-size:13px; color:var(--muted); margin-top:10px; }
+  #review textarea, #review input { width:100%; padding:8px 10px; border:1px solid var(--line); border-radius:10px; }
+  #review .ro { background:#f1f5f9; padding:8px 10px; border-radius:10px; white-space:pre-wrap; }
   .dots::after { content:'…'; animation: d 1s steps(3) infinite; }
   @keyframes d { 0%{content:'.'} 33%{content:'..'} 66%{content:'...'} }
+  .foot { text-align:center; font-size:12px; color:var(--muted); margin-top:30px; }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <h1>📡 רדאר עדן</h1>
-    <select id="day" title="תאריך"></select>
-  </header>
-  <div class="notice">רדאר ציבורי בלבד. אל תזיני כאן מידע פנימי של החברה. את החיבור לחברה את עושה בסביבה המאושרת.</div>
 
-  <div class="learnbar">
-    <input id="concept" placeholder="📖 מושג שאני רוצה להבין (למשל Working Capital)">
-    <button class="ghost" id="learnBtn">למדי אותי</button>
+<header class="hero">
+  <div class="hero-in">
+    <div>
+      <div class="brand">
+        <svg viewBox="0 0 48 48" aria-hidden="true"><rect width="48" height="48" rx="12" fill="#0b1226"/><polyline points="6,27 16,27 20,18 24,36 28,13 32,27 42,27" fill="none" stroke="#38bdf8" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="28" cy="13" r="3" fill="#fbbf24"/></svg>
+        <h1>Fin<span>Pulse</span></h1>
+      </div>
+      <div class="hello" id="hello"></div>
+    </div>
+    <select id="day" class="day-sel" title="תאריך"></select>
   </div>
+</header>
 
-  <div style="display:flex;gap:8px;margin:6px 0 12px;position:sticky;top:0;background:var(--bg);padding:6px 0;z-index:5">
-    <button id="tabDaily">☀️ Daily</button>
-    <button id="tabToday" class="ghost">📡 נקלט היום</button>
-  </div>
-  <div id="daily"><div class="empty">טוען…</div></div>
+<nav class="tabs"><div class="tabs-in">
+  <button class="tab on" data-view="daily"><span class="ic">☀️</span>Daily Brief</button>
+  <button class="tab" data-view="live"><span class="ic">📡</span><span>Live <span class="badge" id="liveBadge" style="display:none"></span></span></button>
+  <button class="tab" data-view="learn"><span class="ic">📖</span>Learn</button>
+  <button class="tab" data-view="think"><span class="ic">🧠</span>Think</button>
+</div></nav>
 
-  <div class="sec" id="todayHead" style="color:#b45309; margin-top:28px; display:none">📡 נקלט במהלך היום <span style="font-weight:normal;color:var(--muted)">(מתעדכן אוטומטית. עדיין לא מאומת: הטובים ייבחרו ויאומתו ב-Daily של מחר)</span></div>
-  <div id="today" style="display:none"></div>
+<main class="wrap">
+  <!-- DAILY -->
+  <section class="view on" id="v-daily"><div id="daily"><div class="empty">טוען…</div></div></section>
 
-  <div class="sec" style="color:#374151; margin-top:28px;">📚 השיחות שלי <span style="font-weight:normal;color:var(--muted)">(נשמרות אוטומטית. אפשר לקרוא שוב ולהמשיך)</span></div>
-  <div id="convs"></div>
-</div>
+  <!-- LIVE -->
+  <section class="view" id="v-live">
+    <div class="notice">מה שנקלט היום, מאומת מול הכתבה המקורית. רק מה שעובר את שלושת המבחנים: מאקרו בישראל · העולם שלנו · מקרה CFO. עד 10 ביום.</div>
+    <div id="today"></div>
+  </section>
+
+  <!-- LEARN -->
+  <section class="view" id="v-learn">
+    <div class="ask"><input id="concept" placeholder="איזה מושג תרצי להבין? (למשל Working Capital)"><button id="learnBtn">למדי אותי</button></div>
+    <div class="sec">💡 מושגים מה-Daily של היום</div><div id="learnConcepts"></div>
+    <div class="sec convHead">📚 השיחות שלי</div><div id="learnConvs"></div>
+  </section>
+
+  <!-- THINK -->
+  <section class="view" id="v-think">
+    <div class="sec" style="margin-top:4px">🎯 המקרה של היום</div><div id="thinkToday"></div>
+    <div class="sec">🧠 מקרים נוספים מ-Live</div><div id="thinkLive"></div>
+    <div class="sec convHead">📚 השיחות שלי</div><div id="thinkConvs"></div>
+  </section>
+
+  <div class="foot" id="foot">FinPulse · Business & CFO Growth · מידע ציבורי בלבד</div>
+</main>
 
 <!-- chat overlay -->
 <div id="chat">
@@ -117,6 +199,11 @@
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[c]));
 const md = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+
+// greeting
+(() => { const h = new Date().getHours(); const g = h < 12 ? 'בוקר טוב' : h < 17 ? 'צהריים טובים' : h < 21 ? 'ערב טוב' : 'לילה טוב';
+  $('hello').innerHTML = `${g}, <b>עדן</b> · ${new Date().toLocaleDateString('he-IL', { weekday:'long', day:'numeric', month:'long' })}`; })();
+
 // ---- mobile/static mode (GitHub Pages copy): read published JSON, open Think/Learn in the Claude app ----
 const STATIC = !/^(localhost|127\.0\.0\.1)$/.test(location.hostname);
 const COACH = {
@@ -124,18 +211,18 @@ const COACH = {
   learn: 'את מורה לפיננסים ועסקים שלי (אשת כספים שמתפתחת לחשיבת CFO). לא הגדרת ויקיפדיה. קודם שאלי מה אני כבר יודעת על המושג וחכי. אחר כך, קצר: מה זה, למה זה קיים, איך זה עובד, איפה פוגשים את זה בחברת פרויקטים ושירותים (ושאלי איפה זה אצלנו), למה CFO מתעניינת, דוגמה מספרית בדויה קטנה, ושאלת יישום אחת שבודקת הבנה. בסוף כתבי בלוק "📓 לרישום ביומן". בעברית, שאלה אחת בכל פעם. המושג: ',
 };
 const claudeLink = (mode, context) => 'https://claude.ai/new?q=' + encodeURIComponent(COACH[mode] + context);
-// Eden's own device: open her "רדאר עדן" Project (instructions live there). Others: self-contained prefill link.
+// Eden's own device: open her Project (instructions live there). Others: self-contained prefill link.
 const MY_PROJECT = 'https://claude.ai/project/01a14fc7-3bb0-7334-9c46-a202316c17f1';
 const useProject = () => { try { return localStorage.getItem('radarUseProject') === '1'; } catch { return false; } };
 function toast(msg) {
   const t = document.createElement('div'); t.textContent = msg;
-  t.style.cssText = 'position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#1f2933;color:#fff;padding:10px 16px;border-radius:10px;z-index:99;font-size:14px;max-width:90%;text-align:center';
+  t.style.cssText = 'position:fixed;bottom:96px;left:50%;transform:translateX(-50%);background:#0f172a;color:#fff;padding:10px 16px;border-radius:12px;z-index:99;font-size:14px;max-width:90%;text-align:center;box-shadow:0 10px 30px rgba(0,0,0,.25)';
   document.body.appendChild(t); setTimeout(() => t.remove(), 2500);
 }
 async function openInClaude(mode, context) {
   if (!useProject()) { location.href = claudeLink(mode, context); return; }
   const text = mode === 'think' ? 'בואי נחשוב על המקרה הזה:\n' + context : 'תסבירי לי את המושג: ' + context;
-  try { await navigator.clipboard.writeText(text); toast('📋 המקרה הועתק. בפרויקט: שיחה חדשה ← הדביקי'); } catch { toast('פותחת את הפרויקט…'); }
+  try { await navigator.clipboard.writeText(text); toast('📋 הועתק. בפרויקט: שיחה חדשה ← הדביקי'); } catch { toast('פותחת את הפרויקט…'); }
   setTimeout(() => { location.href = MY_PROJECT; }, 900);
 }
 const staticPath = (path) => {
@@ -153,60 +240,130 @@ const api = async (path, body) => {
   const r = await fetch(path, body ? { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(body) } : {});
   const j = await r.json(); if (!r.ok) throw new Error(j.error || 'שגיאה'); return j;
 };
-const src = (s, w) => (s && s.url ? `<div class="src">מקור: <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name || 'קישור')}</a></div>` : '') +
-  (w ? `<div class="src" style="color:#b45309;margin-top:4px;">⚠️ ${esc(w)}</div>` : '');
-const conceptBox = (c) => c && c.name ? `<div class="concept"><span>💡 <b>${esc(c.name)}</b>: ${esc(c.explain)}</span><button class="small ghost" data-learn="${esc(c.name)}">📖 למדי</button></div>` : '';
+const src = (s, w) => (s && s.url ? `<div class="src">מקור: <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name || 'קישור')} ↗</a></div>` : '') + (w ? `<div class="warn">⚠️ ${esc(w)}</div>` : '');
+const conceptBox = (c) => c && c.name ? `<div class="concept"><span>💡 <b>${esc(c.name)}</b> · ${esc(c.explain)}</span><button class="small ghost" data-learn="${esc(c.name)}">📖 למדי</button></div>` : '';
+const bindLearn = (root) => root.querySelectorAll('[data-learn]').forEach((b) => b.onclick = () => openChat('learn', b.dataset.learn, '📖 ' + b.dataset.learn));
+
+// ---------- tabs ----------
+document.querySelectorAll('.tab').forEach((t) => t.onclick = () => {
+  document.querySelectorAll('.tab').forEach((x) => x.classList.toggle('on', x === t));
+  document.querySelectorAll('.view').forEach((v) => v.classList.toggle('on', v.id === 'v-' + t.dataset.view));
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
 
 // ---------- Daily ----------
+let dailyData = null;
 async function loadDays() {
   let days;
   try { days = await api('/api/days'); }
-  catch { $('daily').innerHTML = '<div class="empty">השרת של הרדאר עולה מחדש… מנסה שוב אוטומטית.</div>'; setTimeout(loadDays, 10000); return; }
+  catch { $('daily').innerHTML = '<div class="empty">השרת עולה מחדש… מנסה שוב אוטומטית.</div>'; setTimeout(loadDays, 10000); return; }
   const want = new URLSearchParams(location.search).get('d');
   $('day').innerHTML = days.map((d) => `<option value="${d}">${d.split('-').reverse().join('.')}</option>`).join('');
   if (want && days.includes(want)) $('day').value = want;
-  if (days.length) loadDaily($('day').value); else $('daily').innerHTML = '<div class="empty">אין עדיין Daily. הוא ייווצר בסריקה הבאה ב-07:30.</div>';
+  if (days.length) loadDaily($('day').value); else $('daily').innerHTML = '<div class="empty">אין עדיין Daily. הוא ייווצר בסריקה הבאה של הבוקר.</div>';
+}
+function numbersCard(nums) {
+  if (!nums?.length) return '';
+  return `<div class="sec">📊 המספרים של היום</div><div class="numbers">` + nums.map((n) => {
+    const dir = /^[+▲↑]/.test(n.change || '') ? 'up' : /^[-−▼↓]/.test(n.change || '') ? 'down' : 'flat';
+    return `<div class="num"><div class="l">${esc(n.label)}</div><div class="v">${esc(n.value)}</div>${n.change ? `<div class="c ${dir}">${esc(n.change)}</div>` : ''}${n.note ? `<div class="n">${esc(n.note)}</div>` : ''}</div>`;
+  }).join('') + `</div>`;
 }
 async function loadDaily(d) {
   try {
-    const x = await api('/api/daily?d=' + d);
+    const x = dailyData = await api('/api/daily?d=' + d);
+    renderLearnConcepts(); renderThink();
     if (x.empty) { $('daily').innerHTML = `<div class="empty">${esc(x.headline || 'אין היום משהו ששווה את תשומת הלב שלך.')}</div>`; return; }
     let h = x.headline ? `<div class="headline">${esc(x.headline)}</div>` : '';
+    h += numbersCard(x.numbers);
+    if (x.events?.length) h += `<div class="stat" style="margin-top:8px">🗓️ ${x.events.map((e) => `<b>${esc(e.date)}</b> ${esc(e.what)}`).join(' · ')}</div>`;
     if (x.know?.length) {
-      h += `<div class="sec" style="color:#1e40af">🌍 כדאי לדעת</div>`;
-      for (const k of x.know) h += `<div class="card"><h3>${esc(k.title)}</h3><p><b>מה קרה:</b> ${esc(k.what)}</p><p><b>למה זה מעניין:</b> ${esc(k.why)}</p>${src(k.source, k.warning)}${conceptBox(k.concept)}</div>`;
+      h += `<div class="sec">🌍 כדאי לדעת</div>`;
+      for (const k of x.know) h += `<div class="card" style="--accent:var(--blue)"><h3>${esc(k.title)}</h3><p><b>מה קרה:</b> ${esc(k.what)}</p><p><b>למה זה מעניין:</b> ${esc(k.why)}</p>${src(k.source, k.warning)}${conceptBox(k.concept)}</div>`;
     }
     if (x.understand) {
       const u = x.understand;
-      h += `<div class="sec" style="color:#065f46">🧠 כדאי להבין</div><div class="card u"><h3>${esc(u.title)}</h3><p><b>מה קרה:</b> ${esc(u.what)}</p><p><b>המנגנון:</b> ${esc(u.mechanism)}</p><p><b>מי מושפע:</b> ${esc(u.who)}</p><p><b>מה כדאי להבין כדי לעקוב:</b> ${esc(u.follow)}</p>${src(u.source, u.warning)}${conceptBox(u.concept)}</div>`;
+      h += `<div class="sec">🧠 כדאי להבין</div><div class="card" style="--accent:var(--green)"><h3>${esc(u.title)}</h3><p><b>מה קרה:</b> ${esc(u.what)}</p><p><b>המנגנון:</b> ${esc(u.mechanism)}</p><p><b>מי מושפע:</b> ${esc(u.who)}</p><p><b>מה כדאי להבין כדי לעקוב:</b> ${esc(u.follow)}</p>${src(u.source, u.warning)}${conceptBox(u.concept)}</div>`;
     }
-    if (x.think) {
-      const t = x.think;
-      h += `<div class="sec" style="color:#92400e">🎯 כדאי לחשוב</div><div class="card t"><h3>${esc(t.title || '')}</h3><p>${esc(t.case)}</p>${src(t.source, t.warning)}<div class="q">✍️ ${esc(t.question)}</div><div style="margin-top:10px"><button id="thinkBtn">🧠 בואי נחשוב על זה</button></div></div>`;
-    }
+    if (x.think) h += `<div class="sec">🎯 כדאי לחשוב</div>` + thinkCard(x.think, 'thinkBtnD');
     if (x.field) {
       const f = x.field;
-      h += `<div class="sec" style="color:#6d28d9">🧭 כדאי להכיר את המגרש</div><div class="card" style="border-right-color:#7c3aed"><h3>${esc(f.title)}</h3>${f.opening ? `<p><b>${esc(f.opening)}</b></p>` : ''}<p>${esc(f.map)}</p>${f.hear ? `<p><b>מה תשמעי בשיחה:</b> ${esc(f.hear)}</p>` : ''}${src(f.source, f.warning)}${conceptBox(f.concept)}</div>`;
+      h += `<div class="sec">🧭 כדאי להכיר את המגרש</div><div class="card" style="--accent:var(--violet)"><h3>${esc(f.title)}</h3>${f.opening ? `<p><b>${esc(f.opening)}</b></p>` : ''}<p>${esc(f.map)}</p>${f.hear ? `<p><b>מה תשמעי בשיחה:</b> ${esc(f.hear)}</p>` : ''}${src(f.source, f.warning)}${conceptBox(f.concept)}</div>`;
     }
     $('daily').innerHTML = h;
-    if (x.think) $('thinkBtn').onclick = () => openChat('think', `${x.think.title ? x.think.title + '\n' : ''}${x.think.case}\nהשאלה: ${x.think.question}\nמקור: ${x.think.source?.name || ''} ${x.think.source?.url || ''}`, '🧠 ' + (x.think.title || 'חושבות יחד'));
-    document.querySelectorAll('[data-learn]').forEach((b) => b.onclick = () => openChat('learn', b.dataset.learn, '📖 ' + b.dataset.learn));
+    bindThink($('daily'));
+    bindLearn($('daily'));
   } catch (e) { $('daily').innerHTML = `<div class="empty">${esc(e.message)}</div>`; }
 }
+const thinkContext = (t) => `${t.title ? t.title + '\n' : ''}${t.case}\nהשאלה: ${t.question}\nמקור: ${t.source?.name || ''} ${t.source?.url || ''}`;
+const thinkCard = (t) => `<div class="card" style="--accent:var(--amber);background:linear-gradient(180deg,#fff,var(--amber-bg))"><h3>${esc(t.title || '')}</h3><p>${esc(t.case)}</p>${src(t.source, t.warning)}<div class="q">✍️ ${esc(t.question)}</div><div style="margin-top:12px"><button class="cta" data-thinkctx="${esc(thinkContext(t))}" data-thinktitle="${esc(t.title || 'חושבות יחד')}">🧠 בואי נחשוב על זה</button></div></div>`;
+const bindThink = (root) => root.querySelectorAll('[data-thinkctx]').forEach((b) => b.onclick = () => openChat('think', b.dataset.thinkctx, '🧠 ' + b.dataset.thinktitle));
 $('day').onchange = () => { history.replaceState(null, '', '?d=' + $('day').value); loadDaily($('day').value); };
+
+// ---------- Learn view ----------
+function renderLearnConcepts() {
+  const x = dailyData || {}; const list = [];
+  for (const it of [...(x.know || []), x.understand, x.field].filter(Boolean)) if (it.concept?.name) list.push(it.concept);
+  $('learnConcepts').innerHTML = list.length ? list.map((c) => conceptBox(c)).join('') : '<div class="notice">אין מושגים ב-Daily הזה. כתבי למעלה כל מושג שתרצי.</div>';
+  bindLearn($('learnConcepts'));
+}
 $('learnBtn').onclick = () => { const c = $('concept').value.trim(); if (c) { openChat('learn', c, '📖 ' + c); $('concept').value = ''; } };
 $('concept').onkeydown = (e) => { if (e.key === 'Enter') $('learnBtn').click(); };
 
-// ---------- Chat ----------
+// ---------- Think view ----------
+function renderThink() {
+  const x = dailyData || {};
+  $('thinkToday').innerHTML = x.think ? thinkCard(x.think) : '<div class="notice">אין מקרה ב-Daily הזה.</div>';
+  bindThink($('thinkToday'));
+  const cases = (todayData?.items || []).filter((i) => i.level === '🧠');
+  $('thinkLive').innerHTML = cases.length ? cases.map((i) => `<div class="card" style="--accent:var(--violet)"><h3>${esc(i.title)}</h3><p>${esc(i.what)}</p><div style="margin-top:8px"><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 בואי נחשוב</button></div></div>`).join('')
+    : '<div class="notice">עוד לא נקלטו היום מקרים נוספים.</div>';
+  bindThink($('thinkLive'));
+}
+
+// ---------- Live ----------
+const TOPICS = { all: 'הכול', israel: '🇮🇱 ישראל', world: '🌍 עולם ושווקים', industry: '🏭 הענפים שלנו', cfo: '🎓 מקרים ל-CFO' };
+let topicFilter = 'all';
+const topicOf = (i) => {
+  const t = (i.topic || '').toLowerCase().match(/israel|world|industry|cfo/);
+  if (t) return t[0];
+  if (i.level === '🧠') return 'cfo';
+  if (/ד\.מ|גלנט|אלגרונט|הקבוצה/.test(i.who || '')) return 'industry';
+  if (/[א-ת]/.test(i.source || '')) return 'israel';
+  return 'world';
+};
+let todayData = null;
+async function loadToday() { try { todayData = await api('/api/today'); renderToday(); renderThink(); } catch {} }
+function renderToday() {
+  const t = todayData; if (!t) return;
+  const b = $('liveBadge'); b.textContent = t.items.length; b.style.display = t.items.length ? '' : 'none';
+  const counts = { all: t.items.length }; t.items.forEach((i) => { const k = topicOf(i); counts[k] = (counts[k] || 0) + 1; });
+  const shown = t.items.filter((i) => topicFilter === 'all' || topicOf(i) === topicFilter);
+  const s = t.stats;
+  let h = s ? `<div class="stat">🔎 היום: ${s.runs} סריקות · ${s.newItems} פריטים חדשים · נבדקו ${s.judged} · עברו סינון ואימות <b>${t.items.length}</b> · עדכון אחרון ${esc(s.last)}</div>`
+            : '<div class="notice">עוד לא היו סריקות היום (הן רצות כשהמחשב ער, א׳–ה׳ 07:00–18:00).</div>';
+  if (t.items.length) h += `<div class="chips">` + Object.entries(TOPICS).map(([k, v]) => `<button class="${topicFilter === k ? 'on' : ''}" data-topic="${k}">${v} · ${counts[k] || 0}</button>`).join('') + `</div>`;
+  for (const i of shown) {
+    const gn = /news\.google\.com/.test(i.link);
+    const href = gn ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title + ' ' + i.source.replace(/\(.*$/, '')) : i.link;
+    h += `<div class="card" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${esc(i.level)} · ${esc(i.time)} · ${esc(TOPICS[topicOf(i)])}</div><h3>${esc(i.title)}</h3>
+      <p>${esc(i.what)}</p><p><b>למה מעניין:</b> ${esc(i.why)}</p>
+      <div class="src"><a href="${esc(href)}" target="_blank" rel="noopener">${esc(i.source.replace(/\(Google News.*$/, ''))} ↗</a></div>
+      <div style="margin-top:8px"><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 בואי נחשוב על זה</button></div></div>`;
+  }
+  if (s && !t.items.length) h += '<div class="empty">עוד לא נקלט היום משהו שעבר את הסינון והאימות.</div>';
+  $('today').innerHTML = h;
+  bindThink($('today'));
+  document.querySelectorAll('[data-topic]').forEach((b) => b.onclick = () => { topicFilter = b.dataset.topic; renderToday(); });
+}
+
+// ---------- Chat (local only) ----------
 let sid = null, busy = false;
 const add = (cls, text) => { const d = document.createElement('div'); d.className = 'm ' + cls; d.innerHTML = cls === 'ai' ? md(text) : esc(text); $('msgs').appendChild(d); $('msgs').scrollTop = 1e9; return d; };
 function setBusy(b) { busy = b; $('sendBtn').disabled = b; $('finishBtn').disabled = b; }
-function showPanel(title) {
-  $('msgs').innerHTML = ''; $('review').style.display = 'none'; $('msgs').style.display = ''; $('pfoot').style.display = '';
-  $('ctitle').textContent = title; $('chat').classList.add('open');
-}
+function showPanel(title) { $('msgs').innerHTML = ''; $('review').style.display = 'none'; $('msgs').style.display = ''; $('pfoot').style.display = ''; $('ctitle').textContent = title; $('chat').classList.add('open'); }
 async function openChat(mode, context, title) {
-  if (STATIC) { openInClaude(mode, context); return; }   // phone: continue in the Claude app
+  if (STATIC) { openInClaude(mode, context); return; }
   sid = null; showPanel(title);
   const w = add('sys', 'פותחת שיחה'); w.classList.add('dots'); setBusy(true);
   try {
@@ -214,8 +371,7 @@ async function openChat(mode, context, title) {
     if (r.existing) { for (const m of r.messages) add(m.role === 'me' ? 'me' : 'ai', m.text); add('sys', 'המשך השיחה מהמקום שבו עצרת.'); }
     else add('ai', r.reply);
     $('input').focus(); loadConvs();
-  }
-  catch (e) { w.classList.remove('dots'); w.textContent = '⚠️ ' + e.message; }
+  } catch (e) { w.classList.remove('dots'); w.textContent = '⚠️ ' + e.message; }
   setBusy(false);
 }
 async function openExisting(id) {
@@ -230,9 +386,11 @@ async function openExisting(id) {
 async function loadConvs() {
   try {
     const list = await api('/api/convs');
-    $('convs').innerHTML = list.length ? list.map((c) => `<div class="conv" data-id="${c.id}"><span>${c.mode === 'think' ? '🧠' : '📖'} ${esc(c.title)}</span>
-      <span><span class="chip ${c.status === 'saved' ? 'saved' : ''}">${c.status === 'saved' ? '✓ ביומן' : 'פתוחה'}</span> <small>${new Date(c.updated).toLocaleDateString('he-IL')} · ${c.turns} תשובות</small></span></div>`).join('')
-      : '<div class="notice">עוד אין שיחות. לחצי "בואי נחשוב על זה" או "📖 למדי" כדי להתחיל.</div>';
+    const row = (c) => `<div class="conv" data-id="${c.id}"><span>${c.mode === 'think' ? '🧠' : '📖'} ${esc(c.title)}</span><span><span class="pill ${c.status === 'saved' ? 'saved' : ''}">${c.status === 'saved' ? '✓ ביומן' : 'פתוחה'}</span> <small>${new Date(c.updated).toLocaleDateString('he-IL')} · ${c.turns} תשובות</small></span></div>`;
+    for (const [mode, el] of [['learn', 'learnConvs'], ['think', 'thinkConvs']]) {
+      const l = list.filter((c) => c.mode === mode);
+      $(el).innerHTML = l.length ? l.map(row).join('') : '<div class="notice">עוד אין שיחות. הן נשמרות כאן אוטומטית, ואפשר להמשיך אותן בכל זמן.</div>';
+    }
     document.querySelectorAll('.conv').forEach((el) => el.onclick = () => openExisting(el.dataset.id));
   } catch {}
 }
@@ -251,13 +409,12 @@ async function sendMsg() {
       bubble.innerHTML = md(full); $('msgs').scrollTop = 1e9;
     }
     if (!bubble) { w.remove(); add('ai', full || '⚠️ לא התקבלה תשובה'); }
-  }
-  catch (e) { w.classList.remove('dots'); w.textContent = '⚠️ ' + e.message; }
+  } catch (e) { w.classList.remove('dots'); w.textContent = '⚠️ ' + e.message; }
   setBusy(false); $('input').focus();
 }
 $('sendBtn').onclick = sendMsg;
 $('input').onkeydown = (e) => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendMsg(); } };
-$('closeBtn').onclick = () => { $('chat').classList.remove('open'); loadConvs(); };   // the conversation is saved automatically
+$('closeBtn').onclick = () => { $('chat').classList.remove('open'); loadConvs(); };
 $('finishBtn').onclick = async () => {
   if (!sid || busy) return;
   const w = add('sys', 'מכינה טיוטה ליומן'); w.classList.add('dots'); setBusy(true);
@@ -275,82 +432,25 @@ $('saveBtn').onclick = async () => {
   const entry = { topic: $('r-topic').value, learned: $('r-learned').value, changed: $('r-changed').value,
                   concept: $('r-concept').value, question: $('r-question').value, initial: $('r-initial').textContent, source: $('review').dataset.source };
   try { await api('/api/save', { id: sid, entry }); $('review').style.display = 'none'; $('msgs').style.display = ''; $('pfoot').style.display = '';
-        add('sys', '✅ נשמר ביומן ההתפתחות. השיחה נשארת ב"השיחות שלי", ואפשר להמשיך אותה בכל זמן.'); loadConvs(); }
+        add('sys', '✅ נשמר ביומן ההתפתחות. השיחה נשארת ברשימה, ואפשר להמשיך אותה בכל זמן.'); loadConvs(); }
   catch (e) { alert(e.message); }
 };
 
-// ---- tabs: Daily | נקלט היום ----
-function showTab(which) {
-  const today = which === 'today';
-  $('daily').style.display = today ? 'none' : '';
-  $('todayHead').style.display = today ? '' : 'none';
-  $('today').style.display = today ? '' : 'none';
-  $('tabDaily').className = today ? 'ghost' : '';
-  $('tabToday').className = today ? '' : 'ghost';
-  window.scrollTo(0, 0);
-}
-$('tabDaily').onclick = () => showTab('daily');
-$('tabToday').onclick = () => showTab('today');
-
-// ---- topic filter for "נקלט במהלך היום" ----
-const TOPICS = { all: 'הכול', israel: '🇮🇱 ישראל', world: '🌍 עולם ושווקים', industry: '🏭 הענפים שלנו', cfo: '🎓 מקרים ל-CFO' };
-let topicFilter = 'all';
-const topicOf = (i) => {
-  const t = (i.topic || '').toLowerCase().match(/israel|world|industry|cfo/);
-  if (t) return t[0];
-  if (i.level === '🧠') return 'cfo';
-  if (/ד\.מ|גלנט|אלגרונט|הקבוצה/.test(i.who || '')) return 'industry';
-  if (/גלובס|כלכליסט|ynet|TheMarker|ביזפורטל|Times of Israel|בנק ישראל/i.test(i.source || '') || /[א-ת]/.test(i.source || '')) return 'israel';
-  return 'world';
-};
-let todayData = null;
-async function loadToday() {
-  try {
-    todayData = await api('/api/today');
-    renderToday();
-  } catch {}
-}
-function renderToday() {
-  {
-    const t = todayData; if (!t) return;
-    $('tabToday').textContent = `📡 נקלט היום (${t.items.length})`;
-    const counts = { all: t.items.length }; t.items.forEach((i) => { const k = topicOf(i); counts[k] = (counts[k] || 0) + 1; });
-    const chips = `<div style="display:flex;gap:6px;flex-wrap:wrap;margin:8px 0">` + Object.entries(TOPICS).map(([k, v]) =>
-      `<button class="small ${topicFilter === k ? '' : 'ghost'}" data-topic="${k}">${v} (${counts[k] || 0})</button>`).join('') + `</div>`;
-    const shown = t.items.filter((i) => topicFilter === 'all' || topicOf(i) === topicFilter);
-    const s = t.stats;
-    let h = s ? `<div class="notice">🔎 היום: ${s.runs} סריקות של ${s.feeds} פידים · ${s.newItems} פריטים חדשים · ${s.judged} נבדקו ע״י Claude → 🔴 ${s.red} · 🟡 ${s.yellow} · 🧠 ${s.learn} · ⚪ ${s.noise} רעש · ${s.live} Live נשלחו${Number(s.waiting) ? ` · ${s.waiting} ממתינים לבדיקה` : ''} · עדכון אחרון ${s.last}</div>`
-                : '<div class="notice">עוד לא היו סריקות היום (הן רצות כשהמחשב ער, א׳–ה׳ 07:00–18:00).</div>';
-    if (t.items.length) h += chips;
-    for (const i of shown) {
-      const gn = /news\.google\.com/.test(i.link);
-      const href = gn ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title + ' ' + i.source.replace(/\(.*$/, '')) : i.link;
-      h += `<div class="card" style="border-right-color:${i.level === '🧠' ? '#7c3aed' : '#d97706'}"><h3>${esc(i.level)} ${esc(i.title)} <small style="color:var(--muted);font-weight:normal">${esc(i.time)}</small></h3>
-        <p>${esc(i.what)}</p><p><b>למה מעניין:</b> ${esc(i.why)}</p>
-        <div class="src"><a href="${esc(href)}" target="_blank" rel="noopener">${gn ? '🔍 חיפוש הכתבה' : 'מקור'}: ${esc(i.source.replace(/\(Google News.*$/, ''))}</a></div>
-        <div style="margin-top:6px"><button class="small ghost" data-think="${esc(i.title + '\n' + i.what)}">🧠 בואי נחשוב על זה</button></div></div>`;
-    }
-    if (s && !t.items.length) h += '<div class="notice">לא נקלט היום משהו ששווה את תשומת הלב שלך (הכול סווג כרעש).</div>';
-    $('today').innerHTML = h;
-    document.querySelectorAll('[data-think]').forEach((b) => b.onclick = () => openChat('think', b.dataset.think, '🧠 ' + b.dataset.think.split('\n')[0]));
-    document.querySelectorAll('[data-topic]').forEach((b) => b.onclick = () => { topicFilter = b.dataset.topic; renderToday(); });
-  }
-}
-if (STATIC) {   // phone copy: no local conversation history; Think/Learn open in the Claude app
-  document.querySelector('.notice').textContent = 'גרסת הטלפון. "בואי נחשוב" ו"למדי" נפתחים באפליקציית Claude, והשיחה נשמרת שם. בסוף השיחה העתיקי את בלוק היומן.';
-  const conv = document.getElementById('convs'); conv.previousElementSibling.style.display = 'none'; conv.style.display = 'none';
-  // one-time per-device switch: open conversations in Eden's own Project
-  const sw = document.createElement('div'); sw.className = 'notice'; sw.style.marginTop = '24px';
+// ---------- phone (static) mode ----------
+if (STATIC) {
+  document.querySelectorAll('.convHead').forEach((e) => e.style.display = 'none');
+  ['learnConvs', 'thinkConvs'].forEach((id) => $(id).style.display = 'none');
+  const sw = document.createElement('div'); sw.className = 'notice'; sw.style.textAlign = 'center';
   const paint = () => { sw.innerHTML = useProject()
-    ? '✅ במכשיר הזה השיחות נפתחות בפרויקט "רדאר עדן" שלך. <a href="#" id="pj">ביטול</a>'
-    : '⚙️ זה המכשיר שלך? <a href="#" id="pj">פתחי את השיחות בפרויקט "רדאר עדן" שלי</a>';
+    ? '✅ במכשיר הזה Learn ו-Think נפתחים בפרויקט שלך ב-Claude. <a href="#" id="pj">ביטול</a>'
+    : '⚙️ זה המכשיר שלך? <a href="#" id="pj">פתחי את השיחות בפרויקט שלי ב-Claude</a>';
     sw.querySelector('#pj').onclick = (e) => { e.preventDefault(); try { localStorage.setItem('radarUseProject', useProject() ? '0' : '1'); } catch {} paint(); }; };
-  paint(); document.querySelector('.wrap').appendChild(sw);
-}
-if (STATIC && 'serviceWorker' in navigator) {
-  navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then((r) => r.update()).catch(() => {});
-  let reloaded = false;   // a new version was installed → reload once so it shows immediately
-  navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloaded) { reloaded = true; location.reload(); } });
+  paint(); $('foot').after(sw);
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then((r) => r.update()).catch(() => {});
+    let reloaded = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloaded) { reloaded = true; location.reload(); } });
+  }
 }
 loadDays();
 loadConvs();
