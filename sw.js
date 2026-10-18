@@ -1,5 +1,5 @@
 // Radar Eden – service worker: fast open + works offline with the last loaded data
-const CACHE = 'finpulse-v1';
+const CACHE = 'finpulse-v2';
 const SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => { e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL))); self.skipWaiting(); });

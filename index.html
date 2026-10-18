@@ -147,7 +147,7 @@
 
 <main class="wrap">
   <!-- DAILY -->
-  <section class="view on" id="v-daily"><div id="daily"><div class="empty">טוען…</div></div></section>
+  <section class="view on" id="v-daily"><div id="kpi"></div><div id="daily"><div class="empty">טוען…</div></div></section>
 
   <!-- LIVE -->
   <section class="view" id="v-live">
@@ -229,6 +229,7 @@ const staticPath = (path) => {
   if (path === '/api/days') return 'data/days.json';
   if (path.startsWith('/api/daily?d=')) return 'data/daily-' + path.split('=')[1] + '.json';
   if (path === '/api/today') return 'data/today.json';
+  if (path === '/api/numbers') return 'data/numbers.json';
   return null;
 };
 const api = async (path, body) => {
@@ -262,12 +263,17 @@ async function loadDays() {
   if (want && days.includes(want)) $('day').value = want;
   if (days.length) loadDaily($('day').value); else $('daily').innerHTML = '<div class="empty">אין עדיין Daily. הוא ייווצר בסריקה הבאה של הבוקר.</div>';
 }
-function numbersCard(nums) {
-  if (!nums?.length) return '';
-  return `<div class="sec">📊 המספרים של היום</div><div class="numbers">` + nums.map((n) => {
-    const dir = /^[+▲↑]/.test(n.change || '') ? 'up' : /^[-−▼↓]/.test(n.change || '') ? 'down' : 'flat';
-    return `<div class="num"><div class="l">${esc(n.label)}</div><div class="v">${esc(n.value)}</div>${n.change ? `<div class="c ${dir}">${esc(n.change)}</div>` : ''}${n.note ? `<div class="n">${esc(n.note)}</div>` : ''}</div>`;
-  }).join('') + `</div>`;
+async function loadNumbers() {
+  try {
+    const x = await api('/api/numbers'); if (!x.numbers?.length) return;
+    let h = `<div class="sec" style="margin-top:2px">📊 המספרים של היום</div><div class="numbers">` + x.numbers.map((n) => {
+      const dir = /^\+/.test(n.change || '') ? 'up' : /^[-−]/.test(n.change || '') ? 'down' : 'flat';
+      const arrow = dir === 'up' ? '▲' : dir === 'down' ? '▼' : '';
+      return `<a class="num" href="${esc(n.source || '#')}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none"><div class="l">${esc(n.label)}</div><div class="v">${esc(n.value)}</div>${n.change ? `<div class="c ${dir}">${arrow} ${esc(n.change.replace(/^[+-]/, ''))}</div>` : ''}${n.note ? `<div class="n">${esc(n.note)}</div>` : ''}</a>`;
+    }).join('') + `</div>`;
+    if (x.events?.length) h += `<div class="sec">🗓️ אירועים קרובים</div><div class="stat">${x.events.map((e) => `<b>${esc(e.date)}</b> ${esc(e.what)}`).join(' &nbsp;·&nbsp; ')}</div>`;
+    $('kpi').innerHTML = h;
+  } catch {}
 }
 async function loadDaily(d) {
   try {
@@ -275,8 +281,6 @@ async function loadDaily(d) {
     renderLearnConcepts(); renderThink();
     if (x.empty) { $('daily').innerHTML = `<div class="empty">${esc(x.headline || 'אין היום משהו ששווה את תשומת הלב שלך.')}</div>`; return; }
     let h = x.headline ? `<div class="headline">${esc(x.headline)}</div>` : '';
-    h += numbersCard(x.numbers);
-    if (x.events?.length) h += `<div class="stat" style="margin-top:8px">🗓️ ${x.events.map((e) => `<b>${esc(e.date)}</b> ${esc(e.what)}`).join(' · ')}</div>`;
     if (x.know?.length) {
       h += `<div class="sec">🌍 כדאי לדעת</div>`;
       for (const k of x.know) h += `<div class="card" style="--accent:var(--blue)"><h3>${esc(k.title)}</h3><p><b>מה קרה:</b> ${esc(k.what)}</p><p><b>למה זה מעניין:</b> ${esc(k.why)}</p>${src(k.source, k.warning)}${conceptBox(k.concept)}</div>`;
@@ -452,6 +456,7 @@ if (STATIC) {
     navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloaded) { reloaded = true; location.reload(); } });
   }
 }
+loadNumbers();
 loadDays();
 loadConvs();
 loadToday();
