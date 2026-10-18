@@ -275,13 +275,36 @@ $('saveBtn').onclick = async () => {
   catch (e) { alert(e.message); }
 };
 
+// ---- topic filter for "נקלט במהלך היום" ----
+const TOPICS = { all: 'הכול', israel: '🇮🇱 ישראל', world: '🌍 עולם ושווקים', industry: '🏭 הענפים שלנו', cfo: '🎓 מקרים ל-CFO' };
+let topicFilter = 'all';
+const topicOf = (i) => {
+  const t = (i.topic || '').toLowerCase().match(/israel|world|industry|cfo/);
+  if (t) return t[0];
+  if (i.level === '🧠') return 'cfo';
+  if (/ד\.מ|גלנט|אלגרונט|הקבוצה/.test(i.who || '')) return 'industry';
+  if (/גלובס|כלכליסט|ynet|TheMarker|ביזפורטל|Times of Israel|בנק ישראל/i.test(i.source || '') || /[א-ת]/.test(i.source || '')) return 'israel';
+  return 'world';
+};
+let todayData = null;
 async function loadToday() {
   try {
-    const t = await api('/api/today');
+    todayData = await api('/api/today');
+    renderToday();
+  } catch {}
+}
+function renderToday() {
+  {
+    const t = todayData; if (!t) return;
+    const counts = { all: t.items.length }; t.items.forEach((i) => { const k = topicOf(i); counts[k] = (counts[k] || 0) + 1; });
+    const chips = `<div style="display:flex;gap:6px;flex-wrap:wrap;margin:8px 0">` + Object.entries(TOPICS).map(([k, v]) =>
+      `<button class="small ${topicFilter === k ? '' : 'ghost'}" data-topic="${k}">${v} (${counts[k] || 0})</button>`).join('') + `</div>`;
+    const shown = t.items.filter((i) => topicFilter === 'all' || topicOf(i) === topicFilter);
     const s = t.stats;
     let h = s ? `<div class="notice">🔎 היום: ${s.runs} סריקות של ${s.feeds} פידים · ${s.newItems} פריטים חדשים · ${s.judged} נבדקו ע״י Claude → 🔴 ${s.red} · 🟡 ${s.yellow} · 🧠 ${s.learn} · ⚪ ${s.noise} רעש · ${s.live} Live נשלחו${Number(s.waiting) ? ` · ${s.waiting} ממתינים לבדיקה` : ''} · עדכון אחרון ${s.last}</div>`
                 : '<div class="notice">עוד לא היו סריקות היום (הן רצות כשהמחשב ער, א׳–ה׳ 07:00–18:00).</div>';
-    for (const i of t.items) {
+    if (t.items.length) h += chips;
+    for (const i of shown) {
       const gn = /news\.google\.com/.test(i.link);
       const href = gn ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title + ' ' + i.source.replace(/\(.*$/, '')) : i.link;
       h += `<div class="card" style="border-right-color:${i.level === '🧠' ? '#7c3aed' : '#d97706'}"><h3>${esc(i.level)} ${esc(i.title)} <small style="color:var(--muted);font-weight:normal">${esc(i.time)}</small></h3>
@@ -292,7 +315,8 @@ async function loadToday() {
     if (s && !t.items.length) h += '<div class="notice">לא נקלט היום משהו ששווה את תשומת הלב שלך (הכול סווג כרעש).</div>';
     $('today').innerHTML = h;
     document.querySelectorAll('[data-think]').forEach((b) => b.onclick = () => openChat('think', b.dataset.think, '🧠 ' + b.dataset.think.split('\n')[0]));
-  } catch {}
+    document.querySelectorAll('[data-topic]').forEach((b) => b.onclick = () => { topicFilter = b.dataset.topic; renderToday(); });
+  }
 }
 if (STATIC) {   // phone copy: no local conversation history; Think/Learn open in the Claude app
   document.querySelector('.notice').textContent = 'גרסת הטלפון. "בואי נחשוב" ו"למדי" נפתחים באפליקציית Claude, והשיחה נשמרת שם. בסוף השיחה העתיקי את בלוק היומן.';
