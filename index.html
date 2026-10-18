@@ -120,6 +120,17 @@
   #review .ro { background:#f1f5f9; padding:8px 10px; border-radius:10px; white-space:pre-wrap; }
   .dots::after { content:'…'; animation: d 1s steps(3) infinite; }
   @keyframes d { 0%{content:'.'} 33%{content:'..'} 66%{content:'...'} }
+  /* collapsible groups */
+  .grp { background:var(--card); border-radius:16px; box-shadow:var(--shadow); margin:10px 0; overflow:hidden; border:1px solid rgba(226,232,240,.7); }
+  .grp > summary { list-style:none; cursor:pointer; padding:14px 16px; display:flex; justify-content:space-between; align-items:center; gap:10px; font-weight:800; font-size:16px; }
+  .grp > summary::-webkit-details-marker { display:none; }
+  .grp > summary::after { content:'⌄'; font-size:20px; color:var(--muted); transition:transform .2s; }
+  .grp[open] > summary::after { transform:rotate(180deg); }
+  .grp > summary span:first-child { flex:1; }
+  .gmeta { font-size:12px; font-weight:500; color:var(--muted); }
+  .gcount { background:var(--ink); color:#fff; border-radius:999px; font-size:12px; padding:1px 9px; font-weight:700; }
+  .gbody { padding:0 12px 10px; border-top:1px solid var(--line); background:#fafbfd; }
+  .gbody .card { box-shadow:none; border:1px solid var(--line); }
   .foot { text-align:center; font-size:12px; color:var(--muted); margin-top:30px; }
 </style>
 </head>
@@ -146,9 +157,12 @@
 
 <main class="wrap">
   <!-- DAILY -->
-  <section class="view on" id="v-daily"><div id="kpi"></div><div id="daily"><div class="empty">טוען…</div></div>
-    <div class="sec" style="margin-top:30px">📰 כל החדשות של היום</div>
-    <div class="notice">כל מה שחשוב לעסקים ולכספים, מאומת מול הכתבה המקורית ומסוכם כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות.</div>
+  <section class="view on" id="v-daily">
+    <div class="ask"><input id="newsQ" placeholder="🔍 חיפוש בחדשות (למשל: ריבית, מטא, מכרז)"></div>
+    <div id="kpi"></div>
+    <details class="grp" id="briefGrp" open><summary><span>☀️ תדריך הבוקר</span><span class="gmeta">נבחרים · מוסברים לעומק</span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
+    <div class="sec" style="margin-top:24px">📰 החדשות לפי נושא</div>
+    <div class="notice">מאומת מול הכתבה המקורית ומסוכם כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות. לחצי על נושא כדי לפתוח.</div>
     <div id="today"></div>
   </section>
 
@@ -335,10 +349,11 @@ const topicOf = (i) => {
 };
 let todayData = null;
 async function loadToday() { try { todayData = await api('/api/today'); renderToday(); renderThink(); } catch {} }
-// sub-categories (like sections of a business newspaper)
-const CATS = { macro: '📈 מאקרו וריבית', budget: '🏛️ תקציב ומיסוי', capital: '💹 שוק ההון', banks: '🏦 בנקים ואשראי', deals: '🤝 עסקאות ומיזוגים',
-  tech: '💻 הייטק ו-AI', cyber: '🛡️ סייבר', infra: '⚡ תשתיות ואנרגיה', defense: '🎖️ ביטחון ורכש', labor: '👷 עבודה ושכר',
-  realestate: '🏗️ נדל״ן', global: '🌍 כלכלה עולמית', cfo: '🎓 מקרי CFO', other: '📌 כללי' };
+// sub-categories, ordered as a CFO/CEO of an engineering & infrastructure group would read:
+// cost of money & the state first, then financing and markets, then our arenas, then the wider world
+const CATS = { macro: '📈 מאקרו וריבית', budget: '🏛️ תקציב ומיסוי', banks: '🏦 בנקים ואשראי', capital: '💹 שוק ההון', deals: '🤝 עסקאות ומיזוגים',
+  infra: '⚡ תשתיות ואנרגיה', defense: '🎖️ ביטחון ורכש', labor: '👷 עבודה ושכר', global: '🌍 כלכלה עולמית',
+  tech: '💻 הייטק ו-AI', cyber: '🛡️ סייבר', realestate: '🏗️ נדל״ן', cfo: '🎓 מקרי CFO', other: '📌 כללי' };
 const catOf = (i) => CATS[(i.category || '').toLowerCase()] ? i.category.toLowerCase() : (i.level === '🧠' ? 'cfo' : topicOf(i) === 'world' ? 'global' : 'other');
 let catFilter = 'all', query = '';
 function renderToday() {
@@ -347,17 +362,30 @@ function renderToday() {
   const matchQ = (i) => !q || (i.title + ' ' + i.what + ' ' + i.why + ' ' + i.source).toLowerCase().includes(q);
   const pool = t.items.filter(matchQ);
   const counts = {}; pool.forEach((i) => { const k = catOf(i); counts[k] = (counts[k] || 0) + 1; });
-  const shown = pool.filter((i) => catFilter === 'all' || catOf(i) === catFilter);
   const s = t.stats;
   let h = s ? `<div class="stat">🔎 היום: ${s.runs} סריקות · ${s.newItems} פריטים חדשים · נבדקו ${s.judged} · עברו סינון ואימות <b>${t.items.length}</b> · עדכון אחרון ${esc(s.last)}</div>`
             : '<div class="notice">עוד לא היו סריקות היום (הן רצות כשהמחשב ער, א׳–ה׳ 07:00–18:00).</div>';
-  if (t.items.length) {
-    h += `<div class="ask" style="margin-top:10px"><input id="newsQ" placeholder="🔍 חיפוש בחדשות (למשל: ריבית, מטא, מכרז)" value="${esc(query)}"></div>`;
-    h += `<div class="chips"><button class="${catFilter === 'all' ? 'on' : ''}" data-cat="all">הכול · ${pool.length}</button>` +
-      Object.keys(CATS).filter((k) => counts[k]).sort((a, b) => counts[b] - counts[a]).map((k) => `<button class="${catFilter === k ? 'on' : ''}" data-cat="${k}">${CATS[k]} · ${counts[k]}</button>`).join('') + `</div>`;
+  if (q && !pool.length) h += '<div class="empty">לא נמצאו חדשות שמתאימות לחיפוש.</div>';
+  if (s && !t.items.length) h += '<div class="empty">עוד לא נקלט היום משהו שעבר את הסינון והאימות.</div>';
+  // one collapsible group per category, in CFO/CEO priority order (CATS order); a search opens all matching groups
+  const groups = Object.keys(CATS).filter((k) => counts[k]);
+  for (const k of groups) {
+    const items = pool.filter((i) => catOf(i) === k);
+    const latest = items.map((i) => i.time).sort().at(-1) || '';
+    const open = q || openCats.has(k);
+    h += `<details class="grp" data-grp="${k}" ${open ? 'open' : ''}><summary><span>${CATS[k]}</span><span class="gmeta">עודכן ${esc(latest)}</span><span class="gcount">${items.length}</span></summary><div class="gbody">`;
+    for (const i of items) h += newsCard(i);
+    h += `</div></details>`;
   }
-  if (q && !shown.length) h += '<div class="empty">לא נמצאו חדשות שמתאימות לחיפוש.</div>';
-  for (const i of shown) {
+  $('today').innerHTML = h;
+  bindThink($('today'));
+  document.querySelectorAll('#today details.grp').forEach((d) => d.ontoggle = () => { if (!q) d.open ? openCats.add(d.dataset.grp) : openCats.delete(d.dataset.grp); });
+}
+const openCats = new Set();
+$('newsQ').oninput = () => { query = $('newsQ').value; renderToday(); $('briefGrp').open = !query.trim(); };
+function newsCard(i) {
+  let h = '';
+  {
     const gn = /news\.google\.com/.test(i.link);
     const href = gn ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title + ' ' + i.source.replace(/\(.*$/, '')) : i.link;
     h += `<div class="card" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${esc(CATS[catOf(i)])} · ${esc(i.time)}${i.level === '🧠' ? ' · 🧠 מקרה ללמידה' : ''}</div><h3>${esc(i.title)}</h3>
@@ -365,12 +393,7 @@ function renderToday() {
       <div class="src"><a href="${esc(href)}" target="_blank" rel="noopener">${esc(i.source.replace(/\(Google News.*$/, ''))} ↗</a></div>
       <div style="margin-top:8px"><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 בואי נחשוב על זה</button></div></div>`;
   }
-  if (s && !t.items.length) h += '<div class="empty">עוד לא נקלט היום משהו שעבר את הסינון והאימות.</div>';
-  $('today').innerHTML = h;
-  bindThink($('today'));
-  document.querySelectorAll('[data-cat]').forEach((b) => b.onclick = () => { catFilter = b.dataset.cat; renderToday(); });
-  const qi = $('newsQ');
-  if (qi) qi.oninput = () => { query = qi.value; const pos = qi.selectionStart; renderToday(); const n = $('newsQ'); n.focus(); n.setSelectionRange(pos, pos); };
+  return h;
 }
 
 // ---------- Chat (local only) ----------
