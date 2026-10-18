@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>רדאר עדן</title>
+<style>
+  :root { --bg:#f4f5f7; --card:#fff; --ink:#1f2933; --muted:#6b7280; --line:#e5e7eb;
+          --blue:#2563eb; --blue-bg:#eff6ff; --green:#059669; --green-bg:#ecfdf5; --amber:#d97706; --amber-bg:#fffbeb; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font-family:Arial,"Segoe UI",sans-serif; font-size:15px; line-height:1.6; }
+  .wrap { max-width:760px; margin:0 auto; padding:18px 16px 60px; }
+  header { display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap; }
+  h1 { font-size:22px; margin:0; }
+  select, input, textarea, button { font:inherit; }
+  select { padding:4px 8px; border:1px solid var(--line); border-radius:8px; background:#fff; }
+  .notice { font-size:12px; color:var(--muted); margin:6px 0 14px; }
+  .learnbar { display:flex; gap:8px; margin-bottom:16px; }
+  .learnbar input { flex:1; padding:8px 12px; border:1px solid var(--line); border-radius:10px; }
+  button { cursor:pointer; border:0; border-radius:10px; padding:8px 14px; background:var(--blue); color:#fff; font-weight:bold; }
+  button.ghost { background:#fff; color:var(--blue); border:1px solid var(--blue); }
+  button.small { padding:3px 10px; font-size:13px; }
+  button:disabled { opacity:.5; cursor:default; }
+  .headline { font-size:18px; font-weight:bold; margin:4px 0 12px; }
+  .sec { font-size:13px; font-weight:bold; margin:18px 0 6px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin:8px 0; border-right:4px solid var(--blue); }
+  .card.u { border-right-color:var(--green); } .card.t { border-right-color:var(--amber); background:var(--amber-bg); }
+  .card h3 { margin:0 0 6px; font-size:16px; }
+  .card p { margin:3px 0; }
+  .src { font-size:13px; } .src a { color:var(--blue); }
+  .concept { background:var(--blue-bg); border-radius:8px; padding:4px 8px; margin-top:6px; font-size:14px; display:flex; justify-content:space-between; align-items:center; gap:8px; }
+  .q { font-weight:bold; color:#92400e; margin-top:8px; }
+  .empty { color:var(--muted); text-align:center; padding:40px 0; }
+  /* chat */
+  #chat { position:fixed; inset:0; background:rgba(15,23,42,.35); display:none; align-items:center; justify-content:center; padding:12px; }
+  #chat.open { display:flex; }
+  .panel { background:#fff; width:100%; max-width:720px; height:min(92vh,820px); border-radius:14px; display:flex; flex-direction:column; overflow:hidden; }
+  .phead { padding:10px 14px; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; gap:8px; }
+  .phead b { font-size:15px; }
+  #msgs { flex:1; overflow:auto; padding:14px; background:#fafafa; }
+  .m { max-width:85%; padding:8px 12px; border-radius:12px; margin:6px 0; white-space:pre-wrap; }
+  .m.ai { background:#f1f5f9; border:1px solid var(--line); }
+  .m.me { background:#dbeafe; margin-right:auto; }
+  .m.sys { background:none; color:var(--muted); font-size:13px; text-align:center; max-width:100%; }
+  .pfoot { border-top:1px solid var(--line); padding:10px; display:flex; gap:8px; align-items:flex-end; }
+  .pfoot textarea { flex:1; min-height:44px; max-height:160px; padding:8px 10px; border:1px solid var(--line); border-radius:10px; resize:vertical; }
+  #review { padding:14px; overflow:auto; display:none; }
+  #review label { display:block; font-size:13px; color:var(--muted); margin-top:10px; }
+  #review textarea, #review input { width:100%; padding:6px 8px; border:1px solid var(--line); border-radius:8px; }
+  #review .ro { background:#f3f4f6; padding:8px; border-radius:8px; white-space:pre-wrap; }
+  .conv { display:flex; justify-content:space-between; align-items:center; gap:8px; background:#fff; border:1px solid var(--line); border-radius:10px; padding:8px 12px; margin:6px 0; cursor:pointer; }
+  .conv:hover { border-color:var(--blue); }
+  .conv small { color:var(--muted); white-space:nowrap; }
+  .chip { font-size:12px; border-radius:999px; padding:1px 8px; background:#f3f4f6; white-space:nowrap; }
+  .chip.saved { background:var(--green-bg); color:var(--green); }
+  .dots::after { content:'…'; animation: d 1s steps(3) infinite; }
+  @keyframes d { 0%{content:'.'} 33%{content:'..'} 66%{content:'...'} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>📡 רדאר עדן</h1>
+    <select id="day" title="תאריך"></select>
+  </header>
+  <div class="notice">רדאר ציבורי בלבד. אל תזיני כאן מידע פנימי של החברה. את החיבור לחברה את עושה בסביבה המאושרת.</div>
+
+  <div class="learnbar">
+    <input id="concept" placeholder="📖 מושג שאני רוצה להבין (למשל Working Capital)">
+    <button class="ghost" id="learnBtn">למדי אותי</button>
+  </div>
+
+  <div id="daily"><div class="empty">טוען…</div></div>
+
+  <div class="sec" style="color:#b45309; margin-top:28px;">📡 נקלט במהלך היום <span style="font-weight:normal;color:var(--muted)">(מתעדכן אוטומטית. עדיין לא מאומת: הטובים ייבחרו ויאומתו ב-Daily של מחר)</span></div>
+  <div id="today"></div>
+
+  <div class="sec" style="color:#374151; margin-top:28px;">📚 השיחות שלי <span style="font-weight:normal;color:var(--muted)">(נשמרות אוטומטית. אפשר לקרוא שוב ולהמשיך)</span></div>
+  <div id="convs"></div>
+</div>
+
+<!-- chat overlay -->
+<div id="chat">
+  <div class="panel">
+    <div class="phead"><b id="ctitle"></b>
+      <span><button class="small ghost" id="finishBtn">סיימתי ✓</button> <button class="small ghost" id="closeBtn">✕</button></span></div>
+    <div id="msgs"></div>
+    <div id="review">
+      <b>📓 שמירה ביומן ההתפתחות</b>
+      <label>מה חשבתי בהתחלה (נשמר מילה במילה)</label><div class="ro" id="r-initial"></div>
+      <label>נושא</label><input id="r-topic">
+      <label>מה למדתי</label><textarea id="r-learned" rows="3"></textarea>
+      <label>שיניתי עמדה?</label><input id="r-changed">
+      <label>מושג חדש</label><input id="r-concept">
+      <label>שאלה טובה שעלתה</label><input id="r-question">
+      <div style="margin-top:14px; display:flex; gap:8px;"><button id="saveBtn">שמרי ביומן</button><button class="ghost" id="backBtn">חזרה לשיחה</button></div>
+    </div>
+    <div class="pfoot" id="pfoot">
+      <textarea id="input" placeholder="כתבי מה את חושבת… (Enter לשליחה, Shift+Enter לשורה חדשה)"></textarea>
+      <button id="sendBtn">שלחי</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[c]));
+const md = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+// ---- mobile/static mode (GitHub Pages copy): read published JSON, open Think/Learn in the Claude app ----
+const STATIC = !/^(localhost|127\.0\.0\.1)$/.test(location.hostname);
+const COACH = {
+  think: 'את מאמנת החשיבה העסקית שלי (אשת כספים שמתפתחת לחשיבת CFO). כלל: אל תתני מסקנות לפני שאני חושבת. שאלי שאלה אחת בכל הודעה וחכי לתשובה, לפי הסדר: 1) מה לדעתך המשמעות? 2) דרך איזה מנגנון זה קורה? 3) מה יכול לגרום להשערה שלך להיות שגויה? 4) איזה מידע היית רוצה לראות? 5) מה היית אומרת על זה ל-CFO או למנכ״ל? רק אחרי שעניתי על 5: מה חזק אצלי, מה חסר, זווית שלא עלתה, ומושג להעמיק בו. בסוף כתבי בלוק "📓 לרישום ביומן" (מה חשבתי בהתחלה במילים שלי, מה למדתי, האם שיניתי עמדה, מושג חדש, שאלה טובה). מידע ציבורי בלבד, בעברית וקצר. המקרה:\n\n',
+  learn: 'את מורה לפיננסים ועסקים שלי (אשת כספים שמתפתחת לחשיבת CFO). לא הגדרת ויקיפדיה. קודם שאלי מה אני כבר יודעת על המושג וחכי. אחר כך, קצר: מה זה, למה זה קיים, איך זה עובד, איפה פוגשים את זה בחברת פרויקטים ושירותים (ושאלי איפה זה אצלנו), למה CFO מתעניינת, דוגמה מספרית בדויה קטנה, ושאלת יישום אחת שבודקת הבנה. בסוף כתבי בלוק "📓 לרישום ביומן". בעברית, שאלה אחת בכל פעם. המושג: ',
+};
+const claudeLink = (mode, context) => 'https://claude.ai/new?q=' + encodeURIComponent(COACH[mode] + context);
+const staticPath = (path) => {
+  if (path === '/api/days') return 'data/days.json';
+  if (path.startsWith('/api/daily?d=')) return 'data/daily-' + path.split('=')[1] + '.json';
+  if (path === '/api/today') return 'data/today.json';
+  return null;
+};
+const api = async (path, body) => {
+  if (STATIC) {
+    if (path === '/api/convs') return [];
+    const p = staticPath(path); if (!p) throw new Error('לא זמין בגרסת הטלפון');
+    const r = await fetch(p + '?t=' + Date.now()); if (!r.ok) throw new Error('אין עדיין נתונים'); return r.json();
+  }
+  const r = await fetch(path, body ? { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(body) } : {});
+  const j = await r.json(); if (!r.ok) throw new Error(j.error || 'שגיאה'); return j;
+};
+const src = (s, w) => (s && s.url ? `<div class="src">מקור: <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name || 'קישור')}</a></div>` : '') +
+  (w ? `<div class="src" style="color:#b45309;margin-top:4px;">⚠️ ${esc(w)}</div>` : '');
+const conceptBox = (c) => c && c.name ? `<div class="concept"><span>💡 <b>${esc(c.name)}</b>: ${esc(c.explain)}</span><button class="small ghost" data-learn="${esc(c.name)}">📖 למדי</button></div>` : '';
+
+// ---------- Daily ----------
+async function loadDays() {
+  let days;
+  try { days = await api('/api/days'); }
+  catch { $('daily').innerHTML = '<div class="empty">השרת של הרדאר עולה מחדש… מנסה שוב אוטומטית.</div>'; setTimeout(loadDays, 10000); return; }
+  const want = new URLSearchParams(location.search).get('d');
+  $('day').innerHTML = days.map((d) => `<option value="${d}">${d.split('-').reverse().join('.')}</option>`).join('');
+  if (want && days.includes(want)) $('day').value = want;
+  if (days.length) loadDaily($('day').value); else $('daily').innerHTML = '<div class="empty">אין עדיין Daily. הוא ייווצר בסריקה הבאה ב-07:30.</div>';
+}
+async function loadDaily(d) {
+  try {
+    const x = await api('/api/daily?d=' + d);
+    if (x.empty) { $('daily').innerHTML = `<div class="empty">${esc(x.headline || 'אין היום משהו ששווה את תשומת הלב שלך.')}</div>`; return; }
+    let h = x.headline ? `<div class="headline">${esc(x.headline)}</div>` : '';
+    if (x.know?.length) {
+      h += `<div class="sec" style="color:#1e40af">🌍 כדאי לדעת</div>`;
+      for (const k of x.know) h += `<div class="card"><h3>${esc(k.title)}</h3><p><b>מה קרה:</b> ${esc(k.what)}</p><p><b>למה זה מעניין:</b> ${esc(k.why)}</p>${src(k.source, k.warning)}${conceptBox(k.concept)}</div>`;
+    }
+    if (x.understand) {
+      const u = x.understand;
+      h += `<div class="sec" style="color:#065f46">🧠 כדאי להבין</div><div class="card u"><h3>${esc(u.title)}</h3><p><b>מה קרה:</b> ${esc(u.what)}</p><p><b>המנגנון:</b> ${esc(u.mechanism)}</p><p><b>מי מושפע:</b> ${esc(u.who)}</p><p><b>מה כדאי להבין כדי לעקוב:</b> ${esc(u.follow)}</p>${src(u.source, u.warning)}${conceptBox(u.concept)}</div>`;
+    }
+    if (x.think) {
+      const t = x.think;
+      h += `<div class="sec" style="color:#92400e">🎯 כדאי לחשוב</div><div class="card t"><h3>${esc(t.title || '')}</h3><p>${esc(t.case)}</p>${src(t.source, t.warning)}<div class="q">✍️ ${esc(t.question)}</div><div style="margin-top:10px"><button id="thinkBtn">🧠 בואי נחשוב על זה</button></div></div>`;
+    }
+    if (x.field) {
+      const f = x.field;
+      h += `<div class="sec" style="color:#6d28d9">🧭 כדאי להכיר את המגרש</div><div class="card" style="border-right-color:#7c3aed"><h3>${esc(f.title)}</h3>${f.opening ? `<p><b>${esc(f.opening)}</b></p>` : ''}<p>${esc(f.map)}</p>${f.hear ? `<p><b>מה תשמעי בשיחה:</b> ${esc(f.hear)}</p>` : ''}${src(f.source, f.warning)}${conceptBox(f.concept)}</div>`;
+    }
+    $('daily').innerHTML = h;
+    if (x.think) $('thinkBtn').onclick = () => openChat('think', `${x.think.title ? x.think.title + '\n' : ''}${x.think.case}\nהשאלה: ${x.think.question}\nמקור: ${x.think.source?.name || ''} ${x.think.source?.url || ''}`, '🧠 ' + (x.think.title || 'חושבות יחד'));
+    document.querySelectorAll('[data-learn]').forEach((b) => b.onclick = () => openChat('learn', b.dataset.learn, '📖 ' + b.dataset.learn));
+  } catch (e) { $('daily').innerHTML = `<div class="empty">${esc(e.message)}</div>`; }
+}
+$('day').onchange = () => { history.replaceState(null, '', '?d=' + $('day').value); loadDaily($('day').value); };
+$('learnBtn').onclick = () => { const c = $('concept').value.trim(); if (c) { openChat('learn', c, '📖 ' + c); $('concept').value = ''; } };
+$('concept').onkeydown = (e) => { if (e.key === 'Enter') $('learnBtn').click(); };
+
+// ---------- Chat ----------
+let sid = null, busy = false;
+const add = (cls, text) => { const d = document.createElement('div'); d.className = 'm ' + cls; d.innerHTML = cls === 'ai' ? md(text) : esc(text); $('msgs').appendChild(d); $('msgs').scrollTop = 1e9; return d; };
+function setBusy(b) { busy = b; $('sendBtn').disabled = b; $('finishBtn').disabled = b; }
+function showPanel(title) {
+  $('msgs').innerHTML = ''; $('review').style.display = 'none'; $('msgs').style.display = ''; $('pfoot').style.display = '';
+  $('ctitle').textContent = title; $('chat').classList.add('open');
+}
+async function openChat(mode, context, title) {
+  if (STATIC) { location.href = claudeLink(mode, context); return; }   // phone: continue in the Claude app
+  sid = null; showPanel(title);
+  const w = add('sys', 'פותחת שיחה'); w.classList.add('dots'); setBusy(true);
+  try {
+    const r = await api('/api/start', { mode, context, title: title.replace(/^\S+\s/, '') }); sid = r.id; w.remove();
+    if (r.existing) { for (const m of r.messages) add(m.role === 'me' ? 'me' : 'ai', m.text); add('sys', 'המשך השיחה מהמקום שבו עצרת.'); }
+    else add('ai', r.reply);
+    $('input').focus(); loadConvs();
+  }
+  catch (e) { w.classList.remove('dots'); w.textContent = '⚠️ ' + e.message; }
+  setBusy(false);
+}
+async function openExisting(id) {
+  try {
+    const c = await api('/api/conv?id=' + id);
+    sid = c.id; showPanel((c.mode === 'think' ? '🧠 ' : '📖 ') + c.title);
+    for (const m of c.messages) add(m.role === 'me' ? 'me' : 'ai', m.text);
+    add('sys', c.status === 'saved' ? 'השיחה נשמרה ביומן. אפשר להמשיך אותה מכאן.' : 'אפשר להמשיך מהמקום שבו עצרת.');
+    $('input').focus();
+  } catch (e) { alert(e.message); }
+}
+async function loadConvs() {
+  try {
+    const list = await api('/api/convs');
+    $('convs').innerHTML = list.length ? list.map((c) => `<div class="conv" data-id="${c.id}"><span>${c.mode === 'think' ? '🧠' : '📖'} ${esc(c.title)}</span>
+      <span><span class="chip ${c.status === 'saved' ? 'saved' : ''}">${c.status === 'saved' ? '✓ ביומן' : 'פתוחה'}</span> <small>${new Date(c.updated).toLocaleDateString('he-IL')} · ${c.turns} תשובות</small></span></div>`).join('')
+      : '<div class="notice">עוד אין שיחות. לחצי "בואי נחשוב על זה" או "📖 למדי" כדי להתחיל.</div>';
+    document.querySelectorAll('.conv').forEach((el) => el.onclick = () => openExisting(el.dataset.id));
+  } catch {}
+}
+async function sendMsg() {
+  const t = $('input').value.trim(); if (!t || busy || !sid) return;
+  $('input').value = ''; add('me', t);
+  const w = add('sys', ''); w.classList.add('dots'); setBusy(true);
+  try {
+    const r = await fetch('/api/msg-stream', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ id: sid, text: t }) });
+    if (!r.ok || !r.body) throw new Error((await r.json().catch(() => ({}))).error || 'שגיאה');
+    const reader = r.body.getReader(), dec = new TextDecoder(); let full = '', bubble = null;
+    for (;;) {
+      const { value, done } = await reader.read(); if (done) break;
+      full += dec.decode(value, { stream: true });
+      if (!bubble) { w.remove(); bubble = add('ai', ''); }
+      bubble.innerHTML = md(full); $('msgs').scrollTop = 1e9;
+    }
+    if (!bubble) { w.remove(); add('ai', full || '⚠️ לא התקבלה תשובה'); }
+  }
+  catch (e) { w.classList.remove('dots'); w.textContent = '⚠️ ' + e.message; }
+  setBusy(false); $('input').focus();
+}
+$('sendBtn').onclick = sendMsg;
+$('input').onkeydown = (e) => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendMsg(); } };
+$('closeBtn').onclick = () => { $('chat').classList.remove('open'); loadConvs(); };   // the conversation is saved automatically
+$('finishBtn').onclick = async () => {
+  if (!sid || busy) return;
+  const w = add('sys', 'מכינה טיוטה ליומן'); w.classList.add('dots'); setBusy(true);
+  try {
+    const d = await api('/api/finish', { id: sid }); w.remove();
+    $('r-initial').textContent = d.initial || '(לא נכתבה תשובה)';
+    $('r-topic').value = d.topic || ''; $('r-learned').value = d.learned || ''; $('r-changed').value = d.changed || '';
+    $('r-concept').value = d.concept || ''; $('r-question').value = d.question || ''; $('review').dataset.source = d.source || '';
+    $('msgs').style.display = 'none'; $('pfoot').style.display = 'none'; $('review').style.display = 'block';
+  } catch (e) { w.classList.remove('dots'); w.textContent = '⚠️ ' + e.message; }
+  setBusy(false);
+};
+$('backBtn').onclick = () => { $('review').style.display = 'none'; $('msgs').style.display = ''; $('pfoot').style.display = ''; };
+$('saveBtn').onclick = async () => {
+  const entry = { topic: $('r-topic').value, learned: $('r-learned').value, changed: $('r-changed').value,
+                  concept: $('r-concept').value, question: $('r-question').value, initial: $('r-initial').textContent, source: $('review').dataset.source };
+  try { await api('/api/save', { id: sid, entry }); $('review').style.display = 'none'; $('msgs').style.display = ''; $('pfoot').style.display = '';
+        add('sys', '✅ נשמר ביומן ההתפתחות. השיחה נשארת ב"השיחות שלי", ואפשר להמשיך אותה בכל זמן.'); loadConvs(); }
+  catch (e) { alert(e.message); }
+};
+
+async function loadToday() {
+  try {
+    const t = await api('/api/today');
+    const s = t.stats;
+    let h = s ? `<div class="notice">🔎 היום: ${s.runs} סריקות של ${s.feeds} פידים · ${s.newItems} פריטים חדשים · ${s.judged} נבדקו ע״י Claude → 🔴 ${s.red} · 🟡 ${s.yellow} · 🧠 ${s.learn} · ⚪ ${s.noise} רעש · ${s.live} Live נשלחו${Number(s.waiting) ? ` · ${s.waiting} ממתינים לבדיקה` : ''} · עדכון אחרון ${s.last}</div>`
+                : '<div class="notice">עוד לא היו סריקות היום (הן רצות כשהמחשב ער, א׳–ה׳ 07:00–18:00).</div>';
+    for (const i of t.items) {
+      const gn = /news\.google\.com/.test(i.link);
+      const href = gn ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title + ' ' + i.source.replace(/\(.*$/, '')) : i.link;
+      h += `<div class="card" style="border-right-color:${i.level === '🧠' ? '#7c3aed' : '#d97706'}"><h3>${esc(i.level)} ${esc(i.title)} <small style="color:var(--muted);font-weight:normal">${esc(i.time)}</small></h3>
+        <p>${esc(i.what)}</p><p><b>למה מעניין:</b> ${esc(i.why)}</p>
+        <div class="src"><a href="${esc(href)}" target="_blank" rel="noopener">${gn ? '🔍 חיפוש הכתבה' : 'מקור'}: ${esc(i.source.replace(/\(Google News.*$/, ''))}</a></div>
+        <div style="margin-top:6px"><button class="small ghost" data-think="${esc(i.title + '\n' + i.what)}">🧠 בואי נחשוב על זה</button></div></div>`;
+    }
+    if (s && !t.items.length) h += '<div class="notice">לא נקלט היום משהו ששווה את תשומת הלב שלך (הכול סווג כרעש).</div>';
+    $('today').innerHTML = h;
+    document.querySelectorAll('[data-think]').forEach((b) => b.onclick = () => openChat('think', b.dataset.think, '🧠 ' + b.dataset.think.split('\n')[0]));
+  } catch {}
+}
+if (STATIC) {   // phone copy: no local conversation history; Think/Learn open in the Claude app
+  document.querySelector('.notice').textContent = 'גרסת הטלפון. "בואי נחשוב" ו"למדי" נפתחים באפליקציית Claude, והשיחה נשמרת שם. בסוף השיחה העתיקי את בלוק היומן.';
+  const conv = document.getElementById('convs'); conv.previousElementSibling.style.display = 'none'; conv.style.display = 'none';
+}
+loadDays();
+loadConvs();
+loadToday();
+setInterval(loadToday, 5 * 60000);
+</script>
+</body>
+</html>
