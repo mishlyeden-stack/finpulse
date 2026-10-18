@@ -335,19 +335,32 @@ const topicOf = (i) => {
 };
 let todayData = null;
 async function loadToday() { try { todayData = await api('/api/today'); renderToday(); renderThink(); } catch {} }
+// sub-categories (like sections of a business newspaper)
+const CATS = { macro: '📈 מאקרו וריבית', budget: '🏛️ תקציב ומיסוי', capital: '💹 שוק ההון', banks: '🏦 בנקים ואשראי', deals: '🤝 עסקאות ומיזוגים',
+  tech: '💻 הייטק ו-AI', cyber: '🛡️ סייבר', infra: '⚡ תשתיות ואנרגיה', defense: '🎖️ ביטחון ורכש', labor: '👷 עבודה ושכר',
+  realestate: '🏗️ נדל״ן', global: '🌍 כלכלה עולמית', cfo: '🎓 מקרי CFO', other: '📌 כללי' };
+const catOf = (i) => CATS[(i.category || '').toLowerCase()] ? i.category.toLowerCase() : (i.level === '🧠' ? 'cfo' : topicOf(i) === 'world' ? 'global' : 'other');
+let catFilter = 'all', query = '';
 function renderToday() {
   const t = todayData; if (!t) return;
-  
-  const counts = { all: t.items.length }; t.items.forEach((i) => { const k = topicOf(i); counts[k] = (counts[k] || 0) + 1; });
-  const shown = t.items.filter((i) => topicFilter === 'all' || topicOf(i) === topicFilter);
+  const q = query.trim().toLowerCase();
+  const matchQ = (i) => !q || (i.title + ' ' + i.what + ' ' + i.why + ' ' + i.source).toLowerCase().includes(q);
+  const pool = t.items.filter(matchQ);
+  const counts = {}; pool.forEach((i) => { const k = catOf(i); counts[k] = (counts[k] || 0) + 1; });
+  const shown = pool.filter((i) => catFilter === 'all' || catOf(i) === catFilter);
   const s = t.stats;
   let h = s ? `<div class="stat">🔎 היום: ${s.runs} סריקות · ${s.newItems} פריטים חדשים · נבדקו ${s.judged} · עברו סינון ואימות <b>${t.items.length}</b> · עדכון אחרון ${esc(s.last)}</div>`
             : '<div class="notice">עוד לא היו סריקות היום (הן רצות כשהמחשב ער, א׳–ה׳ 07:00–18:00).</div>';
-  if (t.items.length) h += `<div class="chips">` + Object.entries(TOPICS).map(([k, v]) => `<button class="${topicFilter === k ? 'on' : ''}" data-topic="${k}">${v} · ${counts[k] || 0}</button>`).join('') + `</div>`;
+  if (t.items.length) {
+    h += `<div class="ask" style="margin-top:10px"><input id="newsQ" placeholder="🔍 חיפוש בחדשות (למשל: ריבית, מטא, מכרז)" value="${esc(query)}"></div>`;
+    h += `<div class="chips"><button class="${catFilter === 'all' ? 'on' : ''}" data-cat="all">הכול · ${pool.length}</button>` +
+      Object.keys(CATS).filter((k) => counts[k]).sort((a, b) => counts[b] - counts[a]).map((k) => `<button class="${catFilter === k ? 'on' : ''}" data-cat="${k}">${CATS[k]} · ${counts[k]}</button>`).join('') + `</div>`;
+  }
+  if (q && !shown.length) h += '<div class="empty">לא נמצאו חדשות שמתאימות לחיפוש.</div>';
   for (const i of shown) {
     const gn = /news\.google\.com/.test(i.link);
     const href = gn ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title + ' ' + i.source.replace(/\(.*$/, '')) : i.link;
-    h += `<div class="card" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${esc(i.level)} · ${esc(i.time)} · ${esc(TOPICS[topicOf(i)])}</div><h3>${esc(i.title)}</h3>
+    h += `<div class="card" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${esc(CATS[catOf(i)])} · ${esc(i.time)}${i.level === '🧠' ? ' · 🧠 מקרה ללמידה' : ''}</div><h3>${esc(i.title)}</h3>
       <p>${esc(i.what)}</p><p><b>למה מעניין:</b> ${esc(i.why)}</p>
       <div class="src"><a href="${esc(href)}" target="_blank" rel="noopener">${esc(i.source.replace(/\(Google News.*$/, ''))} ↗</a></div>
       <div style="margin-top:8px"><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 בואי נחשוב על זה</button></div></div>`;
@@ -355,7 +368,9 @@ function renderToday() {
   if (s && !t.items.length) h += '<div class="empty">עוד לא נקלט היום משהו שעבר את הסינון והאימות.</div>';
   $('today').innerHTML = h;
   bindThink($('today'));
-  document.querySelectorAll('[data-topic]').forEach((b) => b.onclick = () => { topicFilter = b.dataset.topic; renderToday(); });
+  document.querySelectorAll('[data-cat]').forEach((b) => b.onclick = () => { catFilter = b.dataset.cat; renderToday(); });
+  const qi = $('newsQ');
+  if (qi) qi.oninput = () => { query = qi.value; const pos = qi.selectionStart; renderToday(); const n = $('newsQ'); n.focus(); n.setSelectionRange(pos, pos); };
 }
 
 // ---------- Chat (local only) ----------
