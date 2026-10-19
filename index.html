@@ -158,10 +158,10 @@
   .dgrid { display:flex; flex-direction:column; }
   .dside { order:-1; }
   @media (min-width:1000px) {
-    .hero-in, .tabs-in, .wrap { max-width:1240px; }
-    .dgrid { display:grid; grid-template-columns:minmax(0,1fr) 400px; gap:22px; align-items:start; }
+    .hero-in, .tabs-in, .wrap { max-width:1400px; }
+    .dgrid { display:grid; grid-template-columns:minmax(0,1fr) 380px; gap:22px; align-items:start; }
     .dmain { grid-column:1; grid-row:1; }
-    .dside { grid-column:2; grid-row:1; order:0; position:sticky; top:150px; max-height:calc(100vh - 160px); overflow-y:auto; padding-bottom:10px; }
+    .dside { grid-column:2; grid-row:1; order:0; }
     .dside .numbers { grid-template-columns:1fr 1fr; }
   }
   /* collapsible groups */
@@ -204,9 +204,9 @@
   <section class="view on" id="v-daily">
     <div class="toolbar"><div class="ask"><input id="newsQ" placeholder="🔍 חיפוש בחדשות (למשל: ריבית, מטא, מכרז)"></div><div class="tbar" id="tbar"></div></div>
     <div id="exec"></div>
+    <details class="grp brief" id="briefGrp"><summary><span>☀️ תדריך הבוקר <span class="gmeta">· המעט שהכי כדאי לדעת, להבין ולחשוב עליו היום, מוסבר לעומק (זה גם המייל של הבוקר)</span></span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
     <div class="dgrid"><aside class="dside">
     <div id="kpi"></div>
-    <details class="grp brief" id="briefGrp"><summary><span>☀️ תדריך הבוקר <span class="gmeta">· המעט שהכי כדאי לדעת, להבין ולחשוב עליו היום, מוסבר לעומק (זה גם המייל של הבוקר)</span></span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
     </aside><div class="dmain">
     <div class="sec" style="margin-top:14px">📰 החדשות לפי נושא</div>
     <div class="notice">מאומת מול הכתבה המקורית ומסוכם כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות. לחצי על נושא כדי לפתוח.</div>
@@ -261,7 +261,7 @@ const md = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
 
 // greeting
 (() => { const h = new Date().getHours(); const g = h < 12 ? 'בוקר טוב' : h < 17 ? 'צהריים טובים' : h < 21 ? 'ערב טוב' : 'לילה טוב';
-  $('hello').innerHTML = `${g}, <b>עדן</b> · ${new Date().toLocaleDateString('he-IL', { weekday:'long', day:'numeric', month:'long' })}`; })();
+  $('hello').innerHTML = `${g}, <b>עדן</b> · ${new Date().toLocaleDateString('he-IL', { weekday:'long', day:'numeric', month:'long' })}<span id="upd"></span>`; })();
 
 // ---- mobile/static mode (GitHub Pages copy): read published JSON, open Think/Learn in the Claude app ----
 const STATIC = !/^(localhost|127\.0\.0\.1)$/.test(location.hostname);
@@ -451,8 +451,10 @@ function renderToday() {
   $('exec').innerHTML = q || !top.length ? '' : `<div class="exec"><h2><span>🎯 ${top.length === 3 ? '3 הדברים' : 'הדברים'} החשובים היום לקבוצה</span><small>${rankedOk ? 'לפי השפעה אפשרית על הכנסות, עלויות, מימון ולקוחות' : 'האחרונים שנוגעים לקבוצה (הדירוג לפי השפעה נבנה בסריקות הבאות)'} · לחצי לפרטים</small></h2><ol>` +
     top.map((i) => `<li data-go="${esc(i.title)}"><b>${esc(i.title)}</b><span>${esc(i.why)}</span></li>`).join('') + '</ol></div>';
   const s = t.stats;
-  let h = s ? `<div class="stat">🔎 24 השעות האחרונות · היום: ${s.runs} סריקות · ${s.newItems} פריטים חדשים · נבדקו ${s.judged} · עברו סינון ואימות <b>${all.length}</b> אירועים · עדכון אחרון ${esc(s.last)}</div>`
-            : '<div class="notice">עוד לא היו סריקות היום (הן רצות כשהמחשב ער, א׳–ה׳ 07:00–18:00).</div>';
+  // last update = newest item / scan; shown next to the greeting
+  const lastTs = [s && `${t.date} ${s.last}`, ...all.map((i) => i.ts)].filter(Boolean).sort().at(-1) || '';
+  if (lastTs) { const [dd, tt] = lastTs.split(' '); $('upd').textContent = ` · עודכן ${dd === t.date ? 'היום' : dd.split('-').reverse().slice(0, 2).join('.')} ${tt}`; }
+  let h = `<div class="stat">🔎 24 השעות האחרונות · <b>${all.length}</b> אירועים שעברו סינון ואימות${s ? ` · היום ${s.runs} סריקות, ${s.newItems} פריטים חדשים` : ''}</div>`;
   if (q && !pool.length) h += '<div class="empty">לא נמצאו חדשות שמתאימות לחיפוש.</div>';
   if (s && !t.items.length) h += '<div class="empty">עוד לא נקלט היום משהו שעבר את הסינון והאימות.</div>';
   // groups: first what touches the group (any topic), then every topic in CFO/CEO priority order (CATS order).
