@@ -155,6 +155,7 @@
   .rsrc { font-size:12px; color:var(--muted); }
   .rv { font-size:11px; border-radius:6px; padding:0 6px; background:#f1f5f9; color:#64748b; margin-inline-start:4px; }
   .rv.ok { background:#dcfce7; color:#166534; }
+  .growhead { font-size:19px; font-weight:800; margin:26px 0 8px; padding-bottom:6px; border-bottom:2px solid var(--line); }
   /* executive view */
   .exec { background:var(--ink); color:#fff; border-radius:18px; padding:16px 18px; margin:12px 0 6px; box-shadow:var(--shadow); }
   .exec h2 { margin:0 0 10px; font-size:16px; font-weight:800; display:flex; justify-content:space-between; gap:8px; }
@@ -165,7 +166,14 @@
   .exec li { margin:8px 0; line-height:1.55; cursor:pointer; }
   .exec li b { font-size:15px; }
   .exec li span { display:block; color:#cbd5e1; font-size:13px; }
-  .exec li:hover b { text-decoration:underline; }
+  .exec li b { cursor:pointer; } .exec li b:hover { text-decoration:underline; } .exec li { cursor:default; }
+  details.cfoa { margin-top:6px; }
+  details.cfoa > summary { cursor:pointer; display:inline-block; list-style:none; font-size:12.5px; font-weight:700; color:#fde68a; border:1px solid rgba(253,230,138,.45); border-radius:999px; padding:2px 10px; }
+  details.cfoa > summary::-webkit-details-marker { display:none; }
+  .cfoq { font-size:13.5px; color:#e2e8f0; margin:8px 0 6px; }
+  details.cfoa textarea { width:100%; box-sizing:border-box; border-radius:10px; border:0; padding:8px 10px; font:inherit; font-size:14px; resize:vertical; }
+  details.cfoa button { margin-top:6px; }
+  .cfor { margin-top:8px; background:rgba(255,255,255,.08); border-radius:10px; padding:8px 10px; font-size:14px; }
   .star { background:var(--amber); color:#111; border-radius:6px; padding:0 6px; font-size:11px; font-weight:800; margin-inline-start:6px; }
   details.qq { margin-top:8px; }
   details.qq > summary { cursor:pointer; display:inline-block; font-size:13px; font-weight:700; color:var(--ink2); background:var(--amber-bg); border:1px solid #fcd34d; border-radius:999px; padding:3px 12px; list-style:none; }
@@ -213,8 +221,7 @@
 
 <nav class="tabs"><div class="tabs-in">
   <button class="tab on" data-view="daily"><span class="ic">☀️</span>היום</button>
-  <button class="tab" data-view="learn"><span class="ic">📖</span>Learn</button>
-  <button class="tab" data-view="think"><span class="ic">🧠</span>Think</button>
+  <button class="tab" data-view="grow"><span class="ic">🌱</span>Grow</button>
 </div></nav>
 
 <main class="wrap">
@@ -236,19 +243,22 @@
     </div></div>
   </section>
 
+  <!-- THINK -->
+  <section class="view" id="v-think">
+    <div class="growhead" style="margin-top:4px">🧠 Think · לחשוב</div>
+    <div class="sec" style="margin-top:4px">🎯 המקרה של היום</div><div id="thinkToday"></div>
+    <details class="grp" id="thinkMore"><summary><span>🧠 עוד 3 מקרים לבחירה <span class="gmeta">· החזקים מהחדשות של היום, לא חובה</span></span><span class="gcount" id="thinkCount">0</span></summary><div class="gbody"><div id="thinkLive"></div></div></details>
+    <div class="sec convHead">📚 השיחות שלי</div><div id="thinkConvs"></div>
+  </section>
+
   <!-- LEARN -->
   <section class="view" id="v-learn">
+    <div class="growhead">📖 Learn · להבין</div>
     <div class="ask"><input id="concept" placeholder="איזה מושג תרצי להבין? (למשל Working Capital)"><button id="learnBtn">למדי אותי</button></div>
     <div class="sec">💡 מושגים מה-Daily של היום</div><div id="learnConcepts"></div>
     <div class="sec convHead">📚 השיחות שלי</div><div id="learnConvs"></div>
   </section>
 
-  <!-- THINK -->
-  <section class="view" id="v-think">
-    <div class="sec" style="margin-top:4px">🎯 המקרה של היום</div><div id="thinkToday"></div>
-    <details class="grp" id="thinkMore"><summary><span>🧠 עוד 3 מקרים לבחירה <span class="gmeta">· החזקים מהחדשות של היום, לא חובה</span></span><span class="gcount" id="thinkCount">0</span></summary><div class="gbody"><div id="thinkLive"></div></div></details>
-    <div class="sec convHead">📚 השיחות שלי</div><div id="thinkConvs"></div>
-  </section>
 
   <div class="foot" id="foot">FinPulse · Business & CFO Growth · מידע ציבורי בלבד</div>
 </main>
@@ -331,7 +341,9 @@ const bindLearn = (root) => root.querySelectorAll('[data-learn]').forEach((b) =>
 // ---------- tabs ----------
 document.querySelectorAll('.tab').forEach((t) => t.onclick = () => {
   document.querySelectorAll('.tab').forEach((x) => x.classList.toggle('on', x === t));
-  document.querySelectorAll('.view').forEach((v) => v.classList.toggle('on', v.id === 'v-' + t.dataset.view));
+  // "היום" = the Brief for everyone; 🌱 Grow = learning + thinking (Learn and Think together)
+  const show = t.dataset.view === 'grow' ? ['v-think', 'v-learn'] : ['v-' + t.dataset.view];
+  document.querySelectorAll('.view').forEach((v) => v.classList.toggle('on', show.includes(v.id)));
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
 
@@ -459,6 +471,7 @@ function mergeDup(items) {
 const catOf = (i) => CATS[(i.category || '').toLowerCase()] ? i.category.toLowerCase() : (i.level === '🧠' ? 'cfo' : topicOf(i) === 'world' ? 'global' : 'other');
 let catFilter = 'all', query = '';
 function renderToday() {
+  if (document.activeElement?.closest?.('details.cfoa')) return;   // don't wipe a CFO-angle answer while it is being typed
   const t = todayData; if (!t) return;
   const q = query.trim().toLowerCase();
   const matchQ = (i) => !q || (i.title + ' ' + i.what + ' ' + i.why + ' ' + i.source).toLowerCase().includes(q);
@@ -479,7 +492,13 @@ function renderToday() {
   const scanned = rawData?.items?.length || 0;
   const since = `<div class="since">ב-24 השעות האחרונות FinPulse עבר על <b>${scanned || 'מאות'}</b> כותרות · <b>${all.length}</b> נבחרו ונבדקו מול המקור · <b>${top.length}</b> שוות את תשומת הלב שלך הבוקר</div>`;
   $('exec').innerHTML = q || !top.length ? '' : `<div class="exec"><h2><span>🎯 ${top.length === 3 ? '3 הדברים' : 'הדברים'} ששווה לדעת היום</span><small>${rankedOk ? 'לפי השפעה אפשרית על הכנסות, עלויות, מימון ולקוחות' : 'האחרונים שנוגעים לקבוצה'} · לחצי לפרטים</small></h2>${since}<ol>` +
-    top.map((i) => `<li data-go="${esc(i.title)}"><b>${esc(i.title)}</b><span><i>למה זה חשוב:</i> ${esc(i.why)}</span></li>`).join('') + '</ol></div>';
+    top.map((i) => { const k = i.title, shown = cfoShown.has(k);
+      return `<li data-go="${esc(k)}"><b>${esc(k)}</b><span><i>למה זה חשוב:</i> ${esc(i.why)}</span>` +
+      `<details class="cfoa" data-k="${esc(k)}" ${cfoOpen.has(k) ? 'open' : ''}><summary>💼 זווית CFO</summary>` +
+      `<div class="cfoq">מה לדעתך הדבר הראשון שמנהל כספים צריך לבדוק או לחשוב עליו בעקבות האירוע הזה?</div>` +
+      `<textarea rows="2" placeholder="התשובה שלך…">${esc(cfoAns.get(k) || '')}</textarea>` +
+      (shown ? `<div class="cfor"><b>💼 הזווית של FinPulse:</b> ${esc(i.question || 'אין זווית מוכנה לאירוע הזה. בואי נחשוב עליה יחד.')}</div><button class="small" data-challenge="1" data-what="${esc(i.what)}" data-angle="${esc(i.question || '')}">🧠 השווי ואתגרי אותי</button>`
+             : `<button class="small" data-reveal="1">הצגת הזווית של FinPulse</button>`) + `</details></li>`; }).join('') +'</ol></div>';
   const s = t.stats;
   // last update = newest item / scan; shown next to the greeting
   const lastTs = [s && `${t.date} ${s.last}`, ...all.map((i) => i.ts)].filter(Boolean).sort().at(-1) || '';
@@ -511,8 +530,18 @@ function renderToday() {
   document.querySelectorAll('[data-jump]').forEach((b) => b.onclick = () => { const d = $(b.dataset.jump); d.open = true; const off = document.querySelector('.toolbar').getBoundingClientRect().bottom + 10; window.scrollTo({ top: d.getBoundingClientRect().top + window.scrollY - off, behavior: 'smooth' }); d.classList.remove('flash'); void d.offsetWidth; d.classList.add('flash'); });
   document.querySelector('[data-all]').onclick = () => { const ds = [...document.querySelectorAll('#today details.grp')]; const o = !ds.every((d) => d.open); ds.forEach((d) => d.open = o); };
   document.querySelectorAll('[data-more]').forEach((b) => b.onclick = () => { moreCats.add(b.dataset.more); renderToday(); });
-  // executive view: jump to the item inside 🎯
-  document.querySelectorAll('[data-go]').forEach((li) => li.onclick = () => {
+  $('today').querySelectorAll('[data-learnctx]').forEach((b) => b.onclick = () => openChat('learn', b.dataset.learnctx, '📖 ' + b.dataset.learntitle));
+  // 💼 CFO angle: Eden answers first, only then FinPulse's angle is revealed (and she can be challenged on it)
+  document.querySelectorAll('details.cfoa').forEach((d) => {
+    const k = d.dataset.k, ta = d.querySelector('textarea');
+    d.ontoggle = () => d.open ? cfoOpen.add(k) : cfoOpen.delete(k);
+    ta.oninput = () => cfoAns.set(k, ta.value);
+    d.querySelector('[data-reveal]').onclick = () => { if (!ta.value.trim()) { ta.placeholder = 'כתבי קודם מה את חושבת, אפילו משפט אחד'; ta.focus(); return; } cfoShown.add(k); renderToday(); };
+    const ch = d.querySelector('[data-challenge]');
+    if (ch) ch.onclick = () => openChat('think', `אירוע: ${k}\n${ch.dataset.what}\n\nהתשובה שלי (זווית CFO, לפני שראיתי את הזווית של FinPulse): ${cfoAns.get(k) || ''}\nהזווית של FinPulse: ${ch.dataset.angle}\n\nאתגרי את ההנמקה שלי: מה פספסתי, איפה אני קופצת למסקנה, ומה הייתי בודקת קודם.`, '💼 ' + k);
+  });
+  // executive view: jump to the item inside 🎯 (click on the headline)
+  document.querySelectorAll('[data-go] > b').forEach((bt) => bt.onclick = () => { const li = bt.parentElement;
     const g = $('g-mine') || document.querySelector('#today details.grp'); if (!g) return; g.open = true;
     const card = [...g.querySelectorAll('.card')].find((c) => c.dataset.key === li.dataset.go) || g;
     const off = document.querySelector('.toolbar').getBoundingClientRect().bottom + 10;
@@ -521,6 +550,7 @@ function renderToday() {
   });
 }
 const openCats = new Set(), moreCats = new Set();
+const cfoAns = new Map(), cfoOpen = new Set(), cfoShown = new Set();   // CFO-angle drafts survive the 5-min refresh
 let topKeys = new Set();
 $('newsQ').oninput = () => { query = $('newsQ').value; renderToday(); if (query.trim()) $('briefGrp').open = false; };
 function newsCard(i, mineTag) {
@@ -533,7 +563,7 @@ function newsCard(i, mineTag) {
       <p>${esc(i.what)}</p><p><b>למה מעניין:</b> ${esc(i.why)}</p>
       ${i.question ? `<details class="qq"><summary>❓ שאלה לפגישה</summary><div>${esc(i.question)}</div></details>` : ''}
       <div class="src">${[i, ...(i.more || [])].map(srcLink).join(' · ')}</div>
-      <div style="margin-top:8px"><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 בואי נחשוב על זה</button></div></div>`;
+      <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap"><button class="small ghost" data-learnctx="${esc('תסבירי לי את הידיעה הזו ואת המושגים שבה:\n' + i.title + '\n' + i.what)}" data-learntitle="${esc(i.title)}">📖 תסביר לי</button><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 בואי נחשוב על זה</button></div></div>`;
   }
   return h;
 }
