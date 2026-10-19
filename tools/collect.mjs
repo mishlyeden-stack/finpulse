@@ -73,7 +73,7 @@ if (fresh.length) { writeFileSync(P('queue', `${stampIso}.json`), JSON.stringify
 // "📡 עכשיו בחדשות": last 24h, newest first
 const raw = loadJSON(P('data', 'raw.json'), { items: [] });
 const keep = (i) => now - new Date(i.date || i.fetched) < 24 * 3600e3;
-const items = [...fresh.map(({ summary, group, ...r }) => r), ...raw.items].filter(keep)
+const items = [...fresh.map(({ summary, ...r }) => r), ...raw.items].filter(keep)
   .sort((a, b) => String(b.date || b.fetched).localeCompare(String(a.date || a.fetched))).slice(0, 400);
 writeFileSync(P('data', 'raw.json'), JSON.stringify({ updated: new Date(now).toISOString(), items }));
 
