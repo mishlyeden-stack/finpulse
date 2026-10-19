@@ -135,6 +135,10 @@
   .grp.brief > summary { background:linear-gradient(90deg, rgba(124,58,237,.10), transparent); }
   .grp.mine > summary { background:linear-gradient(90deg, rgba(245,158,11,.12), transparent); }
   @media (max-width:700px) { .toolbar { top:0; } .grp { scroll-margin-top:110px; } }
+  .fc { background:var(--card); border-radius:14px; padding:8px 14px; box-shadow:var(--shadow); }
+  .fcnow { padding:4px 0 6px; color:var(--ink2); font-size:14px; }
+  .fcrow { display:block; padding:8px 0; border-top:1px solid var(--line); color:inherit; text-decoration:none; font-size:15px; }
+  .fcrow span { color:var(--muted); font-size:13px; margin-inline-start:6px; }
   /* executive view */
   .exec { background:var(--ink); color:#fff; border-radius:18px; padding:16px 18px; margin:12px 0 6px; box-shadow:var(--shadow); }
   .exec h2 { margin:0 0 10px; font-size:16px; font-weight:800; display:flex; justify-content:space-between; gap:8px; }
@@ -327,6 +331,13 @@ async function loadNumbers() {
       return `<a class="num" href="${esc(n.source || '#')}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none"><div class="l">${esc(n.label)}</div><div class="v">${esc(n.value)}</div>${n.change ? `<div class="c ${dir}">${arrow} ${esc(n.change.replace(/^[+-]/, ''))}</div>` : ''}${n.note ? `<div class="n">${esc(n.note)}</div>` : ''}${n.by ? `<div class="n" style="color:#059669">✓ ${esc(n.by)}</div>` : ''}</a>`;
     }).join('') + `</div>`;
     if (x.events?.length) h += `<div class="sec">🗓️ אירועים קרובים</div><div class="stat">${x.events.map((e) => `<b>${esc(e.date)}</b> ${esc(e.what)}`).join(' &nbsp;·&nbsp; ')}</div>`;
+    if (x.forecasts?.length) {
+      const dm = (iso) => { const d = new Date(iso); return d.getDate() + '.' + (d.getMonth() + 1) + '.' + String(d.getFullYear()).slice(2); };
+      const usd = x.numbers.find((n) => n.key === 'USD');
+      h += '<div class="sec">🔮 תחזיות אנשי מקצוע: דולר/שקל</div><div class="fc">' + (usd ? '<div class="fcnow">היום: <b>' + esc(usd.value) + '</b></div>' : '') +
+        x.forecasts.map((f) => '<a class="fcrow" href="' + esc(f.source) + '" target="_blank" rel="noopener"><b>' + esc(f.range) + '</b> <span>' + esc(f.horizon) + '</span><div class="n">' + esc(f.who) + ' · פורסם ' + dm(f.date) + ' · ' + esc(f.by) + '</div></a>').join('') +
+        '<div class="n" style="padding:6px 2px">' + esc(x.forecastsNote || '') + ' תחזיות הן דעה, לא עובדה, והן לא מתעדכנות אוטומטית.</div></div>';
+    }
     $('kpi').innerHTML = h;
   } catch {}
 }
