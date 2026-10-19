@@ -475,7 +475,8 @@ function renderToday() {
   const t = todayData; if (!t) return;
   const q = query.trim().toLowerCase();
   const matchQ = (i) => !q || (i.title + ' ' + i.what + ' ' + i.why + ' ' + i.source).toLowerCase().includes(q);
-  const all = mergeDup(t.items);
+  const all = mergeDup(t.items.filter((i) => !i.archive));      // the site shows the best 40; weaker ones are in the archive group
+  const archived = t.items.filter((i) => i.archive && matchQ(i));
   const pool = all.filter(matchQ);
   // ranking: impact on a group like ours (from the filter), then newest. top 3 of 🎯 = the executive view
   const byImpact = (a, b) => (b.impact || 0) - (a.impact || 0) || String(b.ts || b.time).localeCompare(String(a.ts || a.time));
@@ -509,7 +510,8 @@ function renderToday() {
   // groups: first what touches the group (any topic), then every topic in CFO/CEO priority order (CATS order).
   // inside a topic, items that touch the group come first. a search opens all matching groups.
   const groups = [{ k: 'mine', label: '🎯 נוגע לקבוצה', items: pool.filter(isMine).sort(byImpact) },
-    ...Object.keys(CATS).map((k) => ({ k, label: CATS[k], items: pool.filter((i) => catOf(i) === k).sort((a, b) => isMine(b) - isMine(a) || byImpact(a, b)) }))].filter((g) => g.items.length);
+    ...Object.keys(CATS).map((k) => ({ k, label: CATS[k], items: pool.filter((i) => catOf(i) === k).sort((a, b) => isMine(b) - isMine(a) || byImpact(a, b)) })),
+    { k: 'archive', label: '📁 ארכיון · הוחלפו בידיעות חשובות יותר', items: archived.sort(byImpact) }].filter((g) => g.items.length);
   for (const g of groups) {
     const latest = (g.items.map((i) => i.ts || i.time).sort().at(-1) || '').slice(11);
     const open = q || openCats.has(g.k);
