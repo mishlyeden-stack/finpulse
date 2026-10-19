@@ -160,6 +160,8 @@
   .exec h2 { margin:0 0 10px; font-size:16px; font-weight:800; display:flex; justify-content:space-between; gap:8px; }
   .exec h2 small { font-weight:500; color:#cbd5e1; font-size:12px; }
   .exec ol { margin:0; padding:0 22px 0 0; }
+  .exec .since { font-size:13px; color:#cbd5e1; margin:-4px 0 10px; line-height:1.5; }
+  .exec .since b { color:#fff; }
   .exec li { margin:8px 0; line-height:1.55; cursor:pointer; }
   .exec li b { font-size:15px; }
   .exec li span { display:block; color:#cbd5e1; font-size:13px; }
@@ -220,16 +222,17 @@
   <section class="view on" id="v-daily">
     <div class="toolbar"><div class="ask"><input id="newsQ" placeholder="🔍 חיפוש בחדשות (למשל: ריבית, מטא, מכרז)"></div><div class="tbar" id="tbar"></div></div>
     <div id="exec"></div>
-    <details class="grp brief" id="briefGrp"><summary><span>☀️ תדריך הבוקר <span class="gmeta">· המעט שהכי כדאי לדעת, להבין ולחשוב עליו היום, מוסבר לעומק (זה גם המייל של הבוקר)</span></span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
+    <details class="grp brief" id="briefGrp"><summary><span>☀️ תדריך הבוקר <span class="gmeta">· 4 דקות קריאה · מה כדאי לדעת, להבין ולחשוב עליו היום, מוסבר לעומק (זה גם המייל של הבוקר)</span></span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
     <div class="dgrid"><aside class="dside">
     <div id="kpi"></div>
     </aside><div class="dmain">
-    <details class="grp rawgrp" id="rawSec"><summary><span>📡 עכשיו בחדשות <span class="gmeta" id="rawMeta">ישר מהמקורות, לפני בדיקה · מתעדכן 24/7</span></span><span class="gcount" id="rawCount">0</span></summary><div class="gbody">
-      <div class="rawsub">כל הכותרות האחרונות כפי שפורסמו, גם כשהסינון של FinPulse עוד לא רץ (למשל בלילה). מה שמסומן <span class="rv ok">✓ נבדק</span> עבר סינון ואימות ומופיע גם בנושאים למטה, עם סיכום.</div>
-      <div id="raw"><div class="empty">טוען…</div></div></div></details>
-    <div class="sec" style="margin-top:14px">📰 החדשות לפי נושא · נבדק ומסוכם</div>
-    <div class="notice">מאומת מול הכתבה המקורית ומסוכם כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות. לחצי על נושא כדי לפתוח.</div>
+    <div class="sec" style="margin-top:14px">📰 עוד חדשות שנבחרו עבורך · לפי נושא</div>
+    <div class="notice">כל ידיעה כאן <b>✓ נבדקה מול המקור</b> וסוכמה כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות. לחצי על נושא כדי לפתוח.</div>
     <div id="today"></div>
+    <div class="sec" style="margin-top:26px">📡 למי שרוצה את הגלם</div>
+    <details class="grp rawgrp" id="rawSec"><summary><span>📡 עכשיו בחדשות <span class="gmeta" id="rawMeta">ישר מהמקורות, לפני בדיקה · מתעדכן 24/7</span></span><span class="gcount" id="rawCount">0</span></summary><div class="gbody">
+      <div class="rawsub">כל הכותרות האחרונות כפי שפורסמו, גם כשהסינון של FinPulse עוד לא רץ (למשל בלילה). מה שמסומן <span class="rv ok">✓ נבדק מול המקור</span> נבחר ומופיע גם למעלה, עם סיכום.</div>
+      <div id="raw"><div class="empty">טוען…</div></div></div></details>
     </div></div>
   </section>
 
@@ -472,8 +475,11 @@ function renderToday() {
   // 🔥 = the 3 picks + the 5 strongest that touch the group (priority marks, nothing is removed)
   topKeys = new Set([...top, ...all.filter(isMine).sort(byImpact).slice(0, 5)].map((i) => i.title));
   const rankedOk = all.some((i) => i.impact);
-  $('exec').innerHTML = q || !top.length ? '' : `<div class="exec"><h2><span>🎯 FinPulse Picks · ${top.length === 3 ? '3 הדברים' : 'הדברים'} החשובים היום לקבוצה</span><small>${rankedOk ? 'לפי השפעה אפשרית על הכנסות, עלויות, מימון ולקוחות' : 'האחרונים שנוגעים לקבוצה (הדירוג לפי השפעה נבנה בסריקות הבאות)'} · לחצי לפרטים</small></h2><ol>` +
-    top.map((i) => `<li data-go="${esc(i.title)}"><b>${esc(i.title)}</b><span>${esc(i.why)}</span></li>`).join('') + '</ol></div>';
+  // "what changed since yesterday": FinPulse read everything so you don't have to
+  const scanned = rawData?.items?.length || 0;
+  const since = `<div class="since">ב-24 השעות האחרונות FinPulse עבר על <b>${scanned || 'מאות'}</b> כותרות · <b>${all.length}</b> נבחרו ונבדקו מול המקור · <b>${top.length}</b> שוות את תשומת הלב שלך הבוקר</div>`;
+  $('exec').innerHTML = q || !top.length ? '' : `<div class="exec"><h2><span>🎯 ${top.length === 3 ? '3 הדברים' : 'הדברים'} ששווה לדעת היום</span><small>${rankedOk ? 'לפי השפעה אפשרית על הכנסות, עלויות, מימון ולקוחות' : 'האחרונים שנוגעים לקבוצה'} · לחצי לפרטים</small></h2>${since}<ol>` +
+    top.map((i) => `<li data-go="${esc(i.title)}"><b>${esc(i.title)}</b><span><i>למה זה חשוב:</i> ${esc(i.why)}</span></li>`).join('') + '</ol></div>';
   const s = t.stats;
   // last update = newest item / scan; shown next to the greeting
   const lastTs = [s && `${t.date} ${s.last}`, ...all.map((i) => i.ts)].filter(Boolean).sort().at(-1) || '';
@@ -499,7 +505,7 @@ function renderToday() {
   bindThink($('today'));
   document.querySelectorAll('#today details.grp').forEach((d) => d.ontoggle = () => { if (!q) d.open ? openCats.add(d.dataset.grp) : openCats.delete(d.dataset.grp); });
   // toolbar: jump straight to a group (opens it)
-  $('tbar').innerHTML = `<button data-jump="briefGrp">☀️ תדריך</button><button data-jump="rawSec">📡 עכשיו בחדשות</button>` +
+  $('tbar').innerHTML = `<button data-jump="briefGrp">☀️ תדריך</button>` +
     groups.map((g) => `<button class="${g.k === 'mine' ? 'mine' : ''}" data-jump="g-${g.k}">${g.label} · ${g.items.length}</button>`).join('') +
     `<button data-all="1">⇕ פתיחה/סגירה של הכול</button>`;
   document.querySelectorAll('[data-jump]').forEach((b) => b.onclick = () => { const d = $(b.dataset.jump); d.open = true; const off = document.querySelector('.toolbar').getBoundingClientRect().bottom + 10; window.scrollTo({ top: d.getBoundingClientRect().top + window.scrollY - off, behavior: 'smooth' }); d.classList.remove('flash'); void d.offsetWidth; d.classList.add('flash'); });
@@ -636,7 +642,7 @@ setInterval(loadToday, 5 * 60000);
 // ---------- 📡 עכשיו בחדשות: raw RSS, 24/7 from the cloud collector; Claude's verdicts mark what was checked ----------
 let rawData = null, verdictsData = {}, rawShow = 12, rawWorld = false;
 async function loadRaw() {
-  try { [rawData, verdictsData] = await Promise.all([api('/api/raw'), api('/api/verdicts').catch(() => ({}))]); renderRaw(); } catch { $('raw').innerHTML = '<div class="empty">לא זמין כרגע.</div>'; }
+  try { [rawData, verdictsData] = await Promise.all([api('/api/raw'), api('/api/verdicts').catch(() => ({}))]); renderRaw(); renderToday(); } catch { $('raw').innerHTML = '<div class="empty">לא זמין כרגע.</div>'; }
 }
 function renderRaw() {
   if (!rawData) return;
@@ -650,7 +656,7 @@ function renderRaw() {
   const when = (iso) => { const d = new Date(iso); const loc = d.toLocaleString('sv-SE'); return (loc.slice(0, 10) === today ? '' : 'אתמול ') + loc.slice(11, 16); };
   if (rawData.updated) { $('rawMeta').textContent = 'ישר מהמקורות, לפני בדיקה · מתעדכן 24/7 · עודכן ' + when(rawData.updated); $('upd').textContent = ' · עודכן ' + when(rawData.updated); }
   const href = (i) => /news\.google\.com/.test(i.link) ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title) : i.link;
-  const row = (i) => `<a class="rawrow" href="${esc(href(i))}" target="_blank" rel="noopener"><span class="rt">${esc(when(i.date || i.fetched))}</span><span class="rtitle">${esc(i.title)}</span><span class="rsrc">${esc(i.source)}${verdictsData[i.id]?.s === 'ok' ? ' <span class="rv ok">✓ נבדק</span>' : ' <span class="rv">טרם נבדק</span>'}</span></a>`;
+  const row = (i) => `<a class="rawrow" href="${esc(href(i))}" target="_blank" rel="noopener"><span class="rt">${esc(when(i.date || i.fetched))}</span><span class="rtitle">${esc(i.title)}</span><span class="rsrc">${esc(i.source)}${verdictsData[i.id]?.s === 'ok' ? ' <span class="rv ok">✓ נבדק מול המקור</span>' : ' <span class="rv">טרם נבדק</span>'}</span></a>`;
   // sub-groups by kind of source (no AI needed): Israel / our industries / world (world closed by default)
   const SUBS = [['il', '🇮🇱 ישראל', (i) => /^israel/.test(grpOf(i))], ['ind', '🏭 הענפים שלנו', (i) => grpOf(i) === 'industry'], ['world', '🌍 עולם, שווקים ו-M&A', (i) => !/^israel|^industry/.test(grpOf(i))]];
   let h = '', total = 0;
