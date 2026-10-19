@@ -140,7 +140,12 @@
   .fcrow { display:block; padding:8px 0; border-top:1px solid var(--line); color:inherit; text-decoration:none; font-size:15px; }
   .fcrow span { color:var(--muted); font-size:13px; margin-inline-start:6px; }
   /* 📡 raw news (24/7, before Claude) – visibly different from the checked content */
-  .rawbox { background:var(--card); border-radius:16px; box-shadow:var(--shadow); padding:12px 16px 10px; margin:12px 0 4px; border-top:3px solid #0ea5e9; scroll-margin-top:150px; }
+  .rawgrp > summary { background:linear-gradient(90deg, rgba(14,165,233,.10), transparent); }
+  details.rsub { margin:6px 0; }
+  details.rsub > summary { cursor:pointer; font-weight:700; font-size:14px; padding:8px 2px; list-style:none; display:flex; gap:8px; align-items:center; }
+  details.rsub > summary::-webkit-details-marker { display:none; }
+  details.rsub > summary::before { content:'▸'; color:var(--muted); }
+  details.rsub[open] > summary::before { content:'▾'; }
   .rawhead { display:flex; justify-content:space-between; align-items:baseline; gap:8px; font-size:16px; }
   .rawsub { font-size:12.5px; color:var(--muted); margin:4px 0 6px; }
   .rawrow { display:grid; grid-template-columns:62px 1fr; gap:2px 10px; padding:8px 0; border-top:1px solid var(--line); color:inherit; text-decoration:none; }
@@ -219,9 +224,9 @@
     <div class="dgrid"><aside class="dside">
     <div id="kpi"></div>
     </aside><div class="dmain">
-    <div id="rawSec" class="rawbox"><div class="rawhead"><b>📡 עכשיו בחדשות</b><span class="gmeta" id="rawMeta">מתעדכן 24/7</span></div>
-      <div class="rawsub">ישר מהמקורות, לפני הסינון של FinPulse. ידיעה שסומנה <span class="rv ok">✓ נבדק</span> עברה סינון ואימות ומופיעה גם בנושאים למטה.</div>
-      <div id="raw"><div class="empty">טוען…</div></div></div>
+    <details class="grp rawgrp" id="rawSec"><summary><span>📡 עכשיו בחדשות <span class="gmeta" id="rawMeta">ישר מהמקורות, לפני בדיקה · מתעדכן 24/7</span></span><span class="gcount" id="rawCount">0</span></summary><div class="gbody">
+      <div class="rawsub">כל הכותרות האחרונות כפי שפורסמו, גם כשהסינון של FinPulse עוד לא רץ (למשל בלילה). מה שמסומן <span class="rv ok">✓ נבדק</span> עבר סינון ואימות ומופיע גם בנושאים למטה, עם סיכום.</div>
+      <div id="raw"><div class="empty">טוען…</div></div></div></details>
     <div class="sec" style="margin-top:14px">📰 החדשות לפי נושא · נבדק ומסוכם</div>
     <div class="notice">מאומת מול הכתבה המקורית ומסוכם כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות. לחצי על נושא כדי לפתוח.</div>
     <div id="today"></div>
@@ -428,7 +433,8 @@ const CATS = { macro: '📈 מאקרו וריבית', budget: '🏛️ תקצי�
   infra: '⚡ תשתיות ואנרגיה', defense: '🎖️ ביטחון ורכש', tech: '💻 הייטק ו-AI', cyber: '🛡️ סייבר', labor: '👷 עבודה ושכר',
   global: '🌍 כלכלה עולמית', realestate: '🏗️ נדל״ן', cfo: '🎓 מקרי CFO', other: '📌 כללי' };
 // touches the group's world (judged from public info + the group's fields of activity only)
-const isMine = (i) => /ד\.מ|גלנט|אלגרונט|הקבוצה/.test(i.who || '');
+// touches the group = the filter tagged it for the group AND rated its impact on a group like ours ≥ 6 (not every tangential mention)
+const isMine = (i) => /ד\.מ|גלנט|אלגרונט|הקבוצה/.test(i.who || '') && (!i.impact || i.impact >= 6);
 // the same event reported by several sites → one card with all the sources
 const STOP = new Set(['מיליארד', 'מיליון', 'שקל', 'דולר', 'אירו', 'שווי', 'בשווי', 'של', 'עם', 'על', 'את', 'לפי', 'אחרי', 'לאחר', 'בין', 'כי', 'גם', 'עד', 'מול', 'היא', 'הוא', 'זה', 'חברת', 'ישראל', 'ישראלית', 'הישראלית', 'הישראלי', 'בישראל', 'the', 'and', 'for']);
 const words = (s) => (s || '').replace(/[^\p{L}\p{N}.\-]/gu, ' ').split(/\s+/).filter((w) => w.length >= 3 && !STOP.has(w));
@@ -463,7 +469,8 @@ function renderToday() {
     if (top.length === 3) break;
     if (!top.some((o) => catOf(o) === catOf(i))) top.push(i);
   }
-  topKeys = new Set(top.map((i) => i.title));
+  // 🔥 = the 3 picks + the 5 strongest that touch the group (priority marks, nothing is removed)
+  topKeys = new Set([...top, ...all.filter(isMine).sort(byImpact).slice(0, 5)].map((i) => i.title));
   const rankedOk = all.some((i) => i.impact);
   $('exec').innerHTML = q || !top.length ? '' : `<div class="exec"><h2><span>🎯 FinPulse Picks · ${top.length === 3 ? '3 הדברים' : 'הדברים'} החשובים היום לקבוצה</span><small>${rankedOk ? 'לפי השפעה אפשרית על הכנסות, עלויות, מימון ולקוחות' : 'האחרונים שנוגעים לקבוצה (הדירוג לפי השפעה נבנה בסריקות הבאות)'} · לחצי לפרטים</small></h2><ol>` +
     top.map((i) => `<li data-go="${esc(i.title)}"><b>${esc(i.title)}</b><span>${esc(i.why)}</span></li>`).join('') + '</ol></div>';
@@ -482,9 +489,10 @@ function renderToday() {
     const latest = (g.items.map((i) => i.ts || i.time).sort().at(-1) || '').slice(11);
     const open = q || openCats.has(g.k);
     h += `<details class="grp${g.k === 'mine' ? ' mine' : ''}" id="g-${g.k}" data-grp="${g.k}" ${open ? 'open' : ''}><summary><span>${g.label}</span><span class="gmeta">עודכן ${esc(latest)}</span><span class="gcount">${g.items.length}</span></summary><div class="gbody">`;
-    const lim = q || moreCats.has(g.k) ? g.items.length : 10;   // a long group shows its 10 strongest first
+    const cap = g.k === 'cfo' ? 5 : 10;                         // CFO cases: 5 a day, the rest in the archive
+    const lim = q || moreCats.has(g.k) ? g.items.length : cap;   // a long group shows its strongest first
     for (const i of g.items.slice(0, lim)) h += newsCard(i, g.k !== 'mine');
-    if (g.items.length > lim) h += `<button class="small ghost" data-more="${g.k}" style="margin-top:8px">הצג עוד ${g.items.length - lim}</button>`;
+    if (g.items.length > lim) h += `<button class="small ghost" data-more="${g.k}" style="margin-top:8px">${g.k === 'cfo' ? '📁 ארכיון: עוד ' + (g.items.length - lim) + ' מקרים' : 'הצג עוד ' + (g.items.length - lim)}</button>`;
     h += `</div></details>`;
   }
   $('today').innerHTML = h;
@@ -515,7 +523,7 @@ function newsCard(i, mineTag) {
     const srcLink = (x) => { const gn = /news\.google\.com/.test(x.link);
       const href = gn ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title + ' ' + x.source.replace(/\(.*$/, '')) : x.link;
       return `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(x.source.replace(/\(Google News.*$/, ''))} ↗</a>`; };
-    h += `<div class="card" data-key="${esc(i.title)}" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${esc(CATS[catOf(i)])} · ${esc(i.time)}${mineTag && isMine(i) ? ' · 🎯 נוגע לקבוצה' : ''}${i.level === '🧠' ? ' · 🧠 מקרה ללמידה' : ''}${i.dups > 1 ? ` · דווח ב-${i.dups} מקורות` : ''}${topKeys.has(i.title) ? '<span class="star">⭐ מהחשובים היום</span>' : ''}</div><h3>${esc(i.title)}</h3>
+    h += `<div class="card" data-key="${esc(i.title)}" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${esc(CATS[catOf(i)])} · ${esc(i.time)}${mineTag && isMine(i) ? ' · 🎯 נוגע לקבוצה' : ''}${i.level === '🧠' ? ' · 🧠 מקרה ללמידה' : ''}${i.dups > 1 ? ` · דווח ב-${i.dups} מקורות` : ''}${topKeys.has(i.title) ? '<span class="star">🔥 החשוב ביותר היום</span>' : ''}</div><h3>${esc(i.title)}</h3>
       <p>${esc(i.what)}</p><p><b>למה מעניין:</b> ${esc(i.why)}</p>
       ${i.question ? `<details class="qq"><summary>❓ שאלה לפגישה</summary><div>${esc(i.question)}</div></details>` : ''}
       <div class="src">${[i, ...(i.more || [])].map(srcLink).join(' · ')}</div>
@@ -638,19 +646,29 @@ function renderRaw() {
   const local = (i) => ['israel-press', 'israel-official', 'industry'].includes(grpOf(i)) || verdictsData[i.id]?.s === 'ok';
   const base = (rawData.items || []).filter((i) => !['noise', 'drop'].includes(verdictsData[i.id]?.s))
     .filter((i) => !q || (i.title + ' ' + i.source).toLowerCase().includes(q));
-  const hiddenWorld = base.filter((i) => !local(i)).length;
-  const list = rawWorld || q ? base : base.filter(local);
   const today = new Date().toLocaleString('sv-SE').slice(0, 10);
   const when = (iso) => { const d = new Date(iso); const loc = d.toLocaleString('sv-SE'); return (loc.slice(0, 10) === today ? '' : 'אתמול ') + loc.slice(11, 16); };
-  if (rawData.updated) { $('rawMeta').textContent = 'מתעדכן 24/7 · עודכן ' + when(rawData.updated); $('upd').textContent = ' · עודכן ' + when(rawData.updated); }
+  if (rawData.updated) { $('rawMeta').textContent = 'ישר מהמקורות, לפני בדיקה · מתעדכן 24/7 · עודכן ' + when(rawData.updated); $('upd').textContent = ' · עודכן ' + when(rawData.updated); }
   const href = (i) => /news\.google\.com/.test(i.link) ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title) : i.link;
-  $('raw').innerHTML = list.length ? list.slice(0, rawShow).map((i) => `<a class="rawrow" href="${esc(href(i))}" target="_blank" rel="noopener"><span class="rt">${esc(when(i.date || i.fetched))}</span><span class="rtitle">${esc(i.title)}</span><span class="rsrc">${esc(i.source)}${verdictsData[i.id]?.s === 'ok' ? ' <span class="rv ok">✓ נבדק</span>' : ' <span class="rv">טרם נבדק</span>'}</span></a>`).join('') +
-    (list.length > rawShow ? `<button class="small ghost" id="rawMore" style="margin-top:8px">עוד ${Math.min(20, list.length - rawShow)} מתוך ${list.length - rawShow}</button>` : '')
-    : `<div class="empty">${q ? 'אין ידיעות שמתאימות לחיפוש.' : 'עוד אין ידיעות.'}</div>`;
-  if (!q && hiddenWorld) $('raw').innerHTML += `<button class="small ghost" id="rawWorld" style="margin-top:8px">${rawWorld ? '🇮🇱 רק ישראל והענפים שלנו' : `🌍 הצג גם עולם, שווקים ו-M&A (${hiddenWorld})`}</button>`;
-  const wb = $('rawWorld'); if (wb) wb.onclick = () => { rawWorld = !rawWorld; rawShow = 12; renderRaw(); };
-  const mb = $('rawMore'); if (mb) mb.onclick = () => { rawShow += 20; renderRaw(); };
+  const row = (i) => `<a class="rawrow" href="${esc(href(i))}" target="_blank" rel="noopener"><span class="rt">${esc(when(i.date || i.fetched))}</span><span class="rtitle">${esc(i.title)}</span><span class="rsrc">${esc(i.source)}${verdictsData[i.id]?.s === 'ok' ? ' <span class="rv ok">✓ נבדק</span>' : ' <span class="rv">טרם נבדק</span>'}</span></a>`;
+  // sub-groups by kind of source (no AI needed): Israel / our industries / world (world closed by default)
+  const SUBS = [['il', '🇮🇱 ישראל', (i) => /^israel/.test(grpOf(i))], ['ind', '🏭 הענפים שלנו', (i) => grpOf(i) === 'industry'], ['world', '🌍 עולם, שווקים ו-M&A', (i) => !/^israel|^industry/.test(grpOf(i))]];
+  let h = '', total = 0;
+  for (const [k, label, fn] of SUBS) {
+    const items = base.filter(fn); if (!items.length) continue;
+    total += k === 'world' ? 0 : items.length;
+    const lim = q || rawOpen.has(k + '+') ? items.length : 8;
+    const open = q || (k === 'world' ? rawOpen.has('world') : !rawOpen.has(k + '-'));
+    h += `<details class="rsub" data-rsub="${k}" ${open ? 'open' : ''}><summary>${label} <span class="gcount">${items.length}</span></summary>${items.slice(0, lim).map(row).join('')}` +
+      (items.length > lim ? `<button class="small ghost" data-rmore="${k}" style="margin:6px 0">הצג עוד ${items.length - lim}</button>` : '') + '</details>';
+  }
+  $('rawCount').textContent = total;
+  $('raw').innerHTML = h || `<div class="empty">${q ? 'אין ידיעות שמתאימות לחיפוש.' : 'עוד אין ידיעות.'}</div>`;
+  document.querySelectorAll('[data-rmore]').forEach((b) => b.onclick = () => { rawOpen.add(b.dataset.rmore + '+'); renderRaw(); });
+  document.querySelectorAll('details.rsub').forEach((d) => d.ontoggle = () => { const k = d.dataset.rsub;
+    if (k === 'world') d.open ? rawOpen.add('world') : rawOpen.delete('world'); else d.open ? rawOpen.delete(k + '-') : rawOpen.add(k + '-'); });
 }
+const rawOpen = new Set();
 loadRaw();
 setInterval(loadRaw, 5 * 60000);
 $('newsQ').addEventListener('input', () => renderRaw());
