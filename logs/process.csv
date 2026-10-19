@@ -25,3 +25,4 @@ time_local,source,cloud_batches,cloud_items,already_seen,new_to_queue,claude_rou
 2026-10-19 15:38,local-fallback,0,0,837,40,3,129,0,4,0,98,23,4,0,428,,877,0,837
 2026-10-19 15:45,local-fallback,0,0,863,16,0,0,0,0,0,0,0,0,16,0,,879,0,863
 2026-10-19 16:00,local-fallback,0,0,851,30,0,0,0,0,0,0,0,0,46,0,,881,0,851
+2026-10-19 16:21,local-fallback,0,0,858,26,1,60,0,0,0,0,0,0,72,0,judge timeout,884,0,858
