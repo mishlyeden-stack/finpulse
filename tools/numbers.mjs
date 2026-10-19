@@ -58,4 +58,4 @@ export async function buildNumbers() {
   return { updated: new Date().toISOString(), numbers, events: manual.events || [], forecasts, forecastsNote: manual.forecastsNote || '' };
 }
 
-if (process.argv[1] && process.argv[1].endsWith('numbers.mjs')) console.log(JSON.stringify(await buildNumbers(), null, 1));
+if (process.argv[1] && /[\\/]numbers\.mjs$/.test(process.argv[1])) console.log(JSON.stringify(await buildNumbers(), null, 1));
