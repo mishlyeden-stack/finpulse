@@ -1,0 +1,31 @@
+name: collect
+# FinPulse 24/7 collector: RSS + official numbers. No AI, no secrets, no internal data. Free (public repo).
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: bot
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node tools/collect.mjs
+      - run: node tools/update-numbers.mjs
+      - name: commit if changed
+        run: |
+          git config user.name "FinPulse bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add queue state/seen.json state/feed-status.json data/raw.json data/numbers.json logs/collect.csv
+          git diff --cached --quiet && exit 0
+          git commit -qm "collect $(date -u +%F\ %H:%M)"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done
+          exit 1

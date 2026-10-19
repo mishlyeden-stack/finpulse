@@ -139,6 +139,17 @@
   .fcnow { padding:4px 0 6px; color:var(--ink2); font-size:14px; }
   .fcrow { display:block; padding:8px 0; border-top:1px solid var(--line); color:inherit; text-decoration:none; font-size:15px; }
   .fcrow span { color:var(--muted); font-size:13px; margin-inline-start:6px; }
+  /* 📡 raw news (24/7, before Claude) – visibly different from the checked content */
+  .rawbox { background:var(--card); border-radius:16px; box-shadow:var(--shadow); padding:12px 16px 10px; margin:12px 0 4px; border-top:3px solid #0ea5e9; scroll-margin-top:150px; }
+  .rawhead { display:flex; justify-content:space-between; align-items:baseline; gap:8px; font-size:16px; }
+  .rawsub { font-size:12.5px; color:var(--muted); margin:4px 0 6px; }
+  .rawrow { display:grid; grid-template-columns:62px 1fr; gap:2px 10px; padding:8px 0; border-top:1px solid var(--line); color:inherit; text-decoration:none; }
+  .rawrow:hover .rtitle { text-decoration:underline; }
+  .rt { grid-row:span 2; color:var(--muted); font-size:12.5px; font-variant-numeric:tabular-nums; padding-top:2px; }
+  .rtitle { font-size:14.5px; font-weight:600; line-height:1.45; }
+  .rsrc { font-size:12px; color:var(--muted); }
+  .rv { font-size:11px; border-radius:6px; padding:0 6px; background:#f1f5f9; color:#64748b; margin-inline-start:4px; }
+  .rv.ok { background:#dcfce7; color:#166534; }
   /* executive view */
   .exec { background:var(--ink); color:#fff; border-radius:18px; padding:16px 18px; margin:12px 0 6px; box-shadow:var(--shadow); }
   .exec h2 { margin:0 0 10px; font-size:16px; font-weight:800; display:flex; justify-content:space-between; gap:8px; }
@@ -208,7 +219,10 @@
     <div class="dgrid"><aside class="dside">
     <div id="kpi"></div>
     </aside><div class="dmain">
-    <div class="sec" style="margin-top:14px">📰 החדשות לפי נושא</div>
+    <div id="rawSec" class="rawbox"><div class="rawhead"><b>📡 עכשיו בחדשות</b><span class="gmeta" id="rawMeta">מתעדכן 24/7</span></div>
+      <div class="rawsub">ישר מהמקורות, לפני הסינון של FinPulse. ידיעה שסומנה <span class="rv ok">✓ נבדק</span> עברה סינון ואימות ומופיעה גם בנושאים למטה.</div>
+      <div id="raw"><div class="empty">טוען…</div></div></div>
+    <div class="sec" style="margin-top:14px">📰 החדשות לפי נושא · נבדק ומסוכם</div>
     <div class="notice">מאומת מול הכתבה המקורית ומסוכם כך שלא צריך לפתוח אותה. מתעדכן כל 15 דקות. לחצי על נושא כדי לפתוח.</div>
     <div id="today"></div>
     </div></div>
@@ -288,6 +302,8 @@ const staticPath = (path) => {
   if (path === '/api/days') return 'data/days.json';
   if (path.startsWith('/api/daily?d=')) return 'data/daily-' + path.split('=')[1] + '.json';
   if (path === '/api/today') return 'data/today.json';
+  if (path === '/api/raw') return 'data/raw.json';
+  if (path === '/api/verdicts') return 'data/verdicts.json';
   if (path === '/api/numbers') return 'data/numbers.json';
   return null;
 };
@@ -448,7 +464,7 @@ function renderToday() {
   }
   topKeys = new Set(top.map((i) => i.title));
   const rankedOk = all.some((i) => i.impact);
-  $('exec').innerHTML = q || !top.length ? '' : `<div class="exec"><h2><span>🎯 ${top.length === 3 ? '3 הדברים' : 'הדברים'} החשובים היום לקבוצה</span><small>${rankedOk ? 'לפי השפעה אפשרית על הכנסות, עלויות, מימון ולקוחות' : 'האחרונים שנוגעים לקבוצה (הדירוג לפי השפעה נבנה בסריקות הבאות)'} · לחצי לפרטים</small></h2><ol>` +
+  $('exec').innerHTML = q || !top.length ? '' : `<div class="exec"><h2><span>🎯 FinPulse Picks · ${top.length === 3 ? '3 הדברים' : 'הדברים'} החשובים היום לקבוצה</span><small>${rankedOk ? 'לפי השפעה אפשרית על הכנסות, עלויות, מימון ולקוחות' : 'האחרונים שנוגעים לקבוצה (הדירוג לפי השפעה נבנה בסריקות הבאות)'} · לחצי לפרטים</small></h2><ol>` +
     top.map((i) => `<li data-go="${esc(i.title)}"><b>${esc(i.title)}</b><span>${esc(i.why)}</span></li>`).join('') + '</ol></div>';
   const s = t.stats;
   // last update = newest item / scan; shown next to the greeting
@@ -472,7 +488,7 @@ function renderToday() {
   bindThink($('today'));
   document.querySelectorAll('#today details.grp').forEach((d) => d.ontoggle = () => { if (!q) d.open ? openCats.add(d.dataset.grp) : openCats.delete(d.dataset.grp); });
   // toolbar: jump straight to a group (opens it)
-  $('tbar').innerHTML = `<button data-jump="briefGrp">☀️ תדריך</button>` +
+  $('tbar').innerHTML = `<button data-jump="briefGrp">☀️ תדריך</button><button data-jump="rawSec">📡 עכשיו בחדשות</button>` +
     groups.map((g) => `<button class="${g.k === 'mine' ? 'mine' : ''}" data-jump="g-${g.k}">${g.label} · ${g.items.length}</button>`).join('') +
     `<button data-all="1">⇕ פתיחה/סגירה של הכול</button>`;
   document.querySelectorAll('[data-jump]').forEach((b) => b.onclick = () => { const d = $(b.dataset.jump); d.open = true; const off = document.querySelector('.toolbar').getBoundingClientRect().bottom + 10; window.scrollTo({ top: d.getBoundingClientRect().top + window.scrollY - off, behavior: 'smooth' }); d.classList.remove('flash'); void d.offsetWidth; d.classList.add('flash'); });
@@ -604,6 +620,29 @@ loadDays();
 loadConvs();
 loadToday();
 setInterval(loadToday, 5 * 60000);
+
+// ---------- 📡 עכשיו בחדשות: raw RSS, 24/7 from the cloud collector; Claude's verdicts mark what was checked ----------
+let rawData = null, verdictsData = {}, rawShow = 12;
+async function loadRaw() {
+  try { [rawData, verdictsData] = await Promise.all([api('/api/raw'), api('/api/verdicts').catch(() => ({}))]); renderRaw(); } catch { $('raw').innerHTML = '<div class="empty">לא זמין כרגע.</div>'; }
+}
+function renderRaw() {
+  if (!rawData) return;
+  const q = query.trim().toLowerCase();
+  const list = (rawData.items || []).filter((i) => !['noise', 'drop'].includes(verdictsData[i.id]?.s))
+    .filter((i) => !q || (i.title + ' ' + i.source).toLowerCase().includes(q));
+  const today = new Date().toLocaleString('sv-SE').slice(0, 10);
+  const when = (iso) => { const d = new Date(iso); const loc = d.toLocaleString('sv-SE'); return (loc.slice(0, 10) === today ? '' : 'אתמול ') + loc.slice(11, 16); };
+  if (rawData.updated) { $('rawMeta').textContent = 'מתעדכן 24/7 · עודכן ' + when(rawData.updated); $('upd').textContent = ' · עודכן ' + when(rawData.updated); }
+  const href = (i) => /news\.google\.com/.test(i.link) ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title) : i.link;
+  $('raw').innerHTML = list.length ? list.slice(0, rawShow).map((i) => `<a class="rawrow" href="${esc(href(i))}" target="_blank" rel="noopener"><span class="rt">${esc(when(i.date || i.fetched))}</span><span class="rtitle">${esc(i.title)}</span><span class="rsrc">${esc(i.source)}${verdictsData[i.id]?.s === 'ok' ? ' <span class="rv ok">✓ נבדק</span>' : ' <span class="rv">טרם נבדק</span>'}</span></a>`).join('') +
+    (list.length > rawShow ? `<button class="small ghost" id="rawMore" style="margin-top:8px">עוד ${Math.min(20, list.length - rawShow)} מתוך ${list.length - rawShow}</button>` : '')
+    : `<div class="empty">${q ? 'אין ידיעות שמתאימות לחיפוש.' : 'עוד אין ידיעות.'}</div>`;
+  const mb = $('rawMore'); if (mb) mb.onclick = () => { rawShow += 20; renderRaw(); };
+}
+loadRaw();
+setInterval(loadRaw, 5 * 60000);
+$('newsQ').addEventListener('input', () => renderRaw());
 </script>
 </body>
 </html>
