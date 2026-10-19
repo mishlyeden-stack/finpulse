@@ -439,7 +439,7 @@ function renderToday() {
   const all = mergeDup(t.items);
   const pool = all.filter(matchQ);
   // ranking: impact on a group like ours (from the filter), then newest. top 3 of 🎯 = the executive view
-  const byImpact = (a, b) => (b.impact || 0) - (a.impact || 0) || String(b.time).localeCompare(String(a.time));
+  const byImpact = (a, b) => (b.impact || 0) - (a.impact || 0) || String(b.ts || b.time).localeCompare(String(a.ts || a.time));
   // 3 different stories: at most one item per topic
   const top = [];
   for (const i of (all.some(isMine) ? all.filter(isMine) : [...all]).sort(byImpact)) {
@@ -451,7 +451,7 @@ function renderToday() {
   $('exec').innerHTML = q || !top.length ? '' : `<div class="exec"><h2><span>🎯 ${top.length === 3 ? '3 הדברים' : 'הדברים'} החשובים היום לקבוצה</span><small>${rankedOk ? 'לפי השפעה אפשרית על הכנסות, עלויות, מימון ולקוחות' : 'האחרונים שנוגעים לקבוצה (הדירוג לפי השפעה נבנה בסריקות הבאות)'} · לחצי לפרטים</small></h2><ol>` +
     top.map((i) => `<li data-go="${esc(i.title)}"><b>${esc(i.title)}</b><span>${esc(i.why)}</span></li>`).join('') + '</ol></div>';
   const s = t.stats;
-  let h = s ? `<div class="stat">🔎 היום: ${s.runs} סריקות · ${s.newItems} פריטים חדשים · נבדקו ${s.judged} · עברו סינון ואימות <b>${all.length}</b> אירועים · עדכון אחרון ${esc(s.last)}</div>`
+  let h = s ? `<div class="stat">🔎 24 השעות האחרונות · היום: ${s.runs} סריקות · ${s.newItems} פריטים חדשים · נבדקו ${s.judged} · עברו סינון ואימות <b>${all.length}</b> אירועים · עדכון אחרון ${esc(s.last)}</div>`
             : '<div class="notice">עוד לא היו סריקות היום (הן רצות כשהמחשב ער, א׳–ה׳ 07:00–18:00).</div>';
   if (q && !pool.length) h += '<div class="empty">לא נמצאו חדשות שמתאימות לחיפוש.</div>';
   if (s && !t.items.length) h += '<div class="empty">עוד לא נקלט היום משהו שעבר את הסינון והאימות.</div>';
@@ -460,7 +460,7 @@ function renderToday() {
   const groups = [{ k: 'mine', label: '🎯 נוגע לקבוצה', items: pool.filter(isMine).sort(byImpact) },
     ...Object.keys(CATS).map((k) => ({ k, label: CATS[k], items: pool.filter((i) => catOf(i) === k).sort((a, b) => isMine(b) - isMine(a)) }))].filter((g) => g.items.length);
   for (const g of groups) {
-    const latest = g.items.map((i) => i.time).sort().at(-1) || '';
+    const latest = (g.items.map((i) => i.ts || i.time).sort().at(-1) || '').slice(11);
     const open = q || openCats.has(g.k);
     h += `<details class="grp${g.k === 'mine' ? ' mine' : ''}" id="g-${g.k}" data-grp="${g.k}" ${open ? 'open' : ''}><summary><span>${g.label}</span><span class="gmeta">עודכן ${esc(latest)}</span><span class="gcount">${g.items.length}</span></summary><div class="gbody">`;
     for (const i of g.items) h += newsCard(i, g.k !== 'mine');
