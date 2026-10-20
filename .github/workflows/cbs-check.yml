@@ -1,0 +1,23 @@
+name: cbs-check
+# One-time diagnostic (manual trigger only): can GitHub's runners reach the Israel CBS API? No secrets, no writes.
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: probe CBS endpoints
+        run: |
+          for u in \
+            "https://api.cbs.gov.il/index/data/price?id=120010&format=json&download=false" \
+            "https://api.cbs.gov.il/index/data/price?id=120010&startPeriod=09-2026&endPeriod=09-2026&format=json&download=false" \
+            "https://apis.cbs.gov.il/series/catalog/level?id=1&format=json&download=false" \
+            "https://apis.cbs.gov.il/series/catalog/path?id=1&format=json&download=false" \
+            "https://www.cbs.gov.il/he/Pages/default.aspx"; do
+            echo "== $u"
+            curl -sS -m 30 -A "Mozilla/5.0" -o /tmp/out.txt -w "http=%{http_code} size=%{size_download} time=%{time_total}s\n" "$u" || echo "curl failed (exit $?)"
+            head -c 400 /tmp/out.txt | tr -d '\n'; echo
+          done
