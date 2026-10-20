@@ -1,0 +1,13 @@
+name: schedule-probe
+# Diagnostic control experiment (read-only, no secrets, no commits): does GitHub's scheduler fire a minimal workflow at 12 slots/hour
+# more reliably than our 'collect' workflow? Will be deleted once the question is answered.
+on:
+  schedule:
+    - cron: '2-59/5 * * * *'
+permissions: {}
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - run: echo "probe fired at $(date -u +%FT%TZ) event=${{ github.event_name }}"
