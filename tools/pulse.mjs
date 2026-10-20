@@ -41,6 +41,7 @@ const parseCsv = (t) => {   // RFC-4180-ish: quoted fields with commas / quotes 
   if (f || row.length) { row.push(f); rows.push(row); }
   return rows;
 };
+const fmtD = (t) => { const [y, m, d] = String(t).split('-'); return `${+d}.${+m}.${y.slice(2)}`; };
 const round = (v, d = 4) => Math.round(v * 10 ** d) / 10 ** d;
 
 // ---------------------------------------------------------------- time helpers
@@ -217,6 +218,9 @@ export async function buildPulse({ prev = null, log = () => {} } = {}) {
   const monthDiff = (a, b) => { const out = []; for (const [t, v] of a.series) { const w = b.series.find((x) => x[0] === t); if (w) out.push([t, round(v - w[1], 3)]); } return out; };
   if (ind.cpi_yoy && ind.us_cpi_yoy) { const s = monthDiff(ind.cpi_yoy, ind.us_cpi_yoy); if (s.length) ind.infl_diff_us = mkInd({ id: 'infl_diff_us', group: 'fx_driver', label: 'פער אינפלציה: ישראל פחות ארה"ב', unit: 'נק׳ אחוז', freq: 'M', source: { id: 'derived', name: 'חישוב FinPulse מנתוני בנק ישראל ו-BLS', url: '' } }, s); }
 
+  // a derived indicator inherits "carried" if any of its inputs was carried from a previous build
+  for (const [id, deps] of Object.entries({ rate_diff_us: ['boi_rate', 'fed_rate'], rate_diff_ea: ['boi_rate', 'ecb_rate'], bill_diff_us: ['il_bill_12m', 'ust_1y'], infl_diff_us: ['cpi_yoy', 'us_cpi_yoy'] })) if (ind[id] && deps.some((d) => ind[d]?.carried)) ind[id].carried = true;
+
   // ---------- theoretical forward (covered interest parity): F = S × (1 + r_ILS·T) / (1 + r_USD·T). NOT a forecast.
   let forward = null;
   if (ind.usd_ils && ind.il_bill_3m && ind.ust_3m && ind.il_bill_12m && ind.ust_1y) {
@@ -249,11 +253,11 @@ export async function buildPulse({ prev = null, log = () => {} } = {}) {
   if (ind.boi_rate) rows.push({ id: 'rate', title: 'ריבית', actual: 'boi_rate', trend: ['3M', '12M'], lastChange: ind.boi_rate.lastChange,
     expectations: [
       ind.il_bill_12m && { label: 'תשואת אג"ח ממשלתי ל-12 חודשים (אינדיקציה לתמחור, לא תחזית ריבית)', id: 'il_bill_12m', value: V('il_bill_12m'), asOf: L('il_bill_12m').t, freq: 'D', gap: gap(V('boi_rate'), V('il_bill_12m')) },
-      latestV?.snapshot?.rateQ2_2027 && { label: `שוק ההון (SHIR), ממוצע ריבית ברבעון 2 2027, ליום ${latestV.snapshot.asOf}`, value: latestV.snapshot.rateQ2_2027.capitalMarkets, asOf: latestV.snapshot.asOf, freq: 'F', gap: gap(V('boi_rate'), latestV.snapshot.rateQ2_2027.capitalMarkets) },
-      latestV?.snapshot?.rateQ2_2027 && { label: `חזאים מקצועיים, אותו אופק, ליום ${latestV.snapshot.asOf} (טווח ${latestV.snapshot.rateQ2_2027.forecastersRange.join('–')})`, value: latestV.snapshot.rateQ2_2027.forecasters, asOf: latestV.snapshot.asOf, freq: 'F', gap: gap(V('boi_rate'), latestV.snapshot.rateQ2_2027.forecasters) },
+      latestV?.snapshot?.rateQ2_2027 && { label: `שוק ההון (SHIR), ממוצע ריבית ברבעון 2 2027, ליום ${fmtD(latestV.snapshot.asOf)}`, value: latestV.snapshot.rateQ2_2027.capitalMarkets, asOf: latestV.snapshot.asOf, freq: 'F', gap: gap(V('boi_rate'), latestV.snapshot.rateQ2_2027.capitalMarkets) },
+      latestV?.snapshot?.rateQ2_2027 && { label: `חזאים מקצועיים, אותו אופק, ליום ${fmtD(latestV.snapshot.asOf)} (טווח ${latestV.snapshot.rateQ2_2027.forecastersRange.join('–')})`, value: latestV.snapshot.rateQ2_2027.forecasters, asOf: latestV.snapshot.asOf, freq: 'F', gap: gap(V('boi_rate'), latestV.snapshot.rateQ2_2027.forecasters) },
       latestV?.values?.rateQ2_2027 != null && { label: `תחזית צוות בנק ישראל, אותו אופק (${latestV.label})`, value: latestV.values.rateQ2_2027, asOf: latestV.published, freq: 'F', gap: gap(V('boi_rate'), latestV.values.rateQ2_2027) },
     ].filter(Boolean) });
-  if (ind.gdp_yoy) rows.push({ id: 'growth', title: 'צמיחה', actual: 'gdp_yoy', also: ['gdp_qoq'], trend: ['QoQ', 'YoY'],
+  if (ind.gdp_yoy) rows.push({ id: 'growth', title: 'צמיחה', actual: 'gdp_yoy', also: ['gdp_qoq'], trend: ['QoQ', 'YoY'], note: 'התחזיות שנתיות והנתון בפועל רבעוני (מול אותו רבעון אשתקד), ולכן לא מחושב פער.',
     expectations: [
       latestV?.values?.gdp2026 != null && { label: `תחזית צוות בנק ישראל לשנת 2026 (${latestV.label})`, value: latestV.values.gdp2026, asOf: latestV.published, freq: 'F', gap: null, was: priorV?.values?.gdp2026 ?? null },
       latestV?.values?.gdp2027 != null && { label: `תחזית צוות בנק ישראל לשנת 2027 (${latestV.label})`, value: latestV.values.gdp2027, asOf: latestV.published, freq: 'F', gap: null, was: priorV?.values?.gdp2027 ?? null },

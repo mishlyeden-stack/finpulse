@@ -796,10 +796,11 @@ function pRow(row, I, p) {
   for (const x of also) h += `<div class="pn">${esc(x.label)}: <b>${esc(pVal(x))}</b> (${esc(pPeriod(x.latest.t, x.freq))}); קודם ${esc(pVal(x, x.prev.v))}</div>`;
   if (row.id === 'inflation') h += pTarget(a.latest.v, row.target);
   if (row.lastChange) h += `<div class="pn">שינוי אחרון: ${esc(pPeriod(row.lastChange.t, 'D'))}, מ-${esc(pNum(row.lastChange.from))}% ל-${esc(pNum(row.lastChange.to))}%</div>`;
+  if (row.note) h += `<div class="pn">${esc(row.note)}</div>`;
   if (row.expectations?.length) {
     h += `<div class="pexh">ציפיות ותחזיות</div>`;
     for (const e of row.expectations) {
-      const gap = e.gap == null ? '' : `<span class="pgap">בפועל ${pNum(Math.abs(e.gap))} נק׳ ${e.gap > 0 ? 'מעל' : e.gap < 0 ? 'מתחת' : '= '}</span>`;
+      const gap = e.gap == null ? '' : `<span class="pgap">${e.gap === 0 ? 'הנתון בפועל זהה' : `הנתון בפועל ${e.gap > 0 ? 'גבוה' : 'נמוך'} ב-${pNum(Math.abs(e.gap))} נק׳`}</span>`;
       const was = e.was != null && e.was !== e.value ? `<span class="pwas">קודם ${pNum(e.was, 1)}%</span>` : '';
       h += `<div class="pe"><span class="pel">${esc(e.label)}</span><span class="pev">${pNum(e.value, e.freq === 'F' ? 1 : 2)}%</span>${pBadge(e.freq, e.asOf)}${gap}${was}</div>`;
     }
@@ -833,7 +834,7 @@ function pulseHtml(p) {
   // prices & rates
   let b = (p.rows || []).filter((r) => r.id === 'inflation' || r.id === 'rate').map((r) => pRow(r, I, p)).join('');
   const cv = ['curve_1y', 'curve_2y', 'curve_5y', 'curve_10y'].map((id) => I[id]).filter((x) => x?.latest);
-  if (cv.length) b += `<div class="ptw"><table class="ptab"><thead><tr><th>עקום תשואות שקלי (נומינלי)</th><th>ערך</th><th>חודש</th><th>שנה</th></tr></thead><tbody>${cv.map((x) => `<tr><td>${esc(x.label.replace('עקום תשואות שקלי נומינלי, ', ''))}</td><td class="n">${esc(pNum(x.latest.v))}%</td><td class="n">${pPlain(x, '1M')}</td><td class="n">${pPlain(x, '12M')}</td></tr>`).join('')}</tbody></table><div class="pn">${pBadge('M', cv[0].latest.t)} ממוצע חודשי · ${pSrc(cv[0])}. עקום שיורד/עולה בין טווחים הוא אינדיקציה, לא תחזית ריבית.</div></div>`;
+  if (cv.length) b += `<div class="ptw"><table class="ptab"><thead><tr><th>עקום תשואות שקלי (נומינלי)</th><th>ערך</th><th>חודש</th><th>שנה</th></tr></thead><tbody>${cv.map((x) => `<tr><td>${esc({ curve_1y: 'שנה', curve_2y: 'שנתיים', curve_5y: '5 שנים', curve_10y: '10 שנים' }[x.id] || x.label)}</td><td class="n">${esc(pNum(x.latest.v))}%</td><td class="n">${pPlain(x, '1M')}</td><td class="n">${pPlain(x, '12M')}</td></tr>`).join('')}</tbody></table><div class="pn">${pBadge('M', cv[0].latest.t)} ממוצע חודשי · ${pSrc(cv[0])}. עקום שיורד/עולה בין טווחים הוא אינדיקציה, לא תחזית ריבית.</div></div>`;
   h += sect('💶 מחירים וריבית', b);
   // growth & activity
   let g = (p.rows || []).filter((r) => r.id === 'growth').map((r) => pRow(r, I, p)).join('');
@@ -845,6 +846,7 @@ function pulseHtml(p) {
   f += `<div class="pexh">תחזיות שער שפורסמו בגלוי</div>` + (fc.length ? `<div class="ptw"><table class="ptab"><thead><tr><th>גוף</th><th>תחזית</th><th>אופק</th><th>פורסם</th><th>מקור</th></tr></thead><tbody>${fc.map((x) => `<tr class="${x.stale ? 'pold' : ''}"><td>${esc(x.who)}</td><td class="n"><b>${esc(x.range)}</b> <small>${esc(x.pair)}</small></td><td>${esc(x.horizon)}</td><td>${esc(pPeriod(x.date, 'D'))}${x.stale ? ' <span class="pb pstale">ישן</span>' : ''}</td><td><a href="${esc(x.source)}" target="_blank" rel="noopener">${esc(x.by)} ↗</a></td></tr>`).join('')}</tbody></table></div>` : '<div class="pn">אין כרגע תחזיות פומביות מאומתות.</div>') + `<div class="pn">${esc(p.fx?.forecastsNote || '')}${I.usd_ils ? ` שער נוכחי: ${esc(pNum(I.usd_ils.latest.v, 3))} (${esc(pPeriod(I.usd_ils.latest.t, 'D'))}).` : ''}</div>`;
   const fw = p.fx?.forward;
   if (fw) f += `<div class="pfw"><b>Forward תיאורטי</b> · 3 חודשים: <b>${esc(pNum(fw.theoretical3m, 3))}</b> · 12 חודשים: <b>${esc(pNum(fw.theoretical12m, 3))}</b><div class="pn">${esc(fw.label)} חושב מתשואות אג"ח ממשלתי קצר בישראל (${esc(pNum(fw.inputs.il3m))}% / ${esc(pNum(fw.inputs.il12m))}%) ובארה"ב (${esc(pNum(fw.inputs.us3m))}% / ${esc(pNum(fw.inputs.us1y))}%).</div></div>`;
+  f += `<div class="pexh">ריביות מרכזיות</div><div class="pgrid">${pCard(I.boi_rate)}${pCard(I.fed_rate)}${pCard(I.ecb_rate)}</div>`;
   const dr = ['rate_diff_us', 'rate_diff_ea', 'bill_diff_us', 'infl_diff_us', 'broad_dollar', 'eur_usd'].map((id) => pDriverRow(I[id], id)).join('');
   const eh = I.ea_hicp;
   f += `<div class="pexh">גורמים אפשריים לתנועת השער <span class="gmeta">השערות לבדיקה, לא קשר סיבתי</span></div><div class="ptw"><table class="ptab pdr"><thead><tr><th>גורם</th><th>עכשיו</th><th>חודש</th><th>3 חודשים</th><th>השערה (לא ודאית)</th></tr></thead><tbody>${dr}</tbody></table></div>`;
