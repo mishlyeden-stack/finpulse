@@ -161,6 +161,34 @@
   .rbadge { color:#64748b; font-size:11px; }
   .card.isread, .rawrow.isread { opacity:.55; }
   .card.isread:hover, .rawrow.isread:hover { opacity:.9; }
+  /* 📊 Pulse */
+  .phead { display:flex; justify-content:space-between; gap:10px; align-items:flex-start; background:var(--ink); color:#fff; border-radius:16px; padding:14px 18px; margin:10px 0; }
+  .phead b { font-size:18px; } .psub { font-size:13px; color:#cbd5e1; margin-top:4px; line-height:1.5; } .pbuilt { font-size:12px; color:#94a3b8; white-space:nowrap; }
+  .psigs { background:#fffbeb; border:1px solid #fcd34d; border-radius:16px; padding:12px 16px; margin:10px 0; }
+  .psigh { font-weight:800; margin-bottom:6px; } .psig { padding:8px 0; border-top:1px solid #fde68a; } .psig:first-of-type { border-top:0; }
+  .pst { font-weight:700; line-height:1.5; } .psd { font-size:13px; color:var(--ink2); margin:2px 0 6px; }
+  .pgrp .gbody { padding-top:10px; }
+  .pgrid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:10px; margin:6px 0 10px; }
+  .pc, .prow { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:12px 14px; }
+  .prow { margin:0 0 12px; } .prh { display:flex; justify-content:space-between; align-items:center; gap:8px; font-size:16px; margin-bottom:4px; }
+  .pc.pold, tr.pold, .pn.pold { opacity:.6; }
+  .pl { font-size:13px; font-weight:700; color:var(--ink2); line-height:1.4; min-height:36px; } .pl2 { font-size:12.5px; color:var(--muted); flex:1; }
+  .pvr { display:flex; align-items:center; gap:10px; margin:4px 0; } .pv { font-size:26px; font-weight:800; font-variant-numeric:tabular-nums; }
+  .psvg { color:#475569; margin-inline-start:auto; flex:none; }
+  .pb { display:inline-block; font-size:11px; font-weight:700; border-radius:6px; padding:1px 7px; margin-inline-end:4px; }
+  .fd { background:#e0f2fe; color:#0369a1; } .fm { background:#ccfbf1; color:#0f766e; } .fq { background:#ede9fe; color:#6d28d9; } .ff { background:#fef3c7; color:#b45309; } .pstale { background:#fee2e2; color:#b91c1c; }
+  .pchs { display:flex; flex-wrap:wrap; gap:4px 12px; margin:6px 0 2px; } .pch { font-size:12.5px; color:#334155; font-variant-numeric:tabular-nums; } .pch small, .pn { color:var(--muted); }
+  .pn { font-size:12px; margin-top:4px; line-height:1.5; } .pn a { color:var(--blue); }
+  .pexh { font-size:13px; font-weight:800; margin:14px 0 4px; color:var(--ink2); }
+  .pe { display:flex; flex-wrap:wrap; align-items:center; gap:4px 8px; padding:6px 0; border-top:1px solid var(--line); font-size:13.5px; } .pel { flex:1 1 220px; }
+  .pev { font-weight:800; font-variant-numeric:tabular-nums; } .pgap { font-size:12px; color:#475569; background:#f1f5f9; border-radius:6px; padding:1px 7px; } .pwas { font-size:12px; color:#b45309; }
+  .pact { margin-top:10px; }
+  .ptg { position:relative; height:10px; background:#e2e8f0; border-radius:999px; margin:10px 0 2px; } .ptgb { position:absolute; top:0; bottom:0; background:#bae6fd; } .ptgm { position:absolute; top:-3px; width:4px; height:16px; background:var(--ink); border-radius:2px; transform:translateX(-2px); }
+  .ptw { overflow-x:auto; margin:8px 0; } .ptab { border-collapse:collapse; width:100%; font-size:13px; background:var(--card); border-radius:12px; overflow:hidden; }
+  .ptab th, .ptab td { padding:8px 10px; border-bottom:1px solid var(--line); text-align:right; vertical-align:top; } .ptab th { background:#f8fafc; font-size:12px; color:var(--muted); } .ptab td.n { font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .ptab td.hint { font-size:12px; color:var(--muted); min-width:220px; line-height:1.5; }
+  .pfw { background:#f8fafc; border:1px dashed #cbd5e1; border-radius:12px; padding:10px 14px; margin:10px 0; } .pq { margin:6px 0; padding-inline-start:20px; line-height:1.7; font-size:13.5px; }
+  @media (max-width:700px) { .phead { flex-direction:column; } .pgrid { grid-template-columns:1fr 1fr; } .pv { font-size:22px; } }
   /* executive view */
   .exec { background:var(--ink); color:#fff; border-radius:18px; padding:16px 18px; margin:12px 0 6px; box-shadow:var(--shadow); }
   .exec h2 { margin:0 0 10px; font-size:16px; font-weight:800; display:flex; justify-content:space-between; gap:8px; }
@@ -226,6 +254,7 @@
 
 <nav class="tabs"><div class="tabs-in">
   <button class="tab on" data-view="daily"><span class="ic">☀️</span>היום</button>
+  <button class="tab" data-view="pulse"><span class="ic">📊</span>Pulse</button>
   <button class="tab" data-view="grow"><span class="ic">🌱</span>Grow</button>
 </div></nav>
 
@@ -248,6 +277,9 @@
       <div id="raw"><div class="empty">טוען…</div></div></div></details>
     </div></div>
   </section>
+
+  <!-- PULSE -->
+  <section class="view" id="v-pulse"><div id="pulse"><div class="empty">טוען…</div></div></section>
 
   <!-- THINK -->
   <section class="view" id="v-think">
@@ -330,6 +362,7 @@ const staticPath = (path) => {
   if (path === '/api/raw') return 'data/raw.json';
   if (path === '/api/verdicts') return 'data/verdicts.json';
   if (path === '/api/numbers') return 'data/numbers.json';
+  if (path === '/api/pulse') return 'data/pulse.json';
   return null;
 };
 const api = async (path, body) => {
@@ -701,6 +734,146 @@ if (STATIC) {
     navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloaded) { reloaded = true; location.reload(); } });
   }
 }
+// ---------- 📊 Pulse (Market & Economy Pulse) – official-source indicators, actual vs expectations, FX, drivers ----------
+// PULSE-UI-BEGIN
+const P_MONTHS = ['ינו׳', 'פבר׳', 'מרץ', 'אפר׳', 'מאי', 'יוני', 'יולי', 'אוג׳', 'ספט׳', 'אוק׳', 'נוב׳', 'דצמ׳'];
+const P_FREQ = { D: ['יומי', 'fd'], M: ['חודשי', 'fm'], Q: ['רבעוני', 'fq'], F: ['תחזית', 'ff'] };
+const P_WIN = { '1W': 'שבוע', '1M': 'חודש', '3M': '3 חודשים', '12M': 'שנה', QoQ: 'רבעון קודם', YoY: 'שנה' };
+function pPeriod(t, f) {
+  const s = String(t);
+  if (f === 'Q') { const [y, q] = s.split('-Q'); return `רבעון ${q} ${y}`; }
+  const m = s.match(/^(\d{4})-(\d{2})(?:-(\d{2}))?$/); if (!m) return s;
+  return m[3] ? `${+m[3]}.${+m[2]}.${m[1].slice(2)}` : `${P_MONTHS[+m[2] - 1]} ${m[1]}`;
+}
+const pNum = (v, d = 2) => (v == null || isNaN(v) ? '—' : Number(v).toLocaleString('en-US', { minimumFractionDigits: d, maximumFractionDigits: d }));
+const pArrow = (v) => (v > 0 ? '▲' : v < 0 ? '▼' : '●');
+function pVal(i, v = i.latest.v) {
+  const d = i.decimals ?? 2, n = pNum(v, d);
+  return i.unit === '%' ? `${n}%` : i.unit === '₪' ? `${n} ₪` : i.unit === '$' ? n : i.unit === 'משרות' ? Math.round(v).toLocaleString('en-US') : n;
+}
+function pBadge(freq, t, extra = '') {
+  const f = P_FREQ[freq] || P_FREQ.D;
+  return `<span class="pb ${f[1]}">${f[0]} · ${esc(pPeriod(t, freq))}</span>${extra}`;
+}
+const pStale = (i) => (i.stale ? '<span class="pb pstale">נתון ישן</span>' : '') + (i.carried ? '<span class="pb pstale">לא התעדכן</span>' : '');
+const pPlain = (i, k) => { const c = i.changes?.[k]; return c ? pArrow(c.v) + " " + pNum(Math.abs(c.v), 2) : "—"; };
+function pChanges(i, keys) {
+  const out = [];
+  for (const k of keys || Object.keys(i.changes || {})) {
+    const c = i.changes?.[k]; if (!c) continue;
+    const txt = i.changeKind === 'pct' ? `${pNum(Math.abs(c.v), 2)}%` : `${pNum(Math.abs(c.v), (i.decimals ?? 2) > 2 ? 3 : 2)} נק׳`;
+    out.push(`<span class="pch">${pArrow(c.v)} ${txt} <small>(${P_WIN[k] || k})</small></span>`);
+  }
+  return out.join('');
+}
+function pSpark(series, w = 110, h = 30) {
+  if (!series || series.length < 2) return '';
+  let s = series; if (s.length > 60) { const step = s.length / 60; s = Array.from({ length: 60 }, (_, k) => series[Math.min(series.length - 1, Math.floor(k * step))]); s[s.length - 1] = series[series.length - 1]; }
+  const vs = s.map((x) => x[1]), mn = Math.min(...vs), mx = Math.max(...vs), rg = mx - mn || 1;
+  const pts = s.map((x, k) => `${(k / (s.length - 1) * (w - 6) + 3).toFixed(1)},${(h - 4 - ((x[1] - mn) / rg) * (h - 8)).toFixed(1)}`);
+  const [lx, ly] = pts[pts.length - 1].split(',');
+  return `<svg class="psvg" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" role="img" aria-label="מגמה"><polyline points="${pts.join(' ')}" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/><circle cx="${lx}" cy="${ly}" r="2.4" fill="currentColor"/></svg>`;
+}
+const pSrc = (i) => (i.source?.url ? `<a href="${esc(i.source.url)}" target="_blank" rel="noopener">${esc(i.source.name)} ↗</a>` : esc(i.source?.name || ''));
+function pCard(i, extraNote = '') {
+  if (!i?.latest) return '';
+  const ch = i.sinceChange ? `<span class="pch">ללא שינוי מאז ${esc(pPeriod(i.latest.t, 'D'))}</span>` : pChanges(i);
+  const badge = i.sinceChange ? `<span class="pb fd">עדכון בעת שינוי</span>` : pBadge(i.freq, i.latest.t, pStale(i));
+  return `<div class="pc${i.stale || i.carried ? ' pold' : ''}"><div class="pl">${esc(i.label)}</div><div class="pvr"><span class="pv">${esc(pVal(i))}</span>${pSpark(i.series)}</div><div>${badge}</div><div class="pchs">${ch}</div>${i.note || extraNote ? `<div class="pn">${esc([i.note, extraNote].filter(Boolean).join(' · '))}</div>` : ''}<div class="pn">${pSrc(i)}</div></div>`;
+}
+const pThinkBtn = (title, ctx, label = '🧠 בואי נחשוב על זה') => `<button class="small ghost" data-thinkctx="${esc(ctx)}" data-thinktitle="${esc(title)}">${label}</button>`;
+function pTarget(v, t) {   // position of the latest value relative to the target band (scale 0..5%)
+  if (!t) return '';
+  const sc = (x) => Math.max(0, Math.min(100, (x / 5) * 100));
+  return `<div class="ptg"><div class="ptgb" style="left:${sc(t.lo)}%;width:${sc(t.hi) - sc(t.lo)}%"></div><div class="ptgm" style="left:${sc(v)}%"></div></div><div class="pn">יעד האינפלציה: ${t.lo}%–${t.hi}% · הסרגל 0%–5%</div>`;
+}
+function pRow(row, I, p) {
+  const a = I[row.actual]; if (!a?.latest) return '';
+  const also = (row.also || []).map((id) => I[id]).filter((x) => x?.latest);
+  let h = `<div class="prow"><div class="prh"><b>${esc(row.title)}</b>${pBadge(a.freq, a.latest.t, pStale(a))}</div>`;
+  h += `<div class="pvr"><span class="pv">${esc(pVal(a))}</span><span class="pl2">${esc(a.label)}</span>${pSpark(a.series, 120, 34)}</div><div class="pchs">${pChanges(a, row.trend)}</div>`;
+  if (a.prev) h += `<div class="pn">נתון קודם: ${esc(pVal(a, a.prev.v))} (${esc(pPeriod(a.prev.t, a.freq))})</div>`;
+  for (const x of also) h += `<div class="pn">${esc(x.label)}: <b>${esc(pVal(x))}</b> (${esc(pPeriod(x.latest.t, x.freq))}); קודם ${esc(pVal(x, x.prev.v))}</div>`;
+  if (row.id === 'inflation') h += pTarget(a.latest.v, row.target);
+  if (row.lastChange) h += `<div class="pn">שינוי אחרון: ${esc(pPeriod(row.lastChange.t, 'D'))}, מ-${esc(pNum(row.lastChange.from))}% ל-${esc(pNum(row.lastChange.to))}%</div>`;
+  if (row.expectations?.length) {
+    h += `<div class="pexh">ציפיות ותחזיות</div>`;
+    for (const e of row.expectations) {
+      const gap = e.gap == null ? '' : `<span class="pgap">בפועל ${pNum(Math.abs(e.gap))} נק׳ ${e.gap > 0 ? 'מעל' : e.gap < 0 ? 'מתחת' : '= '}</span>`;
+      const was = e.was != null && e.was !== e.value ? `<span class="pwas">קודם ${pNum(e.was, 1)}%</span>` : '';
+      h += `<div class="pe"><span class="pel">${esc(e.label)}</span><span class="pev">${pNum(e.value, e.freq === 'F' ? 1 : 2)}%</span>${pBadge(e.freq, e.asOf)}${gap}${was}</div>`;
+    }
+  }
+  const ctx = `${row.title}: בפועל ${pVal(a)} (${pPeriod(a.latest.t, a.freq)})` + (row.expectations || []).map((e) => `; ${e.label}: ${pNum(e.value)}%`).join('');
+  return h + `<div class="pact">${pThinkBtn(row.title, ctx)}</div></div>`;
+}
+const P_HINTS = {
+  rate_diff_us: 'ריבית נמוכה יותר בישראל מקטינה את התשואה על החזקת שקלים, מה שיכול להפחית ביקוש להם. הקשר משתנה בין תקופות ומושפע גם מסיכון ומתזרימים.',
+  rate_diff_ea: 'פער חיובי מול אירופה יכול לתמוך בשקל מול האירו, אבל אינו מספיק כדי להסביר תנועה.',
+  bill_diff_us: 'פער תשואות קצרות משקף גם ציפיות לשינויי ריבית בשני הצדדים, ולא רק את הריבית הנוכחית.',
+  infl_diff_us: 'פער אינפלציה קשור לשער בטווח ארוך (כוח קנייה). בטווח קצר הקשר חלש.',
+  broad_dollar: 'דולר חזק גלובלית נוטה להפעיל לחץ על מטבעות אחרים. הקשר מול השקל תלוי גם בגורמים ישראליים.',
+  eur_usd: 'שער האירו מול הדולר משפיע על האירו/שקל גם כשהדולר/שקל כמעט לא זז.',
+};
+function pDriverRow(i, id) {
+  if (!i?.latest) return '';
+  const unit = i.unit === 'נק׳ אחוז' ? ' נק׳ אחוז' : '';
+  const ch = (k) => { const c = i.changes?.[k]; return c ? `${pArrow(c.v)} ${i.changeKind === 'pct' ? pNum(Math.abs(c.v)) + '%' : pNum(Math.abs(c.v))}` : '—'; };
+  return `<tr class="${i.stale ? 'pold' : ''}"><td><b>${esc(i.label)}</b>${pBadge(i.freq, i.latest.t, pStale(i))}</td><td class="n">${esc(pNum(i.latest.v, i.decimals ?? 2))}${esc(unit)}</td><td class="n">${ch('1M')}</td><td class="n">${ch('3M')}</td><td class="hint">${esc(P_HINTS[id] || '')}</td></tr>`;
+}
+function pulseHtml(p) {
+  const I = p.indicators || {};
+  const built = new Date(p.builtAt); const hh = isNaN(built) ? '' : built.toLocaleTimeString('he-IL', { hour: '2-digit', minute: '2-digit' });
+  const sect = (title, body, open = true, meta = '') => `<details class="grp pgrp" ${open ? 'open' : ''}><summary><span>${title}${meta ? ` <span class="gmeta">${meta}</span>` : ''}</span></summary><div class="gbody">${body}</div></details>`;
+  let h = `<div class="phead"><div><b>📊 Market & Economy Pulse</b><div class="psub">מקורות רשמיים בלבד. כל נתון מוצג עם <b>תאריך הנתון</b> ותדירותו (יומי / חודשי / רבעוני), ולא עם מועד הטעינה.</div></div><div class="pbuilt">נבנה ${esc(hh)}</div></div>`;
+  // 🧠 what's interesting (observations + a way into Think; the conclusion is Eden's to form)
+  if (p.signals?.length) {
+    h += `<div class="psigs"><div class="psigh">🧠 מה מעניין כאן?</div>` + p.signals.map((s) => `<div class="psig"><div class="pst">${esc(s.title)}</div><div class="psd">${esc(s.detail)}</div>${pThinkBtn(s.title, `${s.ctx}\nשאלה פותחת מוצעת: ${s.question}`)}</div>`).join('') + `</div>`;
+  }
+  // prices & rates
+  let b = (p.rows || []).filter((r) => r.id === 'inflation' || r.id === 'rate').map((r) => pRow(r, I, p)).join('');
+  const cv = ['curve_1y', 'curve_2y', 'curve_5y', 'curve_10y'].map((id) => I[id]).filter((x) => x?.latest);
+  if (cv.length) b += `<div class="ptw"><table class="ptab"><thead><tr><th>עקום תשואות שקלי (נומינלי)</th><th>ערך</th><th>חודש</th><th>שנה</th></tr></thead><tbody>${cv.map((x) => `<tr><td>${esc(x.label.replace('עקום תשואות שקלי נומינלי, ', ''))}</td><td class="n">${esc(pNum(x.latest.v))}%</td><td class="n">${pPlain(x, '1M')}</td><td class="n">${pPlain(x, '12M')}</td></tr>`).join('')}</tbody></table><div class="pn">${pBadge('M', cv[0].latest.t)} ממוצע חודשי · ${pSrc(cv[0])}. עקום שיורד/עולה בין טווחים הוא אינדיקציה, לא תחזית ריבית.</div></div>`;
+  h += sect('💶 מחירים וריבית', b);
+  // growth & activity
+  let g = (p.rows || []).filter((r) => r.id === 'growth').map((r) => pRow(r, I, p)).join('');
+  g += `<div class="pgrid">` + ['unemployment', 'job_openings', 'eai', 'bts', 'current_account'].map((id) => pCard(I[id], id === 'eai' && I.eai?.longTermAvg != null ? `ממוצע ארוך טווח ${pNum(I.eai.longTermAvg)}%` : '')).join('') + `</div>`;
+  h += sect('🏭 צמיחה ופעילות', g);
+  // FX
+  let f = `<div class="pgrid">${pCard(I.usd_ils)}${pCard(I.eur_ils)}</div>`;
+  const fc = p.fx?.forecasts || [];
+  f += `<div class="pexh">תחזיות שער שפורסמו בגלוי</div>` + (fc.length ? `<div class="ptw"><table class="ptab"><thead><tr><th>גוף</th><th>תחזית</th><th>אופק</th><th>פורסם</th><th>מקור</th></tr></thead><tbody>${fc.map((x) => `<tr class="${x.stale ? 'pold' : ''}"><td>${esc(x.who)}</td><td class="n"><b>${esc(x.range)}</b> <small>${esc(x.pair)}</small></td><td>${esc(x.horizon)}</td><td>${esc(pPeriod(x.date, 'D'))}${x.stale ? ' <span class="pb pstale">ישן</span>' : ''}</td><td><a href="${esc(x.source)}" target="_blank" rel="noopener">${esc(x.by)} ↗</a></td></tr>`).join('')}</tbody></table></div>` : '<div class="pn">אין כרגע תחזיות פומביות מאומתות.</div>') + `<div class="pn">${esc(p.fx?.forecastsNote || '')}${I.usd_ils ? ` שער נוכחי: ${esc(pNum(I.usd_ils.latest.v, 3))} (${esc(pPeriod(I.usd_ils.latest.t, 'D'))}).` : ''}</div>`;
+  const fw = p.fx?.forward;
+  if (fw) f += `<div class="pfw"><b>Forward תיאורטי</b> · 3 חודשים: <b>${esc(pNum(fw.theoretical3m, 3))}</b> · 12 חודשים: <b>${esc(pNum(fw.theoretical12m, 3))}</b><div class="pn">${esc(fw.label)} חושב מתשואות אג"ח ממשלתי קצר בישראל (${esc(pNum(fw.inputs.il3m))}% / ${esc(pNum(fw.inputs.il12m))}%) ובארה"ב (${esc(pNum(fw.inputs.us3m))}% / ${esc(pNum(fw.inputs.us1y))}%).</div></div>`;
+  const dr = ['rate_diff_us', 'rate_diff_ea', 'bill_diff_us', 'infl_diff_us', 'broad_dollar', 'eur_usd'].map((id) => pDriverRow(I[id], id)).join('');
+  const eh = I.ea_hicp;
+  f += `<div class="pexh">גורמים אפשריים לתנועת השער <span class="gmeta">השערות לבדיקה, לא קשר סיבתי</span></div><div class="ptw"><table class="ptab pdr"><thead><tr><th>גורם</th><th>עכשיו</th><th>חודש</th><th>3 חודשים</th><th>השערה (לא ודאית)</th></tr></thead><tbody>${dr}</tbody></table></div>`;
+  if (eh?.stale) f += `<div class="pn pold">אינפלציה באירו: הנתון האחרון במקורות הרשמיים (ECB, Eurostat) הוא מ-${esc(pPeriod(eh.latest.t, 'M'))} (${esc(pNum(eh.latest.v, 1))}%), ולכן לא נכלל בפער האינפלציה.</div>`;
+  f += `<div class="pn">מצב הפעילות בישראל (צמיחה, מדד הפעילות, חשבון שוטף) מופיע בקטע "צמיחה ופעילות". אין מקור חינמי רשמי למדד ת"א 35, ל-CDS ולמדדי סיכון.</div>`;
+  const dctx = 'גורמים אפשריים לתנועת דולר/שקל ואירו/שקל. ' + ['rate_diff_us', 'rate_diff_ea', 'bill_diff_us', 'infl_diff_us', 'broad_dollar', 'eur_usd'].map((id) => I[id]?.latest ? `${I[id].label}: ${pNum(I[id].latest.v, I[id].decimals ?? 2)}` : '').filter(Boolean).join('; ') + (I.usd_ils ? `; דולר/שקל ${pNum(I.usd_ils.latest.v, 3)}, שינוי חודש ${pNum(I.usd_ils.changes?.['1M']?.v)}%` : '');
+  f += `<div class="pact">${pThinkBtn('מה מניע את הדולר/שקל?', dctx)}</div>`;
+  h += sect('💱 שערי חליפין (FX)', f);
+  // forecast vintages / revisions
+  const rv = (p.revisions?.latest || []).filter((r) => r.was != null);
+  const vt = p.revisions?.vintages || [];
+  if (vt.length) h += sect('🔁 עדכוני תחזיות בנק ישראל', `<div class="ptw"><table class="ptab"><thead><tr><th>תחזית</th><th>${esc(vt.length > 1 ? vt[vt.length - 2].label : 'קודם')}</th><th>${esc(vt[vt.length - 1].label)}</th><th>שינוי</th></tr></thead><tbody>${rv.map((r) => `<tr><td>${esc(r.label)}</td><td class="n">${esc(pNum(r.was, 1))}%</td><td class="n">${esc(pNum(r.now, 1))}%</td><td class="n">${r.delta === 0 ? '●' : pArrow(r.delta)} ${esc(pNum(Math.abs(r.delta), 1))}</td></tr>`).join('')}</tbody></table></div><div class="pn">מקור: <a href="${esc(vt[vt.length - 1].url || p.revisions.source?.url || '#')}" target="_blank" rel="noopener">${esc(p.revisions.source?.name || 'בנק ישראל')} ↗</a>. כל מהדורה חדשה נשמרת, כדי שאפשר יהיה לבדוק בהמשך מה השתנה ואיך התחזית נבחנה מול הבפועל.${vt.some((v) => v.derived) ? ' ערכי מרץ נגזרים ממסמך יולי.' : ''}</div>`, false, `${vt.length} מהדורות`);
+  // questions
+  h += sect('❓ שאלות לחשיבה (CFO)', `<ul class="pq">${(p.cfoQuestions || []).map((q) => `<li>${esc(q)}</li>`).join('')}</ul><div class="pn">שאלות כלליות. החיבור למספרים של החברה נעשה על ידך.</div>`, false);
+  // sources & gaps
+  const srcs = new Map(); for (const i of Object.values(I)) if (i?.source?.url && i.source.id !== 'derived') srcs.set(i.source.name, i.source.url);
+  h += sect('ℹ️ מקורות, עדכניות ומה לא כלול', `<div class="pn">${[...srcs].map(([n, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(n)} ↗</a>`).join(' · ')}</div><div class="pn">נתון ישן = יומי מעל 6 ימים, חודשי מעל 75 יום, רבעוני מעל 150 יום. נתון שהמקור לא הצליח להחזיר נשאר עם התאריך המקורי שלו ומסומן "לא התעדכן".</div><ul class="pq">${(p.notAvailable || []).map((x) => `<li><b>${esc(x.what)}</b>: ${esc(x.why)}</li>`).join('')}</ul>`, false);
+  return h;
+}
+let pulseData = null;
+async function loadPulse() {
+  try { pulseData = await api('/api/pulse'); $('pulse').innerHTML = pulseHtml(pulseData); bindThink($('pulse')); }
+  catch (e) { if (!pulseData) $('pulse').innerHTML = '<div class="empty">Pulse עוד לא נבנה. הוא נבנה אוטומטית עם הסריקה הבאה.</div>'; }
+}
+// PULSE-UI-END
+
+loadPulse();
+setInterval(loadPulse, 30 * 60000);
+
 loadNumbers();
 loadDays();
 loadConvs();

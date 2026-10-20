@@ -21,11 +21,14 @@ jobs:
           node-version: 22
       - run: node tools/collect.mjs
       - run: node tools/update-numbers.mjs
+      - name: market & economy pulse (rebuilt at most every 3h; a failure must not stop the collector)
+        run: node tools/pulse.mjs --out data/pulse.json --max-age 3 || echo 'pulse build skipped'
       - name: commit if changed
         run: |
           git config user.name "FinPulse bot"
           git config user.email "bot@users.noreply.github.com"
           git add queue state/seen.json state/feed-status.json data/raw.json data/numbers.json logs/collect.csv
+          [ -f data/pulse.json ] && git add data/pulse.json || true
           git diff --cached --quiet && exit 0
           git commit -qm "collect $(date -u +%F\ %H:%M)"
           for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done
