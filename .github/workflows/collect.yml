@@ -2,7 +2,8 @@ name: collect
 # FinPulse 24/7 collector: RSS + official numbers. No AI, no secrets, no internal data. Free (public repo).
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    # GitHub drops/delays many scheduled runs at :00/:15/:30/:45 (peak load) – off-peak minutes are more reliable
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
 permissions:
   contents: write

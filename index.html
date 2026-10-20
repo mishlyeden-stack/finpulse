@@ -503,7 +503,7 @@ function renderToday() {
   const s = t.stats;
   // last update = newest item / scan; shown next to the greeting
   const lastTs = [s && `${t.date} ${s.last}`, ...all.map((i) => i.ts)].filter(Boolean).sort().at(-1) || '';
-  if (lastTs) { const [dd, tt] = lastTs.split(' '); $('upd').textContent = ` · עודכן ${dd === t.date ? 'היום' : dd.split('-').reverse().slice(0, 2).join('.')} ${tt}`; }
+  if (lastTs) { updTimes.checked = new Date(lastTs.replace(' ', 'T')); showUpd(); }
   let h = `<div class="stat">🔎 24 השעות האחרונות · <b>${all.length}</b> אירועים שעברו סינון ואימות${s ? ` · היום ${s.runs} סריקות, ${s.newItems} פריטים חדשים` : ''}</div>`;
   if (q && !pool.length) h += '<div class="empty">לא נמצאו חדשות שמתאימות לחיפוש.</div>';
   if (s && !t.items.length) h += '<div class="empty">עוד לא נקלט היום משהו שעבר את הסינון והאימות.</div>';
@@ -550,6 +550,13 @@ function renderToday() {
     window.scrollTo({ top: card.getBoundingClientRect().top + window.scrollY - off, behavior: 'smooth' });
     card.classList.add('hl'); setTimeout(() => card.classList.remove('hl'), 2000);
   });
+}
+// header: two clocks, never mixed up – news collection (cloud, 24/7) and FinPulse's check/summaries (PC + Claude)
+const updTimes = { news: null, checked: null };
+function showUpd() {
+  const f = (d) => { const loc = d.toLocaleString('sv-SE'); const today = new Date().toLocaleString('sv-SE').slice(0, 10);
+    return (loc.slice(0, 10) === today ? '' : loc.slice(8, 10) + '.' + loc.slice(5, 7) + ' ') + loc.slice(11, 16); };
+  $('upd').textContent = [updTimes.news && ' · חדשות עודכנו ' + f(updTimes.news), updTimes.checked && ' · נבדקו ' + f(updTimes.checked)].filter(Boolean).join('');
 }
 const openCats = new Set(), moreCats = new Set();
 const cfoAns = new Map(), cfoOpen = new Set(), cfoShown = new Set();   // CFO-angle drafts survive the 5-min refresh
@@ -686,7 +693,7 @@ function renderRaw() {
     .filter((i) => !q || (i.title + ' ' + i.source).toLowerCase().includes(q));
   const today = new Date().toLocaleString('sv-SE').slice(0, 10);
   const when = (iso) => { const d = new Date(iso); const loc = d.toLocaleString('sv-SE'); return (loc.slice(0, 10) === today ? '' : 'אתמול ') + loc.slice(11, 16); };
-  if (rawData.updated) { $('rawMeta').textContent = 'ישר מהמקורות, לפני בדיקה · מתעדכן 24/7 · עודכן ' + when(rawData.updated); $('upd').textContent = ' · עודכן ' + when(rawData.updated); }
+  if (rawData.updated) { $('rawMeta').textContent = 'ישר מהמקורות, לפני בדיקה · מתעדכן 24/7 · עודכן ' + when(rawData.updated); updTimes.news = new Date(rawData.updated); showUpd(); }
   const href = (i) => /news\.google\.com/.test(i.link) ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title) : i.link;
   const row = (i) => `<a class="rawrow" href="${esc(href(i))}" target="_blank" rel="noopener"><span class="rt">${esc(when(i.date || i.fetched))}</span><span class="rtitle">${esc(i.title)}</span><span class="rsrc">${esc(i.source)}${verdictsData[i.id]?.s === 'ok' ? ' <span class="rv ok">✓ נבדק מול המקור</span>' : ' <span class="rv">טרם נבדק</span>'}</span></a>`;
   // sub-groups by kind of source (no AI needed): Israel / our industries / world (world closed by default)
