@@ -572,7 +572,7 @@ function renderToday() {
   document.querySelectorAll('#today details.grp').forEach((d) => d.ontoggle = () => { if (!q) d.open ? openCats.add(d.dataset.grp) : openCats.delete(d.dataset.grp); });
   // toolbar: jump straight to a group (opens it)
   $('tbar').innerHTML = `<button data-jump="briefGrp">☀️ תדריך</button>` +
-    groups.map((g) => `<button class="${g.k === 'mine' ? 'mine' : ''}" data-jump="g-${g.k}">${g.label} · ${g.items.length}</button>`).join('') +
+    groups.filter((g) => g.k !== 'archive').map((g) => `<button class="${g.k === 'mine' ? 'mine' : ''}" data-jump="g-${g.k}">${g.label} · ${g.items.length}</button>`).join('') +
     `<button data-all="1">⇕ פתיחה/סגירה של הכול</button>`;
   document.querySelectorAll('[data-jump]').forEach((b) => b.onclick = () => { const d = $(b.dataset.jump); d.open = true; const off = document.querySelector('.toolbar').getBoundingClientRect().bottom + 10; window.scrollTo({ top: d.getBoundingClientRect().top + window.scrollY - off, behavior: 'smooth' }); d.classList.remove('flash'); void d.offsetWidth; d.classList.add('flash'); });
   document.querySelector('[data-all]').onclick = () => { const ds = [...document.querySelectorAll('#today details.grp')]; const o = !ds.every((d) => d.open); ds.forEach((d) => d.open = o); };

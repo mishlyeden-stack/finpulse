@@ -53,6 +53,8 @@ export async function buildNumbers() {
   } catch {}
   // stale data is worse than no data: hide manual values whose asOf date is older than maxAgeDays (default 10)
   const fresh = (n) => !n.asOf || (Date.now() - new Date(n.asOf)) / 864e5 <= (n.maxAgeDays || 10);
+  const order = { USD: 0, EUR: 1, boi: 2, prime: 3 };   // exchange rates first: equipment costs and contracts depend on them
+  live.sort((x, y) => (order[x.key] ?? 9) - (order[y.key] ?? 9));
   const numbers = [...live, ...manual.numbers.filter((n) => n.value && fresh(n))];   // unverified/stale values are not shown
   const forecasts = (manual.forecasts || []).filter(fresh);
   return { updated: new Date().toISOString(), numbers, events: manual.events || [], forecasts, forecastsNote: manual.forecastsNote || '' };
