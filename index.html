@@ -156,6 +156,11 @@
   .rv { font-size:11px; border-radius:6px; padding:0 6px; background:#f1f5f9; color:#64748b; margin-inline-start:4px; }
   .rv.ok { background:#dcfce7; color:#166534; }
   .growhead { font-size:19px; font-weight:800; margin:26px 0 8px; padding-bottom:6px; border-bottom:2px solid var(--line); }
+  .newbar { display:flex; justify-content:space-between; align-items:center; gap:10px; background:#ecfeff; border:1px solid #a5f3fc; border-radius:12px; padding:8px 14px; margin:10px 0 0; font-size:14px; }
+  .nbadge { background:#0ea5e9; color:#fff; border-radius:6px; padding:0 6px; font-size:11px; font-weight:800; }
+  .rbadge { color:#64748b; font-size:11px; }
+  .card.isread, .rawrow.isread { opacity:.55; }
+  .card.isread:hover, .rawrow.isread:hover { opacity:.9; }
   /* executive view */
   .exec { background:var(--ink); color:#fff; border-radius:18px; padding:16px 18px; margin:12px 0 6px; box-shadow:var(--shadow); }
   .exec h2 { margin:0 0 10px; font-size:16px; font-weight:800; display:flex; justify-content:space-between; gap:8px; }
@@ -228,6 +233,7 @@
   <!-- DAILY -->
   <section class="view on" id="v-daily">
     <div class="toolbar"><div class="ask"><input id="newsQ" placeholder="🔍 חיפוש בחדשות (למשל: ריבית, מטא, מכרז)"></div><div class="tbar" id="tbar"></div></div>
+    <div id="newbar"></div>
     <div id="exec"></div>
     <details class="grp brief" id="briefGrp"><summary><span>☀️ תדריך הבוקר <span class="gmeta">· 4 דקות קריאה · מה כדאי לדעת, להבין ולחשוב עליו היום, מוסבר לעומק (זה גם המייל של הבוקר)</span></span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
     <div class="dgrid"><aside class="dside">
@@ -299,6 +305,7 @@ const md = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
 const STATIC = !/^(localhost|127\.0\.0\.1)$/.test(location.hostname);
 const COACH = {
   think: 'את מאמנת החשיבה העסקית שלי (אשת כספים שמתפתחת לחשיבת CFO). כלל: אל תתני מסקנות לפני שאני חושבת. שאלי שאלה אחת בכל הודעה וחכי לתשובה, לפי הסדר: 1) מה לדעתך המשמעות? 2) דרך איזה מנגנון זה קורה? 3) מה יכול לגרום להשערה שלך להיות שגויה? 4) איזה מידע היית רוצה לראות? 5) מה היית אומרת על זה ל-CFO או למנכ״ל? רק אחרי שעניתי על 5: מה חזק אצלי, מה חסר, זווית שלא עלתה, ומושג להעמיק בו. בסוף כתבי בלוק "📓 לרישום ביומן" (מה חשבתי בהתחלה במילים שלי, מה למדתי, האם שיניתי עמדה, מושג חדש, שאלה טובה). מידע ציבורי בלבד, בעברית וקצר. המקרה:\n\n',
+  explain: 'אני אשת כספים שמתפתחת לחשיבת CFO, ולא הבנתי עד הסוף את הידיעה הבאה. אל תשאלי אותי קודם מה אני יודעת, הסבירי מיד וקצר, בעברית פשוטה: 1) מה קרה במילים פשוטות 2) המושגים המקצועיים שבידיעה, שורה לכל אחד 3) המנגנון: מה גורם למה 4) דוגמה מספרית בדויה וקטנה 5) למה זה חשוב לאיש כספים. בסוף שאלי רק מה עוד לא ברור. מידע ציבורי בלבד. הידיעה:\n\n',
   learn: 'את מורה לפיננסים ועסקים שלי (אשת כספים שמתפתחת לחשיבת CFO). לא הגדרת ויקיפדיה. קודם שאלי מה אני כבר יודעת על המושג וחכי. אחר כך, קצר: מה זה, למה זה קיים, איך זה עובד, איפה פוגשים את זה בחברת פרויקטים ושירותים (ושאלי איפה זה אצלנו), למה CFO מתעניינת, דוגמה מספרית בדויה קטנה, ושאלת יישום אחת שבודקת הבנה. בסוף כתבי בלוק "📓 לרישום ביומן". בעברית, שאלה אחת בכל פעם. המושג: ',
 };
 const claudeLink = (mode, context) => 'https://claude.ai/new?q=' + encodeURIComponent(COACH[mode] + context);
@@ -312,7 +319,7 @@ function toast(msg) {
 }
 async function openInClaude(mode, context) {
   if (!useProject()) { location.href = claudeLink(mode, context); return; }
-  const text = mode === 'think' ? 'בואי נחשוב על המקרה הזה:\n' + context : 'תסבירי לי את המושג: ' + context;
+  const text = mode === 'think' ? 'בואי נחשוב על המקרה הזה:\n' + context : mode === 'explain' ? 'לא הבנתי, תסבירי לי מיד (בלי לשאול אותי קודם):\n' + context : 'תסבירי לי את המושג: ' + context;
   try { await navigator.clipboard.writeText(text); toast('📋 הועתק. בפרויקט: שיחה חדשה ← הדביקי'); } catch { toast('פותחת את הפרויקט…'); }
   setTimeout(() => { location.href = MY_PROJECT; }, 900);
 }
@@ -477,7 +484,8 @@ function renderToday() {
   const matchQ = (i) => !q || (i.title + ' ' + i.what + ' ' + i.why + ' ' + i.source).toLowerCase().includes(q);
   const all = mergeDup(t.items.filter((i) => !i.archive));      // the site shows the best 40; weaker ones are in the archive group
   const archived = t.items.filter((i) => i.archive && matchQ(i));
-  const pool = all.filter(matchQ);
+  const pool = all.filter(matchQ).filter((i) => !onlyNew || isNew(i));
+  const byTime = (a, b) => tsOf(b) - tsOf(a);
   // ranking: impact on a group like ours (from the filter), then newest. top 3 of 🎯 = the executive view
   const byImpact = (a, b) => (b.impact || 0) - (a.impact || 0) || String(b.ts || b.time).localeCompare(String(a.ts || a.time));
   // 3 different stories: at most one item per topic
@@ -510,7 +518,7 @@ function renderToday() {
   // groups: first what touches the group (any topic), then every topic in CFO/CEO priority order (CATS order).
   // inside a topic, items that touch the group come first. a search opens all matching groups.
   const groups = [{ k: 'mine', label: '🎯 נוגע לקבוצה', items: pool.filter(isMine).sort(byImpact) },
-    ...Object.keys(CATS).map((k) => ({ k, label: CATS[k], items: pool.filter((i) => catOf(i) === k).sort((a, b) => isMine(b) - isMine(a) || byImpact(a, b)) })),
+    ...Object.keys(CATS).map((k) => ({ k, label: CATS[k], items: pool.filter((i) => catOf(i) === k).sort(byTime) })),
     { k: 'archive', label: '📁 ארכיון · הוחלפו בידיעות חשובות יותר', items: archived.sort(byImpact) }].filter((g) => g.items.length);
   for (const g of groups) {
     const latest = (g.items.map((i) => i.ts || i.time).sort().at(-1) || '').slice(11);
@@ -524,6 +532,9 @@ function renderToday() {
   }
   $('today').innerHTML = h;
   bindThink($('today'));
+  // a card you clicked / opened = read (stays, just quieter)
+  $('today').querySelectorAll('.card[data-key]').forEach((c) => c.addEventListener('click', () => { markRead(c.dataset.key); c.classList.add('isread'); renderNewBar(); }));
+  renderNewBar();
   document.querySelectorAll('#today details.grp').forEach((d) => d.ontoggle = () => { if (!q) d.open ? openCats.add(d.dataset.grp) : openCats.delete(d.dataset.grp); });
   // toolbar: jump straight to a group (opens it)
   $('tbar').innerHTML = `<button data-jump="briefGrp">☀️ תדריך</button>` +
@@ -532,7 +543,7 @@ function renderToday() {
   document.querySelectorAll('[data-jump]').forEach((b) => b.onclick = () => { const d = $(b.dataset.jump); d.open = true; const off = document.querySelector('.toolbar').getBoundingClientRect().bottom + 10; window.scrollTo({ top: d.getBoundingClientRect().top + window.scrollY - off, behavior: 'smooth' }); d.classList.remove('flash'); void d.offsetWidth; d.classList.add('flash'); });
   document.querySelector('[data-all]').onclick = () => { const ds = [...document.querySelectorAll('#today details.grp')]; const o = !ds.every((d) => d.open); ds.forEach((d) => d.open = o); };
   document.querySelectorAll('[data-more]').forEach((b) => b.onclick = () => { moreCats.add(b.dataset.more); renderToday(); });
-  $('today').querySelectorAll('[data-learnctx]').forEach((b) => b.onclick = () => openChat('learn', b.dataset.learnctx, '📖 ' + b.dataset.learntitle));
+  $('today').querySelectorAll('[data-learnctx]').forEach((b) => b.onclick = () => openChat('explain', b.dataset.learnctx, '📖 ' + b.dataset.learntitle));
   // 💼 CFO angle: Eden answers first, only then FinPulse's angle is revealed (and she can be challenged on it)
   document.querySelectorAll('details.cfoa').forEach((d) => {
     const k = d.dataset.k, ta = d.querySelector('textarea');
@@ -558,6 +569,24 @@ function showUpd() {
     return (loc.slice(0, 10) === today ? '' : loc.slice(8, 10) + '.' + loc.slice(5, 7) + ' ') + loc.slice(11, 16); };
   $('upd').textContent = [updTimes.news && ' · חדשות עודכנו ' + f(updTimes.news), updTimes.checked && ' · נבדקו ' + f(updTimes.checked)].filter(Boolean).join('');
 }
+// ---------- read / unread (personal: stored only in this browser, never changes the site for others) ----------
+const LS = { get: (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } }, set: (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} } };
+const readSet = new Set(LS.get('fpRead', []));
+const prevVisit = LS.get('fpLastVisit', 0);               // previous visit; everything that arrived after it is "new"
+let onlyNew = false;
+const saveVisit = () => LS.set('fpLastVisit', Date.now());
+addEventListener('pagehide', saveVisit); document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'hidden') saveVisit(); });
+const tsOf = (i) => { const s = i.ts || i.fetched || i.date; return s ? new Date(String(s).replace(' ', 'T')).getTime() : 0; };
+const keyOf = (i) => i.id || i.title;
+const isRead = (i) => readSet.has(keyOf(i));
+const isNew = (i) => !!prevVisit && tsOf(i) > prevVisit && !isRead(i);
+function markRead(k) { if (!k || readSet.has(k)) return; readSet.add(k); LS.set('fpRead', [...readSet].slice(-1500)); }
+function renderNewBar() {
+  const n = (todayData ? mergeDup(todayData.items.filter((i) => !i.archive)).filter(isNew).length : 0) + (rawData?.items || []).filter((i) => !['noise', 'drop'].includes(verdictsData[i.id]?.s) && isNew(i)).length;
+  if (!prevVisit) { $('newbar').innerHTML = ''; return; }
+  $('newbar').innerHTML = `<div class="newbar"><span>${n ? `🆕 <b>${n}</b> חדשות מאז הביקור האחרון` : '✓ אין חדש מאז הביקור האחרון'}</span>${n || onlyNew ? `<button class="small ${onlyNew ? '' : 'ghost'}" id="onlyNewBtn">${onlyNew ? 'הצג הכול' : 'הצג רק אותן'}</button>` : ''}</div>`;
+  const b = $('onlyNewBtn'); if (b) b.onclick = () => { onlyNew = !onlyNew; renderToday(); renderRaw(); if (onlyNew) { document.querySelectorAll('#today details.grp, details.rsub').forEach((d) => d.open = true); $('rawSec').open = true; } };
+}
 const openCats = new Set(), moreCats = new Set();
 const cfoAns = new Map(), cfoOpen = new Set(), cfoShown = new Set();   // CFO-angle drafts survive the 5-min refresh
 let topKeys = new Set();
@@ -568,11 +597,11 @@ function newsCard(i, mineTag) {
     const srcLink = (x) => { const gn = /news\.google\.com/.test(x.link);
       const href = gn ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title + ' ' + x.source.replace(/\(.*$/, '')) : x.link;
       return `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(x.source.replace(/\(Google News.*$/, ''))} ↗</a>`; };
-    h += `<div class="card" data-key="${esc(i.title)}" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${esc(CATS[catOf(i)])} · ${esc(i.time)}${mineTag && isMine(i) ? ' · 🎯 נוגע לקבוצה' : ''}${i.level === '🧠' ? ' · 🧠 מקרה ללמידה' : ''}${i.dups > 1 ? ` · דווח ב-${i.dups} מקורות` : ''}${topKeys.has(i.title) ? '<span class="star">🔥 החשוב ביותר היום</span>' : ''}</div><h3>${esc(i.title)}</h3>
+    h += `<div class="card${isRead(i) ? ' isread' : ''}" data-key="${esc(i.title)}" style="--accent:${i.level === '🧠' ? 'var(--violet)' : 'var(--amber)'}"><div class="meta">${isNew(i) ? '<span class="nbadge">חדש</span> ' : ''}${isRead(i) ? '<span class="rbadge">✓ נקרא</span> ' : ''}${esc(CATS[catOf(i)])} · ${esc(i.time)}${mineTag && isMine(i) ? ' · 🎯 נוגע לקבוצה' : ''}${i.level === '🧠' ? ' · 🧠 מקרה ללמידה' : ''}${i.dups > 1 ? ` · דווח ב-${i.dups} מקורות` : ''}${topKeys.has(i.title) ? '<span class="star">🔥 החשוב ביותר היום</span>' : ''}</div><h3>${esc(i.title)}</h3>
       <p>${esc(i.what)}</p><p><b>למה מעניין:</b> ${esc(i.why)}</p>
       ${i.question ? `<details class="qq"><summary>❓ שאלה לפגישה</summary><div>${esc(i.question)}</div></details>` : ''}
       <div class="src">${[i, ...(i.more || [])].map(srcLink).join(' · ')}</div>
-      <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap"><button class="small ghost" data-learnctx="${esc('תסבירי לי את הידיעה הזו ואת המושגים שבה:\n' + i.title + '\n' + i.what)}" data-learntitle="${esc(i.title)}">📖 תסביר לי</button><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 בואי נחשוב על זה</button></div></div>`;
+      <div style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap"><button class="small ghost" data-learnctx="${esc(i.title + '\n' + i.what)}" data-learntitle="${esc(i.title)}">📖 לא הבנתי, תסביר לי</button><button class="small ghost" data-thinkctx="${esc(i.title + '\n' + i.what)}" data-thinktitle="${esc(i.title)}">🧠 הבנתי, בוא נחשוב על זה</button></div></div>`;
   }
   return h;
 }
@@ -608,7 +637,7 @@ async function loadConvs() {
     const list = await api('/api/convs');
     const row = (c) => `<div class="conv" data-id="${c.id}"><span>${c.mode === 'think' ? '🧠' : '📖'} ${esc(c.title)}</span><span><span class="pill ${c.status === 'saved' ? 'saved' : ''}">${c.status === 'saved' ? '✓ ביומן' : 'פתוחה'}</span> <small>${new Date(c.updated).toLocaleDateString('he-IL')} · ${c.turns} תשובות</small></span></div>`;
     for (const [mode, el] of [['learn', 'learnConvs'], ['think', 'thinkConvs']]) {
-      const l = list.filter((c) => c.mode === mode);
+      const l = list.filter((c) => c.mode === mode || (mode === 'learn' && c.mode === 'explain'));
       $(el).innerHTML = l.length ? l.map(row).join('') : '<div class="notice">עוד אין שיחות. הן נשמרות כאן אוטומטית, ואפשר להמשיך אותן בכל זמן.</div>';
     }
     document.querySelectorAll('.conv').forEach((el) => el.onclick = () => openExisting(el.dataset.id));
@@ -689,13 +718,13 @@ function renderRaw() {
   // default: Israel + the group's industries. World / markets / M&A feeds only on request – unless Claude already checked the item (✓)
   const grpOf = (i) => i.group || (/[א-ת]|Globes|Times of Israel|Calcalist|TheMarker|Israel Defense/.test(i.source) ? 'israel-press' : /AV Network|rAVe|DCD|SecurityWeek/.test(i.source) ? 'industry' : 'global-press');
   const local = (i) => ['israel-press', 'israel-official', 'industry'].includes(grpOf(i)) || verdictsData[i.id]?.s === 'ok';
-  const base = (rawData.items || []).filter((i) => !['noise', 'drop'].includes(verdictsData[i.id]?.s))
+  const base = (rawData.items || []).filter((i) => !['noise', 'drop'].includes(verdictsData[i.id]?.s)).filter((i) => !onlyNew || isNew(i))
     .filter((i) => !q || (i.title + ' ' + i.source).toLowerCase().includes(q));
   const today = new Date().toLocaleString('sv-SE').slice(0, 10);
   const when = (iso) => { const d = new Date(iso); const loc = d.toLocaleString('sv-SE'); return (loc.slice(0, 10) === today ? '' : 'אתמול ') + loc.slice(11, 16); };
   if (rawData.updated) { $('rawMeta').textContent = 'ישר מהמקורות, לפני בדיקה · מתעדכן 24/7 · עודכן ' + when(rawData.updated); updTimes.news = new Date(rawData.updated); showUpd(); }
   const href = (i) => /news\.google\.com/.test(i.link) ? 'https://www.google.com/search?q=' + encodeURIComponent(i.title) : i.link;
-  const row = (i) => `<a class="rawrow" href="${esc(href(i))}" target="_blank" rel="noopener"><span class="rt">${esc(when(i.date || i.fetched))}</span><span class="rtitle">${esc(i.title)}</span><span class="rsrc">${esc(i.source)}${verdictsData[i.id]?.s === 'ok' ? ' <span class="rv ok">✓ נבדק מול המקור</span>' : ' <span class="rv">טרם נבדק</span>'}</span></a>`;
+  const row = (i) => `<a class="rawrow${isRead(i) ? ' isread' : ''}" data-rk="${esc(i.id)}" href="${esc(href(i))}" target="_blank" rel="noopener"><span class="rt">${esc(when(i.date || i.fetched))}</span><span class="rtitle">${isNew(i) ? '<span class="nbadge">חדש</span> ' : ''}${esc(i.title)}</span><span class="rsrc">${esc(i.source)}${verdictsData[i.id]?.s === 'ok' ? ' <span class="rv ok">✓ נבדק מול המקור</span>' : ' <span class="rv">טרם נבדק</span>'}</span></a>`;
   // sub-groups by kind of source (no AI needed): Israel / our industries / world (world closed by default)
   const SUBS = [['il', '🇮🇱 ישראל', (i) => /^israel/.test(grpOf(i))], ['ind', '🏭 הענפים שלנו', (i) => grpOf(i) === 'industry'], ['world', '🌍 עולם, שווקים ו-M&A', (i) => !/^israel|^industry/.test(grpOf(i))]];
   let h = '', total = 0;
@@ -709,6 +738,8 @@ function renderRaw() {
   }
   $('rawCount').textContent = total;
   $('raw').innerHTML = h || `<div class="empty">${q ? 'אין ידיעות שמתאימות לחיפוש.' : 'עוד אין ידיעות.'}</div>`;
+  document.querySelectorAll('[data-rk]').forEach((a) => a.addEventListener('click', () => { markRead(a.dataset.rk); a.classList.add('isread'); renderNewBar(); }));
+  renderNewBar();
   document.querySelectorAll('[data-rmore]').forEach((b) => b.onclick = () => { rawOpen.add(b.dataset.rmore + '+'); renderRaw(); });
   document.querySelectorAll('details.rsub').forEach((d) => d.ontoggle = () => { const k = d.dataset.rsub;
     if (k === 'world') d.open ? rawOpen.add('world') : rawOpen.delete('world'); else d.open ? rawOpen.delete(k + '-') : rawOpen.add(k + '-'); });
