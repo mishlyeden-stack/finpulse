@@ -51,9 +51,25 @@ export async function buildNumbers() {
       live.push({ key: k, label, value: x.currentExchangeRate.toFixed(3), change: pct(x.currentChange), note: `שער יציג · ${dmy(x.lastUpdate)}${trend ? ' · ' + trend : ''}`, source: 'https://www.boi.org.il', by: 'בנק ישראל · רשמי, אוטומטי' });
     }
   } catch {}
+  // unemployment: the SAME official series the Pulse tab uses (Bank of Israel SDMX LBM/UE_R_M_SA, seasonally adjusted) – no manual / news-sourced value
+  try {
+    const from = new Date(Date.now() - 400 * 864e5).toISOString().slice(0, 7);
+    const url = `https://edge.boi.gov.il/FusionEdgeServer/sdmx/v2/data/dataflow/BOI.STATISTICS/LBM/1.0/UE_R_M_SA?startperiod=${from}&format=csv`;
+    const t = await (await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } })).text();
+    const lines = t.trim().split(/\r?\n/);
+    const head = lines[0].split(','), ti = head.indexOf('TIME_PERIOD'), vi = head.indexOf('OBS_VALUE');   // this series has no quoted fields
+    const s = lines.slice(1).map((l) => l.split(',')).filter((r) => r.length > vi && r[vi] !== '' && !isNaN(Number(r[vi]))).map((r) => [r[ti], Number(r[vi])]).sort((a, b) => (a[0] < b[0] ? -1 : 1));
+    const [ly, lm] = s.at(-1)[0].split('-').map(Number);
+    const ageDays = (Date.now() - new Date(Date.UTC(ly, lm, 0))) / 864e5;
+    if (s.length > 1 && ageDays <= 75) {
+      const diff = s.at(-1)[1] - s.at(-2)[1];
+      const MONTHS = ['ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'];
+      live.push({ key: 'unemp', label: 'אבטלה', value: s.at(-1)[1].toFixed(2) + '%', change: (diff > 0 ? '+' : diff < 0 ? '-' : '') + Math.abs(diff).toFixed(2), note: MONTHS[lm - 1] + ' ' + ly + ' · מנוכה עונתיות', source: 'https://www.boi.org.il/en/economic-roles/statistics/', by: 'בנק ישראל (נתוני הלמ״ס) · רשמי, אוטומטי' });
+    }
+  } catch {}
   // stale data is worse than no data: hide manual values whose asOf date is older than maxAgeDays (default 10)
   const fresh = (n) => !n.asOf || (Date.now() - new Date(n.asOf)) / 864e5 <= (n.maxAgeDays || 10);
-  const order = { USD: 0, EUR: 1, boi: 2, prime: 3 };   // exchange rates first: equipment costs and contracts depend on them
+  const order = { USD: 0, EUR: 1, boi: 2, prime: 3, unemp: 4 };   // exchange rates first: equipment costs and contracts depend on them
   live.sort((x, y) => (order[x.key] ?? 9) - (order[y.key] ?? 9));
   const numbers = [...live, ...manual.numbers.filter((n) => n.value && fresh(n))];   // unverified/stale values are not shown
   const forecasts = (manual.forecasts || []).filter(fresh);
