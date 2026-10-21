@@ -1,0 +1,616 @@
+{
+ "batch": "2026-10-21T1333",
+ "created": "2026-10-21T13:33:12.438Z",
+ "items": [
+  {
+   "id": "f07e4a48bf98231e",
+   "source": "Globes English",
+   "group": "israel-press",
+   "title": "Bank of Israel keeps rate unchanged",
+   "link": "https://en.globes.co.il/en/article-1001560338#utm_source=RSS",
+   "summary": "The Bank of Israel has also revised its growth forecast upwards for 2026 and 2027.",
+   "date": "2026-10-21T13:10:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "845371a46f9a41ab",
+   "source": "Globes English",
+   "group": "israel-press",
+   "title": "Nvidia unveils Israel-developed AI agent protection architecture",
+   "link": "https://en.globes.co.il/en/article-1001560336#utm_source=RSS",
+   "summary": "CEO Jensen Huang unveiled a new security architecture at the GTC conference in Berlin, which has an Israeli development core.",
+   "date": "2026-10-21T12:55:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "21c7e450ffed7ae4",
+   "source": "ynet כלכלה",
+   "group": "israel-press",
+   "title": "אחרי שלוש הפחתות רצופות: בנק ישראל הותיר את הריבית ללא שינוי",
+   "link": "https://www.ynet.co.il/economy/article/pbyb2htqw",
+   "summary": "הוועדה המוניטארית החליטה להשאיר את הריבית במשק על 3.25%, על פי הערכות החזאים, וזאת בשל חוסר הוודאות מהבחירות בשבוע הבא, ההוצאות הביטחוניות הגבוהות והחשש מעימות נוסף עם איראן. בנק ישראל מעריך שיפחית את הריבית פעם אחת בלבד בשנה הקרובה, וכי האינפלציה תעמוד על 2%",
+   "date": "2026-10-21T13:01:33.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "00e8bf5ca825184e",
+   "source": "כלכליסט (Google News)",
+   "group": "israel-press",
+   "title": "המלחמה באוקראינה מגיעה למאפיות: מחירי הקמח עולים, הלחם והמאפים עלולים להתייקר - calcalist",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VM09NRzdXWTdSQUtKQlZBVTVkMVFWR2tuNDdnNnQzX2drQ0c0cXNRNFJPd3FZUEtSNU5LNHl2RG5FTmppWGZ2QllkSTN5SXZsUXZLbWZJaTFORUdoRUU0TXZFdkdvQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VM09NRzdXWTdSQUtKQlZBVTVkMVFWR2tuNDdnNnQzX2drQ0c0cXNRNFJPd3FZUEtSNU5LNHl2RG5FTmppWGZ2QllkSTN5SXZsUXZLbWZJaTFORUdoRUU0TXZFdkdvQQ?oc=5\" target=\"_blank\">המלחמה באוקראינה מגיעה למאפיות: מחירי הקמח עולים, הלחם והמאפים עלולים",
+   "date": "2026-10-21T13:24:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "3e38feba3cc496ef",
+   "source": "כלכליסט (Google News)",
+   "group": "israel-press",
+   "title": "בנק ישראל הותיר את הריבית של 3.25% – ומזהיר מהסיכונים הפוליטיים שאחרי הבחירות - calcalist",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSRjBaSmZEU0FIaUZIQ3RWbFdMbU9ic3RkcFdzVGRvRmVRWUpNMVdIZjVaOWpFQWRxOEdKcFhTbHdKZDFrbnhUMnlsVHQ3akFzTURkQ1ZUMkd6cWhfQjJVdmdMX0lnVWpi?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSRjBaSmZEU0FIaUZIQ3RWbFdMbU9ic3RkcFdzVGRvRmVRWUpNMVdIZjVaOWpFQWRxOEdKcFhTbHdKZDFrbnhUMnlsVHQ3akFzTURkQ1ZUMkd6cWhfQjJVdmdMX0lnVWpi?oc=5\" target=\"_blank\">בנק ישראל הותיר את הריבית של 3.25% – ומזהיר מהסיכונים הפוליטיים שאח",
+   "date": "2026-10-21T13:00:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "5b45f1b43838e5c8",
+   "source": "Calcalist Tech (Google News)",
+   "group": "israel-press",
+   "title": "Reserve duty is costing Israeli soldiers their careers and financial security - CTech",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05MGtQLTJkenNBbjk5OHJBTnhvb0ZUalVsUzFUamtBNDhndXZfeERaa0N0Y3ZqaXdDcS1wMURqUmMxNU9iZlluS3h3U0ZEb0ZpbFREdkVXZzZjeU1oV2dZRHpMU1lWd0E?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05MGtQLTJkenNBbjk5OHJBTnhvb0ZUalVsUzFUamtBNDhndXZfeERaa0N0Y3ZqaXdDcS1wMURqUmMxNU9iZlluS3h3U0ZEb0ZpbFREdkVXZzZjeU1oV2dZRHpMU1lWd0E?oc=5\" target=\"_blank\">Reserve duty is costing Israeli soldiers their careers and financial",
+   "date": "2026-10-21T12:53:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "0032ab82dd89d8f4",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "השיטה המשתלמת למשוך כספי חיסכון בגיל פרישה עושה קאמבק - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlZRYnA3Zldqd3VvU1JkaHdrNWtKUTVzQzJMR3FwYlNDNEd4V24yXzNYLU9BSkt6azZ5T0VvWGI2RkxUYjlFVV9PenJyOVN6blp6bVA4MmtKc3g4c3ZETm1McGhOQ1VyMFZKZnhxdXZINlJIWTBrTXBQdFphWkhTQUdzOE5xWEhtcmV5LXFlQWlTOTdVWHJOMFkxeTNuRW9RWGc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlZRYnA3Zldqd3VvU1JkaHdrNWtKUTVzQzJMR3FwYlNDNEd4V24yXzNYLU9BSkt6azZ5T0VvWGI2RkxUYjlFVV9PenJyOVN6blp6bVA4MmtKc3g4c3ZETm1McGhOQ1VyMFZKZnhxdXZINlJIWTBrTXBQdFphWkhTQUdzOE5xWEhtcmV5LXFlQWlTOTdVWHJOMFkxeTNuRW9RWGc?oc=5\" targ",
+   "date": "2026-10-21T07:56:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "84beceedc694192f",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "מטא לפני הדוחות: ההכנסות מזנקות, אבל המשקיעים רוצים לדעת כמה יעלה מרוץ ה־AI - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00RE1GRl9WZExTRnJOekIzOXRhaFVUOXZYMHFvZTU4Yld2N3NlQXhIZFQtcXZ3RHVpMXN0X0ZlU1RzNUt3ZHh1NGk4SFJMWnZXbTdVTnYtdmw1Z1d3TDJLNTh6SUdNclozbjNsY2xScjU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE00RE1GRl9WZExTRnJOekIzOXRhaFVUOXZYMHFvZTU4Yld2N3NlQXhIZFQtcXZ3RHVpMXN0X0ZlU1RzNUt3ZHh1NGk4SFJMWnZXbTdVTnYtdmw1Z1d3TDJLNTh6SUdNclozbjNsY2xScjU?oc=5\" target=\"_blank\">מטא לפני הדוחות: ההכנסות מזנקות, אבל המשקיעים רוצים לדעת",
+   "date": "2026-10-21T13:02:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "5a8b325b71caab8e",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בנק ישראל החליט להותיר את הריבית על 3.25% - כאן 11",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCaHJZb01hRFB4YXV6MU1oMTNDMW85LXhzRk5UVjB6R0Y3NkNTcV9NUHVCbGpNOU0zZkRqTjlLSE96R3NzckVBdm9MVEdUeUJuaWpiT1ZUazBOUlRzUE85Z2ItOWd2ZXRB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCaHJZb01hRFB4YXV6MU1oMTNDMW85LXhzRk5UVjB6R0Y3NkNTcV9NUHVCbGpNOU0zZkRqTjlLSE96R3NzckVBdm9MVEdUeUJuaWpiT1ZUazBOUlRzUE85Z2ItOWd2ZXRB?oc=5\" target=\"_blank\">בנק ישראל החליט להותיר את הריבית על 3.25%</a>&nbsp;&nbsp;<font colo",
+   "date": "2026-10-21T13:08:05.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "6aa65051c16bc793",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בהתאם להערכות: נגיד בנק ישראל הותיר את הריבית על 3.25% - i24NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yckJwdUR3bVlvdFUxMWg3Q3FGTEFud184TlhxYUVFelN2d2h4TFdQZ1dpQ3dzVkxnM1VaZ252STZqZWJQMVBJaWQyOHRmTWZuSTV6VDlDa0pqU044LWVsQjIySQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yckJwdUR3bVlvdFUxMWg3Q3FGTEFud184TlhxYUVFelN2d2h4TFdQZ1dpQ3dzVkxnM1VaZ252STZqZWJQMVBJaWQyOHRmTWZuSTV6VDlDa0pqU044LWVsQjIySQ?oc=5\" target=\"_blank\">בהתאם להערכות: נגיד בנק ישראל הותיר את הריבית על 3.25%</a>&nbsp;&nbsp;<fo",
+   "date": "2026-10-21T13:00:23.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "2460bdeeedeec38c",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בנק ישראל החליט להותיר את הריבית על 3.25%, לאחר 3 הורדות רצופות - אתר החדשות דבר",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVVk3SDI2d3Q5N08wajhQRlRLYnh1d3QyQ011V0ZVQkRHMXZwVEJIaXN2Q05JMzNMTmFoZWhmM2JWR3lfMG1r?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVVk3SDI2d3Q5N08wajhQRlRLYnh1d3QyQ011V0ZVQkRHMXZwVEJIaXN2Q05JMzNMTmFoZWhmM2JWR3lfMG1r?oc=5\" target=\"_blank\">בנק ישראל החליט להותיר את הריבית על 3.25%, לאחר 3 הורדות רצופות</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אתר החדשות",
+   "date": "2026-10-21T13:02:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "a2ad419fced4455a",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בנק ישראל השאיר את הריבית בלי שינוי: מתי ההורדה הבאה? - mako",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9taDRCcUt5RnRYbjJGMURQWFBYejJsOEdHa0ZMdE1TdFdfbDdTUEFSYUpmc0JHYlBhdHVmZ29pdTc0cHFOZlgzbGZTZk41ZTNoUkdKMDJKbE9ya0ozRjlDdjRDVnhldTRDc3d0OTZsRFFIalppWWd5ZVJoNng?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9taDRCcUt5RnRYbjJGMURQWFBYejJsOEdHa0ZMdE1TdFdfbDdTUEFSYUpmc0JHYlBhdHVmZ29pdTc0cHFOZlgzbGZTZk41ZTNoUkdKMDJKbE9ya0ozRjlDdjRDVnhldTRDc3d0OTZsRFFIalppWWd5ZVJoNng?oc=5\" target=\"_blank\">בנק ישראל השאיר את הריבית בלי שינוי: מתי",
+   "date": "2026-10-21T13:00:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "e9ccdc115c7f095b",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "לפני הבחירות: בנק ישראל הותיר את הריבית במשק ללא שינוי - רשת 13",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80MXliWk4zdGhXU3dTUlQ0NkYtUTlFSTdOYUM4TjBWdURjeDB1TXVOMDZXc3JMdDZacXFrUTRoVWNKYWs4dlVmbmhJMGp5c1BqMVdNNTVJd09IQTJDdXk0VHdGYmlnYmhCd2VDTkJn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE80MXliWk4zdGhXU3dTUlQ0NkYtUTlFSTdOYUM4TjBWdURjeDB1TXVOMDZXc3JMdDZacXFrUTRoVWNKYWs4dlVmbmhJMGp5c1BqMVdNNTVJd09IQTJDdXk0VHdGYmlnYmhCd2VDTkJn?oc=5\" target=\"_blank\">לפני הבחירות: בנק ישראל הותיר את הריבית במשק ללא שינוי</a>&",
+   "date": "2026-10-21T13:04:30.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "38e9f40ae5f90252",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "לפני הבחירות: אין שינוי בריבית בנק ישראל - ערוץ 7",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mUm16bUlyd0ppcEFqZ3NIYzRTOEdJRm5nMW8yMV9MdlNjNkZNbGRObjRuSWNqNUtndXg0OXcwTEVsM0hYeV9iUA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mUm16bUlyd0ppcEFqZ3NIYzRTOEdJRm5nMW8yMV9MdlNjNkZNbGRObjRuSWNqNUtndXg0OXcwTEVsM0hYeV9iUA?oc=5\" target=\"_blank\">לפני הבחירות: אין שינוי בריבית בנק ישראל</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ערוץ 7</font>",
+   "date": "2026-10-21T13:04:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "05bc5ad98c6b4165",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "אחרי שלוש הפחתות רצופות: בנק ישראל הותיר את הריבית על 3.25% - מעריב",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52LWdVVzRXVTlTTVZFU1VwUXFMLVdYZUhNcTRNRWNnQ2dGTTBReTljaE5UWUZtVmd1d2lFcnlWdF9jNUltS0pzNkxBN2s3eEZEVjFYNUFaOGZCSExQckVzWXN5TGQ1Zw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE52LWdVVzRXVTlTTVZFU1VwUXFMLVdYZUhNcTRNRWNnQ2dGTTBReTljaE5UWUZtVmd1d2lFcnlWdF9jNUltS0pzNkxBN2s3eEZEVjFYNUFaOGZCSExQckVzWXN5TGQ1Zw?oc=5\" target=\"_blank\">אחרי שלוש הפחתות רצופות: בנק ישראל הותיר את הריבית על 3.25%</a>&nbsp;",
+   "date": "2026-10-21T13:12:08.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "4baf0f410d4b5ae0",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "הריבית נותרה ללא שינוי - בהתאם לצפי | מיד: תחזית בנק ישראל - גלובס",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNQ1FvRGJUYkdXR1VtMkFYdFpPTS1UbkZkRWU1TjNLU3p1OUVaV2pmczZBOEN1RjJBLTNVQkJiT3MzTjJGZUV5ekxYcFVWamh5MXhUdjRoQjFsckNGLTh0WmgwenhZS0FT?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNQ1FvRGJUYkdXR1VtMkFYdFpPTS1UbkZkRWU1TjNLU3p1OUVaV2pmczZBOEN1RjJBLTNVQkJiT3MzTjJGZUV5ekxYcFVWamh5MXhUdjRoQjFsckNGLTh0WmgwenhZS0FT?oc=5\" target=\"_blank\">הריבית נותרה ללא שינוי - בהתאם לצפי | מיד: תחזית בנק ישראל</a>&nbsp",
+   "date": "2026-10-21T13:02:08.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "a8e6c22e7293a6a8",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בנק ישראל הותיר את הריבית ללא שינוי ברמה של 3.25% - מרכז הנדל\"ן",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlZlEyOWx1ZzlmMlZhdktEZ0VJNV9mZ0VDckNQNDd3U2NXNTFydUhYdmR6WWVFQnB1VERUNk1HSnZIa1ZsbjZtRkFJa0JlTWloWUh4QWw3MA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlZlEyOWx1ZzlmMlZhdktEZ0VJNV9mZ0VDckNQNDd3U2NXNTFydUhYdmR6WWVFQnB1VERUNk1HSnZIa1ZsbjZtRkFJa0JlTWloWUh4QWw3MA?oc=5\" target=\"_blank\">בנק ישראל הותיר את הריבית ללא שינוי ברמה של 3.25%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">מר",
+   "date": "2026-10-21T13:00:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "b8576e4dc1963224",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בנק ישראל הותיר את הריבית ללא שינוי | אז מה צפוי לנו בהמשך? - כיכר השבת",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQjU5Z1JIb0pqNWRaN2FIYVMzZHJqYUNDbjZablRMUlNERUx2MUtCcEl4Y253bXl1VXFQaS1yeGJSZnhsTGJBdl91RDUtcFRLRVF0d0NaSGdPdWNTbk9JblpwSXQ4cS1yZGFYaldFNVFHbXFkNzFaeGFiS1VqYXJ2NEVZVjgtTWY2NnM4X1J5WmZnMUU?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQjU5Z1JIb0pqNWRaN2FIYVMzZHJqYUNDbjZablRMUlNERUx2MUtCcEl4Y253bXl1VXFQaS1yeGJSZnhsTGJBdl91RDUtcFRLRVF0d0NaSGdPdWNTbk9JblpwSXQ4cS1yZGFYaldFNVFHbXFkNzFaeGFiS1VqYXJ2NEVZVjgtTWY2NnM4X1J5WmZnMUU?oc=5\" target=\"_blank\">בנק ישרא",
+   "date": "2026-10-21T13:05:33.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "db0704bf6d3e91db",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בנק ישראל הותיר את הריבית ללא שינוי - בשיעור של 3.25% - מעריב",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMVl3a21FVGtkTkRBZGQ5THNvMmtDWkI1RnBiVnRxWlJHWEIyV3VUdTRMMTF6SE1MSWtqc19vS1hMaURCU1RFbU1jcldDbnJYd1p0REJ3XzFhY09LWnA2QXU5SFE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMVl3a21FVGtkTkRBZGQ5THNvMmtDWkI1RnBiVnRxWlJHWEIyV3VUdTRMMTF6SE1MSWtqc19vS1hMaURCU1RFbU1jcldDbnJYd1p0REJ3XzFhY09LWnA2QXU5SFE?oc=5\" target=\"_blank\">בנק ישראל הותיר את הריבית ללא שינוי - בשיעור של 3.25%</a>&nbsp;&nbsp;<fo",
+   "date": "2026-10-21T13:00:50.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "3fd98c99eb8d77ae",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בנק ישראל עצר את רצף ההורדות: הריבית נותרה ללא שינוי ברמה של 3.25% - mako",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90ZnRUN3hYallsMjJUOW1YenlZLVROUXRpY040dVlWWVpYOUZVVnpIbHhUMjZIMGFtQVBrVl9ZNC1icExlQmJJUl9JWGRNdE12ZWdMVjM3cTdmeGkzS1UzY25LZWlYR0JWcUlyVl9teG5EeGd0ZFE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE90ZnRUN3hYallsMjJUOW1YenlZLVROUXRpY040dVlWWVpYOUZVVnpIbHhUMjZIMGFtQVBrVl9ZNC1icExlQmJJUl9JWGRNdE12ZWdMVjM3cTdmeGkzS1UzY25LZWlYR0JWcUlyVl9teG5EeGd0ZFE?oc=5\" target=\"_blank\">בנק ישראל עצר את רצף ההורדות: הריבית נותרה ללא ש",
+   "date": "2026-10-21T13:00:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "a45685e238de467c",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "\"כרגע המשק נמצא באי ודאות מאוד גדולה\" - 103FM",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ00xME90NnpqT1FobkhhQW5vMnR5NDB5b281ZFJPTWVSRG9TQUdYOGVJQTBwZTVSeVBRbGN3eTFINXEzRURCSFBHeThoZ3M3bWVaOVpjUTVtVGJBV1JGSDV6VlpZTjVKd1J6alhIQkZ1OGwxcW5BdHZ5OXk1TFlZOQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ00xME90NnpqT1FobkhhQW5vMnR5NDB5b281ZFJPTWVSRG9TQUdYOGVJQTBwZTVSeVBRbGN3eTFINXEzRURCSFBHeThoZ3M3bWVaOVpjUTVtVGJBV1JGSDV6VlpZTjVKd1J6alhIQkZ1OGwxcW5BdHZ5OXk1TFlZOQ?oc=5\" target=\"_blank\">\"כרגע המשק נמצא באי ודאות מאוד גד",
+   "date": "2026-10-21T13:20:05.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "9da15a452401f6fd",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בנק ישראל החליט: לא יוריד את הריבית - בחדרי חרדים",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zZnFWdW4tYmZ2S091Z0NTM05yTDkxUGhqTXNUSS1Feng1RUVITUQ3LXptMjVhTnN5V0VLMzRjcWMyOXRDd1RUTnRvRQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zZnFWdW4tYmZ2S091Z0NTM05yTDkxUGhqTXNUSS1Feng1RUVITUQ3LXptMjVhTnN5V0VLMzRjcWMyOXRDd1RUTnRvRQ?oc=5\" target=\"_blank\">בנק ישראל החליט: לא יוריד את הריבית</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">בחדרי חרדים</font>",
+   "date": "2026-10-21T13:22:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "41809646eef8aa44",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "בנק ישראל הותיר את הריבית ללא שינוי על 3.25% - ice (אייס)",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvamhSVk9UMkgyZm9CaGJEOExfZlllZUJocmQtLXp0RjRELUttMWI3aVo1Rnd1RWotY2xxNUkzUGlYdHhhZW5HWFd3RUtmM2pSLUhSd29VSV9hbHVMakdZ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvamhSVk9UMkgyZm9CaGJEOExfZlllZUJocmQtLXp0RjRELUttMWI3aVo1Rnd1RWotY2xxNUkzUGlYdHhhZW5HWFd3RUtmM2pSLUhSd29VSV9hbHVMakdZ?oc=5\" target=\"_blank\">בנק ישראל הותיר את הריבית ללא שינוי על 3.25%</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+   "date": "2026-10-21T13:00:16.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "f6fc310fb3ed9502",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "למרות הירידה באינפלציה: בנק ישראל הותיר את הריבית ללא שינוי - C14",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MNU1kQ092dVQ0NTQ1SlNaSGRDYkdfN1NULWhJdGV3ZGtqMW84UHNud2daV1lSdU1DNlBvaTV2VkpvbU05TEtOaUxaMkZBUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MNU1kQ092dVQ0NTQ1SlNaSGRDYkdfN1NULWhJdGV3ZGtqMW84UHNud2daV1lSdU1DNlBvaTV2VkpvbU05TEtOaUxaMkZBUQ?oc=5\" target=\"_blank\">למרות הירידה באינפלציה: בנק ישראל הותיר את הריבית ללא שינוי</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C14<",
+   "date": "2026-10-21T13:00:23.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "f9111e01d53fe9f9",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "אין הפתעות: בנק ישראל הותיר את הריבית ללא שינוי ברמה של 3.25% - וואלה כסף",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WeXR0TjJZZ291T0F5azhhZ2JHM0UxUy1GX2FUaURaQWRJUDN3SjFWTVE2ZkNGakRIS2xnYzAtNzNrU3preUxZbGUtYk84andRcnc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WeXR0TjJZZ291T0F5azhhZ2JHM0UxUy1GX2FUaURaQWRJUDN3SjFWTVE2ZkNGakRIS2xnYzAtNzNrU3preUxZbGUtYk84andRcnc?oc=5\" target=\"_blank\">אין הפתעות: בנק ישראל הותיר את הריבית ללא שינוי ברמה של 3.25%</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+   "date": "2026-10-21T13:04:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "d986d51b135a79d4",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "הריבית בישראל ללא שינוי - צפו במסיבת העיתונאים שאחרי ההודעה - ספונסר",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xbGpURnY0VzByRU9RYk5Ga1FCdjVubGtTWG1HMWZVRU9uVUZ6bUxCM3Rwa3NXYnJQblpNeU9pMEFIdDUzYlVLVFh4bzEzX2RSVGxlcTBER1UwdVppeUtVOE9sanA2UQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xbGpURnY0VzByRU9RYk5Ga1FCdjVubGtTWG1HMWZVRU9uVUZ6bUxCM3Rwa3NXYnJQblpNeU9pMEFIdDUzYlVLVFh4bzEzX2RSVGxlcTBER1UwdVppeUtVOE9sanA2UQ?oc=5\" target=\"_blank\">הריבית בישראל ללא שינוי - צפו במסיבת העיתונאים שאחרי ההודעה</a>&nbsp;",
+   "date": "2026-10-21T13:00:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "bfeea5d697e1f930",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "\"הציבור חנוק, הוא צריך את הורדות הריבית האלה\" - 103FM",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdnJqdnFZMEU0TVFqVktFRUdsZ1FYekUxeVB2cGd2d0RuX0pucWFJVnlyOHRaa2pwYmkzSHhwaFZ4Q1ltZ09pcHpqVXc5RUtCNllscVA4QmpXZUltNEtYV3JqR29tLTBBcEpxaEdtOGx5b2ROczkwclZRYk51Rm9ISw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQdnJqdnFZMEU0TVFqVktFRUdsZ1FYekUxeVB2cGd2d0RuX0pucWFJVnlyOHRaa2pwYmkzSHhwaFZ4Q1ltZ09pcHpqVXc5RUtCNllscVA4QmpXZUltNEtYV3JqR29tLTBBcEpxaEdtOGx5b2ROczkwclZRYk51Rm9ISw?oc=5\" target=\"_blank\">\"הציבור חנוק, הוא צריך את הורדות ",
+   "date": "2026-10-21T13:30:08.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "7f31d60d13d297d8",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "התחזית: רק הורדת ריבית אחת בשנה הקרובה - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uME9wUU51ZmF5UGxtQkdCeWMxZHNMUllJeXpiWEhxN25LbnlQbHBoU0tYcU93S2lxa1lWMVV6WXFwSWJQRlVmeWpTT2tvaWlnUFhiWF9sS1lMU29qb0dOcWgwbjlaS1lD?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uME9wUU51ZmF5UGxtQkdCeWMxZHNMUllJeXpiWEhxN25LbnlQbHBoU0tYcU93S2lxa1lWMVV6WXFwSWJQRlVmeWpTT2tvaWlnUFhiWF9sS1lMU29qb0dOcWgwbjlaS1lD?oc=5\" target=\"_blank\">התחזית: רק הורדת ריבית אחת בשנה הקרובה</a>&nbsp;&nbsp;<font color=\"",
+   "date": "2026-10-21T13:10:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "33b3fb6cd000147d",
+   "source": "אנשים ומחשבים",
+   "group": "industry",
+   "title": "בעלי Google Home? תקלה ברמקולים עלולה לעלות לכם ביוקר",
+   "link": "https://www.pc.co.il/news/460124/",
+   "summary": "משתמשים ברחבי העולם גילו בימים האחרונים כי רמקולי Google Home של גוגל שברשותם צורכים היקפי נתונים חסרי תקדים ברקע. מבדיקת נתוני התעבורה בנתבים הביתיים עולה כי מכשירים בודדים, שאינם פעילים מעבר למענה בסיסי של דקות ספורות ביום, העבירו עשרות ומאות ג'יגה-בייטים ביממה. במקרים חריגים ת",
+   "date": "2026-10-21T12:59:56.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "6b2693594881de79",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - SOUTHERN COPPER CORP/ (0001001838) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926117588/0001104659-26-117588-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001104659-26-117588 <b>Size:</b> 815 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T13:20:06.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "be54a6aa262a59db",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - EQUITY LIFESTYLE PROPERTIES INC (0000895417) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/895417/000162828026066614/0001628280-26-066614-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001628280-26-066614 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T13:15:23.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "fe0913f9285f7877",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1826011/000143774926033069/0001437749-26-033069-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001437749-26-033069 <b>Size:</b> 312 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 3.03: Material Modifications to Rights of Security Holders <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T13:08:48.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "2250fcb38c7de0ed",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - SMITH & WESSON BRANDS, INC. (0001092796) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1092796/000119312526427316/0001193125-26-427316-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001193125-26-427316 <b>Size:</b> 2 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 5.02: Departur",
+   "date": "2026-10-21T13:05:18.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "bb0b156392b48e0c",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - HomeTrust Bancshares, Inc. (0001538263) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000115/0001538263-26-000115-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001538263-26-000115 <b>Size:</b> 9 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T13:03:50.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "14db3ff7b270fd64",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Macron hits out at ‘stupid’ Trump remarks about riots in France",
+   "link": "https://www.ft.com/content/57e14c61-a1ac-46ef-8bf2-c40e5286546e?syn-25a6b1a6=1",
+   "summary": "French president expresses anger after US and other rightwing leaders blame migrants for violence and looting",
+   "date": "2026-10-21T13:17:09.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "ede60000a86e4746",
+   "source": "CNBC Business",
+   "group": "global-press",
+   "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+   "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+   "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+   "date": "2026-10-21T13:30:57.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "7423eadce5b91229",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Trivium: Outperform on Silgan/AIP Acquisition - CreditSights",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemZlTzdzNWk0M2s3LVBqaEZpVjQ4aE1HY29PVzZFX3k0LURUVjBQTm4wQTZUdUh6M1BPWHg1TkRnRFFIQ0dPSVE3VnkwalFQdFlVeVNsWDdDZ0NXX1BidUpwaFJncjZnTWsxYzRDSnVUWWNQU1lfUTRvV2E3b1dUQzJ1SjlzXzNfaG9JOQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNemZlTzdzNWk0M2s3LVBqaEZpVjQ4aE1HY29PVzZFX3k0LURUVjBQTm4wQTZUdUh6M1BPWHg1TkRnRFFIQ0dPSVE3VnkwalFQdFlVeVNsWDdDZ0NXX1BidUpwaFJncjZnTWsxYzRDSnVUWWNQU1lfUTRvV2E3b1dUQzJ1SjlzXzNfaG9JOQ?oc=5\" target=\"_blank\">Trivium: Outperfo",
+   "date": "2026-10-21T12:58:19.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "3e69de1319e84236",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Army’s tech chief talks autonomy, acquisition and the future of drones - Breaking Defense",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUS1vZmtPVVdoR1ZfYmFKRExwUjU2QzdWZGFEUy1neUpmcVhycy1pcGNaQnlTR0VvejZwRVpNR2hOQVk4dEZkdWMxWXIxSFlKMlJ6ckFXUlJxdUo4YkwwTFhDdGQ2WDdvYkE0OFQ2dUtWSktDRkM5ajdmQzdMS3dXa3M1dk1OcGVRU3FKei14SXI3SmxyZmZIS3F2MnVpajlIMENrS05CaU4?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUS1vZmtPVVdoR1ZfYmFKRExwUjU2QzdWZGFEUy1neUpmcVhycy1pcGNaQnlTR0VvejZwRVpNR2hOQVk4dEZkdWMxWXIxSFlKMlJ6ckFXUlJxdUo4YkwwTFhDdGQ2WDdvYkE0OFQ2dUtWSktDRkM5ajdmQzdMS3dXa3M1dk1OcGVRU3FKei14SXI3SmxyZmZIS3F2MnVpajlIMENrS05CaU4?oc",
+   "date": "2026-10-21T13:08:56.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "021f5318a2488a25",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Workday launches autopilot agents for finance. Its CFO says AI’s real value goes beyond efficiency - Fortune",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWJEQ0lWdDcwSFBBTEdTQWxhalNpcEtGbUVMS1NKQ1Q0YlJpV3IxbGJraGFfNFAzN05wS1RwaXpwN2Y1MVVzRVRYSG9SSUwtZ0FBSWMtWEtKODIwVkZNczV0Sm05VVZKTlIyclp6bU5ZTmVRdTU3cEdrLU1fX0xVcFB6WWxGVzBDVXZpaUdHVQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWJEQ0lWdDcwSFBBTEdTQWxhalNpcEtGbUVMS1NKQ1Q0YlJpV3IxbGJraGFfNFAzN05wS1RwaXpwN2Y1MVVzRVRYSG9SSUwtZ0FBSWMtWEtKODIwVkZNczV0Sm05VVZKTlIyclp6bU5ZTmVRdTU3cEdrLU1fX0xVcFB6WWxGVzBDVXZpaUdHVQ?oc=5\" target=\"_blank\">Workday launc",
+   "date": "2026-10-21T13:21:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "8a928382c7f46cdd",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Sourceability Appoints to Board of Directors Yvonne McGill, Former Dell Technologies CFO - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVkFaTFN4ejl2R2hlQ1AxV28tVkFUdnhKTnI5Ti00MXNyNk96a0FKWThwd19pd2ktSkFmcFg1MzlYMllpMDgzREVYd19ocTA2T2V4NzJBNFRFWGlJb0tDSVRRbFFOZkVhY0taYmUzcDByX0RGdHAwNWFpWnZhV180VGxHWmpWZS1SRHVwWFZNeGZFM0o0S1VmMnZEVDJNckE3UUJzQk1qVEhuUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVkFaTFN4ejl2R2hlQ1AxV28tVkFUdnhKTnI5Ti00MXNyNk96a0FKWThwd19pd2ktSkFmcFg1MzlYMllpMDgzREVYd19ocTA2T2V4NzJBNFRFWGlJb0tDSVRRbFFOZkVhY0taYmUzcDByX0RGdHAwNWFpWnZhV180VGxHWmpWZS1SRHVwWFZNeGZFM0o0S1VmMnZEVDJNckE3UUJzQk1qVEhuUQ",
+   "date": "2026-10-21T13:00:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "bbe9b321372c7bc2",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Dr. Backup acquisition could bring new resources to MSPs - ChannelE2E",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1NIX3gtbXZncFlMR0NwZUY2cHNLY2pnbzFCNTUyZnN0ZVNHdnNBSmVNNGtZTDdNUWdCMVBmMXA0ZWZVUWVCX3Q1czJrY1V1TWFWR2k2aDdrcTktLVY4WFlGb1Z5R1RVdE5IOXByNkl6Wl9GdkRqYlFfT1doaEVjVzBiS3FjNzJpa0Z3Qzc3alE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1NIX3gtbXZncFlMR0NwZUY2cHNLY2pnbzFCNTUyZnN0ZVNHdnNBSmVNNGtZTDdNUWdCMVBmMXA0ZWZVUWVCX3Q1czJrY1V1TWFWR2k2aDdrcTktLVY4WFlGb1Z5R1RVdE5IOXByNkl6Wl9GdkRqYlFfT1doaEVjVzBiS3FjNzJpa0Z3Qzc3alE?oc=5\" target=\"_blank\">Dr. Backup a",
+   "date": "2026-10-21T13:00:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "a854eb2a289de4e0",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Salesforce’s 58% premium acquisition ignites M&A expectations: Are software stocks leaping from AI laggards to the center stage of the M&A market? - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzc3dDExRXllaDdRLTNSVW4yeWNXYUFHbU14OUJ1MzM3VE5STVBBNUhfd3JBZTVySlNHcl9aSkdRckpyYkJYa19fTjRVUjRCVWoxYjh6T2RuYjJCcS1vYkRiN0FQQXA5YkhFVkVoTEtaM1BTazJNemtKUkRhSEJjLVdvSTFJdk1ab0l5VERUazhZSWFoOGFQZElPM2ZPR3NBdE5KRGxXaFI5cVhI?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzc3dDExRXllaDdRLTNSVW4yeWNXYUFHbU14OUJ1MzM3VE5STVBBNUhfd3JBZTVySlNHcl9aSkdRckpyYkJYa19fTjRVUjRCVWoxYjh6T2RuYjJCcS1vYkRiN0FQQXA5YkhFVkVoTEtaM1BTazJNemtKUkRhSEJjLVdvSTFJdk1ab0l5VERUazhZSWFoOGFQZElPM2ZPR3NBdE5KRGxXaFI5cV",
+   "date": "2026-10-21T13:13:46.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "d59d94ac8bf9e77d",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "LTC Approaches 2026 SHOP Acquisition Target of $900 Million with Recent $52 Million Investment - Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdGNJTTUtZG9QRTVZd2VkbHFscVRmMXdwNUxJSnRnb2tBdlMtdThrYm5USUFPZ0w1Njhyd1JFeGpCS2k1dVJCQ1FLbmxQRTFYR25pMFI5OXR0OVVyNS1sa0twVTB2V2xBdVFmaGFITk5xajdpUXJycWQ1ZGdZUzNYSjg1Wmo3M0JvOHdvcjZYRnIwSEtLejg4eXdyOTFWV09fbHRGUUpRcDVXbHlZcmM0cW4xcHF0R2tfdGRsNk01UnZRQ01ra1VSWWEwSWdIWUZBTlZpQm5RNFprY296RkRSYTBzZVhrT3JhMlF3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdGNJTTUtZG9QRTVZd2VkbHFscVRmMXdwNUxJSnRnb2tBdlMtdThrYm5USUFPZ0w1Njhyd1JFeGpCS2k1dVJCQ1FLbmxQRTFYR25pMFI5OXR0OVVyNS1sa0twVTB2V2xBdVFmaGFITk5xajdpUXJycWQ1ZGdZUzNYSjg1Wmo3M0JvOHdvcjZYRnIwSEtLejg4eXdyOTFWV09fbHRGUUpRcDVXbH",
+   "date": "2026-10-21T13:15:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "f2e80dff86d27140",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "ASML Climbs After Record Q3 as CFO Fights China Curbs: “Common Sense Will Prevail” - TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjBZb2NTWGtnQVVSbDR6Zk13RUJhMEFyMi1ZR1JKN2tDTjM2MnhjdThrMWdKeURpeHJjcVhrcm1Dd1BjNHR5U2N0cmpBZW5TaHVXWGp1dFI3LUtBUk1feXVpM0ZEZDM0OUJZOEhyZENnLVo3aHFTb1lLUUg2UWUxTWVnWE1udzlZYVUxZzdmeXBtMWlfMFc5VGhmRGNkVm5MSmtsdDhwUVQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjBZb2NTWGtnQVVSbDR6Zk13RUJhMEFyMi1ZR1JKN2tDTjM2MnhjdThrMWdKeURpeHJjcVhrcm1Dd1BjNHR5U2N0cmpBZW5TaHVXWGp1dFI3LUtBUk1feXVpM0ZEZDM0OUJZOEhyZENnLVo3aHFTb1lLUUg2UWUxTWVnWE1udzlZYVUxZzdmeXBtMWlfMFc5VGhmRGNkVm5MSmtsdDhwUVQ?oc",
+   "date": "2026-10-21T13:17:34.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "b0fb6309d91cba1d",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Global Electronics Association Names New CFO - CES | Twice",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREM1ZllrNlpWcDlPSklqbVFSV1hpYU9SajJNdU9NRGN0N1lEZTVJSWVYZGstZzl2NGlOem1DeXZueThuUHhya29obF9KOTltN3kwMXJCYUw2c2NJTmtJaUtEQ0J0ZGhSYS1vaU42OGxnOEg3NVlaQ2xnYjJnZzNRV21UaUJHaVZmMWc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNREM1ZllrNlpWcDlPSklqbVFSV1hpYU9SajJNdU9NRGN0N1lEZTVJSWVYZGstZzl2NGlOem1DeXZueThuUHhya29obF9KOTltN3kwMXJCYUw2c2NJTmtJaUtEQ0J0ZGhSYS1vaU42OGxnOEg3NVlaQ2xnYjJnZzNRV21UaUJHaVZmMWc?oc=5\" target=\"_blank\">Global Electronics A",
+   "date": "2026-10-21T13:12:08.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "ad917f14415d9bec",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Cantor Fitzgerald reiterates Salesforce stock rating on acquisition - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVFNFM3NydW5PZHFfR0NpekM1eUlHTXRWSlQ5MEg0VjdDUXZQVUktSUU1VC1uczFoZDJnRVFTQi1DTkpnQ0k5bDJHYlhYck1MZ09QVktrX0JUckppNEUtYWFpVG1LOXcwcURkcUd2S1otMDJlcXVYc2NXSk51bk5nR2hJNi01VmRJcUlqSUF5VzBZcVFsS1hZbTRYZHd0eERJYnVrWnkxcS1pOUVDenVMM3lqVnZmNTZmQXFMQU1SZElra0haSEE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVFNFM3NydW5PZHFfR0NpekM1eUlHTXRWSlQ5MEg0VjdDUXZQVUktSUU1VC1uczFoZDJnRVFTQi1DTkpnQ0k5bDJHYlhYck1MZ09QVktrX0JUckppNEUtYWFpVG1LOXcwcURkcUd2S1otMDJlcXVYc2NXSk51bk5nR2hJNi01VmRJcUlqSUF5VzBZcVFsS1hZbTRYZHd0eERJYnVrWnkxcS1pOU",
+   "date": "2026-10-21T13:20:01.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "f9c545119d570492",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "CPL Expands Chicago, Midwest Footprint Through Acquisition of Bailey Edward - PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd2kyQnBib2M3RmtMYVFaX0Q2cVR2MnVNYkJjODg0endkOGZoUkxub2NSMUtfSzFXT3YtTDJoMU51c0VucTgtQjBlSGxhc0wzVU84eTUxa1BEU2RmUkRlLWRxTkQwVzJBNnpuemFyQ1RZZmVlUHEtZWQ4NmY0WFZlUUhuRFBIbUE0Y0xzWU9pWkxUS3gxb2dhMjAxU2FmaW5tSmVTTHBNbFRxSVU0eGRITlRHODRyWkVDX2tjYW0tTHlJaEc5WnZiSENR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQd2kyQnBib2M3RmtMYVFaX0Q2cVR2MnVNYkJjODg0endkOGZoUkxub2NSMUtfSzFXT3YtTDJoMU51c0VucTgtQjBlSGxhc0wzVU84eTUxa1BEU2RmUkRlLWRxTkQwVzJBNnpuemFyQ1RZZmVlUHEtZWQ4NmY0WFZlUUhuRFBIbUE0Y0xzWU9pWkxUS3gxb2dhMjAxU2FmaW5tSmVTTHBNbFRxSV",
+   "date": "2026-10-21T13:00:00.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "760cf77d5847e655",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "iCOUNTER Appoints Former SimpliSafe CFO Mark FitzPatrick to Lead Financial Strategy - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORDhIXzFUWUh0d0o4Uy1lN1gwejItUHVoSTdSbUZxT0RmalYzeE9oRDNLbEl2eVVoSnRiV0syUDZZenNsc2M1QUNNekQtOEJuREZHRU5SY2Z6WHdFQlM0T0N4ZXNjVEtaeE9tYjhRTWNCWWdUenFCLXdacGJ6eDhuTERVT2FLYlE4Yi1pVzB2aVZVMG5td3MyRGZCOV9maWcyMFZvS0NYdC1Ld0ZzMVVUUU85X01aSGg5aVdZWFItTQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxORDhIXzFUWUh0d0o4Uy1lN1gwejItUHVoSTdSbUZxT0RmalYzeE9oRDNLbEl2eVVoSnRiV0syUDZZenNsc2M1QUNNekQtOEJuREZHRU5SY2Z6WHdFQlM0T0N4ZXNjVEtaeE9tYjhRTWNCWWdUenFCLXdacGJ6eDhuTERVT2FLYlE4Yi1pVzB2aVZVMG5td3MyRGZCOV9maWcyMFZvS0NYdC1Ld0",
+   "date": "2026-10-21T13:16:51.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "1a64c318a85e5487",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Shimmick Completes $14.3 Million Equipment Refinancing, Reduces Borrowing Costs - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa2ZIbmhPbHNlLVh1M01lU1VBM0Y2YmUwVVdsbVo2NkdkSXV1RDJkbldIbzA1aW02bGVsQ0pUWnZ4WnZKY25Hci00azFfYWZiT0xJazBQSU4zN1ItNEZiUmlfRkM5S2U1b19rWkplOWpGSGlWOFF1Vmt5eHZaZFpyZWd5QnRQLTJTai1zMlFPVzExamRqaXQxMDlrMlE5X0tPSER4cTlvZDZnTnZaNnNkS3E4by1qcU5EVzI4cnJvTmNFWHRYMEE1anpYZk9rVV9NT2ltRmItdWNSWDk4SjN1aQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa2ZIbmhPbHNlLVh1M01lU1VBM0Y2YmUwVVdsbVo2NkdkSXV1RDJkbldIbzA1aW02bGVsQ0pUWnZ4WnZKY25Hci00azFfYWZiT0xJazBQSU4zN1ItNEZiUmlfRkM5S2U1b19rWkplOWpGSGlWOFF1Vmt5eHZaZFpyZWd5QnRQLTJTai1zMlFPVzExamRqaXQxMDlrMlE5X0tPSER4cTlvZDZnTn",
+   "date": "2026-10-21T13:15:10.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "a42c59e6d977e309",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Price to sales forward of Launch Two Acquisition Corp. – NASDAQ:LPBBW - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHNnQXg1RTlmUFAtTHpLODVKYWVGb3ZKQ0djZ1YycXRZVzdlWXdGYXVWc3FYdDJzaHg4RG9SdnRudVZWZkExOG1YbVk5MW1tdkV3TUtIZTNKLVFRUkhMci1TcFpTZWxiY3ZMZ2E0UkljSEF5dnNfcHByc0x4NXFwSG9KSGpTVFNWZVFkd2Z3cnNkU09FR2NyUnNzakpXZTQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHNnQXg1RTlmUFAtTHpLODVKYWVGb3ZKQ0djZ1YycXRZVzdlWXdGYXVWc3FYdDJzaHg4RG9SdnRudVZWZkExOG1YbVk5MW1tdkV3TUtIZTNKLVFRUkhMci1TcFpTZWxiY3ZMZ2E0UkljSEF5dnNfcHByc0x4NXFwSG9KSGpTVFNWZVFkd2Z3cnNkU09FR2NyUnNzakpXZTQ?oc=5\" target=\"",
+   "date": "2026-10-21T10:17:20.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "82685933bdf100d5",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Bodycote Says All Resolutions For Bodycote Acquisition Passed At Court And General Meetings - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWGpOU2hEdmtGQ2dnekVBTGF3NTFwN0YxRENjUmxKMnp4R3RNQndHNlljSTVoLVV0a3lZaXpJMzc5cDR2dFVvVkRMRlVUdWNkeFcwc1F2dGFDak9yMGZ3dzRlbkFGTzlVU0RMYWQ0MTRzVkM5V3d0ckQxOWdTaXpWOVlUWjlJaHV1SVg5VnVQQjlZNkFESm9kNWZDSWYwdlltTkxBUFh5aDBRR2lHblhTM3RKOXdKaTlMNmNQZEt1VjR1UFNhRU1yZTZJWk5Jc19VQUhnTnFQcktCa1Z3SjdVeV9GMFlVMndnclN5U19xWWFyNFE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWGpOU2hEdmtGQ2dnekVBTGF3NTFwN0YxRENjUmxKMnp4R3RNQndHNlljSTVoLVV0a3lZaXpJMzc5cDR2dFVvVkRMRlVUdWNkeFcwc1F2dGFDak9yMGZ3dzRlbkFGTzlVU0RMYWQ0MTRzVkM5V3d0ckQxOWdTaXpWOVlUWjlJaHV1SVg5VnVQQjlZNkFESm9kNWZDSWYwdlltTkxBUFh5aDBRR2",
+   "date": "2026-10-21T12:36:35.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "f91add6dc3a3a0d2",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "K2 Capital Acquisition Corporation News — NASDAQ:KTWO - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LV0tkNzlwblplQXMwMnJiOWVoVDcwZzJJX2VTS2t1Y08zdDB0a2lJbEIyZ0RpN3dXbnluV0QtRDRjSTJkMUJscGFSSVphZWowYjZQa3dNU2ZfaTN0N3dpVmlMQndYZGpGOGNhblZ5SzRTQmppdGJNVjNn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1LV0tkNzlwblplQXMwMnJiOWVoVDcwZzJJX2VTS2t1Y08zdDB0a2lJbEIyZ0RpN3dXbnluV0QtRDRjSTJkMUJscGFSSVphZWowYjZQa3dNU2ZfaTN0N3dpVmlMQndYZGpGOGNhblZ5SzRTQmppdGJNVjNn?oc=5\" target=\"_blank\">K2 Capital Acquisition Corporation News — N",
+   "date": "2026-10-21T09:09:09.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "30c71fe408a4ed29",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Planet Awarded NASA Commercial Satellite Data Acquisition (CSDA) Evaluation Task Order for Tanager Hyperspectral Data - The Joplin Globe",
+   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOS2pQekVRa0syQWw0UzNjUUY4bWlSRnVJTFVGaS1JWEY4enVXMUFBTTRQMWpaTmk2Q0o5TlctREFaS0d1cVp1S3ZHek9pTmtUcnQ5dmJxQndrczFJcDhEVVoxNjFZSlB4OWZ5N0N6cG83X1RZNm9XQno1RkJTNGVDWjNkdnhNRC0waG5XQ1BXYWpveWNpdXl0NDVtUzc5WjlKR01RdlNVUklMVmZUM3pwNmFkRnBQcm5vRVN6eUdEaGZPNGt6V2ZYOW4zX0d3aExuMGxYODJCaUdYWjBvd1Y5bnN0bVhmM0N5SEIyeE5SRzNjTHg5Q2o5akZsUDFhV1lYeHdUUHhlQU8tamtFWlA3V00wM3otWk1CRjNHemI5LUtEODBQWllNU2dkcWZLZFVaeEFfY2NuYXFOVnotTm9j?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxOS2pQekVRa0syQWw0UzNjUUY4bWlSRnVJTFVGaS1JWEY4enVXMUFBTTRQMWpaTmk2Q0o5TlctREFaS0d1cVp1S3ZHek9pTmtUcnQ5dmJxQndrczFJcDhEVVoxNjFZSlB4OWZ5N0N6cG83X1RZNm9XQno1RkJTNGVDWjNkdnhNRC0waG5XQ1BXYWpveWNpdXl0NDVtUzc5WjlKR01RdlNVUklMVm",
+   "date": "2026-10-21T13:17:23.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "d77d7a18e372fbe2",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "Amazon withdraws application for data center campus at GWU site in Ashburn, Virginia",
+   "link": "https://www.datacenterdynamics.com/en/news/amazon-withdraws-application-for-data-center-campus-at-gwu-site-in-ashburn-virginia/",
+   "summary": "<p data-block-key=\"ojvdl\">Cloud giant backs off proposals after pushback from Loudoun County officials</p>",
+   "date": "2026-10-21T13:26:54.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "531df1fb41327ad5",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "NorthC breaks ground on data center in Geneva, Switzerland",
+   "link": "https://www.datacenterdynamics.com/en/news/northc-breaks-ground-on-data-center-in-geneva-switzerland/",
+   "summary": "<p data-block-key=\"h29z1\">First phase of 4.5MW facility due live in 2028</p>",
+   "date": "2026-10-21T13:20:38.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "92de68bc38c81212",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "AT&T copper retirement pushes on as carrier reveals just 1% still using legacy technology",
+   "link": "https://www.datacenterdynamics.com/en/news/att-copper-retirement-pushes-on-as-carrier-reveals-just-1-still-using-legacy-technology/",
+   "summary": "<p data-block-key=\"jf9xt\">As the carrier continues to push its fiber rollout</p>",
+   "date": "2026-10-21T13:19:30.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "71231d86a466b848",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "Duos secures cloud provider as customer for 20MW of data center capacity",
+   "link": "https://www.datacenterdynamics.com/en/news/duos-secures-cloud-provider-as-customer-for-20mw-of-data-center-capacity/",
+   "summary": "<p data-block-key=\"73icq\">Contract worth $700 million, capacity due live next year</p>",
+   "date": "2026-10-21T13:16:53.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "83e182abf97bf207",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "European Commission accuses KKR of misleading EU regulators over €22bn Italian NetCo deal",
+   "link": "https://www.datacenterdynamics.com/en/news/virgin-media-o2/",
+   "summary": "<p data-block-key=\"o89z2\">KKR disputes the claims</p>",
+   "date": "2026-10-21T13:14:53.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "a8cecba5898319a0",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "atNorth tops out latest data center in Espoo, Finland",
+   "link": "https://www.datacenterdynamics.com/en/news/atnorth-tops-out-latest-data-center-in-espoo-finland/",
+   "summary": "<p data-block-key=\"x02yn\">Company adding five-story building to campus</p>",
+   "date": "2026-10-21T13:10:09.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "71ae2abe12964906",
+   "source": "SecurityWeek",
+   "group": "industry",
+   "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
+   "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
+   "summary": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first on SecurityWeek .",
+   "date": "2026-10-21T13:17:35.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  },
+  {
+   "id": "9fa3f970853e8bb6",
+   "source": "SecurityWeek",
+   "group": "industry",
+   "title": "Memory Bugs Account for Most of Chrome&#8217;s 353 New Security Fixes",
+   "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
+   "summary": "The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities. The post Memory Bugs Account for Most of Chrome&#8217;s 353 New Security Fixes appeared first on SecurityWeek .",
+   "date": "2026-10-21T12:57:47.000Z",
+   "fetched": "2026-10-21T13:33:12.438Z"
+  }
+ ]
+}
