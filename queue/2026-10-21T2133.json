@@ -1,0 +1,236 @@
+{
+ "batch": "2026-10-21T2133",
+ "created": "2026-10-21T21:33:12.309Z",
+ "items": [
+  {
+   "id": "2bfb372058a5cd5e",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - MSD Investment Corp. (0001849894) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1849894/000119312526427990/0001193125-26-427990-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001193125-26-427990 <b>Size:</b> 155 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T21:29:02.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "2cd2c2530b30e1a3",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Opendoor Technologies Inc. (0001801169) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1801169/000114036126040415/0001140361-26-040415-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001140361-26-040415 <b>Size:</b> 228 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+   "date": "2026-10-21T21:28:07.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "966cf11e62a91627",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Drugs Made In America Acquisition Corp. (0002028614) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2028614/000121390026111421/0001213900-26-111421-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001213900-26-111421 <b>Size:</b> 304 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T21:27:32.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "ccf1150fcb2ddc1b",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - SLM Student Loan Trust 2005-7 (0001331696) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1331696/000114036126040380/0001140361-26-040380-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001140361-26-040380 <b>Size:</b> 150 KB <br>Item 8.01: Other Events",
+   "date": "2026-10-21T21:20:37.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "b7a86c6eb350a5d1",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - FULL HOUSE RESORTS INC (0000891482) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/891482/000089148226000044/0000891482-26-000044-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0000891482-26-000044 <b>Size:</b> 146 KB <br>Item 7.01: Regulation FD Disclosure",
+   "date": "2026-10-21T21:20:05.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "4889cfabb3ae52a5",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - SLM Student Loan Trust 2006-5 (0001358239) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1358239/000114036126040375/0001140361-26-040375-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001140361-26-040375 <b>Size:</b> 145 KB <br>Item 8.01: Other Events",
+   "date": "2026-10-21T21:18:12.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "bfb553a67688129b",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Forge Nano Holdings, Inc. (0002101833) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2101833/000110465926117880/0001104659-26-117880-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001104659-26-117880 <b>Size:</b> 282 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T21:16:52.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "7d969e29213fa9b6",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Capstone Holding Corp. (0000887151) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/887151/000143774926033134/0001437749-26-033134-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001437749-26-033134 <b>Size:</b> 728 KB <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T21:16:25.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "15248988fc8cb3c9",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Direct Digital Holdings, Inc. (0001880613) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1880613/000188061326000117/0001880613-26-000117-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001880613-26-000117 <b>Size:</b> 424 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhib",
+   "date": "2026-10-21T21:16:05.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "ef6cc1f2e14dacb6",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Super League Enterprise, Inc. (0001621672) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1621672/000143774926033133/0001437749-26-033133-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001437749-26-033133 <b>Size:</b> 183 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T21:15:24.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "94c27a7f42033769",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - INTEGRATED RAIL & RESOURCES INC. (0002044112) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2044112/000121390026111415/0001213900-26-111415-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001213900-26-111415 <b>Size:</b> 390 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T21:12:59.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "39cf8d52e1e722f5",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - MID PENN BANCORP INC (0000879635) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/879635/000087963526000058/0000879635-26-000058-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0000879635-26-000058 <b>Size:</b> 984 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-21T21:12:53.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "5644fb21b7a26ab1",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Red Rock Resorts, Inc. (0001653653) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1653653/000119312526427970/0001193125-26-427970-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-21 <b>AccNo:</b> 0001193125-26-427970 <b>Size:</b> 235 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 7.01",
+   "date": "2026-10-21T21:11:29.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "91873e1441d68aad",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
+   "link": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1",
+   "summary": "Decision comes as two people were killed in a drone attack targeting Saudi Aramco’s Shaybah oilfield",
+   "date": "2026-10-21T20:58:21.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "7bd3a6c7ed36c03e",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Khoi Nguyen Joins CISA as Chief Acquisition Executive - ExecutiveGov",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0s2V2hVNnFUa0hmMmh2b2FWdzQxZHpwc0Q1WGVwb1ZfRzRYWnZNbGhUNFZ1TmJUT3FpSGlFa3dyRnpRRWY1ZTdFaTc2eE52SXhzdzhjYVYwNV9BeU56RnBsY3pYdTVlbzZvOHdiTmFfZmtxdUZndkJsTWxqUDM2ZmNubl9rRVgtU3JxVEFWdHdQN0ltWTNoNnNn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0s2V2hVNnFUa0hmMmh2b2FWdzQxZHpwc0Q1WGVwb1ZfRzRYWnZNbGhUNFZ1TmJUT3FpSGlFa3dyRnpRRWY1ZTdFaTc2eE52SXhzdzhjYVYwNV9BeU56RnBsY3pYdTVlbzZvOHdiTmFfZmtxdUZndkJsTWxqUDM2ZmNubl9rRVgtU3JxVEFWdHdQN0ltWTNoNnNn?oc=5\" target=\"_blank\"",
+   "date": "2026-10-21T21:29:48.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "0a5392892deefce7",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Integer Holdings Corporation Stockholders Approve Proposals in Connection with KKR’s Proposed Acquisition of Integer - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnEtNWptaEkzWC1xZ0tTdW9UTXRYU3pLVDdiTEVvU1NPTXZmaC03N1AzdExkVGl0TVpMME82WGlWN1FqX3U1SUEzaXExZlBnWTdoUWxOUHlMRUhZdTlmRTVLUkppQzRpS1RpUzE2Z2FJUjIwOE1DNzFNMTc1dGhPUExFbmlHTll3UFpXS3FFTnZhb2FYdGlmd3pYNlpfTjdjRzcxYnRIeTduampkUzJPSlFiei0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnEtNWptaEkzWC1xZ0tTdW9UTXRYU3pLVDdiTEVvU1NPTXZmaC03N1AzdExkVGl0TVpMME82WGlWN1FqX3U1SUEzaXExZlBnWTdoUWxOUHlMRUhZdTlmRTVLUkppQzRpS1RpUzE2Z2FJUjIwOE1DNzFNMTc1dGhPUExFbmlHTll3UFpXS3FFTnZhb2FYdGlmd3pYNlpfTjdjRzcxYnRIeTduam",
+   "date": "2026-10-21T20:43:00.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "8cf046bc4ed3a646",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Group 1 acquires 10 Hennessy dealerships in Atlanta for $1.3 billion - Automotive News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWoyaElrdjRIVE5KcExKcU5Kbm1VZlJjeHM1UVA3c0JiTncyM0NpXzN0cGF4NFc4a1lFdXZ4OWdWTXFBV0ZlRFRZVUp1RW9JY3dPYXdFaGQ3U2NEZlhaQm9acm1oM2REU1NISG10ek05M0xGQVZEc243NnB5WUxXMkdoaE44M05KZEpNWnQzUGREMjM2T0RvNC1zajVVdDhXVERyRVcyRVJ1VTNPeGVBUA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWoyaElrdjRIVE5KcExKcU5Kbm1VZlJjeHM1UVA3c0JiTncyM0NpXzN0cGF4NFc4a1lFdXZ4OWdWTXFBV0ZlRFRZVUp1RW9JY3dPYXdFaGQ3U2NEZlhaQm9acm1oM2REU1NISG10ek05M0xGQVZEc243NnB5WUxXMkdoaE44M05KZEpNWnQzUGREMjM2T0RvNC1zajVVdDhXVERyRVcyRVJ1VT",
+   "date": "2026-10-21T20:57:00.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "9ef7bc98e8a27ee5",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "OII: Adjusted EBITDA rose 7% as Q3 free cash flow reached $142 million - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR0R6RUpGY3Z3ODBOMy1HNzdkdlpnVTIza0d1QkpueHJWWkVpSDBQMVIyd1VMbTB3bUdiVjNzUTFWcjhVVHd1Z0FYMGYzLVFHMzZqUk9lS2trU0Zhd3R6bHJCaUJrcEdOYnFCM0hxeXAzQ2lVd2ktUmZ0WnMzQVN3WlRHMEY2N19kc1E1TWN3U25EV2JKaTFqcjFmeXRzX3UyblowQkE4N1BwTERkcU9kVzNrMVNoVFlEc0J6WmkxTVJSTHNFS2VRS0tFRjRmNFFGQlRWSDR5dUVucG03MDNoMUhMRmI?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR0R6RUpGY3Z3ODBOMy1HNzdkdlpnVTIza0d1QkpueHJWWkVpSDBQMVIyd1VMbTB3bUdiVjNzUTFWcjhVVHd1Z0FYMGYzLVFHMzZqUk9lS2trU0Zhd3R6bHJCaUJrcEdOYnFCM0hxeXAzQ2lVd2ktUmZ0WnMzQVN3WlRHMEY2N19kc1E1TWN3U25EV2JKaTFqcjFmeXRzX3UyblowQkE4N1BwTE",
+   "date": "2026-10-21T21:04:44.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "a536ef70edb971e8",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Frequency Electronics appoints Allen Kaplan as CFO - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTlUMG5WeTQzdEdJNzZaT1M1VjR2ZjhCaTloTG9xT2tWZTBNWVRRWFJJV1lFTmJVc0htS090bUNjcDZ4b0U0SF9UMk0wdGdyemdtRlVCQXE3ODQxRjRFNVhERkpJTlUybl9jWm94aUJIYkRkX044N0Myb2Y5amgxNXdvajdJLTFNWkNvbjUzOTFlQVpvaWF0LXdtWmJ4cmJXVXNNVEdMMmR1cy1fNl9XeUNrWQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTlUMG5WeTQzdEdJNzZaT1M1VjR2ZjhCaTloTG9xT2tWZTBNWVRRWFJJV1lFTmJVc0htS090bUNjcDZ4b0U0SF9UMk0wdGdyemdtRlVCQXE3ODQxRjRFNVhERkpJTlUybl9jWm94aUJIYkRkX044N0Myb2Y5amgxNXdvajdJLTFNWkNvbjUzOTFlQVpvaWF0LXdtWmJ4cmJXVXNNVEdMMmR1cy",
+   "date": "2026-10-21T20:28:51.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "b93161fffde158eb",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Fulton Financial Q3 net income rises sequentially on lower acquisition expenses - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkU4M0VEazF3VW1rXzVieTMzWTlSazNCSEJEd2NJbFYtam96UHhEN21yQ25BNThLV1hLRHhqaW92NVV3bUlVMVVmUkk0RHFtb0RxdlhKei04bnJrUE9kYTFTV00tdFRfejROdmNULUVtdlVQTE9iM3lBei1TWDg3MnhVQURELTMzQW13S3hmUkpzQy1qSDFUeXNpVEpmZm5WQTBLdU9xRjRwNVR4UnBVRFhZQThPZnhJenZpQkY3U1NadERBVjZGYzlmYXkzZk5FczZCZGE5WXdVSXFZZ1RBSmRyYw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkU4M0VEazF3VW1rXzVieTMzWTlSazNCSEJEd2NJbFYtam96UHhEN21yQ25BNThLV1hLRHhqaW92NVV3bUlVMVVmUkk0RHFtb0RxdlhKei04bnJrUE9kYTFTV00tdFRfejROdmNULUVtdlVQTE9iM3lBei1TWDg3MnhVQURELTMzQW13S3hmUkpzQy1qSDFUeXNpVEpmZm5WQTBLdU9xRjRwNV",
+   "date": "2026-10-21T20:42:54.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "f7c5b29f054b45f9",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "BANR: Organic growth and acquisition expansion accompanied a 4.14% NIM and $47.7M Q3 net income - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZXFDN0xtYTN0WjNhZ1plUGNjNUx3YnR3dUt0aUhxVXBvUmVNQjNISHM4bzhCY1J2NEFpUVFQQ2FPcGxMeTV3U1Y5LUEtRi0zczJXREtiTUs1ZG9JSWczaG5wcWZxdW1WX0RuNG1nMVl2dGRSUWJHQ3N5YV9UYVFBaU9IYi1pS0NwazdVQkZfYzlQUzNaUmxhSWNMblg1YnJmUHJCRUtoSkVCRGFxT0NDci1CX003c2pWX3FlYmN2ckEtMXlYQzdzakZBbEVGVEpfVlFZNzNxY2QwMVNSZFNLNy1DTUptaWVrSXJ0SGJ3Z29FV2pEMUNhUEgyb2JOTmx5V0JETUJn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOZXFDN0xtYTN0WjNhZ1plUGNjNUx3YnR3dUt0aUhxVXBvUmVNQjNISHM4bzhCY1J2NEFpUVFQQ2FPcGxMeTV3U1Y5LUEtRi0zczJXREtiTUs1ZG9JSWczaG5wcWZxdW1WX0RuNG1nMVl2dGRSUWJHQ3N5YV9UYVFBaU9IYi1pS0NwazdVQkZfYzlQUzNaUmxhSWNMblg1YnJmUHJCRUtoSkVCRG",
+   "date": "2026-10-21T20:55:47.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "97bed73a3ad77910",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "FS Bancorp Q3 net income drops on acquisition costs - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmtCVEIxUkZfTXZqZU1fX0tPV1c3UFBMVXNLUEtFdnVOdHV5cDQ2Sm9GcW50dTZGb3VCcEl5Nmx5S1EzNXJSdVlmT0x1amFOanM1ekNVSUpfWGNQclExQlN5VG5paXA5QnNUbnNQa2dIb2pvSU9YRHNuWjhmWDVFSEtqeG1pTDRXOVY0RGRuUzRHTG9kbTN2ZTFYRl9abDZZdDhzM2doZkVWWVk0VE5xNExIMXBLTlFTZndXd1V3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxONmtCVEIxUkZfTXZqZU1fX0tPV1c3UFBMVXNLUEtFdnVOdHV5cDQ2Sm9GcW50dTZGb3VCcEl5Nmx5S1EzNXJSdVlmT0x1amFOanM1ekNVSUpfWGNQclExQlN5VG5paXA5QnNUbnNQa2dIb2pvSU9YRHNuWjhmWDVFSEtqeG1pTDRXOVY0RGRuUzRHTG9kbTN2ZTFYRl9abDZZdDhzM2doZkVWWV",
+   "date": "2026-10-21T20:37:54.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  },
+  {
+   "id": "294c3218bb2facc3",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "AIR: Springbok acquisition adds Maude Lake targets, subject to approvals - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2tVd21ETXRWSXRwZ1JKZXFZZjhkM3hyTk5kZzBYXzUzUlM5a1N1ejd6VVZJbDNpamR5QTNIa0hpTlBzblZuNWE5QjdpalktZXVmUUczd2FtamY2dUVVVEwwTjQxMnV6dk5Wd2JCQlZQeXJqeXRkRkYxMDJiQ2lDYnR1NkhwNVh5MTNtVmNhM0QtRE1FbllvUEZZQVpsZWk0Zjdnai05OVRYcHZudzVOWDhBU1M1RzNFd3UwNmJqZWEzOUpKanRsbG9yU21KSGFUbTAzZ1RkUFZoSlJRWGlkbnpPb1YwUXdG?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2tVd21ETXRWSXRwZ1JKZXFZZjhkM3hyTk5kZzBYXzUzUlM5a1N1ejd6VVZJbDNpamR5QTNIa0hpTlBzblZuNWE5QjdpalktZXVmUUczd2FtamY2dUVVVEwwTjQxMnV6dk5Wd2JCQlZQeXJqeXRkRkYxMDJiQ2lDYnR1NkhwNVh5MTNtVmNhM0QtRE1FbllvUEZZQVpsZWk0Zjdnai05OVRYcH",
+   "date": "2026-10-21T20:35:08.000Z",
+   "fetched": "2026-10-21T21:33:12.309Z"
+  }
+ ]
+}
