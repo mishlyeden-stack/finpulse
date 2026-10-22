@@ -1,0 +1,256 @@
+{
+ "batch": "2026-10-22T2033",
+ "created": "2026-10-22T20:33:12.986Z",
+ "items": [
+  {
+   "id": "013ac16a17b915de",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "לאחר ביטול ההסכם — דליה לוקחת את השותפות במאגר לווייתן לבוררות - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTZHVlY2U3JyM0FPYm8wUF94SjRfSmh6SFRqWnFTdVB2dVVORHhlWDY0c1d1QUs5VTRpLXBLNlJtZEVXMlI1Um93NElYOFJsRlV1VmE4a3J0MFlDMWhqalBVM2RPOEJDY05HZTFpaXI1eUZSSkMxMTh3ZnVvVVRmOFlZWWlJdGxtQ09BLUxOY29uWjZMZzNSX0t1RE9RVndtcjl4X3RfTUM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTZHVlY2U3JyM0FPYm8wUF94SjRfSmh6SFRqWnFTdVB2dVVORHhlWDY0c1d1QUs5VTRpLXBLNlJtZEVXMlI1Um93NElYOFJsRlV1VmE4a3J0MFlDMWhqalBVM2RPOEJDY05HZTFpaXI1eUZSSkMxMTh3ZnVvVVRmOFlZWWlJdGxtQ09BLUxOY29uWjZMZzNSX0t1RE9RVndtcjl4X3RfTUM?oc",
+   "date": "2026-10-22T20:13:00.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "9391fefa84bcd517",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "17 מיליון דולר למודליו: ענן שבו גם הספק לא רואה את המידע - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fanBsMDlwbEFyQmk3SVliN2lIQ3l5VThuU3dxcFBrQ3pNM3cwcF84MlBfeEM0TUNpdFRuT1pzelZ4X2ZtclJISV9MaEFJRUJPQnQ0eHRsOUxpWmk0X2xFemkxVmhCeDdo?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fanBsMDlwbEFyQmk3SVliN2lIQ3l5VThuU3dxcFBrQ3pNM3cwcF84MlBfeEM0TUNpdFRuT1pzelZ4X2ZtclJISV9MaEFJRUJPQnQ0eHRsOUxpWmk0X2xFemkxVmhCeDdo?oc=5\" target=\"_blank\">17 מיליון דולר למודליו: ענן שבו גם הספק לא רואה את המידע</a>&nbsp;&",
+   "date": "2026-10-22T14:02:00.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "8c112410019f392a",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "שיבא מוכר את זרוע החדשנות הגלובלית ARC לרדיזיין הלת' האמריקאית: מה עובר, ומה נשאר בבית החולים - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yTW0xLXhKdEhlTTdKQ3lJU1RVa3ZqVE9RUkduX3RvX0hOTjMyNHhfRzF0bnFCRnkzeG0xQU1TS05lc1p6YkdjT2s3YnQyclp3SHFFVG5zOEt0N1pqOXIyUnJDSDZ4dHd4?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yTW0xLXhKdEhlTTdKQ3lJU1RVa3ZqVE9RUkduX3RvX0hOTjMyNHhfRzF0bnFCRnkzeG0xQU1TS05lc1p6YkdjT2s3YnQyclp3SHFFVG5zOEt0N1pqOXIyUnJDSDZ4dHd4?oc=5\" target=\"_blank\">שיבא מוכר את זרוע החדשנות הגלובלית ARC לרדיזיין הלת' האמריקאית: מה ",
+   "date": "2026-10-22T14:21:00.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "a17a15a53423549b",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Hilltop Holdings Inc. (0001265131) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1265131/000110465926118170/0001104659-26-118170-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-22 <b>AccNo:</b> 0001104659-26-118170 <b>Size:</b> 3 MB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-22T20:31:32.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "ed31ec7f107c7167",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Amerant Bancorp Inc. (0001734342) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1734342/000173434226000084/0001734342-26-000084-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-22 <b>AccNo:</b> 0001734342-26-000084 <b>Size:</b> 5 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-22T20:31:14.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "2c10ec256d4e80e7",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - SOUTH PLAINS FINANCIAL, INC. (0001163668) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1163668/000114036126040519/0001140361-26-040519-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-22 <b>AccNo:</b> 0001140361-26-040519 <b>Size:</b> 5 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-22T20:30:48.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "75ed155667bb1f19",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - ContextLogic Holdings Inc. (0002064307) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2064307/000206430726000020/0002064307-26-000020-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-22 <b>AccNo:</b> 0002064307-26-000020 <b>Size:</b> 291 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-22T20:30:47.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "acbf510711f38e07",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Range Capital Acquisition Corp. (0002035644) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2035644/000119312526428989/0001193125-26-428989-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-22 <b>AccNo:</b> 0001193125-26-428989 <b>Size:</b> 189 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-22T20:30:22.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "797a27b70e2a427c",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - EAGLE FINANCIAL SERVICES INC (0000880641) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/880641/000088064126000026/0000880641-26-000026-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-22 <b>AccNo:</b> 0000880641-26-000026 <b>Size:</b> 9 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-22T20:30:17.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "c99bdb64f35e33c3",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Shuttle Pharmaceuticals Holdings, Inc. (0001757499) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1757499/000149315226048112/0001493152-26-048112-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-22 <b>AccNo:</b> 0001493152-26-048112 <b>Size:</b> 220 KB <br>Item 4.01: Changes in Registrant's Certifying Accountant <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-22T20:30:15.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "10a90cd1a7b54ac2",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Cardiff Oncology, Inc. (0001213037) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1213037/000149315226048111/0001493152-26-048111-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-22 <b>AccNo:</b> 0001493152-26-048111 <b>Size:</b> 200 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
+   "date": "2026-10-22T20:30:15.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "d1399fd692cc9b4c",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - NATIONAL BANKSHARES INC (0000796534) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/796534/000119312526428986/0001193125-26-428986-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-22 <b>AccNo:</b> 0001193125-26-428986 <b>Size:</b> 2 MB <br>Item 2.02: Results of Operations and Financial Condition",
+   "date": "2026-10-22T20:30:15.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "82d39135b58ac4c7",
+   "source": "CFO Dive",
+   "group": "cfo",
+   "title": "Economy holds steady despite grim consumer expectations: Conference Board",
+   "link": "https://www.cfodive.com/news/economy-holds-steady-grim-consumer-expectations-conference-board-inflation-gdp-cpi-fed/833782/",
+   "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/wxLoIJDX1UM2O5QZo2wg7wYupeqbfwoBA5O7B-Ahpb4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI4MDQ3MDgzLmpwZw==.webp\"/></div></figure><p>For several months persistent inflation &mdash; fueled",
+   "date": "2026-10-22T19:49:21.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "4cdd1f4e748a784c",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Sheriff’s Meadow’s received largest land acquisition in its history - MV Times",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWE2UHBkbzZIWnhJRExhT3VLcHg4RjV3cTZtdzFjN3I2SlRDam5ibVE1U0dGZC1QRXg5RUoxWkg3NHRoVFZkeDhMazJ0WkNVRGFJVTEwcTZDeVNERC1zU3ZSaXFXTFVQVXRCVU1yaDdGOXNYYzVPTU1JZmRoRHNsajdfRV8xQ0JOa2RfbFotM3h5XzVZUkhnU1R3bTAtS2dPVFRR?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWE2UHBkbzZIWnhJRExhT3VLcHg4RjV3cTZtdzFjN3I2SlRDam5ibVE1U0dGZC1QRXg5RUoxWkg3NHRoVFZkeDhMazJ0WkNVRGFJVTEwcTZDeVNERC1zU3ZSaXFXTFVQVXRCVU1yaDdGOXNYYzVPTU1JZmRoRHNsajdfRV8xQ0JOa2RfbFotM3h5XzVZUkhnU1R3bTAtS2dPVFRR?oc=5\" tar",
+   "date": "2026-10-22T20:16:37.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "d1a5c09a9c6929dd",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Pentagon Details New Acquisition Model for Autonomous Warfare - MeriTalk",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGg1UXU3TzlzQ292WXJjcGVmMTgteVBmbldPanBNamJDWGJJc1R6V1BDeDcwdlZ0cS1WNUN5dHFVdkJKR1J4dVg4NUdRMFVCbVhQTC1HUTV1VnVYV1diUkl6a3BPc1BJOVlOQUtueDZJeXlZbG95VVIza254d3NCSldvSnVaRWNsV04wN2NhSzZnNWNmcDVJMG5IUGI?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGg1UXU3TzlzQ292WXJjcGVmMTgteVBmbldPanBNamJDWGJJc1R6V1BDeDcwdlZ0cS1WNUN5dHFVdkJKR1J4dVg4NUdRMFVCbVhQTC1HUTV1VnVYV1diUkl6a3BPc1BJOVlOQUtueDZJeXlZbG95VVIza254d3NCSldvSnVaRWNsV04wN2NhSzZnNWNmcDVJMG5IUGI?oc=5\" target=\"_bla",
+   "date": "2026-10-22T20:08:04.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "ef708aa27feac40b",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "NBISD approves refinancing and issuance of 2024 bond funds - Community Impact Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlhRSmZ6QURrSXBJa1dQN1dGNllnaXZxN2NGNmtiUVhXUVRzTWpaWlFnRlJBVV9NbzdWQ2FzT1NyencxTGJya0kzd2luVG1lNEVfRkwtQ0tGX1VOb1J4SEFkaDkxLXdmRnNadWhPdjZzM0VUMUhLN2pEREd3Y0hrUWJ1NjcxQ1M2djZ6dGhFMWp4aGwtWnJ3Qk9ibzY5YURWWm1wYU5DdkYxOWNDV05nOA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlhRSmZ6QURrSXBJa1dQN1dGNllnaXZxN2NGNmtiUVhXUVRzTWpaWlFnRlJBVV9NbzdWQ2FzT1NyencxTGJya0kzd2luVG1lNEVfRkwtQ0tGX1VOb1J4SEFkaDkxLXdmRnNadWhPdjZzM0VUMUhLN2pEREd3Y0hrUWJ1NjcxQ1M2djZ6dGhFMWp4aGwtWnJ3Qk9ibzY5YURWWm1wYU5DdkYxOW",
+   "date": "2026-10-22T20:04:10.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "89beb10b38fa307e",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "OpenAI CFO: Project Camellia Must Earn Residents’ Trust - Effingham Herald",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUV3TG1oNTRjSTdrb3JyYzlzZXYzY2pDdlV2Unp3Q0NWb1lMNkpqTThOaTJGd3JEbHhWZlVtVDdEM3c5VkJWNEF1UkdsbmpUZTFvUlBfZVIzWnoyR184MWZkTjJKRUxoejdxbHRVRzQ4VWZ4Q2FCQXNJOGY0eHBncmUxYWl1NWg4N1FNdXA2Y0pLeDBnbEpEV3ZCLTFtSncx?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUV3TG1oNTRjSTdrb3JyYzlzZXYzY2pDdlV2Unp3Q0NWb1lMNkpqTThOaTJGd3JEbHhWZlVtVDdEM3c5VkJWNEF1UkdsbmpUZTFvUlBfZVIzWnoyR184MWZkTjJKRUxoejdxbHRVRzQ4VWZ4Q2FCQXNJOGY0eHBncmUxYWl1NWg4N1FNdXA2Y0pLeDBnbEpEV3ZCLTFtSncx?oc=5\" target=",
+   "date": "2026-10-22T20:31:36.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "63786029eac9981f",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "The FT’s B2B Acquisition Playbook: 10x Subscription Revenue, Be Wary of Data - A Media Operator",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2tyUEFfRldCWWE4QlZWYnpBdU84dTBxV2hjejkteFhSanpOOFNvRmhiTDVtZVBtZmMzRWdMQVhpRXZSdW9CNk1pazIzcWtuVXBWeGNmVEMtczM3d0RhQ0h3THhPZm82bF9FWHpRUW9helNIWGo2cjkwSmxKWE5QdFBoSVZjN3FJdEp4QjJaYUozX1RLUmJaWi01RlVfWGJWY0QxR0w2NnpUVlNHUjd3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2tyUEFfRldCWWE4QlZWYnpBdU84dTBxV2hjejkteFhSanpOOFNvRmhiTDVtZVBtZmMzRWdMQVhpRXZSdW9CNk1pazIzcWtuVXBWeGNmVEMtczM3d0RhQ0h3THhPZm82bF9FWHpRUW9helNIWGo2cjkwSmxKWE5QdFBoSVZjN3FJdEp4QjJaYUozX1RLUmJaWi01RlVfWGJWY0QxR0w2NnpUVl",
+   "date": "2026-10-22T20:28:10.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "528a0547bd7b6eb7",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Mavis remains top tire retailer in annual rankings as Big Brand, Sun Auto climb the list - Tire Business",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TVndpRjZ5VEQ3WEVCOXVGSHloUl9BSl8xM1NveEtYeVpidmotVm1ua0tMTl9vWWNqTG5FVUxKb2RXWWduSUJvNEQ0U1o0UU9UeGhzZE1KVXRRUEFHOUgxNU9xMTEtRjk0cndYVlR0dw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1TVndpRjZ5VEQ3WEVCOXVGSHloUl9BSl8xM1NveEtYeVpidmotVm1ua0tMTl9vWWNqTG5FVUxKb2RXWWduSUJvNEQ0U1o0UU9UeGhzZE1KVXRRUEFHOUgxNU9xMTEtRjk0cndYVlR0dw?oc=5\" target=\"_blank\">Mavis remains top tire retailer in annual rankings as Big",
+   "date": "2026-10-22T20:14:00.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "e1cb3a2335227570",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Janice Brady, CFO, Miguel's Jr. - restfinance.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX0Vtc2IyNHR0YzEzT2hqeU11c1FNQnIwcmdxTFJoaFNHUHJtTlF4RGRrX21wTmdGSkFIS0Y2Tm16cmczSy1HeE9NOWppSWtuMUlPUkFvaVBERnk2Nk1XTkFlYlV0MTI4OGU0N0VNejlBa1RtV1MtejBmVzMtQkJkWUotVE5xY2FhamdULVpJWS1fc1dQSHYzSTZtT2ZjYmRuV0gyNThzQXN3S3gzMHI2Z2JYeGh5RDU0d1pmcmh2UnFkZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX0Vtc2IyNHR0YzEzT2hqeU11c1FNQnIwcmdxTFJoaFNHUHJtTlF4RGRrX21wTmdGSkFIS0Y2Tm16cmczSy1HeE9NOWppSWtuMUlPUkFvaVBERnk2Nk1XTkFlYlV0MTI4OGU0N0VNejlBa1RtV1MtejBmVzMtQkJkWUotVE5xY2FhamdULVpJWS1fc1dQSHYzSTZtT2ZjYmRuV0gyNThzQXN3S3",
+   "date": "2026-10-22T16:31:00.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "f9db7ddb0a46adad",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "M&E Realty Partners Launches with Acquisition of 835,000-Square-Foot Industrial Property in Kentucky - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUthLTh2VHNNdUxSblQ2QTdkbnBDd2JVSXJTZTgyQ2hVbGxHSkVfczBjVFdzYUd1YnhIVTBDUkp0S3dUXzZCRHl6REZoUHVhTjBNcnNsb09WMUhwUHBzbmVVcVRQNUh1WmJ5M2pucDRNLWpoc1pKTFVRbS1oY2RlYXp3LTIwWS1qa3lSUDItYzIwbGZZUW1LNFE4VDdHQm5GUmFDdW5hZGlTWWNhZkszRVRvRjVmX2wtYTllalpEUFItNDZjTGk2bGs1dWRTeE8zVHpF?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUthLTh2VHNNdUxSblQ2QTdkbnBDd2JVSXJTZTgyQ2hVbGxHSkVfczBjVFdzYUd1YnhIVTBDUkp0S3dUXzZCRHl6REZoUHVhTjBNcnNsb09WMUhwUHBzbmVVcVRQNUh1WmJ5M2pucDRNLWpoc1pKTFVRbS1oY2RlYXp3LTIwWS1qa3lSUDItYzIwbGZZUW1LNFE4VDdHQm5GUmFDdW5hZGlTWW",
+   "date": "2026-10-22T20:14:11.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "5438ae76f7406710",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "JLL Arranges $37 Million in Acquisition Financing for Ammendale Technology Park in Beltsville, Maryland - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkdocGNVVzJ1NEVSRHpmZTgwRzRGVUxIdHlVNEpHaUZPUjh6cVpqT3BvWDUtMzRZR1BJdDk4UjRzWFJBcG5uMV9IcXVNZkZQT3JGQUhwWkNGOV9zYWQwYm9Lei1tWmUxY1VKOWJvTEJ0QWhmc1pnQmVOU21JTTVLZm1UV3p6bnBTRmJERlI2N1ZwUWlzVU1hMFFmQTFRa015ZUIxREtrZXU1NTlNNVJucGJDcVBhMjYxekNSOWhGa3d4eFV0WFEzZ0pvajlNM3dSWEc5S0tFSQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkdocGNVVzJ1NEVSRHpmZTgwRzRGVUxIdHlVNEpHaUZPUjh6cVpqT3BvWDUtMzRZR1BJdDk4UjRzWFJBcG5uMV9IcXVNZkZQT3JGQUhwWkNGOV9zYWQwYm9Lei1tWmUxY1VKOWJvTEJ0QWhmc1pnQmVOU21JTTVLZm1UV3p6bnBTRmJERlI2N1ZwUWlzVU1hMFFmQTFRa015ZUIxREtrZXU1NT",
+   "date": "2026-10-22T20:05:05.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "33a7cccf55591106",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Gyre Therapeutics signs new employment agreements with CEO Ying Luo and CFO Thomas Eastling - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeW9UbWJoSWhRMjNVOXFUNTNoLUt2UXZTZEl0SF9uTlgtZTdQSTdnSG5ubDJPZk9Ecnc0b296NXhGenNyM19CV1AyNnAwdTlSWnlkZzg0Ml9GaEZJWTRyWlEzeU9vZ05nWlhCcDB3ZUFlblIwMWtUcUxKVEw5TndEZjM1em1Qc2JaZmN6bzNnUWxtM1RYZkd1TmtHN1VjRGc2MER6bGY2OEhMNDNCWGRUZTlvbzBYbVJma0daRl84QklyQjM2eGkyb2lIZUNxdWJIUXhQc1BqdXVoM1dtVWItOEw5XzE2VlNn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeW9UbWJoSWhRMjNVOXFUNTNoLUt2UXZTZEl0SF9uTlgtZTdQSTdnSG5ubDJPZk9Ecnc0b296NXhGenNyM19CV1AyNnAwdTlSWnlkZzg0Ml9GaEZJWTRyWlEzeU9vZ05nWlhCcDB3ZUFlblIwMWtUcUxKVEw5TndEZjM1em1Qc2JaZmN6bzNnUWxtM1RYZkd1TmtHN1VjRGc2MER6bGY2OEhMND",
+   "date": "2026-10-22T20:03:01.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "47c85582797a10a0",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Price to earnings forward of Silicon Valley Acquisition Corp. – BOATS:SVAQU - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUNrZ2tacld4Si1DTF8xcVRMTVVjd1pOS3VXbEZYLWYwNEZQQV84cHRyX2ZPa3dNMWdEdU90N1pZcUdDV0pIZmdQaVlxWjZyQ0txT0tETkpMNjRKTWx1VjA4ejRVaFVJN20tb0lIenpDbXlyeDlMV0NqaWlqaWlQbTcwMmtuaHlMajdBbjVfbXlCWHJMYzRrZUhwRmFyVHc3dmc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUNrZ2tacld4Si1DTF8xcVRMTVVjd1pOS3VXbEZYLWYwNEZQQV84cHRyX2ZPa3dNMWdEdU90N1pZcUdDV0pIZmdQaVlxWjZyQ0txT0tETkpMNjRKTWx1VjA4ejRVaFVJN20tb0lIenpDbXlyeDlMV0NqaWlqaWlQbTcwMmtuaHlMajdBbjVfbXlCWHJMYzRrZUhwRmFyVHc3dmc?oc=5\" targ",
+   "date": "2026-10-22T18:35:10.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  },
+  {
+   "id": "b409e9a8ce321a12",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Salesforce to acquire Braze for $5.66 billion to expand AI-powered marketing - Digital Commerce 360",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1BXMkFpelB6YjAxR1R5c191VlJfWldHWW11SC02TjdIakxCLURQejJKVXBRczhnem1iWUNwTDA0MGNGRG81bUtZdWxfTmRQYmlQd0hLdnlMM1JDcXh1VHpUdkRyVmZZRkdsM1o5U2VQNFFVZmJhbnVNZ0NfWWZrdEg4VzFNM1l5bm9Bd1lobUdSZXkwdVFtdDdyU2hOd3VkM0MtTnFkMzFyd2xka0dwWklGeGZ1LW5Sd25wY2kxWTV3ei1E0gHEAUFVX3lxTE5fUFcyQWl6UHpiMDFHVHlzX3VWUl9aV0dZbXVILTZON0hqTEItRFB6MkpVcFFzOGd6bWJZQ3BMMDQwY0ZEbzVtS1l1bF9OZFBiaVB3SEt2eUwzUkNxeHVUelR2RHJWZllGR2wzWjlTZVA0UVVmYmFudU1nQ19ZZmt0SDhXMU0zWXlub0F3WWhtR1JleTB1UW10N3JTaE53dWQzQy1OcWQzMXJ3bGRrR3BaSUZ4ZnUtblJ3bnBjaTFZNXd6LUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1BXMkFpelB6YjAxR1R5c191VlJfWldHWW11SC02TjdIakxCLURQejJKVXBRczhnem1iWUNwTDA0MGNGRG81bUtZdWxfTmRQYmlQd0hLdnlMM1JDcXh1VHpUdkRyVmZZRkdsM1o5U2VQNFFVZmJhbnVNZ0NfWWZrdEg4VzFNM1l5bm9Bd1lobUdSZXkwdVFtdDdyU2hOd3VkM0MtTnFkMzFyd2",
+   "date": "2026-10-22T16:56:35.000Z",
+   "fetched": "2026-10-22T20:33:12.986Z"
+  }
+ ]
+}
