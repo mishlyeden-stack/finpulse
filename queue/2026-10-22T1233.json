@@ -1,0 +1,36 @@
+{
+ "batch": "2026-10-22T1233",
+ "created": "2026-10-22T12:33:28.382Z",
+ "items": [
+  {
+   "id": "575ba652f31b34dc",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Europe’s moderates must stop treating politics as a spectator sport",
+   "link": "https://www.ft.com/content/b97d2ce4-43b0-4551-8ad8-059abb9d3f3e",
+   "summary": "While centrists have retreated to myriad bubbles, extremists turn up, join up and organise",
+   "date": "2026-10-22T12:22:36.000Z",
+   "fetched": "2026-10-22T12:33:28.382Z"
+  },
+  {
+   "id": "5ce42c8f99594ff5",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Forgent stock falls 11% on CFO transition announcement By Investing.com - Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0lOWVpHWGxCaHdLZ3MtbF9LQ3J5ZDUyS1ZMcVFOb09vYV9HSlJmSnNGbHV5MkFmdE9qZVJZWW9OZWN3SnJKSzRpbC1saXdlandwSElxdlJqX1BabTlISm8xNVMtU0RfUTZ0UFpGYmU0cGlMbjVURXJXQjlVQjFVNW8xZFNIZ1VMUHZZRThGQktLSWx6MGNtcXpCMkkzR2E2MjBNMTk5UjBDa1N1S2c?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0lOWVpHWGxCaHdLZ3MtbF9LQ3J5ZDUyS1ZMcVFOb09vYV9HSlJmSnNGbHV5MkFmdE9qZVJZWW9OZWN3SnJKSzRpbC1saXdlandwSElxdlJqX1BabTlISm8xNVMtU0RfUTZ0UFpGYmU0cGlMbjVURXJXQjlVQjFVNW8xZFNIZ1VMUHZZRThGQktLSWx6MGNtcXpCMkkzR2E2MjBNMTk5UjBDa1",
+   "date": "2026-10-22T12:31:56.000Z",
+   "fetched": "2026-10-22T12:33:28.382Z"
+  },
+  {
+   "id": "4956bdbe0fff1788",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks",
+   "link": "https://www.datacenterdynamics.com/en/news/infineon-and-nvidia-to-develop-gallium-nitride-power-conversion-tech-for-800vdc-data-center-racks/",
+   "summary": "<p data-block-key=\"ykb84\">Latest agreement in support of the move to 800VDC</p>",
+   "date": "2026-10-22T12:30:55.000Z",
+   "fetched": "2026-10-22T12:33:28.382Z"
+  }
+ ]
+}
