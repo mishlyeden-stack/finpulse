@@ -1,0 +1,26 @@
+{
+ "batch": "2026-10-23T0003",
+ "created": "2026-10-23T00:03:11.518Z",
+ "items": [
+  {
+   "id": "3a96368c203baca4",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "13.2 מיליארד שקל בשנה: מי משלם בפועל את העמלות של סוכני הביטוח - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRaVRZdmhOZnpfYUVRS0c2MlRqTzJVQlpvNHZWM1ZQZHlDREtRYURRS3ppZWg2Q1dPMF8zZnhCQlZHMENJbHJ1MFFCXzBockx3SlNaMGVsdWttYzU3OEVoME1HeGNsMnBmN0hF?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBRaVRZdmhOZnpfYUVRS0c2MlRqTzJVQlpvNHZWM1ZQZHlDREtRYURRS3ppZWg2Q1dPMF8zZnhCQlZHMENJbHJ1MFFCXzBockx3SlNaMGVsdWttYzU3OEVoME1HeGNsMnBmN0hF?oc=5\" target=\"_blank\">13.2 מיליארד שקל בשנה: מי משלם בפועל את העמלות של סוכני הביטוח<",
+   "date": "2026-10-22T19:58:00.000Z",
+   "fetched": "2026-10-23T00:03:11.518Z"
+  },
+  {
+   "id": "ef9f8629c03d83d5",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military",
+   "link": "https://www.ft.com/content/8a558139-2318-4509-8acd-199d5f888b9e?syn-25a6b1a6=1",
+   "summary": "Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working canines",
+   "date": "2026-10-22T23:29:39.000Z",
+   "fetched": "2026-10-23T00:03:11.518Z"
+  }
+ ]
+}
