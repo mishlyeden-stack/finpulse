@@ -1,6 +1,6 @@
 {
  "lastResult": "error",
- "lastError": "claude exit 1 success: API Error: Header '14' ha  invalid value: 'Bearer http :/",
+ "lastError": "claude exit 1 success: Failed to authenticate. API Error: 401 {\"type\":\"error\",\"e",
  "queue": 81,
- "at": "2026-10-25T18:54:47.295Z"
+ "at": "2026-10-25T18:57:01.310Z"
 }

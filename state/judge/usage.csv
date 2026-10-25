@@ -1,3 +1,4 @@
 time,kind,claude_calls,input_tokens,output_tokens,cache_read_tokens,cache_write_tokens,cost_equiv_usd_not_billed,timeouts,claude_secs,to_claude,verified,not_supported,article_blocked,source_unreachable,no_answer,other_dropped,queue_left,run_secs,error
 2026-10-25 20:52,judge,1,0,0,0,0,0.0000,0,0,60,0,0,0,0,0,0,81,0,claude exit 1 success
 2026-10-25 20:54,judge,1,0,0,0,0,0.0000,0,0,60,0,0,0,0,0,0,81,1,claude exit 1 success: API Error: Header '14' ha  invalid value: 'Bearer http :/
+2026-10-25 20:57,judge,1,0,0,0,0,0.0000,0,0,60,0,0,0,0,0,0,81,1,claude exit 1 success: Failed to authenticate. API Error: 401 {"type":"error";"e
