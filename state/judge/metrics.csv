@@ -2,3 +2,4 @@ time,feeds_ok,fetched,new_items,queue_left,to_claude,red,yellow,learn,noise,live
 2026-10-25 20:52,26,83,82,81,60,0,0,0,0,0,0,0,claude exit 1 success
 2026-10-25 20:54,26,0,0,81,60,0,0,0,0,0,0,0,claude exit 1 success: API Error: Header '14' ha  invalid value: 'Bearer http :/
 2026-10-25 20:57,26,0,0,81,60,0,0,0,0,0,0,0,claude exit 1 success: Failed to authenticate. API Error: 401 {"type":"error";"e
+2026-10-25 20:58,26,0,0,81,60,0,0,0,0,0,0,0,claude exit 1 success: Failed to authenticate. API Error: 401 {"type":"error";"e

@@ -97,3 +97,4 @@ time_local,source,cloud_batches,cloud_items,already_seen,new_to_queue,claude_rou
 2026-10-25 20:52,cloud-judge,8,83,1,82,1,60,0,0,0,0,0,0,81,0,claude exit 1 success,0,1,0
 2026-10-25 20:54,cloud-judge,0,0,0,0,1,60,0,0,0,0,0,0,81,0,claude exit 1 success: API Error: Header '14' ha  invalid value: 'Bearer http :/,0,0,0
 2026-10-25 20:57,cloud-judge,0,0,0,0,1,60,0,0,0,0,0,0,81,0,claude exit 1 success: Failed to authenticate. API Error: 401 {"type":"error";"e,0,0,0
+2026-10-25 20:58,cloud-judge,0,0,0,0,1,60,0,0,0,0,0,0,81,0,claude exit 1 success: Failed to authenticate. API Error: 401 {"type":"error";"e,0,0,0
