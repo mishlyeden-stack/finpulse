@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-10-22",
+  "updated": "2026-10-25",
   "numbers": [
     {
       "key": "cpi",
@@ -16,44 +16,45 @@
     {
       "key": "ta35",
       "label": "מדד ת״א 35",
-      "value": "",
-      "change": "",
-      "note": "ממתין לאימות",
-      "source": "",
-      "by": "",
-      "asOf": "",
+      "value": "4,124",
+      "change": "-1.01%",
+      "note": "נעילה 23.10",
+      "source": "https://il.investing.com/indices/ta25-historical-data",
+      "by": "Investing.com",
+      "asOf": "2026-10-23",
       "maxAgeDays": 3
     },
     {
       "key": "il10y",
       "label": "אג״ח ממשלתי 10ש׳ ישראל",
-      "value": "",
+      "value": "4.03%",
       "change": "",
-      "note": "ממתין לאימות",
-      "source": "",
-      "by": "",
+      "note": "נכון ל-23.10",
+      "source": "https://www.investing.com/rates-bonds/israel-10-year-bond-yield-historical-data",
+      "by": "Investing.com",
+      "asOf": "2026-10-23",
       "maxAgeDays": 5
     },
     {
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
-      "value": "5.15%",
-      "change": "-0.09",
-      "note": "נכון ל-19.10",
+      "value": "4.96%",
+      "change": "-0.19",
+      "note": "נכון ל-22.10",
       "source": "https://www.federalreserve.gov/releases/h15/",
       "by": "Fed H.15",
-      "asOf": "2026-10-19",
+      "asOf": "2026-10-22",
       "maxAgeDays": 3
     },
     {
       "key": "gdp",
       "label": "תחזית צמיחה (בנק ישראל)",
-      "value": "4.0%",
-      "change": "",
-      "note": "2026 · 2027: 5.5%",
-      "source": "https://boi.org.il/en/communication-and-publications/press-releases/research-department-staff-forecast-july-2026/",
-      "by": "בנק ישראל · תחזית יולי",
-      "asOf": "2026-07-06",
+      "value": "3.4%",
+      "change": "-0.6",
+      "note": "2026 ללא ייצור בחו״ל · 2027: 5.1% · תחזית אוקטובר",
+      "source": "https://www.funder.co.il/article/212480",
+      "by": "פאנדר, לפי בנק ישראל",
+      "asOf": "2026-10-21",
       "maxAgeDays": 120
     },
     {

@@ -631,7 +631,7 @@ const isRead = (i) => readSet.has(keyOf(i));
 const isNew = (i) => !!prevVisit && tsOf(i) > prevVisit && !isRead(i);
 function markRead(k) { if (!k || readSet.has(k)) return; readSet.add(k); LS.set('fpRead', [...readSet].slice(-1500)); }
 function renderNewBar() {
-  const n = (todayData ? mergeDup(todayData.items.filter((i) => !i.archive)).filter(isNew).length : 0) + (rawData?.items || []).filter((i) => !['noise', 'drop'].includes(verdictsData[i.id]?.s) && isNew(i)).length;
+  const n = (todayData ? mergeDup(todayData.items.filter((i) => !i.archive)).filter(isNew).length : 0) + (rawData?.items || []).filter((i) => rawFresh(i) && !['noise', 'drop'].includes(verdictsData[i.id]?.s) && isNew(i)).length;
   if (!prevVisit) { $('newbar').innerHTML = ''; return; }
   $('newbar').innerHTML = `<div class="newbar"><span>${n ? `🆕 <b>${n}</b> חדשות מאז הביקור האחרון` : '✓ אין חדש מאז הביקור האחרון'}</span>${n || onlyNew ? `<button class="small ${onlyNew ? '' : 'ghost'}" id="onlyNewBtn">${onlyNew ? 'הצג הכול' : 'הצג רק אותן'}</button>` : ''}</div>`;
   const b = $('onlyNewBtn'); if (b) b.onclick = () => { onlyNew = !onlyNew; renderToday(); renderRaw(); if (onlyNew) { document.querySelectorAll('#today details.grp, details.rsub').forEach((d) => d.open = true); $('rawSec').open = true; } };
@@ -935,13 +935,15 @@ let rawData = null, verdictsData = {}, rawShow = 12, rawWorld = false;
 async function loadRaw() {
   try { [rawData, verdictsData] = await Promise.all([api('/api/raw'), api('/api/verdicts').catch(() => ({}))]); renderRaw(); renderToday(); } catch { $('raw').innerHTML = '<div class="empty">לא זמין כרגע.</div>'; }
 }
+// live news = published in the last 24h (by the source's own time); older items are not shown as news
+function rawFresh(i) { return !i.date || Date.now() - new Date(i.date) <= 24 * 3600e3; }
 function renderRaw() {
   if (!rawData) return;
   const q = query.trim().toLowerCase();
   // default: Israel + the group's industries. World / markets / M&A feeds only on request – unless Claude already checked the item (✓)
   const grpOf = (i) => i.group || (/[א-ת]|Globes|Times of Israel|Calcalist|TheMarker|Israel Defense/.test(i.source) ? 'israel-press' : /AV Network|rAVe|DCD|SecurityWeek/.test(i.source) ? 'industry' : 'global-press');
   const local = (i) => ['israel-press', 'israel-official', 'industry'].includes(grpOf(i)) || verdictsData[i.id]?.s === 'ok';
-  const base = (rawData.items || []).filter((i) => !['noise', 'drop'].includes(verdictsData[i.id]?.s)).filter((i) => !onlyNew || isNew(i))
+  const base = (rawData.items || []).filter(rawFresh).filter((i) => !['noise', 'drop'].includes(verdictsData[i.id]?.s)).filter((i) => !onlyNew || isNew(i))
     .filter((i) => !q || (i.title + ' ' + i.source).toLowerCase().includes(q));
   const today = new Date().toLocaleString('sv-SE').slice(0, 10);
   const when = (iso) => { const d = new Date(iso); const loc = d.toLocaleString('sv-SE'); return (loc.slice(0, 10) === today ? '' : 'אתמול ') + loc.slice(11, 16); };
