@@ -1,5 +1,27 @@
 [
  {
+  "id": "27c402775db5be0d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Willer raises $10m for Perth industrial acquisition - Green Street News",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWd2WnZIZU05Z1BCN1BGM1phLUdFel8tOXVnTzR4TGV4M0dBYWRuMjNndTAySjNRTC1sSjlBV0IxTzVUSE5KLVZhUkNtTVlsOG56NFcwUUo3N19lOVB3Vy13UWVKeDJTQ1RxdzVZUkJPYlZlSDh3TXNIbzhPbUtpUHl3S1hzRXJia3JDMzlMaGw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcWd2WnZIZU05Z1BCN1BGM1phLUdFel8tOXVnTzR4TGV4M0dBYWRuMjNndTAySjNRTC1sSjlBV0IxTzVUSE5KLVZhUkNtTVlsOG56NFcwUUo3N19lOVB3Vy13UWVKeDJTQ1RxdzVZUkJPYlZlSDh3TXNIbzhPbUtpUHl3S1hzRXJia3JDMzlMaGw?oc=5\" target=\"_blank\">Willer raise",
+  "date": "2026-10-25T21:47:13.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
+  "id": "b647c7134ed11a79",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "נתניהו נערך לעקיפת סנקציות באמצעות קריפטו, ובמערכת הכלכלית מזהירים מההשלכות - אתר החדשות דבר",
+  "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yWlNpcnlxZUd3TGxQQzdENW5nVDBqOTBkTG93Q0dzTG9xYW14bGFzRHVMNWxjRDhGNDlSUUU1SEJDdmF0ZGFZ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yWlNpcnlxZUd3TGxQQzdENW5nVDBqOTBkTG93Q0dzTG9xYW14bGFzRHVMNWxjRDhGNDlSUUU1SEJDdmF0ZGFZ?oc=5\" target=\"_blank\">נתניהו נערך לעקיפת סנקציות באמצעות קריפטו, ובמערכת הכלכלית מזהירים מההשלכות</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
+  "date": "2026-10-25T21:43:00.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
   "id": "b0831d8b4476d13a",
   "source": "Financial Times",
   "group": "global-press",
@@ -9,6 +31,17 @@
   "date": "2026-10-25T21:40:04.000Z",
   "fetched": "2026-10-25T21:54:40.630Z",
   "fromCloud": "2026-10-25T2154.json"
+ },
+ {
+  "id": "7886f021588c9810",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "קן גריפין: \"כמעט בוודאות יש בועה בתחום ה-AI\" - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GTGV2VDRPVzFSaGMzUU94d2tkQzdkR1BlMFRFTVNVd0x2RUxuNTJJM1BCTW12eFprOEU0RTM4eDYwckJwalVhbmN2dk5TNGo3cFJSVzI1VHpsekJZSXFoOTVMYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GTGV2VDRPVzFSaGMzUU94d2tkQzdkR1BlMFRFTVNVd0x2RUxuNTJJM1BCTW12eFprOEU0RTM4eDYwckJwalVhbmN2dk5TNGo3cFJSVzI1VHpsekJZSXFoOTVMYw?oc=5\" target=\"_blank\">קן גריפין: \"כמעט בוודאות יש בועה בתחום ה-AI\"</a>&nbsp;&nbsp;<font color=\"",
+  "date": "2026-10-25T21:40:00.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
  },
  {
   "id": "bb6c5cebde0f3a8d",
@@ -75,6 +108,17 @@
   "date": "2026-10-25T20:55:00.000Z",
   "fetched": "2026-10-25T21:03:13.229Z",
   "fromCloud": "2026-10-25T2103.json"
+ },
+ {
+  "id": "02a3a691658198f5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Spartacus Acquisition Corp. II Estimates – NASDAQ:TMTSU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLanVJOEpFSk83MDlWMzUwZzRSR1pZTl9mWGE2Y2JqVlhuTTJJbkRoZjltOTlWbDVsUmNhejR0WHoyUGZoa1JaWHhUSkdIMFBTZ1RQeDM0R210d3M4eGsyWGVXZUF2NkQ3NkhDUVI3bVBIXzFMc3hPUkR3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBLanVJOEpFSk83MDlWMzUwZzRSR1pZTl9mWGE2Y2JqVlhuTTJJbkRoZjltOTlWbDVsUmNhejR0WHoyUGZoa1JaWHhUSkdIMFBTZ1RQeDM0R210d3M4eGsyWGVXZUF2NkQ3NkhDUVI3bVBIXzFMc3hPUkR3?oc=5\" target=\"_blank\">Spartacus Acquisition Corp. II Estimates – ",
+  "date": "2026-10-25T20:40:44.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
  },
  {
   "id": "f01878810802cfbd",
@@ -165,6 +209,17 @@
   "fromCloud": "2026-10-25T2103.json"
  },
  {
+  "id": "08469335bf7b8e5b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "כתיבת מומחים - תוכן בחסות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIMnRtVmVtU2hHZ0U2UjFHRU5rX0FqVDhpWFIyX01ocGJoMVBjc01pd2UxalFRZVVtVXN6NEwxenhKNW9zVXRRWnFPV1hMNmt0ZVBLdVh0RkVUcllVNjdudVZtY1BGdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIMnRtVmVtU2hHZ0U2UjFHRU5rX0FqVDhpWFIyX01ocGJoMVBjc01pd2UxalFRZVVtVXN6NEwxenhKNW9zVXRRWnFPV1hMNmt0ZVBLdVh0RkVUcllVNjdudVZtY1BGdw?oc=5\" target=\"_blank\">כתיבת מומחים - תוכן בחסות</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפור",
+  "date": "2026-10-25T20:09:38.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
   "id": "1a66811a6060d9c2",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -207,6 +262,17 @@
   "date": "2026-10-25T19:32:23.000Z",
   "fetched": "2026-10-25T21:03:13.229Z",
   "fromCloud": "2026-10-25T2103.json"
+ },
+ {
+  "id": "8574002d33bded16",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שמן נים לצמחים: המדריך המעשי למינון, ריסוס ושימוש נכון - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50bVZjWS1CUWtXTmRUaFlCZTQ4ZE5NcER5bEhuUFZCOEphUDZwQWwyamJHQXBBYnVqWU5teGRTck9NODU1Qi1keXdyemswcGhVamc5dG40VjRJY1B6QzNiYlA2dGt1allFQXRFTnVRVkp0MzZHV1Iw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE50bVZjWS1CUWtXTmRUaFlCZTQ4ZE5NcER5bEhuUFZCOEphUDZwQWwyamJHQXBBYnVqWU5teGRTck9NODU1Qi1keXdyemswcGhVamc5dG40VjRJY1B6QzNiYlA2dGt1allFQXRFTnVRVkp0MzZHV1Iw?oc=5\" target=\"_blank\">שמן נים לצמחים: המדריך המעשי למינון, ריסוס ושימ",
+  "date": "2026-10-25T19:14:00.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
  },
  {
   "id": "e6bb22556d444f0b",
@@ -297,6 +363,17 @@
   "fromCloud": "2026-10-25T2003.json"
  },
  {
+  "id": "a43f51dfa80676aa",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הלוואה למסורבים: איך נאור פתרונות אשראי מסייעת באיתור מימון לאחר סירוב בנקאי? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vUzNmdTdNLUdBUXVUenQ2WHpQZnpqaFFIanFpbjJxa1RGZE4yeTFzNEFLR1VVLURucXc4bXNQaWd2X25wTzktUFQ1R2k0RDhKVW1WRC1yTFZhSXNCVTJPaGR3MWY2LVFWLWl5T29LVUQ3SnZkOGU4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1vUzNmdTdNLUdBUXVUenQ2WHpQZnpqaFFIanFpbjJxa1RGZE4yeTFzNEFLR1VVLURucXc4bXNQaWd2X25wTzktUFQ1R2k0RDhKVW1WRC1yTFZhSXNCVTJPaGR3MWY2LVFWLWl5T29LVUQ3SnZkOGU4?oc=5\" target=\"_blank\">הלוואה למסורבים: איך נאור פתרונות אשראי מסייעת ",
+  "date": "2026-10-25T18:07:00.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
   "id": "0b704a81ee5214dc",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -315,6 +392,17 @@
   "summary": "<span>Ukraine Explores Buying Communications Satellites from Finnish Firms</span> <span><a title=\"View user profile.\" href=\"/en/user/6\" class=\"article__info-author\">ami@israeldefe…</a></span> <span><time datetime=\"2026-10-25T19:26:00+02:00\" title=\"Sunday, October 25, 2026 - 19:26",
   "date": "2026-10-25T17:26:00.000Z",
   "id": "75bf3a4d0c76a06a"
+ },
+ {
+  "id": "cf396306a0eefa80",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "פסק דין תקדימי: בוטלו ההיתרים להצבת שולחנות וכיסאות בכביש בנחלת בנימין - חדשות - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1V5d3VZVGNTUHRzMXpwemVLLVpyV1JPdHlyVHFudmcwaWdObm1YMGc4V09IVExnNnFfSjFHNDVlZ3owY0RXTkJXYU8zeG9ySlBZTmNla3RPOUFnbmRBcTVXWVlvMEFOMGtjTHZDTTY1R2hyVjViZFJQbmhUUzVSbDlyYkZNbG5FX0U0aWNiTzd2eFZuYldUb2E5MmYzNkE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1V5d3VZVGNTUHRzMXpwemVLLVpyV1JPdHlyVHFudmcwaWdObm1YMGc4V09IVExnNnFfSjFHNDVlZ3owY0RXTkJXYU8zeG9ySlBZTmNla3RPOUFnbmRBcTVXWVlvMEFOMGtjTHZDTTY1R2hyVjViZFJQbmhUUzVSbDlyYkZNbG5FX0U0aWNiTzd2eFZuYldUb2E5MmYzNkE?oc=5\" target=\"",
+  "date": "2026-10-25T17:03:00.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
  },
  {
   "source": "Israel Defense",
@@ -406,6 +494,50 @@
   "id": "171e09d053f19b92"
  },
  {
+  "id": "4ea0394cab28d144",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Cost of goods sold of PINE TREE ACQUISITION CORP ORD USD0.0001 (S/R 31/12/2031) CL A – NASDAQ:PAXGR - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRzAtU2Rhekk2MmdxNXJkbmthVU1Ldml0SXFCQzJKTTBvUFd5Y2syX0hWTGpMNEhmZFpTY3k3a1pRUVozci1YQnNNREZqcFBoRi1YdzVOc0lDdkNadmRiX0FDR2JCNmN2QndEQnhRUnIwZXB5Rnc3cC1xY2hOY2hUQWJmWkhFcmNya0JSYXpuS2ZSb2F2dFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRzAtU2Rhekk2MmdxNXJkbmthVU1Ldml0SXFCQzJKTTBvUFd5Y2syX0hWTGpMNEhmZFpTY3k3a1pRUVozci1YQnNNREZqcFBoRi1YdzVOc0lDdkNadmRiX0FDR2JCNmN2QndEQnhRUnIwZXB5Rnc3cC1xY2hOY2hUQWJmWkhFcmNya0JSYXpuS2ZSb2F2dFE?oc=5\" target=\"_blank\">Cost",
+  "date": "2026-10-25T13:28:43.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
+  "id": "2f91f0b9eac228ce",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "D. Boral Acquisition I Corp. News — NASDAQ:DBCA - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qSGNkOGpHM1V4UnY5RXVGR3liNVdyanJJdHpoc0RzTG5wRlF6Nk9RX0lUNDZaVDlEUVRsSFBNUk1WbVdlUlpoaThiLV9INFJ4T09Hay1WNmxjakZCZlIwN0tsVHhRYmlFN1VCUlh3cGs3YkU0MXRQVWJR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9qSGNkOGpHM1V4UnY5RXVGR3liNVdyanJJdHpoc0RzTG5wRlF6Nk9RX0lUNDZaVDlEUVRsSFBNUk1WbVdlUlpoaThiLV9INFJ4T09Hay1WNmxjakZCZlIwN0tsVHhRYmlFN1VCUlh3cGs3YkU0MXRQVWJR?oc=5\" target=\"_blank\">D. Boral Acquisition I Corp. News — NASDAQ:",
+  "date": "2026-10-25T11:58:26.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
+  "id": "e9a87eaa46a063f8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "FG Imperii Acquisition Corp. Estimates – BOATS:FGII - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vNFZkSEdaVms4c3VLZTVnenotOXdRSF95c2M2Vm5RdG5pZVowTG1Ua09zVklPek9XTnhkdm9zOWVFbWdsR0QyeTllamxXSVg4enpWckE4aFQ5NGt2T09PSHRrenlVYjVfLTZnSFZQamUzeUg2NGxj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5vNFZkSEdaVms4c3VLZTVnenotOXdRSF95c2M2Vm5RdG5pZVowTG1Ua09zVklPek9XTnhkdm9zOWVFbWdsR0QyeTllamxXSVg4enpWckE4aFQ5NGt2T09PSHRrenlVYjVfLTZnSFZQamUzeUg2NGxj?oc=5\" target=\"_blank\">FG Imperii Acquisition Corp. Estimates – BOATS:",
+  "date": "2026-10-25T11:33:30.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
+  "id": "76371b8d839a8ad1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Former U.S. Cyber Command Executive Khoi Nguyen Appointed Chief Acquisition Executive at CISA - Homeland Security Today",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWpXRDJFdGROOUJQWmRva2g3TEttaWlsVDM1YUlWMGR2XzNrWHgyNF9NV0hKZFlIZFZJUzFwdDlSZHlQVDlZMWx0ZEZIYkxDTVRSeEVISk0tSy1tcE85cEljMjBhaTlxUWxFME9qYXBDQ1ZqQ1E3dEpHdm14SzB3T3htQXBOWHpFYnpERmJYNGVfVUFicGxuMXBkdWRKenpydFdaVEl5ODVoVnBJMzFVNWVWQWdfbnJ1b2Y0RGs3bWJqR05qd09uYkp1XzZSR0lPcjFiVDRXalE4WW1u?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWpXRDJFdGROOUJQWmRva2g3TEttaWlsVDM1YUlWMGR2XzNrWHgyNF9NV0hKZFlIZFZJUzFwdDlSZHlQVDlZMWx0ZEZIYkxDTVRSeEVISk0tSy1tcE85cEljMjBhaTlxUWxFME9qYXBDQ1ZqQ1E3dEpHdm14SzB3T3htQXBOWHpFYnpERmJYNGVfVUFicGxuMXBkdWRKenpydFdaVEl5ODVoVn",
+  "date": "2026-10-25T11:09:34.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
   "id": "2dda81e54f23f7c0",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -437,6 +569,50 @@
   "date": "2026-10-25T07:31:54.000Z",
   "fetched": "2026-10-25T20:03:12.062Z",
   "fromCloud": "2026-10-25T2003.json"
+ },
+ {
+  "id": "dbfb9d06019b47fc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Wen Acquisition Corp Estimates – BOATS:WENNW - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsaExqNFN3SHYzSjJfUnBsVFFZYWxuT19yOE1rV285XzVlS3BETmhncnQ3Rk1wLW1FbFZsUkxockFZemlITU5fZG80eUtaOFdJTHJ4NTYxUzh0dlA4blNMVElKVDBwb1RleWc0OEw4eWlBZ3RCQzRDMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBsaExqNFN3SHYzSjJfUnBsVFFZYWxuT19yOE1rV285XzVlS3BETmhncnQ3Rk1wLW1FbFZsUkxockFZemlITU5fZG80eUtaOFdJTHJ4NTYxUzh0dlA4blNMVElKVDBwb1RleWc0OEw4eWlBZ3RCQzRDMA?oc=5\" target=\"_blank\">Wen Acquisition Corp Estimates – BOATS:WENNW<",
+  "date": "2026-10-25T06:24:04.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
+  "id": "172b4a567ebba836",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "יומן בחירות: יום ראשון, 25 באוקטובר 2026 - זמן ישראל",
+  "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0wemdoSk8tREFFVTRkSzJNY05RNVNKVGJ0VWlkdmpJbWZHeWZ1TTFwZjVGcmMwYlBIZnMyYjZQT1EzLUxD?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE0wemdoSk8tREFFVTRkSzJNY05RNVNKVGJ0VWlkdmpJbWZHeWZ1TTFwZjVGcmMwYlBIZnMyYjZQT1EzLUxD?oc=5\" target=\"_blank\">יומן בחירות: יום ראשון, 25 באוקטובר 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">זמן ישראל</font>",
+  "date": "2026-10-25T05:22:06.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
+  "id": "296464e9269682ba",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Return on assets % of PINE TREE ACQUISITION CORP ORD USD0.0001 (S/R 31/12/2031) CL A – NASDAQ:PAXGR - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1dTQ2tRa1pXTGM4RnNGNWhGZGZWVkxrX2lNX0ZOX3VfeXZuM01VNU9sRXJDbC00TTNJQmx6RUNOZUJlbHNvQVEwSlM2cV8wU3hMN3loNmRGQnMtX3VvOG16b3lxdFJ1NENxMzBlM25KZlNsanhhQzR3V3plQzVvWGNSN2hpUWZaTnBRd0FuR1RtNVNGTVptSk9rY2ZSU042?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1dTQ2tRa1pXTGM4RnNGNWhGZGZWVkxrX2lNX0ZOX3VfeXZuM01VNU9sRXJDbC00TTNJQmx6RUNOZUJlbHNvQVEwSlM2cV8wU3hMN3loNmRGQnMtX3VvOG16b3lxdFJ1NENxMzBlM25KZlNsanhhQzR3V3plQzVvWGNSN2hpUWZaTnBRd0FuR1RtNVNGTVptSk9rY2ZSU042?oc=5\" target=",
+  "date": "2026-10-25T02:51:49.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
+ },
+ {
+  "id": "b9b81901da49fc72",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "StoneBridge Acquisition II Corporation Estimates – NASDAQ:APACU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmJFQ29tTDJSTGlPZk1DczNHMWszRXFfckNWUmpmS2drdjFlSzRmN0dKWDY3MVZmYy1sYXhGN1dfNGgtS2JYMVp6bm0tUEFqMHFleElaVVJWSlp2XzNKNzJwUjRITnBDX0E0Um9PNWxpLVhfa2pmS1dXSWtmYkNzd3Z2M1l4OWFYbzZfdXU3ZmVVdHc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmJFQ29tTDJSTGlPZk1DczNHMWszRXFfckNWUmpmS2drdjFlSzRmN0dKWDY3MVZmYy1sYXhGN1dfNGgtS2JYMVp6bm0tUEFqMHFleElaVVJWSlp2XzNKNzJwUjRITnBDX0E0Um9PNWxpLVhfa2pmS1dXSWtmYkNzd3Z2M1l4OWFYbzZfdXU3ZmVVdHc?oc=5\" target=\"_blank\">StoneBri",
+  "date": "2026-10-25T02:18:22.000Z",
+  "fetched": "2026-10-25T22:03:10.938Z",
+  "fromCloud": "2026-10-25T2203.json"
  },
  {
   "id": "4ad240307dd1e8d5",
