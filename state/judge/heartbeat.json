@@ -1,6 +1,7 @@
 {
- "lastResult": "error",
+ "lastResult": "ok",
  "lastError": "",
- "queue": 90,
- "at": "2026-10-25T19:03:31.369Z"
+ "queue": 0,
+ "at": "2026-10-25T19:14:24.896Z",
+ "okAt": "2026-10-25T19:14:24.896Z"
 }

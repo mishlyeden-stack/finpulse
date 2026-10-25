@@ -3,3 +3,4 @@ time,kind,claude_calls,input_tokens,output_tokens,cache_read_tokens,cache_write_
 2026-10-25 20:54,judge,1,0,0,0,0,0.0000,0,0,60,0,0,0,0,0,0,81,1,claude exit 1 success: API Error: Header '14' ha  invalid value: 'Bearer http :/
 2026-10-25 20:57,judge,1,0,0,0,0,0.0000,0,0,60,0,0,0,0,0,0,81,1,claude exit 1 success: Failed to authenticate. API Error: 401 {"type":"error";"e
 2026-10-25 20:58,judge,1,0,0,0,0,0.0000,0,0,60,0,0,0,0,0,0,81,1,claude exit 1 success: Failed to authenticate. API Error: 401 {"type":"error";"e
+2026-10-25 21:14,judge,5,15,15075,3178,70527,0.5592,0,251,90,10,0,3,1,0,5,0,353,

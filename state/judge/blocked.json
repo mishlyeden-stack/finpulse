@@ -1,1 +1,26 @@
-{}
+{
+ "globes.co.il": {
+  "ok": 5,
+  "blocked": 0
+ },
+ "calcalist.co.il": {
+  "ok": 0,
+  "blocked": 2
+ },
+ "en.globes.co.il": {
+  "ok": 2,
+  "blocked": 0
+ },
+ "bizportal.co.il": {
+  "ok": 3,
+  "blocked": 0
+ },
+ "news.google.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "13tv.co.il": {
+  "ok": 0,
+  "blocked": 1
+ }
+}
