@@ -1902,5 +1902,33 @@
   "first": 1792936091801,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "ישראל | סנקציות פוטנציאליות — מחשבון השפעה על משק | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792938837572,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI וקוד | עומס תשתיות ועלויות ענן עולות בעקבות AI-generated code | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792938837583,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בית משפט עליון | קבוצת חג׳ג׳ — ויתור על ערעור מס 50 מיליון שקל | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792938837587,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בחירות לכנסת | התנהגות הבורסה ב-10 מערכות בחירות — ניתוח היסטורי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792938837590,
+  "sentLive": false,
+  "candidate": true
  }
 ]
