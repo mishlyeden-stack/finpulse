@@ -206,7 +206,8 @@ if (!DRY && existsSync(join(PAGES, 'queue'))) {
     if (gitP('status', '--porcelain', 'state').trim()) { gitP('-c', 'user.name=Radar Eden', '-c', 'user.email=radar@localhost', 'commit', '-qm', 'pc take-over'); gitP('pull', '--rebase', '--autostash', '-q', 'origin', 'main'); gitP('push', '-q', 'origin', 'HEAD'); }
   } catch (e) { log('take-over push failed: ' + String(e.message).slice(0, 60)); }
 }
-if (CLOUD && !inWindow(pilot.cfg)) {   // same working hours as the PC task (no extra Claude work); items wait, newest first
+if (CLOUD && !inWindow(pilot.cfg) && process.env.RADAR_FORCE !== '1') {   // RADAR_FORCE: a manual test run (workflow_dispatch)
+   // same working hours as the PC task (no extra Claude work); items wait, newest first
   saveJSON(join(STATE, 'queue.json'), queue); saveJSON(join(STATE, 'meta.json'), meta);
   finishCloud('idle'); process.exit(0);
 }

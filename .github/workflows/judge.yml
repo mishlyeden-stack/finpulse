@@ -9,6 +9,11 @@ on:
     workflows: [collect]
     types: [completed]
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'test run outside the working hours'
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -47,6 +52,7 @@ jobs:
         if: steps.tok.outputs.ok == 'true'
         env:
           RADAR_CLOUD: '1'
+          RADAR_FORCE: ${{ inputs.force && '1' || '0' }}
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           DISABLE_AUTOUPDATER: '1'
           DISABLE_TELEMETRY: '1'
