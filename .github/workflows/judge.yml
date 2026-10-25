@@ -1,0 +1,64 @@
+name: judge
+# FinPulse cloud-judge pilot (from 25.10.2026): the smart news layer (filter → rank → verify → today.json) runs here,
+# on Eden's own Claude subscription, through the official Claude Code CLI and CLAUDE_CODE_OAUTH_TOKEN (`claude setup-token`).
+# No Claude API key, no API billing. Public news only (Public Radar, Private Company). Logs: counts only.
+# Clock: Cloudflare dispatches `collect`; this workflow follows each collect run (no own cron).
+# Rollback: set state/judge/config.json "enabled": false (or disable this workflow) – the PC takes over by itself.
+on:
+  workflow_run:
+    workflows: [collect]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: judge
+  cancel-in-progress: false
+jobs:
+  judge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      TZ: Asia/Jerusalem
+    steps:
+      - name: token present?
+        id: tok
+        env:
+          HAS: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' && secrets.JUDGE_PROMPT != '' && secrets.VERIFY_PROMPT != '' }}
+        run: echo "ok=$HAS" >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@v4
+        if: steps.tok.outputs.ok == 'true'
+      - uses: actions/setup-node@v4
+        if: steps.tok.outputs.ok == 'true'
+        with:
+          node-version: 22
+      - name: official Claude Code CLI (same version as the PC)
+        if: steps.tok.outputs.ok == 'true'
+        run: npm install -g --silent --no-fund --no-audit @anthropic-ai/claude-code@2.1.114 > /dev/null
+      - name: prompts from secrets (never committed, never printed)
+        if: steps.tok.outputs.ok == 'true'
+        env:
+          JUDGE_PROMPT: ${{ secrets.JUDGE_PROMPT }}
+          VERIFY_PROMPT: ${{ secrets.VERIFY_PROMPT }}
+        run: |
+          printf '%s' "$JUDGE_PROMPT" > tools/judge-prompt.txt
+          printf '%s' "$VERIFY_PROMPT" > tools/verify-prompt.txt
+      - name: judge (counts only in the log)
+        if: steps.tok.outputs.ok == 'true'
+        env:
+          RADAR_CLOUD: '1'
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DISABLE_AUTOUPDATER: '1'
+          DISABLE_TELEMETRY: '1'
+        run: node tools/judge.mjs
+      - name: commit if changed
+        if: always() && steps.tok.outputs.ok == 'true'
+        run: |
+          rm -f tools/judge-prompt.txt tools/verify-prompt.txt
+          git config user.name "FinPulse bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state/judge state/batches.json data/today.json data/verdicts.json logs/process.csv 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -qm "judge $(date +%F\ %H:%M)"
+          for i in 1 2 3 4; do git pull --rebase -q && git push -q && exit 0; sleep 7; done
+          exit 1
