@@ -1,0 +1,1668 @@
+[
+ {
+  "key": "רשות החשמל | הגבלות חוות שרתים | אוקטובר 2026",
+  "level": "red",
+  "first": 1792344343843,
+  "sentLive": true,
+  "candidate": true
+ },
+ {
+  "key": "הלמ\"ס | צמיחה רבעון שני 2026 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344343844,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תקציב המדינה | קיצוץ 2.6 מיליארד לרכש ביטחוני | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344343846,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "כלמוביל | מתקפת סייבר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344343849,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "חשמל ומרכזי נתונים ישראל | היקפי מרכזי נתונים עתידיים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344343852,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר ישראלי | שנה היסטורית אקזיטים | 2026",
+  "level": "yellow",
+  "first": 1792344343854,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | ירידות שבבים + נפט + ת\"א | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344343856,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנקאות ישראל | ריבית על עו\"ש | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344343858,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אג\"ח קונצרניות ארה\"ב | הזדמנות השקעה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344343860,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גאוזי | מחיקת ערך 98% + הזרמת הצלה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344343863,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ראלף לורן | הסרת ESG מבונוסים לטובת AI | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344343866,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סיון טכנולוגיות | הנפקה ת\"א | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344343868,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "לוזון | החלפת יו\"ר ועצירת מכירת נכסים בארה\"ב | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344691155,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Salesforce | סוכני AI יצרו 88 מיליון דולר הכנסות | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344691159,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק לאומי | התנגדות לחובת ריבית על עו\"ש | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344691162,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "משכנתאות ישראל | קאמבק פריים לשיא 3.5 שנים | ספטמבר 2026",
+  "level": "yellow",
+  "first": 1792344691164,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תקציב המדינה | קיצוץ רוחבי כולל שיקום עוטף וצפון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344691171,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "כאל | סנטרברידג' חוזרת למרוץ רכישה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344691175,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סטארטאפ AI ישראלי | אקזיט 35 מיליון דולר ללא גיוס הון | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344691180,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שוק העבודה ישראל | משרות פנויות מתקרבות ל-150 אלף | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344691185,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הייטק ישראל | מחסור 18 אלף עובדים לעומת טרום-קורונה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344691189,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וויז | רכישת מקדונלד'ס ישראל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344691191,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ווישור | כניסה לאשראי ונדל\"ן לחברות בנייה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344691192,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דן | רכישת תנופה 150 מיליון שקל | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344965585,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ג'ונסון אנד ג'ונסון | הסדר טלק ורווח שיורי | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344965587,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שוק העבודה ישראל | 148 אלף משרות פנויות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344965587,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הייטק ישראל | 180 מיליארד שקל בהון עובדים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344965588,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | יצרנית לייזר הנפקה בורסה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792344965589,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "זארה | סגירת חנויות ומעבר לדיגיטל | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792344965590,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מטא | תזרים שלילי למרות הכנסות שיא | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792389541916,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "IBM | עמידות בשוק יורד + דוח עסקאות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541921,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ג׳נרל מוטורס מול סטלנטיס | עמידות תפעולית | 2026",
+  "level": "learn",
+  "first": 1792389541923,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סופטבנק | רכישת חברת אבטחה פיזית ברובוטיקה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541925,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מזומן בידי ציבור הוכפל ל-130 מיליארד שקל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541927,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "משכנתאות ישראל | ספטמבר נחתך 20% ל-8.7 מיליארד | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541928,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "לוקהיד מרטין | זינוק 8% לפני דוח בשבוע ירידות טכנולוגיה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541930,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אופן ווב | עובדים דורשים שכר ואיום פירוק | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792389541932,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | ציפייה לזינוק מניה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541933,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פנסקה | הוצאת אימפריית רכב מבורסה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792389541934,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "צים | מחאת עובדים נגד מכירה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541935,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "צרפת | משבר חוב ואירו | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541936,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גז אירופה | מחיר שיא 4 שנים לפני חורף | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541937,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סין | יצוא זינק 30% וצריכה קפואה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541939,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יפן | ניקיי ירד 3,700 נקודות + החלטת ריבית בסוף חודש | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389541940,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סנקציות על ישראל | אזהרת כלכלנים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389897204,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טאיוואן | החמרת ענישה יצוא טכנולוגי לסין | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389897207,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סוכני AI ארגוניים | גרטנר 40% יישומים עד 2026 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389897208,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נייקי | ארגון מחדש וחזרה למסלול | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792389897210,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל-ארה״ב | 31 ארגונים להרחבת גישה לשווקים אמריקניים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389897211,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אודיוקודס | זכייה בהאקתון מיקרוסופט | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389897212,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוקראינה | תקיפת מרכזי נתונים רוסים סנט פטרסבורג | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389897214,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ברן | פרישת מנכ״ל יצחק פרנק | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792389897215,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Airtable | פיטורים פוסט-רכישה וסיכון ספק | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792390107438,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "באמבל | רכישה ב-1.3 מיליארד דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792390107440,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יוניון פסיפיק | פרישת CFO | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792390107442,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | פתיחת שבוע + החלטת ריבית בנק ישראל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792390373561,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | מחיקת 2 טריליון דולר שבבים + גלישה לסייבר ותוכנה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792390373563,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "חסכונות ישראלים | חשיפה מניות שיא 52% + סיכון מפולת | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792390373564,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל קנדה-אקרו | מיזוג נדל'ן התאדו 3 מיליארד שקל | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792390373565,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שוק עבודה סייבר ארה'ב | ירידה 26% במשרות + זינוק AI Security Engineer | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792390373565,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אינטל ו-TSMC | ירידות שבבים + מפעל מאסק בטקסס | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792390373566,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Charter | מיזוג Cox 34.5 מיליארד דולר לפני דוח רבעוני | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792390373567,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בית משפט עליון ישראל | קריסת קבלן לא שוללת פיצוי על איחור מסירה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792390373567,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רנו | מינוי CFO חדש Carine Damois | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792390373568,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Teleperformance | מינוי CFO חדש Benoit Gabelle | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792390373569,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פלאפון | רכישת וויקום 265 מיליון שקל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792390666570,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תעשייה ביטחונית ישראל | יצרן מנועי טילים מכין הנפקת אג״ח 200 מיליון דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792390666571,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נפט | תקיפות הורמוז ורוסיה | אוקטובר 2026",
+  "level": "red",
+  "first": 1792390892191,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "בנק ישראל | החלטת ריבית + לוח כלכלי שבועי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792393419098,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מודיעין | זינוק הכנסות מ-5 ל-32 מיליון דולר אחרי רכישת ביג פוט | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792393419101,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | חוזה רקטות EXTRA-MR ומשגרי PULS | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792393419103,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI | שלושה בועות AI בוחנות את אמון וול סטריט | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792393419104,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ברן | רכישת 40% ממפעל התפלה אשקלון + כניסה לוורידיס | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792393419105,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "משרד התקשורת | הקלה על יבוא מוצרי חשמל ביתיים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792393419107,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | חוזה 235 מיליון דולר לארטילריית רקטות באירופה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792396114858,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פניקס ESOP | הכנסת פקודות סטופ-לוס להגנה על הון עובדים | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792396114863,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רפאל | חשיפת Sky Sonic מיירט היפרסוני בוושינגטון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792396114864,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "צרפת | פער דירוג אשראי מול ישראל מתכווץ | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792398765645,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "HPE ישראל | AI יוצר שטחים עיוורים לאבטחה ארגונית | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792398765649,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בחירות ישראל | מגן הבחירות - הגנת סייבר לתהליך הבחירות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792398765651,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל-יוון | ייצור משותף טילי LORA | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792401422325,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "MITRE ATT&CK v20 | AI Abuse ו-MFA Bypass בקטלוג הגנות | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792403198230,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "JPMorgan | 5 מיליארד דולר השקעות ישירות בביטחון וטק | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792405188412,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שוק העבודה ישראל | אבטלה מורחבת 4.4% | ספטמבר 2026",
+  "level": "yellow",
+  "first": 1792405188416,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | פיצול ת״א-וול סטריט וסיכון לבורסה ישראלית | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792405188418,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ליתיום-יון ו-UPS | שינוי בתחשיב השקעה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792405188419,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארמי ארה״ב | האצת רכש נגד-כטב״מ | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792405188422,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל AI | צורך ב-4 תחנות כוח גז נוספות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792407955361,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ברזאני תשתיות | הנפקה ראשונית בבורסה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792407955364,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ת״א | שבועיים של הכרעות קריטיות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792407955367,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Pro AV | רכישת Almo Pro AV ושינויים בענף | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792407955369,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Fortinet | ניצול פגיעות FortiGate בהאקת טלקום | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792410546490,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות המסים | ביטול שטר 200 שקל ומאבק במזומן | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792410546495,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אינפלציה ישראל | ירידת מדד המחירים ומשכנתאות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792410546500,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביטוח לאומי | קיצוץ קצבאות אפשרי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792410546504,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יוון-IAI | חכירת צוללות אוטונומיות Blue Whale | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792410546506,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תקציב המדינה | העלאת מסים ואיום ביטול שטר 200 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792413232685,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פרצת אבטחה ETS | מיליוני רשומות תלמידים נחשפו | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792413232691,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות המסים | ביטול שטר 200 + צעדי מיסוי קשים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792413471165,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארמי ארה״ב | חוזי רכש 6.8 מיליארד דולר ב-2026 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792413471167,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר AI | סוכני AI מפעילים יכולות ללא ידיעת המשתמש | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477130679,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Prysmian | השלמת רכישת Atkore להרחבה כספקית פתרונות חשמל | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792477130681,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Valhalla Turrets | מערכת נגד-כטב״מ Skythunder | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477130682,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אינטל קריית גת | דליפת גז שנייה NF3 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477130683,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "היילנדר | גיוס 16 מיליון דולר לניהול תעבורת רחפנים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477130684,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | ריבית לפני בחירות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477385991,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות המסים | מיסוי עסקאות סקנדרי כהכנסת עבודה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792477385994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "doubleAI אמנון שעשוע | מודל Maxwell לחיסכון ב-GPU | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792477385995,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | נפט 110 דולר + דוחות נטפליקס מטא טסלה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477385996,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "כאל | גיל אגמון נכנס למרוץ רכישה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477385998,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אופיר אופטרוניקס | מכירה ל-TTM ב-650 מיליון דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477386000,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קפריסין | רכישת מערכות מרפאל ומספנות ישראל ב-150 מיליון יורו | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477386001,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גמ״חים | החלת כללי איסור הלבנת הון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477386002,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | אזהרת סיכון מערכתי ממנהל השקעות + סימני קזינו | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477386003,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל/דולר | דולר מעל 3.1 שקל בעקבות מהומות אירופה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477696344,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "OpenAI | גיוס 30 מיליארד דולר שווי 1.4 טריליון לפני הנפקת Anthropic | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477696345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסת סיאול | ירידה 4% + גלישה לשווקים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477696346,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גולדמן זאקס | תחזית עלייה 5% וול סטריט סוף 2026 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477696347,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מנור אוורגרין | רכישת 35% מ-NOVO DR ביטחונית-אזרחית | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477696349,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תקציב המדינה | סמוטריץ׳ מבטיח החזר קיצוצים בלי לחשוף מקור | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792477696350,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אורקל | עלות ביטוח חדלות פירעון זינקה פי 4 | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792478074561,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דיפסיק | צו סילוק מממשל ארה״ב וכל מוצר מבוסס עליה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792478074562,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | תחזית ריבית פסגות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792479432155,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מניות ביטחון | ירידות למרות ביקוש גבוה לנשק | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792479432157,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סמישינג עולמי | התחזות לרשויות ממשלתיות הגיעה לישראל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792479432159,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אינפלציה ארה״ב | הבית הלבן מודה בלחצים מחודשים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792479432160,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמזון | הוצאות AI גורמות לתזרים שלילי + עסקת SMR | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792481604319,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI | בועות AI ואנלוגיה לתשתיות עבר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792481785969,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "צרפת | אג״ח צונחות תשואה 5% בעקבות מהומות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792482004085,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תקציב המדינה | פער 40 מיליארד שקל ועליית מסים אחרי בחירות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792482331256,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | החלטת ריבית | אוקטובר 2026",
+  "level": "red",
+  "first": 1792484234650,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "ג'נריישן | גיוס אג'ח 1.16 מיליארד שקל לרכישת שו'ב אנרגיה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792486962727,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | מרכז נתונים טבעון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792486962729,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קפריסין | עסקת רפאל ומספנות ישראל 100+ מיליון דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792489670663,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "חיל האוויר ישראל | שדרוג צי מסוקים Apache Echo ו-CH-53K | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792489670666,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אבטחה פיזית וסייבר | שילוב ניהול אחיד | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792494260473,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות המסים | מיסוי חברות הייטק עם קניין רוחני כפול ישראל-ארה'ב | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792494260475,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ניקיי | פריצת מידע 1.8 מיליון רשומות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792494345479,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Travelers | הרחבת ביטוח מחדש סייבר לחלוקת סיכון | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792496928213,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "עין שלישית | מזכרי הבנות 40 מיליון דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792496928214,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | ציפיות ריבית + ציפיות אינפלציה | אוקטובר 2026",
+  "level": "red",
+  "first": 1792499684701,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "ממשלת ישראל | 25 אלף עובדי ממשלה כבר משתמשי AI - יעד כלל עובדים עד 2027 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792499684701,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Stripe | כניסה לישראל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792499684703,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "RTX | העלאת תחזית שלישית 2026 על ביקוש ביטחוני | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792499684704,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט | הרשאות דינמיות לסוכני AI וניקוד סיכון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792499684706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Anthropic | הנפקה קרובה - אריק שמידט יעשיר עשרות מיליארדים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792499684707,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Google Cloud | תקלה אירופה + רבולוט | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792499684708,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר AI | פלטפורמת Cairn נוצלה לפריצת 100+ ארגונים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792502264245,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוקראינה | תקיפת מרכז נתונים קייב Datagroup | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792502264248,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI וחסכון עלויות | שעה חסכונה אינה חיסכון במזומן | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792502363516,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | רכישת חברת רחפנים תת-ימיים קנדית | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792502363518,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Endava | CFO בחופשה + תביעה ניירות ערך + דוחות מאוחרים | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792572697774,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמזון | השקעות AI 220 מיליארד גורמות לתזרים שלילי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792572697782,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CBRE | רכישת Onnec שירותי מרכזי נתונים 610 מיליון דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792572697784,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AOMEI Backupper | פגיעת שרשרת אספקה ShinyRoad | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792572697785,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "DeepSeek | חשיפת מנוע AI בחינם להוזלת עלויות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792572697787,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Salesforce | רכישת Braze ב-5.6 מיליארד דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792572697788,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קוואלקום | גל פיטורים עולמי + ישראל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792572697790,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | רכישת ISE רחפנים תת-ימיים קנדית | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792572697791,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "חברות תעופה | תביעה נגד המדינה על עלויות סגירת שמיים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792572697792,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | ללא השקעות AI – כלכלה בסף מיתון | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792573102762,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Proofpoint | רכישת Varonis ב-6.3 מיליארד דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573102764,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Blackstone | קרן אנרגיה 8.7 מיליארד דולר עם פוקוס על מרכזי נתונים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573102766,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "GE Aerospace | מכה תחזיות ומעלה – מניה נופלת | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573102767,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Anthropic | עסקה שנייה עם Ansys-Anyscale – 45 מיליארד דולר מחשוב | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573102768,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סופטבנק | שיקול רכישת Allied Universal ב-אבטחה פיזית | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573102770,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "NIST CISA NSA | הנחיות תגובה לאירועי סוכני AI סוררים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433656,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | ציפיות אינפלציה יורדות — אות לשוק | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433659,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Boomi | רכישת אלמנטרי דאטה ישראלית 43 מיליון דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "OVHcloud | 110MW קיבולת פנויה למכירה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433662,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מהומות אירופה | ביזת חנויות יוקרה מילאנו ופריז | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433664,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הליברטון | רווחים גדלים מפעילות מזרח תיכון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433665,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Nexfibre | CMA חוסמת רכישת Netomnia 2 מיליארד פאונד | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433666,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמזון | השקעה 16 מיליארד יורו בגרמניה 2027 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433668,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AWS | TorchNeuron — כלי המרה למעבדי Trainium | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433670,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Orange צרפת | כיבוי רשת 2G | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573433671,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "XTEND | ירידת שני שלישים בשווי למרות הזמנת כטב״מ 40 מיליון דולר | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792573736635,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "SanDisk | הרחבה בצפון ישראל בגל AI | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573736637,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרון טאיוואן | שביתת בונוסים — סכנה לשוק שבבים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573736639,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "כוננים קשיחים | מחסור מחריף + סיגייט רחוקה 40% משיא | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573736640,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אפל | קיצוץ משלוחי אייפון — חשש מביקוש | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792573736642,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יונייטד איירליינס | קיצוץ תחזית רווח 2026 בגלל מחיר דלק | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792574231493,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ג׳נרל מוטורס | רכישה עצמית 20 מיליארד + ירידת מניה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792574498457,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Dell CFO | תקציב טוקנים AI ותמחור משאבי בינה מלאכותית | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792574498459,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק אוף אמריקה | חזרה לשוק החוב בעלות גבוהה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792574498461,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קימברלי-קלארק | גיוס אג'ח 4.9 מיליארד דולר למימון רכישת Kenvue | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792574825484,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טנסטורנט | גיוס 1.5 מיליארד דולר לשבבי AI לא-אנבידיה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792574825486,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גוגל ואמזון | פתיחת PyTorch לשבבים חלופיים לאנבידיה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792574825487,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סין | 35 מיליארד דולר לשבב H20 של אנבידיה — הכרטיס החלש | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792574825489,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Network Brainiacs | רכישת Computer Enhancement Systems — התרחבות ב-IT MSP | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792574825490,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Anthropic | תשקיף IPO: הפסד 80 מיליארד + התחייבויות 450 מיליארד | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792575112677,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | החלטת ריבית — לא צפויה הפחתה למרות לחצים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792575112679,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI ענקיות | כניסה לישראל — בנקים קופות חולים ומלם תים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792575112680,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "SpaceX ו-Tesla | בחינת מיזוג | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792575333674,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות המסים | העלאת מס שבח מ-6% ל-8% | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792575333676,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וויז מייסדים | בחינת רכישת כאל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792575333677,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סוכני AI | כניסה לפלטפורמות דאטה ארגוניות ללא פיקוח | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792575333679,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארית-רשף | הפסד מוסדיים 400 מיליון שקל בגיוס הון פרטי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792576218098,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "OVHcloud CLI | פגיעת שרשרת אספקה חשבון מפתח | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792576218103,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | פתיחת ת״א + SpaceX + מאסק-טסלה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792576218105,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | החלטת ריבית 3.25% + נפט 110 דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792576418190,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "GM CFO | אזהרת אינפלציה תקצץ EBIT ב-1.5 מיליארד דולר ב-2027 | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792578752973,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סמסונג-Harman | 10 שנים אחרי הרכישה: הכנסות הוכפלו + רווח תפעולי שיא | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792581541644,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קן גריפין | בועת AI + דעות נגד | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792581541649,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנקאות ישראל | ריבית על עו״ש — הטריק מאחורי ההבטחה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792581541652,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מודל AI סיני | קוד פגיע יותר עבור קבלני ביטחון אמריקניים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792581541654,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה GTC ברלין | מפעל AI ב-14 ימים + חיסכון חשמל + רכב אוטונומי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792581541657,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "משרד החוץ ישראל | רכש אנליטיקת מצלמות אבטחה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792581591322,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פרטנר | דיבידנד מיוחד 500 מיליון שקל אחרי פירעון אג״ח | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792584197965,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טסלה | קיצוץ Capex 2026 ל-20 מיליארד + רבעון Q4 שיא הוצאות | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792912024162,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הרמס | הגדלת הוצאות אבטחה אחרי מהומות צרפת — תגובת CFO | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792912024208,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Oracle | עדכון אבטחה אוקטובר 2026 — מעל 1,200 פגיעויות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912024210,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קוגנייט | הסכם מסגרת 20+ מיליון דולר עם משרד הגנה נאט״ו | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912024214,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וול סטריט | אזהרת HSBC ממניות AI + אזהרת באפט חוזרת | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912024216,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | בחינת היתוך גרעיני לאנרגיה לצורכי מרכזי נתונים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912024218,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תאילנד | רכישת מערכת Arbel נגד כטב״מ מ-IWI | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912024221,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קרן עושר נורבגיה | הפסד 30 מיליארד דולר מהטלטלה באג״ח | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912024223,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "כאל | הקמת חטיבת דאטה ו-AI + גיוס מנהל מלאומי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912024225,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טראמפ | מרכזי נתונים גדולים יייצרו חשמל עצמאי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912473657,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Comfort Systems USA | החלפת CFO אחרי דוח שנתי 2026 | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792912473660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תחבורה ציבורית | משקיעים פיננסים מחפשים תשתיות במשבר | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792912473662,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דלק ישראל | מחיר עשוי לזנק ל-9 שקל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912473665,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Pro AV 2026 | מצב תצוגות LED — AI, ענן ועלות בעלות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912473667,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Bose | רכישת Skullcandy להרחבת תיק שמע | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912473670,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Ember Infrastructure | רכישת Ashtead Technology ב-505 מיליון פאונד | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792912820334,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "SAIC | גיוס CFO חדש + שאלה האם הראלי כבר תומחר | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792912820337,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה\"ב | רכישת תותחים מקוריאה הדרומית במקום ישראל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912820340,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביל אקמן | ראיון גלובס — AI ישראלי, אוניברסיטאות, חברת טריליון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792912820342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Western Digital CFO | דחיית שמועות קירור AI + זינוק Capex גורם לירידת מניה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792913039069,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נייס | חזרה לת״א עם פער 5% + מכפיל 2027 מתחת ל-10 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792913039072,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "SpaceX CFO | 40 מיליארד דולר ברבעון + החזר השקעה תוך שנה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792913222099,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Datadog CFO | הצעה של 4 מיליארד לרכישת Upwind — ומה ה-CFO אמר | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792913222103,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | מודל אשראי ל-AI — מבחן ראשון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792913222107,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נתניהו vs בנק ישראל | קריפטו עוקף סנקציות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792913222109,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Rogers Communications | צמיחה 2% + ירידת מניה 2.3% | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792913222111,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נפט ברנט | קפיצה מעל 116 דולר — החות'ים מאיימים על ארמקו | אוקטובר 2026",
+  "level": "red",
+  "first": 1792913456397,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "מבטח שמיר | אופציה ל-100MW מרכז נתונים עמק הירדן | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792913456397,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מונשוט | Kimi K3.1 Pro — מודל AI סיני בחצי מחיר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792913456403,
+  "sentLive": false,
+  "candidate": true
+ }
+]
