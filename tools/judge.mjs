@@ -329,8 +329,8 @@ function saveUsage(kind, m) {               // what the pilot measures (counts a
 }
 function mirrorCandidates() {           // the Daily (local) reads the local candidates file → append the cloud rows it does not have yet
   const src = join(pilot.dir, 'candidates.md'); if (!existsSync(src)) return;
-  const have = new Set(existsSync(CANDIDATES) ? readFileSync(CANDIDATES, 'utf8').split('\n') : []);
-  const add = readFileSync(src, 'utf8').split('\n').filter((l) => /^\| \d{4}-\d{2}-\d{2} \d{2}:\d{2} \|/.test(l) && !have.has(l));
+  const have = new Set(existsSync(CANDIDATES) ? readFileSync(CANDIDATES, 'utf8').split(/\r?\n/) : []);   // CRLF-safe (git on Windows)
+  const add = readFileSync(src, 'utf8').split(/\r?\n/).filter((l) => /^\| \d{4}-\d{2}-\d{2} \d{2}:\d{2} \|/.test(l) && !have.has(l));
   if (add.length) { appendFileSync(CANDIDATES, add.join('\n') + '\n', 'utf8'); log(`sync: ${add.length} candidates from the cloud`); }
 }
 function sendCloudReds() {              // 🔴 found in the cloud → Live mail from the PC (mails stay local); older than 6h → not sent
