@@ -190,6 +190,17 @@
   .pfw { background:#f8fafc; border:1px dashed #cbd5e1; border-radius:12px; padding:10px 14px; margin:10px 0; } .pq { margin:6px 0; padding-inline-start:20px; line-height:1.7; font-size:13.5px; }
   .hint2 { display:none; }
   @media (max-width:700px) { .ptab.pdr td.hint, .ptab.pdr th:last-child { display:none; } .hint2 { display:block; font-size:12px; font-weight:400; color:var(--muted); margin-top:4px; line-height:1.5; } .phead { flex-direction:column; } .pgrid { grid-template-columns:1fr 1fr; } .pv { font-size:22px; } }
+  /* Pulse interpretation layer */
+  .pstory { background:linear-gradient(135deg,#0f172a,#1e3a5f); color:#fff; border-radius:18px; padding:16px 20px; margin:10px 0; box-shadow:var(--shadow); }
+  .pstory h2 { margin:0 0 6px; font-size:18px; }
+  .pstory .sl { display:flex; gap:10px; padding:7px 0; line-height:1.65; font-size:15px; border-top:1px solid rgba(255,255,255,.14); }
+  .pstory h2 + .sl { border-top:0; } .pstory .sk { flex:none; width:14px; color:#7dd3fc; }
+  .pleg { display:flex; flex-wrap:wrap; gap:4px 16px; font-size:12px; color:#cbd5e1; margin-top:10px; }
+  .nar { margin:0 0 8px; } .nh { font-size:13px; font-weight:800; color:var(--ink2); margin:14px 0 4px; }
+  .ni { display:flex; gap:8px; padding:3px 0; line-height:1.7; font-size:14.5px; } .ni .nk { flex:none; width:14px; color:var(--muted); }
+  .ni.k-means { color:#1d4ed8; } .ni.k-means .nk { color:#1d4ed8; } .ni.k-unknown { color:#92400e; } .ni.k-unknown .nk { color:#92400e; }
+  .nconn { background:#f0f9ff; border:1px solid #bae6fd; border-radius:12px; padding:10px 12px; margin-top:12px; font-size:14px; line-height:1.65; }
+  details.pdata { margin-top:10px; } details.pdata > summary { cursor:pointer; list-style:none; font-weight:700; font-size:13.5px; color:var(--muted); padding:8px 0; } details.pdata > summary::-webkit-details-marker { display:none; } details.pdata[open] > summary { color:var(--ink2); }
   /* executive view */
   .exec { background:var(--ink); color:#fff; border-radius:18px; padding:16px 18px; margin:12px 0 6px; box-shadow:var(--shadow); }
   .exec h2 { margin:0 0 10px; font-size:16px; font-weight:800; display:flex; justify-content:space-between; gap:8px; }
@@ -249,7 +260,7 @@
       </div>
       <div class="hello" id="hello"></div>
     </div>
-    <select id="day" class="day-sel" title="תאריך"></select>
+    <select id="day" class="day-sel" title="תאריך התדריך. החדשות והמספרים תמיד מהיום"></select>
   </div>
 </header>
 
@@ -265,7 +276,7 @@
     <div class="toolbar"><div class="ask"><input id="newsQ" placeholder="🔍 חיפוש בחדשות (למשל: ריבית, מטא, מכרז)"></div><div class="tbar" id="tbar"></div></div>
     <div id="newbar"></div>
     <div id="exec"></div>
-    <details class="grp brief" id="briefGrp"><summary><span>☀️ תדריך הבוקר <span class="gmeta">· 4 דקות קריאה · מה כדאי לדעת, להבין ולחשוב עליו היום, מוסבר לעומק (זה גם המייל של הבוקר)</span></span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
+    <details class="grp brief" id="briefGrp"><summary><span>☀️ תדריך הבוקר <span class="gmeta" id="briefDate"></span> <span class="gmeta">· 4 דקות קריאה · מה כדאי לדעת, להבין ולחשוב עליו היום, מוסבר לעומק (זה גם המייל של הבוקר)</span></span></summary><div class="gbody"><div id="daily"><div class="empty">טוען…</div></div></div></details>
     <div class="dgrid"><aside class="dside">
     <div id="kpi"></div>
     </aside><div class="dmain">
@@ -338,6 +349,7 @@ const md = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
 const STATIC = !/^(localhost|127\.0\.0\.1)$/.test(location.hostname);
 const COACH = {
   think: 'את מאמנת החשיבה העסקית שלי (אשת כספים שמתפתחת לחשיבת CFO). כלל: אל תתני מסקנות לפני שאני חושבת. שאלי שאלה אחת בכל הודעה וחכי לתשובה, לפי הסדר: 1) מה לדעתך המשמעות? 2) דרך איזה מנגנון זה קורה? 3) מה יכול לגרום להשערה שלך להיות שגויה? 4) איזה מידע היית רוצה לראות? 5) מה היית אומרת על זה ל-CFO או למנכ״ל? רק אחרי שעניתי על 5: מה חזק אצלי, מה חסר, זווית שלא עלתה, ומושג להעמיק בו. בסוף כתבי בלוק "📓 לרישום ביומן" (מה חשבתי בהתחלה במילים שלי, מה למדתי, האם שיניתי עמדה, מושג חדש, שאלה טובה). מידע ציבורי בלבד, בעברית וקצר. המקרה:\n\n',
+  pulse: 'אני אשת כספים שמתפתחת לחשיבת CFO, ואני רוצה להבין את הסביבה הכלכלית ואת הקשרים בין הנתונים שבנושא הבא מ-Pulse. אם צוין מושג להתחלה ורמה concept: הסבירי אותו קצר (סמני הסבר כללי), קשרי למספרים, שאלי שאלת הבנה אחת וחכי. רק אחר כך שאלת ההשלכה. אל תתני verdicts ואל תבחרי הסבר אחד בלי ראיה כשיש כמה. הפרידי בין מה אנחנו יודעים, מה זה עשוי לומר ומה עדיין לא יודעים. מידע ציבורי בלבד, בעברית וקצר, שאלה אחת בכל הודעה. בסוף בלוק "📓 לרישום ביומן". הנושא:\n\n',
   explain: 'אני אשת כספים שמתפתחת לחשיבת CFO, ולא הבנתי עד הסוף את הידיעה הבאה. אל תשאלי אותי קודם מה אני יודעת, הסבירי מיד וקצר, בעברית פשוטה: 1) מה קרה במילים פשוטות 2) המושגים המקצועיים שבידיעה, שורה לכל אחד 3) המנגנון: מה גורם למה 4) דוגמה מספרית בדויה וקטנה 5) למה זה חשוב לאיש כספים. בסוף שאלי רק מה עוד לא ברור. מידע ציבורי בלבד. הידיעה:\n\n',
   learn: 'את מורה לפיננסים ועסקים שלי (אשת כספים שמתפתחת לחשיבת CFO). לא הגדרת ויקיפדיה. קודם שאלי מה אני כבר יודעת על המושג וחכי. אחר כך, קצר: מה זה, למה זה קיים, איך זה עובד, איפה פוגשים את זה בחברת פרויקטים ושירותים (ושאלי איפה זה אצלנו), למה CFO מתעניינת, דוגמה מספרית בדויה קטנה, ושאלת יישום אחת שבודקת הבנה. בסוף כתבי בלוק "📓 לרישום ביומן". בעברית, שאלה אחת בכל פעם. המושג: ',
 };
@@ -352,7 +364,7 @@ function toast(msg) {
 }
 async function openInClaude(mode, context) {
   if (!useProject()) { location.href = claudeLink(mode, context); return; }
-  const text = mode === 'think' ? 'בואי נחשוב על המקרה הזה:\n' + context : mode === 'explain' ? 'לא הבנתי, תסבירי לי מיד (בלי לשאול אותי קודם):\n' + context : 'תסבירי לי את המושג: ' + context;
+  const text = mode === 'think' || mode === 'pulse' ? 'בואי נחשוב על הנושא הזה:\n' + context : mode === 'explain' ? 'לא הבנתי, תסבירי לי מיד (בלי לשאול אותי קודם):\n' + context : 'תסבירי לי את המושג: ' + context;
   try { await navigator.clipboard.writeText(text); toast('📋 הועתק. בפרויקט: שיחה חדשה ← הדביקי'); } catch { toast('פותחת את הפרויקט…'); }
   setTimeout(() => { location.href = MY_PROJECT; }, 900);
 }
@@ -364,6 +376,7 @@ const staticPath = (path) => {
   if (path === '/api/verdicts') return 'data/verdicts.json';
   if (path === '/api/numbers') return 'data/numbers.json';
   if (path === '/api/pulse') return 'data/pulse.json';
+  if (path === '/api/pulse-narrative') return 'data/pulse-narrative.json';
   return null;
 };
 const api = async (path, body) => {
@@ -397,6 +410,7 @@ async function loadDays() {
   const want = new URLSearchParams(location.search).get('d');
   $('day').innerHTML = days.map((d) => `<option value="${d}">${d.split('-').reverse().join('.')}</option>`).join('');
   if (want && days.includes(want)) $('day').value = want;
+  setBriefDate();
   if (days.length) loadDaily($('day').value); else $('daily').innerHTML = '<div class="empty">אין עדיין Daily. הוא ייווצר בסריקה הבאה של הבוקר.</div>';
 }
 async function loadNumbers() {
@@ -444,8 +458,9 @@ async function loadDaily(d) {
 }
 const thinkContext = (t) => `${t.title ? t.title + '\n' : ''}${t.case}\nהשאלה: ${t.question}\nמקור: ${t.source?.name || ''} ${t.source?.url || ''}`;
 const thinkCard = (t) => `<div class="card" style="--accent:var(--amber);background:linear-gradient(180deg,#fff,var(--amber-bg))"><h3>${esc(t.title || '')}</h3><p>${esc(t.case)}</p>${src(t.source, t.warning)}<div class="q">✍️ ${esc(t.question)}</div><div style="margin-top:12px"><button class="cta" data-thinkctx="${esc(thinkContext(t))}" data-thinktitle="${esc(t.title || 'חושבות יחד')}">🧠 בואי נחשוב על זה</button></div></div>`;
-const bindThink = (root) => root.querySelectorAll('[data-thinkctx]').forEach((b) => b.onclick = () => openChat('think', b.dataset.thinkctx, '🧠 ' + b.dataset.thinktitle));
-$('day').onchange = () => { history.replaceState(null, '', '?d=' + $('day').value); loadDaily($('day').value); };
+const bindThink = (root) => root.querySelectorAll('[data-thinkctx]').forEach((b) => b.onclick = () => openChat(b.dataset.thinkmode || 'think', b.dataset.thinkctx, '🧠 ' + b.dataset.thinktitle));
+const setBriefDate = () => { const v = $('day').value; $('briefDate').textContent = v ? '· מתאריך ' + v.split('-').reverse().join('.') : ''; };
+$('day').onchange = () => { history.replaceState(null, '', '?d=' + $('day').value); setBriefDate(); $('briefGrp').open = true; loadDaily($('day').value); };
 
 // ---------- Learn view ----------
 function renderLearnConcepts() {
@@ -671,7 +686,7 @@ async function loadConvs() {
     const list = await api('/api/convs');
     const row = (c) => `<div class="conv" data-id="${c.id}"><span>${c.mode === 'think' ? '🧠' : '📖'} ${esc(c.title)}</span><span><span class="pill ${c.status === 'saved' ? 'saved' : ''}">${c.status === 'saved' ? '✓ ביומן' : 'פתוחה'}</span> <small>${new Date(c.updated).toLocaleDateString('he-IL')} · ${c.turns} תשובות</small></span></div>`;
     for (const [mode, el] of [['learn', 'learnConvs'], ['think', 'thinkConvs']]) {
-      const l = list.filter((c) => c.mode === mode || (mode === 'learn' && c.mode === 'explain'));
+      const l = list.filter((c) => c.mode === mode || (mode === 'learn' && c.mode === 'explain') || (mode === 'think' && c.mode === 'pulse'));
       $(el).innerHTML = l.length ? l.map(row).join('') : '<div class="notice">עוד אין שיחות. הן נשמרות כאן אוטומטית, ואפשר להמשיך אותן בכל זמן.</div>';
     }
     document.querySelectorAll('.conv').forEach((el) => el.onclick = () => openExisting(el.dataset.id));
@@ -784,7 +799,33 @@ function pCard(i, extraNote = '') {
   const badge = i.sinceChange ? `<span class="pb fd">עדכון בעת שינוי</span>` : pBadge(i.freq, i.latest.t, pStale(i));
   return `<div class="pc${i.stale || i.carried ? ' pold' : ''}"><div class="pl">${esc(i.label)}</div><div class="pvr"><span class="pv">${pL(esc(pVal(i)))}</span>${pSpark(i.series)}</div><div>${badge}</div><div class="pchs">${ch}</div>${i.note || extraNote ? `<div class="pn">${pRng([i.note, extraNote].filter(Boolean).join(' · '))}</div>` : ''}<div class="pn">${pSrc(i)}</div></div>`;
 }
-const pThinkBtn = (title, ctx, label = '🧠 בואי נחשוב על זה') => `<button class="small ghost" data-thinkctx="${esc(ctx)}" data-thinktitle="${esc(title)}">${label}</button>`;
+const pThinkBtn = (title, ctx, label = '🧠 בואי נחשוב על זה') => `<button class="small ghost" data-thinkmode="pulse" data-thinkctx="${esc(ctx)}" data-thinktitle="${esc(title)}">${label}</button>`;
+// ---- interpretation layer (written locally by Claude from the Pulse facts; validated automatically before it is published)
+const P_KIND = { know: ['●', 'k-know'], means: ['↪', 'k-means'], unknown: ['?', 'k-unknown'] };
+const pTxt = (s) => esc(s).replace(/(^|[\s(])(-\d[\d,.]*%?)|(\d[\d,.]*%?(?:–\d[\d,.]*%?)?)/g, (m, pre, neg, num) => (neg ? pre + pL(neg) : pL(num)));
+const pItem = (it) => `<div class="ni ${(P_KIND[it.k] || P_KIND.know)[1]}"><span class="nk">${(P_KIND[it.k] || P_KIND.know)[0]}</span><span>${pTxt(it.text)}</span></div>`;
+const P_TOPIC = { prices: 'מחירים וריבית', growth: 'צמיחה ופעילות', fx: 'שערי חליפין' };
+function nStamp(nar) {
+  const w = new Date(nar.writtenAt), d = new Date(nar.forDataBuiltAt);
+  const f = (x) => x.toLocaleDateString('he-IL', { day: 'numeric', month: 'numeric' }) + ' ' + x.toLocaleTimeString('he-IL', { hour: '2-digit', minute: '2-digit' });
+  const old = Date.now() - w > 36 * 3600e3;
+  return `${old ? '⚠️ הפרשנות ישנה: ' : ''}נכתבה ב-${f(w)}, על בסיס נתוני ${f(d)}. היא מתעדכנת כשהמחשב פעיל ויש נתונים חדשים.`;
+}
+function storyHtml(nar) {
+  return `<div class="pstory"><h2>🧭 הסיפור הכלכלי כרגע</h2>${nar.story.map((s) => `<div class="sl"><span class="sk">${(P_KIND[s.k] || P_KIND.know)[0]}</span><span>${pTxt(s.text)}</span></div>`).join('')}<div class="pleg"><span>● מה אנחנו יודעים</span><span>↪ מה זה עשוי לומר</span><span>? מה עדיין לא יודעים</span></div><div class="pleg">${esc(nStamp(nar))}</div></div>`;
+}
+function nBlock(key, nar) {
+  const t = nar?.topics?.[key]; if (!t) return '';
+  const sec = (title, arr) => (arr?.length ? `<div class="nh">${title}</div>${arr.map(pItem).join('')}` : '');
+  let h = '<div class="nar">' + sec('מה התמונה כרגע', t.picture) + sec('מה השתנה', t.changed) + sec('למה זה חשוב לאשת כספים', t.matters) + sec('מה לא ברור / מה יכול לשנות את התמונה', t.unclear);
+  if (t.connection) h += `<div class="nconn"><b>הקשר בין הנתונים: ${esc(t.connection.title)}.</b> ${pTxt(t.connection.text)}</div>`;
+  const th = t.think || {}, c = th.concept;
+  const kinds = (arr, k) => (arr || []).filter((i) => i.k === k).map((i) => i.text).join(' ');
+  const all = [...(t.picture || []), ...(t.changed || [])];
+  const ctx = [`נושא: ${P_TOPIC[key]}`, `מה אנחנו יודעים: ${kinds(all, 'know')}`, `מה זה עשוי לומר: ${kinds(all, 'means')} ${kinds(t.matters, 'means')}`, `מה עדיין לא יודעים: ${kinds(t.unclear, 'unknown')}`, t.connection ? `הקשר בין הנתונים: ${t.connection.title}. ${t.connection.text}` : '', c ? `מושג להתחלה: ${c.title}. ${c.text}` : '', `רמה: ${th.level || 'application'}`, `שאלת השלכה: ${th.question || ''}`].filter(Boolean).join('\n');
+  const label = th.level === 'concept' && c ? `🧠 נתחיל מהמושג: ${esc(c.title)}` : '🧠 בואי נחשוב על זה';
+  return h + `<div class="pact">${pThinkBtn(P_TOPIC[key], ctx, label)}</div></div>`;
+}
 function pTarget(v, t) {   // position of the latest value relative to the target band (scale 0..5%)
   if (!t) return '';
   const sc = (x) => Math.max(0, Math.min(100, (x / 5) * 100));
@@ -825,24 +866,27 @@ function pDriverRow(i, id) {
   const ch = (k) => { const c = i.changes?.[k]; return c ? `${pArrow(c.v)} ${i.changeKind === 'pct' ? pNum(Math.abs(c.v)) + '%' : pNum(Math.abs(c.v))}` : '—'; };
   return `<tr class="${i.stale ? 'pold' : ''}"><td><b>${esc(i.label)}</b>${pBadge(i.freq, i.latest.t, pStale(i))}<div class="hint2">${esc(P_HINTS[id] || '')}</div></td><td class="n">${pL(esc(pNum(i.latest.v, i.decimals ?? 2)))}${esc(unit)}</td><td class="n">${pL(ch('1M'))}</td><td class="n">${pL(ch('3M'))}</td><td class="hint">${esc(P_HINTS[id] || '')}</td></tr>`;
 }
-function pulseHtml(p) {
+function pulseHtml(p, nar) {
+  const dataWrap = (x, title = '📊 הנתונים: כרטיסים, טבלאות ומקורות') => (nar ? `<details class="pdata"><summary>${title}</summary>${x}</details>` : x);
   const I = p.indicators || {};
   const built = new Date(p.builtAt); const hh = isNaN(built) ? '' : built.toLocaleTimeString('he-IL', { hour: '2-digit', minute: '2-digit' });
   const sect = (title, body, open = true, meta = '') => `<details class="grp pgrp" ${open ? 'open' : ''}><summary><span>${title}${meta ? ` <span class="gmeta">${meta}</span>` : ''}</span></summary><div class="gbody">${body}</div></details>`;
   let h = `<div class="phead"><div><b>📊 Market & Economy Pulse</b><div class="psub">מקורות רשמיים בלבד. כל נתון מוצג עם <b>תאריך הנתון</b> ותדירותו (יומי / חודשי / רבעוני), ולא עם מועד הטעינה.</div></div><div class="pbuilt">נבנה ${esc(hh)}</div></div>`;
-  // 🧠 what's interesting (observations + a way into Think; the conclusion is Eden's to form)
+  if (nar?.story?.length) h += storyHtml(nar);
+  // 🧠 what's interesting (rule-based observations + a way into Think; collapsed when the story is shown)
   if (p.signals?.length) {
-    h += `<div class="psigs"><div class="psigh">🧠 מה מעניין כאן?</div>` + p.signals.map((s) => `<div class="psig"><div class="pst">${esc(s.title)}</div><div class="psd">${esc(s.detail)}</div>${pThinkBtn(s.title, `${s.ctx}\nשאלה פותחת מוצעת: ${s.question}`)}</div>`).join('') + `</div>`;
+    const sg = `<div class="psigs"><div class="psigh">🧠 מה מעניין כאן?</div>` + p.signals.map((s) => `<div class="psig"><div class="pst">${esc(s.title)}</div><div class="psd">${esc(s.detail)}</div>${pThinkBtn(s.title, `${s.ctx}\nשאלה פותחת מוצעת: ${s.question}`)}</div>`).join('') + `</div>`;
+    h += nar?.story?.length ? `<details class="pdata"><summary>🔎 נקודות לבדיקה (${p.signals.length})</summary>${sg}</details>` : sg;
   }
   // prices & rates
   let b = (p.rows || []).filter((r) => r.id === 'inflation' || r.id === 'rate').map((r) => pRow(r, I, p)).join('');
   const cv = ['curve_1y', 'curve_2y', 'curve_5y', 'curve_10y'].map((id) => I[id]).filter((x) => x?.latest);
   if (cv.length) b += `<div class="ptw"><table class="ptab"><thead><tr><th>עקום תשואות שקלי (נומינלי)</th><th>ערך</th><th>חודש</th><th>שנה</th></tr></thead><tbody>${cv.map((x) => `<tr><td>${esc({ curve_1y: 'שנה', curve_2y: 'שנתיים', curve_5y: '5 שנים', curve_10y: '10 שנים' }[x.id] || x.label)}</td><td class="n">${pL(esc(pNum(x.latest.v)) + '%')}</td><td class="n">${pPlain(x, '1M')}</td><td class="n">${pPlain(x, '12M')}</td></tr>`).join('')}</tbody></table><div class="pn">${pBadge('M', cv[0].latest.t)} ממוצע חודשי · ${pSrc(cv[0])}. עקום שיורד/עולה בין טווחים הוא אינדיקציה, לא תחזית ריבית.</div></div>`;
-  h += sect('💶 מחירים וריבית', b);
+  h += sect('💶 מחירים וריבית', nBlock('prices', nar) + dataWrap(b));
   // growth & activity
   let g = (p.rows || []).filter((r) => r.id === 'growth').map((r) => pRow(r, I, p)).join('');
   g += `<div class="pgrid">` + ['unemployment', 'job_openings', 'eai', 'bts', 'current_account'].map((id) => pCard(I[id], id === 'eai' && I.eai?.longTermAvg != null ? `ממוצע ארוך טווח ${pNum(I.eai.longTermAvg)}%` : '')).join('') + `</div>`;
-  h += sect('🏭 צמיחה ופעילות', g);
+  h += sect('🏭 צמיחה ופעילות', nBlock('growth', nar) + dataWrap(g));
   // FX
   let f = `<div class="pgrid">${pCard(I.usd_ils)}${pCard(I.eur_ils)}</div>`;
   const fc = p.fx?.forecasts || [];
@@ -857,7 +901,7 @@ function pulseHtml(p) {
   f += `<div class="pn">מצב הפעילות בישראל (צמיחה, מדד הפעילות, חשבון שוטף) מופיע בקטע "צמיחה ופעילות". אין מקור חינמי רשמי למדד ת"א 35, ל-CDS ולמדדי סיכון.</div>`;
   const dctx = 'גורמים אפשריים לתנועת דולר/שקל ואירו/שקל. ' + ['rate_diff_us', 'rate_diff_ea', 'bill_diff_us', 'infl_diff_us', 'broad_dollar', 'eur_usd'].map((id) => I[id]?.latest ? `${I[id].label}: ${pNum(I[id].latest.v, I[id].decimals ?? 2)}` : '').filter(Boolean).join('; ') + (I.usd_ils ? `; דולר/שקל ${pNum(I.usd_ils.latest.v, 3)}, שינוי חודש ${pNum(I.usd_ils.changes?.['1M']?.v)}%` : '');
   f += `<div class="pact">${pThinkBtn('מה מניע את הדולר/שקל?', dctx)}</div>`;
-  h += sect('💱 שערי חליפין (FX)', f);
+  h += sect('💱 שערי חליפין (FX)', nBlock('fx', nar) + dataWrap(f));
   // forecast vintages / revisions
   const rv = (p.revisions?.latest || []).filter((r) => r.was != null);
   const vt = p.revisions?.vintages || [];
@@ -869,10 +913,11 @@ function pulseHtml(p) {
   h += sect('ℹ️ מקורות, עדכניות ומה לא כלול', `<div class="pn">${[...srcs].map(([n, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(n)} ↗</a>`).join(' · ')}</div><div class="pn">נתון ישן = יומי מעל 6 ימים, חודשי מעל 75 יום, רבעוני מעל 150 יום. נתון שהמקור לא הצליח להחזיר נשאר עם התאריך המקורי שלו ומסומן "לא התעדכן".</div><ul class="pq">${(p.notAvailable || []).map((x) => `<li><b>${esc(x.what)}</b>: ${esc(x.why)}</li>`).join('')}</ul>`, false);
   return h;
 }
-let pulseData = null;
+let pulseData = null, pulseNar = null;
 async function loadPulse() {
-  try { pulseData = await api('/api/pulse'); $('pulse').innerHTML = pulseHtml(pulseData); bindThink($('pulse')); }
-  catch (e) { if (!pulseData) $('pulse').innerHTML = '<div class="empty">Pulse עוד לא נבנה. הוא נבנה אוטומטית עם הסריקה הבאה.</div>'; }
+  try { pulseData = await api('/api/pulse'); } catch (e) { if (!pulseData) $('pulse').innerHTML = '<div class="empty">Pulse עוד לא נבנה. הוא נבנה אוטומטית עם הסריקה הבאה.</div>'; return; }
+  try { const n = await api('/api/pulse-narrative'); pulseNar = n && n.story && n.topics ? n : null; } catch { pulseNar = null; }
+  try { $('pulse').innerHTML = pulseHtml(pulseData, pulseNar); bindThink($('pulse')); } catch (e) { $('pulse').innerHTML = '<div class="empty">שגיאה בהצגת Pulse.</div>'; }
 }
 // PULSE-UI-END
 
