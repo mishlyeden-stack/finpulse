@@ -422,7 +422,7 @@ function runClaude(system, input) {
       if (!CLOUD) return c === 0 ? resolve(out) : reject(new Error('claude exit ' + c + ' ' + errOut.slice(0, 60)));
       let j = null; try { j = JSON.parse(out); } catch {}
       if (j) { const u = j.usage || {}; USAGE.calls++; USAGE.in += u.input_tokens || 0; USAGE.out += u.output_tokens || 0; USAGE.cacheR += u.cache_read_input_tokens || 0; USAGE.cacheW += u.cache_creation_input_tokens || 0; USAGE.usd += j.total_cost_usd || 0; }
-      if (c !== 0 || !j || j.is_error) return reject(new Error('claude exit ' + c + ' ' + (j?.subtype || 'no json')));   // never echo the answer
+      if (c !== 0 || !j || j.is_error) return reject(new Error('claude exit ' + c + ' ' + (j?.subtype || 'no json') + (j?.is_error ? ': ' + String(j.result || '').replace(/s+/g, ' ').slice(0, 90) : '')));   // an error message only – never echo an answer
       resolve(String(j.result ?? ''));
     });
     p.stdin.end(input);
