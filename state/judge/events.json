@@ -1930,5 +1930,33 @@
   "first": 1792938837590,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "שבוע ריבית + דוחות ענק | מיקרוסופט, גוגל, אמזון + החלטת ריבית | אוקטובר 2026",
+  "level": "red",
+  "first": 1792941501983,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "אלרון | לחץ בעלי שליטה לגיוס אג״ח לכיסוי חובות אישיים — כשלון ממשל תאגידי | אוקטובר 2026",
+  "level": "learn",
+  "first": 1792941501983,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלרון | יו״ר מודחת טוענת ללחץ לגיוס אג״ח 150 מיליון שקל לכיסוי חובות אישיים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792941501988,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "TrendAI | דו״ח: סוכני AI מאיצים איומי סייבר ארגוניים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1792941501989,
+  "sentLive": false,
+  "candidate": true
  }
 ]
