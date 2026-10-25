@@ -58,8 +58,11 @@ jobs:
           DISABLE_TELEMETRY: '1'
         run: |
           # a token copied from a narrow terminal can carry line breaks / spaces – strip them (the value itself is never printed)
-          export CLAUDE_CODE_OAUTH_TOKEN="$(printf '%s' "$TOK" | tr -d '[:space:]')"
-          echo "token length: ${#CLAUDE_CODE_OAUTH_TOKEN}"
+          T="$(printf '%s' "$TOK" | tr -d '[:space:]')"
+          M="$(printf '%s' "$T" | grep -o 'sk-ant-oat[0-9]*-[A-Za-z0-9_-]*' | head -1 || true)"
+          [ -n "$M" ] && T="$M"
+          export CLAUDE_CODE_OAUTH_TOKEN="$T"
+          echo "token: length ${#T}, standard prefix: $([ -n "$M" ] && echo yes || echo no)"
           node tools/judge.mjs
       - name: commit if changed
         if: always() && steps.tok.outputs.ok == 'true'
