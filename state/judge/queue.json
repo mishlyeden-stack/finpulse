@@ -1,5 +1,16 @@
 [
  {
+  "id": "1425825088261d27",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הבוס יודע? גם אם לא דיברתם פוליטיקה בעבודה, החדשות מגיעות איתכם למשרד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JRGdUMzZtSHhpQzZtNmk0aWNMSE85bXIxemVQQ3FTNndoVFlqVENZZTEwM1BONUNOZnBZWlA2TmN1UE5EX3BhWXNzR19NOU1kY21HT0U1TE04Vmo2ZFlybDcxaTJJWHM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JRGdUMzZtSHhpQzZtNmk0aWNMSE85bXIxemVQQ3FTNndoVFlqVENZZTEwM1BONUNOZnBZWlA2TmN1UE5EX3BhWXNzR19NOU1kY21HT0U1TE04Vmo2ZFlybDcxaTJJWHM?oc=5\" target=\"_blank\">הבוס יודע? גם אם לא דיברתם פוליטיקה בעבודה, החדשות מגיעות איתכם למשר",
+  "date": "2026-10-25T20:55:00.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
+ },
+ {
   "id": "e6de9ce779c0266b",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -9,6 +20,28 @@
   "date": "2026-10-25T20:31:00.000Z",
   "fetched": "2026-10-25T20:33:11.959Z",
   "fromCloud": "2026-10-25T2033.json"
+ },
+ {
+  "id": "e9596c21f622d833",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מאמינים במניות יפניות? כך משקיעים בבורסה של טוקיו, מבאפט ועד מניות ה-AI הסמויות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aZ2lpaFZ2UGN3eHY4OVpxOE9ESThSTllieHBEZUhuTlRYS3hjNG1oZmY2dzhsMHBzaUl1NlZuaTNIUHFick1sN19fWmxoZ2VIQW84OFVBOGdDVWFMZ2ROZjV1bkdkLV9fVUtMSWJSQXQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1aZ2lpaFZ2UGN3eHY4OVpxOE9ESThSTllieHBEZUhuTlRYS3hjNG1oZmY2dzhsMHBzaUl1NlZuaTNIUHFick1sN19fWmxoZ2VIQW84OFVBOGdDVWFMZ2ROZjV1bkdkLV9fVUtMSWJSQXQ?oc=5\" target=\"_blank\">מאמינים במניות יפניות? כך משקיעים בבורסה של טוקיו, מבאפט",
+  "date": "2026-10-25T20:30:00.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
+ },
+ {
+  "id": "a8e1402b66cf8f9e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "A proven U.S. lithium source could bypass some import steps. Elektros is weighing a New York site. - Stock Titan",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmdoS3FYemViVmZmS2dsYVkyWGRESms4LTJxVHFvQ0Z1WnRvczNFY2JYVVYyT2c4UFJkMUJ1MEh1ZTRFQXA4OGlxSWFZQ0ZuUWx4TVhVRUtpa1R5RXdMZHVjdWhsYjBPN2x6bHJ3TDFyZTdBcHFpNkk1aks1ZXRnaFZJbHdLWW5EQUNvU25uVjEyMy1oTmZwT2RoYms5X0o1TWVmcGhid0V6OU1QQTh4cV90YTRiYWlRSVU5bjZuam4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmdoS3FYemViVmZmS2dsYVkyWGRESms4LTJxVHFvQ0Z1WnRvczNFY2JYVVYyT2c4UFJkMUJ1MEh1ZTRFQXA4OGlxSWFZQ0ZuUWx4TVhVRUtpa1R5RXdMZHVjdWhsYjBPN2x6bHJ3TDFyZTdBcHFpNkk1aks1ZXRnaFZJbHdLWW5EQUNvU25uVjEyMy1oTmZwT2RoYms5X0o1TWVmcGhid0V6OU",
+  "date": "2026-10-25T20:30:00.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
  },
  {
   "id": "097d1b35c7436117",
@@ -44,6 +77,17 @@
   "fromCloud": "2026-10-25T2033.json"
  },
  {
+  "id": "83e03cee98b4ee93",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "נגיד בנק ישראל לשעבר מזהיר כי דברי נתניהו על סנקציות כלכליות הם \"קטסטרופה\" - זמן ישראל",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ubWFsakxKcE10ODhwUlFlcWZ3SlhtLUtadjFDYjZtTjByLWtyS3Q2OW02TnZ0ekJWS0t1ckZva2V4ZWdadFZ4TGFCTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ubWFsakxKcE10ODhwUlFlcWZ3SlhtLUtadjFDYjZtTjByLWtyS3Q2OW02TnZ0ekJWS0t1ckZva2V4ZWdadFZ4TGFCTQ?oc=5\" target=\"_blank\">נגיד בנק ישראל לשעבר מזהיר כי דברי נתניהו על סנקציות כלכליות הם \"קטסטרופה\"</a>&nbsp;&nbsp;<font color=\"#6",
+  "date": "2026-10-25T20:11:51.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
+ },
+ {
   "id": "1a66811a6060d9c2",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -53,6 +97,39 @@
   "date": "2026-10-25T19:57:00.000Z",
   "fetched": "2026-10-25T20:03:12.062Z",
   "fromCloud": "2026-10-25T2003.json"
+ },
+ {
+  "id": "38db51ff9190a234",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Black Hawk Acquisition Corporation Estimates – NASDAQ:BKHA - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjE1WTQxT00zcV83ZDdPazNMSWJpUmRZcE5IenE2TmtBT0Zpa2gwX3FOY3pOb0J6WjFqRnUyOW85MHhUOVY2eHF6cEZSOGIwbVBMVXlCMUVHSkNYaWo1UndOSXZ3b0RDMDZrX2FqdjRBb3BXZEhiRFl5N2kySXVuM3l0RjR4b29WQ2pkTDg5bmhmV2JqOHlz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjE1WTQxT00zcV83ZDdPazNMSWJpUmRZcE5IenE2TmtBT0Zpa2gwX3FOY3pOb0J6WjFqRnUyOW85MHhUOVY2eHF6cEZSOGIwbVBMVXlCMUVHSkNYaWo1UndOSXZ3b0RDMDZrX2FqdjRBb3BXZEhiRFl5N2kySXVuM3l0RjR4b29WQ2pkTDg5bmhmV2JqOHlz?oc=5\" target=\"_blank\">Bla",
+  "date": "2026-10-25T19:43:31.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
+ },
+ {
+  "id": "e3636eff1f30d70f",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גלובל כתבות נוספות - עמוד 3317 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEYkVZWEFyX1hnLVdwei1Genhuejc4X29CZTNRQVRvMEdRWjRsbTMwRkVNNmhtZGhmbFdvdS1FYk9pNDZwcDdxUm1JU3pucW9maXJHY3lrV1NmUi04R2lBWTU2NjA3QkU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEYkVZWEFyX1hnLVdwei1Genhuejc4X29CZTNRQVRvMEdRWjRsbTMwRkVNNmhtZGhmbFdvdS1FYk9pNDZwcDdxUm1JU3pucW9maXJHY3lrV1NmUi04R2lBWTU2NjA3QkU?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3317</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+  "date": "2026-10-25T19:36:02.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
+ },
+ {
+  "id": "f6955923ddf6eea6",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "טימקון - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05YnFyMnAyVlZaTFhpY3JFWVVrczdkbDd3UzZpajR5bVVlSEhGN3ZUTUNFMUpWSjY0NFhYREYzNUs4S0p0VWl1ZTdKWlA0U2RPSFlmc0ZOVmRRRnVkaTVaemdERVlwSmlFRnBwSVdESEJ4SnVvLXhYWg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE05YnFyMnAyVlZaTFhpY3JFWVVrczdkbDd3UzZpajR5bVVlSEhGN3ZUTUNFMUpWSjY0NFhYREYzNUs4S0p0VWl1ZTdKWlA0U2RPSFlmc0ZOVmRRRnVkaTVaemdERVlwSmlFRnBwSVdESEJ4SnVvLXhYWg?oc=5\" target=\"_blank\">טימקון</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">כ",
+  "date": "2026-10-25T19:32:23.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
  },
  {
   "id": "e6bb22556d444f0b",
@@ -208,6 +285,28 @@
   "id": "171e09d053f19b92"
  },
  {
+  "id": "2dda81e54f23f7c0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bitcoin Infrastructure Acquisition Corp Ltd. Estimates – BOATS:BIXI - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTWlUaUgxRWUtUkh3N08tX3c3Wi1QSnJsd2lBMjFLUVNPLUs4Sm41UEdsUk5BZ1U2dmxub0FTcW84V001TTNtTG42c2o5ZFc4QjEtdUR4aXd2WlcxS1Z2b3Z5NmRjWWcwcUZQMGxkMkZzbmZzeUVn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTWlUaUgxRWUtUkh3N08tX3c3Wi1QSnJsd2lBMjFLUVNPLUs4Sm41UEdsUk5BZ1U2dmxub0FTcW84V001TTNtTG42c2o5ZFc4QjEtdUR4aXd2WlcxS1Z2b3Z5NmRjWWcwcUZQMGxkMkZzbmZzeUVn?oc=5\" target=\"_blank\">Bitcoin Infrastructure Acquisition Corp Ltd. Es",
+  "date": "2026-10-25T10:07:41.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
+ },
+ {
+  "id": "a9178b5687e7cec4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tailwind 2.0 Acquisition Corp. Estimates – BOATS:TDWDR - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYalFseDZacFNKYmJiMTRwc19zcFk5ZHBOU2VuUHZ5N0daeU1JSS1FQ2dkWElLb0VlbTMteG1sOElLMWdoWnpDSXBjbGFaU004ZTZlUGZhUm1FZFVHVTd5SWxjZ3VVRy1rRV9tNHJDbE5fZzBzUjN6Rg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBYalFseDZacFNKYmJiMTRwc19zcFk5ZHBOU2VuUHZ5N0daeU1JSS1FQ2dkWElLb0VlbTMteG1sOElLMWdoWnpDSXBjbGFaU004ZTZlUGZhUm1FZFVHVTd5SWxjZ3VVRy1rRV9tNHJDbE5fZzBzUjN6Rg?oc=5\" target=\"_blank\">Tailwind 2.0 Acquisition Corp. Estimates – BO",
+  "date": "2026-10-25T07:51:43.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
+ },
+ {
   "id": "378daf07088c2e64",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -217,6 +316,39 @@
   "date": "2026-10-25T07:31:54.000Z",
   "fetched": "2026-10-25T20:03:12.062Z",
   "fromCloud": "2026-10-25T2003.json"
+ },
+ {
+  "id": "4ad240307dd1e8d5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Peace Acquisition Corp Estimates – NASDAQ:PECEU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zSGtTUDVBYXU3cUFXMzlJWFFNUEZ6dUZXRXNRRVh3LXFNNTFvd3ZyZ3FMTDVTLXpFaDhJT1dTTjhrRHFPYVI5dnVLbTNtSGJBbjJkYWxKdFJ3S2NXcTlKVDE1VDAxNTlOaUloMHQ5RlZidmpOZ0doS0ZR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4zSGtTUDVBYXU3cUFXMzlJWFFNUEZ6dUZXRXNRRVh3LXFNNTFvd3ZyZ3FMTDVTLXpFaDhJT1dTTjhrRHFPYVI5dnVLbTNtSGJBbjJkYWxKdFJ3S2NXcTlKVDE1VDAxNTlOaUloMHQ5RlZidmpOZ0doS0ZR?oc=5\" target=\"_blank\">Peace Acquisition Corp Estimates – NASDAQ:P",
+  "date": "2026-10-25T02:13:16.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
+ },
+ {
+  "id": "1faed4441a94aa9d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Globa Terra Acquisition Corporation Estimates – BOATS:GTERW - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96TEdKS3NzdlhIaVFkTXQweXc1MUsxaGJ1ZjBHaVlXZkxIVl9QNzVCQnU2Y3F3cFFzNS1kLWZnc1FUclVzTHhQdmgzYmZWWWRPZ3hoa3RqbzZmakxiTldmSUlQdl9sbExRSmEteXczTWliZlVaa3lmRw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE96TEdKS3NzdlhIaVFkTXQweXc1MUsxaGJ1ZjBHaVlXZkxIVl9QNzVCQnU2Y3F3cFFzNS1kLWZnc1FUclVzTHhQdmgzYmZWWWRPZ3hoa3RqbzZmakxiTldmSUlQdl9sbExRSmEteXczTWliZlVaa3lmRw?oc=5\" target=\"_blank\">Globa Terra Acquisition Corporation Estimates",
+  "date": "2026-10-25T02:05:14.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
+ },
+ {
+  "id": "6201596f9e900dcc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Debt to assets ratio of PINE TREE ACQUISITION CORP ORD USD0.0001 (S/R 31/12/2031) CL A – NASDAQ:PAXGR - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONElzeWZxUmRsY1h5Wk1XcVltU1RkTGNuajcweFlPUHhTTVQ0Mmt4LXZSckcyT3UwU0w4WHNBemFtVS1DbkNvTVpUVXl5QldSbncxVWtqZ2E0T3ZSOTcxNGk3clhaTENkYVdPYmJfM0wtdTZqb1Z2U296V21tNUF5dGotb2l4V0tvT1ZSMERXYUxOZFVWVmJDY01xNS0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONElzeWZxUmRsY1h5Wk1XcVltU1RkTGNuajcweFlPUHhTTVQ0Mmt4LXZSckcyT3UwU0w4WHNBemFtVS1DbkNvTVpUVXl5QldSbncxVWtqZ2E0T3ZSOTcxNGk3clhaTENkYVdPYmJfM0wtdTZqb1Z2U296V21tNUF5dGotb2l4V0tvT1ZSMERXYUxOZFVWVmJDY01xNS0?oc=5\" target=\"_bla",
+  "date": "2026-10-25T02:01:09.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
  },
  {
   "id": "bdcc5b23debf9d24",
@@ -239,5 +371,16 @@
   "date": "2026-10-24T22:45:01.000Z",
   "fetched": "2026-10-25T19:14:49.213Z",
   "fromCloud": "2026-10-25T1914.json"
+ },
+ {
+  "id": "a45535b94fdf0ae2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "ARC Group Acquisition I Corp Estimates – NASDAQ:ARCL - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUR6QkxtYWpZWkowdXduN0ZXa2lDRVpvVVZWMDlBRVFuMTh5VEE3UkZUTjFkazRsSWwxLWNxeUduSHByWlNXVEtBRFJIMFpRXzFpVG1WaW5ta2hGLXNIQnlHdWhudC1xXzBEYnoyV1pjN3B4WjdwSjZ6MWFuUFB5ZmMxeEwySkdmNGJKWGtUX2ZLUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUR6QkxtYWpZWkowdXduN0ZXa2lDRVpvVVZWMDlBRVFuMTh5VEE3UkZUTjFkazRsSWwxLWNxeUduSHByWlNXVEtBRFJIMFpRXzFpVG1WaW5ta2hGLXNIQnlHdWhudC1xXzBEYnoyV1pjN3B4WjdwSjZ6MWFuUFB5ZmMxeEwySkdmNGJKWGtUX2ZLUQ?oc=5\" target=\"_blank\">ARC Group",
+  "date": "2026-10-24T21:26:24.000Z",
+  "fetched": "2026-10-25T21:03:13.229Z",
+  "fromCloud": "2026-10-25T2103.json"
  }
 ]
