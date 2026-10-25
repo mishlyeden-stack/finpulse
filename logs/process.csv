@@ -95,3 +95,4 @@ time_local,source,cloud_batches,cloud_items,already_seen,new_to_queue,claude_rou
 2026-10-25 16:46,pc-takeover,1,8,10,8,0,0,0,0,0,0,0,0,8,0,,10,0,10
 2026-10-25 17:18,pc-takeover,1,13,10,13,1,22,1,3,1,16,0,5,0,86,,10,0,10
 2026-10-25 20:52,cloud-judge,8,83,1,82,1,60,0,0,0,0,0,0,81,0,claude exit 1 success,0,1,0
+2026-10-25 20:54,cloud-judge,0,0,0,0,1,60,0,0,0,0,0,0,81,0,claude exit 1 success: API Error: Header '14' ha  invalid value: 'Bearer http :/,0,0,0

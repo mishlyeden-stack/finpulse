@@ -1,6 +1,6 @@
 {
  "lastResult": "error",
- "lastError": "claude exit 1 success",
+ "lastError": "claude exit 1 success: API Error: Header '14' ha  invalid value: 'Bearer http :/",
  "queue": 81,
- "at": "2026-10-25T18:52:16.598Z"
+ "at": "2026-10-25T18:54:47.295Z"
 }
