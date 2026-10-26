@@ -1,26 +1,34 @@
 {
  "globes.co.il": {
-  "ok": 5,
+  "ok": 7,
   "blocked": 0
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "en.globes.co.il": {
   "ok": 2,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 3,
+  "ok": 7,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "13tv.co.il": {
   "ok": 0,
   "blocked": 1
+ },
+ "ad-hoc-news.de": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "israeldefense.co.il": {
+  "ok": 3,
+  "blocked": 0
  }
 }
