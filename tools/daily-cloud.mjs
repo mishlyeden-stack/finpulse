@@ -27,7 +27,7 @@ if (cmd === 'due') {
   const d = new Date(); const day = d.getDay(), min = d.getHours() * 60 + d.getMinutes();
   const force = process.env.DAILY_FORCE === '1';
   let why = '';
-  if (!(cfg.enabled === true && cfg.daily === true)) why = 'off';
+  if (!(cfg.enabled === true && (cfg.daily === true || force))) why = 'off';
   else if (!force && existsSync(P('data', `daily-${today}.json`))) why = 'done';
   else if (!force && !(day >= 0 && day <= 4)) why = 'weekend';
   else if (!force && (min < 6 * 60 + 30 || min >= 12 * 60)) why = 'hours';
