@@ -1,5 +1,93 @@
 [
  {
+  "id": "5cea08e523248116",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - New Mountain Finance Corp (0001496099) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1496099/000158064226007114/0001580642-26-007114-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001580642-26-007114 <b>Size:</b> 250 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-26T21:01:43.000Z",
+  "fetched": "2026-10-26T21:03:13.138Z",
+  "fromCloud": "2026-10-26T2103.json"
+ },
+ {
+  "id": "658d86b56ecb4bc7",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - XBP Global Holdings, Inc. (0001839530) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1839530/000110465926118834/0001104659-26-118834-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001104659-26-118834 <b>Size:</b> 243 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-10-26T21:00:17.000Z",
+  "fetched": "2026-10-26T21:03:13.138Z",
+  "fromCloud": "2026-10-26T2103.json"
+ },
+ {
+  "id": "c36a32b1c672eb80",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - YHN Acquisition I Ltd (0002020987) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2020987/000168316826008096/0001683168-26-008096-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001683168-26-008096 <b>Size:</b> 263 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
+  "date": "2026-10-26T21:00:15.000Z",
+  "fetched": "2026-10-26T21:03:13.138Z",
+  "fromCloud": "2026-10-26T2103.json"
+ },
+ {
+  "id": "94d850af067b8976",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - BLUE RIDGE BANKSHARES, INC. (0000842717) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/842717/000119312526432133/0001193125-26-432133-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001193125-26-432133 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-26T21:00:15.000Z",
+  "fetched": "2026-10-26T21:03:13.138Z",
+  "fromCloud": "2026-10-26T2103.json"
+ },
+ {
+  "id": "80b8c593971d1ce6",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Lycia Therapeutics, Inc. (0001806540) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026067312/0001628280-26-067312-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001628280-26-067312 <b>Size:</b> 443 KB <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-26T20:55:11.000Z",
+  "fetched": "2026-10-26T21:03:13.138Z",
+  "fromCloud": "2026-10-26T2103.json"
+ },
+ {
+  "id": "fcbdb949783191a2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Apollo Asset Backed Credit Co LLC (0002000597) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2000597/000119312526432113/0001193125-26-432113-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001193125-26-432113 <b>Size:</b> 635 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-26T20:52:49.000Z",
+  "fetched": "2026-10-26T21:03:13.138Z",
+  "fromCloud": "2026-10-26T2103.json"
+ },
+ {
+  "id": "3db2030ec1e8ac92",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+  "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+  "summary": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+  "date": "2026-10-26T20:50:24.000Z",
+  "fetched": "2026-10-26T21:03:13.138Z",
+  "fromCloud": "2026-10-26T2103.json"
+ },
+ {
+  "id": "5c55f325383ed924",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Soren Acquisition Corp. (0002086263) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2086263/000121390026112511/0001213900-26-112511-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001213900-26-112511 <b>Size:</b> 299 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-10-26T20:48:06.000Z",
+  "fetched": "2026-10-26T21:03:13.138Z",
+  "fromCloud": "2026-10-26T2103.json"
+ },
+ {
   "id": "9c079ee7d0c1f940",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -2751,16 +2839,5 @@
   "date": "2026-10-26T04:00:00.000Z",
   "fetched": "2026-10-26T18:03:13.732Z",
   "fromCloud": "2026-10-26T1803.json"
- },
- {
-  "id": "f5cca1b6cf28de25",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "הרמטכ\"ל רצה לסיים את המבצע בחברון, אך נתניהו וכץ דורשים שיימשך - הארץ",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWpZb1BUVVJtYjNqNm01MzVpU2ExbUlJYVdGQWx4d3B3aENEZExSbEU5bVhrbGRoRmx2MjBOaFl4RXUwSVk1cmhPa0JHOXZhb19sRVE4WFB0U3Z6VWJvQ2pPVmpaMGFyaWQ1bkNIN2FScmxESm11cTVNWHNOQ3pkOE1FY3hmaTdFbEFEVEVkSHIzRDQtOHhLU3dJeDlDZDZ6b25JanlSenBnMFlFOS1V?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWpZb1BUVVJtYjNqNm01MzVpU2ExbUlJYVdGQWx4d3B3aENEZExSbEU5bVhrbGRoRmx2MjBOaFl4RXUwSVk1cmhPa0JHOXZhb19sRVE4WFB0U3Z6VWJvQ2pPVmpaMGFyaWQ1bkNIN2FScmxESm11cTVNWHNOQ3pkOE1FY3hmaTdFbEFEVEVkSHIzRDQtOHhLU3dJeDlDZDZ6b25JanlSenBnMF",
-  "date": "2026-10-25T21:02:00.000Z",
-  "fetched": "2026-10-26T15:33:16.074Z",
-  "fromCloud": "2026-10-26T1533.json"
  }
 ]
