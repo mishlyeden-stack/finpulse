@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "13tv.co.il": {
   "ok": 0,
@@ -28,10 +28,22 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "themarker.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "silicon.co.uk": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "pc.co.il": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "ft.com": {
   "ok": 0,
   "blocked": 1
  }
