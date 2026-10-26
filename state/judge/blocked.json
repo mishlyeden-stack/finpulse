@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 11,
+  "ok": 12,
   "blocked": 0
  },
  "calcalist.co.il": {
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "ecb.europa.eu": {
   "ok": 1,
@@ -58,5 +58,13 @@
  "securityweek.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "ice.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "datacenterdynamics.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
