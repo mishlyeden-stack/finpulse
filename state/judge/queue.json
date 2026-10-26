@@ -1,5 +1,170 @@
 [
  {
+  "id": "009823c27718d45c",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Sound Point Direct Lending BDC (0002061174) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2061174/000182912626011500/0001829126-26-011500-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001829126-26-011500 <b>Size:</b> 194 KB <br>Item 3.02: Unregistered Sales of Equity Securities",
+  "date": "2026-10-26T15:32:14.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "3e28aa8cf12957e4",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026112363/0001213900-26-112363-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001213900-26-112363 <b>Size:</b> 23 MB <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-26T15:31:13.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "a399d4c77abbdad1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - FF EAI Robotics Ecosystem Inc. (0001460702) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226048447/0001493152-26-048447-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-26 <b>AccNo:</b> 0001493152-26-048447 <b>Size:</b> 9 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 5.02: Departur",
+  "date": "2026-10-26T15:30:20.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "c13e51d0584d93c7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "TD Cowen reiterates AutoZone stock Buy rating after CFO exit - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlROZFBhRzNCeGxnaDZZU2ZKWVlfZURqc010Y19fZy1YRHRiY2QxX1lhOEo3RUdlcFdPX0NUaHBKV2piQ1dDbFFCdXUzeXB5UDczTmxmWllYSXlwTXJtWXFoazV2NUpWemZwX202WHR3UzN4V0hmd1kzNVYyeTd3LUt5RGlJVExDM3B2UGduc3BaZmM1RjVkdTBpMjRubkZjdVJkdXFxc28xMnhncXNwZGZfOE40OV9OcDJObw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlROZFBhRzNCeGxnaDZZU2ZKWVlfZURqc010Y19fZy1YRHRiY2QxX1lhOEo3RUdlcFdPX0NUaHBKV2piQ1dDbFFCdXUzeXB5UDczTmxmWllYSXlwTXJtWXFoazV2NUpWemZwX202WHR3UzN4V0hmd1kzNVYyeTd3LUt5RGlJVExDM3B2UGduc3BaZmM1RjVkdTBpMjRubkZjdVJkdXFxc28xMn",
+  "date": "2026-10-26T15:24:42.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "1e0af0e5c563d945",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "US oil producer Ovintiv to Acquire Canada’s Logan Energy for $890Mn - Egypt Oil & Gas",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2hsal9VQmhuVXN3SmJMVmtHb0tKZm5Sd3Qzc2pqc214SnRoNXMyRl9uekpTSDVUT2lMYWRYeTRGSkxTNlFDMWl0cWpDOWY5aldfU0MyeUszVmVfNXJ1bTlaeEV5MzZ4X1hBa2tvNi1WaW9JMVpHZTVRLS1JV2tkWE9fOWRLYnNSR3ZWTFNaMHNQckszLXpuNGhVSnM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2hsal9VQmhuVXN3SmJMVmtHb0tKZm5Sd3Qzc2pqc214SnRoNXMyRl9uekpTSDVUT2lMYWRYeTRGSkxTNlFDMWl0cWpDOWY5aldfU0MyeUszVmVfNXJ1bTlaeEV5MzZ4X1hBa2tvNi1WaW9JMVpHZTVRLS1JV2tkWE9fOWRLYnNSR3ZWTFNaMHNQckszLXpuNGhVSnM?oc=5\" target=\"_bla",
+  "date": "2026-10-26T15:21:02.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "8f97e7b6ce8c3d97",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "הג'וב החדש של יו\"ר ועדת הערר המחוזית",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001560846#utm_source=RSS",
+  "summary": "עו\"ד מאיה אשכנזי עוזבת את תפקידה לאחר שבע שנים ומצטרפת כשותפה בכירה למשרד כורש ושות' בו תקים מחלקה לתכנון תשתיות והיטלי השבחה &#8226; בשופרסל נערכים להרחבת פעילות מוצרי החשמל ונפגשו עם ספקים בתערוכת קנטון בסין &#8226; וגם: עובדי ישראכרט ובני משפחותיהם התנדבו בכפר עזה &#8226; אירו",
+  "date": "2026-10-26T15:20:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "51acdeae01a76db3",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "SpaceX secures $40bn in debt financing, Elon Musk says",
+  "link": "https://www.datacenterdynamics.com/en/news/spacex-secures-40bn-in-debt-financing-elon-musk-says/",
+  "summary": "<p data-block-key=\"03klq\">Billionaire neocloud boss also claims neocloud funding sources could be drying up</p>",
+  "date": "2026-10-26T15:14:15.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "2fbe546bf99c6660",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סולאראדג' תפטר עוד 200 עובדים - סבב פיטורים חמישי בתוך פחות משלוש שנים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85aUkwN2Q0aWVrM2VzQ3VPeGdMczdSSUI4MFVKQ2cwLVpFNnk4SjVIdjdkcm02LTJjazN6SkVlWmlrS3FwZ3FfZ2RDUkFKRzBQV1ZPamlpWkg0UERTZGQ1Xy0wbEpLRmtkeFlhSENJaEM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE85aUkwN2Q0aWVrM2VzQ3VPeGdMczdSSUI4MFVKQ2cwLVpFNnk4SjVIdjdkcm02LTJjazN6SkVlWmlrS3FwZ3FfZ2RDUkFKRzBQV1ZPamlpWkg0UERTZGQ1Xy0wbEpLRmtkeFlhSENJaEM?oc=5\" target=\"_blank\">סולאראדג' תפטר עוד 200 עובדים - סבב פיטורים חמישי בתוך פ",
+  "date": "2026-10-26T15:11:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "84c65dc4c9895696",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CRH completes $8.5B Arcosa acquisition - Construction & Demolition Recycling",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUG40T29CSE16RFJmTjEtQ3p2SGQzZGc2RVFpREZLODNhLTBPdVNEdVJCczRJdUxnS3gxc1RFSVozYlFtMFRMQmlHMllYeXVpQmFhM3ZUaHBlLXk4akpxVlR6NGhmRncxTGprZHhqblYya053X0ctbElKYlVfREhXcnFJS2pSNldqX3c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUG40T29CSE16RFJmTjEtQ3p2SGQzZGc2RVFpREZLODNhLTBPdVNEdVJCczRJdUxnS3gxc1RFSVozYlFtMFRMQmlHMllYeXVpQmFhM3ZUaHBlLXk4akpxVlR6NGhmRncxTGprZHhqblYya053X0ctbElKYlVfREhXcnFJS2pSNldqX3c?oc=5\" target=\"_blank\">CRH completes $8.5B ",
+  "date": "2026-10-26T15:08:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "79f4e91b33b0444f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "K&F Growth Acquisition Corp. II converts Class B shares to Class A shares - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDBOYkxoYzRDWUtDV2pVVHIzMlhvOWE1UThmN2s0ZGtpQ0JTbWVfcXlSVUUzTGlqTWVVYVVhSEVRV2NKYWNGVEVGd01KMXNGSzRyNkVHS2JiaFhsMk5ZNTJqTUFhanNWRnVaOHJiUWhzUTN1N3JfZEJkSWVzT05mVDVFcGJTemhGSDdmMks1R0dHaDNGSVU2eldnMDdDYy1pS3JpSW1GT1BEM055bjdoVTRCU1N2czJXS1NMWWg4MUhNSlZiaEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDBOYkxoYzRDWUtDV2pVVHIzMlhvOWE1UThmN2s0ZGtpQ0JTbWVfcXlSVUUzTGlqTWVVYVVhSEVRV2NKYWNGVEVGd01KMXNGSzRyNkVHS2JiaFhsMk5ZNTJqTUFhanNWRnVaOHJiUWhzUTN1N3JfZEJkSWVzT05mVDVFcGJTemhGSDdmMks1R0dHaDNGSVU2eldnMDdDYy1pS3JpSW1GT1BEM0",
+  "date": "2026-10-26T15:06:28.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "bd1af6c85ffd84e5",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "כ-290 אוטובוסים, יותר ממיליארד שקל: הזוכה במכרז להפעלת התחבורה הציבורית בבנימין ובמעלה אדומים",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001560837#utm_source=RSS",
+  "summary": "אלקטרה אפיקים זכתה במכרז להפעלת אשכול מטה בנימין ומעלה אדומים ותמשיך לספק את שירותי התחבורה באזור &#8226; במסגרת ההסכם יתווספו קווים חדשים, יורחב היקף השירות והפעלת הקווים תושלם בהדרגה בשתי פעימות במהלך השנתיים הקרובות",
+  "date": "2026-10-26T15:06:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "80aa307ffaa8fea4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Masdar Buys 550+ MW Greek Solar Project From Lightsource bp, Plans Battery Storage - ESG News",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTLXVoNlpHM0Rhd3JseTZCci1fbFQxLUx0MlhoaEZnamNobW9sbno4MGpLR2hHMjdVWEhJVDdyVGtDMy1WZHRDV1J0elBWZkFvdXE1VE5LNTg3YUp4cWFrRlE2bW1WRHEtMFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBTLXVoNlpHM0Rhd3JseTZCci1fbFQxLUx0MlhoaEZnamNobW9sbno4MGpLR2hHMjdVWEhJVDdyVGtDMy1WZHRDV1J0elBWZkFvdXE1VE5LNTg3YUp4cWFrRlE2bW1WRHEtMFE?oc=5\" target=\"_blank\">Masdar Buys 550+ MW Greek Solar Project From Lightsource bp, Pla",
+  "date": "2026-10-26T15:03:30.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "2279c74f28ca6ac8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "FedEx names Jamere Jackson as next CFO - Transport Topics",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lVmhON2hRemRETG9iSDVvaE1BbWFydDUzdTdZWThsTXZVVGZMVGE3bElUelJJaV9kQXVoWHhxc3l1ZWhSOURCV084WWJZLS1KWHhycklBV0s0XzUzVU5yRGhNRGtzdEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lVmhON2hRemRETG9iSDVvaE1BbWFydDUzdTdZWThsTXZVVGZMVGE3bElUelJJaV9kQXVoWHhxc3l1ZWhSOURCV084WWJZLS1KWHhycklBV0s0XzUzVU5yRGhNRGtzdEE?oc=5\" target=\"_blank\">FedEx names Jamere Jackson as next CFO</a>&nbsp;&nbsp;<font color=\"#",
+  "date": "2026-10-26T15:03:24.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "c6f00cc5e109a022",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Aizo Group Reports Expiry Of Contract Of CFO Loke Chee Kien - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFN6bVVULW5lQ3RMY05HOTFMbFVoN2ItNVMzNnh1bWp6MkM2Q05jX25wM2lwb1lfd2hzeU5vRlp0d01wUENqREJZQTV1TnQ5eU14MVljdlNqcGh1YVVUak9mUm9uUF9iSW5IOHRRN2dUWjNPRmJKam1ydERuNDA3YVFvbXUwcnVRaG1xZU53VGJsdmpxeTFEWnpmZjhTNDlNQUt6NEo3OHFFQlFJMFl5S1NBZG9CTkdNUUZ5eWZhWlpZelhMSERGVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFN6bVVULW5lQ3RMY05HOTFMbFVoN2ItNVMzNnh1bWp6MkM2Q05jX25wM2lwb1lfd2hzeU5vRlp0d01wUENqREJZQTV1TnQ5eU14MVljdlNqcGh1YVVUak9mUm9uUF9iSW5IOHRRN2dUWjNPRmJKam1ydERuNDA3YVFvbXUwcnVRaG1xZU53VGJsdmpxeTFEWnpmZjhTNDlNQUt6NEo3OHFFQl",
+  "date": "2026-10-26T15:02:46.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "ce022b28f95001c1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Holtec’s ex-CFO awarded $2.1M in whistleblowing case - CFO.com",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0JkYnVqbDVqb0NIR1g4c3NQMTRBN3pId2I0N2R4S01IUmdCYWtuc1lwcDNWaHUwWlE5UU1xa0NPWmxobTJjX3gtaG1pRy1MVVp5R2xha3czcUJLUXNCNlZGbGQ2VXNDM0tEa3NCaVR2QXpFeFlpSXNpVlRsQ0Z1U2tCVGpZcGxm?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0JkYnVqbDVqb0NIR1g4c3NQMTRBN3pId2I0N2R4S01IUmdCYWtuc1lwcDNWaHUwWlE5UU1xa0NPWmxobTJjX3gtaG1pRy1MVVp5R2xha3czcUJLUXNCNlZGbGQ2VXNDM0tEa3NCaVR2QXpFeFlpSXNpVlRsQ0Z1U2tCVGpZcGxm?oc=5\" target=\"_blank\">Holtec’s ex-CFO awarded",
+  "date": "2026-10-26T15:02:43.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
   "id": "50257bdbcebe5874",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +174,17 @@
   "date": "2026-10-26T15:02:25.000Z",
   "fetched": "2026-10-26T15:03:12.331Z",
   "fromCloud": "2026-10-26T1503.json"
+ },
+ {
+  "id": "62aea6bda29a9c25",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Energy efficient chip co Unconventional AI buys Israel’s NeuReality",
+  "link": "https://en.globes.co.il/en/article-1001560850#utm_source=RSS",
+  "summary": "NeuReality&rsquo;s founder and 40 employees in Caesarea and Tel Aviv will join the US hardware startup&rsquo;s team.",
+  "date": "2026-10-26T15:02:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
  },
  {
   "id": "044e3c4c3e7a9d60",
@@ -33,6 +209,17 @@
   "fromCloud": "2026-10-26T1503.json"
  },
  {
+  "id": "ecbb94d91f0edeb8",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "One-year-old AI unicorn Unconventional acquires Israeli chipmaker NeuReality - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkeFJjVnFkaWMxYTdfSDRlbFllTUVzZTFZblhqY0N1SHZudW5XVW14cERfQ2FLdi1xV05HWTgzUldER2tJUGVnd09OX0FUdmlnOV81Q2JtZVVjUWtrUnBiV1c0Z1ZjNDg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkeFJjVnFkaWMxYTdfSDRlbFllTUVzZTFZblhqY0N1SHZudW5XVW14cERfQ2FLdi1xV05HWTgzUldER2tJUGVnd09OX0FUdmlnOV81Q2JtZVVjUWtrUnBiV1c0Z1ZjNDg?oc=5\" target=\"_blank\">One-year-old AI unicorn Unconventional acquires Israeli chipmaker Ne",
+  "date": "2026-10-26T15:00:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
   "id": "a3dbcfba285fe2b1",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -42,6 +229,17 @@
   "date": "2026-10-26T14:58:41.000Z",
   "fetched": "2026-10-26T15:03:12.331Z",
   "fromCloud": "2026-10-26T1503.json"
+ },
+ {
+  "id": "69708f8301b1c1ff",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "המדינה עצרה את המימון, הקבלן לא קיבל כסף – מי ישלם על שיפוץ בית העצמאות?",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001560825#utm_source=RSS",
+  "summary": "ביהמ\"ש קבע כי החברה העירונית \"מוזיאון ארץ ישראל בתל אביב\" תשלם לחברה הקבלנית ע.אליאס 1.1 מיליון שקל ותשיב לה כספי עיכבון בגובה של כחצי מיליון שקל, זאת עבור עבודתה בבית העצמאות ברוטשילד 16 בתל אביב, לאחר שמשרד רה\"מ עצר את מימוץ השיפוץ בשל טענות לאי-סדרים",
+  "date": "2026-10-26T14:57:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
  },
  {
   "id": "f316891db0ea8456",
@@ -141,6 +339,17 @@
   "date": "2026-10-26T14:47:04.000Z",
   "fetched": "2026-10-26T15:03:12.331Z",
   "fromCloud": "2026-10-26T1503.json"
+ },
+ {
+  "id": "2bfbe8410e8fe793",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "המשטרה: ראיות לשוחד נרחב ברשות המיסים תמורת החזרים ב-80 מיליון שקל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55T0E4XzFYQWZjYnVha1hZSmFFQ1VtdV9nVkMzSkgxYnpWYmx4RXRNUkFJZXUxZEhqYTJrMERjS3oySUZPcGQ3YVZ4a3QyTFpNVE0tWTdGMGJmNno0ckFmTHRTTDNGYzA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55T0E4XzFYQWZjYnVha1hZSmFFQ1VtdV9nVkMzSkgxYnpWYmx4RXRNUkFJZXUxZEhqYTJrMERjS3oySUZPcGQ3YVZ4a3QyTFpNVE0tWTdGMGJmNno0ckFmTHRTTDNGYzA?oc=5\" target=\"_blank\">המשטרה: ראיות לשוחד נרחב ברשות המיסים תמורת החזרים ב-80 מיליון שקל</",
+  "date": "2026-10-26T14:46:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
  },
  {
   "id": "b21a5fa1e847a44c",
@@ -286,6 +495,28 @@
   "fromCloud": "2026-10-26T1503.json"
  },
  {
+  "id": "46c8ed68964a925f",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "אילן שטרק: \"בלוקצ׳יין לא יגן על ישראל מפני סנקציות כלכליות\" - פאנדר",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhTFJIVnZaZlpWZmpJZTh2RWZPYzVreUlsczdfbUNpV1J0OEJXRGdJaXZkN2M5RlVzQ3c5eGV5M2hnZDJpWjVYenhwXzRhaTR6?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhTFJIVnZaZlpWZmpJZTh2RWZPYzVreUlsczdfbUNpV1J0OEJXRGdJaXZkN2M5RlVzQ3c5eGV5M2hnZDJpWjVYenhwXzRhaTR6?oc=5\" target=\"_blank\">אילן שטרק: \"בלוקצ׳יין לא יגן על ישראל מפני סנקציות כלכליות\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">פא",
+  "date": "2026-10-26T13:12:23.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "63705766f88a3ba6",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "שוק הנדל״ן ביום שאחרי הבחירות - פאנדר",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSaThNLW9uUkNILTBZQWlUcldZa0wzaW1Hb2hXVF90NTVNOUpxTnpuLVl0UURvcUNYa2RabDZVOXFkc2tMZWNBNURTTGg0dHRn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSaThNLW9uUkNILTBZQWlUcldZa0wzaW1Hb2hXVF90NTVNOUpxTnpuLVl0UURvcUNYa2RabDZVOXFkc2tMZWNBNURTTGg0dHRn?oc=5\" target=\"_blank\">שוק הנדל״ן ביום שאחרי הבחירות</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">פאנדר</font>",
+  "date": "2026-10-26T13:02:24.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
   "id": "519a7300f243cf83",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -319,6 +550,17 @@
   "fromCloud": "2026-10-26T1503.json"
  },
  {
+  "id": "5ae713df297382ce",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "White & Case advises Trinity Bank on acquisition of office portfolio in Prague - White & Case LLP",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE5OajNBOWlSMHMwZXZ2RDROTXRNdXRHNXhoQnk1d0NGbi1tdWpHcmE3NmhDamd5bVBvdEI5ajJIbmFaSlNGN0J3UUQ4dVhxLWFVX0sxMGtfU1Q1QkY3MlRHYm4zMTRJNDFDa1JnbHdLSlNwVG9taDlwYmdDSnZMVzAtRDl3VVhrZ1hhSUh6WUl3X1RBTU9vRHJ4ZEp6Y1FhcGRHeG5rSXlCN2ZkZjZjNzFR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE5OajNBOWlSMHMwZXZ2RDROTXRNdXRHNXhoQnk1d0NGbi1tdWpHcmE3NmhDamd5bVBvdEI5ajJIbmFaSlNGN0J3UUQ4dVhxLWFVX0sxMGtfU1Q1QkY3MlRHYm4zMTRJNDFDa1JnbHdLSlNwVG9taDlwYmdDSnZMVzAtRDl3VVhrZ1hhSUh6WUl3X1RBTU9vRHJ4ZEp6Y1FhcGRHeG5rSXlCN2",
+  "date": "2026-10-26T12:00:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
   "id": "e1c039c18ec9af97",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -328,6 +570,50 @@
   "date": "2026-10-26T11:42:26.000Z",
   "fetched": "2026-10-26T15:03:12.331Z",
   "fromCloud": "2026-10-26T1503.json"
+ },
+ {
+  "id": "6afb4a17ea4418ff",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "MARUBENI CORP. - פרופיל מניה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XWWpzcVNfMDlHRjJISXVhT0xoVV9odEgzbDZYMXJMeU5rOGxaYktxdTBoT2VMZzNyZmQ5dy1zWWJTY1JhTDIzM2ZuNjByMUNXYnRjeUtHLWlCQ2lhMzcxX0VGZDZubVBW?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XWWpzcVNfMDlHRjJISXVhT0xoVV9odEgzbDZYMXJMeU5rOGxaYktxdTBoT2VMZzNyZmQ5dy1zWWJTY1JhTDIzM2ZuNjByMUNXYnRjeUtHLWlCQ2lhMzcxX0VGZDZubVBW?oc=5\" target=\"_blank\">MARUBENI CORP. - פרופיל מניה</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ב",
+  "date": "2026-10-26T10:56:40.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "4935afa262856f82",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Obesity drug developer Corxel to go public in US via SPAC deal - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONW5kN1dIQjhzMnkxTkdZQWdYYXVoeXpWOGZVblZXdW1vTGJta25OeGVVMUoxYm51enFneHo0VkpKeE1aOEczNUNYVmpGVVdkajh5SkFYRWtWRWZHLUdwSS1OTzZkOWFNeDVpTkc4RXVxc3NmWkI5bzdTVU1YYk9XVGFYUXZTYkctOW9id29lMXFmemVpNjBuekxkUVdEVlVpMkRQVWVPekt0SEFveEhtNVh3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONW5kN1dIQjhzMnkxTkdZQWdYYXVoeXpWOGZVblZXdW1vTGJta25OeGVVMUoxYm51enFneHo0VkpKeE1aOEczNUNYVmpGVVdkajh5SkFYRWtWRWZHLUdwSS1OTzZkOWFNeDVpTkc4RXVxc3NmWkI5bzdTVU1YYk9XVGFYUXZTYkctOW9id29lMXFmemVpNjBuekxkUVdEVlVpMkRQVWVPekt0SE",
+  "date": "2026-10-26T10:55:05.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "815def6a83b9a68a",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "EndoCure turns a standard ultrasound into a robotic, AI-driven scanner - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yWk1mSktOaklpV3FhQm11SzdhcVdOeG11VUpHWlpUOWRDYld1NU5ndVFSa1RwaUJzLVFVeUYtamFteXEtR1B5bVZQbjNKY2pYWkxHWWVIOS05bkVyWVVoMGNvck9Pdlk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yWk1mSktOaklpV3FhQm11SzdhcVdOeG11VUpHWlpUOWRDYld1NU5ndVFSa1RwaUJzLVFVeUYtamFteXEtR1B5bVZQbjNKY2pYWkxHWWVIOS05bkVyWVVoMGNvck9Pdlk?oc=5\" target=\"_blank\">EndoCure turns a standard ultrasound into a robotic, AI-driven scann",
+  "date": "2026-10-26T10:32:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "03880150d89335e9",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "לאחר ירידות חזקות שבוע גורלי לעתיד ה-AI: דוחות של אלפאבית, אס קיי הייניקס, סלסטיקה ואקסט - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TWmxpU2ota1FqX0w0RGQ5RnV4bW9wLWxoT3g2NUJqYkdGclVwOW5nd1ZOQm9tV0EtMGhuWWo5YnFQNGNqUVlPSnZlaWNwaURZbno3Yjg5MjVvS0ktSEZfQUh3TzhUTmpNM0c2RzBMeTM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5TWmxpU2ota1FqX0w0RGQ5RnV4bW9wLWxoT3g2NUJqYkdGclVwOW5nd1ZOQm9tV0EtMGhuWWo5YnFQNGNqUVlPSnZlaWNwaURZbno3Yjg5MjVvS0ktSEZfQUh3TzhUTmpNM0c2RzBMeTM?oc=5\" target=\"_blank\">לאחר ירידות חזקות שבוע גורלי לעתיד ה-AI: דוחות של אלפאבי",
+  "date": "2026-10-26T10:24:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
  },
  {
   "source": "Israel Defense",
@@ -348,5 +634,27 @@
   "date": "2026-10-26T08:09:00.000Z",
   "fetched": "2026-10-26T15:03:12.331Z",
   "fromCloud": "2026-10-26T1503.json"
+ },
+ {
+  "id": "f5cca1b6cf28de25",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "הרמטכ\"ל רצה לסיים את המבצע בחברון, אך נתניהו וכץ דורשים שיימשך - הארץ",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWpZb1BUVVJtYjNqNm01MzVpU2ExbUlJYVdGQWx4d3B3aENEZExSbEU5bVhrbGRoRmx2MjBOaFl4RXUwSVk1cmhPa0JHOXZhb19sRVE4WFB0U3Z6VWJvQ2pPVmpaMGFyaWQ1bkNIN2FScmxESm11cTVNWHNOQ3pkOE1FY3hmaTdFbEFEVEVkSHIzRDQtOHhLU3dJeDlDZDZ6b25JanlSenBnMFlFOS1V?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWpZb1BUVVJtYjNqNm01MzVpU2ExbUlJYVdGQWx4d3B3aENEZExSbEU5bVhrbGRoRmx2MjBOaFl4RXUwSVk1cmhPa0JHOXZhb19sRVE4WFB0U3Z6VWJvQ2pPVmpaMGFyaWQ1bkNIN2FScmxESm11cTVNWHNOQ3pkOE1FY3hmaTdFbEFEVEVkSHIzRDQtOHhLU3dJeDlDZDZ6b25JanlSenBnMF",
+  "date": "2026-10-25T21:02:00.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
+ },
+ {
+  "id": "8db036d626862fa8",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "מכה לקבלנים: עשרות אלפי דירות מחכות - והמחירים ממשיכים לרדת - מעריב",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zVm9VVGpLSzZYdDNsSmh5YmEybWlOMjJQbTVCLXBVWVZ3bWlLUU9vSkZ6UzBhcndEZjJuNzRSVV9udF9HWXZiMHdJeTAyNzJ4V0k0VlpqY0wybzhub01QZ25xWE9VdEtwSlFB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5zVm9VVGpLSzZYdDNsSmh5YmEybWlOMjJQbTVCLXBVWVZ3bWlLUU9vSkZ6UzBhcndEZjJuNzRSVV9udF9HWXZiMHdJeTAyNzJ4V0k0VlpqY0wybzhub01QZ25xWE9VdEtwSlFB?oc=5\" target=\"_blank\">מכה לקבלנים: עשרות אלפי דירות מחכות - והמחירים ממשיכים לרדת</a>",
+  "date": "2026-10-25T15:51:55.000Z",
+  "fetched": "2026-10-26T15:33:16.074Z",
+  "fromCloud": "2026-10-26T1533.json"
  }
 ]
