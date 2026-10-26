@@ -74,5 +74,5 @@ jobs:
           git add data state/daily tools/numbers-manual.json 2>/dev/null || true
           git diff --cached --quiet && exit 0
           git commit -qm "daily $(date +%F\ %H:%M)"
-          for i in 1 2 3 4; do git pull --rebase -q "https://x-access-token:${GH_PUSH}@github.com/${GITHUB_REPOSITORY}.git" main && git push -q "https://x-access-token:${GH_PUSH}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main && exit 0; sleep 7; done
+          for i in 1 2 3 4; do git pull --rebase --autostash -q "https://x-access-token:${GH_PUSH}@github.com/${GITHUB_REPOSITORY}.git" main && git push -q "https://x-access-token:${GH_PUSH}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main && exit 0; sleep 7; done
           exit 1

@@ -70,8 +70,8 @@ jobs:
           rm -f tools/judge-prompt.txt tools/verify-prompt.txt
           git config user.name "FinPulse bot"
           git config user.email "bot@users.noreply.github.com"
-          git add state/judge state/batches.json data/today.json data/verdicts.json logs/process.csv 2>/dev/null || true
+          git add -A queue state/judge state/batches.json data/today.json data/verdicts.json logs/process.csv 2>/dev/null || true   # queue: old batch files the cleanup removed
           git diff --cached --quiet && exit 0
           git commit -qm "judge $(date +%F\ %H:%M)"
-          for i in 1 2 3 4; do git pull --rebase -q && git push -q && exit 0; sleep 7; done
+          for i in 1 2 3 4; do git pull --rebase --autostash -q && git push -q && exit 0; sleep 7; done
           exit 1
