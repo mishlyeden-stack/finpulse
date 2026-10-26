@@ -2196,5 +2196,12 @@
   "first": 1793009146088,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "Node2Shell | פגיעות Brotli קריטית — עדכון דחוף ל-Node.js, .NET, Python | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793012579648,
+  "sentLive": false,
+  "candidate": true
  }
 ]

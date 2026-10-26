@@ -54,5 +54,9 @@
  "ynet.co.il": {
   "ok": 2,
   "blocked": 0
+ },
+ "securityweek.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }
