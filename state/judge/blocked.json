@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 9,
+  "ok": 11,
   "blocked": 0
  },
  "calcalist.co.il": {
@@ -28,7 +28,7 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 0
  },
  "themarker.com": {
@@ -46,5 +46,13 @@
  "ft.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "ecb.europa.eu": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "ynet.co.il": {
+  "ok": 1,
+  "blocked": 0
  }
 }
