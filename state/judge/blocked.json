@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 6
+  "blocked": 7
  },
  "en.globes.co.il": {
   "ok": 2,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -64,6 +64,10 @@
   "blocked": 1
  },
  "datacenterdynamics.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "funder.co.il": {
   "ok": 0,
   "blocked": 1
  }
