@@ -53,3 +53,7 @@ Signal חוזר נשלח רק בהתפתחות מהותית שמשנה את הה
 | S-20261025-03 | בנק ישראל \| תחזית מקרו אוקטובר: צמיחה 3.4% (↓ מ-4.0%), ריבית 3.0% עד סוף 2026, גירעון 4.4% \| 21.10.2026 | https://www.funder.co.il/article/212480 | Daily 25.10 (כדאי לדעת) | התפתחות על S-20261021-01 | 📰 |
 | S-20261025-Rbb31 | נפט ברנט \| קפיצה מעל 116 דולר — החות'ים מאיימים על ארמקו \| אוקטובר 2026 | https://www.bizportal.co.il/energy/news/article/20046093 | Live RSS 2026-10-25 09:30 | — | 🔴 |
 | S-20261025-R9b21 | שבוע ריבית + דוחות ענק \| מיקרוסופט, גוגל, אמזון + החלטת ריבית \| אוקטובר 2026 | https://www.globes.co.il/news/article.aspx?did=1001560643#utm_source=RSS | Live RSS 2026-10-25 17:18 | — | 🔴 |
+| S-20261026-01 | שקל/דולר \| היחלשות ל-3.116 לקראת בחירות 27.10 \| 26.10.2026 | https://www.globes.co.il/news/article.aspx?did=1001560674 | Daily 26.10 (כדאי לדעת) | — | 📰 |
+| S-20261026-02 | JPMorgan / ג'יימי דיימון \| 5 סיכונים + 30B$ הון עודף, בחינת עמידות ל-6% \| Q3 2026 | https://www.bizportal.co.il/globalmarkets/news/article/20046185 | Daily 26.10 (כדאי לדעת) | — | 📰 |
+| S-20261026-03 | Bloom Energy \| צמיחה 138% הכנסות + FCF מינוס 181M$ + מניה ירדה 11% \| Q3 2026 | https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/bloom-energy-s-138-prozent-revenue-surge-meets-a-181-million-cash-drain/70410767 | Daily 26.10 (כדאי להבין) | — | 🧠 |
+| S-20261026-04 | מיטרוניקס / קיבוץ יזרעאל \| פימי הציעה 200M שקל תמורת 50%, דילמת שליטה \| 10.2026 | https://www.globes.co.il/news/article.aspx?did=1001560728 | Daily 26.10 (כדאי לחשוב) | — | 🎓 |
