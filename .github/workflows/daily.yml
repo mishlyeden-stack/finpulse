@@ -1,0 +1,78 @@
+name: daily
+# FinPulse cloud Daily (from 25.10.2026): the morning brief for the site, Sun–Thu from 06:30, once a day (at most 2 tries).
+# Eden's own Claude subscription via the official Claude Code CLI (CLAUDE_CODE_OAUTH_TOKEN). No API key, no mail from here.
+# Claude runs in /tmp/ws with read/write there only, web search/fetch, no shell. The checkout keeps no git credentials.
+# Clock: follows each `collect` run (Cloudflare). Rollback: state/judge/config.json "daily": false – the PC runs the Daily again.
+on:
+  workflow_run:
+    workflows: [collect]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'test run: ignores the window, writes only to state/daily/test (not the site)'
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: daily
+  cancel-in-progress: false
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      TZ: Asia/Jerusalem
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: due today?
+        id: due
+        env:
+          DAILY_FORCE: ${{ inputs.force && '1' || '0' }}
+        run: node tools/daily-cloud.mjs due
+      - uses: actions/setup-node@v4
+        if: steps.due.outputs.due == 'true'
+        with:
+          node-version: 22
+      - name: official Claude Code CLI (same version as the PC)
+        if: steps.due.outputs.due == 'true'
+        run: npm install -g --silent --no-fund --no-audit @anthropic-ai/claude-code@2.1.114 > /dev/null
+      - name: workspace (public material only; skill + context from secrets)
+        if: steps.due.outputs.due == 'true'
+        env:
+          DAILY_SKILL: ${{ secrets.DAILY_SKILL }}
+          RADAR_CONTEXT: ${{ secrets.RADAR_CONTEXT }}
+          RADAR_MAP: ${{ secrets.RADAR_MAP }}
+          MAIL_TEMPLATE: ${{ secrets.MAIL_TEMPLATE }}
+          DAILY_FORCE: ${{ inputs.force && '1' || '0' }}
+        run: node tools/daily-cloud.mjs prepare
+      - name: daily brief (Claude; only its last word is printed)
+        if: steps.due.outputs.due == 'true'
+        env:
+          TOK: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DISABLE_AUTOUPDATER: '1'
+          DISABLE_TELEMETRY: '1'
+        run: |
+          T="$(printf '%s' "$TOK" | tr -d '[:space:]')"
+          M="$(printf '%s' "$T" | grep -o 'sk-ant-oat[0-9]*-[A-Za-z0-9_-]*' | head -1 || true)"
+          [ -n "$M" ] && T="$M"
+          cd /tmp/ws
+          CLAUDE_CODE_OAUTH_TOKEN="$T" timeout 30m claude -p "/radar-daily מצב אוטומטי: לא לשאול שאלות, רק לכתוב קבצים." --settings /tmp/ws/settings.json --model sonnet > /tmp/daily-out.txt 2>&1 || echo "claude exit $?"
+          echo "last word: $(tail -n 1 /tmp/daily-out.txt | tr -cd 'A-Z' | cut -c1-10)"
+      - name: collect + commit
+        if: always() && steps.due.outputs.due == 'true'
+        env:
+          DAILY_FORCE: ${{ inputs.force && '1' || '0' }}
+          GH_PUSH: ${{ github.token }}
+        run: |
+          node tools/daily-cloud.mjs collect || true
+          git config user.name "FinPulse bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data state/daily tools/numbers-manual.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -qm "daily $(date +%F\ %H:%M)"
+          for i in 1 2 3 4; do git pull --rebase -q "https://x-access-token:${GH_PUSH}@github.com/${GITHUB_REPOSITORY}.git" main && git push -q "https://x-access-token:${GH_PUSH}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main && exit 0; sleep 7; done
+          exit 1

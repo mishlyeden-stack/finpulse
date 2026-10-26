@@ -134,6 +134,7 @@ if (MODE === 'fallback') {     // the cloud is stale: the PC takes over, exactly
   const cq = loadJSON(join(pilot.dir, 'queue.json'), []);
   if (cq.length) { const have = new Set(queue.map((i) => i.id)); queue.push(...cq.filter((i) => !have.has(i.id))); saveJSON(join(STATE, 'queue.json'), queue); saveJSON(join(pilot.dir, 'queue.json'), []); log(`take-over: ${cq.length} items from the cloud queue`); }
   for (const e of loadJSON(join(pilot.dir, 'events.json'), [])) if (!events.find((x) => x.key === e.key)) events.push(e);
+  syncDaily();
 }
 function takeInbox() {          // inbox items were already checked for duplicates where they came from → straight into the queue
   const dir = join(pilot.dir, 'inbox'); if (!existsSync(dir)) return;
@@ -175,7 +176,7 @@ if (MODE === 'sync') {         // the cloud owns the layer: hand over, mirror it
   }
   saveJSON(join(STATE, 'queue.json'), queue);
   try { unlinkSync(join(pilot.dir, 'local-claim.json')); } catch {}
-  mirrorCandidates(); sendCloudReds();
+  mirrorCandidates(); sendCloudReds(); syncDaily();
   try { const so = execFileSync(process.execPath, [join(RADAR, 'web', 'publish.mjs')], { windowsHide: true, timeout: 300000 }).toString(); if (/published/.test(so)) log('sync: phone page published'); } catch (e) { log('publish FAILED: ' + String(e.message).slice(0, 80)); }
   process.exit(0);
 }
@@ -342,6 +343,33 @@ function sendCloudReds() {              // 🔴 found in the cloud → Live mail
   }
   for (const [k, v] of Object.entries(reg)) if (Date.now() - v > 7 * 864e5) delete reg[k];
   saveJSON(REG, reg);
+}
+function syncDaily() {                  // cloud Daily → the local folder (local server, dedup log, manual numbers) + the mail from the PC
+  const today = new Date().toLocaleString('sv-SE').slice(0, 10), DD = join(REPORTS, 'יומי');
+  const cj = join(PAGES, 'data', `daily-${today}.json`);
+  if (existsSync(cj) && !existsSync(join(DD, `${today}.json`))) {
+    mkdirSync(DD, { recursive: true });
+    writeFileSync(join(DD, `${today}.json`), readFileSync(cj, 'utf8'), 'utf8');
+    for (const f of [`${today}.md`, `${today}-mail.html`]) { const s = join(PAGES, 'state', 'daily', f); if (existsSync(s)) writeFileSync(join(DD, f), readFileSync(s, 'utf8'), 'utf8'); }
+    const mf = join(DD, `${today}-mail.html`);
+    if (existsSync(mf)) execFile('powershell.exe', ['-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', join(RSS, 'send-mail.ps1'), '-MailFile', mf, '-Normal'], { windowsHide: true },
+      (err) => log(err ? `daily mail FAILED: ${err.message.slice(0, 80)}` : 'daily mail sent (cloud Daily)'));
+    log(`cloud Daily ${today} copied${existsSync(mf) ? '' : ' (nothing to mail)'}`);
+  }
+  const sc = join(PAGES, 'state', 'daily', 'sent-cloud.md');
+  if (existsSync(sc)) {
+    const have = new Set(existsSync(SENT) ? readFileSync(SENT, 'utf8').split(/\r?\n/) : []);
+    const add = readFileSync(sc, 'utf8').split(/\r?\n/).filter((l) => l.startsWith('| S-') && !have.has(l));
+    if (add.length) appendFileSync(SENT, add.join('\n') + '\n', 'utf8');
+  }
+  const tn = join(PAGES, 'tools', 'numbers-manual.json'), ln = join(RADAR, 'web', 'numbers-manual.json');
+  try { if ((JSON.parse(readFileSync(tn, 'utf8')).updated || '') > (JSON.parse(readFileSync(ln, 'utf8')).updated || '')) writeFileSync(ln, readFileSync(tn, 'utf8'), 'utf8'); } catch {}
+  // no cloud Daily by 09:15 on a workday → the PC writes it, exactly as before (run-radar.ps1 has its own once-a-day lock)
+  const d = new Date(), min = d.getHours() * 60 + d.getMinutes();
+  if (pilot.cfg.daily === true && d.getDay() <= 4 && min >= 9 * 60 + 15 && !existsSync(cj) && !existsSync(join(DD, `${today}.json`))) {
+    spawn('powershell.exe', ['-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', join(RADAR, 'run-radar.ps1'), '-Mode', 'morning', '-Force'], { detached: true, stdio: 'ignore', windowsHide: true }).unref();
+    log('no cloud Daily by 09:15 – the PC writes it');
+  }
 }
 
 // ---------- verification helpers ----------

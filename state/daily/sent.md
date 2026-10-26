@@ -1,0 +1,55 @@
+# נשלחו: מניעת כפילויות
+
+כל Signal שהגיע לעדן, בכל ערוץ (Live, Daily, Weekly). כל סריקה בודקת כאן **לפי קישור ולפי אירוע** לפני שליחה.
+Signal חוזר נשלח רק בהתפתחות מהותית שמשנה את ההבנה, את רמת החשיבות או את ההשפעה.
+
+| מזהה | מפתח אירוע (מי \| מה \| מתי) | קישורים שנראו | ערוץ ותאריך שליחה | עדכונים | רמה |
+|---|---|---|---|---|---|
+| S-20261016-01 | בריטניה + 11 מדינות \| הגבלות סחר עם ההתנחלויות, סיכון התרחבות לחברות ובנקים \| 10.2026 | calcalistech.com/ctechnews/article/s1dbl0t00gx · inss.org.il/he/?p=55769 · finance.walla.co.il/item/3872658 | Daily 16.10 (טיוטה, לא נשלח במייל) | **18.10 13:00:** 60+ כלכלנים בכירים (פרנקל, אקשטיין, אבידן ועוד) פרסמו מכתב: סנקציות יפגעו בכל המשק — מועמד ל-Daily 18.10 | 📰 |
+| S-20261016-02 | אנבידיה, Nebius, Keystone \| גל השקעות בחוות שרתים בישראל \| מגמה 2025–2026 | eweek.com/news/nvidia-israel-investment · jpost.com/business-and-innovation/article-871239 | Daily 16.10 (טיוטה, לא נשלח במייל) | — | 📰 |
+| S-20261016-03 | בחירות לכנסת \| 27.10.2026, תקציב 2027 לא אושר \| 10.2026 | aljazeera.com/news/2026/7/12/... | Weekly 16.10 | INV-001 נסגרה | — |
+| S-20261016-04 | בנק ישראל \| ריבית 3.25%, החלטה הבאה 21.10.2026 \| 1.9.2026 | boi.org.il/en/communication-and-publications/press-releases/01-9-26-en · investing.com/economic-calendar/israeli-interest-rate-decision-592 | Weekly 16.10 | **ציפיית שוק (18.10): השארה ב-3.25% (קונצנזוס — Citi, Polymarket). הפחתה הבאה המשוערת: נובמבר 2026** | — |
+| S-20261016-05 | שקל/דולר \| היחלשות מ-2.81 (5/2026) ל-~3.08–3.10 \| 10.2026 | boi.org.il · mtfxgroup.com | Weekly 16.10 | — | — |
+| S-20261016-06 | ענף Pro AV \| מחירי ציוד עלו 10–20% (מכסים) \| 2025–2026 | avixa.org/explore/articles/tariff-challenges-av-industry · avnetwork.com | Weekly 16.10 | — | — |
+| S-20261016-07 | מטריקס ופורמולה \| תוצאות שיא ב-2026 \| H1 2026 | finviz.com/news/385171 · finanznachrichten.de/... | Weekly 16.10 | — | — |
+| S-20261017-01 | Proofpoint \| רוכשת את Varonis ב-6.3 מיליארד דולר, Take-Private \| 15.10.2026 | calcalistech.com/ctechnews/article/gzk6vlon8 · securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis · cyberscoop.com/proofpoint-acquires-varonis-systems-data-security | Daily 17.10 | — | 📰 |
+| S-20261017-02 | Nebius \| רוכשת Inferize הישראלית ב-100-150M$ (GPU idle optimization) \| 10.2026 | calcalistech.com/ctechnews/article/byzggtiqgx | Daily 17.10 | התפתחות על S-20261016-02 | 📰 |
+| S-20261017-03 | Super Micro \| 2.23B$ רווח ו-6.97B$ שריפת FCF ב-FY2026, CFO חדש Mark Long \| FY2026 | tikr.com/blog/super-micro-named-a-new-cfo-after-burning-nearly-7-billion-in-free-cash-flow | Daily 17.10 (Case) | — | 🎓 |
+| S-20261018-01 | תקציב המדינה \| קיצוץ 2.6 מיליארד שקל ממשרדים אזרחיים לרכש ביטחוני \| 10.2026 | ynet.co.il/economy/article/yokra14929059 · themarker.com/news/macroeconomics/2026-10-18/.premium/000001a1-4e7d-d1de-a3a5-7f7d93dd0000 | Daily 18.10 (כדאי לדעת) | **18.10 15:00:** TheMarker — זהו מימון ביניים; מקור חלופי יצא לפני סוף השנה (= ביטול אפשרי בנובמבר). תחבורה 423M, חינוך 354M, ביטחון לאומי 224M. מועמד ל-Daily 18.10 | 📰 |
+| S-20261018-02 | חשמל ומרכזי נתונים ישראל \| חיבור תחת מגבלות קיבולת \| 10.2026 | כלכליסט (Google News RSS) | Daily 18.10 (כדאי לדעת) | — | 📰 |
+| S-20261018-03 | שוק העבודה ישראל \| נתוני אבטלה מדליקים נורה אדומה \| 10.2026 | TheMarker (Google News RSS) | Daily 18.10 (כדאי לדעת) | — | 📰 |
+| S-20261018-04 | מטא \| תוצאות Q3 2026 — 61B$ הכנסות, כמעט אפס מזומן \| 10.2026 | ביזפורטל (Google News RSS) | Daily 18.10 (כדאי להבין) | — | 🧠 |
+| S-20261018-05 | באמבל \| מכירה ב-1.3B$ עם ירידת הכנסות 15%, מניה זינקה 130% \| 10.2026 | globes.co.il/news/article.aspx?did=1001559831 | Daily 18.10 (כדאי לחשוב) | — | 🎓 |
+| S-20261018-06 | ברקשייר האת'ווי \| עלתה 3% בשבוע ירידות — Defensive Stock \| 10.2026 | ביזפורטל (Google News RSS) | Daily 18.10 (כדאי להכיר) | — | 📰 |
+| S-20261018-Rdb7d | בנק ישראל \| החלטת ריבית השבוע \| אוקטובר 2026 | https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nVzlVQXZrZUdyOElSVnhXLTdtMEhsZmVqT3hDUFhoeWJ2NF9US21rdDdCc2pwZVJ6bGd3Qjl3UGxVRkhHOEphUWJKWUtwZXVa?oc=5 | Live RSS 2026-10-18 17:18 | — | 🔴 |
+| S-20261018-R7194 | תקציב המדינה \| העברת 2.6 מיליארד מהמשרדים לביטחון \| אוקטובר 2026 | https://news.google.com/rss/articles/CBMickFVX3lxTFAxUEZUb3FUOUVYaTFja3RLOExoZmJZdi10bEJib1M1ZnZHczhQYVNGWTJOSDM4am1TeUNWSGVfR1VaN3ZZVzdwWUEyMkpGR3NpTlB2RWJtMUNjZnJZTllSN2VTLVlfWGt1eUJmbWpCYTZGZw?oc=5 | Live RSS 2026-10-18 17:18 | התפתחות | 🔴 |
+| S-20261018-Raa2b | חשמל ומרכזי נתונים ישראל \| רשות החשמל \| אוקטובר 2026 | https://www.globes.co.il/news/article.aspx?did=1001559965#utm_source=RSS | Live RSS 2026-10-18 20:24 | התפתחות | 🔴 |
+| S-20261018-Rfe83 | רשות החשמל \| הגבלות חוות שרתים \| אוקטובר 2026 | https://www.globes.co.il/news/article.aspx?did=1001559965#utm_source=RSS | Live RSS 2026-10-18 20:25 | התפתחות | 🔴 |
+| S-20261019-01 | רשות החשמל \| מסגרת רגולטורית 200MW לכל מרכז נתונים \| 10.2026 | https://www.calcalistech.com/ctechnews/article/r13khzmnzg | Daily 19.10 (כדאי לדעת) | התפתחות על S-20261018-02, S-20261018-Raa2b, S-20261018-Rfe83 | 📰 |
+| S-20261019-02 | הלמ"ס \| צמיחה 3.7% H1 2026 — ייצוא מטה, ביטחון מעלה \| 10.2026 | https://www.calcalistech.com/ctechnews/article/6cja5gygt | Daily 19.10 (כדאי לדעת) | — | 📰 |
+| S-20261019-03 | AWS CFO ג'ון פלטון \| Payback period 3 שנים לתשתיות AI, backlog 500B$ \| 10.2026 | https://www.digitaltoday.co.kr/en/view/116001/aws-cfo-ai-spending-sustainable-server-investment-recouped-within-three-years | Daily 19.10 (כדאי להבין) | — | 🎓 |
+| S-20261019-04 | ג'ונסון אנד ג'ונסון \| רווח 9 סנט למניה vs 2.12$ — הסדר טלק 5.5B$ \| Q3 2026 | https://www.bizportal.co.il/globalmarkets/news/article/20045071 | Daily 19.10 (כדאי לחשוב) | — | 🎓 |
+| S-20261019-05 | בנק ישראל \| הוועדה המוניטרית — מבנה, תהליך, פרוטוקולים \| — | https://www.boi.org.il/en/monetary-policy/monetary-committee/ | Daily 19.10 (כדאי להכיר) | רקע לקראת החלטת ריבית 21.10 | 📰 |
+| S-20261019-R73f1 | נפט \| תקיפות הורמוז ורוסיה \| אוקטובר 2026 | https://www.bizportal.co.il/globalmarkets/news/article/20045151 | Live RSS 2026-10-19 09:21 | — | 🔴 |
+| S-20261020-01 | שווקים \| פיצול ת"א/וול סטריט + ריבית בנק ישראל מחר \| אוקטובר 2026 | https://www.maariv.co.il/economy/israel/article-1378772 | Daily 20.10 (כדאי לדעת) | ת"א +4%, נאסד"ק -5.5%, ארביטראז' שלילי 7-8% בדואליות | 📰 |
+| S-20261020-02 | Fortinet \| APT תקפה חברת טלקום, PeerStitch memory-only implant, CVE-2025-61624 \| אוקטובר 2026 | https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/ | Daily 20.10 (כדאי להבין) | — | 🎓 |
+| S-20261020-03 | רשות המסים \| רווחים כלואים 6%→8%, ביטול שטר 200, מס רכוש \| אוקטובר 2026 | https://www.globes.co.il/news/article.aspx?did=1001560013 | Daily 20.10 (כדאי לדעת) | — | 📰 |
+| S-20261020-04 | פלאפון \| רכישת וויקום 265 מיליון שקל — MVNO על רשת סלקום \| אוקטובר 2026 | https://www.calcalist.co.il/market/article/rjfbuom3fl | Daily 20.10 (כדאי לחשוב) | התפתחות על S-20261020-01 (telecom sector) | 🎓 |
+| S-20261020-05 | דואלי-רישום \| ארביטראז' וסנכרון שווקים — מושג \| — | https://www.maariv.co.il/economy/israel/article-1378772 | Daily 20.10 (כדאי להכיר) | — | 📰 |
+| S-20261020-Rbf9d | בנק ישראל \| החלטת ריבית \| אוקטובר 2026 | https://www.ynet.co.il/economy/article/b1q4d5nnfx | Live RSS 2026-10-20 11:17 | התפתחות | 🔴 |
+| S-20261020-Ra237 | בנק ישראל \| ציפיות ריבית + ציפיות אינפלציה \| אוקטובר 2026 | https://www.ice.co.il/finance/news/article/1134359 | Live RSS 2026-10-20 15:34 | — | 🔴 |
+| S-20261021-01 | בנק ישראל \| ריבית 3.25% ללא שינוי + תחזית האטה בצריכה הפרטית \| 21.10.2026 | https://www.ynet.co.il/economy/article/r1kgrydobl | Daily 21.10 (כדאי לדעת) | התפתחות על S-20261016-04 | 📰 |
+| S-20261021-02 | RTX \| Q3 2026: EPS +33%, backlog שיא $340 מיליארד, הזמנות ביטחוניות $81 מיליארד ברבעון \| 20.10.2026 | https://www.investing.com/news/company-news/rtx-q3-2026-slides-33-eps-growth-record-340b-backlog-93CH-4960386 | Daily 21.10 (כדאי לדעת) | — | 📰 |
+| S-20261021-03 | Salesforce \| סוכני AI יצרו $88M pipeline מלידים שלא נענו, 400 עובדים שלא נגייסו \| 10.2026 | https://www.calcalistech.com/ctechnews/article/hyenkwz2ze | Daily 21.10 (כדאי להבין) | — | 🧠 |
+| S-20261021-04 | גאוזי \| מחיקת 98% + הזרמת $7M הצלה מהמנכ"ל המייסד, 50% הון \| 10.2026 | https://www.globes.co.il/news/article.aspx?did=1001559848 | Daily 21.10 (כדאי לחשוב) | — | 🎓 |
+| S-20261021-05 | Forward Guidance \| מושג: ניהול ציפיות על ידי בנק מרכזי \| — | https://www.funder.co.il/article/211282 | Daily 21.10 (כדאי להכיר) | — | 📰 |
+| S-20261021-Rbf9d | בנק ישראל \| החלטת ריבית \| אוקטובר 2026 | https://www.sadanews.ps/he/business/344772.html | Live RSS 2026-10-21 12:08 | התפתחות | 🔴 |
+| S-20261022-01 | OpenAI, Anthropic ועוד \| כניסה לישראל דרך שותפות מקומיות, פונות לבנקים/ממשלה/קופות \| 10.2026 | https://www.globes.co.il/news/article.aspx?did=1001560200 | Daily 22.10 (כדאי לדעת) | — | 📰 |
+| S-20261022-02 | AOMEI Backupper \| מתקפת שרשרת אספקה, backdoor ShinyRoad, IT וטלקום נפגעו \| 04–07.2026 | https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/ | Daily 22.10 (כדאי לדעת) | — | 📰 |
+| S-20261022-03 | Oxford Economics \| ארה"ב ללא AI — שאר הכלכלה שנתיים במיתון \| 10.2026 | https://www.cfo.com/news/minus-ai-investments-the-us-edges-toward-recession/833461/ | Daily 22.10 (כדאי להבין) | — | 🧠 |
+| S-20261022-04 | Dell CFO דייוויד קנדי \| תקצוב טוקנים AI כעלות ייעודית, מודלים מקומיים = עלות קבועה \| 10.2026 | https://siliconangle.com/2026/10/20/financial-services-ai-scale-dell-cfo-budgeting-tokens-dellnewyorksymposium/ | Daily 22.10 (כדאי לחשוב) | — | 🎓 |
+| S-20261025-01 | Comfort Systems USA \| Q3 2026: backlog 17.8B$ +90% YoY, 59% ממרכזי נתונים, super cycle, bottleneck = כח אדם \| 23.10.2026 | https://www.fool.com/earnings/call-transcripts/2026/10/23/comfort-systems-fix-q3-2026-earnings-call-transcript/ | Daily 25.10 (כדאי לדעת + כדאי לחשוב) | — | 🎓 |
+| S-20261025-02 | IBM \| Q3 2026: AI = 30% מהכנסות הייעוץ, ייעוץ flat (+1.8% CC), CFO מחזיר productivity gains לכלים דיגיטליים \| 21.10.2026 | https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS | Daily 25.10 (כדאי להבין) | — | 🧠 |
+| S-20261025-03 | בנק ישראל \| תחזית מקרו אוקטובר: צמיחה 3.4% (↓ מ-4.0%), ריבית 3.0% עד סוף 2026, גירעון 4.4% \| 21.10.2026 | https://www.funder.co.il/article/212480 | Daily 25.10 (כדאי לדעת) | התפתחות על S-20261021-01 | 📰 |
+| S-20261025-Rbb31 | נפט ברנט \| קפיצה מעל 116 דולר — החות'ים מאיימים על ארמקו \| אוקטובר 2026 | https://www.bizportal.co.il/energy/news/article/20046093 | Live RSS 2026-10-25 09:30 | — | 🔴 |
+| S-20261025-R9b21 | שבוע ריבית + דוחות ענק \| מיקרוסופט, גוגל, אמזון + החלטת ריבית \| אוקטובר 2026 | https://www.globes.co.il/news/article.aspx?did=1001560643#utm_source=RSS | Live RSS 2026-10-25 17:18 | — | 🔴 |
