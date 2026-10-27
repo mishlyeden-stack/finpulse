@@ -1,5 +1,93 @@
 [
  {
+  "id": "0717927e2bdd796c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Dana off-highway operations rebranded following Allison acquisition - Trucks, Parts, Service",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONVAzd00zVkVXR0RNY3cyeENRN0E3ZEZ4YTFST3IwV3JWR3BHakJCc3lIeXVtNXlpc0FveEgxTldTS3pjR1VPLVIycTcwbnJLbmxaRy1HYUhheFhxeFNIT0s5NlBCMWF5UHB2LWRFaEtWWEJHVlpfWFFRUTJNbGNmSXBhWEh1YkZtYmRyQWJnZVJDVmpSXzExYW5KNzhZcW8zM2o3TXlvd3dPaGRWd2t2RmN2eHZIOEZpUF8tZE1LZ2pON1pVUWNLMURoVktpQjBiYkR3LTNpMUtTa0k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxONVAzd00zVkVXR0RNY3cyeENRN0E3ZEZ4YTFST3IwV3JWR3BHakJCc3lIeXVtNXlpc0FveEgxTldTS3pjR1VPLVIycTcwbnJLbmxaRy1HYUhheFhxeFNIT0s5NlBCMWF5UHB2LWRFaEtWWEJHVlpfWFFRUTJNbGNmSXBhWEh1YkZtYmRyQWJnZVJDVmpSXzExYW5KNzhZcW8zM2o3TXlvd3dPaG",
+  "date": "2026-10-27T18:01:07.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
+  "id": "8102a7c326082d12",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Oracle will offer Google’s TPU AI chip via OCI",
+  "link": "https://www.datacenterdynamics.com/en/news/oracle-will-offer-googles-tpu-ai-chip-via-oci/",
+  "summary": "<p data-block-key=\"4hhz1\">Will be the first hyperscaler to offer Google’s TPU outside of Google</p>",
+  "date": "2026-10-27T17:57:17.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
+  "id": "8624396615f60cca",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Cottonwood Communities, Inc. (0001692951) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000200/0001692951-26-000200-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001692951-26-000200 <b>Size:</b> 163 KB <br>Item 3.02: Unregistered Sales of Equity Securities",
+  "date": "2026-10-27T17:56:56.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
+  "id": "b93a0ed2c995c101",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Westlake Securities Advises Watermark Commercial Contractors on Financing for Val-Chris Investments Acquisition - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOekhDWGk1anl1cmgtcUV3OHUxU3dBS3VYU214cUFjbnBtQUF2OUx5NHZXZmpzVjFoa1BsdnlRTUM5aFI1MnVlb0tmTlVnWlRxeDlKaFBBUDZxcTMzWG5NVlFBYmFYSFAxSWRacUJ4R01HeHF2aVBnUlBOWjJnOTFmb25VSkJTaHljTGRKX2xjNjhJME9ReWZYOWZfR3YyYml5eEpxS3hHOGpzYmlpQWxESU1SaHplSEV3N1l1cEducUdubFhqN2RiMEVFRFFGSXZlRXNIck9yT2JremlSUE1ndXh6LV8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOekhDWGk1anl1cmgtcUV3OHUxU3dBS3VYU214cUFjbnBtQUF2OUx5NHZXZmpzVjFoa1BsdnlRTUM5aFI1MnVlb0tmTlVnWlRxeDlKaFBBUDZxcTMzWG5NVlFBYmFYSFAxSWRacUJ4R01HeHF2aVBnUlBOWjJnOTFmb25VSkJTaHljTGRKX2xjNjhJME9ReWZYOWZfR3YyYml5eEpxS3hHOGpzYm",
+  "date": "2026-10-27T17:51:46.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
+  "id": "fa96267cdaad264f",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Israel records highest voter turnout since 1973 as spending surges on election day - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lN21tTUQ1UHZ0N2RiNHktamtKSnpCSW8tWHdBcmJrb1VpV0JaMF9PaVJtWnZpUThWQ2hFTnkzOVUzTjk1Slk5T0RlOGFuZUpPS1k0QTNGZnd3akNwYkJ5TE5OWGR1RHVj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lN21tTUQ1UHZ0N2RiNHktamtKSnpCSW8tWHdBcmJrb1VpV0JaMF9PaVJtWnZpUThWQ2hFTnkzOVUzTjk1Slk5T0RlOGFuZUpPS1k0QTNGZnd3akNwYkJ5TE5OWGR1RHVj?oc=5\" target=\"_blank\">Israel records highest voter turnout since 1973 as spending surges ",
+  "date": "2026-10-27T17:42:00.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
+  "id": "4aed0e3919ca8f0b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Boeing shares plunge on slower-than-expected 737 production, weaker free cash flow outlook By Reuters - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakxUbGM1TlRScGM4aF9sNzVZLUhJNW1wX0huNnFqS3I3b3NoVWlvZG5WbHVxMTlvMTUxQ1NQeGlBclQ4N2VOaWNrVHF2ejBRVEN3SXV3YXMxUVdPZ29jdWozQTU2XzUtZjRTR2tlaVpIbjYwRWljNFFTTWRjY1MyN1liX1VISnU1X2ZiX0lCQnoyZk4zLWx4OFFOdk5JbEY5MXNrNVlUU1BrVW15dkZvV3p3RFppLXhxMENWNFlFaE93Zw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakxUbGM1TlRScGM4aF9sNzVZLUhJNW1wX0huNnFqS3I3b3NoVWlvZG5WbHVxMTlvMTUxQ1NQeGlBclQ4N2VOaWNrVHF2ejBRVEN3SXV3YXMxUVdPZ29jdWozQTU2XzUtZjRTR2tlaVpIbjYwRWljNFFTTWRjY1MyN1liX1VISnU1X2ZiX0lCQnoyZk4zLWx4OFFOdk5JbEY5MXNrNVlUU1BrVW",
+  "date": "2026-10-27T17:36:34.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
+  "id": "5f667e5ba79c27b2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Narragansett Bancorp, Inc. (0002138186) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2138186/000119312526433652/0001193125-26-433652-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001193125-26-433652 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-27T17:33:57.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
+  "id": "852466590a6b1a7f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "How one CFO helped raise $53m in the private market - CFO Brew",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2RzN1VYaWJuWmRjejA3bDY4MVdwU2hKNWpfS2o1UUEwMU94THlkcGhJNmpGblVVY0k0NGotV2ROdE9sM3Z0MTZsUG9ZV0syRDlIN3AxajlCbnQ2d2NMaE83VGJyRDhrQmVJOWk4Z2o1OXhoT1hzSE9xd3JCWFZCSWhCVE55Q2dXQ1otdnVGdkdMZ1o2?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2RzN1VYaWJuWmRjejA3bDY4MVdwU2hKNWpfS2o1UUEwMU94THlkcGhJNmpGblVVY0k0NGotV2ROdE9sM3Z0MTZsUG9ZV0syRDlIN3AxajlCbnQ2d2NMaE83VGJyRDhrQmVJOWk4Z2o1OXhoT1hzSE9xd3JCWFZCSWhCVE55Q2dXQ1otdnVGdkdMZ1o2?oc=5\" target=\"_blank\">How one",
+  "date": "2026-10-27T17:32:22.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
   "id": "28283deeb26510fd",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -53,6 +141,28 @@
   "date": "2026-10-27T17:16:20.000Z",
   "fetched": "2026-10-27T17:33:13.522Z",
   "fromCloud": "2026-10-27T1733.json"
+ },
+ {
+  "id": "ccb8d1413678376c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Acquisition finance for buy-and-builds – a view from a debt advisor - Lewis Silkin",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblVKZ2xjNmM3V2lYMHliQzZDVnRxS010QWE4b28yOHhna3BBVlk4M05VMjRRQk1iNU5LX0lCQUVmV3dGSjBNbFBIRUxIdHIwS3FSMmR2aTlvVXpTcEJNV0RvejhUTGxZMU9qLUZhdG15UVhXSmwwbjFzN1BPdnNUYkZSYmhRaFFwLVhQUVF1dHd4MG93VF9KcllxUmFsU2JlOGF2T0N1ZUpxM1JKN1NhbmtReFMtRXozSlF6aG13?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNblVKZ2xjNmM3V2lYMHliQzZDVnRxS010QWE4b28yOHhna3BBVlk4M05VMjRRQk1iNU5LX0lCQUVmV3dGSjBNbFBIRUxIdHIwS3FSMmR2aTlvVXpTcEJNV0RvejhUTGxZMU9qLUZhdG15UVhXSmwwbjFzN1BPdnNUYkZSYmhRaFFwLVhQUVF1dHd4MG93VF9KcllxUmFsU2JlOGF2T0N1ZUpxM1",
+  "date": "2026-10-27T17:13:54.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
+  "id": "484d5d899888d401",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Acquisition finance – the lender's view: accordion or committed facility? - Lewis Silkin",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUG9mSjZHcWJSMFZKMFB6dDQ2RUw5bEpWUzdIQ0lDdkdlcS13bjlETWwtdUZVYlQzOWNOekx1bVBZZkVTNUM4QVBmZW9PRWFKWUdCdkhPTHg2dUNhYjdmdk9ycmozY1ZkWUpCQXQtY3RleHFTODNRSGtIclFUNmFVM1J2S0FVSm1kYzlxUWo1LWkyTVpqSmRWUGptRWRfVkduQVFVUEVFOFRzNXdOeVFoMGRpM3R5VHRuWDU4QXNDcnhaZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUG9mSjZHcWJSMFZKMFB6dDQ2RUw5bEpWUzdIQ0lDdkdlcS13bjlETWwtdUZVYlQzOWNOekx1bVBZZkVTNUM4QVBmZW9PRWFKWUdCdkhPTHg2dUNhYjdmdk9ycmozY1ZkWUpCQXQtY3RleHFTODNRSGtIclFUNmFVM1J2S0FVSm1kYzlxUWo1LWkyTVpqSmRWUGptRWRfVkduQVFVUEVFOFRzNX",
+  "date": "2026-10-27T17:13:54.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
  },
  {
   "id": "0a6ee5599511f6a7",
@@ -165,6 +275,17 @@
   "fromCloud": "2026-10-27T1703.json"
  },
  {
+  "id": "54b0910d5f302bd3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "High-performing talent acquisition across 18 countries for a global life sciences leader. - Kelly Services",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSG5TUFozY01NZlZBSVN0OTdlNnFCTFd5dHFEME53NV9pTU1teDAwUG9fWUxDSUdvZk9iYjZVaXd5Z0xUYVRIRllobW5qSU9QcGZwdXJ3eUF5VkJNT1RHenNCTllVQ2M5QXU4ZXhqQ0hhbEd5TFVQZ2xMd3VpbTN4SlJZcjYwVlpxRzVyaTMzWFFPc3RVSzB0R19Hc3loX3Z6NExqZ2tTcUVxSC03eXdBTXNzWjdJakozSFdHLWl3VU1rVVVhaHdR0gHXAUFVX3lxTE8xaXBrbVdvYmRiQTgtdi1jV3JSbG9wVVlmN3FHZWlkMkk4akVkVlYwLTlvc29ZZ0ltTE9CUW5DUG5XenBKSURlTjFvUVR6X2xuSlduUERydlJWZ0UzMFpDT2YtNm9tMldCaDhyWW92a2lac3ZfZFlYcEJDWDlVUlFUaWR4SC1LU0kxS2hSTmZmZGdTVDNkRFltc09JRVRzUi14a2EtckVuZkpNZ0pZeVRUdDMyZ0hrNUhiYld6RkcyTTVfd1dneVkwMVZoeXVCejY1ZnFDTXJz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSG5TUFozY01NZlZBSVN0OTdlNnFCTFd5dHFEME53NV9pTU1teDAwUG9fWUxDSUdvZk9iYjZVaXd5Z0xUYVRIRllobW5qSU9QcGZwdXJ3eUF5VkJNT1RHenNCTllVQ2M5QXU4ZXhqQ0hhbEd5TFVQZ2xMd3VpbTN4SlJZcjYwVlpxRzVyaTMzWFFPc3RVSzB0R19Hc3loX3Z6NExqZ2tTcUVxSC",
+  "date": "2026-10-27T16:51:02.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
   "id": "bd2b5baaca3560d1",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -253,6 +374,17 @@
   "fromCloud": "2026-10-27T1633.json"
  },
  {
+  "id": "e820eb0a3ae479d4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of medondo holding AG – XETR:AMI0 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVBmejM4NUxIU2s0ajFlZC1EWF9JNkxCOFd0amxnOHNMaGN1Wl80aTBQcGtfaF9uU1VqOHNxRUFVaEhZbzBzclQzOG9BRjRxOXNvMVdESzFkS01Zd0t4UXluZmNHZGtPSklWcE53Q2RVM1gyRVEtODNESlFZYnR6QmN2ODdGZnJKWGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVBmejM4NUxIU2s0ajFlZC1EWF9JNkxCOFd0amxnOHNMaGN1Wl80aTBQcGtfaF9uU1VqOHNxRUFVaEhZbzBzclQzOG9BRjRxOXNvMVdESzFkS01Zd0t4UXluZmNHZGtPSklWcE53Q2RVM1gyRVEtODNESlFZYnR6QmN2ODdGZnJKWGc?oc=5\" target=\"_blank\">Free cash flow of me",
+  "date": "2026-10-27T16:11:51.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
   "id": "12dbf7e9025b7471",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -284,6 +416,17 @@
   "date": "2026-10-27T16:02:27.000Z",
   "fetched": "2026-10-27T16:03:14.275Z",
   "fromCloud": "2026-10-27T1603.json"
+ },
+ {
+  "id": "fb0ce43dd7f68d5c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AI Applications in Talent Management: Talent Acquisition and Employee Mobility | Cornell University, ILR School - Brian Heger",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzcxbVJoSDBuZmF4MnpaNjQtUDRVS1pQVjJ0QUdGZU1uVDE1aktBV1c3a1pScUktTGlpNDZiYVRKdkFmZEFMZWlrdW9zdjJRS2w3NEktWmpqTE1DUVhOU0JSUTMxX21JLVVwTWNVOVBRdFZMUW1iT01YckJJd0lxaWFuaGlIYW8taGo3NENBTlRxZDZwWFZTQk9XS3A0YnhsUHpVSzhMYW9FR1U0eTlwME1aNm9lYldSMlE1ZEtFSmVtREh5MlFPT2NYV3VXWXlO?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzcxbVJoSDBuZmF4MnpaNjQtUDRVS1pQVjJ0QUdGZU1uVDE1aktBV1c3a1pScUktTGlpNDZiYVRKdkFmZEFMZWlrdW9zdjJRS2w3NEktWmpqTE1DUVhOU0JSUTMxX21JLVVwTWNVOVBRdFZMUW1iT01YckJJd0lxaWFuaGlIYW8taGo3NENBTlRxZDZwWFZTQk9XS3A0YnhsUHpVSzhMYW9FR1",
+  "date": "2026-10-27T16:01:42.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
  },
  {
   "id": "da02eafef74c974b",
@@ -770,6 +913,17 @@
   "fromCloud": "2026-10-27T1503.json"
  },
  {
+  "id": "58b00e033c091c70",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Distribution Solutions Group Expands Maintenance Supplies Business with Winzer Acquisition - Distribution Strategy Group",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREl2OFo5YTl3MlhPbEQ2eGhpS0hlSTJ5NWVnSHlKQ2Q2LWN4azFfemR0ZHViamNtUnZ3S0wwTFB0T01LWmlTQnNfbUgzV1Z4d1ZlRjBPWERlbmUyTVBIUHhuNGVVVnBSYlJrZEZFTE9fbFFKanNsSld0NlJtRkdTU2ZOWGkzUVNqajhjdy11WTlzWWJFVDd5bldQeS1haXhkNXJrOXB6bVhScTZMbTZWZVpUUzNOTjlpOHdURFpKX3JTMm9UMUVTenBlQzM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPREl2OFo5YTl3MlhPbEQ2eGhpS0hlSTJ5NWVnSHlKQ2Q2LWN4azFfemR0ZHViamNtUnZ3S0wwTFB0T01LWmlTQnNfbUgzV1Z4d1ZlRjBPWERlbmUyTVBIUHhuNGVVVnBSYlJrZEZFTE9fbFFKanNsSld0NlJtRkdTU2ZOWGkzUVNqajhjdy11WTlzWWJFVDd5bldQeS1haXhkNXJrOXB6bVhScT",
+  "date": "2026-10-27T14:57:37.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
   "id": "4a53cd069e084991",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1056,6 +1210,17 @@
   "fromCloud": "2026-10-27T1733.json"
  },
  {
+  "id": "12ad96927147d440",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Automated tilt-series acquisition and high-tilt in situ holders push atomic-resolution electron tomography toward quantitative 3D interface characterization - EurekAlert!",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41ZVFDWDNjT3JKWi0xMXNoaTJ1SGFxcmJnS1hGNGVzOW5TX3JEMHF3TE5Zak5QQVNrbnNKWXJEZGM4SFJvcGMybTVaSGhqb3ZzeFd2Z0Q5X0VsM3F1?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE41ZVFDWDNjT3JKWi0xMXNoaTJ1SGFxcmJnS1hGNGVzOW5TX3JEMHF3TE5Zak5QQVNrbnNKWXJEZGM4SFJvcGMybTVaSGhqb3ZzeFd2Z0Q5X0VsM3F1?oc=5\" target=\"_blank\">Automated tilt-series acquisition and high-tilt in situ holders push atomic-resolut",
+  "date": "2026-10-27T14:20:38.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
   "id": "5882c31b2da77977",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1210,6 +1375,17 @@
   "fromCloud": "2026-10-27T1503.json"
  },
  {
+  "id": "a8393574057863db",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Dirty tricks and Maga theatrics shake up bruising battle for Texas Senate",
+  "link": "https://www.ft.com/content/e9475864-d8ae-401e-8a3e-e3a7fa75f0c1?syn-25a6b1a6=1",
+  "summary": "Scandal-prone Trump pick goes head-to-head with seminarian Democrat in race that could determine control of the upper house of Congress",
+  "date": "2026-10-27T11:00:08.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
+ },
+ {
   "id": "044b8b27dcf592a9",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1329,6 +1505,17 @@
   "date": "2026-10-26T19:41:45.000Z",
   "fetched": "2026-10-27T17:03:13.406Z",
   "fromCloud": "2026-10-27T1703.json"
+ },
+ {
+  "id": "8b23956c754e8210",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אמת C 1900.0 JAN מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1neDN5Q0xXQWJ1N3Byd0N3LVlzUGhyYjVMeXBfMFRac3Y1eVBkT0w3eTFCZnFvT0VaOUcwMUhGTU9uUVNkWlBsRFJyUjhkSURqdXhoMWlYMXlkd0gzZnpUcE0wWFE4c3pFTjlDcWc2QkwtVU9r?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1neDN5Q0xXQWJ1N3Byd0N3LVlzUGhyYjVMeXBfMFRac3Y1eVBkT0w3eTFCZnFvT0VaOUcwMUhGTU9uUVNkWlBsRFJyUjhkSURqdXhoMWlYMXlkd0gzZnpUcE0wWFE4c3pFTjlDcWc2QkwtVU9r?oc=5\" target=\"_blank\">אמת C 1900.0 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-10-26T19:41:45.000Z",
+  "fetched": "2026-10-27T18:03:14.618Z",
+  "fromCloud": "2026-10-27T1803.json"
  },
  {
   "id": "75d70bc80135f210",
