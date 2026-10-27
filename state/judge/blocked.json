@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 19
+  "blocked": 21
  },
  "en.globes.co.il": {
   "ok": 5,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 12
+  "blocked": 13
  },
  "13tv.co.il": {
   "ok": 0,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 6,
+  "ok": 7,
   "blocked": 0
  },
  "ice.co.il": {
@@ -132,7 +132,7 @@
   "blocked": 0
  },
  "cfo.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "cfodive.com": {
