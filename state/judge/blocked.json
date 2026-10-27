@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 17,
+  "ok": 18,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 9
+  "blocked": 11
  },
  "13tv.co.il": {
   "ok": 0,
@@ -148,6 +148,14 @@
   "blocked": 1
  },
  "tradingview.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "govconwire.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "news.chemnet.com": {
   "ok": 0,
   "blocked": 1
  }
