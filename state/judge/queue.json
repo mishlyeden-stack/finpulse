@@ -1,1 +1,134 @@
-[]
+[
+ {
+  "id": "01878a95a835d67a",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Esquire Financial Holdings, Inc. (0001531031) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1531031/000110465926118993/0001104659-26-118993-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001104659-26-118993 <b>Size:</b> 5 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-27T12:30:24.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "167195a8afd7ba31",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Securetech Innovations, Inc. (0001703157) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1703157/000101738626000149/0001017386-26-000149-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001017386-26-000149 <b>Size:</b> 1 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 3.03: Material",
+  "date": "2026-10-27T12:30:22.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "ec75bf0e4287f959",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Artiva Biotherapeutics, Inc. (0001817241) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1817241/000119312526432806/0001193125-26-432806-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001193125-26-432806 <b>Size:</b> 178 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 2.05: Cost Associated with Exit or Disposal Activities <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-27T12:30:06.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "9177e719c4561cee",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "יתרסק או יזנק? היכונו לרגע האמת של וול סטריט והמסחר בבינה מלאכותית - בעולם - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb25LMThiZ2tKSjZMWU9qMEN0OXp6VG9telN1MDZMRUVLT3pEOC1zVFlRblp0U1B4Zkt5ejNvZnhpUklkeWY0MXRyTWJOc054QTcyR1dHeE1wcGU2UHhOOERkNmRNLU0zQ19IaWg5blY3WldmbnBCZ2pLeThTQVVVUlp2RFpHZGtsYkZTYVpxMlZwMXdtVmN2a1VUb2tjZ3BYVnNXRkYwdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQb25LMThiZ2tKSjZMWU9qMEN0OXp6VG9telN1MDZMRUVLT3pEOC1zVFlRblp0U1B4Zkt5ejNvZnhpUklkeWY0MXRyTWJOc054QTcyR1dHeE1wcGU2UHhOOERkNmRNLU0zQ19IaWg5blY3WldmbnBCZ2pLeThTQVVVUlp2RFpHZGtsYkZTYVpxMlZwMXdtVmN2a1VUb2tjZ3BYVnNXRkYwdw?oc=",
+  "date": "2026-10-27T12:30:00.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "a44da8ba66be9634",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Form 4 One Group Hospitality: Nicole Thaung (CFO) For: 24 September - Investing.com Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXZIRTRBNWFleEp4TEZtRy03UlRGX2plQl9ZVmUzZ1NvSmdFbGFNVml6TEN5ZjVyNmNnZnIzVnJRMkZoTTYtMEFFYWhHbXhjWEFKcmJVWjNWSlEwdUNfbk1wcTVzZ3FwY0ZLd0t1ZDdGYW80SmhnRlB2NGFLaWIwak5ZelpTZkRYZjFkYkVXbFNBMjhVcm1lR2hwQWVOYjJsTHBJU3ZpWGdqN2lGbU5ZNWJnTXVFd0E1Y1pBOThSNmljdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXZIRTRBNWFleEp4TEZtRy03UlRGX2plQl9ZVmUzZ1NvSmdFbGFNVml6TEN5ZjVyNmNnZnIzVnJRMkZoTTYtMEFFYWhHbXhjWEFKcmJVWjNWSlEwdUNfbk1wcTVzZ3FwY0ZLd0t1ZDdGYW80SmhnRlB2NGFLaWIwak5ZelpTZkRYZjFkYkVXbFNBMjhVcm1lR2hwQWVOYjJsTHBJU3ZpWGdqN2",
+  "date": "2026-10-27T12:28:45.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "4410beea7210e11f",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "האוטובוס לא עצר בחצות - נתיב אקספרס תשלם - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ySEg0ZTFKWXUwYWV0cFAxYWZ3MG1scm5pVlZ1aHVvcktIZDY1eGZDcTdTQ1BXOVdKVW5MWGxzRkZySDlNVU01UUU3QTBKaXV6Mk9Pd25WV21sTHJGX3dlWnB6ZWFCN1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ySEg0ZTFKWXUwYWV0cFAxYWZ3MG1scm5pVlZ1aHVvcktIZDY1eGZDcTdTQ1BXOVdKVW5MWGxzRkZySDlNVU01UUU3QTBKaXV6Mk9Pd25WV21sTHJGX3dlWnB6ZWFCN1E?oc=5\" target=\"_blank\">האוטובוס לא עצר בחצות - נתיב אקספרס תשלם</a>&nbsp;&nbsp;<font color=",
+  "date": "2026-10-27T12:23:00.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "a581f1862962bd4b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "לבאנטה מכינה הצעה של כ-3 מיליון אירו על סיסוקו של מכבי ת\"א - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pMUpFS1FnWXVpX2Z3X1I4bEg0YnBWSUFLdGNuTGVtT2wyQ09CVTFBVFcwRXBybzZtc3EtQjdqQklXeEczbGUzeFJLSjRwR2EwTWJnMVlWNDg5akRPdWdjaG5IZl93QQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pMUpFS1FnWXVpX2Z3X1I4bEg0YnBWSUFLdGNuTGVtT2wyQ09CVTFBVFcwRXBybzZtc3EtQjdqQklXeEczbGUzeFJLSjRwR2EwTWJnMVlWNDg5akRPdWdjaG5IZl93QQ?oc=5\" target=\"_blank\">לבאנטה מכינה הצעה של כ-3 מיליון אירו על סיסוקו של מכבי ת\"א</a>&nbsp;&",
+  "date": "2026-10-27T12:19:00.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "38f0f3473407aeeb",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Putin speaks with Norwegian and Finnish leaders",
+  "link": "https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1",
+  "summary": "Call is first contact at this level in more than a year as Russia and Ukraine prepare for US-brokered peace talks",
+  "date": "2026-10-27T12:13:49.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "8fb31772d2a5fb66",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "iQSTEL outlines Ultranet acquisition and revenue targets - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkxzMkZ3UjlQWUdQdTc3Z3pBQ3p1QW5BdHRkR2w2Vm52RTNLWThhX3gxQ0UyeFdpeTF0NG5vZm5IUEVRc2hHeXk1VktuU3FZbHdOUERPVVpBMFZXU2FHUHh0QWw5R1J3MTQwVW5RX1paR1JNd1VmbXEyQ0lWSFlUYXlTbTlaMkR2MHVXeUJ3WHN3OW1ZeWpNSWlidUpmOXRTMTFxYy1VMnlYbC1YQmlNSmhEWEt3QQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkxzMkZ3UjlQWUdQdTc3Z3pBQ3p1QW5BdHRkR2w2Vm52RTNLWThhX3gxQ0UyeFdpeTF0NG5vZm5IUEVRc2hHeXk1VktuU3FZbHdOUERPVVpBMFZXU2FHUHh0QWw5R1J3MTQwVW5RX1paR1JNd1VmbXEyQ0lWSFlUYXlTbTlaMkR2MHVXeUJ3WHN3OW1ZeWpNSWlidUpmOXRTMTFxYy1VMnlYbC",
+  "date": "2026-10-27T12:05:18.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "5fc088efc8d98843",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "iQSTEL (NASDAQ: IQST) Executives Discuss Path to $1 Billion Revenue, Ultranet Acquisition, and High-Margin Digital Services Expansion in Exclusive Interview - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNWDZOYTBOcmpYODNtaHZKQ2hsWEppeFZINERmQVdKOWlIcHZTUnNYVFRlQVhISXpnUVloOTZRdWM1Rk9vMnVZNVFmdHhPMC1aT3FkcHZZUTEzZk9teERNS3pDZzBEbGpqWm1QTWJ1VDdOeEZsZ2ZkVmN5R1B3aEVYY0dWUy1PV0tpck1iU0gxc1VOamV6U2s3NEZTb1M0Nm94MDEtV2hFZnJ4dlNWMFRCNTU3bnV6UHZ1d0d2QnhGem9DWWhTN2RicXFxMDVkN1l1NUlEZ0U0VlZ0bHZneGJZTFZkbE1tRGdiWkJ2WlhRekUwRktTYnBlYTkteUJ4TFd5ZGg5QWo4NXRGYm9XSU5zOVFfQTJiZVNzdEZUbjA1eW10VnpVVTU2Vm0wUUxrQ0FSamp3LS1CYUppSE5wV2ZiWTZtMXFJUTNlbnRV?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxNWDZOYTBOcmpYODNtaHZKQ2hsWEppeFZINERmQVdKOWlIcHZTUnNYVFRlQVhISXpnUVloOTZRdWM1Rk9vMnVZNVFmdHhPMC1aT3FkcHZZUTEzZk9teERNS3pDZzBEbGpqWm1QTWJ1VDdOeEZsZ2ZkVmN5R1B3aEVYY0dWUy1PV0tpck1iU0gxc1VOamV6U2s3NEZTb1M0Nm94MDEtV2hFZnJ4dl",
+  "date": "2026-10-27T12:00:42.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "aec49d7bfc2028d6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "TATACAP: Earnings rose as funding capacity expands and a gold-loan acquisition awaits approval - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTUZlaE0wUFdwUXZjZzdUQTMwN2FkZTZYZ2xQM0RfMjZBNWRUZVh4a2FSSWY4cXBaSDJ3ZVM5LUh4WUc4VE1HOEdMZnRiblFzZDZOM18wRU9SS19XMEttOGxOaHhrOWRMeHo4bTJYYUo1a1ZsQjNraW53LVBCNk5hdnUzY0JrSHdmdnExMTQxQjQwdjJWalp6NFg0V1VVR1hYeTNvcjdESlBZaENHUkE1RHotNWU3dy15d29ma1U4VklmVXNQb0JRbnVVSExiRFFVZ0s0OE12cDdmbmhtVF9kbnpFeWx6ZFhwbUJjUmFlanFmNUNIWllMamxSNlFqNXJJamptaVRGYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNTUZlaE0wUFdwUXZjZzdUQTMwN2FkZTZYZ2xQM0RfMjZBNWRUZVh4a2FSSWY4cXBaSDJ3ZVM5LUh4WUc4VE1HOEdMZnRiblFzZDZOM18wRU9SS19XMEttOGxOaHhrOWRMeHo4bTJYYUo1a1ZsQjNraW53LVBCNk5hdnUzY0JrSHdmdnExMTQxQjQwdjJWalp6NFg0V1VVR1hYeTNvcjdESlBZaE",
+  "date": "2026-10-27T11:53:10.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ },
+ {
+  "id": "160a31cbf04bdf2a",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "‘Hold course and adapt as you go’: An interview with Manon van Beek",
+  "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek",
+  "summary": "As she prepares to step down, the CEO of leading European grid operator TenneT reflects on scaling energy infrastructure, navigating geopolitical shocks, and building resilience amid uncertainty.",
+  "date": "2026-10-27T00:00:00.000Z",
+  "fetched": "2026-10-27T12:33:12.724Z",
+  "fromCloud": "2026-10-27T1233.json"
+ }
+]
