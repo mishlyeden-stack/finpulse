@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "numbers": [
     {
       "key": "cpi",
@@ -16,34 +16,34 @@
     {
       "key": "ta35",
       "label": "מדד ת״א 35",
-      "value": "4,124",
-      "change": "-1.01%",
-      "note": "נעילה 23.10",
+      "value": "4,206",
+      "change": "+1.99%",
+      "note": "נעילה 26.10",
       "source": "https://il.investing.com/indices/ta25-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-10-23",
+      "asOf": "2026-10-26",
       "maxAgeDays": 3
     },
     {
       "key": "il10y",
       "label": "אג״ח ממשלתי 10ש׳ ישראל",
-      "value": "4.03%",
-      "change": "",
-      "note": "נכון ל-23.10",
+      "value": "4.07%",
+      "change": "+0.04",
+      "note": "נכון ל-26.10",
       "source": "https://www.investing.com/rates-bonds/israel-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-10-23",
+      "asOf": "2026-10-26",
       "maxAgeDays": 5
     },
     {
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
-      "value": "4.96%",
-      "change": "-0.19",
-      "note": "נכון ל-22.10",
-      "source": "https://www.federalreserve.gov/releases/h15/",
-      "by": "Fed H.15",
-      "asOf": "2026-10-22",
+      "value": "4.99%",
+      "change": "+0.03",
+      "note": "נכון ל-26.10",
+      "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
+      "by": "Investing.com",
+      "asOf": "2026-10-26",
       "maxAgeDays": 3
     },
     {
@@ -70,10 +70,6 @@
     }
   ],
   "events": [
-    {
-      "date": "27.10",
-      "what": "בחירות לכנסת"
-    },
     {
       "date": "15.11",
       "what": "מדד המחירים לאוקטובר"
