@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 13,
+  "ok": 15,
   "blocked": 0
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 7
+  "blocked": 10
  },
  "en.globes.co.il": {
   "ok": 3,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 10,
+  "ok": 15,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 4
+  "blocked": 7
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,49 +33,89 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 5
  },
  "silicon.co.uk": {
   "ok": 1,
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 2,
+  "ok": 3,
   "blocked": 0
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 5
  },
  "ecb.europa.eu": {
   "ok": 1,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "ice.co.il": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "datacenterdynamics.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 4
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 1
  },
  "calcalistech.com": {
-  "ok": 2,
+  "ok": 3,
   "blocked": 0
  },
  "ptnow.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "localmemphis.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "bloomberg.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "fortworthinc.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "aviationweek.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "stocktwits.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "defensehere.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "seekingalpha.com": {
+  "ok": 0,
+  "blocked": 2
+ },
+ "investing.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "sadanews.ps": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "ifre.com": {
   "ok": 0,
   "blocked": 1
  }
