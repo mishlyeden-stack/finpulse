@@ -2350,5 +2350,145 @@
   "first": 1793074557573,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "מיקרוסופט | פרישה מרצון ל-60 אלף עובדים — 27% מכוח האדם | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793075885192,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | גזירות כלכליות אחרי הבחירות — דלק, חשמל, פנסיה ומסים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793075885192,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | אבטחת סוכני AI — פיתוח ישראלי, ראיון בכיר אנבידיה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793075885192,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | גמל וחיסכון חוזרים ל-S&P 500 — עצירת הסטה לישראל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793075885193,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "FedEx | החלפת CFO — מינוי Jamere Jackson | אוקטובר 2026",
+  "level": "learn",
+  "first": 1793076063977,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מרכזי נתונים | דילמת עלויות חשמל — ניווט בין ביצועים לעלות אנרגיה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076063978,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Holtec | מנשרן לשעבר זוכה ב-2.1 מיליון דולר בתביעת whistleblowing | אוקטובר 2026",
+  "level": "learn",
+  "first": 1793076063978,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ניוריאליטי | נרכשת על ידי Unconventional AI ב-105–200 מיליון דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076063978,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות המסים | חשד לשוחד ורמאות 80 מיליון שקל — תיק לפרקליטות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076063978,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלקטרה אפיקים | זכיה במכרז תחבורה ציבורית בנימין ומעלה אדומים — מיליארד שקל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076063978,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Generative Bionics | מפעל רובוטיקה ומרכז נתונים AI באיטליה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076063978,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Cooler Master | CDU קירור 2.5MW לשורה — מרכזי נתונים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076063978,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | פריצת תקציב ביטחוני מיד אחרי הבחירות — נתניהו, כ״ץ וסמוטריץ׳ | אוקטובר 2026",
+  "level": "red",
+  "first": 1793076276036,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "Target CFO | אמנות האפשרי — תוכנית היפוך ואסטרטגיה מבינלאומית | אוקטובר 2026",
+  "level": "learn",
+  "first": 1793076276036,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "PHP2Shell | ספקי ציוד תעשייתי בודקים פגיעויות — סימנס, שניידר, ABB | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076276036,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Big Tech | שבוע דוחות AI — אלפאבית, SK Hynix, סלסטיקה ואקסט | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076276036,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | משרד הביטחון — עסקת ספינות ניטור ל-קפריסין 150 מיליון יורו | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076276036,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ברזיל | ניצחון לולה — ירידות דו-ספרתיות בבורסה + השפעה על ישראל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076276036,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ישראל | עליות ערב בחירות + תגובה לסערת קריפטו | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076353527,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארמ״י ארה״ב | מכרז מעביר לנשק אוטונומי קל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793076353528,
+  "sentLive": false,
+  "candidate": true
  }
 ]
