@@ -5,19 +5,19 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 14
+  "blocked": 16
  },
  "en.globes.co.il": {
   "ok": 5,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 18,
+  "ok": 20,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 11
+  "blocked": 12
  },
  "13tv.co.il": {
   "ok": 0,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "ice.co.il": {
@@ -149,7 +149,7 @@
  },
  "tradingview.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "govconwire.com": {
   "ok": 0,
@@ -158,5 +158,13 @@
  "news.chemnet.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "avnetwork.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "prnewswire.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }
