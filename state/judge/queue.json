@@ -1,5 +1,192 @@
 [
  {
+  "id": "3e242f0a559b29c1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - AXDB 2026-MULT1 Mortgage Trust (0002158812) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2158812/000153949726002773/0001539497-26-002773-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001539497-26-002773 <b>Size:</b> 7 MB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-27T21:02:09.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "3221aa00379f4deb",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - OCEANFIRST FINANCIAL CORP (0001004702) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1004702/000100470226000122/0001004702-26-000122-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001004702-26-000122 <b>Size:</b> 5 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-27T21:02:09.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "cd411209a90298b9",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - FIRST BUSEY CORP /NV/ (0000314489) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/314489/000031448926000066/0000314489-26-000066-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0000314489-26-000066 <b>Size:</b> 7 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-27T21:01:31.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "ef868988d65a556e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - G-INFRA LP (0002060192) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2060192/000119312526434403/0001193125-26-434403-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001193125-26-434403 <b>Size:</b> 148 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events",
+  "date": "2026-10-27T21:00:46.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "03c186dc356a7ce2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - G-Private Equity LP (0002060316) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2060316/000119312526434402/0001193125-26-434402-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001193125-26-434402 <b>Size:</b> 143 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events",
+  "date": "2026-10-27T21:00:32.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "eff1136d7ebc34d6",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Virtuix Holdings Inc. (0001606242) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1606242/000121390026112953/0001213900-26-112953-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001213900-26-112953 <b>Size:</b> 225 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-27T21:00:29.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "25e6b65d4f2d2af1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Sunbelt Rentals Holdings, Inc. (0002083785) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2083785/000119312526434400/0001193125-26-434400-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001193125-26-434400 <b>Size:</b> 135 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-10-27T21:00:21.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "fae9895480cddab3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - First Carolina Financial Services, Inc. (0001531193) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1531193/000162828026067640/0001628280-26-067640-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001628280-26-067640 <b>Size:</b> 835 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-27T20:58:37.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "88962d710a36a46c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Visteon CFO Jerome Rouquet to depart, Myers named interim - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1FjTnQyNF9OT2M3enhlN1NKdkpmWGxJZFZiSlEyNkxpUUdDb3E3WnQxMDZuRmFOckNkWkp1QTRraE9CRXhRM0lLdDRKMnRXVzBRVVdyZHNfUHpzbUh0OGctWDR0UzNjTFk2aTdabUw4a1NscjR1eEFrRUlHV0QxWl9pSjNzTlBWY0lNZi1QSi1HaVpRam4zVVZHRWpXMWJ1SGZpbGNoaXQ4ZHJLeE5CWlJqYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1FjTnQyNF9OT2M3enhlN1NKdkpmWGxJZFZiSlEyNkxpUUdDb3E3WnQxMDZuRmFOckNkWkp1QTRraE9CRXhRM0lLdDRKMnRXVzBRVVdyZHNfUHpzbUh0OGctWDR0UzNjTFk2aTdabUw4a1NscjR1eEFrRUlHV0QxWl9pSjNzTlBWY0lNZi1QSi1HaVpRam4zVVZHRWpXMWJ1SGZpbGNoaXQ4ZH",
+  "date": "2026-10-27T20:58:08.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "c7c1d096a618d6da",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Antares Strategic Credit Fund (0001993402) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1993402/000119312526434386/0001193125-26-434386-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001193125-26-434386 <b>Size:</b> 160 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events",
+  "date": "2026-10-27T20:55:42.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "7aabcac9f8aa90db",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Fortune Brands Innovations, Inc. (0001519751) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1519751/000119312526434380/0001193125-26-434380-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001193125-26-434380 <b>Size:</b> 375 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-10-27T20:54:45.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "b03b4a4623751085",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - RENAISSANCERE HOLDINGS LTD (0000913144) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/913144/000091314426000096/0000913144-26-000096-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0000913144-26-000096 <b>Size:</b> 3 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-27T20:54:44.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "3312837c67d20d1a",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Seritage Growth Properties (0001628063) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1628063/000119312526434370/0001193125-26-434370-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001193125-26-434370 <b>Size:</b> 177 KB <br>Item 8.01: Other Events",
+  "date": "2026-10-27T20:52:54.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "cab03ab3a635aa57",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Commerce.com CFO & COO Daniel Lentz sells $2,885 in stock - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaFVsUTlxeWFHSUtZU080Qnh2bk05bjFqeFhrLWxvdzdaMUdCTTJtZkhONFBXNS05d25zbmRFT1RNdExsZ3FodzZQbHFTYW9FZWlOcV9faGM4WVdabzk0Y2RHeTl2dWZsSVBUMUlxOEZWNU5vX04xdDY4Tzg5c2VsSkhjU3pYNkdVZDRCQ0xJZzQ1c2FDU3BGTVFBeVlscGFiVm1jMUlrb1pKRTFCLWpzZFU2NHZZbWtDOGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOaFVsUTlxeWFHSUtZU080Qnh2bk05bjFqeFhrLWxvdzdaMUdCTTJtZkhONFBXNS05d25zbmRFT1RNdExsZ3FodzZQbHFTYW9FZWlOcV9faGM4WVdabzk0Y2RHeTl2dWZsSVBUMUlxOEZWNU5vX04xdDY4Tzg5c2VsSkhjU3pYNkdVZDRCQ0xJZzQ1c2FDU3BGTVFBeVlscGFiVm1jMUlrb1pKRT",
+  "date": "2026-10-27T20:51:43.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "6054283aca0fa91f",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "הזרעים נטמנו בבחירות הקודמות? כך התארגנו המפלגות הערביות להישג היסטורי",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561030#utm_source=RSS",
+  "summary": "הפיצול בבחירות 2022 דווקא החזיר מצביעים לקלפיות, אך גם הותיר קולות רבים מחוץ לכנסת &#8226; הפעם חד\"ש, תע\"ל ובל\"ד התאחדו, רע\"ם שמרה על עצמאותה - והתוצאה המסתמנת: כוח שיא למפלגות הערביות &#8226; המשרוקית של גלובס",
+  "date": "2026-10-27T20:51:00.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "1ff2eed9e3e7f849",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Nvidia Vera Rubin and Vera CPUs now generally available on Oracle",
+  "link": "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/",
+  "summary": "<p data-block-key=\"lb406\">And other AI hardware deployments soon to arrive</p>",
+  "date": "2026-10-27T20:41:25.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "9e4d75abe9c64330",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Israel faces political deadlock as Netanyahu and opposition set to struggle to form a government - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0T3dPQ01hcExJUmdIM3VWeVdvcE5XQ3h0YVJMVVhWdFFaUjk4ZjE5NHJ5ZzNkWDl6NlRidUFQcGphNW8xUmtERTZxU2hUWS1zYi1uajRlRW9vUnZZLWI1X0huVHozMEk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0T3dPQ01hcExJUmdIM3VWeVdvcE5XQ3h0YVJMVVhWdFFaUjk4ZjE5NHJ5ZzNkWDl6NlRidUFQcGphNW8xUmtERTZxU2hUWS1zYi1uajRlRW9vUnZZLWI1X0huVHozMEk?oc=5\" target=\"_blank\">Israel faces political deadlock as Netanyahu and opposition set to s",
+  "date": "2026-10-27T20:36:00.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
   "id": "ecf6efe455d1c1d1",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -99,6 +286,17 @@
   "fromCloud": "2026-10-27T2033.json"
  },
  {
+  "id": "3f1fee49781c6d89",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Unity And PvX Launch Partnership To Expand Access To User Acquisition Financing For Game Developers - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQzVXOTNZVWgyVXRkQlV6R3RyeEVxSWpvZXc0WU1QdGpEZEc4cnByOFBQOTY2X2twemlHY1NtNUlHREdBamtxLW9qaU05YnBkcnJWV0dsb3Badzg3a1BkYjdleEpuV2N5RW9jNUtZUGhZR2pLYlI1UFh6NVJjSTh1RzJsSU5MLUFkSVdwS3VwQzJlU3pudnRFWWpIdUpvZ0gxeUJoTk1XVUI0SWZKcnlMVV9xRDRnVmE1YmY3cWpmWW56Ri1RRExidkpTREYzbzRZMVg1aEVramtKbTBGVnotUlpFc2dfWjBpd3VlR2xCbjV1LVZjNWY3QXotd3RXZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQzVXOTNZVWgyVXRkQlV6R3RyeEVxSWpvZXc0WU1QdGpEZEc4cnByOFBQOTY2X2twemlHY1NtNUlHREdBamtxLW9qaU05YnBkcnJWV0dsb3Badzg3a1BkYjdleEpuV2N5RW9jNUtZUGhZR2pLYlI1UFh6NVJjSTh1RzJsSU5MLUFkSVdwS3VwQzJlU3pudnRFWWpIdUpvZ0gxeUJoTk1XVUI0SW",
+  "date": "2026-10-27T20:28:54.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
   "id": "7ffc7566e87de45b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -132,6 +330,17 @@
   "fromCloud": "2026-10-27T2033.json"
  },
  {
+  "id": "ba3660e1c1f3246f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Visteon names Colleen Myers as interim CFO as Jerome Rouquet departs - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOVpRXzhyUFRSOGNwYzRVNW9pUmI3YnJxdm40VU5sU2RGZm1HWXY5aVdGeVhrWU5QSnVES1NuZXhWX1EzY2RDSUlDT2kzWXQ0ZGxjSEt4Ml9pRTc3Tjl6LW1faG44cXZidUJXQVVfQ0l4a2cyVDBiaERWZW1RS2lUblU0RnQ4RGYyZ29GZG8wUS1RT2RhdTB2bXZmX1ZTNUsyQ05xWmNIV25vZmY0ZTRLazZ2cE5zRm8zVEFWaGdHOVV1Mnl1N3drUmlPZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQOVpRXzhyUFRSOGNwYzRVNW9pUmI3YnJxdm40VU5sU2RGZm1HWXY5aVdGeVhrWU5QSnVES1NuZXhWX1EzY2RDSUlDT2kzWXQ0ZGxjSEt4Ml9pRTc3Tjl6LW1faG44cXZidUJXQVVfQ0l4a2cyVDBiaERWZW1RS2lUblU0RnQ4RGYyZ29GZG8wUS1RT2RhdTB2bXZmX1ZTNUsyQ05xWmNIV25vZm",
+  "date": "2026-10-27T20:20:46.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
   "id": "745be77d8b7057ba",
   "source": "Financial Times",
   "group": "global-press",
@@ -152,6 +361,17 @@
   "date": "2026-10-27T20:15:00.000Z",
   "fetched": "2026-10-27T20:33:12.436Z",
   "fromCloud": "2026-10-27T2033.json"
+ },
+ {
+  "id": "ef49bb9fcdb2618e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Average basic shares outstanding of AFTERNEXT ACQUISITION I CORP. – NASDAQ:AFNXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1RqNW9pRTMzd192VWFISG1LbUVjdkxTb2tMVlhTcUxDSERhenA5aXhrMTFCaUxTNVB0bGFIdXYtNlY1dHdoRjBVV0VxN2dPZmJkdlowYnQyaGFOeDJIRURGRDhjb3c3TGFNV1ZiTDlsWldBX1AzRGtfTjV6dGVXUm9rVlVhaV85OE9qXzFpSWkxeHRxTkVCMGFkMU1NWHdGeTFuRw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1RqNW9pRTMzd192VWFISG1LbUVjdkxTb2tMVlhTcUxDSERhenA5aXhrMTFCaUxTNVB0bGFIdXYtNlY1dHdoRjBVV0VxN2dPZmJkdlowYnQyaGFOeDJIRURGRDhjb3c3TGFNV1ZiTDlsWldBX1AzRGtfTjV6dGVXUm9rVlVhaV85OE9qXzFpSWkxeHRxTkVCMGFkMU1NWHdGeTFuRw?oc=5\" t",
+  "date": "2026-10-27T20:14:18.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
  },
  {
   "id": "358e42800e980e8f",
@@ -185,6 +405,17 @@
   "date": "2026-10-27T20:02:29.000Z",
   "fetched": "2026-10-27T20:03:13.733Z",
   "fromCloud": "2026-10-27T2003.json"
+ },
+ {
+  "id": "81a421a4a79f85a1",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "Brooklyn College accounting prof seeks say in Trump civil fraud appeal",
+  "link": "https://www.cfodive.com/news/brooklyn-college-accounting-prof-seeks-say-trump-civil-fraud-appeal/872956/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/yNwoHT6EDz9Kaz16hThE1oX2-cN3-vCrInViAlqJXjM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODMxMjcxNzgxLmpwZw==.webp\"/></div></figure><p>Daniel Tinkelman, a tenured accounting professor, has ",
+  "date": "2026-10-27T20:01:43.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
  },
  {
   "id": "8a028b6890d04b30",
@@ -242,6 +473,17 @@
   "fromCloud": "2026-10-27T2003.json"
  },
  {
+  "id": "e7a3aa10c9f07488",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Price to sales forward of Oxley Bridge Acquisition Limited – NASDAQ:OBAWW - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXdYOW40NlVqN1pzUjdSRW5RYnBkc1ZYcG8tbjR6S0VyT1hwQXhEZ1A1NjMxamo1NUR1Ql80TE11LWlTY2hDWjdBa1pMMUFmaUhCR2wxWTRPVXRiaUo0NWo2NjdDV2xtdWtmRWlsd1VaSzZrM0dqbk5sMTQ5dm5jSzNSZlU4ZVJtUWhhNnlwWi1FLVkwaFR0UVcycFZVMXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXdYOW40NlVqN1pzUjdSRW5RYnBkc1ZYcG8tbjR6S0VyT1hwQXhEZ1A1NjMxamo1NUR1Ql80TE11LWlTY2hDWjdBa1pMMUFmaUhCR2wxWTRPVXRiaUo0NWo2NjdDV2xtdWtmRWlsd1VaSzZrM0dqbk5sMTQ5dm5jSzNSZlU4ZVJtUWhhNnlwWi1FLVkwaFR0UVcycFZVMXc?oc=5\" target=\"",
+  "date": "2026-10-27T19:55:21.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
   "id": "6be0584d2425f130",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -284,6 +526,17 @@
   "date": "2026-10-27T19:44:00.000Z",
   "fetched": "2026-10-27T20:03:13.733Z",
   "fromCloud": "2026-10-27T2003.json"
+ },
+ {
+  "id": "fe6667ef1446ec6a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Quartzsea Acquisition Corporation Estimates – NASDAQ:QSEAU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOel9SRVlVeGJWUGFualREVVlNLVV1NHlwdHc3MnlxcURuX0duSHZ3eVlmWXNnRHk5WFVxcGMzakQxeGhYdE1IZXFvTEZtN202VjZyb0RMZjhWSUxzUUdETkRxRTNxNVFjb25veGRHQVdEdHhvSXhLWVpn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBOel9SRVlVeGJWUGFualREVVlNLVV1NHlwdHc3MnlxcURuX0duSHZ3eVlmWXNnRHk5WFVxcGMzakQxeGhYdE1IZXFvTEZtN202VjZyb0RMZjhWSUxzUUdETkRxRTNxNVFjb25veGRHQVdEdHhvSXhLWVpn?oc=5\" target=\"_blank\">Quartzsea Acquisition Corporation Estimates",
+  "date": "2026-10-27T19:42:10.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
  },
  {
   "id": "aab5c7802e6f5a55",
@@ -374,6 +627,28 @@
   "fromCloud": "2026-10-27T2033.json"
  },
  {
+  "id": "6fbcff3b72911c63",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "VMware’s Bitnami acquisition grows its development portfolio - TechTarget",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXF2R3ZWcnlPalVub1pUVlN0ZnJaTVNQeWJULWo4MGFBVWxNRlJDVXllcjZpRXc4MEFUMjhpb3MwYlFPVW1YZE44U3AweUp6R0t5WlZuWVBtd01SY1lFSVJQczNYZnhtc3k0OWI4aVFIbUVlU3R5ZDE2emVmUENzZUVsa21iakFaT3RBRlp1T3dXQS10VUkyZ3dkNVR4WVZ3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORXF2R3ZWcnlPalVub1pUVlN0ZnJaTVNQeWJULWo4MGFBVWxNRlJDVXllcjZpRXc4MEFUMjhpb3MwYlFPVW1YZE44U3AweUp6R0t5WlZuWVBtd01SY1lFSVJQczNYZnhtc3k0OWI4aVFIbUVlU3R5ZDE2emVmUENzZUVsa21iakFaT3RBRlp1T3dXQS10VUkyZ3dkNVR4WVZ3?oc=5\" target=",
+  "date": "2026-10-27T19:00:00.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
+  "id": "f88077bc23096c59",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "A SPAC III Acquisition Corp. Estimates – BOATS:ASPCR - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pMlZLeGpuN0VIYTR4LTRlM0lpT0V3WFRzNmtHazVOTjg4T1BRQnBHV09Fd0JMbjlqbEZwVVNoRzlVa1lieENXcVU2TC1BNjhxM1lUalljMzdOeHVhRWpNb2JlcHBlRzRlSDhkQmpFQWZvYWlVdHNkXw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9pMlZLeGpuN0VIYTR4LTRlM0lpT0V3WFRzNmtHazVOTjg4T1BRQnBHV09Fd0JMbjlqbEZwVVNoRzlVa1lieENXcVU2TC1BNjhxM1lUalljMzdOeHVhRWpNb2JlcHBlRzRlSDhkQmpFQWZvYWlVdHNkXw?oc=5\" target=\"_blank\">A SPAC III Acquisition Corp. Estimates – BOAT",
+  "date": "2026-10-27T18:58:49.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
   "id": "068783339ce39cc4",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -416,6 +691,17 @@
   "date": "2026-10-27T18:53:00.000Z",
   "fetched": "2026-10-27T19:03:30.334Z",
   "fromCloud": "2026-10-27T1903.json"
+ },
+ {
+  "id": "094ec94eeba7ac13",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Basic earnings per share (basic EPS) of AFTERNEXT ACQUISITION I CORP. – NASDAQ:AFNXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3dvOUtIMnliYzIwMU9sbWtNeHBIdjBfaVc5YnZvN00tZjZtVEtBb2tFLXVPN2l0ZFprSlBQRUNoOURpZy1jUzFnajhmdmo0MEs5bXBvbmFmMk1PZXB0aUNNLUxHczRjaXNLTmtISEZaNWpaRkg5aVU0RmNHSjFBM210NEk1VEtjeEd1WDAwMkhCc3N3MVBYenA5dzNYWW5pNnZIaQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3dvOUtIMnliYzIwMU9sbWtNeHBIdjBfaVc5YnZvN00tZjZtVEtBb2tFLXVPN2l0ZFprSlBQRUNoOURpZy1jUzFnajhmdmo0MEs5bXBvbmFmMk1PZXB0aUNNLUxHczRjaXNLTmtISEZaNWpaRkg5aVU0RmNHSjFBM210NEk1VEtjeEd1WDAwMkhCc3N3MVBYenA5dzNYWW5pNnZIaQ?oc=5\" t",
+  "date": "2026-10-27T18:51:57.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
  },
  {
   "id": "78871da12c5e5186",
@@ -671,6 +957,17 @@
   "fromCloud": "2026-10-27T1903.json"
  },
  {
+  "id": "38670a3274e4ea3d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "US FCC approves Amazon Leo’s acquisition of Globalstar - MLex",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV21IMjNWamNxbUxONm9OcUxRbVFWaWgzT3JLeHhWc1JtTjdldThBeGR1YjVDUDRFcTM3UExPQlBIdXNjdkl2dVd3LUFkcklNbXdkbnZJUVg5aS0xakRBUzA5QWpRdTZrWWEwU3ZRU0xoNkZFQ0VzaXFPZDdpRFNWdHBzcWNHSXFTSHJaWHVSanBuVWpCTjNWNlVqNUJkS3pzT1MzaEtQYWRxMFNFVUNCejFyanJCWnpJMlHSAVpBVV95cUxQanJpQ09YMHBKd085MmtyeEFmRU9ublhzZzU1VUZKaTM5aHpDS1htVGJQalowR1JCdzZ4ekYtMHAzRkVoOXR3a2NwLXRfRjl1d2lZWGxRZTc3SlE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOV21IMjNWamNxbUxONm9OcUxRbVFWaWgzT3JLeHhWc1JtTjdldThBeGR1YjVDUDRFcTM3UExPQlBIdXNjdkl2dVd3LUFkcklNbXdkbnZJUVg5aS0xakRBUzA5QWpRdTZrWWEwU3ZRU0xoNkZFQ0VzaXFPZDdpRFNWdHBzcWNHSXFTSHJaWHVSanBuVWpCTjNWNlVqNUJkS3pzT1MzaEtQYWRxMF",
+  "date": "2026-10-27T18:15:03.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
   "id": "83708895f4ae2d5c",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -680,6 +977,17 @@
   "date": "2026-10-27T18:15:00.000Z",
   "fetched": "2026-10-27T18:33:12.121Z",
   "fromCloud": "2026-10-27T1833.json"
+ },
+ {
+  "id": "fd3716dfa644cc2c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Launch Two Acquisition Corp. Estimates – NASDAQ:LPBBW - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJVTJ5RXB3dEtwMTlBSU8xVnlfQy1TdmdkNGVqZHY5SEdXbHI5dGNrUXZXZ2RHYnFyMlZNNW5qUXRfY2NkQlV4V3FiTTM4RHpMUW14Z040RG8tYk1BbFNhcldINW1wY0ltTm5jd1hRcXVTRnVWang0SG5B?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBJVTJ5RXB3dEtwMTlBSU8xVnlfQy1TdmdkNGVqZHY5SEdXbHI5dGNrUXZXZ2RHYnFyMlZNNW5qUXRfY2NkQlV4V3FiTTM4RHpMUW14Z040RG8tYk1BbFNhcldINW1wY0ltTm5jd1hRcXVTRnVWang0SG5B?oc=5\" target=\"_blank\">Launch Two Acquisition Corp. Estimates – NA",
+  "date": "2026-10-27T18:14:10.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
  },
  {
   "id": "db77cab8642ce55a",
@@ -2431,6 +2739,17 @@
   "fromCloud": "2026-10-27T2003.json"
  },
  {
+  "id": "3a001020bfd4bb55",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "What AI can’t replace—and why it matters for value",
+  "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value",
+  "summary": "AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change with empathy helps leaders build trust, strengthen relationships, and get the most out of their AI investments.",
+  "date": "2026-10-27T00:00:00.000Z",
+  "fetched": "2026-10-27T21:03:11.764Z",
+  "fromCloud": "2026-10-27T2103.json"
+ },
+ {
   "id": "8fe7319a85703e0a",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -2449,17 +2768,6 @@
   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzRGlETGxXdmxmQ1R6VV9DSFpVWFo2bTBNdXcwTDB0THVnUXVpdzMwQ1hJdFhzNUZjeGJ1TnU5TEQxRTNWeTRpcjYwaC0yR09nSVltaW5kN18tdnBMbG5vMUNQVWNKSFdFSW9sTy1kRG9MYktQ?oc=5",
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBzRGlETGxXdmxmQ1R6VV9DSFpVWFo2bTBNdXcwTDB0THVnUXVpdzMwQ1hJdFhzNUZjeGJ1TnU5TEQxRTNWeTRpcjYwaC0yR09nSVltaW5kN18tdnBMbG5vMUNQVWNKSFdFSW9sTy1kRG9MYktQ?oc=5\" target=\"_blank\">אלע P 1875.0 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
   "date": "2026-10-26T22:38:52.000Z",
-  "fetched": "2026-10-27T20:03:13.733Z",
-  "fromCloud": "2026-10-27T2003.json"
- },
- {
-  "id": "84e376cfbddc122f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ITOCHU CORP. - עסקאות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EVEV4cG5vTnFHUlR6Q0paTVBtNkxZSHc3OEdxSnh0OFM0TEh2MU90cVVJM09JOTNmVXhJMGFYbDJEMUpsM2UwajNLVkFUVmtQSm5ldF9lMThzQ1luNm4zRmJPQ2d2ZjJmYUJwbmZn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5EVEV4cG5vTnFHUlR6Q0paTVBtNkxZSHc3OEdxSnh0OFM0TEh2MU90cVVJM09JOTNmVXhJMGFYbDJEMUpsM2UwajNLVkFUVmtQSm5ldF9lMThzQ1luNm4zRmJPQ2d2ZjJmYUJwbmZn?oc=5\" target=\"_blank\">ITOCHU CORP. - עסקאות</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-  "date": "2026-10-26T20:57:29.000Z",
   "fetched": "2026-10-27T20:03:13.733Z",
   "fromCloud": "2026-10-27T2003.json"
  }
