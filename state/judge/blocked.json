@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 16
+  "blocked": 19
  },
  "en.globes.co.il": {
   "ok": 5,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 21,
+  "ok": 22,
   "blocked": 0
  },
  "news.google.com": {
@@ -186,5 +186,9 @@
  "fortune.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "mckinsey.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
