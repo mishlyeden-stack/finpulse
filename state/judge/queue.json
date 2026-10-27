@@ -1,5 +1,38 @@
 [
  {
+  "id": "81046bae2cdf58f1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "TCW Steel City Arranges $115 Million Financing for Bernhard Capital’s Revenew Acquisition - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1pNSWdDVDNBdDJhTVk3ZkE2QVVPc3VuSDRsZnJVN3k5QWp3UG53cnlBeGlfeTNYWXZQTkhzTXdTejRqNGdxeENmVlZyZy1TSDd3cjJ4M3kzUVJNUXE1ZlZQWXk5Y0ZYSTZUS2ctQ2VuZnZ5MHZlRHFqeHJVRldIUEpBRjdQWHEyUzlfb0VsbnNfNUNqNG9kVnJ4U1VaSUJiY0dLWUE2dGdmZzBwU0lGSnhsMG9xc3FZMkYzU0ZUNm1SZnpX?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1pNSWdDVDNBdDJhTVk3ZkE2QVVPc3VuSDRsZnJVN3k5QWp3UG53cnlBeGlfeTNYWXZQTkhzTXdTejRqNGdxeENmVlZyZy1TSDd3cjJ4M3kzUVJNUXE1ZlZQWXk5Y0ZYSTZUS2ctQ2VuZnZ5MHZlRHFqeHJVRldIUEpBRjdQWHEyUzlfb0VsbnNfNUNqNG9kVnJ4U1VaSUJiY0dLWUE2dGdmZz",
+  "date": "2026-10-27T19:23:42.000Z",
+  "fetched": "2026-10-27T19:33:12.761Z",
+  "fromCloud": "2026-10-27T1933.json"
+ },
+ {
+  "id": "f00ed38b36d6b57d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - TV Channels Network Inc. (0001952670) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1952670/000195267026000020/0001952670-26-000020-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-27 <b>AccNo:</b> 0001952670-26-000020 <b>Size:</b> 120 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-10-27T19:19:50.000Z",
+  "fetched": "2026-10-27T19:33:12.761Z",
+  "fromCloud": "2026-10-27T1933.json"
+ },
+ {
+  "id": "2a71e30cae17232f",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
+  "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
+  "summary": "White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table",
+  "date": "2026-10-27T19:06:02.000Z",
+  "fetched": "2026-10-27T19:33:12.761Z",
+  "fromCloud": "2026-10-27T1933.json"
+ },
+ {
   "id": "068783339ce39cc4",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -119,6 +152,17 @@
   "date": "2026-10-27T18:44:02.000Z",
   "fetched": "2026-10-27T19:03:30.334Z",
   "fromCloud": "2026-10-27T1903.json"
+ },
+ {
+  "id": "eaab90c5df3df288",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "FCC approves Amazon Leo's Globalstar acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNW5LX1pCMm1VVG1PZE1lbUNmSWIwRWRwX0FkZVIzTGdqbjA0X19HeElhcHVwSGNQUHRNN3ZjQTVJa2tqcFRKTWcyZEFEZkdpRjdnYkYtYlFYTUVwZDR3WGZWejZsbXFpN1drTGw4R2dGd1FxOXVTZXN5azFDZWs3b3ZjSU9YSU94UlpCQkZfV3NpcGhqWmlDbHA5d211Qy0wNWdiYnEweFlYOGNEQ3VseQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNW5LX1pCMm1VVG1PZE1lbUNmSWIwRWRwX0FkZVIzTGdqbjA0X19HeElhcHVwSGNQUHRNN3ZjQTVJa2tqcFRKTWcyZEFEZkdpRjdnYkYtYlFYTUVwZDR3WGZWejZsbXFpN1drTGw4R2dGd1FxOXVTZXN5azFDZWs3b3ZjSU9YSU94UlpCQkZfV3NpcGhqWmlDbHA5d211Qy0wNWdiYnEweFlYOG",
+  "date": "2026-10-27T18:44:02.000Z",
+  "fetched": "2026-10-27T19:33:12.761Z",
+  "fromCloud": "2026-10-27T1933.json"
  },
  {
   "id": "98f24480151529d5",
@@ -383,6 +427,17 @@
   "date": "2026-10-27T17:39:00.000Z",
   "fetched": "2026-10-27T19:03:30.334Z",
   "fromCloud": "2026-10-27T1903.json"
+ },
+ {
+  "id": "963e55f4fe4a108b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Yotta Acquisition Corporation Estimates – OTC:YOTAU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1UTI1Rl9BNE9ZU19RWUt1ajFBZHpSZW0xOTItTlJHb0V5MV85dkg5WUNUSnM4LTNuNDJ2N3RQNV9jV2NVdEZYZmJvTDBGWmQ0ZHdjZTdPWFNOS1hybWdyUjIwNnFucGxrZ0JrcFNTYXJlSElxNEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB1UTI1Rl9BNE9ZU19RWUt1ajFBZHpSZW0xOTItTlJHb0V5MV85dkg5WUNUSnM4LTNuNDJ2N3RQNV9jV2NVdEZYZmJvTDBGWmQ0ZHdjZTdPWFNOS1hybWdyUjIwNnFucGxrZ0JrcFNTYXJlSElxNEE?oc=5\" target=\"_blank\">Yotta Acquisition Corporation Estimates – OTC:YO",
+  "date": "2026-10-27T17:36:47.000Z",
+  "fetched": "2026-10-27T19:33:12.761Z",
+  "fromCloud": "2026-10-27T1933.json"
  },
  {
   "id": "4aed0e3919ca8f0b",
@@ -682,6 +737,17 @@
   "fromCloud": "2026-10-27T1703.json"
  },
  {
+  "id": "6729b026df1f3492",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Beyond the Resume: What Matters Most in Talent Acquisition - Syneos Health",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmNDbkZtbUFNUnJCMUxEUGtSNl9jZUUwZVpBOEhmQkd1QmtHUFZyUHIxVWV2SmZuLUZYWTZoeDdtdWVISDBsSmlBQ3BNLU1pOHRTdGx4a1JMQXdKa0JOVE5sWnlKUlhWdmN1MTJYQy1uc01HSXRldVNyVVBTMHBmek9yTGpUVmsxUmlRQnBPdXFpX3RmRE1r?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmNDbkZtbUFNUnJCMUxEUGtSNl9jZUUwZVpBOEhmQkd1QmtHUFZyUHIxVWV2SmZuLUZYWTZoeDdtdWVISDBsSmlBQ3BNLU1pOHRTdGx4a1JMQXdKa0JOVE5sWnlKUlhWdmN1MTJYQy1uc01HSXRldVNyVVBTMHBmek9yTGpUVmsxUmlRQnBPdXFpX3RmRE1r?oc=5\" target=\"_blank\">Bey",
+  "date": "2026-10-27T16:37:01.000Z",
+  "fetched": "2026-10-27T19:33:12.761Z",
+  "fromCloud": "2026-10-27T1933.json"
+ },
+ {
   "id": "dbe6c3dc15e90a88",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -702,6 +768,17 @@
   "date": "2026-10-27T16:31:54.000Z",
   "fetched": "2026-10-27T18:13:48.781Z",
   "fromCloud": "2026-10-27T1813.json"
+ },
+ {
+  "id": "fda49d601a98d25c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Girl Scouts names new CFO for Southern Appalachian council - Kingsport Times News",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYzdUTHFON195REtHS21MdUVuZV9JR2RwQWRTNWdxOWZ1SzU2WHNEd01TUlJtQTdJeVBFTlR0V2lOMUVuVlJDcEdjZ2pQaUdnc1RlN0F2U2ZCaUNtamJYMnhKSVZrSDdHaE04djkwM01NbTVqclEwZTRWc2R0ajlwZkd0Um9lNVVYb1Q5R3AtOWVFTjhlUEhNcQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYzdUTHFON195REtHS21MdUVuZV9JR2RwQWRTNWdxOWZ1SzU2WHNEd01TUlJtQTdJeVBFTlR0V2lOMUVuVlJDcEdjZ2pQaUdnc1RlN0F2U2ZCaUNtamJYMnhKSVZrSDdHaE04djkwM01NbTVqclEwZTRWc2R0ajlwZkd0Um9lNVVYb1Q5R3AtOWVFTjhlUEhNcQ?oc=5\" target=\"_blank\">G",
+  "date": "2026-10-27T16:30:43.000Z",
+  "fetched": "2026-10-27T19:33:12.761Z",
+  "fromCloud": "2026-10-27T1933.json"
  },
  {
   "id": "6e870941d3665ed0",
@@ -1705,6 +1782,17 @@
   "fromCloud": "2026-10-27T1503.json"
  },
  {
+  "id": "fc3367978878da7a",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "השקל מתחזק ביום הבחירות - האם זה מרמז על התוצאות? - ספונסר",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tYmJYejZVWmxTcTNVU0VFOGRlc0pwZ2MxVlRUY2l2QkNDUFptZkxDWXBFQVF5clp1R0ZHYVRBdnZGeVlpbG9peW16SVlUbzJ1YzhTUE5RQXJqSW5tcy02Tm9nRDVqQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tYmJYejZVWmxTcTNVU0VFOGRlc0pwZ2MxVlRUY2l2QkNDUFptZkxDWXBFQVF5clp1R0ZHYVRBdnZGeVlpbG9peW16SVlUbzJ1YzhTUE5RQXJqSW5tcy02Tm9nRDVqQQ?oc=5\" target=\"_blank\">השקל מתחזק ביום הבחירות - האם זה מרמז על התוצאות?</a>&nbsp;&nbsp;<fon",
+  "date": "2026-10-27T13:07:22.000Z",
+  "fetched": "2026-10-27T19:33:12.761Z",
+  "fromCloud": "2026-10-27T1933.json"
+ },
+ {
   "id": "76d2f001e6db6805",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1945,6 +2033,17 @@
   "date": "2026-10-26T19:41:44.000Z",
   "fetched": "2026-10-27T17:03:13.406Z",
   "fromCloud": "2026-10-27T1703.json"
+ },
+ {
+  "id": "50646519d811b8f3",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלב P 210000 JAN מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43dHNVNmZBY0hMX2NQX2IxVVJPVWlXU184M2R3UWFHOWxZZGl4blBwU2NpMjRwMGl3ZWptbFEwSGdLSklaQmYwRG02WU9rSzVENEdYdVE2dGVlaEtTNEI3NlpCd2p2Z251SXVkdVZjU0JFcXlo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE43dHNVNmZBY0hMX2NQX2IxVVJPVWlXU184M2R3UWFHOWxZZGl4blBwU2NpMjRwMGl3ZWptbFEwSGdLSklaQmYwRG02WU9rSzVENEdYdVE2dGVlaEtTNEI3NlpCd2p2Z251SXVkdVZjU0JFcXlo?oc=5\" target=\"_blank\">אלב P 210000 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-10-26T19:41:42.000Z",
+  "fetched": "2026-10-27T19:33:12.761Z",
+  "fromCloud": "2026-10-27T1933.json"
  },
  {
   "id": "75507a91e977626e",
