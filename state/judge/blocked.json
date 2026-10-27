@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 7
+  "blocked": 8
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -144,6 +144,10 @@
   "blocked": 1
  },
  "hkn.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "tradingview.com": {
   "ok": 0,
   "blocked": 1
  }
