@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 7,
+  "ok": 8,
   "blocked": 0
  },
  "securityweek.com": {
@@ -65,14 +65,14 @@
  },
  "datacenterdynamics.com": {
   "ok": 4,
-  "blocked": 7
+  "blocked": 8
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 3
  },
  "calcalistech.com": {
-  "ok": 3,
+  "ok": 5,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "businesswire.com": {

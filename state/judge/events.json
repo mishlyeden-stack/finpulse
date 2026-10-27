@@ -2616,5 +2616,33 @@
   "first": 1793108323346,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "שקל | התחזקות חדה ביום הבחירות — דולר מתחת ל-3.05 | אוקטובר 2026",
+  "level": "red",
+  "first": 1793111801955,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "סוכני AI | השפעה תפעולית ועלויות בלתי צפויות ב-77% מהחברות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793111801955,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | נשק ישראלי בביקוש — פוליטיקה תכתיב מי קונה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793111801956,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | עצירת רחפנים אזרחיים המונעים בסיב אופטי ו-SIM | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793111801956,
+  "sentLive": false,
+  "candidate": true
  }
 ]
