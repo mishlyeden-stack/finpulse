@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 22,
+  "ok": 23,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 8
+  "blocked": 9
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 5,
+  "ok": 6,
   "blocked": 0
  },
  "ice.co.il": {
@@ -149,7 +149,7 @@
  },
  "tradingview.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "govconwire.com": {
   "ok": 0,
@@ -177,6 +177,14 @@
  },
  "cnbc.com": {
   "ok": 2,
+  "blocked": 0
+ },
+ "inquirer.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "fortune.com": {
+  "ok": 1,
   "blocked": 0
  }
 }
