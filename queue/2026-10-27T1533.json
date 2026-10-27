@@ -1,0 +1,56 @@
+{
+ "batch": "2026-10-27T1533",
+ "created": "2026-10-27T15:33:14.966Z",
+ "items": [
+  {
+   "id": "fb647400f9b8cf6f",
+   "source": "גלובס – ראשי",
+   "group": "israel-press",
+   "title": "אינטל פתחה את התיאבון: ישראל משיקה תוכנית לאומית חדשה בתחום הקוונטום",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001560995#utm_source=RSS",
+   "summary": "לאחר רכישת הענק של חברת המחשוב הקוונטי הישראלית קלאסיק על ידי אינטל, ברשות החדשנות מאיצים את התוכנית הממשלתית הלאומית בתחום בהיקף של 1.5 מיליארד שקל &#8226; המהלך כולל השקעות ענק דרך מטה ה־AI הלאומי והכרזה קרובה על מכרז המחשוב הקוונטי",
+   "date": "2026-10-27T15:25:00.000Z",
+   "fetched": "2026-10-27T15:33:14.966Z"
+  },
+  {
+   "id": "08e6365ce2914287",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "SoleCrypt ups size of planned data center campus in Bizerte, Tunisia",
+   "link": "https://www.datacenterdynamics.com/en/news/solecrypt-ups-size-of-planned-data-center-campus-in-bizerte-tunisia/",
+   "summary": "<p data-block-key=\"nlurx\">First 7MW phase due live in early 2028, to host Vera Rubin GPUs</p>",
+   "date": "2026-10-27T15:20:31.000Z",
+   "fetched": "2026-10-27T15:33:14.966Z"
+  },
+  {
+   "id": "ac63a3bde5917eae",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "Broadcom organizes $63bn deal with Bank of America, Blackstone, Citigroup, and Morgan Stanley to fund Anthropic chip purchases",
+   "link": "https://www.datacenterdynamics.com/en/news/broadcom-organizes-63bn-deal-with-bank-of-america-blackstone-citigroup-and-morgan-stanley-to-fund-anthropic-chip-purchases/",
+   "summary": "<p data-block-key=\"65ysd\">Project North Star will finance the purchase of Broadcom-developed Google TPUs</p>",
+   "date": "2026-10-27T15:00:48.000Z",
+   "fetched": "2026-10-27T15:33:14.966Z"
+  },
+  {
+   "id": "4215ae25516a61cd",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "STTGDC secures $590m green loan for Tokyo data centers",
+   "link": "https://www.datacenterdynamics.com/en/news/sttgdc-secures-590m-green-loan-for-tokyo-data-centers/",
+   "summary": "<p data-block-key=\"ncwv3\">Funds to finance the fit-out and operation of 70MW campus</p>",
+   "date": "2026-10-27T15:00:48.000Z",
+   "fetched": "2026-10-27T15:33:14.966Z"
+  },
+  {
+   "id": "820476dc1929c69b",
+   "source": "SecurityWeek",
+   "group": "industry",
+   "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#8217; Flaws",
+   "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+   "summary": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#8217; Flaws appeared first on SecurityWeek .",
+   "date": "2026-10-27T15:26:12.000Z",
+   "fetched": "2026-10-27T15:33:14.966Z"
+  }
+ ]
+}
