@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 21,
+  "ok": 22,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 13
+  "blocked": 14
  },
  "en.globes.co.il": {
   "ok": 5,
@@ -48,7 +48,7 @@
   "blocked": 7
  },
  "ecb.europa.eu": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "ynet.co.il": {
