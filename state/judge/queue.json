@@ -176,6 +176,17 @@
   "fromCloud": "2026-10-27T2203.json"
  },
  {
+  "id": "2295c13c1627c2b7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Number of shareholders of AFTERNEXT ACQUISITION I CORP. – NASDAQ:AFNXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWt0T1dOQ0g5enZIWU5PdE5sejV4WHFyNWwya2xxSW9RS2w3RzhtS2dpaHdrcm8tQzFsQVpmUjJzOG92M2h4LXdVOGJ5ZW9wQkx6NnhIOHQtUEEtdXVmMkdMamk5WWczRDZmNlA0TUFPbi0zdk5FOG9tdmpiLVI2QzVDNTRkWGRpNmV1YnBwNktrUGw1dEdKVWF1aDVmSUc0d28yMFpoNWU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWt0T1dOQ0g5enZIWU5PdE5sejV4WHFyNWwya2xxSW9RS2w3RzhtS2dpaHdrcm8tQzFsQVpmUjJzOG92M2h4LXdVOGJ5ZW9wQkx6NnhIOHQtUEEtdXVmMkdMamk5WWczRDZmNlA0TUFPbi0zdk5FOG9tdmpiLVI2QzVDNTRkWGRpNmV1YnBwNktrUGw1dEdKVWF1aDVmSUc0d28yMFpoNWU?oc",
+  "date": "2026-10-27T21:37:30.000Z",
+  "fetched": "2026-10-27T22:33:12.252Z",
+  "fromCloud": "2026-10-27T2233.json"
+ },
+ {
   "id": "80f3ad0cb795926b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -251,6 +262,28 @@
   "date": "2026-10-27T21:28:51.000Z",
   "fetched": "2026-10-27T21:33:38.868Z",
   "fromCloud": "2026-10-27T2133.json"
+ },
+ {
+  "id": "65369a15a4fd6f3c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Long term debt to total equity ratio of AFTERNEXT ACQUISITION I CORP. – NASDAQ:AFNXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWE5IWmpYTTB2M3JxY0tGWlp2Q0l4ZkU4TlBQVTljN3pFY016NEx3ckRHUXpXUlg0emRiZXd6WE9SeEU4RHJTZ3lsTFlGbmdBMnZJN3I4VEhqN1ZGNWp3SElFRnBKOEtoZWJmdVc4SndaVDJrNHZFNEFsS2wwbk12UFdKWDNnd004Nk53aWpOYVJLcnZCOENjdjBuSmpiSHFYSnl1U0hvRjhmV1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWE5IWmpYTTB2M3JxY0tGWlp2Q0l4ZkU4TlBQVTljN3pFY016NEx3ckRHUXpXUlg0emRiZXd6WE9SeEU4RHJTZ3lsTFlGbmdBMnZJN3I4VEhqN1ZGNWp3SElFRnBKOEtoZWJmdVc4SndaVDJrNHZFNEFsS2wwbk12UFdKWDNnd004Nk53aWpOYVJLcnZCOENjdjBuSmpiSHFYSnl1U0hvRjhmV1",
+  "date": "2026-10-27T21:28:34.000Z",
+  "fetched": "2026-10-27T22:33:12.252Z",
+  "fromCloud": "2026-10-27T2233.json"
+ },
+ {
+  "id": "09f509ffe5cc5fe4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Book value per share of AFTERNEXT ACQUISITION I CORP. – NASDAQ:AFNXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjZLcURwLUlweEw5bFBfT0lmTGU0UmZ1S2E2NXFIWWdUWWktUkZvWXRmeklNUzhyVFR2S1FsZFozdFhiR3g2WlRQOF9vUnZTR21Cek5RSm8wdUNzLW1GcTBhdGNNSE5aMnh4d0JuWW1wSEpuS1RSRnI1eGlKdDFyTUtuU3M3dmtQQTc3RG5qQ093eXFGTThRY3NITUxHcDlQX0toSVB3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjZLcURwLUlweEw5bFBfT0lmTGU0UmZ1S2E2NXFIWWdUWWktUkZvWXRmeklNUzhyVFR2S1FsZFozdFhiR3g2WlRQOF9vUnZTR21Cek5RSm8wdUNzLW1GcTBhdGNNSE5aMnh4d0JuWW1wSEpuS1RSRnI1eGlKdDFyTUtuU3M3dmtQQTc3RG5qQ093eXFGTThRY3NITUxHcDlQX0toSVB3?oc=5\"",
+  "date": "2026-10-27T21:26:59.000Z",
+  "fetched": "2026-10-27T22:33:12.252Z",
+  "fromCloud": "2026-10-27T2233.json"
  },
  {
   "id": "c0ae5b3acd5de9ab",
