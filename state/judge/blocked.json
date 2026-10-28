@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 23,
+  "ok": 26,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 21
+  "blocked": 23
  },
  "en.globes.co.il": {
   "ok": 5,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 22,
+  "ok": 26,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 13
+  "blocked": 15
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 8
+  "blocked": 15
  },
  "ecb.europa.eu": {
   "ok": 2,
@@ -64,15 +64,15 @@
   "blocked": 4
  },
  "datacenterdynamics.com": {
-  "ok": 4,
-  "blocked": 8
+  "ok": 6,
+  "blocked": 10
  },
  "funder.co.il": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "calcalistech.com": {
-  "ok": 5,
+  "ok": 6,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -93,7 +93,7 @@
  },
  "aviationweek.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "stocktwits.com": {
   "ok": 1,
@@ -109,7 +109,7 @@
  },
  "investing.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "sadanews.ps": {
   "ok": 1,
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 2,
+  "ok": 4,
   "blocked": 0
  },
  "businesswire.com": {
@@ -160,7 +160,7 @@
   "blocked": 1
  },
  "avnetwork.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "prnewswire.com": {
@@ -190,5 +190,57 @@
  "mckinsey.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "wsj.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "cfobrew.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "federalnewsnetwork.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "thelec.net": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "today.westlaw.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "economist.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "einpresswire.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "benton.org": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "spokesman.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "wbjournal.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "satellitetoday.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "woodmac.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "contractpharma.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }

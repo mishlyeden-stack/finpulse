@@ -2644,5 +2644,131 @@
   "first": 1793111801956,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "ישראל | תקציב ביטחון — פער 25 מיליארד שקל ואתגר רב-שנתי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160402113,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "כישורי פיננסים | מי יהיה מבוקש ב-2027 — CFO Brew | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160402113,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל | תגובת שווקים למדגמי הבחירות — ליל הבחירות 2026",
+  "level": "red",
+  "first": 1793160492834,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "ישראל | תיקו פוליטי ושיתוק כלכלי — תרחיש ממשלת מעבר 2026",
+  "level": "yellow",
+  "first": 1793160492834,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Amazon Leo | FCC מאשר רכישת Globalstar | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160586173,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Sierra Space | CFO שני תוך ארבעה חודשים | אוקטובר 2026",
+  "level": "learn",
+  "first": 1793160891342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Amazon Leo | אישור FCC לרכישת Globalstar ב-11.5 מיליארד דולר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160891342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אינוודאטה | צניחה 20%+ אחרי פיטורי 550 עובדים — סדקים ב-AI? | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160891342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אופ״ק+ | עצירת תוספות הפקה — שמירה על מכסות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160891342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קרן גידור 100 מיליארד+ | דו״ח שורי על מניות טכנולוגיה — הראלי עוד לא נגמר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160891342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביטחון צרכני ארה״ב | עלייה קלה אחרי ירידת מחירי דלק | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160891342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Percepto | מייסדים עוזבים ככל שהחברה מתרחבת ל-Physical AI | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160891342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "EQT | רכישת Range Resources — יצרנית הגז הטבעי הגדולה בארה״ב | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160891342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טבע | השלמת רכישת נכסי BioXcel — הרחבת צינור נוירולוגיה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793160891342,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פרייבט אקוויטי | חומת חוב 300 מיליארד דולר ב-2028 — תוכנה במוקד הסיכון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793161060951,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "La Caisse | רכישת 49.9% במגדלי Bell Canada ב-2.45 מיליארד קנדי | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793161060952,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Amazon AWS | פשרה בתיק שוחד בעסקאות מרכזי נתונים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793161060952,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Pro AV 2026 | מצב תצוגות 2026 — AI, ענן, עלות בעלות ושיתוף פעולה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793161060952,
+  "sentLive": false,
+  "candidate": true
  }
 ]
