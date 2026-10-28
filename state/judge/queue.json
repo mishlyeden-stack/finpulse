@@ -1,5 +1,71 @@
 [
  {
+  "id": "7c835d64f4c422f0",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ALIGN TECHNOLOGY INC (0001097149) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000077/0001097149-26-000077-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001097149-26-000077 <b>Size:</b> 791 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-28T20:02:16.000Z",
+  "fetched": "2026-10-28T20:03:12.502Z",
+  "fromCloud": "2026-10-28T2003.json"
+ },
+ {
+  "id": "8ec732ee135494d9",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Winchester Bancorp, Inc./MD/ (0002047235) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2047235/000119312526436113/0001193125-26-436113-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001193125-26-436113 <b>Size:</b> 802 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-28T20:01:59.000Z",
+  "fetched": "2026-10-28T20:03:12.502Z",
+  "fromCloud": "2026-10-28T2003.json"
+ },
+ {
+  "id": "b61247b295026d4f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Magyar Bancorp, Inc. (0001337068) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1337068/000117494726000945/0001174947-26-000945-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001174947-26-000945 <b>Size:</b> 288 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-28T20:00:55.000Z",
+  "fetched": "2026-10-28T20:03:12.502Z",
+  "fromCloud": "2026-10-28T2003.json"
+ },
+ {
+  "id": "9451c2f9e2124e53",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Princeton Bancorp, Inc. (0001913971) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1913971/000119312526436103/0001193125-26-436103-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001193125-26-436103 <b>Size:</b> 173 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-28T20:00:13.000Z",
+  "fetched": "2026-10-28T20:03:12.502Z",
+  "fromCloud": "2026-10-28T2003.json"
+ },
+ {
+  "id": "f523e76021db13d1",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Israeli airlines delay Dubai and Morocco flights amid security disputes - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GZFJ1SGo2U1ROYV84MFhub1F4RXhPdjNZRXFnU0J5enROb2tXOXFsUU5TRTg1WF93MGx6YW5wVEJnVXItTW1RNTNUc3AxUUVxdDhWYWRaVFhfM2tpaGFJNHhYYWNzaXM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GZFJ1SGo2U1ROYV84MFhub1F4RXhPdjNZRXFnU0J5enROb2tXOXFsUU5TRTg1WF93MGx6YW5wVEJnVXItTW1RNTNUc3AxUUVxdDhWYWRaVFhfM2tpaGFJNHhYYWNzaXM?oc=5\" target=\"_blank\">Israeli airlines delay Dubai and Morocco flights amid security dispu",
+  "date": "2026-10-28T19:45:00.000Z",
+  "fetched": "2026-10-28T20:03:12.502Z",
+  "fromCloud": "2026-10-28T2003.json"
+ },
+ {
+  "id": "fec62e88015248c6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "St. Louis-based engineering consulting firm names new finance chief - The Business Journals",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3cxcmxZYlFqcFJiZ2l6Tk9TY29RNTJ5RXR2YWYxTzNma3QtQ1prVVhFalJFU2ctMURmMklTbmtoWW1Hd2Joc0Q4UUJPM05ReVJfUVBPbTRhYlZpTXVZYnhSM0xUWXoyYzdRdkpDQXlFTXRSNEpoeDRTanpvTkt1NVVoYktRRzNZMUk0MHJlaXF5Y3VjQ1FDaFhOQVA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3cxcmxZYlFqcFJiZ2l6Tk9TY29RNTJ5RXR2YWYxTzNma3QtQ1prVVhFalJFU2ctMURmMklTbmtoWW1Hd2Joc0Q4UUJPM05ReVJfUVBPbTRhYlZpTXVZYnhSM0xUWXoyYzdRdkpDQXlFTXRSNEpoeDRTanpvTkt1NVVoYktRRzNZMUk0MHJlaXF5Y3VjQ1FDaFhOQVA?oc=5\" target=\"_bla",
+  "date": "2026-10-28T19:40:00.000Z",
+  "fetched": "2026-10-28T20:03:12.502Z",
+  "fromCloud": "2026-10-28T2003.json"
+ },
+ {
   "id": "df296440ed709f41",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -75,6 +141,17 @@
   "date": "2026-10-28T19:22:35.000Z",
   "fetched": "2026-10-28T19:33:13.537Z",
   "fromCloud": "2026-10-28T1933.json"
+ },
+ {
+  "id": "089a18f10d885d3d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Airbus CFO says EU antitrust talks on satellite merger are constructive but not concluded - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUU9kNHBzV0ExaUQxVlpSUHR4RlB0cGNQdlF6YVcwMzRIWF9OY0c3X3ptcUIyOEJpT2RJZHZTa1BkamNyN2ZmRUFMVXFSbDZ1TTJhRjFzRUZrMDRERWxvdDBtaWh2YUR3dlpJZnNBSklJdG05cUx0cXcwVUMxN01HWUZBR01kajUwWmNoV2ktb0RreUNNMlNtdW5EMVlxX0tGV3o2RjdXWUVOUlF0cnJqLXpmRmhzWXdGNXpmZjQtMWV3VGlCN3FZSEd5OVRJSFhlclBnTnB1U3ctbDZmQzU0dkVnZFgtbFpDMVlzWmFWVjY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUU9kNHBzV0ExaUQxVlpSUHR4RlB0cGNQdlF6YVcwMzRIWF9OY0c3X3ptcUIyOEJpT2RJZHZTa1BkamNyN2ZmRUFMVXFSbDZ1TTJhRjFzRUZrMDRERWxvdDBtaWh2YUR3dlpJZnNBSklJdG05cUx0cXcwVUMxN01HWUZBR01kajUwWmNoV2ktb0RreUNNMlNtdW5EMVlxX0tGV3o2RjdXWUVOUl",
+  "date": "2026-10-28T19:21:42.000Z",
+  "fetched": "2026-10-28T20:03:12.502Z",
+  "fromCloud": "2026-10-28T2003.json"
  },
  {
   "id": "5fc0fcd125114aa1",
@@ -2473,6 +2550,17 @@
   "date": "2026-10-28T09:46:38.000Z",
   "fetched": "2026-10-28T19:50:12.984Z",
   "fromCloud": "2026-10-28T1950.json"
+ },
+ {
+  "id": "ecbba289b5fbc49f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "GE Vernova to acquire Trench Group - GE Vernova",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTFlY2hObU9OYWw0VTZQSF9CWkdoLVJsVmxJcEs2d2NsVDZ2N1lyMmRoTWNmVUdMZEQ1Nzg0ekxCN1hYaE52RzYzck55NjhEdHNGOGszdWNpTGw1Z3FEUXc3bnpoM1NJTTM0c19sRzhpSHRHd2tWNkVNRkU4X1BVTTBkcw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTFlY2hObU9OYWw0VTZQSF9CWkdoLVJsVmxJcEs2d2NsVDZ2N1lyMmRoTWNmVUdMZEQ1Nzg0ekxCN1hYaE52RzYzck55NjhEdHNGOGszdWNpTGw1Z3FEUXc3bnpoM1NJTTM0c19sRzhpSHRHd2tWNkVNRkU4X1BVTTBkcw?oc=5\" target=\"_blank\">GE Vernova to acquire Trench ",
+  "date": "2026-10-28T09:00:00.000Z",
+  "fetched": "2026-10-28T20:03:12.502Z",
+  "fromCloud": "2026-10-28T2003.json"
  },
  {
   "id": "70471deb2866312f",
