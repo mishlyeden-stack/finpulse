@@ -2770,5 +2770,82 @@
   "first": 1793161060952,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "שקל | היחלשות חדה בספירת הקולות — דולר חוזר ל-3.08 | אוקטובר 2026",
+  "level": "red",
+  "first": 1793162251952,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "ישראל | 400 מיליארד שקל — ההכרעות הכלכליות של הממשלה החדשה | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162251952,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דיסרפטיב | קרן 10 מיליארד דולר לסטארט-אפים של AI וביטחון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162251952,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Veeam | רכישת Alcion — הרחבה ל-as-a-service ו-AI בגיבוי נתונים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162251952,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Pro AV | הכלכלה החדשה של חדר הישיבות — AI, ענן ותמחור | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162251952,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AirTrunk | הלוואה ירוקה 4.25 מיליארד דולר אוסטרלי למרכז נתונים סידני | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162426867,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | תוכנית לאומית קוונטום 1.5 מיליארד שקל — בעקבות רכישת קלאסיק | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162426867,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Tailscale | פגיעויות Tailworm ב-SSH — פאץ׳ טרם שוחרר | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162426867,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Nidec | CDU קירור 3.2MW בשורה — ייצור המוני 2027 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162426867,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל | התחזקות ביום הבחירות — דולר מתחת ל-3.05 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162548983,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רגולציית AI | לחץ חקיקתי בארה״ב אחרי דיווחי סוכני AI על גישה לחשבונות בנק | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793162548983,
+  "sentLive": false,
+  "candidate": true
  }
 ]
