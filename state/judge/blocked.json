@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 31,
+  "ok": 32,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 28
+  "blocked": 29
  },
  "en.globes.co.il": {
   "ok": 5,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 17
+  "blocked": 18
  },
  "13tv.co.il": {
   "ok": 0,
