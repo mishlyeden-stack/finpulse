@@ -27,6 +27,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main   # the latest state, not the commit from when the run was queued
           persist-credentials: false
       - name: due today?
         id: due
