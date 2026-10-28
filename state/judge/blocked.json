@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 35,
+  "ok": 36,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 36
+  "blocked": 37
  },
  "en.globes.co.il": {
-  "ok": 7,
+  "ok": 8,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 31,
+  "ok": 33,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 21
+  "blocked": 22
  },
  "13tv.co.il": {
   "ok": 0,
@@ -40,7 +40,7 @@
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 5,
+  "ok": 6,
   "blocked": 0
  },
  "ft.com": {
@@ -52,11 +52,11 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 10,
+  "ok": 11,
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 11,
+  "ok": 12,
   "blocked": 0
  },
  "ice.co.il": {
@@ -85,7 +85,7 @@
  },
  "bloomberg.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "fortworthinc.com": {
   "ok": 0,
@@ -149,7 +149,7 @@
  },
  "tradingview.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "govconwire.com": {
   "ok": 0,
@@ -184,7 +184,7 @@
   "blocked": 0
  },
  "fortune.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "mckinsey.com": {
@@ -193,7 +193,7 @@
  },
  "wsj.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "cfobrew.com": {
   "ok": 1,
@@ -284,6 +284,10 @@
   "blocked": 0
  },
  "fourweekmba.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "citybiz.co": {
   "ok": 0,
   "blocked": 1
  }
