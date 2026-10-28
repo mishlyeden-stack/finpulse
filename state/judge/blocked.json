@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 32,
+  "ok": 33,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 31
+  "blocked": 33
  },
  "en.globes.co.il": {
   "ok": 6,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 18
+  "blocked": 20
  },
  "13tv.co.il": {
   "ok": 0,
@@ -28,12 +28,12 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 7,
+  "ok": 9,
   "blocked": 0
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 10
+  "blocked": 11
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 10,
+  "ok": 11,
   "blocked": 0
  },
  "ice.co.il": {
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 8,
-  "blocked": 11
+  "blocked": 12
  },
  "funder.co.il": {
   "ok": 0,
@@ -120,7 +120,7 @@
   "blocked": 1
  },
  "maariv.co.il": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "visionmonday.com": {
@@ -274,5 +274,13 @@
  "ravepubs.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "sec.gov": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "newsquawk.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }
