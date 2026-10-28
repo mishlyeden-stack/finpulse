@@ -1,18 +1,18 @@
 {
  "globes.co.il": {
-  "ok": 28,
+  "ok": 30,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 27
+  "blocked": 28
  },
  "en.globes.co.il": {
   "ok": 5,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 27,
+  "ok": 28,
   "blocked": 0
  },
  "news.google.com": {
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 16
+  "blocked": 17
  },
  "ecb.europa.eu": {
   "ok": 2,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 9,
+  "ok": 10,
   "blocked": 0
  },
  "securityweek.com": {

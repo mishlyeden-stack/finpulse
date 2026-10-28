@@ -2847,5 +2847,33 @@
   "first": 1793162548983,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "שקל | היחלשות חדה בספירת הקולות — דולר חוזר ל-3.09 | אוקטובר 2026",
+  "level": "red",
+  "first": 1793165770169,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "ויזה | עקפה תחזיות Q3 אך תחזית 2027 ציננה מניה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1793165770170,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב–איראן | דיווח: הכנה למערכה קצרה ועצימה — אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793165770170,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | רפורמת תקשורת אינטרנט — ראוטר אוניברסלי והוזלת מחירים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793165770170,
+  "sentLive": false,
+  "candidate": true
  }
 ]
