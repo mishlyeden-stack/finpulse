@@ -2917,5 +2917,26 @@
   "first": 1793178310229,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "SETTRA | מתקפת כופרה על יבואן הרכב הגדול בישראל | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793180157553,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Oracle EBS | פגיעות SQL injection קריטית CVE-2026-101767 — האקרים כבר בודקים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793180157554,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק הפועלים | בקשת חדלות פרעון לסרטפלאסט | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793180157554,
+  "sentLive": false,
+  "candidate": true
  }
 ]
