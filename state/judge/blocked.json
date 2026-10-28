@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 22
+  "blocked": 23
  },
  "13tv.co.il": {
   "ok": 0,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 13,
+  "ok": 14,
   "blocked": 0
  },
  "ice.co.il": {
