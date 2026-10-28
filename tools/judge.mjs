@@ -337,11 +337,17 @@ function mirrorCandidates() {           // the Daily (local) reads the local can
 function sendCloudReds() {              // 🔴 found in the cloud → Live mail from the PC (mails stay local); older than 6h → not sent
   const dir = join(pilot.dir, 'reds'); if (!existsSync(dir)) return;
   const REG = join(STATE, 'reds-sent.json'); const reg = loadJSON(REG, {});
+  // all pending 🔴 go out in ONE mail, each event once (a PC that was off for hours must not send a burst of alerts)
+  const keys = new Set(Object.values(reg).flatMap((v) => (typeof v === 'object' ? v.keys || [] : [])));
+  const fresh = [];
   for (const f of readdirSync(dir).filter((x) => x.endsWith('.json') && !reg[x])) {
-    const r = loadJSON(join(dir, f), null); reg[f] = Date.now();
-    if (r?.events?.length && Date.now() - Number(f.split('.')[0]) < 6 * 3600e3) sendLive(r.events);
+    const r = loadJSON(join(dir, f), null);
+    const evs = Date.now() - Number(f.split('.')[0]) < 6 * 3600e3 ? (r?.events || []).filter((e) => !keys.has(e.event_key)) : [];
+    evs.forEach((e) => { keys.add(e.event_key); fresh.push(e); });
+    reg[f] = { at: Date.now(), keys: evs.map((e) => e.event_key) };
   }
-  for (const [k, v] of Object.entries(reg)) if (Date.now() - v > 7 * 864e5) delete reg[k];
+  if (fresh.length) sendLive(fresh);
+  for (const [k, v] of Object.entries(reg)) if (Date.now() - (typeof v === 'object' ? v.at : v) > 7 * 864e5) delete reg[k];
   saveJSON(REG, reg);
 }
 function syncDaily() {                  // cloud Daily → the local folder (local server, dedup log, manual numbers) + the mail from the PC
@@ -509,7 +515,7 @@ function sendLive(reds) {
 <tr><td style="padding:16px 24px 4px 24px;text-align:right;font-size:13px;color:#6b7280;">FinPulse · Live · ${hhmm}</td></tr>${cards}
 <tr><td style="padding:10px 24px 18px 24px;text-align:right;font-size:12px;color:#6b7280;"><a href="https://mishlyeden-stack.github.io/finpulse/" style="color:#1d4ed8;">פתחי ב-FinPulse ←</a> · רדאר ציבורי בלבד</td></tr>
 </table></td></tr></table></body></html>`;
-  const f = join(DRY ? DRYDIR : LIVE_DIR, `${new Date().toLocaleString('sv-SE').slice(0, 16).replace(/[-: ]/g, '')}-rss-mail.html`);
+  const f = join(DRY ? DRYDIR : LIVE_DIR, `${new Date().toLocaleString('sv-SE').slice(0, 16).replace(/[-: ]/g, '')}-${Date.now() % 100000}-rss-mail.html`);   // unique: two alerts in one minute must not overwrite each other
   writeFileSync(f, html, 'utf8');
   if (DRY) { log(`DRY live (not sent): ${reds.map((r) => r.title).join(' / ')}`); return; }
   const day = new Date().toISOString().slice(0, 10).replace(/-/g, '');
