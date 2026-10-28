@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 30,
+  "ok": 31,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 28,
+  "ok": 29,
   "blocked": 0
  },
  "news.google.com": {
@@ -254,5 +254,13 @@
  "mako.co.il": {
   "ok": 1,
   "blocked": 0
+ },
+ "moomoo.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "reuters.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }

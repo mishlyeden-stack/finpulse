@@ -2875,5 +2875,19 @@
   "first": 1793165770170,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "שקל | היחלשות 1.1% + בורסה ישראל צפויה לירידות — בוקר אחרי הבחירות | אוקטובר 2026",
+  "level": "red",
+  "first": 1793169309311,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "קונסטליישן אנרג׳י | הלוואה 5 מיליארד דולר להרחבת כורים גרעיניים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793169309311,
+  "sentLive": false,
+  "candidate": true
  }
 ]
