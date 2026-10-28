@@ -1,5 +1,302 @@
 [
  {
+  "id": "c780d3d5949e20d2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - O REILLY AUTOMOTIVE INC (0000898173) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/898173/000089817326000050/0000898173-26-000050-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0000898173-26-000050 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-28T20:32:51.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "618a08218bb14b19",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - American Water Works Company, Inc. (0001410636) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1410636/000141063626000150/0001410636-26-000150-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001410636-26-000150 <b>Size:</b> 423 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-28T20:31:43.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "96c11a2e82fc6e14",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ALERUS FINANCIAL CORP (0000903419) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/903419/000143774926033799/0001437749-26-033799-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001437749-26-033799 <b>Size:</b> 6 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-28T20:31:28.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "ea7cab6ee158c39e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - LiveRamp Holdings, Inc. (0000733269) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/733269/000110465926119655/0001104659-26-119655-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001104659-26-119655 <b>Size:</b> 191 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-10-28T20:31:22.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "764c691cfb859395",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - SPACCircle Acquisition Corp. (0002131303) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2131303/000118518526005042/0001185185-26-005042-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001185185-26-005042 <b>Size:</b> 2 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appoint",
+  "date": "2026-10-28T20:31:07.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "2ea55e6843b39745",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Microsoft expects 'very few people' to accept buyouts, CFO says in internal memo - Business Insider",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG95SnZ6TDlZRkN2X3YxaVl0UjJuci1GaGQ3a2Z5NFludTF5UlNjdnltSFBTY3ZQQ1JqOTlwdGFMQ2xGeVF2VHVuNjhkbk5sNGk5MXJsdXl1SVNYTDdKRjd5djZ6UWI1NEJXMkQ5dHl2RnM0Z3NENG5zQ2cxYzlhVUNzSFhzSi1RUHJoNWQ2enNkWkY0U2xpam9qRmV4YmJxUFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG95SnZ6TDlZRkN2X3YxaVl0UjJuci1GaGQ3a2Z5NFludTF5UlNjdnltSFBTY3ZQQ1JqOTlwdGFMQ2xGeVF2VHVuNjhkbk5sNGk5MXJsdXl1SVNYTDdKRjd5djZ6UWI1NEJXMkQ5dHl2RnM0Z3NENG5zQ2cxYzlhVUNzSFhzSi1RUHJoNWQ2enNkWkY0U2xpam9qRmV4YmJxUFE?oc=5\" targ",
+  "date": "2026-10-28T20:31:07.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "a28eeae23912e80f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Eureka Acquisition Corp (0002000410) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2000410/000121390026113340/0001213900-26-113340-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001213900-26-113340 <b>Size:</b> 247 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
+  "date": "2026-10-28T20:30:39.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "7fd6542a42ea55a9",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - COMMUNITY HEALTH SYSTEMS INC (0001108109) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1108109/000119312526436229/0001193125-26-436229-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001193125-26-436229 <b>Size:</b> 2 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-28T20:30:27.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "83b79df853af9760",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ADIAL PHARMACEUTICALS, INC. (0001513525) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026113337/0001213900-26-113337-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001213900-26-113337 <b>Size:</b> 271 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 5.03: Amendments to Articles o",
+  "date": "2026-10-28T20:30:23.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "c6df3ea9d56a3ca8",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - HPS Corporate Lending Fund (0001838126) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1838126/000119312526436228/0001193125-26-436228-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-28 <b>AccNo:</b> 0001193125-26-436228 <b>Size:</b> 124 KB <br>Item 8.01: Other Events",
+  "date": "2026-10-28T20:30:17.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "76c5cfe1e5e83c4d",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Gemini hits 1 billion users as Alphabet’s quarterly results disappoint - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51X0xUYzF2SjhNa0dsck1rTE9TdmEzMnY1aU96dXk2QWVSWV9BRjVmcl8tY3lzX0tLakM2WUdmYUJ1NU9PRWpNQWhOcnZ2OC1Lai1JQmZ6Z1VyT21Wb3NVX0ctd1JUS2c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51X0xUYzF2SjhNa0dsck1rTE9TdmEzMnY1aU96dXk2QWVSWV9BRjVmcl8tY3lzX0tLakM2WUdmYUJ1NU9PRWpNQWhOcnZ2OC1Lai1JQmZ6Z1VyT21Wb3NVX0ctd1JUS2c?oc=5\" target=\"_blank\">Gemini hits 1 billion users as Alphabet’s quarterly results disappoi",
+  "date": "2026-10-28T20:24:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "e7bd2b16cb3ff218",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "אלפבית החמיצה את התחזיות; המניה נופלת ב-7% - בעולם - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU84TGljWnktVUJtaURWU3JRc1d4UTFQRGo2emszN3lWRHVJS3VzQ1NNN0JZUkRwVFhyNjhrcTlZQ0VDRVFiRnhFbnpwX0xvN2lGY0FhbGZRb1ltWlN2X3A5R2t4VHFXRlN5SS0wbjI1eUxxTkVlRVV3VE51RkRQZktxRU9NWjE2akVkUmNvU0FCVUpJMmZRbGhsZXlGaVFGZnM1T3g3TQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU84TGljWnktVUJtaURWU3JRc1d4UTFQRGo2emszN3lWRHVJS3VzQ1NNN0JZUkRwVFhyNjhrcTlZQ0VDRVFiRnhFbnpwX0xvN2lGY0FhbGZRb1ltWlN2X3A5R2t4VHFXRlN5SS0wbjI1eUxxTkVlRVV3VE51RkRQZktxRU9NWjE2akVkUmNvU0FCVUpJMmZRbGhsZXlGaVFGZnM1T3g3TQ?oc=",
+  "date": "2026-10-28T20:21:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "456fabd252763837",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Microsoft beats forecasts as Azure accelerates and AI spending surges - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FOTNYeUd2c3p6dDhxOUFvOVpua3dvRjhkOHUxZFB1TVVRWUR3WEdPazFjTHZ1RlJXQnlRRUhqMTlwSHBYaGdVWV9YdjItQ2JNallnT1BORl82U0I1Tm5yMnR3RVpTUDQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FOTNYeUd2c3p6dDhxOUFvOVpua3dvRjhkOHUxZFB1TVVRWUR3WEdPazFjTHZ1RlJXQnlRRUhqMTlwSHBYaGdVWV9YdjItQ2JNallnT1BORl82U0I1Tm5yMnR3RVpTUDQ?oc=5\" target=\"_blank\">Microsoft beats forecasts as Azure accelerates and AI spending surge",
+  "date": "2026-10-28T20:17:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "23104f074446926b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הענן של גוגל הכפיל את עצמו, אבל מניית אלפאבית צוללת 7.6% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BWDVQTmhtRTZ3NmpDNWRZaFNmVEplVC05bGpsVUtVTEJwS1FfendjMGFuQWpFajI2Z0k4NWJ2SHNRbm5DdzdlTUJ6VnpBTEJQNHgwOUlrS3NOSjRoUEYtT054Qkl4Q0lOWTNBX0VwTUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9BWDVQTmhtRTZ3NmpDNWRZaFNmVEplVC05bGpsVUtVTEJwS1FfendjMGFuQWpFajI2Z0k4NWJ2SHNRbm5DdzdlTUJ6VnpBTEJQNHgwOUlrS3NOSjRoUEYtT054Qkl4Q0lOWTNBX0VwTUE?oc=5\" target=\"_blank\">הענן של גוגל הכפיל את עצמו, אבל מניית אלפאבית צוללת 7.6%",
+  "date": "2026-10-28T20:16:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "395f948d9b065eeb",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Google shares drop 7% as search business falls short and AI spending surges",
+  "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+  "summary": "Search giant boosted spending on AI investments to more than $50bn in the quarter",
+  "date": "2026-10-28T20:15:16.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "d14d272093bcc781",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "אלפאבית פיספסה את תחזית הרווח ברבעון; המניה נופלת במסחר המאוחר",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561112#utm_source=RSS",
+  "summary": "הרווח למניה עמד על 2.12 דולר, הרבה מתחת לצפי &#8226; ההכנסות היו 127.6 מיליארד דולר בהתאם לצפי &#8226; תזרים המזומנים החופשי של גוגל צנח ל־9.07 מיליארד דולר, הרבה מתחת לתחזיות האנליסטים &#8226; מניית גוגל משילה כ-8% במסחר המאוחר",
+  "date": "2026-10-28T20:14:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "0621a69f1238e44f",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "אלפבית פספסה התחזיות לרבעון - המניה נופלת ב-7% - calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41UkU0Mmh0a3duN25wV0tWc2xNZVlpZ2hIQUlrVVEzckt1X2hqb0s1ZFNkb3N4eks0dDdxa29JTkVBQXVkTGExRUJSbnhlUzhGVi1jYVZmOTMwMzNjS0NVTnNNRno?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE41UkU0Mmh0a3duN25wV0tWc2xNZVlpZ2hIQUlrVVEzckt1X2hqb0s1ZFNkb3N4eks0dDdxa29JTkVBQXVkTGExRUJSbnhlUzhGVi1jYVZmOTMwMzNjS0NVTnNNRno?oc=5\" target=\"_blank\">אלפבית פספסה התחזיות לרבעון - המניה נופלת ב-7%</a>&nbsp;&nbsp;<font colo",
+  "date": "2026-10-28T20:14:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "c3bffee68925d37e",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "מיקרוסופט ניפצה את התחזיות; הכנסות הענן זינקו ב-50%",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561120#utm_source=RSS",
+  "summary": "הרווח למניה היה 4.89 דולר למניה וההכנסות עמדו על 92.6 מיליארד דולר, מעל הצפי &#8226; החברה חשפה את הכנסותיה של חטיבת הענן Azure במונחים כספיים: 33.17 מיליארד דולר ברבעון, עלייה של 48% לעומת התקופה המקבילה &#8226; המניה עולה במסחר המאוחר בכ-4%",
+  "date": "2026-10-28T20:13:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "2f1c606c2aced36e",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Microsoft shares climb 5% after cloud revenue beats expectations",
+  "link": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
+  "summary": "Software group reports overall revenue rose 19% to $92.3bn in quarter to end of September",
+  "date": "2026-10-28T20:11:19.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "eb1f0cf703eaa768",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Chipotle earnings miss estimates, but same-store sales increase for third straight quarter",
+  "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+  "summary": "For the full year, Chipotle reiterated its previous forecast that its same-store sales will increase by a low single digit percentage.",
+  "date": "2026-10-28T20:11:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "6aadcfc295eecda3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BKR: Chart expands the portfolio as acquisition costs weigh on Q3 earnings and outlook remains geopolitically exposed - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNjlVZzFXa3hDdFRNQ2ZvblJlM2ZySk90T0NUb0N3T2ZrSmlLeDdEZTg2OFh4NGtKYjF4bWhCX21nN3ZRMnZONWdoWllHREV5a2RMM3RJamh3bFFuVGxZSElJOG1HMnEybjIxUnpmMWZja1BhcVJnWlc0MlVRS3VNbTNmdEdfMEJpMi1XX3p4T3ZLWkx1cVJyVWN3NS1WUExUOEpWd2FZdkRrQVJrbUR5MjFLZV9FRmltQTlVOFhSeFhITlUtNDRmbEVqWC13ZzY3ZUpkeHlPRm1OY042MTFGaHZqeVVyQXFQcUprVnUtTUUyUWNjSmFMSHFfTGxVTmZpckJ0ZEZxUGtnb0loM3JrT0tzOXJzUVhzR3EtUTNmcXRkQWxYdEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxNNjlVZzFXa3hDdFRNQ2ZvblJlM2ZySk90T0NUb0N3T2ZrSmlLeDdEZTg2OFh4NGtKYjF4bWhCX21nN3ZRMnZONWdoWllHREV5a2RMM3RJamh3bFFuVGxZSElJOG1HMnEybjIxUnpmMWZja1BhcVJnWlc0MlVRS3VNbTNmdEdfMEJpMi1XX3p4T3ZLWkx1cVJyVWN3NS1WUExUOEpWd2FZdkRrQV",
+  "date": "2026-10-28T20:10:16.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "2ce4e77182ba5ff4",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מיקרוסופט הכתה את התחזיות - המניה מזנקת ב-5% לאחר המסחר - בעולם - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVZKYWRsbDJ5S1RfbWZtWko1LW40dXphTWhKMW94OW1BWkpGWmxXaVM3M3ZkbTJRU1lvd1dkMEVSQVBPQUwtaHh1dFNkZkF2Z2RJelEtLWpOODNUZHh4NmNuZWhfV21UdlFoTmdPcTVyUGtyRjJ0OWYxdTJyYlNLcUVUbUY5enJrWDFXTTFWcFI3ajdIanZLdkUxRENXQWVRS3E2VzE1cw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVZKYWRsbDJ5S1RfbWZtWko1LW40dXphTWhKMW94OW1BWkpGWmxXaVM3M3ZkbTJRU1lvd1dkMEVSQVBPQUwtaHh1dFNkZkF2Z2RJelEtLWpOODNUZHh4NmNuZWhfV21UdlFoTmdPcTVyUGtyRjJ0OWYxdTJyYlNLcUVUbUY5enJrWDFXTTFWcFI3ajdIanZLdkUxRENXQWVRS3E2VzE1cw?oc=",
+  "date": "2026-10-28T20:09:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "2cc608c089e5d735",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "T-Mobile raises annual free cash flow forecast as premium plans gain traction - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHo0dWMwZEZMZmZBMjZOS21fOHhqcnpJWHduOEdLMkZzWmV2Wk5zYmFTMEc0T3hKdVFIeHR0OUxDckdleC0xWVQ0cFVqcnBLeUVRWU9vVmF2aDRyTXhvQlg0LTgwSGlnbnh3SXhvZzdweG1Nb0psdHZrakU4OVBqdHJZNXVCT290TnhMeTlkRWMwY3Z2MkJSTG5hUVI4d0VUQkU1aGU1WU4tUEQySHl3NmcxbEYtRDFXelRiT1RicGh4cUo3UEw1bTYtRThZdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHo0dWMwZEZMZmZBMjZOS21fOHhqcnpJWHduOEdLMkZzWmV2Wk5zYmFTMEc0T3hKdVFIeHR0OUxDckdleC0xWVQ0cFVqcnBLeUVRWU9vVmF2aDRyTXhvQlg0LTgwSGlnbnh3SXhvZzdweG1Nb0psdHZrakU4OVBqdHJZNXVCT290TnhMeTlkRWMwY3Z2MkJSTG5hUVI4d0VUQkU1aGU1WU4tUE",
+  "date": "2026-10-28T20:07:43.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "cba26888d589b5a5",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "מיקרוסופט עקפה התחזיות לרבעון, ההכנסות זינקו ב-19% - calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05LVVvTnhxRTFoWS01Mm11cFZpOFJEVU1sNVBsSzIxMnhSdUlnWEktVEdEUHV6ZTY4YmZZb3BPeWhmQVBrUEoyUlVmbTY5emxJTXhFMFRJQjZ0YmwxdEFHSTlEQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE05LVVvTnhxRTFoWS01Mm11cFZpOFJEVU1sNVBsSzIxMnhSdUlnWEktVEdEUHV6ZTY4YmZZb3BPeWhmQVBrUEoyUlVmbTY5emxJTXhFMFRJQjZ0YmwxdEFHSTlEQQ?oc=5\" target=\"_blank\">מיקרוסופט עקפה התחזיות לרבעון, ההכנסות זינקו ב-19%</a>&nbsp;&nbsp;<font c",
+  "date": "2026-10-28T20:07:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "556fa7313dddd4c8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bay Harbor Islands office building secures $184 million refinancing loan - The Business Journals",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcldjZDdLZTVUaW1BV2g0Z0VBalBtd0o4ZnQtNURjNmhOMEw1Njg5dmlCSFpXMnZPSWhRazZleTZILVh1SV9CVjFNOGlUakY0R2tRUjYtbzl3ZlJZaUQydVh0Zm50N252ZVlCS29sWTNUcDdJYmdLWmJTYXZxX3dlZzVhZmVEWFloUHpkVHliZmJvYkVIVW1ydTBrbGtVaUdLUmRNT1c4UmRrMF9xRUhz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNcldjZDdLZTVUaW1BV2g0Z0VBalBtd0o4ZnQtNURjNmhOMEw1Njg5dmlCSFpXMnZPSWhRazZleTZILVh1SV9CVjFNOGlUakY0R2tRUjYtbzl3ZlJZaUQydVh0Zm50N252ZVlCS29sWTNUcDdJYmdLWmJTYXZxX3dlZzVhZmVEWFloUHpkVHliZmJvYkVIVW1ydTBrbGtVaUdLUmRNT1c4UmRrMF",
+  "date": "2026-10-28T20:07:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "73b37fda1cd94762",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "“Defenders are years behind attackers, and the toughest challenges are still ahead” - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZDhHcGJLb3IyR25hc2JLbnlYSGF5Q214TTZjR2NSbDZNdDNZdmM3WmFHWkJ1WTZIWWZPSXFuWV9SRU45Rnh2MEpvME9EVy1wVlRoMEYwWTdKaU5hV2dMNUo1ZkNuNTA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZDhHcGJLb3IyR25hc2JLbnlYSGF5Q214TTZjR2NSbDZNdDNZdmM3WmFHWkJ1WTZIWWZPSXFuWV9SRU45Rnh2MEpvME9EVy1wVlRoMEYwWTdKaU5hV2dMNUo1ZkNuNTA?oc=5\" target=\"_blank\">“Defenders are years behind attackers, and the toughest challenges a",
+  "date": "2026-10-28T20:06:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "024e0cf68e35a2ca",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PMGC Holdings Details Acquisition Platform and Maritime Defense Technology Plans - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb3hiWERQRzVqdWFUa3BDd0J3ZUxfNDU4UkhqYmVSWDJLbGdmS0hVT3ZTRy1wa2N3ck1YaXBsSG02VTJLTFdHclQ0eGR3U1ZxaXNHdlJWdWM5dVdyeWFHOTRZN1B2UnVER3k1SzB6ZUdsTHdXMmNSRllJSFd6eTlhX3FPVkdlVXY4YWRwMWZyRHhnUXZxa19WYm5GZkZzcjBtcWhsOWlWeGJRWHY0cmVOTVZvaFhlMGFfczJTbXpXd3MyUExEeVlvUVpBVmloWTZrR1pwVHdUZFI3UQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb3hiWERQRzVqdWFUa3BDd0J3ZUxfNDU4UkhqYmVSWDJLbGdmS0hVT3ZTRy1wa2N3ck1YaXBsSG02VTJLTFdHclQ0eGR3U1ZxaXNHdlJWdWM5dVdyeWFHOTRZN1B2UnVER3k1SzB6ZUdsTHdXMmNSRllJSFd6eTlhX3FPVkdlVXY4YWRwMWZyRHhnUXZxa19WYm5GZkZzcjBtcWhsOWlWeGJRWH",
+  "date": "2026-10-28T20:03:00.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
   "id": "7c835d64f4c422f0",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -33,6 +330,17 @@
   "fromCloud": "2026-10-28T2003.json"
  },
  {
+  "id": "c04a8c6e579d5ca4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Oracle eases AI spending worries with plan to turn cash flow positive - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWxPZy11QV9mWTN3NnBKTlNXVWhVQ3ZsSzA5bGRwZnRrNXZsQW83NWVreGhVbmhkNE1VeDc4V0VVamtQb0lCaFU3SEYzcG1paGJ3WWt1cHB2YnlUQ0VvTWNHcEdyalZMenkxSVo5Vm5MTlowcGR4UDZGcnZOcmhqM285amVvTmhLX2xIWTVUM0hXbUJsWlhfT2RWMUV6U2ZIeldYUkRXUzlNTVk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWxPZy11QV9mWTN3NnBKTlNXVWhVQ3ZsSzA5bGRwZnRrNXZsQW83NWVreGhVbmhkNE1VeDc4V0VVamtQb0lCaFU3SEYzcG1paGJ3WWt1cHB2YnlUQ0VvTWNHcEdyalZMenkxSVo5Vm5MTlowcGR4UDZGcnZOcmhqM285amVvTmhLX2xIWTVUM0hXbUJsWlhfT2RWMUV6U2ZIeldYUkRXUzlNTV",
+  "date": "2026-10-28T20:00:22.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
   "id": "9451c2f9e2124e53",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -42,6 +350,17 @@
   "date": "2026-10-28T20:00:13.000Z",
   "fetched": "2026-10-28T20:03:12.502Z",
   "fromCloud": "2026-10-28T2003.json"
+ },
+ {
+  "id": "e9d99ff10111cfc9",
+  "source": "The Economist – Finance & economics",
+  "group": "global-press",
+  "title": "China’s stock markets are the great global exception",
+  "link": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
+  "summary": "If the country is winning the future, why are its investors so glum?",
+  "date": "2026-10-28T19:48:19.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
  },
  {
   "id": "f523e76021db13d1",
@@ -97,6 +416,28 @@
   "date": "2026-10-28T19:34:13.000Z",
   "fetched": "2026-10-28T19:50:12.984Z",
   "fromCloud": "2026-10-28T1950.json"
+ },
+ {
+  "id": "4ede2570eeee5100",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלב C 242500 DEC מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tMUVGNFcxLWs2emdKSS1SVS1pWm84QzRLa1c1b2VUMmRwWDZFbmV5LWdTWHhiR3AtZ2VQTHF4VmlCNW0tM1RFdE81THdUX191SWZwbmVoY2dJWE1GT3doT1BZdlNGa3NjS0lwOEhCbzVkVDhJ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4tMUVGNFcxLWs2emdKSS1SVS1pWm84QzRLa1c1b2VUMmRwWDZFbmV5LWdTWHhiR3AtZ2VQTHF4VmlCNW0tM1RFdE81THdUX191SWZwbmVoY2dJWE1GT3doT1BZdlNGa3NjS0lwOEhCbzVkVDhJ?oc=5\" target=\"_blank\">אלב C 242500 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-10-28T19:32:59.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
+ },
+ {
+  "id": "0987fae7e35cd3db",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלב C 260000 JAN מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IQ05NQVluZEhYTHBHYzNLeTFwOW1tYWlXUU9JWWpwU1RsRE1QN0dnV2hvUUYtT0RzbUU0azBjVDNwdDdGSkpPajdQWXdPNTN3ZkhKbGV1ZE1qM1laMVk3RTdrNkVFSFdUa1hIOGNRRTc4a2la?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9IQ05NQVluZEhYTHBHYzNLeTFwOW1tYWlXUU9JWWpwU1RsRE1QN0dnV2hvUUYtT0RzbUU0azBjVDNwdDdGSkpPajdQWXdPNTN3ZkhKbGV1ZE1qM1laMVk3RTdrNkVFSFdUa1hIOGNRRTc4a2la?oc=5\" target=\"_blank\">אלב C 260000 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-10-28T19:32:49.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
  },
  {
   "id": "32aa1f2f2aa37b7d",
@@ -174,6 +515,17 @@
   "date": "2026-10-28T19:20:15.000Z",
   "fetched": "2026-10-28T19:33:13.537Z",
   "fromCloud": "2026-10-28T1933.json"
+ },
+ {
+  "id": "c08f72d3722cef90",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אנל P 022000 JAN מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtSlJQVDdNWkJ6dFI4TnVlckx2NzR4N2JsWXBlZ2pTMnFkelpKQTBaWm5ROW9VVWZiQTkyT2tabk1JZHNlUFhyMmNYSW1UREV5anpKVVV4NHMzM0NVYTNXUVlyLTZLcWI0RG1iV2psTnNzbjNI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAtSlJQVDdNWkJ6dFI4TnVlckx2NzR4N2JsWXBlZ2pTMnFkelpKQTBaWm5ROW9VVWZiQTkyT2tabk1JZHNlUFhyMmNYSW1UREV5anpKVVV4NHMzM0NVYTNXUVlyLTZLcWI0RG1iV2psTnNzbjNI?oc=5\" target=\"_blank\">אנל P 022000 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-10-28T19:18:11.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
  },
  {
   "id": "0fdd764c79347ca1",
@@ -944,6 +1296,17 @@
   "date": "2026-10-28T16:53:43.000Z",
   "fetched": "2026-10-28T17:33:24.474Z",
   "fromCloud": "2026-10-28T1733.json"
+ },
+ {
+  "id": "4af772a7f22db1fa",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Shachar Feinblit - calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pVGVvclFCYVBvR3RGTDJkcUxjM08wWVVvcktOZXZ2Q0c0UjRxcGdpb1hwUkpIWHY4U2g5d0tTQ1daOHJ0VktBanlrTzBydk1FRWx1U2NRd0tLWi1kaHBN?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pVGVvclFCYVBvR3RGTDJkcUxjM08wWVVvcktOZXZ2Q0c0UjRxcGdpb1hwUkpIWHY4U2g5d0tTQ1daOHJ0VktBanlrTzBydk1FRWx1U2NRd0tLWi1kaHBN?oc=5\" target=\"_blank\">Shachar Feinblit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+  "date": "2026-10-28T16:53:28.000Z",
+  "fetched": "2026-10-28T20:33:12.531Z",
+  "fromCloud": "2026-10-28T2033.json"
  },
  {
   "id": "afa3935eefacb11e",
