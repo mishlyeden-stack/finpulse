@@ -2903,5 +2903,19 @@
   "first": 1793176507251,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "בורסה ישראל | ירידות חדות + שקל נחלש — בוקר אחרי הבחירות, 28 אוקטובר 2026",
+  "level": "red",
+  "first": 1793178310229,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "Node2Shell | פגיעות Brotli קריטית — עדכון דחוף ל-Node.js, .NET, Python",
+  "level": "yellow",
+  "first": 1793178310229,
+  "sentLive": false,
+  "candidate": true
  }
 ]
