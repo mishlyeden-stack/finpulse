@@ -1,5 +1,27 @@
 [
  {
+  "id": "49fc0d6b72a50f39",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "SK Hynix profits soar amid roaring AI chip demand",
+  "link": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+  "summary": "South Korean group posts better than expected operating profit for third quarter and announces stock buybacks",
+  "date": "2026-10-28T01:15:00.000Z",
+  "fetched": "2026-10-28T01:33:12.945Z",
+  "fromCloud": "2026-10-28T0133.json"
+ },
+ {
+  "id": "32c145f17729fcf5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "H2O America (HTO) (Q3 2026) Earnings Call Highlights: QuadVest Acquisition Expands Texas ... - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEhvSVV0a1hfQnBYUjdwREtVWDE0al9nRi13QUNaOHpYODYwNU9nUnk2TkdfdE9xek9mVUZGTHc4RWpWaU9NdWc3NEVyNno2UDVBUUoyMHZkbkp2WmVpaFB4cF9EZ1g0SnpBLTdudzhIVlo4UGFza3p4LXg4Qko0blEtbEcyUzRyejBCUkpJS0YtUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEhvSVV0a1hfQnBYUjdwREtVWDE0al9nRi13QUNaOHpYODYwNU9nUnk2TkdfdE9xek9mVUZGTHc4RWpWaU9NdWc3NEVyNno2UDVBUUoyMHZkbkp2WmVpaFB4cF9EZ1g0SnpBLTdudzhIVlo4UGFza3p4LXg4Qko0blEtbEcyUzRyejBCUkpJS0YtUQ?oc=5\" target=\"_blank\">H2O Ameri",
+  "date": "2026-10-28T01:07:00.000Z",
+  "fetched": "2026-10-28T01:33:12.945Z",
+  "fromCloud": "2026-10-28T0133.json"
+ },
+ {
   "id": "94b9fb494b8d7d7b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -33,6 +55,17 @@
   "fromCloud": "2026-10-28T0103.json"
  },
  {
+  "id": "100fd8348c0e85da",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Broadcom acquisition of CA seeks broader portfolio - TechTarget",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUZ1VS15a2xqaUxTa0wybF91bjBQZ1V0S1ltdVZ3ekpIamtGd1RLSlFiVlVna1BqNnpFMmlhQVFmVnJDcnNjRTRCZ0phTkxDMDRQZU9XUXgxMmFYbkdxRlR3RE1zLWJZUFY4THpyaTBwMWVNdVYtOGNvT1ZDWmZ5Z1o0bXNhaEF4TE9Gb3RRODRKU1RM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUZ1VS15a2xqaUxTa0wybF91bjBQZ1V0S1ltdVZ3ekpIamtGd1RLSlFiVlVna1BqNnpFMmlhQVFmVnJDcnNjRTRCZ0phTkxDMDRQZU9XUXgxMmFYbkdxRlR3RE1zLWJZUFY4THpyaTBwMWVNdVYtOGNvT1ZDWmZ5Z1o0bXNhaEF4TE9Gb3RRODRKU1RM?oc=5\" target=\"_blank\">Broadco",
+  "date": "2026-10-28T00:04:07.000Z",
+  "fetched": "2026-10-28T01:33:12.945Z",
+  "fromCloud": "2026-10-28T0133.json"
+ },
+ {
   "id": "b468680de3a34c7a",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -53,6 +86,17 @@
   "date": "2026-10-28T00:01:34.000Z",
   "fetched": "2026-10-28T00:33:12.678Z",
   "fromCloud": "2026-10-28T0033.json"
+ },
+ {
+  "id": "defc9ef1ee215310",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "המוסך ביקש לפסול את שמאי הפניקס, והשופט: \"חובה לנמק\" - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wQzVVaTNTLVNMMGhfRThUc2xUTTN1RGNSQTNaQXVzX2VSYzdpQUVDSHBWQ2RUSDhEeWpjbnRQQ21laUdxRzR6S1BkVFR0eHM4d2p3aHM0dC16c2NCajdfc3VsQUcyaEk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wQzVVaTNTLVNMMGhfRThUc2xUTTN1RGNSQTNaQXVzX2VSYzdpQUVDSHBWQ2RUSDhEeWpjbnRQQ21laUdxRzR6S1BkVFR0eHM4d2p3aHM0dC16c2NCajdfc3VsQUcyaEk?oc=5\" target=\"_blank\">המוסך ביקש לפסול את שמאי הפניקס, והשופט: \"חובה לנמק\"</a>&nbsp;&nbsp;",
+  "date": "2026-10-28T00:00:00.000Z",
+  "fetched": "2026-10-28T01:33:12.945Z",
+  "fromCloud": "2026-10-28T0133.json"
  },
  {
   "id": "1517aba0de5e9ae3",
@@ -88,6 +132,17 @@
   "fromCloud": "2026-10-28T0033.json"
  },
  {
+  "id": "e3495da89051664d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Boomi’s Rivery acquisition aimed at AI, real-time analysis - TechTarget",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNXVsMGdHNXhsaHBoTUR3ZGdqd3dMQjhyZEFDcmZxWGRzLVJtNEg2c190Q3g5Nkx1cFBwOUZWM3hsOG1HZ2RoRkxjams1NVh5T3lCQlNCS3FPQW85aWd4NkJVd1VVcUZXNHJMaW9MQXROWEExTVB3UlpTNTVSY2ZPMTZ6Z3B2YTM5c0ZpcGV3dHRFZzJnSGRsejJ1VVc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNXVsMGdHNXhsaHBoTUR3ZGdqd3dMQjhyZEFDcmZxWGRzLVJtNEg2c190Q3g5Nkx1cFBwOUZWM3hsOG1HZ2RoRkxjams1NVh5T3lCQlNCS3FPQW85aWd4NkJVd1VVcUZXNHJMaW9MQXROWEExTVB3UlpTNTVSY2ZPMTZ6Z3B2YTM5c0ZpcGV3dHRFZzJnSGRsejJ1VVc?oc=5\" target=\"_bla",
+  "date": "2026-10-27T23:30:08.000Z",
+  "fetched": "2026-10-28T01:33:12.945Z",
+  "fromCloud": "2026-10-28T0133.json"
+ },
+ {
   "id": "c82aaf8dad9ad544",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -108,6 +163,28 @@
   "date": "2026-10-27T23:29:00.000Z",
   "fetched": "2026-10-27T23:33:11.914Z",
   "fromCloud": "2026-10-27T2333.json"
+ },
+ {
+  "id": "3404a85b8c6c98f8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Analytics vendor SAS an acquisition target of Broadcom - TechTarget",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV21Ma3ZWNFBEQ0ptbGhVa09xZXoyS0hrVUFQdEptX1RsYlhFWTVVc1lpdVZqRnNEdGlkT3hMQ0VwUnRhWHczSEZkSnFaSVMwQU5HWDF5VEFROHdmZzNtdmtWZFluOTBEX244TkttY2NvZWJ6a1VkRVRSN3hfV0R6SjlMMHJkWW5iZi0xN2FoOExEV3BwZFBBaWNB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQV21Ma3ZWNFBEQ0ptbGhVa09xZXoyS0hrVUFQdEptX1RsYlhFWTVVc1lpdVZqRnNEdGlkT3hMQ0VwUnRhWHczSEZkSnFaSVMwQU5HWDF5VEFROHdmZzNtdmtWZFluOTBEX244TkttY2NvZWJ6a1VkRVRSN3hfV0R6SjlMMHJkWW5iZi0xN2FoOExEV3BwZFBBaWNB?oc=5\" target=\"_blank\"",
+  "date": "2026-10-27T23:27:45.000Z",
+  "fetched": "2026-10-28T01:33:12.945Z",
+  "fromCloud": "2026-10-28T0133.json"
+ },
+ {
+  "id": "50c532ab7feb21d8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Alteryx acquisition of Hyper Anna adds AI capabilities - TechTarget",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQThqYUxvenZ3REVTbXhTUUlIZkhVdGhQT3h5MmpfRldVS2NLNk9xcHpmdWlQTDZ5NnpfMnNNR2VQcktRTzBTYl9pVUZ3VjdDVGI0bmtlQThwVGt1UHFuZnNFSWFlUVJXcFdzVXVjeHhYYlkxRmphcTMtRmN5eVBjWDIxNDJOOW1vSGVMZnV2dkNsUC0tVXZqMEJn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQThqYUxvenZ3REVTbXhTUUlIZkhVdGhQT3h5MmpfRldVS2NLNk9xcHpmdWlQTDZ5NnpfMnNNR2VQcktRTzBTYl9pVUZ3VjdDVGI0bmtlQThwVGt1UHFuZnNFSWFlUVJXcFdzVXVjeHhYYlkxRmphcTMtRmN5eVBjWDIxNDJOOW1vSGVMZnV2dkNsUC0tVXZqMEJn?oc=5\" target=\"_blank\"",
+  "date": "2026-10-27T23:27:15.000Z",
+  "fetched": "2026-10-28T01:33:12.945Z",
+  "fromCloud": "2026-10-28T0133.json"
  },
  {
   "id": "77064833b07cb9fa",
