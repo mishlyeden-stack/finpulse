@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 37
+  "blocked": 39
  },
  "en.globes.co.il": {
   "ok": 8,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 33,
+  "ok": 35,
   "blocked": 0
  },
  "news.google.com": {
@@ -40,7 +40,7 @@
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 6,
+  "ok": 7,
   "blocked": 0
  },
  "ft.com": {
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 12,
+  "ok": 13,
   "blocked": 0
  },
  "ice.co.il": {
