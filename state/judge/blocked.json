@@ -1,14 +1,14 @@
 {
  "globes.co.il": {
-  "ok": 33,
+  "ok": 35,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 33
+  "blocked": 36
  },
  "en.globes.co.il": {
-  "ok": 6,
+  "ok": 7,
   "blocked": 0
  },
  "bizportal.co.il": {
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 20
+  "blocked": 21
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,14 +33,14 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 11
+  "blocked": 12
  },
  "silicon.co.uk": {
   "ok": 1,
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 0
  },
  "ft.com": {
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 8,
-  "blocked": 12
+  "blocked": 13
  },
  "funder.co.il": {
   "ok": 0,
@@ -160,7 +160,7 @@
   "blocked": 1
  },
  "avnetwork.com": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "prnewswire.com": {
@@ -173,7 +173,7 @@
  },
  "streetinsider.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "cnbc.com": {
   "ok": 2,
@@ -282,5 +282,9 @@
  "newsquawk.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "fourweekmba.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
