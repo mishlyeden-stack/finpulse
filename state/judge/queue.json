@@ -1,5 +1,27 @@
 [
  {
+  "id": "cef76bfc00102509",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Allegiant Board Member Resigns After Sun Country Acquisition - The Aviation Hub",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjQtNFVCSUtON0JLZmNPbzMwYnU4YVk4VDJpRjFpZzliZ0FzRHlacW9hMml6Qms3bDJFN2xfYWlla0JES1lKa0JhcXlqcmR4ZG0zbUxBenN0d0F4V0ZJMXNCZExtaVF2OERnS3FLMVY3Qkd3cGNnWU4tX2piWHo3d0JMcUpkN3JIaTk5Nw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjQtNFVCSUtON0JLZmNPbzMwYnU4YVk4VDJpRjFpZzliZ0FzRHlacW9hMml6Qms3bDJFN2xfYWlla0JES1lKa0JhcXlqcmR4ZG0zbUxBenN0d0F4V0ZJMXNCZExtaVF2OERnS3FLMVY3Qkd3cGNnWU4tX2piWHo3d0JMcUpkN3JIaTk5Nw?oc=5\" target=\"_blank\">Allegiant Board M",
+  "date": "2026-10-28T03:00:00.000Z",
+  "fetched": "2026-10-28T03:33:12.348Z",
+  "fromCloud": "2026-10-28T0333.json"
+ },
+ {
+  "id": "34d73d777881eb8f",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Bolsonaro lands in US after fleeing Brazil following election defeat",
+  "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
+  "summary": "Rightwing politician and son of jailed ex-president Jair Bolsonaro arrived in Florida on Tuesday evening",
+  "date": "2026-10-28T02:58:30.000Z",
+  "fetched": "2026-10-28T03:33:12.348Z",
+  "fromCloud": "2026-10-28T0333.json"
+ },
+ {
   "id": "d2d4be55f9e27e90",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -4275,83 +4297,6 @@
   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TckdQdE5ndm50dk9ESVdmMTVfcWRkbXhUa2E3NHhTa0E4d0JXaGhsZ2lkODBQTjlXWEI4RThKenRTLXQxZG9STFVvSW4wcHZZVy1IanphZnlVTDlGUjZkUFFYY3J4a0Ew?oc=5",
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TckdQdE5ndm50dk9ESVdmMTVfcWRkbXhUa2E3NHhTa0E4d0JXaGhsZ2lkODBQTjlXWEI4RThKenRTLXQxZG9STFVvSW4wcHZZVy1IanphZnlVTDlGUjZkUFFYY3J4a0Ew?oc=5\" target=\"_blank\">DB X-Trackers Msci Japan TRN Index ETF - עסקאות</a>&nbsp;&nbsp;<fon",
   "date": "2026-10-27T04:30:08.000Z",
-  "fetched": "2026-10-28T00:03:11.796Z",
-  "fromCloud": "2026-10-28T0003.json"
- },
- {
-  "id": "5a27ecf2389f8820",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פניקס הון אגח כ - דוחות כספיים, רווח והפסד של האג\"ח - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11cG9CSXBjR21GTTNYUk1jT093TWRGRjJRa3U0YzRJUEpiblVXdXk5VUJhVm5Mby1DSjdxX3RFeEM0QzBqc19UVEVBVm5JNWhUSWtwaS1JaXB0TEZ6YUxJbnIzRVYtQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE11cG9CSXBjR21GTTNYUk1jT093TWRGRjJRa3U0YzRJUEpiblVXdXk5VUJhVm5Mby1DSjdxX3RFeEM0QzBqc19UVEVBVm5JNWhUSWtwaS1JaXB0TEZ6YUxJbnIzRVYtQQ?oc=5\" target=\"_blank\">פניקס הון אגח כ - דוחות כספיים, רווח והפסד של האג\"ח</a>&nbsp;&nbsp;<f",
-  "date": "2026-10-27T03:20:42.000Z",
-  "fetched": "2026-10-27T20:03:13.733Z",
-  "fromCloud": "2026-10-27T2003.json"
- },
- {
-  "id": "46f99b274680b4d7",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פניקס הון אגח יט - חדשות האג\"ח - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jNUI3ZlZPcXVZdGZaWWg3VTd1SHpfQTZ1OWd4elBnOEFQOU1kVEFkNmhoUzNjMnB3Zm5VSzdMaEhOelhhakkyT255c0dYTjlTUmhXXzIwcmJUTWhFRnd3U0J3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jNUI3ZlZPcXVZdGZaWWg3VTd1SHpfQTZ1OWd4elBnOEFQOU1kVEFkNmhoUzNjMnB3Zm5VSzdMaEhOelhhakkyT255c0dYTjlTUmhXXzIwcmJUTWhFRnd3U0J3?oc=5\" target=\"_blank\">פניקס הון אגח יט - חדשות האג\"ח</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורט",
-  "date": "2026-10-27T03:20:41.000Z",
-  "fetched": "2026-10-27T20:03:13.733Z",
-  "fromCloud": "2026-10-27T2003.json"
- },
- {
-  "id": "e0ef9b3491b6174f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פניקס הון אגח כ - מידע על עסקאות באג\"ח - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YWTZNOFRNSWxGLUhVbkVTb0tNOE5jTHlxbXVLck5BbzNETU0tS1hSMHJVS0Z6WHFGWWhGVVdMTm1xSk9hYW5IZEpaTG5GRFIxYTZuZXZPMms4dnFaNEpzaHBzZzV2ZEk5SW1BYQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5YWTZNOFRNSWxGLUhVbkVTb0tNOE5jTHlxbXVLck5BbzNETU0tS1hSMHJVS0Z6WHFGWWhGVVdMTm1xSk9hYW5IZEpaTG5GRFIxYTZuZXZPMms4dnFaNEpzaHBzZzV2ZEk5SW1BYQ?oc=5\" target=\"_blank\">פניקס הון אגח כ - מידע על עסקאות באג\"ח</a>&nbsp;&nbsp;<font c",
-  "date": "2026-10-27T03:20:41.000Z",
-  "fetched": "2026-10-28T00:03:11.796Z",
-  "fromCloud": "2026-10-28T0003.json"
- },
- {
-  "id": "4e764c549a7caf4e",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פניקס הון אגח יט - דוחות כספיים, רווח והפסד של האג\"ח - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxNnZuelJvLXgtU1FOQndXUFU1bmpiR1gxV2tTMUFxbjFrMHd3bmZVQTZBYzIxdzNZd0VlaklWSjJRWnRTekJJYVRvWVNsNDM3TG5aa2x6Ry1SZS0xcDRpekh1clN3dw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxNnZuelJvLXgtU1FOQndXUFU1bmpiR1gxV2tTMUFxbjFrMHd3bmZVQTZBYzIxdzNZd0VlaklWSjJRWnRTekJJYVRvWVNsNDM3TG5aa2x6Ry1SZS0xcDRpekh1clN3dw?oc=5\" target=\"_blank\">פניקס הון אגח יט - דוחות כספיים, רווח והפסד של האג\"ח</a>&nbsp;&nbsp;<",
-  "date": "2026-10-27T03:20:39.000Z",
-  "fetched": "2026-10-27T20:03:13.733Z",
-  "fromCloud": "2026-10-27T2003.json"
- },
- {
-  "id": "4ad40435cd5ebc25",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פניקס הון אגח יט - מידע על עסקאות באג\"ח - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4Wi1fZFpfQ2xlcFEtX1NsN2tENUZVMHZQUjVEWVJsbzlRUVMwc2tMeHUyRExEUHJKREJrbHU1ajQ1alVzV1FudzdDS2hSbWV0QmVEUGthY2xKeVY4dzVSaS1zNmpwa2VmOGViYQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB4Wi1fZFpfQ2xlcFEtX1NsN2tENUZVMHZQUjVEWVJsbzlRUVMwc2tMeHUyRExEUHJKREJrbHU1ajQ1alVzV1FudzdDS2hSbWV0QmVEUGthY2xKeVY4dzVSaS1zNmpwa2VmOGViYQ?oc=5\" target=\"_blank\">פניקס הון אגח יט - מידע על עסקאות באג\"ח</a>&nbsp;&nbsp;<font ",
-  "date": "2026-10-27T03:20:39.000Z",
-  "fetched": "2026-10-28T00:03:11.796Z",
-  "fromCloud": "2026-10-28T0003.json"
- },
- {
-  "id": "ba6d5b24762b22f4",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פניקס הון אגח כ - מידע על פרופיל חברת האג\"ח - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nSklNN3FtRnhxSVpmX3F6LTVoMllNTjhzdVhzRWtXR0Q4RHppaVpJaVdwTGVfbENaZnB4UG5renI4VVE4TzNUMjhfQTAyTFJRYTZGeDNwU1Q0UUJoOE9CUkcxSHY5UQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nSklNN3FtRnhxSVpmX3F6LTVoMllNTjhzdVhzRWtXR0Q4RHppaVpJaVdwTGVfbENaZnB4UG5renI4VVE4TzNUMjhfQTAyTFJRYTZGeDNwU1Q0UUJoOE9CUkcxSHY5UQ?oc=5\" target=\"_blank\">פניקס הון אגח כ - מידע על פרופיל חברת האג\"ח</a>&nbsp;&nbsp;<font colo",
-  "date": "2026-10-27T03:20:39.000Z",
-  "fetched": "2026-10-28T00:03:11.796Z",
-  "fromCloud": "2026-10-28T0003.json"
- },
- {
-  "id": "dd51dd23692c36a5",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פניקס הון אגח יט - מידע על פרופיל חברת האג\"ח - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SRmI0bG1wRmhFbDJ4cmw2NVJVQ2NCeTF1bG1UdDh0ODlBSk5jQXI5aXRDVTVJdUs4QmlMQTdHT3V4OGlIN3JGdWFfZGFYd1U5bGRSRDFoZlBLQ1dxaDYzNTN4YVdWQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SRmI0bG1wRmhFbDJ4cmw2NVJVQ2NCeTF1bG1UdDh0ODlBSk5jQXI5aXRDVTVJdUs4QmlMQTdHT3V4OGlIN3JGdWFfZGFYd1U5bGRSRDFoZlBLQ1dxaDYzNTN4YVdWQQ?oc=5\" target=\"_blank\">פניקס הון אגח יט - מידע על פרופיל חברת האג\"ח</a>&nbsp;&nbsp;<font col",
-  "date": "2026-10-27T03:20:37.000Z",
   "fetched": "2026-10-28T00:03:11.796Z",
   "fromCloud": "2026-10-28T0003.json"
  }
