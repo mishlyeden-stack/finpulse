@@ -5,19 +5,19 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 42
+  "blocked": 44
  },
  "en.globes.co.il": {
-  "ok": 8,
+  "ok": 10,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 39,
+  "ok": 40,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 30
+  "blocked": 34
  },
  "13tv.co.il": {
   "ok": 0,
@@ -40,7 +40,7 @@
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 7,
+  "ok": 8,
   "blocked": 0
  },
  "ft.com": {
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 12,
+  "ok": 13,
   "blocked": 0
  },
  "securityweek.com": {
@@ -64,15 +64,15 @@
   "blocked": 4
  },
  "datacenterdynamics.com": {
-  "ok": 8,
-  "blocked": 13
+  "ok": 9,
+  "blocked": 14
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 4
  },
  "calcalistech.com": {
-  "ok": 12,
+  "ok": 13,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 0
  },
  "inquirer.com": {
@@ -340,6 +340,14 @@
   "blocked": 1
  },
  "fedscoop.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "gizmodo.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "gevernova.com": {
   "ok": 1,
   "blocked": 0
  }

@@ -3204,5 +3204,68 @@
   "first": 1793249173863,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "אלפאבית | תזרים חופשי שלילי 9.1 מיליארד דולר למרות רווח 26.2 מיליארד + מניה צונחת 10% | 29 אוקטובר 2026",
+  "level": "red",
+  "first": 1793252300214,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "ישראל | ממשלת מעבר ותקציב המשכי — השלכות פרקטיות | 29 אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793252300214,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Elementor | 60% קיצוץ בכוח אדם — AI ממדד מחדש את המשרה | אוקטובר 2026",
+  "level": "learn",
+  "first": 1793252300215,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "IBI | ת״א לא אטרקטיבית בגלל מכפילים, לא פוליטיקה — אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793252300215,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רדוור | הכנסות 84.4 מיליון דולר, +12%, רווח 32 סנט — עקפה תחזיות | 28 אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793252300215,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Enphase / Infineon | טרנספורמרים GaN 900V ממוצב לראשונה במרכזי נתונים AI | 28 אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793252300215,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סטלנטיס | תוכנית היפוך + קיצוצי עלויות — גירעון מזומן 4.5 מיליארד יורו Q3 | אוקטובר 2026",
+  "level": "learn",
+  "first": 1793252512713,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קלאסיק | אקזיט מייסדים 200 מיליון דולר + עובדים מחלקים 450 מיליון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793252512713,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "GE Vernova | רכישת Trench Group + צבר 197 מיליארד — אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793252512713,
+  "sentLive": false,
+  "candidate": true
  }
 ]
