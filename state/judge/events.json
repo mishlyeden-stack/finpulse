@@ -3267,5 +3267,19 @@
   "first": 1793252512713,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "בורסה ישראל + אג״ח + שקל | בוקר 29 אוקטובר 2026",
+  "level": "red",
+  "first": 1793255699389,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "פייבר | עקפה תחזיות + העלאת תחזית + זינוק 11% | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793255699389,
+  "sentLive": false,
+  "candidate": true
  }
 ]
