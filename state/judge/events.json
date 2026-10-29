@@ -3407,5 +3407,26 @@
   "first": 1793267384726,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "ECB | לגארד פורשת פברואר 2027 — תשעה חודשים מוקדם | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793270205495,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Cisco SD-WAN | Zero-Day של Volt Typhoon — Silent Train | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793270205495,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Cisco Firewall VPN | Zero-Day שני מאוגוסט — CVE-2026-76418 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793270205495,
+  "sentLive": false,
+  "candidate": true
  }
 ]
