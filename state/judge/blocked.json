@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 40,
+  "ok": 44,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 45
+  "blocked": 48
  },
  "en.globes.co.il": {
   "ok": 10,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 43,
+  "ok": 45,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 37
+  "blocked": 39
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 13
+  "blocked": 15
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 25
+  "blocked": 27
  },
  "ecb.europa.eu": {
   "ok": 2,
@@ -56,23 +56,23 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 15,
+  "ok": 16,
   "blocked": 0
  },
  "ice.co.il": {
-  "ok": 0,
+  "ok": 1,
   "blocked": 4
  },
  "datacenterdynamics.com": {
   "ok": 9,
-  "blocked": 14
+  "blocked": 15
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 4
  },
  "calcalistech.com": {
-  "ok": 13,
+  "ok": 14,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -358,5 +358,9 @@
  "il.investing.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "ppc.land": {
+  "ok": 1,
+  "blocked": 0
  }
 }

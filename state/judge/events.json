@@ -3323,5 +3323,47 @@
   "first": 1793263108480,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "צרפת | הגבלת ישראל בתערוכת SOFINS — רק הגנה ויירוט, ללא נציגי ממשלה | 29 אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793264881289,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Anthropic | כלים למדידת ROI על הוצאות AI | 29 אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793264881290,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סין | האקרים מנצלים פגיעות ESXi כ-Zero-Day — ללא לוגים | 29 אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793264881290,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ישראל | מהפך לעליות — בנקים וביטוח מובילים, טכנולוגיה נחלשת | 29 אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793264881290,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל | נסיגה קלה — דולר חוזר מעל 3.12 | 29 אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793265109382,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גוגל | פתיחת ג'מיני וחיפוש לאפליקציות חיצוניות — מלחמת סוכני AI | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793265498105,
+  "sentLive": false,
+  "candidate": true
  }
 ]
