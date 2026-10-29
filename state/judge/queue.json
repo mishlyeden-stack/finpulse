@@ -1,5 +1,38 @@
 [
  {
+  "id": "c9bbe62d5435994d",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Starbucks is about to report earnings. Here's what to expect",
+  "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+  "summary": "Starbucks stock has climbed about 24% this year, raising its market cap to roughly $119 billion.",
+  "date": "2026-10-29T19:30:01.000Z",
+  "fetched": "2026-10-29T19:33:12.888Z",
+  "fromCloud": "2026-10-29T1933.json"
+ },
+ {
+  "id": "ec156b04772c17d6",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - RIVERVIEW BANCORP INC (0001041368) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1041368/000093905726000282/0000939057-26-000282-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0000939057-26-000282 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-29T19:09:14.000Z",
+  "fetched": "2026-10-29T19:33:12.888Z",
+  "fromCloud": "2026-10-29T1933.json"
+ },
+ {
+  "id": "6dc05951dbd586aa",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1959961/000119312526437636/0001193125-26-437636-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0001193125-26-437636 <b>Size:</b> 183 KB <br>Item 8.01: Other Events",
+  "date": "2026-10-29T19:05:25.000Z",
+  "fetched": "2026-10-29T19:33:12.888Z",
+  "fromCloud": "2026-10-29T1933.json"
+ },
+ {
   "id": "8812e3c558b2e843",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
