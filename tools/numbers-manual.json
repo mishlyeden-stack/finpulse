@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "numbers": [
     {
       "key": "cpi",
@@ -16,12 +16,12 @@
     {
       "key": "ta35",
       "label": "מדד ת״א 35",
-      "value": "4,206",
-      "change": "+1.99%",
-      "note": "נעילה 26.10",
+      "value": "4,130",
+      "change": "-1.81%",
+      "note": "נעילה 28.10",
       "source": "https://il.investing.com/indices/ta25-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-10-26",
+      "asOf": "2026-10-28",
       "maxAgeDays": 3
     },
     {
@@ -38,12 +38,12 @@
     {
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
-      "value": "4.99%",
+      "value": "5.015%",
       "change": "+0.03",
-      "note": "נכון ל-26.10",
+      "note": "נכון ל-28.10",
       "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-10-26",
+      "asOf": "2026-10-28",
       "maxAgeDays": 3
     },
     {
@@ -73,6 +73,10 @@
     {
       "date": "15.11",
       "what": "מדד המחירים לאוקטובר"
+    },
+    {
+      "date": "09.12",
+      "what": "החלטת ריבית הפד (FOMC)"
     }
   ],
   "forecasts": [
