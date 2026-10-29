@@ -1,5 +1,16 @@
 [
  {
+  "id": "1149fec5e8f761e1",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "איזו ממשלה שלא תהיה, ההיי-טק צריך לעמוד בראש סדר העדיפויות",
+  "link": "https://www.pc.co.il/featured/460588/",
+  "summary": "בחירות 2026 הסתיימו במה שנראה, במציאות הפוליטית הישראלית, כ-Dead lock. נכון שמבחינת מספר המנדטים יש הכרעה ברורה &#8211; 67 מנדטים נגד המשך כהונתו של בנימין נתניהו כראש ממשלה ורק 53 מנדטים בעד, אבל 19 המנדטים של המפלגות הערביות נחשבים על ידי רוב המפלגות הציוניות כ-\"אקס טריטוריה\", ",
+  "date": "2026-10-29T18:09:04.000Z",
+  "fetched": "2026-10-29T18:33:15.051Z",
+  "fromCloud": "2026-10-29T1833.json"
+ },
+ {
   "id": "309fa92193eed5b8",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -31,6 +42,17 @@
   "date": "2026-10-29T17:57:38.000Z",
   "fetched": "2026-10-29T18:03:12.730Z",
   "fromCloud": "2026-10-29T1803.json"
+ },
+ {
+  "id": "9f81fa5b47a471b9",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Ehud Schneorson leaving Paragon to join new cyber co",
+  "link": "https://en.globes.co.il/en/article-1001561422#utm_source=RSS",
+  "summary": "The new company, Ribon, has secured large investment commitments even before being formally incoroprated.",
+  "date": "2026-10-29T17:53:00.000Z",
+  "fetched": "2026-10-29T18:33:15.051Z",
+  "fromCloud": "2026-10-29T1833.json"
  },
  {
   "id": "05fc98cbd803fa35",
