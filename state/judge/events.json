@@ -3155,5 +3155,54 @@
   "first": 1793247408652,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "בוסטון סיינטיפיק | מתקפת סייבר גורמת לירידה צפויה במכירות Q4 | אוקטובר 2026",
+  "level": "learn",
+  "first": 1793248674866,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "IAI / אלתא | מיזוג לתוך ת״א בלב תעשייה אווירית לקראת הנפקה 2027 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793248674867,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Parsons | פרופיל חוזי OTA + מעבר CFO | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793248674867,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ישראל | ירידות חדות מוחקות תשואות אוקטובר — בוקר אחרי בחירות 28.10 | אוקטובר 2026",
+  "level": "red",
+  "first": 1793249173862,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "בורסה ישראל | המלצות חזרה לשוק בתרחיש ממשלת אחדות — הפניקס וחדד | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793249173862,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מניות רחפנים | ירידה 50% מתחילת השנה + בחירות אמצע מאיימות | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793249173862,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "DHS | ביטול מערכת תכנון רכש APFS — שינוי בנגישות מכרזים פדרליים | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793249173863,
+  "sentLive": false,
+  "candidate": true
  }
 ]

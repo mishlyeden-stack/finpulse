@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 37,
+  "ok": 39,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 40
+  "blocked": 42
  },
  "en.globes.co.il": {
   "ok": 8,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 37,
+  "ok": 39,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 28
+  "blocked": 30
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 22
+  "blocked": 23
  },
  "ecb.europa.eu": {
   "ok": 2,
@@ -72,7 +72,7 @@
   "blocked": 4
  },
  "calcalistech.com": {
-  "ok": 11,
+  "ok": 12,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -261,7 +261,7 @@
  },
  "reuters.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "globalbankingandfinance.com": {
   "ok": 0,
@@ -320,6 +320,26 @@
   "blocked": 1
  },
  "kan.org.il": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "benzinga.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "washingtontechnology.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "blockspace.media": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "israelhayom.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "fedscoop.com": {
   "ok": 1,
   "blocked": 0
  }
