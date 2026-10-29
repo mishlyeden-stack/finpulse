@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 23
+  "blocked": 25
  },
  "ecb.europa.eu": {
   "ok": 2,
@@ -269,7 +269,7 @@
  },
  "timesofisrael.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "ravepubs.com": {
   "ok": 0,
@@ -348,6 +348,10 @@
   "blocked": 1
  },
  "gevernova.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "mitrade.com": {
   "ok": 1,
   "blocked": 0
  }
