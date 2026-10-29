@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 42
+  "blocked": 43
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 15
+  "blocked": 16
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 14,
+  "ok": 15,
   "blocked": 0
  },
  "securityweek.com": {
