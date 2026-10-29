@@ -1,5 +1,287 @@
 [
  {
+  "id": "271d279dc5f2101d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Hancock Park Corporate Income, Inc. (0001661306) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000096/0001661306-26-000096-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0001661306-26-000096 <b>Size:</b> 153 KB <br>Item 2.02: Results of Operations and Financial Condition",
+  "date": "2026-10-29T13:30:14.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "7ed6ade7ebd4bfc6",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מובילאיי עקפה את הצפי ועדכנה את התחזית - אז למה המניה יורדת? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XbGREdlR1M1BaWXlwV2lBakZhbnlkVlFIc3cyeFQwczlZZHdsN1NsOUNDTFhwanhROGhST3pWYmZRcWIzWUttSlRGeEhoM1IxMGNuTFAzTmRzSW9iNEdaeXBCTFBDWlZ3TGVEcXg2RVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5XbGREdlR1M1BaWXlwV2lBakZhbnlkVlFIc3cyeFQwczlZZHdsN1NsOUNDTFhwanhROGhST3pWYmZRcWIzWUttSlRGeEhoM1IxMGNuTFAzTmRzSW9iNEdaeXBCTFBDWlZ3TGVEcXg2RVQ?oc=5\" target=\"_blank\">מובילאיי עקפה את הצפי ועדכנה את התחזית - אז למה המניה יו",
+  "date": "2026-10-29T13:28:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "0d51f520b0a6298b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Dream Finders Homes, Inc. (0001825088) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026068063/0001628280-26-068063-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0001628280-26-068063 <b>Size:</b> 414 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-29T13:27:53.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "00891a7330b9ff39",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "DoorDash Rises Over 6% Pre-Market After Announcing $17 Billion Instacart Acquisition: Can a 26% Premium Deliver Expected Returns? - TradingKey",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZlRtdFlvbE5FM0dOc1hRWVludi1ucVN5amRpSFkwMEdnbElFTVJSQ1RJWkxTNk5OcnFGVEw0dG1GNWtyZTA3Q2ZfZllKNTNDZ1BDQmpuS2tlblZwbXlWTVJWdTJWb0NTX00wVjBXbzQ1VjZzcGZPdExDVzNaVmJrUTlyRk9mYjFIaDRDaFVWOTNUdkRZb1hseTktS3E3VGlUUXU4d2o1bGMyN0hpamdwUmMxdjVCMmRBWHRWRm9nbFdmWHNLUWtzVnJMVFpQQms3U0RZVXVVb21KSzhoWktB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZlRtdFlvbE5FM0dOc1hRWVludi1ucVN5amRpSFkwMEdnbElFTVJSQ1RJWkxTNk5OcnFGVEw0dG1GNWtyZTA3Q2ZfZllKNTNDZ1BDQmpuS2tlblZwbXlWTVJWdTJWb0NTX00wVjBXbzQ1VjZzcGZPdExDVzNaVmJrUTlyRk9mYjFIaDRDaFVWOTNUdkRZb1hseTktS3E3VGlUUXU4d2o1bGMyN0",
+  "date": "2026-10-29T13:25:15.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "9a92f1ae09b13af2",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "פופ-אפ האלווין: החנות שפתוחה רק שלושה חודשים - ומגלגלת מיליונים - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcHN3bEVESnF1MUsxd0dva1ZRamRNY0ZFeTdBQTFqbUVtbGVsM3RwOTFEaXJQR09TbjByb1dIdWRiSkF2MzE0SlM4dWRFQ0lScGFLdF9EOVNid3gyZ1NXNUhhMU9BejA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcHN3bEVESnF1MUsxd0dva1ZRamRNY0ZFeTdBQTFqbUVtbGVsM3RwOTFEaXJQR09TbjByb1dIdWRiSkF2MzE0SlM4dWRFQ0lScGFLdF9EOVNid3gyZ1NXNUhhMU9BejA?oc=5\" target=\"_blank\">פופ-אפ האלווין: החנות שפתוחה רק שלושה חודשים - ומגלגלת מיליונים</a>&",
+  "date": "2026-10-29T13:24:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "9d748e5688afe604",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "בגלל הבחירות: העלאת המס על רכב חשמלי תידחה לפחות עד פברואר - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNYUdBY3lHQVNKT0lMMzNmMUlsZnBwWHN4RGNlaEVvQ0pCQXoyNWhTck5TQnFzWFB4MGdvT3l5UnlTSFAxaC1IbHBaU05nWmx5LWJrOEpqX25yS2I3dVVBQkd3Vjd6UFQ0TEFnMDZB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBNYUdBY3lHQVNKT0lMMzNmMUlsZnBwWHN4RGNlaEVvQ0pCQXoyNWhTck5TQnFzWFB4MGdvT3l5UnlTSFAxaC1IbHBaU05nWmx5LWJrOEpqX25yS2I3dVVBQkd3Vjd6UFQ0TEFnMDZB?oc=5\" target=\"_blank\">בגלל הבחירות: העלאת המס על רכב חשמלי תידחה לפחות עד פברואר<",
+  "date": "2026-10-29T13:22:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "cf69f6978f6dbf5e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Marvell Sinks 13%, Lumentum Jumps 6% on Reported Acquisition Talks; Coherent Holds Flat, Applied Optoelectronics Drops 3% - 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVEZTcktkeFJYM1FhdXRpeUpQcmtTTFRDLTE3ZUF4QzZGTjlVS0JhNnRHdVhON2UyQ3RMQ25vLUlrc1BmWW5wMGhqUTZJYUUxUFVJYUc1bU1wSDZEd2RBV08wQkZxTGtxU1lDNHVRZzBmV213S2JFc0w4RGxsOFpZczJkWDZ2b0NoY3hSNTcwNzhEOVJDOGF3dlFleHFBcXFkLUpSMUxLS2hJNTJjQXZRQ1Q2bWtoaXMxRFBiN3Y5eG9PZlF0d2VFV2ZraDNuNEdiN3lSSWx6TG5iQ1RMYnllSkE3R1MzaGNabnhnTC02dFI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVEZTcktkeFJYM1FhdXRpeUpQcmtTTFRDLTE3ZUF4QzZGTjlVS0JhNnRHdVhON2UyQ3RMQ25vLUlrc1BmWW5wMGhqUTZJYUUxUFVJYUc1bU1wSDZEd2RBV08wQkZxTGtxU1lDNHVRZzBmV213S2JFc0w4RGxsOFpZczJkWDZ2b0NoY3hSNTcwNzhEOVJDOGF3dlFleHFBcXFkLUpSMUxLS2hJNT",
+  "date": "2026-10-29T13:21:24.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "871820a5350b0a09",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "30 שנות מאסר לכל אחד מהאחים אלכסנדר: כמה ישלמו בקנסות ומה נשאר מאימפריית הנדל\"ן - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45aThBT05KaTNReFBJM2ZUaVVraF9JMUhuMURzYV9oa0JLY29VM1hwUldTckwtZ1NDbTNZN0tBd243QlM5SWEtVURlWTN3ZFc1cG9TaTBnMFNZVWlOeFF5UnBmX1l6Z2I5dmQ0VndEenA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE45aThBT05KaTNReFBJM2ZUaVVraF9JMUhuMURzYV9oa0JLY29VM1hwUldTckwtZ1NDbTNZN0tBd243QlM5SWEtVURlWTN3ZFc1cG9TaTBnMFNZVWlOeFF5UnBmX1l6Z2I5dmQ0VndEenA?oc=5\" target=\"_blank\">30 שנות מאסר לכל אחד מהאחים אלכסנדר: כמה ישלמו בקנסות ומ",
+  "date": "2026-10-29T13:21:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "4dcf8b8360dd02ad",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - KKR FS Income Trust Select (0001975736) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1975736/000110465926119974/0001104659-26-119974-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0001104659-26-119974 <b>Size:</b> 189 KB <br>Item 8.01: Other Events",
+  "date": "2026-10-29T13:20:18.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "6730315f1bfc97f1",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "צבר שיא לא הספיק: מניית קטרפילר צוללת בכ-12% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16XzVuWVdYLTY2N21VSFpDeDlMZUFsLTVKZkFSTE92S3kyU2V0VWlWemNwWGZ4LWpTbEhnMVAzYy1IWVQ0X2poQlJnLXZtZXVibmxaTjJBeFFtamg3VHc0ampBOHlKeEliUEpSb0dwSGU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE16XzVuWVdYLTY2N21VSFpDeDlMZUFsLTVKZkFSTE92S3kyU2V0VWlWemNwWGZ4LWpTbEhnMVAzYy1IWVQ0X2poQlJnLXZtZXVibmxaTjJBeFFtamg3VHc0ampBOHlKeEliUEpSb0dwSGU?oc=5\" target=\"_blank\">צבר שיא לא הספיק: מניית קטרפילר צוללת בכ-12%</a>&nbsp;&n",
+  "date": "2026-10-29T13:20:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "16ef125ac9065fea",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MMCC Arranges $25 Million Acquisition Loan for Retail Property in Troy, Michigan - Shopping Center Business",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2syUDFiaVZFaDMzTlNmdHBxa293QmZoTlNLTkxZcndhanV5c09wR3FqZWo5eDZrLWlsSms1ZUZUNUtSWW1CRS01WHhaWkUtV0hnQTJrWUtkeHNPR3VRZnVrRGtYX3hUMlM2SDN0d3E3SDNMUXgtQndoMFNGWUhhUHVJQkFKWmw3SUpCWkhvUVBhcXFMMUtrTUJTRERhdXFIZVZGR3hZdHpXY0g1NGZXQml4ckw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2syUDFiaVZFaDMzTlNmdHBxa293QmZoTlNLTkxZcndhanV5c09wR3FqZWo5eDZrLWlsSms1ZUZUNUtSWW1CRS01WHhaWkUtV0hnQTJrWUtkeHNPR3VRZnVrRGtYX3hUMlM2SDN0d3E3SDNMUXgtQndoMFNGWUhhUHVJQkFKWmw3SUpCWkhvUVBhcXFMMUtrTUJTRERhdXFIZVZGR3hZdHpXY0",
+  "date": "2026-10-29T13:19:40.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "9d04c22be957a606",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "רמ\"י מכרה שני מגרשי תעסוקה במעלה אדומים מתחת לשומה, ומכרז ל-183 דירות נותר בלי מציעים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pZU04dkR1X3VIenlmX01JMWZlMjFWR2dVTGxJa2RfRmlQLV9PUlBFdnV4WkIxVjVTOHNPY0REWE04N2hIRHFYR1drY2JBaDFndFdXdEZzVkw2aUducWtIdHV2N3k0Wk1JNWdsT1hn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1pZU04dkR1X3VIenlmX01JMWZlMjFWR2dVTGxJa2RfRmlQLV9PUlBFdnV4WkIxVjVTOHNPY0REWE04N2hIRHFYR1drY2JBaDFndFdXdEZzVkw2aUducWtIdHV2N3k0Wk1JNWdsT1hn?oc=5\" target=\"_blank\">רמ\"י מכרה שני מגרשי תעסוקה במעלה אדומים מתחת לשומה, ומכרז ל",
+  "date": "2026-10-29T13:19:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "5cbd4225d744c462",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Mobileye set for record low as earnings fail to revive growth - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04Tk0xTTJvVnVhM3NmcFM4Vmt3ejhMMmlSa0RQdUZoZkVrTkhDeUd4OXpWRzV2R3pmVDdqWmN3aFpiZDF6Zk0yNXBQMDdTNEFiWXlUZ1AzQmM1SmF5b05abFlWa00zZ0E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04Tk0xTTJvVnVhM3NmcFM4Vmt3ejhMMmlSa0RQdUZoZkVrTkhDeUd4OXpWRzV2R3pmVDdqWmN3aFpiZDF6Zk0yNXBQMDdTNEFiWXlUZ1AzQmM1SmF5b05abFlWa00zZ0E?oc=5\" target=\"_blank\">Mobileye set for record low as earnings fail to revive growth</a>&nb",
+  "date": "2026-10-29T13:17:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "3cf16539593347fb",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "החשמליות של רנו זינקו ב-85% אבל דאצ'יה גררה את המכירות למטה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJQk9pR3hXYk9taEVEWW02VlhxaVRuSVBUMVNGeENudUZfTW9QYy1seW1sSzRQUjItNmozeUNINTN0bzdMZVc2V1BzS1FObGxkNHZnLTdrbURCOVZ0TWpMc2h1Yw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJQk9pR3hXYk9taEVEWW02VlhxaVRuSVBUMVNGeENudUZfTW9QYy1seW1sSzRQUjItNmozeUNINTN0bzdMZVc2V1BzS1FObGxkNHZnLTdrbURCOVZ0TWpMc2h1Yw?oc=5\" target=\"_blank\">החשמליות של רנו זינקו ב-85% אבל דאצ'יה גררה את המכירות למטה</a>&nbsp;&nbs",
+  "date": "2026-10-29T13:16:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "ee6b7e9badfa2d8e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "כביש 4 נחסם שוב: מחאת הפלג הירושלמי נגד מעצרי העריקים משבשת את התנועה בבני ברק - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13V1A2TXhGUUVpbjBMSlZXZDNyU2lvTTlVYUZvb2xJWS1FbEFZV1YxeWVGTzJVZno4UUExYmRZYjFzWmdxVXBjMUJpby1BV1VhbkRTWVRnUjR4NENXV3NkVmJuS0RjdGpq?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE13V1A2TXhGUUVpbjBMSlZXZDNyU2lvTTlVYUZvb2xJWS1FbEFZV1YxeWVGTzJVZno4UUExYmRZYjFzWmdxVXBjMUJpby1BV1VhbkRTWVRnUjR4NENXV3NkVmJuS0RjdGpq?oc=5\" target=\"_blank\">כביש 4 נחסם שוב: מחאת הפלג הירושלמי נגד מעצרי העריקים משבשת את התנו",
+  "date": "2026-10-29T13:16:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "65ccd637b924944a",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "עידן חדש באפל: הוכרז MacBook Pro ראשון עם מסך מגע",
+  "link": "https://www.pc.co.il/news/world-news/460549/",
+  "summary": "אחד הדברים שאפיינו את ניידי ה-MacBook Pro של אפל (Apple) עד היום היה ששימוש במסך תומך מגע לא בא בחשבון עבורם. ההתנגדות לכך החלה עוד בימיו של סטיב ג'ובס , ונמשכה עד לא מזמן ממש, בימים האחרונים בתפקיד של המנכ\"ל הקודם טים קוק , לפני שהעביר את המפתחות ל ג'ון טרנוס . אבל כמו בכל מקום,",
+  "date": "2026-10-29T13:15:37.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "2305230fe791fae3",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סרוויסנאו נכנסת ל-ChatGPT, אבל המשקיעים מוכרים: המניה צונחת למרות דוח חזק - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3V2E0ZVBUbE5EN0RRSmJiTGlzdWRUdVJBeWRrY2JxY21ITDE5N3FnRFRYOWJnVlU3YUd3M3V6VEdHMXBSMEVsTkdjZWxmQUpHNVlfOVpOeDFNR01Yc2Jtc0x0R0hrVUs3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3V2E0ZVBUbE5EN0RRSmJiTGlzdWRUdVJBeWRrY2JxY21ITDE5N3FnRFRYOWJnVlU3YUd3M3V6VEdHMXBSMEVsTkdjZWxmQUpHNVlfOVpOeDFNR01Yc2Jtc0x0R0hrVUs3?oc=5\" target=\"_blank\">סרוויסנאו נכנסת ל-ChatGPT, אבל המשקיעים מוכרים: המניה צונחת למרות ד",
+  "date": "2026-10-29T13:15:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "8be498015a196c08",
+  "source": "ECB",
+  "group": "global-official",
+  "title": "Monetary policy decisions",
+  "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "summary": "",
+  "date": "2026-10-29T13:15:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "e646d52f85ae163f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Catalyst Bancorp, Inc. (0001849867) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1849867/000110465926119968/0001104659-26-119968-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0001104659-26-119968 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-29T13:13:31.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "ad7271a7b3315767",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "איתן וורצל מונה למנהל האסטרטגיה הראשי בלג&#039;יט סקיוריטי",
+  "link": "https://www.pc.co.il/kehila/it-jobs/460552/",
+  "summary": "חברת הסייבר הישראלית לג'יט סקיוריטי (Legit Security) הודיעה על מינויו של איתן וורצל למנהל האסטרטגיה הראשי (Chief Strategy Officer) של החברה. וורצל, ממייסדי חברת Mobb , המתמחה בתיקון אוטומטי של חולשות אבטחה, יצטרף לצוות ההנהלה של לג'יט, יפעל ממשרדיה בבוסטון וידווח ישירות למנכ\"ל ול",
+  "date": "2026-10-29T13:10:06.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "58cb24f85662ea4d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - LSB INDUSTRIES, INC. (0000060714) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/60714/000119312526437104/0001193125-26-437104-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0001193125-26-437104 <b>Size:</b> 7 MB <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-29T13:09:12.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "fb601789841b34ab",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CULLEN/FROST BANKERS, INC. (0000039263) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/39263/000003926326000053/0000039263-26-000053-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0000039263-26-000053 <b>Size:</b> 611 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-29T13:09:07.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "b565a41267392353",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Metaphore Biotechnologies Appoints Former Pfizer CFO Frank D’Amelio and Apellis Co-Founder Pascal Deschatelets to Board - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOGU3U0h6aUZkRGdzaU5kNDBPN01PU2JkRTNjWEthRER5a2I2YWJibXg1cTNzQlA0dGdPalRoeEkzQ245dkwtMDBBT0FOdjFtQ3ZlWFNXR1pZN3Y3US1Pb0tLU0hKWGFHNmFoczZaU1dzR3JYWVUxTWV2NGxkSUlyYVFrMG1qcUMzVzMwcXBISVQxV3o1clltLWRNekVBbmNiM093SFA0Y1pLTVRJQllOcGVpTjQ1Y2hFbVBSdUxxQjRyVmdjdEhFcnpHR1dmd25HT3B5cHhhZFlCRGxPaFNMSC0wUVAwUXpGdG5fRkRn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOGU3U0h6aUZkRGdzaU5kNDBPN01PU2JkRTNjWEthRER5a2I2YWJibXg1cTNzQlA0dGdPalRoeEkzQ245dkwtMDBBT0FOdjFtQ3ZlWFNXR1pZN3Y3US1Pb0tLU0hKWGFHNmFoczZaU1dzR3JYWVUxTWV2NGxkSUlyYVFrMG1qcUMzVzMwcXBISVQxV3o1clltLWRNekVBbmNiM093SFA0Y1pLTV",
+  "date": "2026-10-29T13:04:15.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "4c8eac5bd9fef6c6",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Gasoline prices to fall Saturday night then rise more sharply",
+  "link": "https://en.globes.co.il/en/article-1001561295#utm_source=RSS",
+  "summary": "The maximum price of government price controlled 95 octane gasoline at self-service pumps in Israel will fall on November 1 by NIS 0.42 per liter, then rise NIS 1 on November 4.",
+  "date": "2026-10-29T13:02:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "source": "Israel Defense",
+  "group": "industry",
+  "title": "Applied Intuition Wins U.S. Navy AI Production Contract",
+  "link": "https://www.israeldefense.co.il/en/node/72232",
+  "summary": "<span>Applied Intuition Wins U.S. Navy AI Production Contract</span> <span><a title=\"View user profile.\" href=\"/en/user/6\" class=\"article__info-author\">ami@israeldefe…</a></span> <span><time datetime=\"2026-10-29T15:01:00+02:00\" title=\"Thursday, October 29, 2026 - 15:01\">Thu, 10/2",
+  "date": "2026-10-29T13:01:00.000Z",
+  "id": "bc85326341d72c45"
+ },
+ {
+  "source": "Israel Defense",
+  "group": "industry",
+  "title": "Finland to Produce One Million Anti-Personnel Mines Along Russian Border",
+  "link": "https://www.israeldefense.co.il/en/node/72220",
+  "summary": "<span>Finland to Produce One Million Anti-Personnel Mines Along Russian Border</span> <span><a title=\"View user profile.\" href=\"/en/user/6\" class=\"article__info-author\">ami@israeldefe…</a></span> <span><time datetime=\"2026-10-29T15:01:00+02:00\" title=\"Thursday, October 29, 2026 -",
+  "date": "2026-10-29T13:01:00.000Z",
+  "id": "96d46c76f4d0b5b3"
+ },
+ {
   "id": "384077e8fa2568fe",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +291,17 @@
   "date": "2026-10-29T13:00:00.000Z",
   "fetched": "2026-10-29T13:03:13.303Z",
   "fromCloud": "2026-10-29T1303.json"
+ },
+ {
+  "id": "7bbf24205e073cc9",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Jigso co-founders join Placer.ai to strengthen AI capabilities - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40WVpxcHdsT29La3Vsb2M0eTNqYU42Ui03RFJjdWFybEhzdXdybl80MXY5ZUFsRDB6Z1N4bTJIOTctdW9raWpiZnVXMjhGYnRHcU1ZaWFrb3N4RzJ3UUNJeUpXSU8yMHEzdXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE40WVpxcHdsT29La3Vsb2M0eTNqYU42Ui03RFJjdWFybEhzdXdybl80MXY5ZUFsRDB6Z1N4bTJIOTctdW9raWpiZnVXMjhGYnRHcU1ZaWFrb3N4RzJ3UUNJeUpXSU8yMHEzdXc?oc=5\" target=\"_blank\">Jigso co-founders join Placer.ai to strengthen AI capabilities</",
+  "date": "2026-10-29T13:00:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
  },
  {
   "id": "f3b8dab60786a6a1",
@@ -44,6 +337,37 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "source": "Israel Defense",
+  "group": "industry",
+  "title": "Pentagon Invests in Genetically Engineered Chemicals for Military Systems",
+  "link": "https://www.israeldefense.co.il/en/node/72219",
+  "summary": "<span>Pentagon Invests in Genetically Engineered Chemicals for Military Systems</span> <span><a title=\"View user profile.\" href=\"/en/user/6\" class=\"article__info-author\">ami@israeldefe…</a></span> <span><time datetime=\"2026-10-29T14:58:00+02:00\" title=\"Thursday, October 29, 2026 ",
+  "date": "2026-10-29T12:58:00.000Z",
+  "id": "3a461be64f16ab67"
+ },
+ {
+  "id": "4c268cd6e7e5f169",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Airbus CFO: Very backloaded year but seeing improvement in supply chains - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR3FaemtSazVSQk8zcGhPMTRvU0FyTkZfcnQwczlTd3hFeXJzNXZSa0lnVnRDMEdvb1ZwREJZNWY1M0VNcXpNSUJkQWpzSkNLZ2d4R3kyZzhsSi11Mm5scFE5RTZReExUYlJiZENmU3NGeVVnNGZXdUFveXJOVlVKNWg3YlM4VF9WQjUzcVBESklHc253LU4yRkc4b1hwY1RjN3pUUVozZW90eHJaaVBIODd1eVI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQR3FaemtSazVSQk8zcGhPMTRvU0FyTkZfcnQwczlTd3hFeXJzNXZSa0lnVnRDMEdvb1ZwREJZNWY1M0VNcXpNSUJkQWpzSkNLZ2d4R3kyZzhsSi11Mm5scFE5RTZReExUYlJiZENmU3NGeVVnNGZXdUFveXJOVlVKNWg3YlM4VF9WQjUzcVBESklHc253LU4yRkc4b1hwY1RjN3pUUVozZW90eH",
+  "date": "2026-10-29T12:57:07.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "bf7d5183b13bffcb",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Eran Alon joins enso as CMO - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JZ21uYTVCd056WUJtVF82REZsRUNKOF95WUZKUnh3Tm10SFVaaWRQajEyMXh0YlBKT05FVG1HcDJVVWloblBxRmFnOG82a2p5U0hqTUZxaUhDVGh3WFFDTjNRZzZXa3Va?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JZ21uYTVCd056WUJtVF82REZsRUNKOF95WUZKUnh3Tm10SFVaaWRQajEyMXh0YlBKT05FVG1HcDJVVWloblBxRmFnOG82a2p5U0hqTUZxaUhDVGh3WFFDTjNRZzZXa3Va?oc=5\" target=\"_blank\">Eran Alon joins enso as CMO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ww",
+  "date": "2026-10-29T12:57:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "73001ba31ea87a00",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -55,6 +379,17 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "id": "acd71919d0b217a2",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלפאבית וקטרפילר צוללות, מיקרוסופט עולה: איך ייפתח נאסד\"ק? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwWWlLNVRTZ2RWQTd6M2IzV0k3b2dTMFYyQV9tYnUyYWpseWNodnlYZU84Zld4REI2X2VWcXJYY1B6R2VqWUh2Z0dpeGFlYmxIU0dNMWN1akE1bHVlUDFUeGY5OGtPQWtfXzhHUzBacUc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAwWWlLNVRTZ2RWQTd6M2IzV0k3b2dTMFYyQV9tYnUyYWpseWNodnlYZU84Zld4REI2X2VWcXJYY1B6R2VqWUh2Z0dpeGFlYmxIU0dNMWN1akE1bHVlUDFUeGY5OGtPQWtfXzhHUzBacUc?oc=5\" target=\"_blank\">אלפאבית וקטרפילר צוללות, מיקרוסופט עולה: איך ייפתח נאסד\"",
+  "date": "2026-10-29T12:55:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "54b7747ce8e5b63f",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -64,6 +399,17 @@
   "date": "2026-10-29T12:54:15.000Z",
   "fetched": "2026-10-29T13:03:13.303Z",
   "fromCloud": "2026-10-29T1303.json"
+ },
+ {
+  "id": "9ca4865974e2508b",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "Over 41,000 DHS Employee Records Leaked Online",
+  "link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+  "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek .",
+  "date": "2026-10-29T12:54:14.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
  },
  {
   "id": "93c450c5080cf1fd",
@@ -88,6 +434,17 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "id": "a45f15cfac67be8d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "ISBA: Record earnings and stronger NIM, with the Grand River acquisition nearing close - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRzN4WGNCWVdnRUZRMHpfVDVERVlfSVozWVlVY3I4OGhpc2Y0cmlXM1VzMk1ZN0pqTGlQSFFQVGo5S1BQY1RGaGNMWDZXdVRMOUxVeC1wWHI1TmZQM0RzVEM5ZVl3elV0aldNck9hYkNrX3ZHRUpkXzIwVFFSTkxvc2NuRHEzUWRPc05hWl94NlF1R2hZNWlNMk5ISk9KaHl2Vk13WWxDM0o0VlExMHZoc2lra21UcVgzajhZYmlIUE40WjJ1dEpyd3VoU1dwWVJtY1ROMjFoZzF3U05Mbm9LM3JTRURienF0NTNVdVR0QkRqS2FVcW9YcjdUNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRzN4WGNCWVdnRUZRMHpfVDVERVlfSVozWVlVY3I4OGhpc2Y0cmlXM1VzMk1ZN0pqTGlQSFFQVGo5S1BQY1RGaGNMWDZXdVRMOUxVeC1wWHI1TmZQM0RzVEM5ZVl3elV0aldNck9hYkNrX3ZHRUpkXzIwVFFSTkxvc2NuRHEzUWRPc05hWl94NlF1R2hZNWlNMk5ISk9KaHl2Vk13WWxDM0o0Vl",
+  "date": "2026-10-29T12:48:29.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "ab44767fb461d205",
   "source": "Financial Times",
   "group": "global-press",
@@ -108,6 +465,17 @@
   "date": "2026-10-29T12:47:34.000Z",
   "fetched": "2026-10-29T13:03:13.303Z",
   "fromCloud": "2026-10-29T1303.json"
+ },
+ {
+  "id": "d1f161ab7962c9f7",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Zim-chartered container ship sinks after drone strike in Black Sea - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdlpwMFNtSlJhWThpZ2JXUE9EZkxhVVhlVC1wUWdodjVvZlpia2tXcTcycGtFQ090ZFA0aHpuU3ZpNXByRnhzRVpRYW9UanRzdHZrQVVadGE0Y3hEckJOcUZOVFRQem9o?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdlpwMFNtSlJhWThpZ2JXUE9EZkxhVVhlVC1wUWdodjVvZlpia2tXcTcycGtFQ090ZFA0aHpuU3ZpNXByRnhzRVpRYW9UanRzdHZrQVVadGE0Y3hEckJOcUZOVFRQem9o?oc=5\" target=\"_blank\">Zim-chartered container ship sinks after drone strike in Black Sea<",
+  "date": "2026-10-29T12:47:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
  },
  {
   "id": "78af613655b39348",
@@ -198,6 +566,17 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "id": "50ee588948ef2a7c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CVC credit assets jump 55% as Marathon acquisition boosts growth - Alternative Credit Investor",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0JzUE9jbS1ZUVVZb3YwUk1ORjlKMnMyRVhlUUJlZkw0Nk12cl9EOHUzSHNaMkhLSUxJbExxZVM2dDllOG9YQjJkMUVnbjNjcElqZng4UkZkXzRoOE9MajlYYjNxTG5Oc0xxZFdrYUNBQ29ZZkFXUlo0aDl4UzhYbEY4N2hnRHoyc1FRenEtMTRQa0J1T3d2bWlFaGNKRVBpOFgwekEtWEJxSUlWMjlhZkRVRQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0JzUE9jbS1ZUVVZb3YwUk1ORjlKMnMyRVhlUUJlZkw0Nk12cl9EOHUzSHNaMkhLSUxJbExxZVM2dDllOG9YQjJkMUVnbjNjcElqZng4UkZkXzRoOE9MajlYYjNxTG5Oc0xxZFdrYUNBQ29ZZkFXUlo0aDl4UzhYbEY4N2hnRHoyc1FRenEtMTRQa0J1T3d2bWlFaGNKRVBpOFgwekEtWEJxSU",
+  "date": "2026-10-29T12:42:45.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "41fd6cc37eb32680",
   "source": "Globes English",
   "group": "israel-press",
@@ -218,6 +597,28 @@
   "date": "2026-10-29T12:40:15.000Z",
   "fetched": "2026-10-29T13:03:13.303Z",
   "fromCloud": "2026-10-29T1303.json"
+ },
+ {
+  "id": "0a7b758205b61eb6",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מרק מעלה את תחזית הרווח - המניה עולה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tOFd3TkFvTUNVYlpqczBVWW1oSkNkeUZXdUpXMjIwNGNnLUI1OHpobEhFampUQ1dQdXNaOG83SDRieVJvV0VPNzJPbWsxVUZvVERINlBCcVA5X3hZMGVvdVpCaUNTWmNoa0FJaHlLTTM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5tOFd3TkFvTUNVYlpqczBVWW1oSkNkeUZXdUpXMjIwNGNnLUI1OHpobEhFampUQ1dQdXNaOG83SDRieVJvV0VPNzJPbWsxVUZvVERINlBCcVA5X3hZMGVvdVpCaUNTWmNoa0FJaHlLTTM?oc=5\" target=\"_blank\">מרק מעלה את תחזית הרווח - המניה עולה</a>&nbsp;&nbsp;<fon",
+  "date": "2026-10-29T12:40:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "854bd546ab6d84fb",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "תקציב הבטיחות בדרכים התכווץ לחמישית - והכבישים גבו כ-300 הרוגים בשמונה חודשים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81TVlnUlQycmRNaFVvT3B6Qmp2Y0Q5ZE9HYmctYzFJcm0tTWhCXzU4dmlqTUx2ZWpuUVc5UG5zTnVLNGRRWGl6QkFPWnltbnVjOXZMZGFMcFhDOU1mS0s3aTF5cDhyTUdt?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE81TVlnUlQycmRNaFVvT3B6Qmp2Y0Q5ZE9HYmctYzFJcm0tTWhCXzU4dmlqTUx2ZWpuUVc5UG5zTnVLNGRRWGl6QkFPWnltbnVjOXZMZGFMcFhDOU1mS0s3aTF5cDhyTUdt?oc=5\" target=\"_blank\">תקציב הבטיחות בדרכים התכווץ לחמישית - והכבישים גבו כ-300 הרוגים בשמ",
+  "date": "2026-10-29T12:40:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
  },
  {
   "id": "5bfb6cf40cccae37",
@@ -341,6 +742,17 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "id": "baaca16f1033a7bf",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "כטב\"מים ימיים הטביעו בים השחור אוניית מכולות שחכרה צים, בדרך מחיפה לרומניה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sbDBObUdydC1xc2RJNlhITmRNSVdUQXpYNmktSkYwUlFVZFUybEhleTZaQTdpWUp0SmwzRFhRWVJUZDh1b01KTVZUYWpfajUxY3YwdkU1QjZmQ09lWkNnN2FsR05DVUZkTklSa1ZpcWU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9sbDBObUdydC1xc2RJNlhITmRNSVdUQXpYNmktSkYwUlFVZFUybEhleTZaQTdpWUp0SmwzRFhRWVJUZDh1b01KTVZUYWpfajUxY3YwdkU1QjZmQ09lWkNnN2FsR05DVUZkTklSa1ZpcWU?oc=5\" target=\"_blank\">כטב\"מים ימיים הטביעו בים השחור אוניית מכולות שחכרה צים, ",
+  "date": "2026-10-29T12:34:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "c61371285b7df34c",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -350,6 +762,39 @@
   "date": "2026-10-29T12:33:00.000Z",
   "fetched": "2026-10-29T13:03:13.303Z",
   "fromCloud": "2026-10-29T1303.json"
+ },
+ {
+  "id": "e2f9ad67991ca9ed",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "משנה את מפת ההון האנושי בתעשיית הסייבר - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1NqSUpkLWZ1ZFNOQm1lemlQd1EwU1pCVmE2OGFkTXdnMGdzSGZMT1p0NFJ0VlhxNmNJTWZ5UVNTQ2pXZThSYk96UnJmejFVcUl0X0pYUWxpdUh3M0J0bjIyd0Z5RzdoVmVPZGY2S1pmUmhJdjYzc1NlMWY1c1VWT2F5RUJIdzZxLUMtYjl3RlB0aWk3YWdqMDM0bXNOVGlvOFV5NzVR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1NqSUpkLWZ1ZFNOQm1lemlQd1EwU1pCVmE2OGFkTXdnMGdzSGZMT1p0NFJ0VlhxNmNJTWZ5UVNTQ2pXZThSYk96UnJmejFVcUl0X0pYUWxpdUh3M0J0bjIyd0Z5RzdoVmVPZGY2S1pmUmhJdjYzc1NlMWY1c1VWT2F5RUJIdzZxLUMtYjl3RlB0aWk3YWdqMDM0bXNOVGlvOFV5NzVR?oc=5\"",
+  "date": "2026-10-29T12:32:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "4ea9ac225e62b52c",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הלוואה או שכר? חברה תבעה את מנהל החשבונות לשעבר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xd3hoWmcxck4zbmtYMFV2SmFlczhjbVQtNTdreWRNTjRIekdKZVY2Wl9lUDBHWjd3eVZmRHZrWUxyRm85eVFzSkd5bFM2Wk9kbTZtX1RSdEtzWlJkOGU1OHVSdThWZUk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xd3hoWmcxck4zbmtYMFV2SmFlczhjbVQtNTdreWRNTjRIekdKZVY2Wl9lUDBHWjd3eVZmRHZrWUxyRm85eVFzSkd5bFM2Wk9kbTZtX1RSdEtzWlJkOGU1OHVSdThWZUk?oc=5\" target=\"_blank\">הלוואה או שכר? חברה תבעה את מנהל החשבונות לשעבר</a>&nbsp;&nbsp;<font",
+  "date": "2026-10-29T12:32:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "65c8a0efea2a06e6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Inflection Point Acquisition Corp. VI (IPFX) S-4 Declared Effective; Shareholder Vote Nov. 20 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNVk0T2s3Tm5mb3lldV9pdHExMmlBalcxdlJhVGp4dzRVdDgyV1JFTURhNnFkbFk1NUhIb2VPbTRkM2dWZXVoN2NRMXpLVXdNR1RFbENqUG9fUjk5d1gwbjdyQVVKTTZ6VEdlWVhjVGQtUmtYRDAwQXBGam1mbUpsVjNMRmRfYVhqWW94RnVTZnEzUk9hZ2FOUm5NX01Nc3k3YXFvSDNpN2xwdlRPX05fR2VRNUE0UW5YcVZLQUhHd3VMQm8yTzJSdFhnd09Cc2NYVHBnNjlkR1hWcHBVbmlxQS1adFc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNVk0T2s3Tm5mb3lldV9pdHExMmlBalcxdlJhVGp4dzRVdDgyV1JFTURhNnFkbFk1NUhIb2VPbTRkM2dWZXVoN2NRMXpLVXdNR1RFbENqUG9fUjk5d1gwbjdyQVVKTTZ6VEdlWVhjVGQtUmtYRDAwQXBGam1mbUpsVjNMRmRfYVhqWW94RnVTZnEzUk9hZ2FOUm5NX01Nc3k3YXFvSDNpN2xwdl",
+  "date": "2026-10-29T12:30:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
  },
  {
   "id": "8b13e6091fc4ef4e",
@@ -363,6 +808,39 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "id": "9e1e5a9b76790f96",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "ריבונות דיגיטלית: אבטחה, רגולציה ושליטה בעידן ענן ה-AI - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmtrZE5NQ3dPM1lZRlh5UFhRSUhsMlpjMURqUTFYSW91WUVqSUp0eDAyd2xxalpYUXpZakI1VWFhMFdKR0FzTUNxWG9yQ0dGN0VaRm4ycEdRdW5Vc1daQmNfeEN6TUJTMWZjbG94RXJLTUJ6ZmxyRy1nb0lxNm1KckN3NDR5N3hLVW40SzhMWm10QjhrQ3h3Q2hoaTJHSHNsZlFiRUdR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmtrZE5NQ3dPM1lZRlh5UFhRSUhsMlpjMURqUTFYSW91WUVqSUp0eDAyd2xxalpYUXpZakI1VWFhMFdKR0FzTUNxWG9yQ0dGN0VaRm4ycEdRdW5Vc1daQmNfeEN6TUJTMWZjbG94RXJLTUJ6ZmxyRy1nb0lxNm1KckN3NDR5N3hLVW40SzhMWm10QjhrQ3h3Q2hoaTJHSHNsZlFiRUdR?oc=5\"",
+  "date": "2026-10-29T12:24:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "ea7ec639f0d88423",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "העובד החדש בארגון הוא סוכן AI. מי שומר עליו? - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc01RVWNsdk9zbE12c1Zwdzl1b1hFWGVoV1RDX09pRWlYaWpjZWtEUzVrVDkwMHNtM1gwMXFENjB4cElDNGkwb01QNzV1dGZZS2E2bTVFc2lTNVVsMDRZWExGWWg4WlM5SlZYRjBqeXU2Y0FTdzM1d3E2V3VHQk5HN205SW9qTEkwemNTNHFQYmRUaVZzR3YxOExGVExRLUtoZFhRVlpn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPc01RVWNsdk9zbE12c1Zwdzl1b1hFWGVoV1RDX09pRWlYaWpjZWtEUzVrVDkwMHNtM1gwMXFENjB4cElDNGkwb01QNzV1dGZZS2E2bTVFc2lTNVVsMDRZWExGWWg4WlM5SlZYRjBqeXU2Y0FTdzM1d3E2V3VHQk5HN205SW9qTEkwemNTNHFQYmRUaVZzR3YxOExGVExRLUtoZFhRVlpn?oc=5\"",
+  "date": "2026-10-29T12:22:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "69f8f9bf5fd0eddd",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "איך לסכל תקיפות סייבר על תשתיות קריטיות בעידן ה-AI? - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXlVUldsVF82SHpaaGVQd19sMXZNVW5sd0x3VURiX2lMUmFTbEZZSFNFVkxraGE4RFdObV9kaWZnRU8wWTlmb1FfXzRwdGJ5MnA5ZFByWVF0N1kxZ29QOHBfWDBBREk3MS1UcTk2VkJJWDZ4YzIteWt6SmlfYVlFYmVORnVSVm5rWmtTa2ZRZTEyUmtmdEw4VXZIaWVqQU91QkZ5dXlR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXlVUldsVF82SHpaaGVQd19sMXZNVW5sd0x3VURiX2lMUmFTbEZZSFNFVkxraGE4RFdObV9kaWZnRU8wWTlmb1FfXzRwdGJ5MnA5ZFByWVF0N1kxZ29QOHBfWDBBREk3MS1UcTk2VkJJWDZ4YzIteWt6SmlfYVlFYmVORnVSVm5rWmtTa2ZRZTEyUmtmdEw4VXZIaWVqQU91QkZ5dXlR?oc=5\"",
+  "date": "2026-10-29T12:11:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "9ed8b7fb9880469f",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -374,6 +852,28 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "id": "df738f1fb941a61a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "TROAX: Record acquisition-led growth; margin recovery depends on mix and North American execution - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVDU4bno0RkxaaUhBNlZSQUdpZURWU3lxOGFVTXdBY1hLN1BxVkYxZmhhMUo1NnVyWl9IU3BZWXNvVTdORlZ0NEJFZTlVTUlVZEZHblhjSUFWbURmck1PVXdWbTB3OW5VTVBuWTFCUlk3UW1ndFJ1WXAzVVM5Q3d1d0JRNlloc083cVdSNmhJc3U1WjdXelF6Q1d2VFFTSG4tUnUtdUE5a3E2Wmc2c3NqRmVFM1hBbXZINmY0WEpwc01rVlpucTJ6RmN6bXBYeFBCLXYxelp3WG9Kc01JMkg1cDVfcTl0STI1Q1dkQVQyYVBYREtNcTZIU0dPN2RMakQwWk5hNTFxNk5zXzhKcE5N?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPVDU4bno0RkxaaUhBNlZSQUdpZURWU3lxOGFVTXdBY1hLN1BxVkYxZmhhMUo1NnVyWl9IU3BZWXNvVTdORlZ0NEJFZTlVTUlVZEZHblhjSUFWbURmck1PVXdWbTB3OW5VTVBuWTFCUlk3UW1ndFJ1WXAzVVM5Q3d1d0JRNlloc083cVdSNmhJc3U1WjdXelF6Q1d2VFFTSG4tUnUtdUE5a3E2Wm",
+  "date": "2026-10-29T11:52:11.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "2489e44e5addda31",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "ERA Live Moore Doubles Down on Winston Salem with Strategic Acquisition - Franchising.com",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0RveGxSZmNRT2ZZVU1xMU1VNExSZlV6OFF5dWExaS1XZ1hHd0NxdGhXekhVb3Z6YVEzc21PejlWeTBoSlFDNWR3ZmNINjlzQVBGT2xPdThVMG1jU1p1Z2p2TzZPYUtoTnRhbVIzN3ZPeld3Rks5RzI1MUJOR3Zna3NVQndlN2R2bWZlUkVNb2pVRkNWVjlPZl9XdWVfeW50US15bm9rS0I3Rk9CWkJpR0ZtVVZMcmY3enfSAb8BQVVfeXFMTmxTZy1NeWZzNDRPRlN5SGo5UDJMYTFOdXNtWGpjM3R3MXBCNkZES3VsdDhlRlg5LVVCOEZRVDRWVHV2UGtnOTA0Z00zT2l6aWU1WWdDMVB5Um1SUHQ4ZU9naE5ObGpNUGhpWGI4aWxYNkxQNlVPUTZmOHRWTU05dUo0dE1ZTlQ4dm1HMjNUYjZNYklNTEZlaUdRSG5yc09uNS1QNUpIdjRndVc3TmhCMHVoYXFWc1ZwOERsZy1HSEk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0RveGxSZmNRT2ZZVU1xMU1VNExSZlV6OFF5dWExaS1XZ1hHd0NxdGhXekhVb3Z6YVEzc21PejlWeTBoSlFDNWR3ZmNINjlzQVBGT2xPdThVMG1jU1p1Z2p2TzZPYUtoTnRhbVIzN3ZPeld3Rks5RzI1MUJOR3Zna3NVQndlN2R2bWZlUkVNb2pVRkNWVjlPZl9XdWVfeW50US15bm9rS0I3Rk",
+  "date": "2026-10-29T11:46:09.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "9d41359f205a18dd",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -383,6 +883,28 @@
   "date": "2026-10-29T11:45:00.000Z",
   "fetched": "2026-10-29T13:03:13.303Z",
   "fromCloud": "2026-10-29T1303.json"
+ },
+ {
+  "id": "52c13c8a5ee5bb20",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Budimex CEO Artur Popko Says Company Considers Acquisition Of Tech Companies In Data Centre Sector - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX0R1X2NmTk91RWVsWjVJWUtyb3MyMjF4cVM2WXhzQ2gtUjh5ZXZfbEZ4Z2VNWDF5LXByRmd0LUp3Yy04VTVLUGoyNHdNcExBM1JWVlJURS1uMlBjM3diRWhNY0xZcEVfWWUtcU1jLW1OZURqbVNHYVBFd2FlamVpQnZfeGhOT3hVajFaTGFfdGFOX09wS2RRNmtmZXFaNGVuTlZiS2FmeW1lWEY4emI1aDdCRHpDQnlmRVRuRnVzYW5QQncwak1lSGZiSWc3eWlYZTBjc3huOGYyV2JLQzlZZUFja0ZON09OeUFKcGwtZ0VYblJPRXF6V1lWVTc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX0R1X2NmTk91RWVsWjVJWUtyb3MyMjF4cVM2WXhzQ2gtUjh5ZXZfbEZ4Z2VNWDF5LXByRmd0LUp3Yy04VTVLUGoyNHdNcExBM1JWVlJURS1uMlBjM3diRWhNY0xZcEVfWWUtcU1jLW1OZURqbVNHYVBFd2FlamVpQnZfeGhOT3hVajFaTGFfdGFOX09wS2RRNmtmZXFaNGVuTlZiS2FmeW1lWE",
+  "date": "2026-10-29T11:43:02.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "2c81d8e984bba6e5",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "סוכן AI במובייל: עוזר חרוץ או חור אבטחה גדול? - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR1hqbzRPUWpYd3NuMlVfTnpCLWo3N08yY3pYcXZ3RklpN2NnUTdtdnF2WG0zdXlJQy1Xa2tDdjBEa3YzQ1FXcXVILWVZdUlCVUZuYy1rR2RJUWJUNlR4VHIwbnJ1SHZYTjVlRTZPUkw4X0NwNjMwc2dSRHhPRjRKSmZVZHphdUQzUi1lb1FMUHVZTzZfRnJfQXlwUGpyMk15MHZiSmNB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQR1hqbzRPUWpYd3NuMlVfTnpCLWo3N08yY3pYcXZ3RklpN2NnUTdtdnF2WG0zdXlJQy1Xa2tDdjBEa3YzQ1FXcXVILWVZdUlCVUZuYy1rR2RJUWJUNlR4VHIwbnJ1SHZYTjVlRTZPUkw4X0NwNjMwc2dSRHhPRjRKSmZVZHphdUQzUi1lb1FMUHVZTzZfRnJfQXlwUGpyMk15MHZiSmNB?oc=5\"",
+  "date": "2026-10-29T11:20:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
  },
  {
   "id": "d501735924c3947a",
@@ -440,6 +962,17 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "id": "8a016a0a8789fd01",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Oaktree Diversified Income Fund Inc Class D – NASDAQ:ODIDX - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmVtemlqb1BtNG54bFlwMVFVdDQwcUV1S2gxclhEOHJlUUI3Qm02azd4dmVKb0Z1VW43THRPRGwxTVNNcE9acGRQSExEYlZaT0FZVXJmTk9uYk1xamx0V2gxMy1CSExHY0xtQU5jYnpJTTA0bXd2U1RMWGpGTExZNHRXemtRaG1JV1dpZmFB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmVtemlqb1BtNG54bFlwMVFVdDQwcUV1S2gxclhEOHJlUUI3Qm02azd4dmVKb0Z1VW43THRPRGwxTVNNcE9acGRQSExEYlZaT0FZVXJmTk9uYk1xamx0V2gxMy1CSExHY0xtQU5jYnpJTTA0bXd2U1RMWGpGTExZNHRXemtRaG1JV1dpZmFB?oc=5\" target=\"_blank\">Free cash flow ",
+  "date": "2026-10-29T11:00:49.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "b8befe62db503ed0",
   "source": "Globes English",
   "group": "israel-press",
@@ -473,6 +1006,17 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "id": "b3970d31d5f32dc2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Enterprise value to EBIT forward of Oxley Bridge Acquisition Limited – NASDAQ:OBAWW - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHBTRVROQ21nRDVhbDJYdFNIUTR4VWlWT3pWOGIyRm9peGxDanhtOWZ0akc1czRPTTQ1SEVKRGl2bDg4NzhoWUZjdXBrVW5UYlhucjEyRGVpSjB4STNUdnhXVWdER3pXWGxBb2RrUjViVG1QMTR0QlhvUExQNzdfcjJjN0hLMGo3Z3JMYk5fX2R6aHJIc2IyUHBXUGwwS0d2T21LVzh6TDcyVU91?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHBTRVROQ21nRDVhbDJYdFNIUTR4VWlWT3pWOGIyRm9peGxDanhtOWZ0akc1czRPTTQ1SEVKRGl2bDg4NzhoWUZjdXBrVW5UYlhucjEyRGVpSjB4STNUdnhXVWdER3pXWGxBb2RrUjViVG1QMTR0QlhvUExQNzdfcjJjN0hLMGo3Z3JMYk5fX2R6aHJIc2IyUHBXUGwwS0d2T21LVzh6TDcyVU",
+  "date": "2026-10-29T10:53:29.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "ab30ee13213e6978",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -484,6 +1028,28 @@
   "fromCloud": "2026-10-29T1303.json"
  },
  {
+  "id": "b9727c05c6bf791a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Dassault completes ArisGlobal acquisition to unify AI platform - Engineering.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHpQXzhqaVh1UTktUWxZdHd4ZUs5UnNFZ3NXNlVOZXUzV2Q4Z1o2VXRpYUR6SGpPckhQR0pzWktpbV9QbnFLbGRLZFVLbndwN1NhQ0l6OGNxSkltSndyNHB1ci1zUkxjeVVTbTN5UDRYZTVOdlNRaGowRTVGZi1TZE5iNWR4ZlJGLXY2YUMyaDBRZlppelE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHpQXzhqaVh1UTktUWxZdHd4ZUs5UnNFZ3NXNlVOZXUzV2Q4Z1o2VXRpYUR6SGpPckhQR0pzWktpbV9QbnFLbGRLZFVLbndwN1NhQ0l6OGNxSkltSndyNHB1ci1zUkxjeVVTbTN5UDRYZTVOdlNRaGowRTVGZi1TZE5iNWR4ZlJGLXY2YUMyaDBRZlppelE?oc=5\" target=\"_blank\">Dass",
+  "date": "2026-10-29T09:56:58.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "2e9661e802b04ec4",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "כשה-AI הופך לאיום מבפנים: אתגר הסייבר החדש של הארגונים - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVV9jSmRhdVQwNU9FOHNNbUNGZTNIWHIyZ0RpUXd1VGdOcndsOEkxem5DMmlqX09SLVFzaF9NV0hHSHUxUEdyd0h3YkM0SzhadkFEQi0zRDE3UnJGc0w5YU9jV0JnRnNpMnpLXzVscEZvYVJwdDFOaldRTGJ0b3hKcHhVWjVQQlRVZC1NV3FaM2JhdXRlbHlCc0pBU3R3ajBueFE2dkJn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVV9jSmRhdVQwNU9FOHNNbUNGZTNIWHIyZ0RpUXd1VGdOcndsOEkxem5DMmlqX09SLVFzaF9NV0hHSHUxUEdyd0h3YkM0SzhadkFEQi0zRDE3UnJGc0w5YU9jV0JnRnNpMnpLXzVscEZvYVJwdDFOaldRTGJ0b3hKcHhVWjVQQlRVZC1NV3FaM2JhdXRlbHlCc0pBU3R3ajBueFE2dkJn?oc=5\"",
+  "date": "2026-10-29T09:56:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
   "id": "708583ecee1a472a",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -493,5 +1059,38 @@
   "date": "2026-10-29T07:21:21.000Z",
   "fetched": "2026-10-29T13:03:13.303Z",
   "fromCloud": "2026-10-29T1303.json"
+ },
+ {
+  "id": "47988a10b728369f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Verdis completes recapitalization program - Recycling Today",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2hUQmVUR0NDeHNxWjRuV2FFOERkTFg1YUJhOE5yYXdGRUgxR2pKZl95VjY4QTA1SklxblBTS05fSUgzdE55ZS1SZmFmQkNFUG1RQ2VocHhVMDJpNmllcnlaQkdLek9mc2o1LXU4Q1NzTUtsRXYxWmh2RkpQQ3hkT1huVnNXM1VDLWpHZ2JsZy1XN25vMThLX2NoZXNmcGNyckdaRjNGNFpGRE91MnNHUVlLRQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2hUQmVUR0NDeHNxWjRuV2FFOERkTFg1YUJhOE5yYXdGRUgxR2pKZl95VjY4QTA1SklxblBTS05fSUgzdE55ZS1SZmFmQkNFUG1RQ2VocHhVMDJpNmllcnlaQkdLek9mc2o1LXU4Q1NzTUtsRXYxWmh2RkpQQ3hkT1huVnNXM1VDLWpHZ2JsZy1XN25vMThLX2NoZXNmcGNyckdaRjNGNFpGRE",
+  "date": "2026-10-29T07:11:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "e87b8c6dc4a20c7c",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "הריבית יורדת, הביקוש לאשראי עולה: מה עומד מאחורי גל ההלוואות לכל מטרה - YNET",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Y3d5ZjZZN2NiX0tZQ1B1RGR3Y3dTZVd1V29yaXg3LTBhQ2ZaN3hpaGt0REdtTzl4U0pYY2tjYW9pTEVMYVJORGs0NjNHdzZMdTZNcEg2T29rb2dmeVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Y3d5ZjZZN2NiX0tZQ1B1RGR3Y3dTZVd1V29yaXg3LTBhQ2ZaN3hpaGt0REdtTzl4U0pYY2tjYW9pTEVMYVJORGs0NjNHdzZMdTZNcEg2T29rb2dmeVE?oc=5\" target=\"_blank\">הריבית יורדת, הביקוש לאשראי עולה: מה עומד מאחורי גל ההלוואות לכל מטרה</a>&nbsp;&",
+  "date": "2026-10-29T07:03:40.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
+ },
+ {
+  "id": "465d64997155b771",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "Banking on AI: How a new operating model can transform distressed credit management",
+  "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management",
+  "summary": "Banks increasingly deploy AI in distressed credit management. But few have adjusted their operating models to deliver distinctive customer experiences and optimize financial outcomes and recovery costs.",
+  "date": "2026-10-29T00:00:00.000Z",
+  "fetched": "2026-10-29T13:33:12.802Z",
+  "fromCloud": "2026-10-29T1333.json"
  }
 ]
