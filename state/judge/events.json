@@ -3442,5 +3442,61 @@
   "first": 1793277456024,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "ECB | החלטת ריבית אוקטובר 2026",
+  "level": "red",
+  "first": 1793282896859,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "קטרפילר | צניחה 12% למרות צבר שיא — מה שוק ההון מעניש",
+  "level": "learn",
+  "first": 1793282896859,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סרוויסנאו | שילוב ChatGPT ומניה צונחת למרות דוח חזק",
+  "level": "learn",
+  "first": 1793282896860,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלרוב נדל״ן | מחיקה מבורסה ב-6.6 מיליארד שקל — אקירוב מפריד מכלל ביטוח",
+  "level": "yellow",
+  "first": 1793282896860,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Marvell | שיחות רכישת Lumentum — שינוי מבנה שוק רכיבי סיבים אופטיים",
+  "level": "yellow",
+  "first": 1793282896860,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "DHS | 41,000 רשומות עובדים נדלפו — Okta SSO תחת מתקפה",
+  "level": "yellow",
+  "first": 1793282896860,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Adobe, Veeam, Juniper | עדכוני אבטחה קריטיים — קוד שרירותי והסלמת הרשאות",
+  "level": "yellow",
+  "first": 1793282896860,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מחיר הדלק — הוזלה זמנית ל-7.35 שקל, זינוק ל-8.35 אם צו לא יוארך | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793283020197,
+  "sentLive": false,
+  "candidate": true
  }
 ]
