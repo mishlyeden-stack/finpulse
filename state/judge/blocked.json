@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 36,
+  "ok": 37,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 39
+  "blocked": 40
  },
  "en.globes.co.il": {
   "ok": 8,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 35,
+  "ok": 37,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 23
+  "blocked": 28
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 12
+  "blocked": 13
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 18
+  "blocked": 22
  },
  "ecb.europa.eu": {
   "ok": 2,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 11,
+  "ok": 12,
   "blocked": 0
  },
  "securityweek.com": {
@@ -72,7 +72,7 @@
   "blocked": 4
  },
  "calcalistech.com": {
-  "ok": 9,
+  "ok": 11,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -136,8 +136,8 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 5,
-  "blocked": 0
+  "ok": 6,
+  "blocked": 1
  },
  "businesswire.com": {
   "ok": 0,
@@ -149,7 +149,7 @@
  },
  "tradingview.com": {
   "ok": 0,
-  "blocked": 4
+  "blocked": 5
  },
  "govconwire.com": {
   "ok": 0,
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 2,
+  "ok": 4,
   "blocked": 0
  },
  "inquirer.com": {
@@ -196,7 +196,7 @@
   "blocked": 2
  },
  "cfobrew.com": {
-  "ok": 1,
+  "ok": 3,
   "blocked": 0
  },
  "federalnewsnetwork.com": {
@@ -213,7 +213,7 @@
  },
  "economist.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "einpresswire.com": {
   "ok": 1,
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 4
  },
  "techtarget.com": {
   "ok": 1,
@@ -261,7 +261,7 @@
  },
  "reuters.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 3
  },
  "globalbankingandfinance.com": {
   "ok": 0,
@@ -290,5 +290,37 @@
  "citybiz.co": {
   "ok": 0,
   "blocked": 1
+ },
+ "breakingthenews.net": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "techcrunch.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "spacenews.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "thestate.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "timesunion.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "washingtonexec.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "businessinsider.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "kan.org.il": {
+  "ok": 1,
+  "blocked": 0
  }
 }
