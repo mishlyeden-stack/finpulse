@@ -5,19 +5,19 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 44
+  "blocked": 45
  },
  "en.globes.co.il": {
   "ok": 10,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 42,
+  "ok": 43,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 34
+  "blocked": 37
  },
  "13tv.co.il": {
   "ok": 0,
@@ -28,7 +28,7 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 9,
+  "ok": 13,
   "blocked": 0
  },
  "themarker.com": {
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 14,
+  "ok": 15,
   "blocked": 0
  },
  "ice.co.il": {
@@ -354,5 +354,9 @@
  "mitrade.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "il.investing.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
