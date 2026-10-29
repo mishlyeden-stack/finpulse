@@ -99,6 +99,17 @@
   "fromCloud": "2026-10-28T2333.json"
  },
  {
+  "id": "06c5a743bd502a45",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Microsoft CFO expects 49% Azure growth in Q2 - Breakingthenews.net",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFJZZ1JaVDZrSUhUcnJuYmhHcUVDN1E2cjROQXQ1NEo5X0xIS1d5NWItSUNKdkZpUHpzVWhBVWdLSTlhNXZuUVFQLW5KTDdzWWlxT0tXaVpHQTJVMjVRcFJpQnJES3hYVHRJb1ZWX1RrY1ByZ0NBQzhKTnU4cGh3c1BGa0ZONnhIak1oY1NnWXFhZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFJZZ1JaVDZrSUhUcnJuYmhHcUVDN1E2cjROQXQ1NEo5X0xIS1d5NWItSUNKdkZpUHpzVWhBVWdLSTlhNXZuUVFQLW5KTDdzWWlxT0tXaVpHQTJVMjVRcFJpQnJES3hYVHRJb1ZWX1RrY1ByZ0NBQzhKTnU4cGh3c1BGa0ZONnhIak1oY1NnWXFhZw?oc=5\" target=\"_blank\">Microsoft",
+  "date": "2026-10-28T22:36:00.000Z",
+  "fetched": "2026-10-29T00:03:12.773Z",
+  "fromCloud": "2026-10-29T0003.json"
+ },
+ {
   "id": "d4b92325b998a24f",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -163,6 +174,28 @@
   "date": "2026-10-28T22:18:31.000Z",
   "fetched": "2026-10-28T23:03:11.448Z",
   "fromCloud": "2026-10-28T2303.json"
+ },
+ {
+  "id": "d46e0e7d0e1ec9e5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Microsoft CFO - \"We Will Access Additional So - Moomoo",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWtJbkhxbS0wR21OSFI0Yk1fN3JxM0VPTk0xVDNCVXBBSzV4OU9xVGQtUWFvbUhwQ3ZCM3YyUGtDYkVFSzF0SEdUMlR4UTgxUzBlV1FwT2hMTTMtekVnamg5U25tR1NuTEhkUG5FQ0FHMUVmRE40Z0draHZTZ3RjNTVsSTFEUjRtd0ZhVDVBTGZZeTNtUTdITGgyUkc2dWdLTm80NWtaOXNVYkxQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWtJbkhxbS0wR21OSFI0Yk1fN3JxM0VPTk0xVDNCVXBBSzV4OU9xVGQtUWFvbUhwQ3ZCM3YyUGtDYkVFSzF0SEdUMlR4UTgxUzBlV1FwT2hMTTMtekVnamg5U25tR1NuTEhkUG5FQ0FHMUVmRE40Z0draHZTZ3RjNTVsSTFEUjRtd0ZhVDVBTGZZeTNtUTdITGgyUkc2dWdLTm80NWtaOXNVYk",
+  "date": "2026-10-28T22:18:31.000Z",
+  "fetched": "2026-10-29T00:03:12.773Z",
+  "fromCloud": "2026-10-29T0003.json"
+ },
+ {
+  "id": "aeea03133dc97d0b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Microsoft CFO - Calendar Year Capital Spend S - Moomoo",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTR2U2c5bU5IZG1TMmNHaHJDdVJkS3NvRmt3X1p6YmNfeDlIalBzOTRPLU5HenZLQUZ4QktWandRbzBpdUM1ZG1UT1dqMGloRUNyV1lZbWZIRFRfT3NYdUR0S3M4QlFnclF2THZZdTlVakpMaDJhRXMzdjJkT2JtUDNIeE16clIyRno2RTlzWVZucjlrS0l4aHZmRnJIQWlsNnFZeHJ4UV9uMFR6Q2ZqTHB6US0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTR2U2c5bU5IZG1TMmNHaHJDdVJkS3NvRmt3X1p6YmNfeDlIalBzOTRPLU5HenZLQUZ4QktWandRbzBpdUM1ZG1UT1dqMGloRUNyV1lZbWZIRFRfT3NYdUR0S3M4QlFnclF2THZZdTlVakpMaDJhRXMzdjJkT2JtUDNIeE16clIyRno2RTlzWVZucjlrS0l4aHZmRnJIQWlsNnFZeHJ4UV9uMF",
+  "date": "2026-10-28T22:18:31.000Z",
+  "fetched": "2026-10-29T00:03:12.773Z",
+  "fromCloud": "2026-10-29T0003.json"
  },
  {
   "id": "3416a13956605566",
@@ -4059,6 +4092,17 @@
   "fromCloud": "2026-10-28T1633.json"
  },
  {
+  "id": "19e94693ba7de50c",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "חיפה במקום השני בארץ בתפוסת המלונות בספטמבר: 53%, אחרי אילת בלבד - HKN חיפה והקריות",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GMms0MDN2SWdseUc2OE9KbkVVcWZPTzU3QmtZR29aUHdLQm5Ka1ZHenZhMUxmZEQ4UlBuRTM0Z1hVVHk3akMtUw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GMms0MDN2SWdseUc2OE9KbkVVcWZPTzU3QmtZR29aUHdLQm5Ka1ZHenZhMUxmZEQ4UlBuRTM0Z1hVVHk3akMtUw?oc=5\" target=\"_blank\">חיפה במקום השני בארץ בתפוסת המלונות בספטמבר: 53%, אחרי אילת בלבד</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HKN חיפ",
+  "date": "2026-10-28T11:06:00.000Z",
+  "fetched": "2026-10-29T00:03:12.773Z",
+  "fromCloud": "2026-10-29T0003.json"
+ },
+ {
   "id": "627d5016dd74456b",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -4112,16 +4156,5 @@
   "date": "2026-10-28T03:58:30.000Z",
   "fetched": "2026-10-28T15:33:12.926Z",
   "fromCloud": "2026-10-28T1533.json"
- },
- {
-  "id": "da492501c75492bd",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Rewiring securities services for a new era of competition and growth",
-  "link": "https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth",
-  "summary": "Disruptive forces—from real-time settlement to agentic AI—are changing the dynamics of the securities services industry. How can leaders capture the next horizon of growth?",
-  "date": "2026-10-28T00:00:00.000Z",
-  "fetched": "2026-10-28T16:33:14.027Z",
-  "fromCloud": "2026-10-28T1633.json"
  }
 ]
