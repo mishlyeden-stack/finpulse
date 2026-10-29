@@ -44,6 +44,17 @@
   "fromCloud": "2026-10-29T0233.json"
  },
  {
+  "id": "02757844e66d248d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מ-19,490 אירו עד קרוסאובר ב-32 אלף: חמש השקות חשמליות עממיות שעשויות להגיע לישראל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EUjhFTFhUTG0xcnZ0a3l5Q1VVX0U0a1dOR1NVU0toRThzLUlXTWd6Tm8yNkZGeU1Da212Z3RZZDdLdXFkcVRjTHJ6b193WENiV01BMDhFWXg3aWg0Qzk5TjlTVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EUjhFTFhUTG0xcnZ0a3l5Q1VVX0U0a1dOR1NVU0toRThzLUlXTWd6Tm8yNkZGeU1Da212Z3RZZDdLdXFkcVRjTHJ6b193WENiV01BMDhFWXg3aWg0Qzk5TjlTVQ?oc=5\" target=\"_blank\">מ-19,490 אירו עד קרוסאובר ב-32 אלף: חמש השקות חשמליות עממיות שעשויות להגי",
+  "date": "2026-10-29T02:00:00.000Z",
+  "fetched": "2026-10-29T02:56:51.694Z",
+  "fromCloud": "2026-10-29T0256.json"
+ },
+ {
   "id": "efb67d2b84d82b71",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1056,6 +1067,17 @@
   "fromCloud": "2026-10-28T2103.json"
  },
  {
+  "id": "b2df680a806bb3e4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EQT’s $13 billion Range acquisition accelerates U.S. natural gas consolidation - Oil & Gas 360",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVpURkU5TGVPak52dE1EZVd4TkkwT2UzamdYcjY5WEI3aGpLVHJKRWV5Yk9kVnF3STZuUHVqSFJfcW9JVDNZUURPTFI4akpKdnJFVDJ6bW9yOEJCY3EzbUpJOUJ5LUNRMno4ZHZQd01Ja2thOHl0eUliVWJWOEd0TlJJQW5FTzFnSWVId3hULUItQW9Nb2NKNGFqUGhuTENYM2dfU01YUk4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVpURkU5TGVPak52dE1EZVd4TkkwT2UzamdYcjY5WEI3aGpLVHJKRWV5Yk9kVnF3STZuUHVqSFJfcW9JVDNZUURPTFI4akpKdnJFVDJ6bW9yOEJCY3EzbUpJOUJ5LUNRMno4ZHZQd01Ja2thOHl0eUliVWJWOEd0TlJJQW5FTzFnSWVId3hULUItQW9Nb2NKNGFqUGhuTENYM2dfU01YUk4?oc",
+  "date": "2026-10-28T20:57:07.000Z",
+  "fetched": "2026-10-29T02:56:51.694Z",
+  "fromCloud": "2026-10-29T0256.json"
+ },
+ {
   "id": "7ebb89d5c859640f",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -1153,6 +1175,17 @@
   "date": "2026-10-28T20:48:59.000Z",
   "fetched": "2026-10-28T21:03:20.042Z",
   "fromCloud": "2026-10-28T2103.json"
+ },
+ {
+  "id": "63b7ae3982e685ed",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoNHJyZ0ZzT3cxLU11VWxiTWVWVm9QTEc4SV8wZDlLYnV5Y3VRMVM4VlZIcDl5ZlpRNngwU0luczVkeEVTM1JfbzQ4bFpsemgydjVYbTl6eFlhRUE3UVlrU0hPSWpVYTFIUVNTaEpmdVU1NUHSAXhBVV95cUxPbGRfa2FDQVZfWnplOFJzMjZRYUNhYVJPUHVRTGQxUWV5SFRlbGFfalhKTHN0MVVBQ0dNLVZEamxENkdKeXduUy1idzVLc3pHX3MtU0wxaGZYVmRnVEpLN3FMbl9NZHpFajVsdEFRZTRVMmQ0WHluTFg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBoNHJyZ0ZzT3cxLU11VWxiTWVWVm9QTEc4SV8wZDlLYnV5Y3VRMVM4VlZIcDl5ZlpRNngwU0luczVkeEVTM1JfbzQ4bFpsemgydjVYbTl6eFlhRUE3UVlrU0hPSWpVYTFIUVNTaEpmdVU1NUHSAXhBVV95cUxPbGRfa2FDQVZfWnplOFJzMjZRYUNhYVJPUHVRTGQxUWV5SFRlbGFfalhKTHN0MV",
+  "date": "2026-10-28T20:45:07.000Z",
+  "fetched": "2026-10-29T02:56:51.694Z",
+  "fromCloud": "2026-10-29T0256.json"
  },
  {
   "id": "7869adeb377d97e6",
