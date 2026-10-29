@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 44,
+  "ok": 48,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 48
+  "blocked": 50
  },
  "en.globes.co.il": {
-  "ok": 10,
+  "ok": 11,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 45,
+  "ok": 48,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 39
+  "blocked": 42
  },
  "13tv.co.il": {
   "ok": 0,
@@ -52,11 +52,11 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 13,
+  "ok": 14,
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 16,
+  "ok": 17,
   "blocked": 0
  },
  "ice.co.il": {
@@ -72,7 +72,7 @@
   "blocked": 4
  },
  "calcalistech.com": {
-  "ok": 14,
+  "ok": 15,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 5,
+  "ok": 6,
   "blocked": 0
  },
  "inquirer.com": {

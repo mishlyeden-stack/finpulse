@@ -2895,7 +2895,7 @@
   "level": "red",
   "first": 1793171119268,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "שקל | היחלשות ובורסה ישראל — בוקר אחרי הבחירות, 28 אוקטובר 2026",
@@ -2909,7 +2909,7 @@
   "level": "red",
   "first": 1793178310229,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "Node2Shell | פגיעות Brotli קריטית — עדכון דחוף ל-Node.js, .NET, Python",
@@ -3363,6 +3363,48 @@
   "key": "גוגל | פתיחת ג'מיני וחיפוש לאפליקציות חיצוניות — מלחמת סוכני AI | אוקטובר 2026",
   "level": "yellow",
   "first": 1793265498105,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט | דוח Q3 — הכנסות ענן Azure זינקו 48%, מניה +5% | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793266671575,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פורטינט | צניחה 25% למרות עקיפת תחזיות — שוק הסייבר מתמחר מחדש | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793266671575,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | עסקת Hugging Face 12.9 מיליארד דולר תחת בדיקת DOJ | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793266671576,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בוסטון סיינטיפיק | מתקפת סייבר — ירידה צפויה במכירות Q4 | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793266671576,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ישראל | ת״א 90 צונח 4.4%, ת״א בנייה — היום החלש מאז 7 אוקטובר | 28 אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793267098847,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל | ציפיות שוק לאחר בחירות — ממשלה תקבע כיוון | אוקטובר 2026",
+  "level": "yellow",
+  "first": 1793267384726,
   "sentLive": false,
   "candidate": true
  }
