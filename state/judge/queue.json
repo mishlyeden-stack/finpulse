@@ -1,5 +1,214 @@
 [
  {
+  "id": "1cdec3f8fef18766",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Starwood Credit Real Estate Income Trust (0001986395) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1986395/000119312526439957/0001193125-26-439957-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-439957 <b>Size:</b> 175 KB <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-10-30T12:32:00.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "2b619c657e04ef77",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - TerraVolt Holdings, Inc. (0001174891) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1174891/000149315226049362/0001493152-26-049362-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001493152-26-049362 <b>Size:</b> 848 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T12:30:41.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "e21417e126e0b67d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Oxford Square Capital Corp. (0001259429) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026114080/0001213900-26-114080-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001213900-26-114080 <b>Size:</b> 551 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 7.01: Regulation FD Disclosure <br>Item 9.",
+  "date": "2026-10-30T12:30:38.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "bd843d2cf00a2f14",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - OPPENHEIMER HOLDINGS INC (0000791963) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/791963/000162828026068451/0001628280-26-068451-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001628280-26-068451 <b>Size:</b> 415 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T12:27:24.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "83e0d4c93093bfba",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Fast-growing company acquired after decade of setbacks and family funding - The Business Journals",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDR1QmZ4cXgyWW9palNqME5kcDRIVU0xeDk2Z01iQUt0YVBLLVh6Qm1fVF83dEZQTmVPcEF1cVJ6T1B2TFdVUVEyaXRITkg0SlVqMGFKYWJFb3RscjhESWItMkczUVhXNmxHZVNXTmU0VTFPc1p1eVgwTldDMy0tOG1GWUEwX29ma2N2OE9leGFmZE03LWpxVENMYlNERlFfQ0RYN013bw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDR1QmZ4cXgyWW9palNqME5kcDRIVU0xeDk2Z01iQUt0YVBLLVh6Qm1fVF83dEZQTmVPcEF1cVJ6T1B2TFdVUVEyaXRITkg0SlVqMGFKYWJFb3RscjhESWItMkczUVhXNmxHZVNXTmU0VTFPc1p1eVgwTldDMy0tOG1GWUEwX29ma2N2OE9leGFmZE03LWpxVENMYlNERlFfQ0RYN013bw?oc=",
+  "date": "2026-10-30T12:24:00.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "746bbf15c1006314",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Stonepeak Completes Acquisition of BMO’s Equipment Finance Businesses, Launches Longview Capital Solutions - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbW94d0FMN3ZpclRnN0Z2cXBMUzZybE1PbzhBR2N0MFFGN3JDTGFyc3ZTYTMtWl85VHlUMEpydTNLRU1mQTZZaUo1NWpWVXZ2Tm9WZDBEVDdVeE1UbWRJRk1udzZIU253VmVxOFV1bFlRRjRPdVN0bDNzSjhIWXYtSmkxSFpCSjJfRGhHajdSSHRQeDl3YmlZMV9Va2xUUHRJMUlidkVNYlMtWEFabE5vNzV1eG5rQjRMYzlNNk9tcWVMMjZISG1NY3FOOEVVckhJQml1NENBLURTMVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbW94d0FMN3ZpclRnN0Z2cXBMUzZybE1PbzhBR2N0MFFGN3JDTGFyc3ZTYTMtWl85VHlUMEpydTNLRU1mQTZZaUo1NWpWVXZ2Tm9WZDBEVDdVeE1UbWRJRk1udzZIU253VmVxOFV1bFlRRjRPdVN0bDNzSjhIWXYtSmkxSFpCSjJfRGhHajdSSHRQeDl3YmlZMV9Va2xUUHRJMUlidkVNYlMtWE",
+  "date": "2026-10-30T12:23:26.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "75d5870d706dc0f1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "LCI Industries Board Rejects Monomoy Capital's $101 Per Share Acquisition Bid - www.marketscreener.com",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTnRKZHpHc2syMnFJbTJ2NzJxMnR2UVpMRHZZS0RjamhFRDRncVlGVEktQU1sTWNkTE9hMVczR19TRTJJSUlSMXgzMThCU3lvMlA3UFVMZklpOU5SdndLVGZGZzhVLXppdzZWYnVNVDJtRFQ1ZjF3VEVEX1FTREwxWGQ0cE93WEwwaFRrT1YwN2g4YTZENVdvZkROc3NaNzg2NmFybDU2dWVjQnN5ZE1zV2JvSzVJWE5sSHp1dHVNZnJaMUxSZU5uTg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTnRKZHpHc2syMnFJbTJ2NzJxMnR2UVpMRHZZS0RjamhFRDRncVlGVEktQU1sTWNkTE9hMVczR19TRTJJSUlSMXgzMThCU3lvMlA3UFVMZklpOU5SdndLVGZGZzhVLXppdzZWYnVNVDJtRFQ1ZjF3VEVEX1FTREwxWGQ0cE93WEwwaFRrT1YwN2g4YTZENVdvZkROc3NaNzg2NmFybDU2dWVjQn",
+  "date": "2026-10-30T12:19:57.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "0f5a8ff056ffe1b7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "3 CFO Notes On Spending Caps - HealthLeaders Media",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tLVhOdVMyN0VneGFxbk9HSU1UNlNUR3VLdDhrNVRCakJsU1dSVTFrRjd3YnRYWWg5MWxTQk4xaldEZ3Y5b2FiQWtrSGJNYVhod2hUR1ltN2pNTUE2bzN6LVpfOEZQcFVSZnkwbzRVOURkUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0tLVhOdVMyN0VneGFxbk9HSU1UNlNUR3VLdDhrNVRCakJsU1dSVTFrRjd3YnRYWWg5MWxTQk4xaldEZ3Y5b2FiQWtrSGJNYVhod2hUR1ltN2pNTUE2bzN6LVpfOEZQcFVSZnkwbzRVOURkUQ?oc=5\" target=\"_blank\">3 CFO Notes On Spending Caps</a>&nbsp;&nbsp;<font col",
+  "date": "2026-10-30T12:18:58.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "02a5c3e3ff4393c1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CFOs On the Move: Week ending Oct. 30 - CFO.com",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGJkY0NEMnlvR3YyNng4Y3NVenMzUDBmOGU2RW44Nk1VeEotRHNoTG1vRFE5eXNCcHRxYVpmTkFwNlZ5bk9uSm85bEUwbVlPd3doYkYxaGVDcXR0MFhCLTlBcXFfNG1XVHVfM2kyLXV4c0VPRDVfVC1JcnVoTHF2eFdxNTNUcU1jVFlDTEVDYmYycHVCeV81dUhXdnQ5N2c0TWp6ak1iSFIwbGpUNThCU3hLUlVEOUxpUDdDdHJpQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGJkY0NEMnlvR3YyNng4Y3NVenMzUDBmOGU2RW44Nk1VeEotRHNoTG1vRFE5eXNCcHRxYVpmTkFwNlZ5bk9uSm85bEUwbVlPd3doYkYxaGVDcXR0MFhCLTlBcXFfNG1XVHVfM2kyLXV4c0VPRDVfVC1JcnVoTHF2eFdxNTNUcU1jVFlDTEVDYmYycHVCeV81dUhXdnQ5N2c0TWp6ak1iSFIwbG",
+  "date": "2026-10-30T12:11:39.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "46409e3076094242",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סייארה בוחנת גיוס לפי שווי של 20 מיליארד דולר - כמעט כפול מהשווי שלה לפני ארבעה חודשים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zSHBvX1p4OVJtUTdmQ3llNlVNdVJmSFJZa19ZZXpjZVQxTml5RmFVWVowcE9QRGdtZ2Y5ZWhZeEtmWHZEWmhjancxRWdad1dRa3BkNkFuQjFQMkdORHNXQ1NuTjVoeEla?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zSHBvX1p4OVJtUTdmQ3llNlVNdVJmSFJZa19ZZXpjZVQxTml5RmFVWVowcE9QRGdtZ2Y5ZWhZeEtmWHZEWmhjancxRWdad1dRa3BkNkFuQjFQMkdORHNXQ1NuTjVoeEla?oc=5\" target=\"_blank\">סייארה בוחנת גיוס לפי שווי של 20 מיליארד דולר - כמעט כפול מהשווי של",
+  "date": "2026-10-30T12:11:00.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "dbaf5ed9311e2e06",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CNR: Adjusted EPS rose 18%, free cash flow grew 25%, and FY2026 guidance was reaffirmed - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRWJHelRYc29NSU9QQ3FKSXdzT2tsaWdXQjhzMzBGcHdIVWxNdDYxVW9wdXdHN20yZllVTGhWUjM1N3UtR3JGUHZESmk5cTczSWNIM05teDVUXzhwUm0xdjBOcTF3dGw5WXU0SXBLS2tHSmh3WVhCVURqTXV2T2c0MEZRRDBVTkJ5NFR2TE1LZkw1Wmc5VmxqY0ROSnJWSjJtQ1E0aXBrQTN2U0RsN0lETlVLNFRpVk15ZXUtdWg3dUNGS3F0RFN2VmpxTEdjNThRU0NjU3hCUnJ4LW9idV9ORGQ3MGRvazRUMGFBbGVOTS05Z3BsQ1Jibg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRWJHelRYc29NSU9QQ3FKSXdzT2tsaWdXQjhzMzBGcHdIVWxNdDYxVW9wdXdHN20yZllVTGhWUjM1N3UtR3JGUHZESmk5cTczSWNIM05teDVUXzhwUm0xdjBOcTF3dGw5WXU0SXBLS2tHSmh3WVhCVURqTXV2T2c0MEZRRDBVTkJ5NFR2TE1LZkw1Wmc5VmxqY0ROSnJWSjJtQ1E0aXBrQTN2U0",
+  "date": "2026-10-30T12:09:35.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "25cbf226abeff048",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - GENERAL DYNAMICS CORP (0000040533) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/40533/000004053326000036/0000040533-26-000036-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0000040533-26-000036 <b>Size:</b> 743 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T12:09:27.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "60fe4fddc79d7bf2",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "משאירה אבק: למדינה באירופה נמאס - והיא מתחמשת יותר מתמיד | שלמה מעוז - מעריב",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zdEVnUzhINDNTVlFndjNnQ3QzbldJejBmVWxqUmZDa0k4SmVmT1JzWV9SbGtMdVF2Y18xbUE1bXIxRDI0M01JMktFeWw4dGN0ajlkSzd1WGJwZFhsa2pabDJtMlJKZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zdEVnUzhINDNTVlFndjNnQ3QzbldJejBmVWxqUmZDa0k4SmVmT1JzWV9SbGtMdVF2Y18xbUE1bXIxRDI0M01JMktFeWw4dGN0ajlkSzd1WGJwZFhsa2pabDJtMlJKZw?oc=5\" target=\"_blank\">משאירה אבק: למדינה באירופה נמאס - והיא מתחמשת יותר מתמיד | שלמה מעוז<",
+  "date": "2026-10-30T12:07:41.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "82df7b5e8221658c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MG: Margin expansion and stronger EPS offset lower sales, with free cash flow outlook raised - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQS2hlMmFuMWhLZVQtQU05Zjl3dFhwNFlZTjIzNWNCdnhIaHlrMmVqT0FoU1JEOUs1OEE1MEVudVRwM3R5akVyU1hYN25mRUMzZVVuTWc0OTNBakNPSGN3QUNpR2J4eVhWdjhtaUJza0hsZWhuMENWWnE4cDBzdnBmTjdPZjU0UVNId0lRdENiR0lBU1RGckNfUG9mSm9xOXlwRWNPa3U4bzNNc01fSUxKMElpUVVQSVVrYkdSUjBqWG51WENmZTRWWXctalc4QXBMZUgtUHBRWnZrOG9Td2VEc083TGhBVnIwemNJU3FQUDhTamxfVDB2cHpLMzhnNjdnNGJ3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQS2hlMmFuMWhLZVQtQU05Zjl3dFhwNFlZTjIzNWNCdnhIaHlrMmVqT0FoU1JEOUs1OEE1MEVudVRwM3R5akVyU1hYN25mRUMzZVVuTWc0OTNBakNPSGN3QUNpR2J4eVhWdjhtaUJza0hsZWhuMENWWnE4cDBzdnBmTjdPZjU0UVNId0lRdENiR0lBU1RGckNfUG9mSm9xOXlwRWNPa3U4bzNNc0",
+  "date": "2026-10-30T12:06:56.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "2b3eea41ce2f6cea",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - PIPER SANDLER COMPANIES (0001230245) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1230245/000123024526000038/0001230245-26-000038-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001230245-26-000038 <b>Size:</b> 923 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T12:06:16.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "96220f0e18f3ae37",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Osborne Clarke advises Performance Health on the acquisition of Ludwig Artzt GmbH Produkte für Sport und Gesundheit - Osborne Clarke",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IakRLWVQ5TXc1eE1VQmZKXzY5OVUxeWVBUnU5NzBYaUFUOVlrSEt2eWVWZEJtQ29zVWVfS21KbmhwWUZQVjl0UmxPbGRfRHNHREE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IakRLWVQ5TXc1eE1VQmZKXzY5OVUxeWVBUnU5NzBYaUFUOVlrSEt2eWVWZEJtQ29zVWVfS21KbmhwWUZQVjl0UmxPbGRfRHNHREE?oc=5\" target=\"_blank\">Osborne Clarke advises Performance Health on the acquisition of Ludwig Artzt GmbH Produkte für S",
+  "date": "2026-10-30T12:04:50.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "3556a8b0242473d3",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "Fresh WordPress Vulnerability in Attackers&#8217; Crosshairs",
+  "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
+  "summary": "Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers&#8217; Crosshairs appeared first on SecurityWeek .",
+  "date": "2026-10-30T12:04:13.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "ad9479c5895cab24",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Aurinia Pharmaceuticals Inc. (0001600620) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1600620/000160062026000074/0001600620-26-000074-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001600620-26-000074 <b>Size:</b> 344 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T12:03:31.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "ec3cf38aaaf015f3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Setara Biosciences Raises $90 Million Series A Following Jazz Pharmaceuticals’ Acquisition of Actio - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTNQNVNmSXVfSUJ2M2xwZ29HbUdady1tYlFoRWRqQUlURFBldUhaQkZBN0xPTm1Odk1hX3ByRUp0Y1BUN1JzaG5kN3B1dUxxd3QzV1g5eGR2QmZGaUtMeHpwbURfcFpXeHhLQVg5aFFWbHJweDRhc3ZXeTRLUEdPVmRtVXlsbkY2VkRkc3Z6NWxNclJDLVlBdmZna3h1VmR3RTJaeF94aTdBYV9CcWhidXlBNjZ5bVlhal9ROUk0RVd2bWdkQXl5VjFRdzlVbi1aZWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTNQNVNmSXVfSUJ2M2xwZ29HbUdady1tYlFoRWRqQUlURFBldUhaQkZBN0xPTm1Odk1hX3ByRUp0Y1BUN1JzaG5kN3B1dUxxd3QzV1g5eGR2QmZGaUtMeHpwbURfcFpXeHhLQVg5aFFWbHJweDRhc3ZXeTRLUEdPVmRtVXlsbkY2VkRkc3Z6NWxNclJDLVlBdmZna3h1VmR3RTJaeF94aTdBYV",
+  "date": "2026-10-30T12:03:02.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
   "id": "7c20688897d0d732",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +218,28 @@
   "date": "2026-10-30T12:01:41.000Z",
   "fetched": "2026-10-30T12:03:14.570Z",
   "fromCloud": "2026-10-30T1203.json"
+ },
+ {
+  "id": "41ee8f49166d726d",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Iran hits Hormuz tanker with limpet mines in apparent tactical shift",
+  "link": "https://www.ft.com/content/66ba3e98-26f5-46f1-9af3-5854364b4e9f?syn-25a6b1a6=1",
+  "summary": "Ship damaged on Thursday by attackers in speedboat in first such incident since 2019",
+  "date": "2026-10-30T12:01:05.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "e8fbf62959af8c8b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AMGO: Gold pilot output began, while commercial expansion and a conditional US$33m acquisition advanced - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOREVrdnpXZXNXS1poT0Y1Z3ZOdkNGN29EM0FxWTJneVJTZ3RRWE5TN3UzV3NpZ2FvQlFHT0gzMk8wdXU3bnN0Z1dWQ3NXRlB3VUhWVkJTT3A0Znc0aTRsTFpwNmlDRkNBVFBTQy1MSU5NUjJjT0MwcUNFRFJLcUhBeWJyNU5KVkkzNUl5NWVIUUJoa3dlenpPQjRtZnowblBZNWZfc0RQem9sMnBqc0JEeGllQ2pFV3pOSUpCTVZpWndHSUFkd3daTzdoczZVNkZkSkp0NnhxV1ZncDZkV1ItMlZYRFBXMU1XWVpDWG0wdGdTcG1WNFBJaEdhYndlVklsOTk3LW5UN2NsMWd2RzJVZFB3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOREVrdnpXZXNXS1poT0Y1Z3ZOdkNGN29EM0FxWTJneVJTZ3RRWE5TN3UzV3NpZ2FvQlFHT0gzMk8wdXU3bnN0Z1dWQ3NXRlB3VUhWVkJTT3A0Znc0aTRsTFpwNmlDRkNBVFBTQy1MSU5NUjJjT0MwcUNFRFJLcUhBeWJyNU5KVkkzNUl5NWVIUUJoa3dlenpPQjRtZnowblBZNWZfc0RQem9sMn",
+  "date": "2026-10-30T11:57:22.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
  },
  {
   "id": "2d9eaf9b24002150",
@@ -614,6 +845,17 @@
   "date": "2026-10-30T10:42:11.000Z",
   "fetched": "2026-10-30T12:03:14.570Z",
   "fromCloud": "2026-10-30T1203.json"
+ },
+ {
+  "id": "52dcba4f111a8a45",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "Ingersoll Rand ממנה נשיאי קבוצה חדשים ומאריכה את חוזה המנכ\"ל מאת Investing.com - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVExncjFQd21aNUFHak95eTFFdEUycVc1b3lCemFyYmM1MFo2Nko0WDJ1NUVLcFJGRFI1Xzk5djc3aVhNNTBnWThWQTdHRnNQckpSaU1JUl9tYmpSY3p1a1hOOG9wWWNVUmswWElzZmZpdXh0eVBNYzNqQVJseFVPNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVExncjFQd21aNUFHak95eTFFdEUycVc1b3lCemFyYmM1MFo2Nko0WDJ1NUVLcFJGRFI1Xzk5djc3aVhNNTBnWThWQTdHRnNQckpSaU1JUl9tYmpSY3p1a1hOOG9wWWNVUmswWElzZmZpdXh0eVBNYzNqQVJseFVPNA?oc=5\" target=\"_blank\">Ingersoll Rand ממנה נשיאי קבוצה ח",
+  "date": "2026-10-30T10:42:10.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
  },
  {
   "id": "cd6c32e05bca37bf",
@@ -2002,6 +2244,17 @@
   "fromCloud": "2026-10-30T0633.json"
  },
  {
+  "id": "9f6bc5d6eff52df2",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "המרצדס נשרפה. מנורה: מסירת הרכב לשם מכירתו ביטלה את הביטוח - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcU9icTNFREpabWxsX1Q4QkxMVWVELVNTampiM1ZnNXRXXzhkdVFkQ1lHUXktS1BfVFB2TEtTRW1IZ0dPZGMxZlZ6MndmbGRaclJ4akFZWVJsRTBzbU1VYWdyQUJEZUpXeUtkV05Vd01XcW1RckxDbnI0T1FEaC1HQVNKN2RWTmJlMUgyaTBHWkhwWVNseHhnaTVPc0xHaklDdVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQcU9icTNFREpabWxsX1Q4QkxMVWVELVNTampiM1ZnNXRXXzhkdVFkQ1lHUXktS1BfVFB2TEtTRW1IZ0dPZGMxZlZ6MndmbGRaclJ4akFZWVJsRTBzbU1VYWdyQUJEZUpXeUtkV05Vd01XcW1RckxDbnI0T1FEaC1HQVNKN2RWTmJlMUgyaTBHWkhwWVNseHhnaTVPc0xHaklDdVE?oc=5\" targ",
+  "date": "2026-10-30T06:00:00.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
+ },
+ {
   "id": "28ea2359baff4da3",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -2165,6 +2418,17 @@
   "date": "2026-10-30T05:01:00.000Z",
   "fetched": "2026-10-30T05:33:11.415Z",
   "fromCloud": "2026-10-30T0533.json"
+ },
+ {
+  "id": "4e3c17fa382fdff1",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Oil spills from Iran’s tanker attacks wash up on UAE beaches",
+  "link": "https://www.ft.com/content/2ae8d419-e495-4aa9-9b00-361770a32242?syn-25a6b1a6=1",
+  "summary": "Tehran has stepped up strikes on vessels in Strait of Hormuz in the past month, leading to a trail of pollution",
+  "date": "2026-10-30T05:00:22.000Z",
+  "fetched": "2026-10-30T12:33:13.055Z",
+  "fromCloud": "2026-10-30T1233.json"
  },
  {
   "id": "d665d982f78d01d5",
@@ -7907,82 +8171,5 @@
   "date": "2026-10-29T12:35:00.000Z",
   "fetched": "2026-10-29T16:03:13.245Z",
   "fromCloud": "2026-10-29T1603.json"
- },
- {
-  "id": "d6d4cfa09055902b",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "בינה מלאכותית בסייבר: נכס חיוני או סיכון ממשי? - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0VhUjdueDZjTkNiRlVaZFAyOFZzTUJEeVYxbktJY2U3MlhQX0N4UHFKZXZkX0FjcldWaHg5X09MVndQZ3hEWFZOeFp6eDdyM2tiQkdYVENpeHptaDdEcTZoa3JVMlFKTlhYZnczekduVGJ5d2hoLTV1Zi1FV1Z4YU5XMkd4c1dKb29LLVV6WHB0RmhNVGdDcTNpS3JONkY0TkxlZFpR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxON0VhUjdueDZjTkNiRlVaZFAyOFZzTUJEeVYxbktJY2U3MlhQX0N4UHFKZXZkX0FjcldWaHg5X09MVndQZ3hEWFZOeFp6eDdyM2tiQkdYVENpeHptaDdEcTZoa3JVMlFKTlhYZnczekduVGJ5d2hoLTV1Zi1FV1Z4YU5XMkd4c1dKb29LLVV6WHB0RmhNVGdDcTNpS3JONkY0TkxlZFpR?oc=5\"",
-  "date": "2026-10-29T12:30:00.000Z",
-  "fetched": "2026-10-29T16:03:13.245Z",
-  "fromCloud": "2026-10-29T1603.json"
- },
- {
-  "id": "38b5c528f343069a",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "אמודיי תורם מניות של אנתרופיק לצדקה, ושומר לעצמו את זכות ההצבעה בהן - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10UE1nNkNhTjF5RHNTRHZTYlMyMHZTRlBHbTdYaUJ0V0hzMUtSc0JPS01rN3F2eFBRQThOdHp0YzRSSHBaZG52QlVTMVpwb2JoTDNpaU00MGplMTlGMzE4V25yc3dMRmJq?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE10UE1nNkNhTjF5RHNTRHZTYlMyMHZTRlBHbTdYaUJ0V0hzMUtSc0JPS01rN3F2eFBRQThOdHp0YzRSSHBaZG52QlVTMVpwb2JoTDNpaU00MGplMTlGMzE4V25yc3dMRmJq?oc=5\" target=\"_blank\">אמודיי תורם מניות של אנתרופיק לצדקה, ושומר לעצמו את זכות ההצבעה בהן",
-  "date": "2026-10-29T12:29:00.000Z",
-  "fetched": "2026-10-30T00:03:12.249Z",
-  "fromCloud": "2026-10-30T0003.json"
- },
- {
-  "id": "67df94e2be920370",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "גופת אישה נמצאה בדירה ברחוב ההגנה בעכו; תושב שכם נעצר בחשד לרצח - HKN חיפה והקריות",
-  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iMXBNcDhTY2piOVFmQy1rNG1hUkRqSnVWaWpSSm1nOUwxbTJoSGRXZUY5LWZ2enBucDN1WjZzbEJKTzVHbmE5YQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iMXBNcDhTY2piOVFmQy1rNG1hUkRqSnVWaWpSSm1nOUwxbTJoSGRXZUY5LWZ2enBucDN1WjZzbEJKTzVHbmE5YQ?oc=5\" target=\"_blank\">גופת אישה נמצאה בדירה ברחוב ההגנה בעכו; תושב שכם נעצר בחשד לרצח</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HKN חיפה",
-  "date": "2026-10-29T12:28:51.000Z",
-  "fetched": "2026-10-29T15:03:13.395Z",
-  "fromCloud": "2026-10-29T1503.json"
- },
- {
-  "id": "0f395155d61ee7ff",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "למה עסקים קטנים ובינוניים חייבים ביטוח סייבר? - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWwxTzZTWkpWRVM2OWsxSjBXTl94SjhKRVZiazg0b3Q1QW5FZVlucVlTSnZ3UlVRYjFKYl9MN09iUXJwWjk1VWk4bDRIRWk0TWp5N0VRcGUzUWxLUGx5RXVMaEdyOW84RTgzZnVubUhPc1hueE5oNy1Ba05IeTJJaUxGSmpOVHg3UG9BNzJjdnpnSkxXajNTSFBxOFdvcjA3cG1ucmN3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWwxTzZTWkpWRVM2OWsxSjBXTl94SjhKRVZiazg0b3Q1QW5FZVlucVlTSnZ3UlVRYjFKYl9MN09iUXJwWjk1VWk4bDRIRWk0TWp5N0VRcGUzUWxLUGx5RXVMaEdyOW84RTgzZnVubUhPc1hueE5oNy1Ba05IeTJJaUxGSmpOVHg3UG9BNzJjdnpnSkxXajNTSFBxOFdvcjA3cG1ucmN3?oc=5\"",
-  "date": "2026-10-29T12:27:00.000Z",
-  "fetched": "2026-10-29T14:33:14.914Z",
-  "fromCloud": "2026-10-29T1433.json"
- },
- {
-  "id": "bd3c171e05099435",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "על כדורי ביליארד והחזר אור: כשאיומי סייבר פוגשים קניין רוחני - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMGVYZExvU0QwRkRLcmJhTzAtd1Y0U0w4azdqWEwwdzlRS1VYMUxRSEFCTU5WTm5raDBFREo3bXZSUzV6VUZVVE9TcHBrY0NXTFFIeWNialpDd0tQOGZYT0I0a2I2QUhWQzkxX21xb2NGZDIyWDdCcXBVcFdFeXI1X0VybXdTWGczTVNhYmhraVE5VGs0UXlNTEZHVHpmWFBiQ2VPVE9n?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMGVYZExvU0QwRkRLcmJhTzAtd1Y0U0w4azdqWEwwdzlRS1VYMUxRSEFCTU5WTm5raDBFREo3bXZSUzV6VUZVVE9TcHBrY0NXTFFIeWNialpDd0tQOGZYT0I0a2I2QUhWQzkxX21xb2NGZDIyWDdCcXBVcFdFeXI1X0VybXdTWGczTVNhYmhraVE5VGs0UXlNTEZHVHpmWFBiQ2VPVE9n?oc=5\"",
-  "date": "2026-10-29T12:19:00.000Z",
-  "fetched": "2026-10-29T16:03:13.245Z",
-  "fromCloud": "2026-10-29T1603.json"
- },
- {
-  "id": "71c118b91fd11aaf",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"האקרים לא צריכים לפרוץ את החומות - הם נכנסים דרך המדפסת\" - Cyber.AI | אוקטובר 2026 - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNndlODllRzlhWk0ySzY4SC1qNHN1ZTdLcElBeHoya1NmUGZUa2E0NmdpVkxQYllQUTdybS1GcFF3RFhQMEJTVm1ObjZ1N2hnNGx5aWJQb2hQaC1rWEJudlZCbjZucER1bXh5M1J2Z3k5Y09sSGJsYldxTm5meE1FZkZ6d0s2WTBNUktjem51eFJpbEw1eGRVQXRWaDFETHpfRUVHQ1dn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNndlODllRzlhWk0ySzY4SC1qNHN1ZTdLcElBeHoya1NmUGZUa2E0NmdpVkxQYllQUTdybS1GcFF3RFhQMEJTVm1ObjZ1N2hnNGx5aWJQb2hQaC1rWEJudlZCbjZucER1bXh5M1J2Z3k5Y09sSGJsYldxTm5meE1FZkZ6d0s2WTBNUktjem51eFJpbEw1eGRVQXRWaDFETHpfRUVHQ1dn?oc=5\"",
-  "date": "2026-10-29T12:06:00.000Z",
-  "fetched": "2026-10-29T16:03:13.245Z",
-  "fromCloud": "2026-10-29T1603.json"
- },
- {
-  "id": "bf9bad39aa8aa38f",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "ההסתדרות בחיפה נגד העברת משרדי הממשלה למבנים החדשים: \"לא נאפשר להציב את העובדים בפני עובדה מוגמרת\" - HKN חיפה והקריות",
-  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qQmJqZndwTTFTdUhFYjFfY2JtOXRUUXFxRDBsZDZseFlTeVplSFVsclhkcks0VFRBSzlkcHpfVVpwU056MVJGQg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qQmJqZndwTTFTdUhFYjFfY2JtOXRUUXFxRDBsZDZseFlTeVplSFVsclhkcks0VFRBSzlkcHpfVVpwU056MVJGQg?oc=5\" target=\"_blank\">ההסתדרות בחיפה נגד העברת משרדי הממשלה למבנים החדשים: \"לא נאפשר להציב את העובדים בפני עובדה מוגמרת\"</a>&nbsp;&",
-  "date": "2026-10-29T12:05:24.000Z",
-  "fetched": "2026-10-29T23:03:12.587Z",
-  "fromCloud": "2026-10-29T2303.json"
  }
 ]
