@@ -1,5 +1,258 @@
 [
  {
+  "id": "ac209c49ee24a1db",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ExxonMobil Holdings Corp (0002115436) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2115436/000211543626000018/0002115436-26-000018-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0002115436-26-000018 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-10-30T10:32:50.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "65ebcf0e0f59d897",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - LyondellBasell Industries N.V. (0001489393) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1489393/000148939326000067/0001489393-26-000067-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001489393-26-000067 <b>Size:</b> 665 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T10:31:17.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "d936768c61b45949",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - OneMain Holdings, Inc. (0001584207) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1584207/000158420726000038/0001584207-26-000038-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001584207-26-000038 <b>Size:</b> 940 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T10:31:01.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "95ee6c54c6801d67",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "חברת הדירוג פיץ' מעריכה: זה התרחיש הסביר לפלונטר הפוליטי",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561448#utm_source=RSS",
+  "summary": "סוכנות דירוג האשראי מעריכה כי הפלונטר הפוליטי בישראל עלול להוביל לבחירות נוספות בעוד כחמישה חודשים &#8226; בפיץ' מציינים כי היעדר תקציב חדש עשוי דווקא להקטין את הגירעון בטווח הקצר, אך מזהירים: לא מדובר בשיפור אמיתי במצב הפיסקלי",
+  "date": "2026-10-30T10:31:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "f4aab7814804c342",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Jazz's $820M Actio buyout gives rise to Setara, armed with $90M series A - Fierce Biotech",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDdLUHpJMnBXZm41WEdqczJLWVoyUmJYVnh2enNqVkxKaVQxUEM2cUhrZGtMMVlIaXY4cVViQ3FLd3VRZXpLYm5GbDZfVTR6RWFVbTBJQ2tzTmpBZWFjR1RTVEwwVzZjNER1NDREaG5TdDh6N05NMmc3VHBQdk1jZlJCVXhuRkdSY2JHRy0zRzZvWm13RDJ3eUo1WTZjZzVKdVBnSG9yVmtUTWpzSEtz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDdLUHpJMnBXZm41WEdqczJLWVoyUmJYVnh2enNqVkxKaVQxUEM2cUhrZGtMMVlIaXY4cVViQ3FLd3VRZXpLYm5GbDZfVTR6RWFVbTBJQ2tzTmpBZWFjR1RTVEwwVzZjNER1NDREaG5TdDh6N05NMmc3VHBQdk1jZlJCVXhuRkdSY2JHRy0zRzZvWm13RDJ3eUo1WTZjZzVKdVBnSG9yVmtUTW",
+  "date": "2026-10-30T10:30:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "7cf14f9bd466382a",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Cyera raising funds at $20b valuation - report",
+  "link": "https://en.globes.co.il/en/article-1001561449#utm_source=RSS",
+  "summary": "The Israeli cybersecurity company is raising the funds just months after raising $1 billion at a valuation of $12 billion, &ldquo;The Information&rdquo; reports.",
+  "date": "2026-10-30T10:28:35.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "7489e05ebe158947",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Iceland’s Kaldvik seeks €97m equity raise in refinancing deal after jellyfish losses - Undercurrent News",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNlBOM0RCTUZJdTNUbXYyT0xERkE1bVdZakpRVXg4alN0aTJMMy1wVXp2aDl1UnU3ajZLeHhZOThGRl9pb2NiWEFtR0lJelFlQXE0b2gtTFpMak1ZMFZteDBpb0liX2VveUw3MFlyTGVxQldVLTNmcTdnVUlMVmV3VGgzNU1GYXJ5OWtodUxJSUkxQmlJZk1GMTJIeVFIMWpEa01zUUFSUXM3Z2xFdm84UE4wb0l3X3JhX3dLSGxXU2tTOTNWcjJB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNlBOM0RCTUZJdTNUbXYyT0xERkE1bVdZakpRVXg4alN0aTJMMy1wVXp2aDl1UnU3ajZLeHhZOThGRl9pb2NiWEFtR0lJelFlQXE0b2gtTFpMak1ZMFZteDBpb0liX2VveUw3MFlyTGVxQldVLTNmcTdnVUlMVmV3VGgzNU1GYXJ5OWtodUxJSUkxQmlJZk1GMTJIeVFIMWpEa01zUUFSUXM3Z2",
+  "date": "2026-10-30T10:18:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "9c45c843e64d4b2d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Needham lowers DoorDash stock price target to $235 on acquisition - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXZhQzU5Rk1SOFJVSjRiNTdlaTU5bVRTbVFBRlJBVEExUXQ3LU9nTnFsVVpIQ0pNWjBueWxnTTBGSlFyOHUwYlUtWUVUbi1melAxM3ZNeDVzd080dDNTNFZKdFlybUN5Mm9zU3pOV2JldU1Cell5aUNVeGVROTkwcjlJcVczZG9ObDY4OG5WRDhQSWpURlRqOFpzZURqcGJ0Y1JqVmFCTndaS0lVc0NkOEdUNXBzVVdhYk4wSUZRUjRMZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXZhQzU5Rk1SOFJVSjRiNTdlaTU5bVRTbVFBRlJBVEExUXQ3LU9nTnFsVVpIQ0pNWjBueWxnTTBGSlFyOHUwYlUtWUVUbi1melAxM3ZNeDVzd080dDNTNFZKdFlybUN5Mm9zU3pOV2JldU1Cell5aUNVeGVROTkwcjlJcVczZG9ObDY4OG5WRDhQSWpURlRqOFpzZURqcGJ0Y1JqVmFCTndaS0",
+  "date": "2026-10-30T10:17:49.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "3d78ef636342c2f6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Arrow Financial (NASDAQ:AROW) Completes Adirondack Bancorp Acquisition, Posts Core EPS of $0.97 - Kalkine",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc1Vld3lpQ0YzejhqbVhsS19FajJjZXdXb2xDaWJrQmxoejRQY0pBbFBmMHFoYUZBZ3pYTEpfQlhKZGFVY0I5dHdVUlpkeUtoU3pkcEtOOE1yLWZDc2s3WFVpVklrbEI2N3NfS2tRVUxyWjFVQ01FdUhIRVZwMmY0OHZMMHRYc1JFUUJ1YkJYMTdWRG9GSjU3Ry01Rl9faXRnUGVMcGV5anpIR1hjMFVJV3hFRkhrZDNSM1VkODV5ejNGSXhZelI3SE9xOURXWk02NFFF?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc1Vld3lpQ0YzejhqbVhsS19FajJjZXdXb2xDaWJrQmxoejRQY0pBbFBmMHFoYUZBZ3pYTEpfQlhKZGFVY0I5dHdVUlpkeUtoU3pkcEtOOE1yLWZDc2s3WFVpVklrbEI2N3NfS2tRVUxyWjFVQ01FdUhIRVZwMmY0OHZMMHRYc1JFUUJ1YkJYMTdWRG9GSjU3Ry01Rl9faXRnUGVMcGV5anpIR1",
+  "date": "2026-10-30T10:16:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "0ae7644dfc7ccc9a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Intel CEO Lip-Bu Tan Breaks Silence On Quantum Computing Acquisition & Says Intel Will Become A Full Stack Revenue-Generating Quantum Company” - Wccftech",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVVFN0lqMFdfYW9kM2JQWkVHRkFFWTQ5S2lGdGlFQ0FheHpSc3Z5OFBmbGRQaDZrVEhLcC13MkNYTHdYdHZlRzh4cF90YkIxR0I5dW1OYndBRlE1SEtHbVJTY214MDNxY3VyZTRzZFFyRnRyRHZIeVJKOWEwQ09OQm1JSHFHc2VzTm93NWtfV0RQeGZfRmhfRnhsSERjdFo1QjJLV1pmNklsZDM4bGM2dFlPWXgzUjczbmszRGNidUg0MlRhRzBiV2g4Ri1mOGxSLUFMX2F1OW9IV2EzZ0pISmR3V2dRNW00b2E3UF9DWjAwNjDSAfgBQVVfeXFMUHFrSk90ZEFYTGh4VDdnamdtR1BmM0Q5TEtCNnpzTF96NGpKMDAtODJ1ckxFdUJXNmFseG9oWWFHOVJfZjBEQzBzN0ltUVNrXy16dFk3Mm9kak0xX2ZLUlludTN0VVpyeXlhcHhmZlNoV0tlY2FLRmZsT1dJZDB4eVRZOVJfOUNVXzkyWVc0ZEdnU1ItRFpLRUtlQmxoMVFHRzZQMmRFYWpoOFk1T09uR2lNN3lfWVRDOU04dnVmTDg0U1RndzRYbllsUFByT2NOck9CZ2JfZlpBY3p5MUpVWVh5RkxzcWY0RTRWbFJQNXpqVnRGRVhuclo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVVFN0lqMFdfYW9kM2JQWkVHRkFFWTQ5S2lGdGlFQ0FheHpSc3Z5OFBmbGRQaDZrVEhLcC13MkNYTHdYdHZlRzh4cF90YkIxR0I5dW1OYndBRlE1SEtHbVJTY214MDNxY3VyZTRzZFFyRnRyRHZIeVJKOWEwQ09OQm1JSHFHc2VzTm93NWtfV0RQeGZfRmhfRnhsSERjdFo1QjJLV1pmNklsZD",
+  "date": "2026-10-30T10:15:39.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "dd5ae883e667d9a2",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "האזהרה של חברת דירוג האשראי: \"ישראל בסיכון לחוסר ודאות ממושך\" - סרוגים",
+  "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOSkVGLS1rUzlrbFdNb09GUW5zdVFsVTNkTzN0TDFNN3U4MzQxWGtlZ0JXMk5LS2ZRSkdJeGJYeC1uMVZ6enJLbUJKMngzQUpYaFcwWDVHbHZpMWI5YjlKT2JUSHIzc2U4aDVtSXNmSVc4SkpTeklSVE1DNXhWT2VzVEM2RXV1QlFOT24zaFVQMk82UjVTVURLSHlUS2syNFQ0MDFzYkNCMU1FSkhhVlppd0g5bTJuQy01NXRTV1QwLWZtSm1jMy1UekRmVEVsNzlxM0hkWGdDNVdiZFBYbFVuN2ZxZzF5S1VORUpIRzcxMmNpTVlGaXBSZkY5M3Z6ckpfVVJWUk1oczI2bnJETUs0MHc2VGk3NmpUVlQyUjh2WjRiamRkNEg1YkxQYlZrekJ4R3lOa01KZzVWRGd4aTY0dlliam1ydm5iSGxDUjNFRWlqaWVLMlZ6YW9NdnZSTWpRSWpYTDBFY3B1bDV3enI3X09hRWlPaG5UU0JkNnJUcUhNd0tBMllHc2U2TjhIanJGTmxCT2NYcHhPTXpXdnp5MUFYc0lLWGU4SmFzYXNieXRsZGxGMUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgNBVV95cUxOSkVGLS1rUzlrbFdNb09GUW5zdVFsVTNkTzN0TDFNN3U4MzQxWGtlZ0JXMk5LS2ZRSkdJeGJYeC1uMVZ6enJLbUJKMngzQUpYaFcwWDVHbHZpMWI5YjlKT2JUSHIzc2U4aDVtSXNmSVc4SkpTeklSVE1DNXhWT2VzVEM2RXV1QlFOT24zaFVQMk82UjVTVURLSHlUS2syNFQ0MDFzYkNCMU1FSk",
+  "date": "2026-10-30T10:14:09.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "82baa60770d68560",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "התשקיף מגלה: ברזאני תחלק דיבידנד ענק, שכר הבעלים יזנק",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561443#utm_source=RSS",
+  "summary": "חברת התשתיות תנסה לגייס בהנפקתה כמיליארד שקל ותחלק כשליש מהתמורה לבעלי המניות &#8226; צופה קפיצה של 42% ברווח השנתי ל-113 מיליון שקל &#8226; שכרם של הבעלים והמנכ\"לים המשותפים, האחים יוסי ברזאני ודיין בר, כמעט יוכפל לאחר ההנפקה ל-4.1 מיליון שקל כ\"א",
+  "date": "2026-10-30T10:11:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "75791a0b9fe47000",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "פיץ' הותירה ללא שינוי הדירוג של ישראל, אך מזהירה מאי ודאות פוליטית בעקבות הבחירות - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiRWxTN2VoWWV6enlzZ0xqZ21OR0MxMWZ5SlByNFM0Q0lGNXo3SUdjVzhTS2QzSHRLRGdVcnQ4SXhmdHNiaHhRSUc2ZngyVnFGTGZNa1pTdWk2UEpkdGpWUk1oY0VOM1l4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiRWxTN2VoWWV6enlzZ0xqZ21OR0MxMWZ5SlByNFM0Q0lGNXo3SUdjVzhTS2QzSHRLRGdVcnQ4SXhmdHNiaHhRSUc2ZngyVnFGTGZNa1pTdWk2UEpkdGpWUk1oY0VOM1l4?oc=5\" target=\"_blank\">פיץ' הותירה ללא שינוי הדירוג של ישראל, אך מזהירה מאי ודאות פוליטית ",
+  "date": "2026-10-30T10:10:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "01385e570d325dae",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "האיש שניצח — וגם הפסיד, השניים שעקפו אותו — ושוחד המיליארדים שלא הספיק - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmhkcVVvUHFFZEtqY1h2QVpOdFowWm1BRlNXTkgyOW14Wk9PQWhRSXd1NnJvY1R2cVJ2Vk9vWmlyMTJTcXdYUXhtZlU3M0RGMUUzX0t2dUVSeFVJbThRcjR1Z0VneFpYbnRaT0hYUTBmT251bE1IX0FVWXcyNFVBUjYwMHRUUnVQR3Y5MHlWR1h1REJmemJNVHA3WmthdzdsT3ZMR294TDJvQkltSU9kQ21rU2xrcmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmhkcVVvUHFFZEtqY1h2QVpOdFowWm1BRlNXTkgyOW14Wk9PQWhRSXd1NnJvY1R2cVJ2Vk9vWmlyMTJTcXdYUXhtZlU3M0RGMUUzX0t2dUVSeFVJbThRcjR1Z0VneFpYbnRaT0hYUTBmT251bE1IX0FVWXcyNFVBUjYwMHRUUnVQR3Y5MHlWR1h1REJmemJNVHA3WmthdzdsT3ZMR294TDJvQk",
+  "date": "2026-10-30T10:08:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "ea2cfa3be3e67aa3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Telecom Italia Says Tim Enterprise Finalised Acquisition Of 70% Of VoiSmart - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkxTeW5adXpDTWJSdlNONUs2VzNBcW5jb1Jsc1VwdWZnX1BlaENxRWpZX05hUlRxcHJzWEpkTTk1NGk2eTdxWWZudmJYeGxtN0VBaXJBXzlWMFZUSVV6dVdNSEhESjFpeDIyQnJmNl9WRXA4b2tLd1l3Y3pnSUNjZzBXdnppT0UyV3B5Z0dZMkRxZ2RGRkFaaTRGOWtxZGRrSGltNkRWMWJNWW4tVVdFa2MzV2JJWWJTNHVYUVluY2I2YTR4bEFHbVdicExGYXlLU2lUbXhPT1VuRWhv?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkxTeW5adXpDTWJSdlNONUs2VzNBcW5jb1Jsc1VwdWZnX1BlaENxRWpZX05hUlRxcHJzWEpkTTk1NGk2eTdxWWZudmJYeGxtN0VBaXJBXzlWMFZUSVV6dVdNSEhESjFpeDIyQnJmNl9WRXA4b2tLd1l3Y3pnSUNjZzBXdnppT0UyV3B5Z0dZMkRxZ2RGRkFaaTRGOWtxZGRrSGltNkRWMWJNWW",
+  "date": "2026-10-30T10:07:53.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "52cb1c1cf8ad4f23",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - BrightSpring Health Services, Inc. (0001865782) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1865782/000186578226000011/0001865782-26-000011-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001865782-26-000011 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T10:05:15.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "d0d1787768136453",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גנבו לכם קריפטו ומס הכנסה גם דורש מיסוי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FSXB5eDkyY2NLN0dYT01Vd0JTYjgwTXdrQWNudHR1akhhcjl3TTVmZFVsOENUX01YR2Z5Rkk0ZHVvV2FmSV9fQlppUUJBek9wNGYzRlFXNXpoQWUzaFdmN0dCV2FyNzlSLUlJODVvVGw5UQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5FSXB5eDkyY2NLN0dYT01Vd0JTYjgwTXdrQWNudHR1akhhcjl3TTVmZFVsOENUX01YR2Z5Rkk0ZHVvV2FmSV9fQlppUUJBek9wNGYzRlFXNXpoQWUzaFdmN0dCV2FyNzlSLUlJODVvVGw5UQ?oc=5\" target=\"_blank\">גנבו לכם קריפטו ומס הכנסה גם דורש מיסוי</a>&nbsp;&nbs",
+  "date": "2026-10-30T10:03:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "726d488001486a0b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326005615/0001062993-26-005615-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001062993-26-005615 <b>Size:</b> 804 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T10:01:48.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "df1e2487e96f917b",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
+  "link": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
+  "summary": "Cash burn at Google, Amazon and Meta leads Wall Street to question price of AI boom",
+  "date": "2026-10-30T10:00:02.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "ddddfc6136ce0698",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Meyer hopes to bring hospital CFO experience - Shelby News",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORU0ydHBZY2hESG5fN0tMdk1SVmdoQ1R5c2JJRjNOZjFPOTA2WVYzblhoQlpQZVprLTg3MVJYeG9ydnYzSkthWDRPd0d2eWVScXFVaTBVUnlaRUhEVWxlckZlMHVKdFFvSWZ3ckNQVk5OWmFRVzlLdXJjeTAtZE9ZNjZGTUpfOXdSd1ZxRTFqbFZCVkh3VFB5YVdCTDdxTlQ5WnhiUGFYNzE2RWRFVVdHVG5QQlZEeEhJMWJGSVhSOVk2THVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxORU0ydHBZY2hESG5fN0tMdk1SVmdoQ1R5c2JJRjNOZjFPOTA2WVYzblhoQlpQZVprLTg3MVJYeG9ydnYzSkthWDRPd0d2eWVScXFVaTBVUnlaRUhEVWxlckZlMHVKdFFvSWZ3ckNQVk5OWmFRVzlLdXJjeTAtZE9ZNjZGTUpfOXdSd1ZxRTFqbFZCVkh3VFB5YVdCTDdxTlQ5WnhiUGFYNzE2RW",
+  "date": "2026-10-30T10:00:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "e186ebac2550e26b",
+  "source": "AV Network",
+  "group": "industry",
+  "title": "C2G Expands Connectivity Portfolio: Here's What to Know",
+  "link": "https://www.avnetwork.com/products/cables-connectors/c2g-expands-connectivity-portfolio-heres-what-to-know",
+  "summary": "Introducing new long-reach USB-C cables, a 3x2 USB-C switcher, and HDBaseT Wall Plate Extender Kits.",
+  "date": "2026-10-30T10:00:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "03beb156589c2cf0",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "העימות בין קשת לרשת עובר לבית הדין: בקשה דחופה לעכב כניסת דנקנר לתפקיד - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1BMZUxVQ2ZlYU1nbzVSQUFPR3lXTlBJLWd6elVRLURGUDlSei1jRi1pOXRGai1Ud2pWT3BQb1dMeVVJNFhqclJSTVhTT1pEd2VweXM5ckJ1LVA0RzZiaUtlckUwMlNpd0dYLW55SW5EZHlERDREOTRxSF9PcFRDNWpPaWt3ckljOEs0TEl5WXlSQVNvNU5FenhodTZRLXNFUmFWTmdDeTNGaDg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1BMZUxVQ2ZlYU1nbzVSQUFPR3lXTlBJLWd6elVRLURGUDlSei1jRi1pOXRGai1Ud2pWT3BQb1dMeVVJNFhqclJSTVhTT1pEd2VweXM5ckJ1LVA0RzZiaUtlckUwMlNpd0dYLW55SW5EZHlERDREOTRxSF9PcFRDNWpPaWt3ckljOEs0TEl5WXlSQVNvNU5FenhodTZRLXNFUmFWTmdDeTNGaD",
+  "date": "2026-10-30T09:57:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "776f055ae6ab9709",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Barclays cuts Instacart stock rating on acquisition offer By Investing.com - Investing.com South Africa",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWU9na0FXWGVNU3R5b2ZJcDFHb2ZIS01BeDhMVUhjSUszNUpoeFhBa3hXZlhkbzRsNUN1Y0NzM21JNko2cHRCaEU2RnhpWDk3bllOM2RyQlBPYXoyblhTZmxFZ3ZWSlRGN1Y4NVZlOUQ0QUpZVjE2UGJhUXU3c2d3V0RsMUhqaWZCVS1mcTZIX1lmREpvbmFSUDlZRVFTZGJzaUM5bzZ2N2ttdC01dkZEN2JWTDdBSV9TUWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQWU9na0FXWGVNU3R5b2ZJcDFHb2ZIS01BeDhMVUhjSUszNUpoeFhBa3hXZlhkbzRsNUN1Y0NzM21JNko2cHRCaEU2RnhpWDk3bllOM2RyQlBPYXoyblhTZmxFZ3ZWSlRGN1Y4NVZlOUQ0QUpZVjE2UGJhUXU3c2d3V0RsMUhqaWZCVS1mcTZIX1lmREpvbmFSUDlZRVFTZGJzaUM5bzZ2N2ttdC",
+  "date": "2026-10-30T09:47:33.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
   "id": "7809b80c736cc6f9",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -20,6 +273,17 @@
   "date": "2026-10-30T09:44:00.000Z",
   "fetched": "2026-10-30T10:03:12.205Z",
   "fromCloud": "2026-10-30T1003.json"
+ },
+ {
+  "id": "9eb116a6a3faf67b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Barclays cuts Instacart stock rating on acquisition offer - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbE9NdFZjYzdVX2g5MlhoY191V0hVNUI5Rkd2ejl1RU9SR3VvdDFxZGZvRGU4X0xkR1NFcEk4MmR2REVjS0dkN0pqQ2NJOFlGd2pPcnl1VmdaZEMyZTU4LXNqX2JSem4wMkdoeHpQTlFrYVloY2U1Sk9IbGNTTVVNenl3N1pQM1R4MTBRXy13dmRMV1k3MDRZamdaaGQ0b0RDUm82dWJKRVZwZzA1MDVjbGYwZkZyc0RJ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbE9NdFZjYzdVX2g5MlhoY191V0hVNUI5Rkd2ejl1RU9SR3VvdDFxZGZvRGU4X0xkR1NFcEk4MmR2REVjS0dkN0pqQ2NJOFlGd2pPcnl1VmdaZEMyZTU4LXNqX2JSem4wMkdoeHpQTlFrYVloY2U1Sk9IbGNTTVVNenl3N1pQM1R4MTBRXy13dmRMV1k3MDRZamdaaGQ0b0RDUm82dWJKRVZwZz",
+  "date": "2026-10-30T09:43:36.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
  },
  {
   "id": "aedf51642ecf4a2e",
@@ -44,6 +308,28 @@
   "fromCloud": "2026-10-30T1003.json"
  },
  {
+  "id": "cce3d114b9cd70b7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Arion Says Blikastaðaland Acquisition To Be Completed In Q1 2027 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObXNZTmYwV3NxR2xoSF85UWd6Zl8zeWUyMV9HdTVkVi1qeW5rY3FUc1Y2NTM2Yl9ycjk4TWxYNHlzWGNfZEI2SEdlLV8xeUpkcm1IMGNySUh3OEFSVkxhdGdaYkF2SmFXY3lQOWI3T1BFNlB2YlB5UXBiMTVUajQ1emlJajF6cWVQc2lwOEk0SjBKblBlcHF6bmdrLXpWQmtYSzlNdjhFNWpnTFY3VnRwa2daUk83bkpkUHdFaWtXcWdscE16aDJqWV83MTRYRkk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObXNZTmYwV3NxR2xoSF85UWd6Zl8zeWUyMV9HdTVkVi1qeW5rY3FUc1Y2NTM2Yl9ycjk4TWxYNHlzWGNfZEI2SEdlLV8xeUpkcm1IMGNySUh3OEFSVkxhdGdaYkF2SmFXY3lQOWI3T1BFNlB2YlB5UXBiMTVUajQ1emlJajF6cWVQc2lwOEk0SjBKblBlcHF6bmdrLXpWQmtYSzlNdjhFNWpnTF",
+  "date": "2026-10-30T09:36:12.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "b58a09a934199365",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פאנל מומחי ההשקעות: איפה לשים את הכסף וממה להתרחק - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYazh5QVNLM1c4N2Nhb2Mxd0pfUDFfaE9vVDlBdlJJcC1hRHpDR1oxZzM0QmhpYjA3VW8yLXZHcmpWN1ZaUGF6eXRVVVI3UWJlNmQtUUtUMGlIVUJkTktJOGVOR0VLanZEQVZzekRsOGQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBYazh5QVNLM1c4N2Nhb2Mxd0pfUDFfaE9vVDlBdlJJcC1hRHpDR1oxZzM0QmhpYjA3VW8yLXZHcmpWN1ZaUGF6eXRVVVI3UWJlNmQtUUtUMGlIVUJkTktJOGVOR0VLanZEQVZzekRsOGQ?oc=5\" target=\"_blank\">פאנל מומחי ההשקעות: איפה לשים את הכסף וממה להתרחק</a>&nb",
+  "date": "2026-10-30T09:33:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
   "id": "4bea3ce24866f29c",
   "source": "SecurityWeek",
   "group": "industry",
@@ -53,6 +339,28 @@
   "date": "2026-10-30T09:32:27.000Z",
   "fetched": "2026-10-30T10:03:12.205Z",
   "fromCloud": "2026-10-30T1003.json"
+ },
+ {
+  "id": "0eb48b4e23d2f071",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Arion Bank: Exclusive negotiations on acquisition of Blikastaðaland ehf. by an investment fund managed by Íslensk verðbréf hf. - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYURGRk9POUJRNE1sR0g0Ym91T2NMbktFSTlRTzg1YVFLR1NfYlZBeDdkWUpLaDNTQk05R0RIdHFEQThrQjRFc1NTVDR0LWpHYVgwWG1XcHlKUjVZd1JYeGdBX1hEQzBEeW9qdE0xTjZ6SHczOVQtdFJUbldJc3FwN3Fhc1I1WGhYNmswODF6NnByYmpqdzVtS2NsSFVmTVRUbXN2S0xlSktxTk9zTlM4X2Zmb3VqSUVzSEZob2g0Vm1MalZBNkI2SGFGc2RveWF4OFQzSklVYllhSXVnUGt1bHhUOXUwQmJpM0N3RkJhVU5weWRkRG5pR2Y1VUtRbmRaallxbERGaXdneEVfcnJtTmFxQlRTWWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOYURGRk9POUJRNE1sR0g0Ym91T2NMbktFSTlRTzg1YVFLR1NfYlZBeDdkWUpLaDNTQk05R0RIdHFEQThrQjRFc1NTVDR0LWpHYVgwWG1XcHlKUjVZd1JYeGdBX1hEQzBEeW9qdE0xTjZ6SHczOVQtdFJUbldJc3FwN3Fhc1I1WGhYNmswODF6NnByYmpqdzVtS2NsSFVmTVRUbXN2S0xlSktxTk",
+  "date": "2026-10-30T09:30:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "acfdde0f882224ad",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Water Street and JLL Partners’ Eversana announces acquisition of London’s Estima Scientific - PEI Private Equity",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONExjUS1ieVZLa0NwX3ZTa1FLMW9zNHFHc1ppVUw3Y2hKdVA4RWFvZXhGT3ZySUJGc2R6WGFYdUxpekRfTGd4NnBaVU9MYldBR0dwdTU2S1pGVDZiakVLVlN6VjYzWnJSekFKajBYc2VTUGF1cnQ5Tm95RVRhYURPMHZtRk1ueDdaLUxsUG04eWliUV9NdU9ONlRpRmRLaGU0WS1kQVRTYlpCR1p3OXhlTVpCNUhaRDhwQUotWnFkcXRnRWpRSW5MdFJiay1wZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxONExjUS1ieVZLa0NwX3ZTa1FLMW9zNHFHc1ppVUw3Y2hKdVA4RWFvZXhGT3ZySUJGc2R6WGFYdUxpekRfTGd4NnBaVU9MYldBR0dwdTU2S1pGVDZiakVLVlN6VjYzWnJSekFKajBYc2VTUGF1cnQ5Tm95RVRhYURPMHZtRk1ueDdaLUxsUG04eWliUV9NdU9ONlRpRmRLaGU0WS1kQVRTYlpCR1",
+  "date": "2026-10-30T09:29:40.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
  },
  {
   "id": "05f24e2ecb758e81",
@@ -108,6 +416,17 @@
   "date": "2026-10-30T09:16:00.000Z",
   "fetched": "2026-10-30T10:03:12.205Z",
   "fromCloud": "2026-10-30T1003.json"
+ },
+ {
+  "id": "6540787e05d0893a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "האופוזיציה זכתה ברוב ברור וכעת חובתה לממש אותו - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeHBXVmVuZnZ2aVE1VDNaRDRUel9nRmhVd3NqbnBCU2doRlNLQ29QX2wwVzZwX1BTTEs1OFJLaUlNbEt3Z1ZlYUhQc21mZDFVTEd2TG9lSEU2OF9NRjZQRGpTUnlKZ2gtWW9peTNkbGlrdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1GeHBXVmVuZnZ2aVE1VDNaRDRUel9nRmhVd3NqbnBCU2doRlNLQ29QX2wwVzZwX1BTTEs1OFJLaUlNbEt3Z1ZlYUhQc21mZDFVTEd2TG9lSEU2OF9NRjZQRGpTUnlKZ2gtWW9peTNkbGlrdw?oc=5\" target=\"_blank\">האופוזיציה זכתה ברוב ברור וכעת חובתה לממש אותו</a>&nb",
+  "date": "2026-10-30T09:16:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
  },
  {
   "id": "0bef28a0c9e22dd2",
@@ -1441,6 +1760,17 @@
   "fromCloud": "2026-10-30T1003.json"
  },
  {
+  "id": "8b562f5ba83254d6",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הנאמן ממליץ למכור את הקבלן של 226 הדירות בקריית היובל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IMjA2N0NQRVRUWkhVVC1pN0Mtb1ZkeUs1U05rclg0b0ljNkFKbE5kZ2JkcHNOS1RkRFVlbmI1bUloNXVDWHJqOGFmYUU5ODRPYzZrYU9CU0hqZFZpUndLMlNvV1p5WXM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IMjA2N0NQRVRUWkhVVC1pN0Mtb1ZkeUs1U05rclg0b0ljNkFKbE5kZ2JkcHNOS1RkRFVlbmI1bUloNXVDWHJqOGFmYUU5ODRPYzZrYU9CU0hqZFZpUndLMlNvV1p5WXM?oc=5\" target=\"_blank\">הנאמן ממליץ למכור את הקבלן של 226 הדירות בקריית היובל</a>&nbsp;&nbsp",
+  "date": "2026-10-30T04:05:00.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
   "id": "3bda0bd587e80ba9",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -1771,6 +2101,17 @@
   "fromCloud": "2026-10-30T0703.json"
  },
  {
+  "id": "45e85ba51a5a0bc9",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Constellation Acquisition Corp I (0001834032) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026114003/0001213900-26-114003-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001213900-26-114003 <b>Size:</b> 252 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+  "date": "2026-10-30T01:54:27.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
   "id": "c2fa7c715c9c71a0",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -1813,6 +2154,28 @@
   "date": "2026-10-30T01:27:02.000Z",
   "fetched": "2026-10-30T04:03:13.073Z",
   "fromCloud": "2026-10-30T0403.json"
+ },
+ {
+  "id": "6259f3705133b076",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - AMERICAN REBEL HOLDINGS INC (0001648087) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226049323/0001493152-26-049323-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001493152-26-049323 <b>Size:</b> 3 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 3.02: ",
+  "date": "2026-10-30T01:25:57.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
+ },
+ {
+  "id": "6c28f5e5015bad33",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CareTrust REIT, Inc. (0001590717) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1590717/000162828026068370/0001628280-26-068370-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001628280-26-068370 <b>Size:</b> 2 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01: ",
+  "date": "2026-10-30T01:12:23.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
  },
  {
   "id": "6c5bcad9c406ca2c",
@@ -1901,6 +2264,17 @@
   "date": "2026-10-30T00:14:47.000Z",
   "fetched": "2026-10-30T00:33:11.330Z",
   "fromCloud": "2026-10-30T0033.json"
+ },
+ {
+  "id": "51be0d6eb511cad1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Armlogi Holding Corp. (0001972529) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1972529/000121390026113962/0001213900-26-113962-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001213900-26-113962 <b>Size:</b> 187 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T00:00:13.000Z",
+  "fetched": "2026-10-30T10:33:12.085Z",
+  "fromCloud": "2026-10-30T1033.json"
  },
  {
   "id": "e97bcbfc3e4314aa",
@@ -7038,16 +7412,5 @@
   "date": "2026-10-29T10:43:30.000Z",
   "fetched": "2026-10-29T15:03:13.395Z",
   "fromCloud": "2026-10-29T1503.json"
- },
- {
-  "id": "53ba329213537cb8",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "25 מיליון דולר לחקר הזיקנה בטכניון: אלף מבוגרים ייבדקו לאורך שנים - HKN חיפה והקריות",
-  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xMnozWnAxaklqcmswdzBzbFBSbFpMbGxtYjQwQUlSV3FwTmtoUHdsSE15MjdoOEo1a3lFZG9Xb04xMFZVeW9kdA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xMnozWnAxaklqcmswdzBzbFBSbFpMbGxtYjQwQUlSV3FwTmtoUHdsSE15MjdoOEo1a3lFZG9Xb04xMFZVeW9kdA?oc=5\" target=\"_blank\">25 מיליון דולר לחקר הזיקנה בטכניון: אלף מבוגרים ייבדקו לאורך שנים</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HKN חי",
-  "date": "2026-10-29T10:18:00.000Z",
-  "fetched": "2026-10-29T14:33:14.914Z",
-  "fromCloud": "2026-10-29T1433.json"
  }
 ]
