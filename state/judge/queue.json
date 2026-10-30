@@ -1,5 +1,214 @@
 [
  {
+  "id": "881b5fc722800f32",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - SANFILIPPO JOHN B & SON INC (0000880117) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/880117/000119312526440035/0001193125-26-440035-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-440035 <b>Size:</b> 242 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
+  "date": "2026-10-30T13:31:10.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "4b1f9166fe54aeff",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K/A - SANFILIPPO JOHN B & SON INC (0000880117) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/880117/000119312526440031/0001193125-26-440031-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-440031 <b>Size:</b> 601 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T13:28:50.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "1e6503b4b4396102",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "מהלפטופ שנפרץ ועד הקשר לצפון קוריאה: כך בוצעה גניבת הקריפטו הגדולה בהיסטוריה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iUmhwX0hSd1BROXN2Uk9HSS0wSG45SkVHREFTTGRaaUNoLW84bHNmV0h5ZmxXM3l2QnJiTGM1d19mZDhmMnU5bFJrVTRVNl8yZnZvQmFxcWdBV2hXdk1xQXFRSQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iUmhwX0hSd1BROXN2Uk9HSS0wSG45SkVHREFTTGRaaUNoLW84bHNmV0h5ZmxXM3l2QnJiTGM1d19mZDhmMnU5bFJrVTRVNl8yZnZvQmFxcWdBV2hXdk1xQXFRSQ?oc=5\" target=\"_blank\">מהלפטופ שנפרץ ועד הקשר לצפון קוריאה: כך בוצעה גניבת הקריפטו הגדולה בהיסטו",
+  "date": "2026-10-30T13:27:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "ec2e4f38e89c9cd7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Jay Sarkar named Trailborn CFO - hotelbusiness.com",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OWdqQ3hwMUtodlBmZmVwOWVmZ1dTYnU0UHFwajAySDdmUTRBa2V5Zld6Y1RWR3JnTGMyOU9LenpXQVVaX0d0R0RrdWlFaXgyVlpZYU1mejgxemJ5MWtlQzhNZXhpc2Jn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OWdqQ3hwMUtodlBmZmVwOWVmZ1dTYnU0UHFwajAySDdmUTRBa2V5Zld6Y1RWR3JnTGMyOU9LenpXQVVaX0d0R0RrdWlFaXgyVlpZYU1mejgxemJ5MWtlQzhNZXhpc2Jn?oc=5\" target=\"_blank\">Jay Sarkar named Trailborn CFO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+  "date": "2026-10-30T13:24:55.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "1b2ce566cc1b8d18",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Dine Brands fights acquisition attempt with poison pill - Restaurant Dive",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUJQNHY0cmkyS2tiSng5ZHFlNDE5NlJQMVBmSnI3VHNnX0JjZDN6R0p0anRXZVFlSjk2UUpqcXdWbm5MNGVqSFdLTFdkek9PWE80TU1Qa29wNFJDLXF4RG9nT012UndiTk5OZEwtOVdGekY2djNld0dxeXhhNzlvT2d6OXpuVWRVWm9haEpKQ01GZWlkWlBmeHFCN09WQzdoQ2c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUJQNHY0cmkyS2tiSng5ZHFlNDE5NlJQMVBmSnI3VHNnX0JjZDN6R0p0anRXZVFlSjk2UUpqcXdWbm5MNGVqSFdLTFdkek9PWE80TU1Qa29wNFJDLXF4RG9nT012UndiTk5OZEwtOVdGekY2djNld0dxeXhhNzlvT2d6OXpuVWRVWm9haEpKQ01GZWlkWlBmeHFCN09WQzdoQ2c?oc=5\" targ",
+  "date": "2026-10-30T13:20:59.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "f9b008d6b1e499ff",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Pelthos Therapeutics Inc. (0001919246) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1919246/000110465926120457/0001104659-26-120457-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001104659-26-120457 <b>Size:</b> 3 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 3.02: ",
+  "date": "2026-10-30T13:17:39.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "6c0f997e17d4e3bd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Undercover Snacks Acquisition Extends Mondelez’s Bolt-On M&A Push - Nosh.com",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlQ2U2xibHBmMHFESXFyQXFwWm9ENmUzYjRrUkdHaklYNTZMSVVzRjV5cURIZnVDc0pINzU0ejE2SXdHM1drY0F3N0JwT0RoMWhMaTlNRi1jTEtSelBYRC12dkxPTnVRVDgyclR5OTVyV3M4dE1VN2hjbFFVelRuS2RBWFV2Z2xJdlBvOGMydXZXN2VzVnlYdWR3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlQ2U2xibHBmMHFESXFyQXFwWm9ENmUzYjRrUkdHaklYNTZMSVVzRjV5cURIZnVDc0pINzU0ejE2SXdHM1drY0F3N0JwT0RoMWhMaTlNRi1jTEtSelBYRC12dkxPTnVRVDgyclR5OTVyV3M4dE1VN2hjbFFVelRuS2RBWFV2Z2xJdlBvOGMydXZXN2VzVnlYdWR3?oc=5\" target=\"_blank\"",
+  "date": "2026-10-30T13:16:08.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "5e1a3d341a7be3e4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Amazon Slides 7% as Earnings Miss and AI Spending Turn Free Cash Flow Negative; Meta Falls 2%, Alphabet Dips, Walmart Gains 2% - 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNjJyelVuT0sxRm1lUjI0aGlVTm1faFYyVXhEOU04eUJMOHZJMFhEWVpzQ05ER2d1S3ZJWmRlY0YtNEotb1pNUmF6VzJ1aWtUdVhSTGt2QTB1RjFUN0VqTFR1blloRGE4MWgwNGk2WXlQcUFkM3drVW5GcVNKajQ5LU5oazNBWUJFUDFXTGJqMXVXaXVlVjVueG9wWWJDSkNPd2NjcVIxWXRYdGowUk9STVN0U2wzSTROaGVUdE85QnNoRUR4Uy1ZbVB0dXRWR2FKOXBuUm9adnJlYW5MUXJvRF9jcG9YTjFUTk0teGVQeGVDTncyaEgw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNjJyelVuT0sxRm1lUjI0aGlVTm1faFYyVXhEOU04eUJMOHZJMFhEWVpzQ05ER2d1S3ZJWmRlY0YtNEotb1pNUmF6VzJ1aWtUdVhSTGt2QTB1RjFUN0VqTFR1blloRGE4MWgwNGk2WXlQcUFkM3drVW5GcVNKajQ5LU5oazNBWUJFUDFXTGJqMXVXaXVlVjVueG9wWWJDSkNPd2NjcVIxWXRYdG",
+  "date": "2026-10-30T13:15:30.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "b39b16ec272d3f57",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - SUMISHO AIR LEASE CORP (0001487712) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1487712/000119312526440011/0001193125-26-440011-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-440011 <b>Size:</b> 147 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T13:14:48.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "cb22fe2bee021866",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "DayOne inks MoU with Blue Whale Energy to explore feasibility of a distributed virtual power plant in Singapore",
+  "link": "https://www.datacenterdynamics.com/en/news/dayone-inks-mou-with-blue-whale-energy-to-explore-feasibility-of-a-distributed-virtual-power-plant-in-singapore/",
+  "summary": "<p data-block-key=\"kroob\">Would support DayOne's SG1 data center</p>",
+  "date": "2026-10-30T13:14:44.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "915a5f9797912715",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Deutsche Telekom halts mega-merger plans with T-Mobile - report",
+  "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-halts-mega-merger-plans-with-t-mobile-report/",
+  "summary": "<p data-block-key=\"d9pf6\">For now, it seems a union between the two is off</p>",
+  "date": "2026-10-30T13:12:29.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "d0f068cbad78c754",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Lodging Lowdown: Trailborn names new CFO, Wyndham Rewards expands with vacation rentals - Hotel Dive",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWQtbHdxeFA4SzlGVDBOVWpQRDZmcHFOaUpYYTBjR08tRVBaQUMzU0dHbVBGZnpNZloteGlmNHR5VUpzNG9LOEo2UXZYaGI4ckV0VEx1bVZrVVg3N3dmZEJwT0FoZEpxdENJU3hVQUhwM1JjeW1RZXdlSzN2cV85WC12VHctczcxX0FzbW5vTHZEOU9VUjFGdVBvZGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWQtbHdxeFA4SzlGVDBOVWpQRDZmcHFOaUpYYTBjR08tRVBaQUMzU0dHbVBGZnpNZloteGlmNHR5VUpzNG9LOEo2UXZYaGI4ckV0VEx1bVZrVVg3N3dmZEJwT0FoZEpxdENJU3hVQUhwM1JjeW1RZXdlSzN2cV85WC12VHctczcxX0FzbW5vTHZEOU9VUjFGdVBvZGc?oc=5\" target=\"_bla",
+  "date": "2026-10-30T13:10:30.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "3d3f110b23a83336",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "AWS earnings jump, but investors grow weary of AI spend as quarterly capex hits $77bn",
+  "link": "https://www.datacenterdynamics.com/en/news/aws-earnings-jump-but-investors-grow-weary-of-ai-spend-as-quarterly-capex-hits-77bn/",
+  "summary": "<p data-block-key=\"9ex18\">Shares fall as Amazon forecasts a weaker retail Q4 and continued data center spend</p>",
+  "date": "2026-10-30T13:10:04.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "a45ab4728ce4509d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Flora Toscana Group celebrates 55th anniversary with rebranding and new acquisition - Floral Daily",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNk9LRXRPQU1oLXFIcmZqNTAwYWkyZWE1WldXN21TdDVEOEJzT1VZQ3l6a05KTmFSSXpUX0phWmFXT084OFlYYWJYSm16Zl81d29CRlJwMHpoNGQxeDIzdXRTRWgzcHZnM21kZTd5bUtvLW1CYVRkRVdTek9WdG5nRUpDcFE0RmllOV9MWUtqY1RudFoyMzJlZGdMMGFUV082RS1SVWhqZU5xTkc1TFQ5LUJ0ZEl3cmpEUWF1YzNpdXBHZnQyM19J?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNk9LRXRPQU1oLXFIcmZqNTAwYWkyZWE1WldXN21TdDVEOEJzT1VZQ3l6a05KTmFSSXpUX0phWmFXT084OFlYYWJYSm16Zl81d29CRlJwMHpoNGQxeDIzdXRTRWgzcHZnM21kZTd5bUtvLW1CYVRkRVdTek9WdG5nRUpDcFE0RmllOV9MWUtqY1RudFoyMzJlZGdMMGFUV082RS1SVWhqZU5xTk",
+  "date": "2026-10-30T13:09:54.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "df2934e4d871ecc0",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Lightmatter's lead ASIC engineer Clifford Chao joins OpenAI as silicon lead",
+  "link": "https://www.datacenterdynamics.com/en/news/lightmatters-lead-asic-engineer-clifford-chao-joins-openai-as-silicon-lead/",
+  "summary": "<p data-block-key=\"ywc0d\">Also worked at Google on TPUs</p>",
+  "date": "2026-10-30T13:07:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "c3cdff1d6f67df9f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Space Enterprise Consortium Unites Industry Leaders and Space Force Acquisition Program O - Space Force — Space Systems Command (.mil)",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ001US0wbnVfbXFMUzd0X1NxMGFMblhfdlotZDdYaGFQR2REbVNRd1VjT2F1cDJWYzVIaV9LT2NZNzZzd0xGY2QzZXR0SmNFcVAzblZyVXNMZnY0V1NfVU5xNkQ5M012SjdBa2ltOVJtS1hmMHY5Z192dTVORkVoNFBpbGFzLTEtZXVuZmlUTU9zdGdxUkgwZ09ISGdnaGlZV3lRZFJubDI3b1d3ZzUtMUQ1dlctUUxsQkZtOFROMXU0TjlMNlFBMHN2RmJvWUFTeFRlVGNrMDhZX0NhZEVBRTNTX1Ezdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ001US0wbnVfbXFMUzd0X1NxMGFMblhfdlotZDdYaGFQR2REbVNRd1VjT2F1cDJWYzVIaV9LT2NZNzZzd0xGY2QzZXR0SmNFcVAzblZyVXNMZnY0V1NfVU5xNkQ5M012SjdBa2ltOVJtS1hmMHY5Z192dTVORkVoNFBpbGFzLTEtZXVuZmlUTU9zdGdxUkgwZ09ISGdnaGlZV3lRZFJubDI3b1",
+  "date": "2026-10-30T13:06:10.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "c068d0d2f13d3c3f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Apollo Global Management, Inc. (0001858681) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000059/0001858681-26-000059-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001858681-26-000059 <b>Size:</b> 182 KB <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-10-30T13:05:06.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "45d26ac8c707561c",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "FCC seeks comment on plans to free up 500MHz of spectrum available for D2D services",
+  "link": "https://www.datacenterdynamics.com/en/news/fcc-seeks-comment-on-plans-to-free-up-500mhz-of-spectrum-available-for-d2d-services/",
+  "summary": "<p data-block-key=\"dr6nn\">As the regulator requests feedback from carriers on potential concerns</p>",
+  "date": "2026-10-30T13:05:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "59b73aaf2e827c46",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Security Midwest Bancorp, Inc. (0002036060) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2036060/000094337426000466/0000943374-26-000466-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0000943374-26-000466 <b>Size:</b> 139 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 5.07: Submission of Matters to",
+  "date": "2026-10-30T13:03:28.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
   "id": "7bf31e25bfb72085",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -44,6 +253,17 @@
   "fromCloud": "2026-10-30T1303.json"
  },
  {
+  "id": "39e0561e31902af8",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "India's L&T breaks ground on second Chennai data center",
+  "link": "https://www.datacenterdynamics.com/en/news/indias-lt-breaks-ground-on-second-chennai-data-center/",
+  "summary": "<p data-block-key=\"cbvuk\">52MW facility to support firm's cloud unit, Vyoma</p>",
+  "date": "2026-10-30T13:00:44.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
   "id": "63e39039712e9cf5",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -64,6 +284,28 @@
   "date": "2026-10-30T13:00:24.000Z",
   "fetched": "2026-10-30T13:03:51.578Z",
   "fromCloud": "2026-10-30T1303.json"
+ },
+ {
+  "id": "d3e23f2a1049d29a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Luda Technology Group Announces Execution of Acquisition of 55% Stake in Asia AI Data Centre & Quantum Technology and Signing MOU with Huazhi Future to Explore Strategic Opportunities in AI Infrastructure - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEhPVW9XWlUtbnR6Ull3MkZyYi1zN1cwT1hRQVBsbFBHZEE3dXFRM0JIS3ZzbHNZM1BwaTgxbHhIcW40bkNxWldyeVRBTGZuX0NCRHpWOU5IdWcwU05WSGVQaW5FVXhsTE0tSFA3djVmbXV4ZVB0T1dHRk1vdG05WG45c3ZqOVRNdEsyZnBjeUc4OEJMWjkxUkVBcFdzaVBMc2dxdThybDA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEhPVW9XWlUtbnR6Ull3MkZyYi1zN1cwT1hRQVBsbFBHZEE3dXFRM0JIS3ZzbHNZM1BwaTgxbHhIcW40bkNxWldyeVRBTGZuX0NCRHpWOU5IdWcwU05WSGVQaW5FVXhsTE0tSFA3djVmbXV4ZVB0T1dHRk1vdG05WG45c3ZqOVRNdEsyZnBjeUc4OEJMWjkxUkVBcFdzaVBMc2dxdThybDA?oc",
+  "date": "2026-10-30T13:00:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "5ce66c04ac130e9f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Remergify Signs Acquisition Agreement with Utilicraft Aerospace Industries for Wipeboard.io and Affiliated Assets - www.newswire.com",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWZZWlpNR2Fid0dSWkxFNDlMWmRFVmRCdW1ZYTAySWx4SS12SnBzV0Z2VDlZamhNQ0s0OWNtMTVRWUdoY1pVVThHYnNBcVZVZHNsZWJkcDJoNXlXckY5YXE5cGZYUTFhTDl4NS1RbVlUamtfRnM3dHBWWEF5THpBTlJWUFFCMzRMdC1scURQZ1BGT05YTGRNVjE2YV9CZGJUX3o4YkhES3l2VXdm?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWZZWlpNR2Fid0dSWkxFNDlMWmRFVmRCdW1ZYTAySWx4SS12SnBzV0Z2VDlZamhNQ0s0OWNtMTVRWUdoY1pVVThHYnNBcVZVZHNsZWJkcDJoNXlXckY5YXE5cGZYUTFhTDl4NS1RbVlUamtfRnM3dHBWWEF5THpBTlJWUFFCMzRMdC1scURQZ1BGT05YTGRNVjE2YV9CZGJUX3o4YkhES3l2VX",
+  "date": "2026-10-30T13:00:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
  },
  {
   "id": "bec15dc72e062634",
@@ -154,6 +396,17 @@
   "fromCloud": "2026-10-30T1303.json"
  },
  {
+  "id": "3bec401db7f7b52d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Slatt Capital Arranges $12 Million in Refinancing for Multi-Tenant Retail Center in Palm Springs, California - Shopping Center Business",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONEJUNkVRY254N19nQ0dhRWw4SENjdTlvU3NrRG0yb0dOV0pGZlFNWGNFcF9vdFp1dUxMR1JLQkwyZ2VQTG9XWDdRT1IzdGxtWVVmUzlfVWxtX3lxOTktQVRlN05XR0lvMjdwdWxGZU93S1E2ejVWUHljaWVZd3pyZzVaUFJiTjdRREE3OUJHbVB2NUhqbVpoMUs2NVQzWDdWWXAyMHpxRm9JODhBbUxYRzQ0Z2daejNybDFmQUkwUWswQ3EtSTZXZzlZakVJN0dVNU9hRXRpdW0tUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxONEJUNkVRY254N19nQ0dhRWw4SENjdTlvU3NrRG0yb0dOV0pGZlFNWGNFcF9vdFp1dUxMR1JLQkwyZ2VQTG9XWDdRT1IzdGxtWVVmUzlfVWxtX3lxOTktQVRlN05XR0lvMjdwdWxGZU93S1E2ejVWUHljaWVZd3pyZzVaUFJiTjdRREE3OUJHbVB2NUhqbVpoMUs2NVQzWDdWWXAyMHpxRm9JOD",
+  "date": "2026-10-30T12:33:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
   "id": "1cdec3f8fef18766",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -207,6 +460,39 @@
   "date": "2026-10-30T12:30:00.000Z",
   "fetched": "2026-10-30T13:03:51.578Z",
   "fromCloud": "2026-10-30T1303.json"
+ },
+ {
+  "id": "41824d25537c2775",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Sienna Completes Acquisition in Ottawa - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckoyVVBvakVJZGNiZ0pqVUU3YWR6dFVHRDdBZ3lFQkhRTU0tOWdRZzBOWkl4VktHWmlONUxfOHhaamNGN0hMMHB0OHhxUEJFZHJvbW1SZnRLQ1BvVmFKa0xrMGZuTXlQb0lKOWJnODFjQUZUdFczVWVVRkJTTkN1a0VvNk9XRERSNDBQX2pncldOZXJDaHJXanVlYnQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOckoyVVBvakVJZGNiZ0pqVUU3YWR6dFVHRDdBZ3lFQkhRTU0tOWdRZzBOWkl4VktHWmlONUxfOHhaamNGN0hMMHB0OHhxUEJFZHJvbW1SZnRLQ1BvVmFKa0xrMGZuTXlQb0lKOWJnODFjQUZUdFczVWVVRkJTTkN1a0VvNk9XRERSNDBQX2pncldOZXJDaHJXanVlYnQ?oc=5\" target=\"_bla",
+  "date": "2026-10-30T12:30:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "1ffc6ab13a2698cd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Hongli Group Provides Progress Update on Proposed Acquisition of a 20% Equity Interest in Xell Energy - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYVZJVENOOG1oWi0wTEJ4NUgxSXFlNzlRRVEwQmlJS1FEcUxRQmExQTRKcXhZcGtiNmEtNmFycElJbUFYTGRiSVZ4ZDlfYU11Ym1CcFZ6RjJsMWZXcjU3MmxJLWhCaXlybVR2RV9oVjZPRWxvS2ZMYWtTeUlNYWhkOGtFTjFFTFp5RFowYW5FeXJwajJ1ZHpGLUNfZlphblctcElFUUpIU1R3cWphNGFvYWpUWEt1OFp1SFBqOXJtaFViQUxCMUZLTXR5WEJZbUtNaFozWmxueHVvc3RrTVB3R0FBVFNPRGdSUGF1VmpNTUtjTGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYVZJVENOOG1oWi0wTEJ4NUgxSXFlNzlRRVEwQmlJS1FEcUxRQmExQTRKcXhZcGtiNmEtNmFycElJbUFYTGRiSVZ4ZDlfYU11Ym1CcFZ6RjJsMWZXcjU3MmxJLWhCaXlybVR2RV9oVjZPRWxvS2ZMYWtTeUlNYWhkOGtFTjFFTFp5RFowYW5FeXJwajJ1ZHpGLUNfZlphblctcElFUUpIU1R3cW",
+  "date": "2026-10-30T12:30:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "8b70100f1039bdbe",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Aadi Industries Appoints Siddharth Mahicha As CFO - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOekduODd5M0hpNjZMcnhNUTE2TTF2S0pjd1Z0RGhBekNfdHhuMGpfcVh6b0Yta2N2OUxwYm1HM2N2Z0ZwZmlrYjNYc3VMczRRQ3NwR2JoQXh6NFJxczdLOTRpblRFYlFHTm5EcjRNQ1pJZ3A4RDR3aktIaXQwTzFnaDJFbVhsY3JHd2RDQzh4djU1czFvVnBQVXRQM0NsTFNKSmhKcE1oNEFSOF9TNGJCcXJTd3BGdnkxb2Z3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOekduODd5M0hpNjZMcnhNUTE2TTF2S0pjd1Z0RGhBekNfdHhuMGpfcVh6b0Yta2N2OUxwYm1HM2N2Z0ZwZmlrYjNYc3VMczRRQ3NwR2JoQXh6NFJxczdLOTRpblRFYlFHTm5EcjRNQ1pJZ3A4RDR3aktIaXQwTzFnaDJFbVhsY3JHd2RDQzh4djU1czFvVnBQVXRQM0NsTFNKSmhKcE1oNEFSOF",
+  "date": "2026-10-30T12:29:21.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
  },
  {
   "id": "effc8e37a601d783",
@@ -561,6 +847,17 @@
   "fromCloud": "2026-10-30T1203.json"
  },
  {
+  "id": "2fac214817dd32b1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Amper Closes Acquisition Of Teltronic Group - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWRsOHNQQkdSWmVEUHh3TnQ2cjNacFkzdWVqTlpjdVU1aEItYWlQb1h2N2d1Zm5ZXzdRYTlmdXZRb1RCb2xneWoyR1kyazA0S2ZubUVIM2VIS0JucjhfSXZLS3Z1b1c4R19ucTBpRE5hM0tVejZNLXg5emRMaFp2LVVNQkZ4aWlHRHAyMXlKcDZCWXRoZDdzemJMZ3lIVG9hTmVzSUJRTEIzOURoNjRHZkIxUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWRsOHNQQkdSWmVEUHh3TnQ2cjNacFkzdWVqTlpjdVU1aEItYWlQb1h2N2d1Zm5ZXzdRYTlmdXZRb1RCb2xneWoyR1kyazA0S2ZubUVIM2VIS0JucjhfSXZLS3Z1b1c4R19ucTBpRE5hM0tVejZNLXg5emRMaFp2LVVNQkZ4aWlHRHAyMXlKcDZCWXRoZDdzemJMZ3lIVG9hTmVzSUJRTEIzOU",
+  "date": "2026-10-30T11:46:48.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
   "id": "f0925603c0d20967",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -570,6 +867,17 @@
   "date": "2026-10-30T11:42:06.000Z",
   "fetched": "2026-10-30T12:03:14.570Z",
   "fromCloud": "2026-10-30T1203.json"
+ },
+ {
+  "id": "f7d5b67b56f669c8",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "קאמקו מצמצמת את תחזית הייצור ל-2026 ומדווחת על ירידה ברווחים מאת Investing.com - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVS1mMGpYeFlqNzVhRkpFX0pEMFVIRDA0a2kzUEFqVGlXMjVLakk2c0VTU3pwOHpEb3R2MVZlX2NvWDVBcy1lalFsaFZoZi03UDNGcG1wQTlpVlNOTjVwYTVWRnFiWDd4RkdMVGJySXFpVUx0Nmw1RDdjSVVOSXFweQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVS1mMGpYeFlqNzVhRkpFX0pEMFVIRDA0a2kzUEFqVGlXMjVLakk2c0VTU3pwOHpEb3R2MVZlX2NvWDVBcy1lalFsaFZoZi03UDNGcG1wQTlpVlNOTjVwYTVWRnFiWDd4RkdMVGJySXFpVUx0Nmw1RDdjSVVOSXFweQ?oc=5\" target=\"_blank\">קאמקו מצמצמת את תחזית הייצור ל-20",
+  "date": "2026-10-30T11:37:31.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
  },
  {
   "id": "6609d4ca0ed513fd",
@@ -779,6 +1087,17 @@
   "date": "2026-10-30T11:18:10.000Z",
   "fetched": "2026-10-30T12:03:14.570Z",
   "fromCloud": "2026-10-30T1203.json"
+ },
+ {
+  "id": "b72f65f8d0291dcf",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "מניות Exelon עולות ב-2% בעקבות תוצאות רבעון שלישי שהכו את התחזיות מאת Investing.com - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DSjc5RW0wbHFod3BhOVR4am11RXJkcTFMLXhpNUFuSktWSTN5TGEySmdEdU9UQ3VzWlNFRUFZU0pEc1NYUUlBaElsUmxNb3IyUlRaZ1g0QlpXSldOclZsT05zamhjT0tiUjdtb1dDQVk5V29U?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5DSjc5RW0wbHFod3BhOVR4am11RXJkcTFMLXhpNUFuSktWSTN5TGEySmdEdU9UQ3VzWlNFRUFZU0pEc1NYUUlBaElsUmxNb3IyUlRaZ1g0QlpXSldOclZsT05zamhjT0tiUjdtb1dDQVk5V29U?oc=5\" target=\"_blank\">מניות Exelon עולות ב-2% בעקבות תוצאות רבעון שלישי ש",
+  "date": "2026-10-30T11:18:10.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
  },
  {
   "id": "277a3f10dda696ee",
@@ -1144,6 +1463,28 @@
   "fromCloud": "2026-10-30T1203.json"
  },
  {
+  "id": "7c9dd1b394a65973",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "Willis Lease Finance מעלה דיבידנד ב-12.8% ומרחיבה תוכנית רכישה חוזרת מאת Investing.com - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXdsOElZSjMzYlNrR1dueENtbEZ6TElUN09LLXBSOGdEdnZhaGR6T1BsYW9QS25BbXdvYXpZYURCdXpQZDR0OWJyTzdlazMzeHR3ak82V0JVSEZIXy1HZUpaQV9FSXV3N2F2TWI0OGQ4Uk1CMk9YV2pReE52MzliMw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXdsOElZSjMzYlNrR1dueENtbEZ6TElUN09LLXBSOGdEdnZhaGR6T1BsYW9QS25BbXdvYXpZYURCdXpQZDR0OWJyTzdlazMzeHR3ak82V0JVSEZIXy1HZUpaQV9FSXV3N2F2TWI0OGQ4Uk1CMk9YV2pReE52MzliMw?oc=5\" target=\"_blank\">Willis Lease Finance מעלה דיבידנד",
+  "date": "2026-10-30T10:42:11.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "03b3ca0a561f4a68",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "ולרו תרכוש מתקן זיקוק בהיוסטון תמורת $320.5 מיליון מאת Investing.com - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOU44TWR3bVd2UzRITmtrc0xtRXJiNGJYQVJSX1VYYUhOWC1mVm4wXzFUMXFfWEk2cV80R05UZi1PemR0QkdRY3N5d3pYNTQ5WmZtUWVlMHAzNE5KZzEtWTJCSElxOGpjSm5fUmtNNlRBMDNIRFJpQUtzTFR4bkhuUg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOOU44TWR3bVd2UzRITmtrc0xtRXJiNGJYQVJSX1VYYUhOWC1mVm4wXzFUMXFfWEk2cV80R05UZi1PemR0QkdRY3N5d3pYNTQ5WmZtUWVlMHAzNE5KZzEtWTJCSElxOGpjSm5fUmtNNlRBMDNIRFJpQUtzTFR4bkhuUg?oc=5\" target=\"_blank\">ולרו תרכוש מתקן זיקוק בהיוסטון תמ",
+  "date": "2026-10-30T10:42:11.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
   "id": "52dcba4f111a8a45",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -1153,6 +1494,17 @@
   "date": "2026-10-30T10:42:10.000Z",
   "fetched": "2026-10-30T12:33:13.055Z",
   "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "7a6cbe6aaa9cd392",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "AEVEX זוכה בחוזים של $41.6 מיליון מהצי האמריקאי למערכות נגד מוקשים ימיים מאת Investing.com - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmwwU2M0YWxPelFVMlZYZGZxUXYzOEgtWlBMRHNiQUg1cUhFM1VyRHpFa1JHU0lPYXJjVDN5dUU1VXJRWlF3RUZKUHFSYmZ1Zk4wc2lWbDNVYVJxOW9sRHhxclZ2YmJaMDF4LXMtZjNnXzlMSDFjR3ozcHFQbjdZdQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmwwU2M0YWxPelFVMlZYZGZxUXYzOEgtWlBMRHNiQUg1cUhFM1VyRHpFa1JHU0lPYXJjVDN5dUU1VXJRWlF3RUZKUHFSYmZ1Zk4wc2lWbDNVYVJxOW9sRHhxclZ2YmJaMDF4LXMtZjNnXzlMSDFjR3ozcHFQbjdZdQ?oc=5\" target=\"_blank\">AEVEX זוכה בחוזים של $41.6 מיליון",
+  "date": "2026-10-30T10:42:10.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
  },
  {
   "id": "cd6c32e05bca37bf",
@@ -2123,6 +2475,28 @@
   "fromCloud": "2026-10-30T0803.json"
  },
  {
+  "id": "a2d1b96823bb5d4c",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פירסט סולאר מקצצת תחזית ומהמרת על המכסים של טראמפ - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVDJqTzhFSTBGU01NeDdWTGJoMTNFb0JaZkFrdDJseUp1S0RISVlzODF5MUZ2aFI2SGNxcGFMR0pyc3I0MTJMbVVWUk8yczV4ZXUwaEIyOVJpbXZSS2hKT2hFMTlhdEItS2lrdV9Kbjk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVDJqTzhFSTBGU01NeDdWTGJoMTNFb0JaZkFrdDJseUp1S0RISVlzODF5MUZ2aFI2SGNxcGFMR0pyc3I0MTJMbVVWUk8yczV4ZXUwaEIyOVJpbXZSS2hKT2hFMTlhdEItS2lrdV9Kbjk?oc=5\" target=\"_blank\">פירסט סולאר מקצצת תחזית ומהמרת על המכסים של טראמפ</a>&nb",
+  "date": "2026-10-30T07:27:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "c4a48518e9ccbd88",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "נטל המס הגבוה מאז 1948: בריטניה מנסה לצאת מבור החוב דרך הכיס של משלמי המסים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14U2plOE1zWGVYU0wxU2QwMHFnZW80RG9IVTRqY0ZtU09RVm9OVF9lbGkxejlCcGlrSGltWW9CNmRBMXpFYjNuMndvMHZBaWZ1WWdCcmFvamgxRUZjV3Q5NUk0aV9pdUhvSVIwTnB0NGQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE14U2plOE1zWGVYU0wxU2QwMHFnZW80RG9IVTRqY0ZtU09RVm9OVF9lbGkxejlCcGlrSGltWW9CNmRBMXpFYjNuMndvMHZBaWZ1WWdCcmFvamgxRUZjV3Q5NUk0aV9pdUhvSVIwTnB0NGQ?oc=5\" target=\"_blank\">נטל המס הגבוה מאז 1948: בריטניה מנסה לצאת מבור החוב דרך ",
+  "date": "2026-10-30T07:27:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
   "id": "e01856720909da44",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -2145,6 +2519,17 @@
   "fromCloud": "2026-10-30T0733.json"
  },
  {
+  "id": "e6824763d01f1b48",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אחרי 13 שנה: בנק יפן מכריז שהגיע ליעד האינפלציה, ומשאיר את הריבית על 1.25% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53NHBLcEd4QnlOT09HZzFucUQ2bXBQMVhtYXByU0xJN1RWYkdiSF9sQll4MGhjUl84R3JUNWREVDdLX0RkVzhwSFRmS3hEV1Q1a2dYTGtQQkJwM3g5amhYUklyT09hNmo3V0pCc1U3M00?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE53NHBLcEd4QnlOT09HZzFucUQ2bXBQMVhtYXByU0xJN1RWYkdiSF9sQll4MGhjUl84R3JUNWREVDdLX0RkVzhwSFRmS3hEV1Q1a2dYTGtQQkJwM3g5amhYUklyT09hNmo3V0pCc1U3M00?oc=5\" target=\"_blank\">אחרי 13 שנה: בנק יפן מכריז שהגיע ליעד האינפלציה, ומשאיר ",
+  "date": "2026-10-30T07:23:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
   "id": "3d0dd908b672f64c",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -2154,6 +2539,17 @@
   "date": "2026-10-30T07:22:00.000Z",
   "fetched": "2026-10-30T07:33:13.117Z",
   "fromCloud": "2026-10-30T0733.json"
+ },
+ {
+  "id": "d08e490ae0a416c0",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "חשבון הדלק זינק ב-60%: חברות התעופה מעדיפות מושבים ריקים על פני הנחות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1odld5d0s0Qm9mNVVHeEpUU2xFNUNZRE8zbkRyUUZGUHV6V2x3dXMxejRoMzRMdDBLM25wX1hib2xBQk91YUFsMW9UZUZTM0VRT0RVeklyV3VIdm1oM3JXMEtpb0cyZjdvVmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1odld5d0s0Qm9mNVVHeEpUU2xFNUNZRE8zbkRyUUZGUHV6V2x3dXMxejRoMzRMdDBLM25wX1hib2xBQk91YUFsMW9UZUZTM0VRT0RVeklyV3VIdm1oM3JXMEtpb0cyZjdvVmc?oc=5\" target=\"_blank\">חשבון הדלק זינק ב-60%: חברות התעופה מעדיפות מושבים ריקים על פני ",
+  "date": "2026-10-30T07:21:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
  },
  {
   "id": "1b0ae86b0acede18",
@@ -2506,6 +2902,17 @@
   "date": "2026-10-30T06:24:00.000Z",
   "fetched": "2026-10-30T06:33:12.859Z",
   "fromCloud": "2026-10-30T0633.json"
+ },
+ {
+  "id": "8e321aad2da0a900",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "המייסדים עוזבים, המשקיעים פודים: הדרך של פאראגון לנאסד\"ק מסתבכת - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PaUd4b0RPbkpoaDNhMmdSNG55UU1yM0FITTRNc2ZwUXZZMWstcG4yYklpMkx0UmJicnA4U3JzbjlSazd2amQxMGxJNjZ3Q2x0dlFFakxGVFVlT1dXcU1NY0JrWUw3TmJ3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PaUd4b0RPbkpoaDNhMmdSNG55UU1yM0FITTRNc2ZwUXZZMWstcG4yYklpMkx0UmJicnA4U3JzbjlSazd2amQxMGxJNjZ3Q2x0dlFFakxGVFVlT1dXcU1NY0JrWUw3TmJ3?oc=5\" target=\"_blank\">המייסדים עוזבים, המשקיעים פודים: הדרך של פאראגון לנאסד\"ק מסתבכת</a>",
+  "date": "2026-10-30T06:22:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
  },
  {
   "id": "03fc93f38efa83ae",
@@ -3672,6 +4079,28 @@
   "date": "2026-10-30T00:00:00.000Z",
   "fetched": "2026-10-30T11:03:15.553Z",
   "fromCloud": "2026-10-30T1103.json"
+ },
+ {
+  "id": "7f580e98b186670a",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "Waniwani’s CEO on the agentic future of insurance distribution",
+  "link": "https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution",
+  "summary": "AI agents could fundamentally change the economics of insurance distribution. Waniwani CEO Robin Diligent explains the opportunities, risks, and implications for insurers.",
+  "date": "2026-10-30T00:00:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "c8f8e256af71386f",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "Bob Bowman on winning: Show up and do your work",
+  "link": "https://www.mckinsey.com/featured-insights/bob-bowman-on-winning-show-up-and-do-your-work",
+  "summary": "The coach who guided Michael Phelps to 23 Olympic gold medals explains why consistency beats motivation and what leaders can borrow from how he builds championship teams.",
+  "date": "2026-10-30T00:00:00.000Z",
+  "fetched": "2026-10-30T13:33:13.438Z",
+  "fromCloud": "2026-10-30T1333.json"
  },
  {
   "id": "e97bcbfc3e4314aa",
@@ -8424,49 +8853,5 @@
   "date": "2026-10-29T13:36:00.000Z",
   "fetched": "2026-10-29T14:33:14.914Z",
   "fromCloud": "2026-10-29T1433.json"
- },
- {
-  "id": "12af904cea731b64",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "משה ומנדי גרטנר - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXJudS02T2RodlFYNE5haFFDX1FBelBUaEt1Zk1JdHZKdGFZZkNSVmJZWEt5UXN1NDgxODBvZVBrSnVhZ2RwcC1ia1hrVlZ4S2VUX1NLQldsZTVMRVVSRTFBUkx5azlhWlJqdUxYQVlweUUza3FBMWJUc0pnU0g0bTM2Qjk3VjMxZTJCdS1NUk5GTGR0a20zbUwxcEVzSnRJbjNZUUxfOEF2NThuVGVFLUE5dw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXJudS02T2RodlFYNE5haFFDX1FBelBUaEt1Zk1JdHZKdGFZZkNSVmJZWEt5UXN1NDgxODBvZVBrSnVhZ2RwcC1ia1hrVlZ4S2VUX1NLQldsZTVMRVVSRTFBUkx5azlhWlJqdUxYQVlweUUza3FBMWJUc0pnU0g0bTM2Qjk3VjMxZTJCdS1NUk5GTGR0a20zbUwxcEVzSnRJbjNZUUxfOEF2NT",
-  "date": "2026-10-29T13:32:31.000Z",
-  "fetched": "2026-10-29T20:33:13.869Z",
-  "fromCloud": "2026-10-29T2033.json"
- },
- {
-  "id": "ce819a88d3a1abf7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Invest Green Acquisition Corporation Estimates – NASDAQ:IGACR - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQZHFpYVpPdDc5dVZNNzBBRVF2MXBWbkdGZFo4bUpfWDd3bExfbHA3cG1RS2l0blI2a291NC0weVA2VjZtRnVWTVdZMDRhZTVxcF9CUFdUQlkyUnhPM3dnYi1neXU2VlVwSVFsWHpoTDlxNEN0amo1Rml3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBQZHFpYVpPdDc5dVZNNzBBRVF2MXBWbkdGZFo4bUpfWDd3bExfbHA3cG1RS2l0blI2a291NC0weVA2VjZtRnVWTVdZMDRhZTVxcF9CUFdUQlkyUnhPM3dnYi1neXU2VlVwSVFsWHpoTDlxNEN0amo1Rml3?oc=5\" target=\"_blank\">Invest Green Acquisition Corporation Estima",
-  "date": "2026-10-29T13:18:49.000Z",
-  "fetched": "2026-10-29T15:03:13.395Z",
-  "fromCloud": "2026-10-29T1503.json"
- },
- {
-  "id": "6541be391a356169",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Ram Ratna Wires Says Board Approves Acquisition Of 50% Equity Shares Of Epavo From Epack - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVhzMGhic1pReXBYMUQ0OEhveDZyeWJXNGFYU1FkWmR1ajBCWnczMlpsM1pxbVU2N2RPOXRKWVVVbG5pd2R3bENBNGdhYy1lVncxZnlzNDZjZm4zS0xuR3ltU2xwVWc2MHhZWUpIeV80dVNvb2pMb0s0aUhqNTdDcVVNUHc0UWNVUVJRbEZBc1AxRGxibmtwN1JEVlRfRmRNMjNaSnNyRGdtOTFfbS1CVVFYTEVtRXRTNWk3dDJQa1c3YmVqT2NiWm5vMDAzSDhmSTRSeVUweVduT3VUUy1rTEFEYU5NWWFTbkNvVElB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVhzMGhic1pReXBYMUQ0OEhveDZyeWJXNGFYU1FkWmR1ajBCWnczMlpsM1pxbVU2N2RPOXRKWVVVbG5pd2R3bENBNGdhYy1lVncxZnlzNDZjZm4zS0xuR3ltU2xwVWc2MHhZWUpIeV80dVNvb2pMb0s0aUhqNTdDcVVNUHc0UWNVUVJRbEZBc1AxRGxibmtwN1JEVlRfRmRNMjNaSnNyRGdtOT",
-  "date": "2026-10-29T13:18:46.000Z",
-  "fetched": "2026-10-29T14:33:14.914Z",
-  "fromCloud": "2026-10-29T1433.json"
- },
- {
-  "id": "37c720c9bc957cfa",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Ribon - calcalistech.com",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9URFYxWUJETVJtZmhzVVB1RXVfak9BVFpXYXVCZTBoRFoxQXU2TU9HX2xNUWpfR0dvWWg2alFvNGg2cW4wc3NGRHJZWkc4TjlX?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9URFYxWUJETVJtZmhzVVB1RXVfak9BVFpXYXVCZTBoRFoxQXU2TU9HX2xNUWpfR0dvWWg2alFvNGg2cW4wc3NGRHJZWkc4TjlX?oc=5\" target=\"_blank\">Ribon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
-  "date": "2026-10-29T13:17:13.000Z",
-  "fetched": "2026-10-29T16:03:13.245Z",
-  "fromCloud": "2026-10-29T1603.json"
  }
 ]
