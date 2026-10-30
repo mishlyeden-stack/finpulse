@@ -1,5 +1,93 @@
 [
  {
+  "id": "e7e330b2de1fdee7",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1976927/000197692726000081/0001976927-26-000081-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001976927-26-000081 <b>Size:</b> 148 KB <br>Item 8.01: Other Events",
+  "date": "2026-10-30T18:30:25.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
+  "id": "1095543bc60a4d7f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1756761/000175676126000147/0001756761-26-000147-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001756761-26-000147 <b>Size:</b> 143 KB <br>Item 8.01: Other Events",
+  "date": "2026-10-30T18:21:08.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
+  "id": "c5bdb74d52533467",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Jeffery Simmons acquisition shows the Bears are 'chasing championships' - Audacy",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNenlxQnVMWlBLVmxsOVZLZ3prV1dFOVBJRU94WGItQjlHa2xHd2EyMkZFWTB3eUZ0U2Z3SXl6aWl0SkY1OFMxMUFIQmdZQkR2aHk1NnpMZHhXQ0NMNlFDdXJJejJIUllIU3l3VHVEVHB5WUg5cEN6OS02NjBEcU84eWZFazVjVnVVR2twUXVoRjFFZFJua25jR3FEWkdCejZHSHhTaWRfaE1SdVQ2dVRLcFpQUFd0RTl2d2pIUUtmOHR2RmFvSk1mZA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNenlxQnVMWlBLVmxsOVZLZ3prV1dFOVBJRU94WGItQjlHa2xHd2EyMkZFWTB3eUZ0U2Z3SXl6aWl0SkY1OFMxMUFIQmdZQkR2aHk1NnpMZHhXQ0NMNlFDdXJJejJIUllIU3l3VHVEVHB5WUg5cEN6OS02NjBEcU84eWZFazVjVnVVR2twUXVoRjFFZFJua25jR3FEWkdCejZHSHhTaWRfaE1SdV",
+  "date": "2026-10-30T18:17:54.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
+  "id": "de9e946597b0ed89",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Gaming & Leisure Properties, Inc. (0001575965) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1575965/000157596526000075/0001575965-26-000075-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001575965-26-000075 <b>Size:</b> 4 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T18:16:32.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
+  "id": "7649ffa9d984d61e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Disney Entertainment Television Raises Ziv to CFO - Radio & Television Business Report",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EUXhIbnFPQ0g5WG1SUG5RbV9zN0NyQXk4SFdNY3ZXaHZFRXVHZENncnV4aS1lR1pFd3V2XzFmNUJnYkFTTlVwYkdCWVp6cjZkQlY1MTRpNHQ4MHRYQS1QekROb3pGWmdXM3Q2b05EYjdyYXJB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9EUXhIbnFPQ0g5WG1SUG5RbV9zN0NyQXk4SFdNY3ZXaHZFRXVHZENncnV4aS1lR1pFd3V2XzFmNUJnYkFTTlVwYkdCWVp6cjZkQlY1MTRpNHQ4MHRYQS1QekROb3pGWmdXM3Q2b05EYjdyYXJB?oc=5\" target=\"_blank\">Disney Entertainment Television Raises Ziv to CFO</",
+  "date": "2026-10-30T18:16:29.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
+  "id": "18a1dd5d6cc64f08",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ADM TRONICS UNLIMITED, INC. (0000849401) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/849401/000143774926034154/0001437749-26-034154-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001437749-26-034154 <b>Size:</b> 1 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appoint",
+  "date": "2026-10-30T18:16:28.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
+  "id": "c7a1917fe8525046",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "בלקסטון מזהירה: אנתרופיק עלולה לקבל דירוג \"אג\"ח זבל\" לאחר ההנפקה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FRFpuUFNfb3d0blN5cmdKSXRFMmVZaTkyTzdtLS1HVUxBRnJXRXAzREtic254blZjVkk2dTFQRW02bHNoQ0pDMW9kZHV6elpYVGg5OTJaSm1raVZuZVdUM3VmRQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FRFpuUFNfb3d0blN5cmdKSXRFMmVZaTkyTzdtLS1HVUxBRnJXRXAzREtic254blZjVkk2dTFQRW02bHNoQ0pDMW9kZHV6elpYVGg5OTJaSm1raVZuZVdUM3VmRQ?oc=5\" target=\"_blank\">בלקסטון מזהירה: אנתרופיק עלולה לקבל דירוג \"אג\"ח זבל\" לאחר ההנפקה</a>&nbsp",
+  "date": "2026-10-30T18:11:00.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
+  "id": "3637fbea27633fed",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Principal Credit Real Estate Income Trust (0002026448) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2026448/000162828026068528/0001628280-26-068528-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001628280-26-068528 <b>Size:</b> 148 KB <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-10-30T18:06:28.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
   "id": "ae97772f00ccad65",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -55,6 +143,39 @@
   "fromCloud": "2026-10-30T1803.json"
  },
  {
+  "id": "251e887065f57109",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "hep global GmbH expects to conclude refinancing negotiations only in fiscal year 2027 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU09ueURzUnhLZHp5Z2xjRjFYaWNmczlQRFNrTEx0ODZmUnZsa1d4N1ZpQ2NEai1BT29aT3NCaXFSNGhhOExFSV8zUVVoWGJZd2J0MTNmYUhWenUzT0RELTFjcS1OUVlKeURmZl81aHpxLVRIN1BaRU10U2diYUM1ZFRfQlpBLVRUZVlQSERreFBiWXZoV0FNY3JVbEdMMU9uQkR2TkxLczV6MVZqR2d4MDBIRkt1bjd0Q3NZZ1R1czMwdUhjQTNGOUpFaEdCc2JtZHhCR1lR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU09ueURzUnhLZHp5Z2xjRjFYaWNmczlQRFNrTEx0ODZmUnZsa1d4N1ZpQ2NEai1BT29aT3NCaXFSNGhhOExFSV8zUVVoWGJZd2J0MTNmYUhWenUzT0RELTFjcS1OUVlKeURmZl81aHpxLVRIN1BaRU10U2diYUM1ZFRfQlpBLVRUZVlQSERreFBiWXZoV0FNY3JVbEdMMU9uQkR2TkxLczV6MV",
+  "date": "2026-10-30T17:35:13.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
+  "id": "d39059cd55dcae46",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "hep global GmbH Delays Refinancing to FY 2027; Trims 2026 Outlook - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnVaMVJURkhnQlBfWnVHdG5QZHk1ckFVamt2Qk9zYXAtTlZZWmZIX2duQjlRclRLZ3FzVzRzdzdaeEM0SDQ2cnd0a1h0ME4wVHM3a0liWlFXRDBobmh0UExKRFVnUy14QXBMM0t1dWswR2t5NUpBbW0zV0h5ZnQtdzBBUEFiMEFpaTVjWmVsLUJqcTNXTDJPeVVNSkpNbWpVNzlVWDNJaGY1cXlRZVlhWVk0dFA4Wi1pVVJ2MWp0NlQtQjFX?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnVaMVJURkhnQlBfWnVHdG5QZHk1ckFVamt2Qk9zYXAtTlZZWmZIX2duQjlRclRLZ3FzVzRzdzdaeEM0SDQ2cnd0a1h0ME4wVHM3a0liWlFXRDBobmh0UExKRFVnUy14QXBMM0t1dWswR2t5NUpBbW0zV0h5ZnQtdzBBUEFiMEFpaTVjWmVsLUJqcTNXTDJPeVVNSkpNbWpVNzlVWDNJaGY1cX",
+  "date": "2026-10-30T17:35:13.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
+  "id": "d55a7dda94f5a383",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Terex Reports Third-Quarter Sales Growth, Raises Free Cash Flow Outlook - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa3dtRjNNU21PQXd5bmZ5WTlXQzh4RVU5eVh5QnFaVWY1cVRFUjluSk5hb0V4RTdFWHhNS2p3VkJyeXM3NXktMjk3bzNhcEVFUW1sa3dKbFBvM293enAwUEhZSXpjQlpWU1VLa2UwN3FvUWExbk5BRnExY0J4bTIyZUhnbUpwSDMzVEEwak8xanFFUUpYN291bHhkQzN5aGF4OUNOdmoyRk9wenhNWEN3ZDVVcDdxYjV1WDVReF9RZVZyLUVjd3piZnJ1SEg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPa3dtRjNNU21PQXd5bmZ5WTlXQzh4RVU5eVh5QnFaVWY1cVRFUjluSk5hb0V4RTdFWHhNS2p3VkJyeXM3NXktMjk3bzNhcEVFUW1sa3dKbFBvM293enAwUEhZSXpjQlpWU1VLa2UwN3FvUWExbk5BRnExY0J4bTIyZUhnbUpwSDMzVEEwak8xanFFUUpYN291bHhkQzN5aGF4OUNOdmoyRk9wen",
+  "date": "2026-10-30T17:33:01.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
+ },
+ {
   "id": "17a076811b4b46af",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -75,6 +196,17 @@
   "date": "2026-10-30T17:23:38.000Z",
   "fetched": "2026-10-30T17:33:13.459Z",
   "fromCloud": "2026-10-30T1733.json"
+ },
+ {
+  "id": "5dd5e0107f0faa9f",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "האם 6.3 מיליארד הדולר שנגנבו מבייננס אבודים, או שהכסף עוד יחזור? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LRmtXczJkYzl1STFVbllRejFFbWRxbnRUeVZKQkZmNWRPSjc1SDBIb2QxWUFuTFpMV245WTUydmktVjQtcVRPSlMzb3BwcjhlTS14ZTR3Vmk4b2Y0M0VSb1ZIZWtNRE9FSVFjUWJuNmQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5LRmtXczJkYzl1STFVbllRejFFbWRxbnRUeVZKQkZmNWRPSjc1SDBIb2QxWUFuTFpMV245WTUydmktVjQtcVRPSlMzb3BwcjhlTS14ZTR3Vmk4b2Y0M0VSb1ZIZWtNRE9FSVFjUWJuNmQ?oc=5\" target=\"_blank\">האם 6.3 מיליארד הדולר שנגנבו מבייננס אבודים, או שהכסף עו",
+  "date": "2026-10-30T17:19:00.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
  },
  {
   "id": "8f72f6ab0166a0d8",
@@ -130,6 +262,17 @@
   "date": "2026-10-30T17:00:04.000Z",
   "fetched": "2026-10-30T18:03:14.262Z",
   "fromCloud": "2026-10-30T1803.json"
+ },
+ {
+  "id": "c7f70de2be7bf3cf",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Verkkokauppa.com Oyj: Acquisition of own shares during week 44, 2026 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnhiemR1eDd4VjJ5ZklPLU5MOXZhNEN5QkxNa1Z0YmFVTXV2WHotUE91ZjJnd0Z1VEVCYlE4NVJQdWxIX3hVQm5tdklWbzdTZjR6Qm5XR09xeFFZcTBhU094bDc0NVEyV2pFT0s4SUQyOGZCTW5QM3FSdzFpSDBzTXlnSTlxVnNzaFp5N2tNU3d2QkE5UXRUOHMxclFrNjBlUXQyRDJjUGpxN1JHU2xpbTkxYVAtOUJMUlZDYXVMNTNfbHVqUXFONlZsU1I?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnhiemR1eDd4VjJ5ZklPLU5MOXZhNEN5QkxNa1Z0YmFVTXV2WHotUE91ZjJnd0Z1VEVCYlE4NVJQdWxIX3hVQm5tdklWbzdTZjR6Qm5XR09xeFFZcTBhU094bDc0NVEyV2pFT0s4SUQyOGZCTW5QM3FSdzFpSDBzTXlnSTlxVnNzaFp5N2tNU3d2QkE5UXRUOHMxclFrNjBlUXQyRDJjUGpxN1",
+  "date": "2026-10-30T17:00:00.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
  },
  {
   "id": "bbf13d67c930944c",
@@ -801,6 +944,17 @@
   "date": "2026-10-30T15:16:13.000Z",
   "fetched": "2026-10-30T15:33:12.870Z",
   "fromCloud": "2026-10-30T1533.json"
+ },
+ {
+  "id": "e3d88d19678ee78b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "IBS Proposes HK$563 Million Acquisition of AI Chip Enterprise - pan african visions",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjNCQnBBc1ZvcGR0NjZQZ05BTHk1U25XYk1SejhYa0l6dU1GR3JmemgxVlVpZDhQZEN4ZkQ0RzYwblRuZ0tyVjlvZzhhalNGWlUwYmhZLTMxQnlkWlJvSnVPNnFDZk9vNEtCdDFxN3plYjdiMXdRbk1qY0szcFI2d3NuUnpEdjQybW52UHR3N3ZCWHhRVG9qWmtDbVNvZFVD?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjNCQnBBc1ZvcGR0NjZQZ05BTHk1U25XYk1SejhYa0l6dU1GR3JmemgxVlVpZDhQZEN4ZkQ0RzYwblRuZ0tyVjlvZzhhalNGWlUwYmhZLTMxQnlkWlJvSnVPNnFDZk9vNEtCdDFxN3plYjdiMXdRbk1qY0szcFI2d3NuUnpEdjQybW52UHR3N3ZCWHhRVG9qWmtDbVNvZFVD?oc=5\" target=",
+  "date": "2026-10-30T15:15:00.000Z",
+  "fetched": "2026-10-30T18:33:12.970Z",
+  "fromCloud": "2026-10-30T1833.json"
  },
  {
   "id": "7e027eb6d18af260",
@@ -8191,83 +8345,6 @@
   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XNllnQkxwYWw2YWNLUXlfWlhlNjRYeG5BSjdQT0FJZ0Y2cXZSTjR4dGhjQk5vUk94WmY5Q2NwSXlveE12akJKcTRpVU1FYmR0SlpKQWpwUzBtUWJ5bm9jeGFXR3RNaUU?oc=5",
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XNllnQkxwYWw2YWNLUXlfWlhlNjRYeG5BSjdQT0FJZ0Y2cXZSTjR4dGhjQk5vUk94WmY5Q2NwSXlveE12akJKcTRpVU1FYmR0SlpKQWpwUzBtUWJ5bm9jeGFXR3RNaUU?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3328</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
   "date": "2026-10-29T18:37:06.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "08e94a417687ca2c",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Political paralysis could cost Israel billions as ministries face budget freeze - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmLXFrNF9PRk9vZlVMei1VOEJSY0pqNFlUSFhRd0FLb3d6TGNYdmd2SndRLWNHcHowV2I3MTl6c1FYaGRoWEZ1OEVXcXVfSWNOdV9sa0NCUEQ4SmRQeG1tSFRZYzBPZ0U?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmLXFrNF9PRk9vZlVMei1VOEJSY0pqNFlUSFhRd0FLb3d6TGNYdmd2SndRLWNHcHowV2I3MTl6c1FYaGRoWEZ1OEVXcXVfSWNOdV9sa0NCUEQ4SmRQeG1tSFRZYzBPZ0U?oc=5\" target=\"_blank\">Political paralysis could cost Israel billions as ministries face bu",
-  "date": "2026-10-29T18:33:00.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "b5b6bb9fc456e663",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "FG Imperii Acquisition Corp. Estimates – NASDAQ:FGIIU - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYWUtzak1LYVRucGVUcXVxVE9FaXZaTTZfajhkRlNraHJmcnFUQmQ5ZHF6X3FvTVNHVDloOEdjWDFuVmZWNEU4UEo2UG1VY053SzZUcGlEVXh6N1ppRE5rcExnTjBmMkhFM01xTmlnWEVNZklzUjlwMl9R?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBYWUtzak1LYVRucGVUcXVxVE9FaXZaTTZfajhkRlNraHJmcnFUQmQ5ZHF6X3FvTVNHVDloOEdjWDFuVmZWNEU4UEo2UG1VY053SzZUcGlEVXh6N1ppRE5rcExnTjBmMkhFM01xTmlnWEVNZklzUjlwMl9R?oc=5\" target=\"_blank\">FG Imperii Acquisition Corp. Estimates – NA",
-  "date": "2026-10-29T18:24:11.000Z",
-  "fetched": "2026-10-29T21:33:12.429Z",
-  "fromCloud": "2026-10-29T2133.json"
- },
- {
-  "id": "d4367096841dff9b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Seattle Social Housing Developer reaches ‘350 homes’ on way to 1,000 milestone with West Seattle acquisition - CHS Capitol Hill Seattle News",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeHJ3bV9fWmlUV1IxZTlSSlpfc0xoT0ppNC03ZDh4LTFuLUdjSWVSMFlRa2Fic1VCcVBWaE85R01uTkdudUZ4TzRaZmFIQzc4VmxZT1JTWWk4VVVMVGtSZTVIaGNmWnV5SW0yT1pCZ01talJGYVV5TnVsektBSWwzSGx0NHhaQXJGNVJlWjZ2VEkzcVBiUFhQYlBiNGpmTlhJM3RfVVdPbW56YTlzSVljcHlEY2FBRTN3ZVJJYjJQczFVWnE0MDdMZnhrVjZKQ044Wm5ULXR5U0FiZ1VNRlNyMm1yaw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeHJ3bV9fWmlUV1IxZTlSSlpfc0xoT0ppNC03ZDh4LTFuLUdjSWVSMFlRa2Fic1VCcVBWaE85R01uTkdudUZ4TzRaZmFIQzc4VmxZT1JTWWk4VVVMVGtSZTVIaGNmWnV5SW0yT1pCZ01talJGYVV5TnVsektBSWwzSGx0NHhaQXJGNVJlWjZ2VEkzcVBiUFhQYlBiNGpmTlhJM3RfVVdPbW56YT",
-  "date": "2026-10-29T18:18:19.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "e7a4231b95736efb",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Starbucks denies reports of potential Chipotle acquisition - The Dickinsonian",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEJha1p5SzVseUNCMFhjUm1UZ2dQMGF4R3c2WmR1bS1CLVU1ZEtvMmlOS1R1NmJtTFJ1cXlrSkxGREI3bnE5RDRPbVNUYW04ZE1EV2M3NVBqUEZCeHo2dDVNLUNxblhfWE8xLU1OenVId1BwcVNweVIzMTJFZElJZ3V0azU5QzVPUVF4YzA2VUN2d2hUNlVyWnRlZnBXU3FXdGNFVE40a3B5SmVuZFE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEJha1p5SzVseUNCMFhjUm1UZ2dQMGF4R3c2WmR1bS1CLVU1ZEtvMmlOS1R1NmJtTFJ1cXlrSkxGREI3bnE5RDRPbVNUYW04ZE1EV2M3NVBqUEZCeHo2dDVNLUNxblhfWE8xLU1OenVId1BwcVNweVIzMTJFZElJZ3V0azU5QzVPUVF4YzA2VUN2d2hUNlVyWnRlZnBXU3FXdGNFVE40a3B5Sm",
-  "date": "2026-10-29T18:16:58.000Z",
-  "fetched": "2026-10-29T21:33:12.429Z",
-  "fromCloud": "2026-10-29T2133.json"
- },
- {
-  "id": "1149fec5e8f761e1",
-  "source": "אנשים ומחשבים",
-  "group": "industry",
-  "title": "איזו ממשלה שלא תהיה, ההיי-טק צריך לעמוד בראש סדר העדיפויות",
-  "link": "https://www.pc.co.il/featured/460588/",
-  "summary": "בחירות 2026 הסתיימו במה שנראה, במציאות הפוליטית הישראלית, כ-Dead lock. נכון שמבחינת מספר המנדטים יש הכרעה ברורה &#8211; 67 מנדטים נגד המשך כהונתו של בנימין נתניהו כראש ממשלה ורק 53 מנדטים בעד, אבל 19 המנדטים של המפלגות הערביות נחשבים על ידי רוב המפלגות הציוניות כ-\"אקס טריטוריה\", ",
-  "date": "2026-10-29T18:09:04.000Z",
-  "fetched": "2026-10-29T18:33:15.051Z",
-  "fromCloud": "2026-10-29T1833.json"
- },
- {
-  "id": "f5a8a14df9a01b72",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "ZENA: Acquisition-led drone services and defense growth underpin a 2027 breakeven target - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUUNuU2RMb0hMcF9jRlFxQVFXSmRwMjBMQXdIRlFJYmVDOVBZWkFKbGFBN2lZaDFyejYyRXdyOE0zMEpTS2JYMHpsNVJaQzFmWFBfVnZwZDRKbjRySXEzeWhTTUVTekhvOWVJSUtEQ0xsa3pHelpKc1JYelFsczFKQjBrbUxIeTFzcy1Yd0JpR0FtX3Z0ZG5Tc2V1bWxQRTkxTklBa0RZU2FYRmRDN3k4NmdiRFVKUTFNTkpmNUNiUGFnTGF3NnhFZ19tVkROWWVUNFBYdVRCRDJZMkFDS1l0dmFYQU05bHNpVVd0YXhxOW1OV2Z6NTRRbl90SmFJdkpJSEJSUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNUUNuU2RMb0hMcF9jRlFxQVFXSmRwMjBMQXdIRlFJYmVDOVBZWkFKbGFBN2lZaDFyejYyRXdyOE0zMEpTS2JYMHpsNVJaQzFmWFBfVnZwZDRKbjRySXEzeWhTTUVTekhvOWVJSUtEQ0xsa3pHelpKc1JYelFsczFKQjBrbUxIeTFzcy1Yd0JpR0FtX3Z0ZG5Tc2V1bWxQRTkxTklBa0RZU2FYRm",
-  "date": "2026-10-29T18:08:39.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "4d3fcbf50b820556",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "היא בכירה בחברה עסקית, בנה סטודנט לרפואה. את הסטירה שחטפה היא לא תשכח - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlhRblRjUFV4X3FsTjdpTURFWndOdFgyNEh1NjZDRVRkOHFDbGF2Vm5VTnRHYXRYcENHWlBVbWpTOUlkblVlQ1hCSmpjOEI5M3p0WjZpS3pjTVV3OTVJN2JHakhrTEhpR3U0MG1lb2xXOEJOVFN3VkVZMUpXRkF5ZzN1dDVVYjJia0VDV25oaEpZbUFFQ1F0c2J3NEgwWk5DY0k3allDU2prSkU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlhRblRjUFV4X3FsTjdpTURFWndOdFgyNEh1NjZDRVRkOHFDbGF2Vm5VTnRHYXRYcENHWlBVbWpTOUlkblVlQ1hCSmpjOEI5M3p0WjZpS3pjTVV3OTVJN2JHakhrTEhpR3U0MG1lb2xXOEJOVFN3VkVZMUpXRkF5ZzN1dDVVYjJia0VDV25oaEpZbUFFQ1F0c2J3NEgwWk5DY0k3allDU2prSk",
-  "date": "2026-10-29T18:08:00.000Z",
   "fetched": "2026-10-29T19:03:14.583Z",
   "fromCloud": "2026-10-29T1903.json"
  }
