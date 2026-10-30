@@ -1,0 +1,36 @@
+{
+ "batch": "2026-10-30T0103",
+ "created": "2026-10-30T01:03:12.947Z",
+ "items": [
+  {
+   "id": "ebaa31d9a58e7d3f",
+   "source": "כלכליסט (Google News)",
+   "group": "israel-press",
+   "title": "אליס הואנג - כלכליסט",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV25SX2MyeEY4V2xUZDZLN1pHSmpuMkRpelN1SG9ici10cjdmcUhYUVNGd1dQY3VpdlRzbmx6ZnloU01wYlpwMnp1emEyNXNFb1dhM1NNWGVhR2FEc3RjXzNucjNRU05Ha2dwWHptS2lEQ0pWajJ6dzQ3R0Jxb3ZOVzlubkxudHZIOGJHcWo4dmZSdw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNV25SX2MyeEY4V2xUZDZLN1pHSmpuMkRpelN1SG9ici10cjdmcUhYUVNGd1dQY3VpdlRzbmx6ZnloU01wYlpwMnp1emEyNXNFb1dhM1NNWGVhR2FEc3RjXzNucjNRU05Ha2dwWHptS2lEQ0pWajJ6dzQ3R0Jxb3ZOVzlubkxudHZIOGJHcWo4dmZSdw?oc=5\" target=\"_blank\">אליס הואנ",
+   "date": "2026-10-29T20:30:06.000Z",
+   "fetched": "2026-10-30T01:03:12.947Z"
+  },
+  {
+   "id": "6c371ad0ecbfc823",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "חשד לפריצת ענק בבייננס - עד 5.8 מיליארד דולר; טית'ר וסירקל מקפיאות מיליארדי דולרים - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82R3QxbjByWG9fS1hpeExuZGdfVXp2cElRLWxvQzl4WjRfTnFCSE9oeU9zQ2pvSHZsWWFBT3VEVG9sc2VlczFSc2g5Z3lmZU5pNGt5RTVSYmN3VmZPeUhzLTlrd21zQ2ZDQ3pNUmlNQVE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE82R3QxbjByWG9fS1hpeExuZGdfVXp2cElRLWxvQzl4WjRfTnFCSE9oeU9zQ2pvSHZsWWFBT3VEVG9sc2VlczFSc2g5Z3lmZU5pNGt5RTVSYmN3VmZPeUhzLTlrd21zQ2ZDQ3pNUmlNQVE?oc=5\" target=\"_blank\">חשד לפריצת ענק בבייננס - עד 5.8 מיליארד דולר; טית'ר וסיר",
+   "date": "2026-10-29T22:59:00.000Z",
+   "fetched": "2026-10-30T01:03:12.947Z"
+  },
+  {
+   "id": "f696be31977931cc",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Binance founder says exchange targeted in apparent hack",
+   "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+   "summary": "Tether and Circle freeze billions of dollars’ worth of their coins as world’s largest crypto exchange investigates security issue",
+   "date": "2026-10-30T00:18:12.000Z",
+   "fetched": "2026-10-30T01:03:12.947Z"
+  }
+ ]
+}
