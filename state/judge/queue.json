@@ -1,5 +1,71 @@
 [
  {
+  "id": "ae97772f00ccad65",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Exxon Posts $19.1B Free Cash Flow, Plans $20B 2027 Buybacks - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHdMbV9XVWQxVl82Q2k5b3pURTdFZkJXYkE3dlZzLWZZTlBFYlJnN0pTRHgtajc0OHR5ZC1MeTFOTWdISTdnWGFJZFpXemVzSUV2TENRNl9CVHJUM29ub0ZYRFNnOURXYXhYbTRJNEYxaXl6S29oZ21CelRUSE9oekpoeHhvamZtZXRoUnBkOE1tNGROZjBYc1RCdmlaYV9hU2c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHdMbV9XVWQxVl82Q2k5b3pURTdFZkJXYkE3dlZzLWZZTlBFYlJnN0pTRHgtajc0OHR5ZC1MeTFOTWdISTdnWGFJZFpXemVzSUV2TENRNl9CVHJUM29ub0ZYRFNnOURXYXhYbTRJNEYxaXl6S29oZ21CelRUSE9oekpoeHhvamZtZXRoUnBkOE1tNGROZjBYc1RCdmlaYV9hU2c?oc=5\" targ",
+  "date": "2026-10-30T17:50:13.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
+ },
+ {
+  "id": "9870a44649558b2d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Texas Community Bancshares, Inc. (0001849466) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1849466/000110465926120589/0001104659-26-120589-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001104659-26-120589 <b>Size:</b> 1 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-10-30T17:45:32.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
+ },
+ {
+  "id": "533b63fa73a828e3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Lockheed Martin completes $3.4B acquisition of maritime defense company with Indiana presence - Inside INdiana Business",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3RWd3B4eGdRc2VzZDBiNjdCMkw4aXIzRVJBQW9OZGlZZUF4SnlhNWlMTVpMX2ZQSkROazdOMWhma1l1cVdqNFlKNEFKYjQ5RFgxNFcxckhDbXByS2FuSy03NktiVUhUVDNiVUdRUFJ4d2NEaF9jb0c0NXByMmI3eThCdHZCakdNN1BzeDJHWXBpX1pOZk8yNVhVN0dHZExfdGhvajdCcXlTaldYdmhfRHNPQ2xwcGxSQ2RncVBhVWtBcUNsYWdaczUxcG5QbExJQ0FWeEdn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3RWd3B4eGdRc2VzZDBiNjdCMkw4aXIzRVJBQW9OZGlZZUF4SnlhNWlMTVpMX2ZQSkROazdOMWhma1l1cVdqNFlKNEFKYjQ5RFgxNFcxckhDbXByS2FuSy03NktiVUhUVDNiVUdRUFJ4d2NEaF9jb0c0NXByMmI3eThCdHZCakdNN1BzeDJHWXBpX1pOZk8yNVhVN0dHZExfdGhvajdCcXlTal",
+  "date": "2026-10-30T17:44:17.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
+ },
+ {
+  "id": "d461db5ac533b52e",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Equinix posts record annualized gross bookings of $533m, up 35 percent",
+  "link": "https://www.datacenterdynamics.com/en/news/equinix-posts-record-annualized-gross-bookings-of-533m-up-35-percent/",
+  "summary": "<p data-block-key=\"svrip\">Keeps project scale low and customer base broad</p>",
+  "date": "2026-10-30T17:39:00.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
+ },
+ {
+  "id": "725a6bcc30a12cc8",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Data center mooted in Glasgow by Scottish automotive firm",
+  "link": "https://www.datacenterdynamics.com/en/news/data-center-mooted-in-glasgow-by-scottish-automotive-firm/",
+  "summary": "<p data-block-key=\"wtulx\">Local automotive company sounding out local council about a project near Cowlairs Park</p>",
+  "date": "2026-10-30T17:38:07.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
+ },
+ {
+  "id": "17a076811b4b46af",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "מסתדר גם בלי אינטל: ה-Zenbook החדש של אסוס הוא מחשב דק, קל, חזק - ויקר - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5scWE0TlJJcERuVnBjRzM0elNvZF9HTVBjYmFvd25MOGtJdE5tNlRDd0Q0WFNhTWszN3EyV1NleXZWek1kWjQ3dlZNOG52aFhTdGR1U3FiMGVWS3lWQWNjT2JoU2Qtb050S2Fv?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5scWE0TlJJcERuVnBjRzM0elNvZF9HTVBjYmFvd25MOGtJdE5tNlRDd0Q0WFNhTWszN3EyV1NleXZWek1kWjQ3dlZNOG52aFhTdGR1U3FiMGVWS3lWQWNjT2JoU2Qtb050S2Fv?oc=5\" target=\"_blank\">מסתדר גם בלי אינטל: ה-Zenbook החדש של אסוס הוא מחשב דק, קל, חזק",
+  "date": "2026-10-30T17:33:00.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
+ },
+ {
   "id": "05e46c04eb31c874",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -55,6 +121,17 @@
   "fromCloud": "2026-10-30T1733.json"
  },
  {
+  "id": "2fa5ba4cd88809e0",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "The effects of a midterm ‘blue wave’ will be felt for years",
+  "link": "https://www.ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f",
+  "summary": "Senate arithmetic in this electoral cycle could spell disaster for the Republicans",
+  "date": "2026-10-30T17:00:04.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
+ },
+ {
   "id": "bbf13d67c930944c",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -75,6 +152,17 @@
   "date": "2026-10-30T16:54:29.000Z",
   "fetched": "2026-10-30T17:03:21.028Z",
   "fromCloud": "2026-10-30T1703.json"
+ },
+ {
+  "id": "9e340486312934c4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "$117.3M Multifamily Refinancing Lands on 3 Greystar Assets - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcngtNnhkVWVkaWxfek44cmJnZnlSS21pUW5uZUFmQ25UZkU4Y3JkeXdCWnFweENCOXpyTUJHMTlsT1dZcVRpQmVkZ0M3UG9WT3pxZjRBaG9XNTVqdkE2cy1sWkt1UHdvM09maVFTQWgwTExORkRVRVFSSHJGZkwwa2hMcWg4VHFIenZHNDB5ektMLVVTc2RHaVRnemNnLUU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOcngtNnhkVWVkaWxfek44cmJnZnlSS21pUW5uZUFmQ25UZkU4Y3JkeXdCWnFweENCOXpyTUJHMTlsT1dZcVRpQmVkZ0M3UG9WT3pxZjRBaG9XNTVqdkE2cy1sWkt1UHdvM09maVFTQWgwTExORkRVRVFSSHJGZkwwa2hMcWg4VHFIenZHNDB5ektMLVVTc2RHaVRnemNnLUU?oc=5\" target=\"",
+  "date": "2026-10-30T16:49:57.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
  },
  {
   "id": "43cbf04c78cca4da",
@@ -218,6 +306,17 @@
   "date": "2026-10-30T16:27:47.000Z",
   "fetched": "2026-10-30T17:33:13.459Z",
   "fromCloud": "2026-10-30T1733.json"
+ },
+ {
+  "id": "68a9e8ce4db48704",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Smart Acquisition Or Frankenstack? Stagwell-Freestar And DoorDash-Instacart - AdExchanger",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMU8tWU5xTkFMS2czNktBMUZQZWVNc19ZZU9PYlVQdkx6NzBhQmZqUVd4Skt6V0tac1c3WTJ1am9YV281YmpQZU9oUHJZNTdEdE9EX1UtdVM0bnpMdTVxZWlKM3hRWWJZTmlFcXBFbmZLVUl1MW5qdG5WVGI0R3lnd1dMZmpkbzZvNU5YcV9EamNnTHNsWnJBZ21fLWU1VlNDalVSeFRyT0F3QkFnSW45TW1HbUpVLUJw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMU8tWU5xTkFMS2czNktBMUZQZWVNc19ZZU9PYlVQdkx6NzBhQmZqUVd4Skt6V0tac1c3WTJ1am9YV281YmpQZU9oUHJZNTdEdE9EX1UtdVM0bnpMdTVxZWlKM3hRWWJZTmlFcXBFbmZLVUl1MW5qdG5WVGI0R3lnd1dMZmpkbzZvNU5YcV9EamNnTHNsWnJBZ21fLWU1VlNDalVSeFRyT0F3Qk",
+  "date": "2026-10-30T16:26:17.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
  },
  {
   "id": "75ccf4450e1c61a1",
@@ -946,6 +1045,17 @@
   "fromCloud": "2026-10-30T1703.json"
  },
  {
+  "id": "afb8b863459ce86e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AstraZeneca CFO on AI, Earnings, Restructuring Plan - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenB2Z0R6SVdqekN2Y3k1dG9CczN1enR0c1BXb3Q0Ymh2aUYyaGJnRWttYVY4RkdTZTVJMjV6eU9QV3FVamx4UThLTjdJWjQzYS1TRVlXd2RhMjVhVVhBSFNfYTNRdTA2dzUtNU1feGZuRnRsdDJNS3A4VUczenJYcDFZcG9QWVRNMFpObVpPMS1pdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQenB2Z0R6SVdqekN2Y3k1dG9CczN1enR0c1BXb3Q0Ymh2aUYyaGJnRWttYVY4RkdTZTVJMjV6eU9QV3FVamx4UThLTjdJWjQzYS1TRVlXd2RhMjVhVVhBSFNfYTNRdTA2dzUtNU1feGZuRnRsdDJNS3A4VUczenJYcDFZcG9QWVRNMFpObVpPMS1pdw?oc=5\" target=\"_blank\">AstraZene",
+  "date": "2026-10-30T14:31:36.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
+ },
+ {
   "id": "80659323eb610428",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -1318,6 +1428,17 @@
   "date": "2026-10-30T13:23:45.000Z",
   "fetched": "2026-10-30T14:03:12.624Z",
   "fromCloud": "2026-10-30T1403.json"
+ },
+ {
+  "id": "1796c822b05de094",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הדיזל הכפיל את הרווח: שברון ואקסון מוביל עוקפות את התחזיות בזכות בתי הזיקוק - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wRFA5eG14eFNfVXNwTmN6ZVRKb09BWDVnRWt1Q1NIVWViOHZ0blcwNmptOGhrZDRBUVRHaGRncVNwdG1zc2FPR2hwSENzZFRnLVZOQ3lTaHRnaWpNRnFULXM3Q0tQUmNWcmxWTTFtd2Q?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1wRFA5eG14eFNfVXNwTmN6ZVRKb09BWDVnRWt1Q1NIVWViOHZ0blcwNmptOGhrZDRBUVRHaGRncVNwdG1zc2FPR2hwSENzZFRnLVZOQ3lTaHRnaWpNRnFULXM3Q0tQUmNWcmxWTTFtd2Q?oc=5\" target=\"_blank\">הדיזל הכפיל את הרווח: שברון ואקסון מוביל עוקפות את התחזי",
+  "date": "2026-10-30T13:23:00.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
  },
  {
   "id": "1b2ce566cc1b8d18",
@@ -1780,6 +1901,17 @@
   "date": "2026-10-30T12:32:00.000Z",
   "fetched": "2026-10-30T12:33:13.055Z",
   "fromCloud": "2026-10-30T1233.json"
+ },
+ {
+  "id": "071d2290f38235d5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Google Just Burned $9 Billion in a Quarter. Is the AI Spending Party Getting Dangerous? - 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWIwamdkMllTLUY3U3BQXzlnWVprMEhTVEEtRG1GZFpROG9jcDU1OWM4dm11ZXNvcG9DMHhmc2xtQ05RVnQycDQxdU9FUUtzaV9YSmxnZllfN2JGN2h0WVY3NGZSRVAxWHY3WE5TTDZFTUlESUZPRG4yelZtQV9YbWFZeHUxb3gyX1JhdThtVzBBbGVuQ1Q5T29SWEZydzdyOGtvUDR6OXI5c1VaNWI2X01tQ0VPREhSUnhzVUZSdThXVWhYUlRr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWIwamdkMllTLUY3U3BQXzlnWVprMEhTVEEtRG1GZFpROG9jcDU1OWM4dm11ZXNvcG9DMHhmc2xtQ05RVnQycDQxdU9FUUtzaV9YSmxnZllfN2JGN2h0WVY3NGZSRVAxWHY3WE5TTDZFTUlESUZPRG4yelZtQV9YbWFZeHUxb3gyX1JhdThtVzBBbGVuQ1Q5T29SWEZydzdyOGtvUDR6OXI5c1",
+  "date": "2026-10-30T12:32:00.000Z",
+  "fetched": "2026-10-30T18:03:14.262Z",
+  "fromCloud": "2026-10-30T1803.json"
  },
  {
   "id": "e35fbc652176ec17",
@@ -8138,225 +8270,5 @@
   "date": "2026-10-29T18:08:00.000Z",
   "fetched": "2026-10-29T19:03:14.583Z",
   "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "a1c95bcf8ac2bf0c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Employee AI use is growing; CFOs want financial guardrails - CFO Brew",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2Q3RmxNMk9yU3NJVnV1dW9US2R3a0hJWGMtMVlEalJjMUp3aHp4RG9pWnFwNGVCU3Y4NWFvOWFpbzdhNTdqeUhSb0lmTFY3amdLYldTS0hnR29xeThmc0laV1BpbFFreWkybDhGSkNWZTJodmRWS3ozUzZyY2hhT1dENDR5X0xNU2VxSWZHUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2Q3RmxNMk9yU3NJVnV1dW9US2R3a0hJWGMtMVlEalJjMUp3aHp4RG9pWnFwNGVCU3Y4NWFvOWFpbzdhNTdqeUhSb0lmTFY3amdLYldTS0hnR29xeThmc0laV1BpbFFreWkybDhGSkNWZTJodmRWS3ozUzZyY2hhT1dENDR5X0xNU2VxSWZHUQ?oc=5\" target=\"_blank\">Employee AI u",
-  "date": "2026-10-29T18:04:44.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "b9064d8c64316fd2",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Elbit to unveil underwater drones as it expands autonomous naval portfolio - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42SXRmQ2twS2w4dlR5RVB6YXpvMnpRa0Mxc013QTJGLTRqYU1mNUtFSVFfb0o4R0oySkVGMGZmM3ZzRnhzNVNwV3RBNmlpMFBSZWxha3FONmtTbVBlak5nWTdYUjZuVjQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42SXRmQ2twS2w4dlR5RVB6YXpvMnpRa0Mxc013QTJGLTRqYU1mNUtFSVFfb0o4R0oySkVGMGZmM3ZzRnhzNVNwV3RBNmlpMFBSZWxha3FONmtTbVBlak5nWTdYUjZuVjQ?oc=5\" target=\"_blank\">Elbit to unveil underwater drones as it expands autonomous naval por",
-  "date": "2026-10-29T18:04:00.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "62a30dcb9787ee0f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "היצוא הקפיץ את רווחי BYD ב-28%, אבל התוצאות החמיצו את התחזיות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vZDlrY1BjRmltc0pFdVdDenlPYkNGZ2VXQU1FUlZxVmtOZXB1WlVTNTVOcU9UVmd1V19WTWRaRFdqTkE3OE54S3d3RVc5ZWZCVnN5TGd3TEk5MW5tc3JzYl9xM1VUdVJKblRKWWNNalo?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5vZDlrY1BjRmltc0pFdVdDenlPYkNGZ2VXQU1FUlZxVmtOZXB1WlVTNTVOcU9UVmd1V19WTWRaRFdqTkE3OE54S3d3RVc5ZWZCVnN5TGd3TEk5MW5tc3JzYl9xM1VUdVJKblRKWWNNalo?oc=5\" target=\"_blank\">היצוא הקפיץ את רווחי BYD ב-28%, אבל התוצאות החמיצו את הת",
-  "date": "2026-10-29T18:04:00.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "81199fb8e84d956a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Law Firm COO & CFO Forum 2026: The associate dichotomy reveals itself - Thomson Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZKeGFVRkFReU9rb2t6MTl0N0xYdTNVZ1dBelZab05UR2EyeVlTMEhKTjNGel9QVkNSbnh2M3dYS0h5XzY1UVV3MFlnRlpZZ3R0QTFwemx2bDhiOXo5elR3emJUU0I3UmVuQ2pKWkdITFQ4NWtuUGNtdTZvVTYzcnNyUWk1RmlnZFlpZ1d6ZXY5anU3WnpfeGZoTWcyb1NQcnc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGZKeGFVRkFReU9rb2t6MTl0N0xYdTNVZ1dBelZab05UR2EyeVlTMEhKTjNGel9QVkNSbnh2M3dYS0h5XzY1UVV3MFlnRlpZZ3R0QTFwemx2bDhiOXo5elR3emJUU0I3UmVuQ2pKWkdITFQ4NWtuUGNtdTZvVTYzcnNyUWk1RmlnZFlpZ1d6ZXY5anU3WnpfeGZoTWcyb1NQcnc?oc=5\" targ",
-  "date": "2026-10-29T18:01:43.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "309fa92193eed5b8",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - ADAMS STREET CREDIT SOLUTIONS FUND (0001772918) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1772918/000119312526437512/0001193125-26-437512-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0001193125-26-437512 <b>Size:</b> 138 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events",
-  "date": "2026-10-29T18:00:54.000Z",
-  "fetched": "2026-10-29T18:03:12.730Z",
-  "fromCloud": "2026-10-29T1803.json"
- },
- {
-  "id": "339be0657fd490e4",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Google is eating itself — but it could still eat everyone else too",
-  "link": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
-  "summary": "Leadership in the AI race can be won, lost and won again at speed",
-  "date": "2026-10-29T18:00:36.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "c87cf76f74fdb177",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K/A - AB Private Credit Investors Corp (0001634452) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1634452/000119312526437510/0001193125-26-437510-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0001193125-26-437510 <b>Size:</b> 2 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 1.02: Termination of a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an",
-  "date": "2026-10-29T18:00:16.000Z",
-  "fetched": "2026-10-29T18:03:12.730Z",
-  "fromCloud": "2026-10-29T1803.json"
- },
- {
-  "id": "4863c0ff083bf8cf",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K/A - BBCMS Mortgage Trust 2026-5C43 (0002153909) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2153909/000153949726002794/0001539497-26-002794-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-29 <b>AccNo:</b> 0001539497-26-002794 <b>Size:</b> 335 KB <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-29T17:57:38.000Z",
-  "fetched": "2026-10-29T18:03:12.730Z",
-  "fromCloud": "2026-10-29T1803.json"
- },
- {
-  "id": "4cf052b078b72956",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "הפיצול בבחירות האלה הוא לא רק בין גוש השינוי לגוש נתניהו - מידע פנים - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaTRtRDh3eHdYTEI4NDZueVQtRHpPQ1loVTNITVYyMWx6c0FXa3NORnpoZ214eHB0anJaZ0pjaTlnMjVSaUNnNHU2TVkxQjBxd0tWa2JSSHF2VmJBNHpkNDNtbzA2Z0lJNzV5ZWpLTGtfVEllNkRvNHNfV0xiTW54Q1k0YnJ1SlN1OEhHWFJ1ZzZzX0FuVGp2Ukw5Z0t6X0hwanJkeXZR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNaTRtRDh3eHdYTEI4NDZueVQtRHpPQ1loVTNITVYyMWx6c0FXa3NORnpoZ214eHB0anJaZ0pjaTlnMjVSaUNnNHU2TVkxQjBxd0tWa2JSSHF2VmJBNHpkNDNtbzA2Z0lJNzV5ZWpLTGtfVEllNkRvNHNfV0xiTW54Q1k0YnJ1SlN1OEhHWFJ1ZzZzX0FuVGp2Ukw5Z0t6X0hwanJkeXZR?oc=5\"",
-  "date": "2026-10-29T17:57:00.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "3430fa242dda4560",
-  "source": "Globes English",
-  "group": "israel-press",
-  "title": "Court approves debt settlement for REE Automotive",
-  "link": "https://en.globes.co.il/en/article-1001561423#utm_source=RSS",
-  "summary": "The Israeli autotech company, which listed on Nasdaq at a valuation of $3.1 billion but is now on the OTC market, has debts totaling NIS 51 million.",
-  "date": "2026-10-29T17:56:00.000Z",
-  "fetched": "2026-10-29T19:03:14.583Z",
-  "fromCloud": "2026-10-29T1903.json"
- },
- {
-  "id": "9f81fa5b47a471b9",
-  "source": "Globes English",
-  "group": "israel-press",
-  "title": "Ehud Schneorson leaving Paragon to join new cyber co",
-  "link": "https://en.globes.co.il/en/article-1001561422#utm_source=RSS",
-  "summary": "The new company, Ribon, has secured large investment commitments even before being formally incoroprated.",
-  "date": "2026-10-29T17:53:00.000Z",
-  "fetched": "2026-10-29T18:33:15.051Z",
-  "fromCloud": "2026-10-29T1833.json"
- },
- {
-  "id": "58fde0897e9d9a98",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Shreya Acquisition Group Class A Ordinary Shares (SAGU) Historical Data - Nasdaq",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jaFpjLUd3R2dic0NsVXNkajRfejBneFF0VDhNamxEOURDUV9tNVp3bmwxQ0xRVE5UdUIxa0xWTmhnZ3JON3hBbWZCUURPT2dKZnUzNUxOU2V0SGVLTDJ4OXRXajdVekVtX0F2S0ZjTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5jaFpjLUd3R2dic0NsVXNkajRfejBneFF0VDhNamxEOURDUV9tNVp3bmwxQ0xRVE5UdUIxa0xWTmhnZ3JON3hBbWZCUURPT2dKZnUzNUxOU2V0SGVLTDJ4OXRXajdVekVtX0F2S0ZjTQ?oc=5\" target=\"_blank\">Shreya Acquisition Group Class A Ordinary Shares (SAGU) H",
-  "date": "2026-10-29T17:52:34.000Z",
-  "fetched": "2026-10-29T21:33:12.429Z",
-  "fromCloud": "2026-10-29T2133.json"
- },
- {
-  "id": "05fc98cbd803fa35",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "3 CFO Challenges: Building Optionality in an Uncertain World - Treasury & Risk",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYVhacEJTa0pBTUxhQklaR0lYOEN2VDUyYkNXOU9sM3ZXZm5DTlNhMUptUHVCZk42VzRqT0xwaFUteEhrbWU3cVkya2o5OUhkODFCSWJRQzJqbTlHWHI2VWxWQmp6WHpxeHB5aW5VYUdOeDNLZTRzby11aVRIU0Q3RmQwS3cyaklhU3lHMm5WV3J6SjNVUFFGNWt3Y3AtZzBNZVQ0Yl9n?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYVhacEJTa0pBTUxhQklaR0lYOEN2VDUyYkNXOU9sM3ZXZm5DTlNhMUptUHVCZk42VzRqT0xwaFUteEhrbWU3cVkya2o5OUhkODFCSWJRQzJqbTlHWHI2VWxWQmp6WHpxeHB5aW5VYUdOeDNLZTRzby11aVRIU0Q3RmQwS3cyaklhU3lHMm5WV3J6SjNVUFFGNWt3Y3AtZzBNZVQ0Yl9n?oc=5\"",
-  "date": "2026-10-29T17:48:16.000Z",
-  "fetched": "2026-10-29T18:03:12.730Z",
-  "fromCloud": "2026-10-29T1803.json"
- },
- {
-  "id": "2d1cc276e857475c",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "אפקט המטרו: תוכנית הענק שתשנה את קו הרקיע של הוד השרון",
-  "link": "https://www.ynet.co.il/economy/article/ryw211dg6ml",
-  "summary": "המדינה מקדמת תוכנית להקמת שכונה חדשה בין מגדיאל לרמתיים בהוד השרון, עם מגדלים בני עד 26 קומות ופארק עירוני. התוכנית הורחבה בזכות הקרבה לתחנת המטרו המתוכננת. וגם: השכונה החדשה בראשון לציון שכוללת 1,550 דירות ותוכנית הענק במודיעין שבמסגרתה יוקמו 3,575 יחידות דיור. כל הפרטים",
-  "date": "2026-10-29T17:46:00.000Z",
-  "fetched": "2026-10-29T18:03:12.730Z",
-  "fromCloud": "2026-10-29T1803.json"
- },
- {
-  "id": "51bb5500a6d65c4f",
-  "source": "CNBC Business",
-  "group": "global-press",
-  "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
-  "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
-  "summary": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
-  "date": "2026-10-29T17:45:01.000Z",
-  "fetched": "2026-10-29T18:03:12.730Z",
-  "fromCloud": "2026-10-29T1803.json"
- },
- {
-  "id": "b77dc88a8cee9be8",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "יש דבר אחד ברור וחד משמעי - ערוץ 7",
-  "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DMm1nSklmUzdzUUdrbmxfUjV0OWFrSkZaeTdDN0lnOHZEQllIRG9jTjBLUUdnbzB2YkhQRTRLdGdVczR4VTJUaVd3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DMm1nSklmUzdzUUdrbmxfUjV0OWFrSkZaeTdDN0lnOHZEQllIRG9jTjBLUUdnbzB2YkhQRTRLdGdVczR4VTJUaVd3?oc=5\" target=\"_blank\">יש דבר אחד ברור וחד משמעי</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ערוץ 7</font>",
-  "date": "2026-10-29T17:44:11.000Z",
-  "fetched": "2026-10-30T08:33:12.147Z",
-  "fromCloud": "2026-10-30T0833.json"
- },
- {
-  "id": "288548415f2e43df",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "Spirit Halloween - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tVHJxd3lDX1QxWm0zQUMzMTRPQTRteFpDcWYxdExFX21leGk3amViSGIwZnc0Qm9qRV9ySFpJYlR5SzNNOTdtMHA5LVRhNHlBZXlDcVhyOG14dkl1UkE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tVHJxd3lDX1QxWm0zQUMzMTRPQTRteFpDcWYxdExFX21leGk3amViSGIwZnc0Qm9qRV9ySFpJYlR5SzNNOTdtMHA5LVRhNHlBZXlDcVhyOG14dkl1UkE?oc=5\" target=\"_blank\">Spirit Halloween</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">כלכליסט</font>",
-  "date": "2026-10-29T17:41:51.000Z",
-  "fetched": "2026-10-29T21:03:12.961Z",
-  "fromCloud": "2026-10-29T2103.json"
- },
- {
-  "id": "bbd7f3f0ef30157b",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "\"המס הירוק\" מתקרב לסוף הדרך? באוצר בוחנים החלפת מנגנון ההטבה על זיהום מופחת",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001561349#utm_source=RSS",
-  "summary": "משרד האוצר שוקל לבטל את הטבת המס הירוק, בטענה שהיא מיצתה את מטרתה ועלותה למדינה גבוהה, במיוחד לנוכח העלייה ברכישת רכבי פלאג־אין והייבריד &#8226; מרצדס השיקה בישראל את ה־C קלאס המחודשת &#8226; יבואניות הרכב הישראליות מרחיבות את פעילותן באירופה באמצעות מותגים סיניים, ובוחנות כניסה ",
-  "date": "2026-10-29T17:39:00.000Z",
-  "fetched": "2026-10-29T18:03:12.730Z",
-  "fromCloud": "2026-10-29T1803.json"
- },
- {
-  "id": "7dfc281c22d014fe",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "KFC operator in Israel seeks court protection over financial distress - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWZ0dUYWdPRFI0RFdEbWx1bTdOV0h6TTNXSENzZlFLX2RKYnhDVWlXWjRFT0ZoNUpEdk9sUWZyNlUzeWlMTC1wVFhzclB3ODZUX3RZXzV2NTZyNVJyaE5tdmR6RlV1dXFIWEE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBWZ0dUYWdPRFI0RFdEbWx1bTdOV0h6TTNXSENzZlFLX2RKYnhDVWlXWjRFT0ZoNUpEdk9sUWZyNlUzeWlMTC1wVFhzclB3ODZUX3RZXzV2NTZyNVJyaE5tdmR6RlV1dXFIWEE?oc=5\" target=\"_blank\">KFC operator in Israel seeks court protection over financial dis",
-  "date": "2026-10-29T17:37:00.000Z",
-  "fetched": "2026-10-29T18:03:12.730Z",
-  "fromCloud": "2026-10-29T1803.json"
- },
- {
-  "id": "da6b4210415094b3",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Oracle Is Up 12% in a Week. Is Its Free Cash Flow Plan Really That Good? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXBNeFRnNUlYLUJBMkstNldSVXRWZlhGTGR2Vmh0eDd3N3F4WWFCT3hEOWdFalpFMEJaeXFhQlg3UlNVc2FDeTh3ZUtGTnVqR1Z1Sy1QLTI5QnJmeFZhM2dhY1BrODF3MGJ5M1hyMjdYd2xNZm1RMEdhRlRYSzRZZF9ROGhFYU5IYlFaRjN5bzJCYlU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXBNeFRnNUlYLUJBMkstNldSVXRWZlhGTGR2Vmh0eDd3N3F4WWFCT3hEOWdFalpFMEJaeXFhQlg3UlNVc2FDeTh3ZUtGTnVqR1Z1Sy1QLTI5QnJmeFZhM2dhY1BrODF3MGJ5M1hyMjdYd2xNZm1RMEdhRlRYSzRZZF9ROGhFYU5IYlFaRjN5bzJCYlU?oc=5\" target=\"_blank\">Oracle I",
-  "date": "2026-10-29T17:35:39.000Z",
-  "fetched": "2026-10-29T18:03:12.730Z",
-  "fromCloud": "2026-10-29T1803.json"
  }
 ]
