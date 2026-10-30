@@ -1,5 +1,27 @@
 [
  {
+  "id": "80659323eb610428",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1946997/000119312526440373/0001193125-26-440373-index.htm",
+  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-440373 <b>Size:</b> 198 KB <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-10-30T14:31:29.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
+ },
+ {
+  "id": "1d31b6b7e29a9da3",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "תשואה של עד 8% מענקיות הטק: בנק אוף אמריקה ממליץ על האג\"ח שלהן ומעדיף אותן על פני המניות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CbmdFY0E1Rl92Q3RldmYyNDBENUlZVkdJTzhJb0ZIT2tSaGF3TzdFemNhVzd1cktpU2ZNSVIzVnAtSkpIai1OeHA4Y0F1RHpibzNGeTZUa0h2aGktU0lENzZVaFRtZ3NTRV9LSC02UDI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5CbmdFY0E1Rl92Q3RldmYyNDBENUlZVkdJTzhJb0ZIT2tSaGF3TzdFemNhVzd1cktpU2ZNSVIzVnAtSkpIai1OeHA4Y0F1RHpibzNGeTZUa0h2aGktU0lENzZVaFRtZ3NTRV9LSC02UDI?oc=5\" target=\"_blank\">תשואה של עד 8% מענקיות הטק: בנק אוף אמריקה ממליץ על האג\"",
+  "date": "2026-10-30T14:21:00.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
+ },
+ {
   "id": "1bcbc0c2f5c03541",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +31,17 @@
   "date": "2026-10-30T14:19:58.000Z",
   "fetched": "2026-10-30T14:25:05.729Z",
   "fromCloud": "2026-10-30T1425.json"
+ },
+ {
+  "id": "8bc9e2bc7ca5ce91",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מה האנליסטים חושבים על אינטל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fek84bXlkQXpJOVBQUmFFLVhHRmQ0TWt2QVRJd21xUXRhMWQ5M2R2R0doTjhCcUREUEw1S1R1b0RBMmFqZnhaMFJqMlNBcS1DTHJwLUU2QVFJSFBxU1hhd2lFbXBkcWN2NS1iNl94TWY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1fek84bXlkQXpJOVBQUmFFLVhHRmQ0TWt2QVRJd21xUXRhMWQ5M2R2R0doTjhCcUREUEw1S1R1b0RBMmFqZnhaMFJqMlNBcS1DTHJwLUU2QVFJSFBxU1hhd2lFbXBkcWN2NS1iNl94TWY?oc=5\" target=\"_blank\">מה האנליסטים חושבים על אינטל</a>&nbsp;&nbsp;<font color=",
+  "date": "2026-10-30T14:19:00.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
  },
  {
   "id": "abf0d16d475df7e0",
@@ -605,6 +638,17 @@
   "fromCloud": "2026-10-30T1303.json"
  },
  {
+  "id": "75adb97fd724cc48",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "1,000 מאבטחים ושוטרים ו-250 אלף שקל הפרש: הכלכלה של גמר גביע הטוטו - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FZXJDOVM1NlM5M01iN1A4enFsVlN1OGRLYkhDM20yb3FxMkN2LXduWUhDRFNyd3k2cTRyeFF4b0VRR05xV1dMUFNvZVNuYmhVbjNtVFZTN1lKem45bW1ZTXpiaGs5UQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FZXJDOVM1NlM5M01iN1A4enFsVlN1OGRLYkhDM20yb3FxMkN2LXduWUhDRFNyd3k2cTRyeFF4b0VRR05xV1dMUFNvZVNuYmhVbjNtVFZTN1lKem45bW1ZTXpiaGs5UQ?oc=5\" target=\"_blank\">1,000 מאבטחים ושוטרים ו-250 אלף שקל הפרש: הכלכלה של גמר גביע הטוטו</a",
+  "date": "2026-10-30T12:45:00.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
+ },
+ {
   "id": "2adb51f1858a70ab",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -658,6 +702,17 @@
   "date": "2026-10-30T12:36:00.000Z",
   "fetched": "2026-10-30T13:03:51.578Z",
   "fromCloud": "2026-10-30T1303.json"
+ },
+ {
+  "id": "2e9da51273256518",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "VRRM: Government Solutions growth and higher free cash flow offset commercial weakness - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQjRRSzlaZi1nVHRwVV9TTlNTYzBGUEFmejJ0LVpNU3c5MlVSTEpLUWhTQWFzYmpjUUlPaGk2R2RFeERsSDZmT0E2c01fNmZtNU9JRFJYeVZDNGM5bEJUMGFRMGFYUlhHbDFTby1SVkFmSEhKcUg5TDNfNEoyclJpbllOTXVpX29DNDlKRkFSdXhkSGJraHphc3dqTExoWWRuV2tSQTl2aUNUQXhZOUlLMC1sMnM0dEVzU0FMVDVhTGFtQnRvRHY3MG1hbXlPQjRSbXotZHdjR0o4UlJvUVpKZFVZa3ZOM2hXWktPX0tpbTV0UUtWcGl6MDNtejc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQjRRSzlaZi1nVHRwVV9TTlNTYzBGUEFmejJ0LVpNU3c5MlVSTEpLUWhTQWFzYmpjUUlPaGk2R2RFeERsSDZmT0E2c01fNmZtNU9JRFJYeVZDNGM5bEJUMGFRMGFYUlhHbDFTby1SVkFmSEhKcUg5TDNfNEoyclJpbllOTXVpX29DNDlKRkFSdXhkSGJraHphc3dqTExoWWRuV2tSQTl2aUNUQX",
+  "date": "2026-10-30T12:34:56.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
  },
  {
   "id": "3bec401db7f7b52d",
@@ -946,6 +1001,17 @@
   "fromCloud": "2026-10-30T1233.json"
  },
  {
+  "id": "e8947d0dc8d3b762",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Mair Group Says Steven Green Resigns As CFO - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUZmcWRsUEVyZWhSb1gtMExMVGQ2TTBwOW5CMVMyNU85Um5BZXNFU0xZMWxRd0xKV0hMMXJMNlZpN3pGWkpHRnE3RDlVV043aUU2aXBiNkRKd295emJlQ1VNQkc2ZndGN1NIdTRMUWVkUkpBNHdOZXpGd1VVMTNIam1OZEk1aXVKSTFVZ1h0V3R0MzVOZTRwMjdwa0IyZ1lVMTRKckt5ZmswbjI1SVhRTDQxbw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUZmcWRsUEVyZWhSb1gtMExMVGQ2TTBwOW5CMVMyNU85Um5BZXNFU0xZMWxRd0xKV0hMMXJMNlZpN3pGWkpHRnE3RDlVV043aUU2aXBiNkRKd295emJlQ1VNQkc2ZndGN1NIdTRMUWVkUkpBNHdOZXpGd1VVMTNIam1OZEk1aXVKSTFVZ1h0V3R0MzVOZTRwMjdwa0IyZ1lVMTRKckt5Zmswbj",
+  "date": "2026-10-30T12:04:37.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
+ },
+ {
   "id": "3556a8b0242473d3",
   "source": "SecurityWeek",
   "group": "industry",
@@ -1122,6 +1188,17 @@
   "fromCloud": "2026-10-30T1333.json"
  },
  {
+  "id": "bf45689e79ce14b4",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "נופר מגייסת עד 310 מיליון דולר לפרויקט סולארי בטקסס שכל החשמל שלו כבר מכור לענקית טכנולוגיה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HVXFzY1BmVHhrT1pvVzJHSVN5em1qRXJoZENoU25XTkl6RDFCdGNGOWxzb2d3R09nNkZSNjVYR3BjU1pTLTJ4NUxtU1RETG01VjdUY0xtbDJwQWdPbnNueVlhSTFRTVVWNmVWTng2N0k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9HVXFzY1BmVHhrT1pvVzJHSVN5em1qRXJoZENoU25XTkl6RDFCdGNGOWxzb2d3R09nNkZSNjVYR3BjU1pTLTJ4NUxtU1RETG01VjdUY0xtbDJwQWdPbnNueVlhSTFRTVVWNmVWTng2N0k?oc=5\" target=\"_blank\">נופר מגייסת עד 310 מיליון דולר לפרויקט סולארי בטקסס שכל ",
+  "date": "2026-10-30T11:43:00.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
+ },
+ {
   "id": "f0925603c0d20967",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1188,6 +1265,17 @@
   "fromCloud": "2026-10-30T1133.json"
  },
  {
+  "id": "b61f2335fe0b4d4a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Crown Reserve Acquisition Corp. I Estimates – NASDAQ:CRAC - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oai1BRVhQb01mdHR2SHdqbzZOR2ttenFKb0l1Y3VKWFZiQ3JjX3kxYjRxSnN2TnhOck5kbXU2NG5fb1Q1ZmZ6TENVR0FVSTE0YWNxTkRCY2ZOMy1yQ2JBT1h4aUJ6TFVzZWhvOUdqS01TNlhPMjBKdA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oai1BRVhQb01mdHR2SHdqbzZOR2ttenFKb0l1Y3VKWFZiQ3JjX3kxYjRxSnN2TnhOck5kbXU2NG5fb1Q1ZmZ6TENVR0FVSTE0YWNxTkRCY2ZOMy1yQ2JBT1h4aUJ6TFVzZWhvOUdqS01TNlhPMjBKdA?oc=5\" target=\"_blank\">Crown Reserve Acquisition Corp. I Estimates –",
+  "date": "2026-10-30T11:32:22.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
+ },
+ {
   "id": "0aabdd6258866608",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -1219,6 +1307,17 @@
   "date": "2026-10-30T11:31:09.000Z",
   "fetched": "2026-10-30T11:33:13.493Z",
   "fromCloud": "2026-10-30T1133.json"
+ },
+ {
+  "id": "b18f17b882e59cf8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of BAMBUSA THERAPEUTICS INC – NASDAQ:BBTX - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMm5iVV9NVkFpemtaRjBIREh3VVZ1SmtFOHVXeV93ZGtrd1lnOWxzNnl0XzJhLUVwSEF0RUppMnlmdjNPazVyZGYyeEVBUmJLSGdKVHIxa3p5S2FCZ3YyQXcwbHhpM3FaZVI4STYtWTFvSkxoZm1uaHRpME9TcnNDenR4ZGlabHcxWXc1MQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMm5iVV9NVkFpemtaRjBIREh3VVZ1SmtFOHVXeV93ZGtrd1lnOWxzNnl0XzJhLUVwSEF0RUppMnlmdjNPazVyZGYyeEVBUmJLSGdKVHIxa3p5S2FCZ3YyQXcwbHhpM3FaZVI4STYtWTFvSkxoZm1uaHRpME9TcnNDenR4ZGlabHcxWXc1MQ?oc=5\" target=\"_blank\">Free cash flow of",
+  "date": "2026-10-30T11:30:18.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
  },
  {
   "id": "eb5293eb98573dff",
@@ -1978,6 +2077,17 @@
   "date": "2026-10-30T10:15:00.000Z",
   "fetched": "2026-10-30T13:03:51.578Z",
   "fromCloud": "2026-10-30T1303.json"
+ },
+ {
+  "id": "d4fafae8c0a2379e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Cantor downgrades Instacart stock rating on DoorDash acquisition By Investing.com - Investing.com Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkNvWlVaSGw5NEV0VEVObmE2Q2NQODVqU0ZNOXBjbGt1RWI2ZGQ2UDJtaTFGWHZtNnAwLTJzTHJFM0h4YzNCMHRBN1pYU3otLS1HSWlXbTl3Q1YybDNELTJOc0l0dUZVa1ZNYTFqUHlBN0E3bkJralBaU0JDTldVSWhfM1JHQVdyTkZ6eEJHVndIUWZKZUtDcjE5a0gyN1FxbkVxU3pVWmhfMTB4RlgzbDZya2N1Y2dobmxPSlpNa0VyclE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkNvWlVaSGw5NEV0VEVObmE2Q2NQODVqU0ZNOXBjbGt1RWI2ZGQ2UDJtaTFGWHZtNnAwLTJzTHJFM0h4YzNCMHRBN1pYU3otLS1HSWlXbTl3Q1YybDNELTJOc0l0dUZVa1ZNYTFqUHlBN0E3bkJralBaU0JDTldVSWhfM1JHQVdyTkZ6eEJHVndIUWZKZUtDcjE5a0gyN1FxbkVxU3pVWmhfMT",
+  "date": "2026-10-30T10:14:40.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
  },
  {
   "id": "dd5ae883e667d9a2",
@@ -4387,6 +4497,17 @@
   "date": "2026-10-30T00:00:00.000Z",
   "fetched": "2026-10-30T13:33:13.438Z",
   "fromCloud": "2026-10-30T1333.json"
+ },
+ {
+  "id": "e02efbc6c63a1f9c",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "Overcoming the R&D bottleneck: Building a causal decision system",
+  "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/overcoming-the-r-and-d-bottleneck-building-a-causal-decision-system",
+  "summary": "Tackling stalled development productivity requires sharp decision making. Leading biopharma are replacing fragmented analysis with connected, causal decision systems to optimize speed, cost, and success rates.",
+  "date": "2026-10-30T00:00:00.000Z",
+  "fetched": "2026-10-30T14:33:13.453Z",
+  "fromCloud": "2026-10-30T1433.json"
  },
  {
   "id": "e97bcbfc3e4314aa",
@@ -8589,38 +8710,5 @@
   "date": "2026-10-29T14:35:12.000Z",
   "fetched": "2026-10-29T17:03:14.145Z",
   "fromCloud": "2026-10-29T1703.json"
- },
- {
-  "id": "d74e0e3ae1f3f743",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "פרשת גיבוי: אחרי שהוסגר לישראל, הוגש כתב אישום נגד אייל רוזן - משפט - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlBjYk1JYzFubXN1T0ozbzJLVklYTlNuaHpzd3ZTRzZ5MEdCa0d6RVZDRU5vOXh1ZHMyUEFyN0V1VEhyY1cwQlc3RDRqV2c2cm45T0ZweUp3N29CNTFZcFFSWjlsR3NDVW0wbnpIUkVGWTVPeThvN1l5OXFSZ2dRT2RzU3h2b2ZBRThvWVdsM0F0dFlXczRqdF9GUjNzUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQlBjYk1JYzFubXN1T0ozbzJLVklYTlNuaHpzd3ZTRzZ5MEdCa0d6RVZDRU5vOXh1ZHMyUEFyN0V1VEhyY1cwQlc3RDRqV2c2cm45T0ZweUp3N29CNTFZcFFSWjlsR3NDVW0wbnpIUkVGWTVPeThvN1l5OXFSZ2dRT2RzU3h2b2ZBRThvWVdsM0F0dFlXczRqdF9GUjNzUQ?oc=5\" target=\"_",
-  "date": "2026-10-29T14:31:00.000Z",
-  "fetched": "2026-10-29T15:03:13.395Z",
-  "fromCloud": "2026-10-29T1503.json"
- },
- {
-  "id": "21bd1302e368e807",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הכלכלן הראשי באוצר על עתיד המשק: \"אני באמת אופטימי; מה שהכלכלה עשתה בשנים האחרונות זה קסם\" - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qbkFMZ0NWNDU2ckpQXzNFaEt1d29SSWwyTUNaVGhIbVJERE9FdjlLR2N4bTN5NnRvZG81UWJxSXFOWDVERmU5ZVRkd0dmaGFzWkN6ZndPSGcwYW1wSnJkejl0bHQ0bjRrOFVQZDZ6aDM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5qbkFMZ0NWNDU2ckpQXzNFaEt1d29SSWwyTUNaVGhIbVJERE9FdjlLR2N4bTN5NnRvZG81UWJxSXFOWDVERmU5ZVRkd0dmaGFzWkN6ZndPSGcwYW1wSnJkejl0bHQ0bjRrOFVQZDZ6aDM?oc=5\" target=\"_blank\">הכלכלן הראשי באוצר על עתיד המשק: \"אני באמת אופטימי; מה ש",
-  "date": "2026-10-29T14:29:00.000Z",
-  "fetched": "2026-10-29T14:33:14.914Z",
-  "fromCloud": "2026-10-29T1433.json"
- },
- {
-  "id": "8e66c82fc7f2823d",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "רגע לפני העברת חצי מיליארד שקל למשטרה ולשב\"כ: בקשה דחופה לבג\"ץ לעצור הכסף - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPaDdpRXd3cElzMVpjeUEzOVUtNTU4RFlVXzhjWDVUaXcycFcyQ2d3N01URzZGMmFrQUVhUUwwdjllNExBSUl6QlZhOVFzQ1I2d2FhWXJxbndhVkdIZkZNVTVLNERVUTBp?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPaDdpRXd3cElzMVpjeUEzOVUtNTU4RFlVXzhjWDVUaXcycFcyQ2d3N01URzZGMmFrQUVhUUwwdjllNExBSUl6QlZhOVFzQ1I2d2FhWXJxbndhVkdIZkZNVTVLNERVUTBp?oc=5\" target=\"_blank\">רגע לפני העברת חצי מיליארד שקל למשטרה ולשב\"כ: בקשה דחופה לבג\"ץ לעצו",
-  "date": "2026-10-29T14:26:00.000Z",
-  "fetched": "2026-10-29T14:33:14.914Z",
-  "fromCloud": "2026-10-29T1433.json"
  }
 ]
