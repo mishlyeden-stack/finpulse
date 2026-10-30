@@ -1,0 +1,136 @@
+{
+ "batch": "2026-10-30T1703",
+ "created": "2026-10-30T17:03:21.028Z",
+ "items": [
+  {
+   "id": "43cbf04c78cca4da",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - General Motors Financial Company, Inc. (0000804269) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/804269/000119312526441074/0001193125-26-441074-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-441074 <b>Size:</b> 504 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-30T16:47:55.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "d6da1e335bac4a9a",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+   "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
+   "date": "2026-10-30T16:45:48.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "4186724588d2f552",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "CD&R pursues buyout of $40bn card processor Global Payments",
+   "link": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
+   "summary": "Deal for US company would rank among largest buyouts in history",
+   "date": "2026-10-30T16:27:55.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "e4be09383eb0e54e",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Finding the business cases for human cell therapies - CFO Brew",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmpUdy0temRyQ2VyUzE2enJyaHNHblFQN3I4ZTU3RXBfNHFPblhWVjVsR0xQXzdSUkNPVzhGQTNRZXF6Y3pIcGNKLUhEODhMS0tQX08wSk5HUTkyZzIzTzd0eXpIakd1ZHVZd0V0UlR1UVRlVDFtTEVnZUgxYkw3Q1hsc3pxcTVwNXc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmpUdy0temRyQ2VyUzE2enJyaHNHblFQN3I4ZTU3RXBfNHFPblhWVjVsR0xQXzdSUkNPVzhGQTNRZXF6Y3pIcGNKLUhEODhMS0tQX08wSk5HUTkyZzIzTzd0eXpIakd1ZHVZd0V0UlR1UVRlVDFtTEVnZUgxYkw3Q1hsc3pxcTVwNXc?oc=5\" target=\"_blank\">Finding the business",
+   "date": "2026-10-30T16:44:32.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "8f624ad63cf187aa",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "CIRCOR to Expand Industrial Portfolio with Acquisition of Green Silence Group S.p.A. - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEpvUFhXRW5kaDRBb3lBcU01Q2RsSGFNWEdzYkZwMEg5N1Z1NXVQeFF6Ym9WZ3NZOTM5SG05QURDZUpMbFZDUkNYSUZYNURXN3VwS29tbko3bTAtWEgtckx3bVM2NmJDY3hYRVR6aGdLeXlpcnVwVHU4Z211cHRZb0I4ZWRFTUZac1JBbWx6VG1wWklWaUh1UnRlM0Q2aHZTdkY2M2tfc1ZwY1U?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEpvUFhXRW5kaDRBb3lBcU01Q2RsSGFNWEdzYkZwMEg5N1Z1NXVQeFF6Ym9WZ3NZOTM5SG05QURDZUpMbFZDUkNYSUZYNURXN3VwS29tbko3bTAtWEgtckx3bVM2NmJDY3hYRVR6aGdLeXlpcnVwVHU4Z211cHRZb0I4ZWRFTUZac1JBbWx6VG1wWklWaUh1UnRlM0Q2aHZTdkY2M2tfc1ZwY1",
+   "date": "2026-10-30T16:06:00.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "61504b3fb1a3804a",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "CoStar Announces Latest Big Acquisition Ahead of Q3 Earnings - The Real Deal",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzE2eDRzMEd4dnRKbVZjdmVJdUFLaVpqdzF6TC1yaHZHbHNOQTZuWHFQb25paEZ3VFhmTkhiRHlDbFhlLVRXX1huLV80S2NiVUpMQU5FZ3V3VU1Ca2lfeWJRWm5kbG1wUUpRXzdSTFcwNC1aM00tSUxWNkFWY2ZqN1N4SmlFVWI5N25SRXBYSUhrTlNtbEVLNlpTUVNZeVd2RS0zYTRpVUw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzE2eDRzMEd4dnRKbVZjdmVJdUFLaVpqdzF6TC1yaHZHbHNOQTZuWHFQb25paEZ3VFhmTkhiRHlDbFhlLVRXX1huLV80S2NiVUpMQU5FZ3V3VU1Ca2lfeWJRWm5kbG1wUUpRXzdSTFcwNC1aM00tSUxWNkFWY2ZqN1N4SmlFVWI5N25SRXBYSUhrTlNtbEVLNlpTUVNZeVd2RS0zYTRpVUw?oc",
+   "date": "2026-10-30T16:30:00.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "62fe3929e47c3466",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Free cash flow per share of MSG Rangers Corp Class A – BOATS:MSGR - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMURyVElzOG5GNG5KVTVVV1RWcmxfZGVhX3p3S1pSV1Vkbzhqc0Y1V29yVDdUU19SbDhxUkVadzFfbThJN2lQX1ZIdUVVa1BJQWZEOVliOS1IcFpQMmJHQ1hqQjl5czRnT3NYUnQ2bk83SkxWMHk5T01pT0s3OWJWU1QwdTZxSThBYnZyVG0zNlRuR192RElqRmFIQjdELTloZjN3YTRsWVY?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMURyVElzOG5GNG5KVTVVV1RWcmxfZGVhX3p3S1pSV1Vkbzhqc0Y1V29yVDdUU19SbDhxUkVadzFfbThJN2lQX1ZIdUVVa1BJQWZEOVliOS1IcFpQMmJHQ1hqQjl5czRnT3NYUnQ2bk83SkxWMHk5T01pT0s3OWJWU1QwdTZxSThBYnZyVG0zNlRuR192RElqRmFIQjdELTloZjN3YTRsWVY?oc",
+   "date": "2026-10-30T15:26:08.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "eb0b4972a77f61de",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Tampa General Hospital Promotes Lijah Lokenauth to Executive Vice President and CFO - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTBHRDRtWG9RUWVsOVAwNXJwcTlZZFkzdC1ETGdrbmM4UUxJUUp1MFAtMzN3VTl0SEotdzNjcGxyOXRVc0lscFY0ZlZzNmUyZ2ZmLUVRaElaMW16SFh2czQ4NDhlbGRodktER0ozNVpWZVNRZzFJb0JhYUhIMktZREFhUUJhLVA0UEJnRjE1VWcyTzdVZUZDaWN2aFhTTmxJYU5TSTFLb3o1WGZTeE51dWoyVXVRMjBIQXpKYVpLZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTBHRDRtWG9RUWVsOVAwNXJwcTlZZFkzdC1ETGdrbmM4UUxJUUp1MFAtMzN3VTl0SEotdzNjcGxyOXRVc0lscFY0ZlZzNmUyZ2ZmLUVRaElaMW16SFh2czQ4NDhlbGRodktER0ozNVpWZVNRZzFJb0JhYUhIMktZREFhUUJhLVA0UEJnRjE1VWcyTzdVZUZDaWN2aFhTTmxJYU5TSTFLb3o1WG",
+   "date": "2026-10-30T16:54:29.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "7f30ba2bf3d4c9ef",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Free cash flow per share of Azora Therapeutics, Inc. – BOATS:AZR - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGpoRjJuNThUUjdkSUNHZmljYm0wQmszVXB0cEhUWUp5VHRIZktjV0wtUjl1TnNETDI1TVB1UV80M2ctSjRLaEZybFExQTZlY3hYeHpSQmxaM2FlTkZVaFU2TTk4UGtFdERrN1FMTDI1X3owWXNUR3JPbXpQWDJJM1pGdnF4dEMzek9jNkI3aG0ySkJDOTNTc1dhZ0NrMFdwWDdFdUp3Zw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGpoRjJuNThUUjdkSUNHZmljYm0wQmszVXB0cEhUWUp5VHRIZktjV0wtUjl1TnNETDI1TVB1UV80M2ctSjRLaEZybFExQTZlY3hYeHpSQmxaM2FlTkZVaFU2TTk4UGtFdERrN1FMTDI1X3owWXNUR3JPbXpQWDJJM1pGdnF4dEMzek9jNkI3aG0ySkJDOTNTc1dhZ0NrMFdwWDdFdUp3Zw?oc=",
+   "date": "2026-10-30T14:33:04.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "d99c02af36d0171b",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Jeffery Simmons trade: Bears confirm acquisition from Titans for two first-round picks - finchannel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQjNVNWdxQ2wwWHJEMlJ5RmFsSk1EWFdkcDdFYno5SFd4OFVVX0dBSnFpUzFQYW1jQmtJYzlxT1VsVjRaNmc3ZHY1QnNhc3ZzMHlsX081Sll1Wkx6VkttWXd0eHp0dlAtRTYzMnI1cjRONEtMVHYzc0s1bHRVQktDUjFqUXV2a29Gd0tBSG1tWm5JSVVXOWx6Z2dPRk84cXZTTXpOeEY2YkdxRkJwR2pEd1ZYaEVXWVA4VmVFUERORjlUd3BqdnJUOXd3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQjNVNWdxQ2wwWHJEMlJ5RmFsSk1EWFdkcDdFYno5SFd4OFVVX0dBSnFpUzFQYW1jQmtJYzlxT1VsVjRaNmc3ZHY1QnNhc3ZzMHlsX081Sll1Wkx6VkttWXd0eHp0dlAtRTYzMnI1cjRONEtMVHYzc0s1bHRVQktDUjFqUXV2a29Gd0tBSG1tWm5JSVVXOWx6Z2dPRk84cXZTTXpOeEY2YkdxRk",
+   "date": "2026-10-30T15:27:07.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "9952aeeaf841cc18",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Vistra completes acquisition of Cogentrix Energy for 5,500 MW - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGF5RDdBM2dYWWs0OHI2OTZZcVlhVzZzZXI0R3kzY0F2bFNaQjZRN2Fta3AtYlUzUllNVEJzRVV1ZV9ST3lTa1NRMFh3UU9WNFZpaHI3VTlZaWVQQXVtVFIzaXZhbVVIUTBfaDM4NE1oSTdBZGRxN3pBUHczV0FvbE1od1VORmd5V2ttY1IxTkN6M0I3WXVvYzVBbUw0YUdEZ1pBbG5CTHd2Y1V6RmpnWlBiVmpna1cy?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGF5RDdBM2dYWWs0OHI2OTZZcVlhVzZzZXI0R3kzY0F2bFNaQjZRN2Fta3AtYlUzUllNVEJzRVV1ZV9ST3lTa1NRMFh3UU9WNFZpaHI3VTlZaWVQQXVtVFIzaXZhbVVIUTBfaDM4NE1oSTdBZGRxN3pBUHczV0FvbE1od1VORmd5V2ttY1IxTkN6M0I3WXVvYzVBbUw0YUdEZ1pBbG5CTHd2Y1",
+   "date": "2026-10-30T16:45:15.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "a1eeeb71829e50de",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "Beyond the grid",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/beyond-the-grid/",
+   "summary": "<p data-block-key=\"y2akm\">Building the power system for AI in the Americas</p>",
+   "date": "2026-10-30T16:45:35.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  },
+  {
+   "id": "aeca7cee9e9b3696",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "SpiNNcloud rebrands to Sparxity, announces cluster deployment at Jülich center in Germany",
+   "link": "https://www.datacenterdynamics.com/en/news/spinncloud-rebrands-to-sparxity-announces-cluster-deployment-at-j%C3%BClich-center-in-germany/",
+   "summary": "<p data-block-key=\"xhh0e\">Company said rebrand reflects its vision to “only compute what matters”</p>",
+   "date": "2026-10-30T16:30:48.000Z",
+   "fetched": "2026-10-30T17:03:21.028Z"
+  }
+ ]
+}
