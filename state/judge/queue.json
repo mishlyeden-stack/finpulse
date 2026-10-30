@@ -1,5 +1,38 @@
 [
  {
+  "id": "f0c31e6504482388",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Has Australia’s push for lower house prices gone too far?",
+  "link": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
+  "summary": "Canberra wanted to cool one of the world’s hottest property markets",
+  "date": "2026-10-30T00:21:27.000Z",
+  "fetched": "2026-10-30T00:33:11.330Z",
+  "fromCloud": "2026-10-30T0033.json"
+ },
+ {
+  "id": "a06386e60725dd69",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Neoen lands $1.26B refinancing for Australian renewables portfolio - Dealroom",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFpSZjVmSlVkZTIxLVNmQnhNR05aY3o2Y2o3bElwVlV1ekozcG5BWk1SdW1UdUhlWjFZNGdiTEZuQVZrNDVBSzJIOVA1RnJxQjIxSE91SW44SnNZUHpjUzh6a1YyQlJuaDZqZ3VTcW1GSW50TVhlc0dXUlNiNndadldiS1g2YWNfUHBYZzJBZDVIOWwyTlJ5eUN6cHVaRTc3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFpSZjVmSlVkZTIxLVNmQnhNR05aY3o2Y2o3bElwVlV1ekozcG5BWk1SdW1UdUhlWjFZNGdiTEZuQVZrNDVBSzJIOVA1RnJxQjIxSE91SW44SnNZUHpjUzh6a1YyQlJuaDZqZ3VTcW1GSW50TVhlc0dXUlNiNndadldiS1g2YWNfUHBYZzJBZDVIOWwyTlJ5eUN6cHVaRTc3?oc=5\" target=",
+  "date": "2026-10-30T00:14:47.000Z",
+  "fetched": "2026-10-30T00:33:11.330Z",
+  "fromCloud": "2026-10-30T0033.json"
+ },
+ {
+  "id": "90cc73809cd78be8",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סטרטג'י דווחה על רווח של 19.5 מיליארד דולר אך הביטקוין למניה נשחק - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pT3JOcGlwNG1SXzdaYWVDMlVsR1ExTm00YkFNaDZDYWFvVW9VV3V1N1I4d0RncW5LMkZ4UzhYaXI2OFdiUlUtQ2hZRzJSMXpxekVnOVU4QjhjYXN1dG1VNmVOcm5EdngtdW1kd3NSRE4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5pT3JOcGlwNG1SXzdaYWVDMlVsR1ExTm00YkFNaDZDYWFvVW9VV3V1N1I4d0RncW5LMkZ4UzhYaXI2OFdiUlUtQ2hZRzJSMXpxekVnOVU4QjhjYXN1dG1VNmVOcm5EdngtdW1kd3NSRE4?oc=5\" target=\"_blank\">סטרטג'י דווחה על רווח של 19.5 מיליארד דולר אך הביטקוין ל",
+  "date": "2026-10-29T23:49:00.000Z",
+  "fetched": "2026-10-30T00:33:11.330Z",
+  "fromCloud": "2026-10-30T0033.json"
+ },
+ {
   "id": "07cafe22fae66716",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -53,6 +86,17 @@
   "date": "2026-10-29T23:06:34.000Z",
   "fetched": "2026-10-29T23:33:11.749Z",
   "fromCloud": "2026-10-29T2333.json"
+ },
+ {
+  "id": "6688c2681695d454",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "First Hawaiian, Inc. and TriCo Bancshares Announce Shareholder Approvals of Acquisition - Carroll County Mirror-Democrat",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVNBSURsZHdvck5sZVk3Qm5YOThoazhibEZJQTloczVKU0gwOW1RcVZlV2Y4cFk3d1BiNDNtTnd6MWJoMmZ6cjYtYVVoLUFKd19RSk5aY3A3cWRJREduTTdjaHFadFhrNEREQ25VTWttNHZfa21Ody1Bb1lHSVJ4anBnckJRNzV3TktYSzVGTnUyYVR4Zzg4bjFNc3k1WFJObk1saDRvNHBPblZ3NHl0a2hBeUtFTDA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVNBSURsZHdvck5sZVk3Qm5YOThoazhibEZJQTloczVKU0gwOW1RcVZlV2Y4cFk3d1BiNDNtTnd6MWJoMmZ6cjYtYVVoLUFKd19RSk5aY3A3cWRJREduTTdjaHFadFhrNEREQ25VTWttNHZfa21Ody1Bb1lHSVJ4anBnckJRNzV3TktYSzVGTnUyYVR4Zzg4bjFNc3k1WFJObk1saDRvNHBPbl",
+  "date": "2026-10-29T23:00:00.000Z",
+  "fetched": "2026-10-30T00:33:11.330Z",
+  "fromCloud": "2026-10-30T0033.json"
  },
  {
   "id": "0b31c925622d1dcf",
@@ -1428,6 +1472,17 @@
   "date": "2026-10-29T20:09:36.000Z",
   "fetched": "2026-10-29T20:33:13.869Z",
   "fromCloud": "2026-10-29T2033.json"
+ },
+ {
+  "id": "cfa9972bb6b06593",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Kearny CFO says town must cut 20% of the budget to avoid tax hikes & layoffs - Hudson County View",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUZQSGVRVTUtUFZkQzdnT1M1TS1SRjYtSEtfWUdCcVdLR2Y2ZWhuV0JVS3pqMFNWNmZjdXdkRS1KSGRpOEZJSnFvWFRMSlcyaWloQ2lLUS1Fc0NESDJnUURlanNQdDFtRW0wUGhNTFJTNzViMlBwdm0wN1dlNFZFaHQ3VXBUTHlJcmw3aVkxR1AyZllocWg3bU1DWDBPU2RGdnExSmJ3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUZQSGVRVTUtUFZkQzdnT1M1TS1SRjYtSEtfWUdCcVdLR2Y2ZWhuV0JVS3pqMFNWNmZjdXdkRS1KSGRpOEZJSnFvWFRMSlcyaWloQ2lLUS1Fc0NESDJnUURlanNQdDFtRW0wUGhNTFJTNzViMlBwdm0wN1dlNFZFaHQ3VXBUTHlJcmw3aVkxR1AyZllocWg3bU1DWDBPU2RGdnExSmJ3?oc=5\"",
+  "date": "2026-10-29T20:08:19.000Z",
+  "fetched": "2026-10-30T00:33:11.330Z",
+  "fromCloud": "2026-10-30T0033.json"
  },
  {
   "id": "9d2b58cc28c62d8d",
