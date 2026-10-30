@@ -1,0 +1,116 @@
+{
+ "batch": "2026-10-30T1503",
+ "created": "2026-10-30T15:03:13.302Z",
+ "items": [
+  {
+   "id": "934a3fef1cc73971",
+   "source": "כלכליסט (Google News)",
+   "group": "israel-press",
+   "title": "בזכות הזהב והמט\"ח: הבנק המרכזי של שווייץ הרוויח 23.3 מיליארד דולר ברבעון השלישי - כלכליסט",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VbWdqNERGa29oN1JVMWxQV3oxNjNYN0l2OUpiVTBBVnlXSzVpc0pWX0hoVXhoQ2ZramlWUFJkMFNrT3VNOHZQOUlSSjYzbjhWdTdWUHlEX1BsNGgxNkxsRllZbkYxVzRJ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VbWdqNERGa29oN1JVMWxQV3oxNjNYN0l2OUpiVTBBVnlXSzVpc0pWX0hoVXhoQ2ZramlWUFJkMFNrT3VNOHZQOUlSSjYzbjhWdTdWUHlEX1BsNGgxNkxsRllZbkYxVzRJ?oc=5\" target=\"_blank\">בזכות הזהב והמט\"ח: הבנק המרכזי של שווייץ הרוויח 23.3 מיליארד דולר ב",
+   "date": "2026-10-30T14:55:00.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "a664ad024dba66cc",
+   "source": "ECB",
+   "group": "global-official",
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+   "summary": "",
+   "date": "2026-10-30T14:00:00.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "0b0a19c10c66f521",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - STANDARD MOTOR PRODUCTS, INC. (0000093389) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/93389/000009338926000098/0000093389-26-000098-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0000093389-26-000098 <b>Size:</b> 771 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-30T14:56:28.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "4275aef5ad15f831",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Hashdex Nasdaq CME Crypto Index ETF (0002031069) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026114174/0001213900-26-114174-index.htm",
+   "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001213900-26-114174 <b>Size:</b> 498 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-10-30T14:43:14.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "e9f918fe687818f6",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Green Trail Fuels makes 25-store acquisition - C-Store Dive",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeExBUFNOa3doY2hRQnJIR19jMUpTRVQtY3BoSEdaNmRxbXdmcUpQZElueFhDMmdvb2lPdWkxZXg1QWZYNG5ncmJPc21hNllMaTNhQmdxTWdjUUY4OG9GM1BrN0ZKam9XOW82aHgzS3lpT1ktVFNfb1ZZUzZfZVBkYkpZZUI1Sjl2UFBhNw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOeExBUFNOa3doY2hRQnJIR19jMUpTRVQtY3BoSEdaNmRxbXdmcUpQZElueFhDMmdvb2lPdWkxZXg1QWZYNG5ncmJPc21hNllMaTNhQmdxTWdjUUY4OG9GM1BrN0ZKam9XOW82aHgzS3lpT1ktVFNfb1ZZUzZfZVBkYkpZZUI1Sjl2UFBhNw?oc=5\" target=\"_blank\">Green Trail Fuels",
+   "date": "2026-10-30T14:48:45.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "033679954eef5251",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "News | ElmTree, Guggenheim land $850 million national refinancing - CoStar",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0lQZzd6eDE4eDd4am1OQ0tSb3ZlOF9BcHEyaHZETUVleXdSNGRiaFE5Zk5BTHJMMVBfVUxFSDVsVkVKQ2QwaVppNnpCMGRscDdaY1g5amI3N05vNUMxbnFTVmNwanRlVlZVNWlEV2ZQeFlVUTVpNWk3OU5VTmVfcDdDWDJubUtxT1J2ZGF2ZXF2dGZEVWZUN2YyNVQtcEk?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0lQZzd6eDE4eDd4am1OQ0tSb3ZlOF9BcHEyaHZETUVleXdSNGRiaFE5Zk5BTHJMMVBfVUxFSDVsVkVKQ2QwaVppNnpCMGRscDdaY1g5amI3N05vNUMxbnFTVmNwanRlVlZVNWlEV2ZQeFlVUTVpNWk3OU5VTmVfcDdDWDJubUtxT1J2ZGF2ZXF2dGZEVWZUN2YyNVQtcEk?oc=5\" target=\"",
+   "date": "2026-10-30T14:56:11.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "a0689884df1b8810",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUENqYkp0aDM0R1JfWnF2cVdBdnBGSzZQMmxLNFVON243cGh5eGdMWUxWRGdhTHFvR2tBdXNVU3BnS2IxTmJlQzNzdWNabmE2SkZxd2RsbDdYcFV5YV9wcWN1QlhHcHY0WlFRZTlOUDdjMWZUcnNiUjROUHBJcElMRjNXODhrdE9nUFMxNnQtRmFObV9jUW840gGcAUFVX3lxTFBxNWJZZnlVWXZOTWJ2bXJCOHhOck5QcEpCOGlyYzVUa3FobkQtVG5DYWN4UGF3bTc5UWJpX2p2SjdKd0gzbHItdEdzRl9qeFJHenA3VXpDQ20tWXVsczd0UGt0ZkwtbG5KdF9FQlRZZ0NyNjhhSm1jLTlUUGZ3RkxGdVh0LUVsb3ltVzgxN044cHBVV3VLTDZCbFV2OQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUENqYkp0aDM0R1JfWnF2cVdBdnBGSzZQMmxLNFVON243cGh5eGdMWUxWRGdhTHFvR2tBdXNVU3BnS2IxTmJlQzNzdWNabmE2SkZxd2RsbDdYcFV5YV9wcWN1QlhHcHY0WlFRZTlOUDdjMWZUcnNiUjROUHBJcElMRjNXODhrdE9nUFMxNnQtRmFObV9jUW840gGcAUFVX3lxTFBxNWJZZnlVWX",
+   "date": "2026-10-30T11:00:01.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "43ae195d1b085ff9",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Willdan completes $285 million acquisition of Mantis Innovation - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzNGaXdUWDZvNy1hOTNhc0VONTkzalJNb3dqdHZBQjgtOVdnUEFMUExaOTFLQ1V6a3FYUVBXT2JPQVh2amhBcDhDbDhGbUZOWF9Ya3BMMzdRNWhWLTd0VWViZW1uQVNSaUJYejg5VDRRQWo3WE11VW56dzZ1Ny1PcjhRbXllVzVSYVBXVzJrNWxFMFdCX1Rnb1BjYkFaQmNEZENtRjZNVXpJa1lCM2dxNGZQbDI5MkNwVEQ0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzNGaXdUWDZvNy1hOTNhc0VONTkzalJNb3dqdHZBQjgtOVdnUEFMUExaOTFLQ1V6a3FYUVBXT2JPQVh2amhBcDhDbDhGbUZOWF9Ya3BMMzdRNWhWLTd0VWViZW1uQVNSaUJYejg5VDRRQWo3WE11VW56dzZ1Ny1PcjhRbXllVzVSYVBXVzJrNWxFMFdCX1Rnb1BjYkFaQmNEZENtRjZNVXpJa1",
+   "date": "2026-10-30T14:42:44.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "2f633fea5b34bca4",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Watch AstraZeneca CFO on AI, Earnings, Restructuring Plan - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHBHOGJvb3VRWWt4NURGMzl1aFlGZkZSU1JGVEh0VGJZMnhFVUJ5U1FvTnhUM0lhMnB4TEgyU2FnSG4tMl90Y29CaVI4Rzk4d2JWVjRaUEo3dmZQMjY0TWpQWHBUSWpfeVVhdGtoWkdDZTJLOFV5S0ZoWV9XcUFkTGZubTliQ3ppQjBUU0FsY1hQbGwyX0JYSVlXSU5ITEtNdUpMRVJpMA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORHBHOGJvb3VRWWt4NURGMzl1aFlGZkZSU1JGVEh0VGJZMnhFVUJ5U1FvTnhUM0lhMnB4TEgyU2FnSG4tMl90Y29CaVI4Rzk4d2JWVjRaUEo3dmZQMjY0TWpQWHBUSWpfeVVhdGtoWkdDZTJLOFV5S0ZoWV9XcUFkTGZubTliQ3ppQjBUU0FsY1hQbGwyX0JYSVlXSU5ITEtNdUpMRVJpMA?oc=",
+   "date": "2026-10-30T00:00:00.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "93cf05dcf2d53e64",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Eurobank completes Eurolife Life acquisition - Life Insurance International",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGRoV1BsOEJkWXJzUm9oaXFIeXNVQ1lNakoyWGktVUNWWm9ROHh4RnFxbmlUR3BMR3pTNGdMVkZMVm5LekVCVTZ4bzZRTUFkbTV5SlFnUHhMelMxV2VYZW9hWElpTERnN210aE04RXV2cEF6ZVZncHlha01WRFNnWjZGZWRWMkJyQlhZa19WbTQ0eTBRLXNwaQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONGRoV1BsOEJkWXJzUm9oaXFIeXNVQ1lNakoyWGktVUNWWm9ROHh4RnFxbmlUR3BMR3pTNGdMVkZMVm5LekVCVTZ4bzZRTUFkbTV5SlFnUHhMelMxV2VYZW9hWElpTERnN210aE04RXV2cEF6ZVZncHlha01WRFNnWjZGZWRWMkJyQlhZa19WbTQ0eTBRLXNwaQ?oc=5\" target=\"_blank\">E",
+   "date": "2026-10-30T12:49:48.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  },
+  {
+   "id": "5e82c4f3b3cc8e4f",
+   "source": "SecurityWeek",
+   "group": "industry",
+   "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
+   "link": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+   "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak appeared first on SecurityWeek",
+   "date": "2026-10-30T14:41:35.000Z",
+   "fetched": "2026-10-30T15:03:13.302Z"
+  }
+ ]
+}
