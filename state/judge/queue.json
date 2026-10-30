@@ -264,6 +264,17 @@
   "fromCloud": "2026-10-30T2303.json"
  },
  {
+  "id": "87b623951299cc58",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "K&F Growth Acquisition Corp. II postpones shareholder meeting and amends extension proposal - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRkpfcjZEVHNUbm4yNjZJZEYwWDQtWXkteVFVS2x0aFd1dnpQUGNoSTBoRERCNUEyakpncnNNQUhLcXpPY1MwMFZYUlpncUV1dHhIbE9OYk1nS05aU0lXS3NBelBOMmtPOHlFb1hpVTZZcmVjM1BveC1ST1NMX3dvV1JTMGYwaGI3bEtkWUQ5OHZWUDVmZlQtRVh1WlZWMDRaMWJVMEJtS2tLZTZQV1JyNXk5TkU2aXhYMVJ4NnFYYVpobF9QZ1lVSjBLcm5xTS13TVBweWtPd0QxSmduWGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRkpfcjZEVHNUbm4yNjZJZEYwWDQtWXkteVFVS2x0aFd1dnpQUGNoSTBoRERCNUEyakpncnNNQUhLcXpPY1MwMFZYUlpncUV1dHhIbE9OYk1nS05aU0lXS3NBelBOMmtPOHlFb1hpVTZZcmVjM1BveC1ST1NMX3dvV1JTMGYwaGI3bEtkWUQ5OHZWUDVmZlQtRVh1WlZWMDRaMWJVMEJtS2tLZT",
+  "date": "2026-10-30T22:42:23.000Z",
+  "fetched": "2026-10-30T23:17:42.613Z",
+  "fromCloud": "2026-10-30T2317.json"
+ },
+ {
   "id": "24dcea3c0185ed6e",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -7907,16 +7918,5 @@
   "date": "2026-10-29T23:20:00.000Z",
   "fetched": "2026-10-30T00:03:12.249Z",
   "fromCloud": "2026-10-30T0003.json"
- },
- {
-  "id": "2c3d4b45ae904dcd",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Stonepeak completes acquisition of BMO finance units - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnJ2bmo2MDNsdGZFRVNJY2hHR2NyNUJTOTZBZFg1eWFZNlpDQ2VUOW00R2dhcDhYU2lFemFBc3pWajdtTnBqcEZRMC12YlRoYVQwRERqMWdzTENobmVuSFVhVzNpNTlSQTFzb3BNOUxJcTZSUUZOUnJRVHVCRW45MVR6SVgwVDdnOVhTZWFQM0M0elppWUdJNUdnamxKSklJRUJNZC1UOHE3LWp6ZWc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnJ2bmo2MDNsdGZFRVNJY2hHR2NyNUJTOTZBZFg1eWFZNlpDQ2VUOW00R2dhcDhYU2lFemFBc3pWajdtTnBqcEZRMC12YlRoYVQwRERqMWdzTENobmVuSFVhVzNpNTlSQTFzb3BNOUxJcTZSUUZOUnJRVHVCRW45MVR6SVgwVDdnOVhTZWFQM0M0elppWUdJNUdnamxKSklJRUJNZC1UOHE3LW",
-  "date": "2026-10-29T23:06:34.000Z",
-  "fetched": "2026-10-29T23:33:11.749Z",
-  "fromCloud": "2026-10-29T2333.json"
  }
 ]
