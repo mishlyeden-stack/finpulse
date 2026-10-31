@@ -1,5 +1,27 @@
 [
  {
+  "id": "c7a6091769577128",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Acadia evp, cfo Mark Schneyer sells $69,342 in company stock - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUprVVVkOHBScHJMc196Smd3SXMyaUpNaFFGLVo5cjlsRmRTWG51alpDYzZwZjZIVGFMRllhc0xSOGF6dzJlN1Noa3BwQ2w1ZWZvREJZcnJoUkF2RHJkelh4Ql80cFE3akpVdXFDMFAxa3ZHQXpUWkJoOWlwNEVNbzE1ZlJMY2JITWZVcGx2ZjZPY2tKX0xjcThBVXU4S0JpSjhFUkZaY3pySXZuSVV5eVhTRjZWR0h5NnYxZEMwbw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUprVVVkOHBScHJMc196Smd3SXMyaUpNaFFGLVo5cjlsRmRTWG51alpDYzZwZjZIVGFMRllhc0xSOGF6dzJlN1Noa3BwQ2w1ZWZvREJZcnJoUkF2RHJkelh4Ql80cFE3akpVdXFDMFAxa3ZHQXpUWkJoOWlwNEVNbzE1ZlJMY2JITWZVcGx2ZjZPY2tKX0xjcThBVXU4S0JpSjhFUkZaY3pySX",
+  "date": "2026-10-31T01:16:28.000Z",
+  "fetched": "2026-10-31T01:33:12.104Z",
+  "fromCloud": "2026-10-31T0133.json"
+ },
+ {
+  "id": "05a1dc3d8a790986",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Porch Group CFO Shawn Tabak sells $630,738 in stock - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTE9JbkwzclZqd0VMQXVNd1h4M19zOWlpeGtTamxsR2NWb0F6M0lhMGF4ckI4MkxRT0Ita010YlNiTTBHWWVGV2N4cHpXTi1mMnNHYU5FcEtqclhmalVIU0R2YnFJd1puNEh3bUtBd3padHRVZW9JeFIzOVhtQmp1NDBLblJUaWJxZ0hKV1h6LTJMS2NKMXhlQU1ZS0ltUmxoNHZKRWJfQThfSnFNWlVPT1RRZGQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOTE9JbkwzclZqd0VMQXVNd1h4M19zOWlpeGtTamxsR2NWb0F6M0lhMGF4ckI4MkxRT0Ita010YlNiTTBHWWVGV2N4cHpXTi1mMnNHYU5FcEtqclhmalVIU0R2YnFJd1puNEh3bUtBd3padHRVZW9JeFIzOVhtQmp1NDBLblJUaWJxZ0hKV1h6LTJMS2NKMXhlQU1ZS0ltUmxoNHZKRWJfQThfSn",
+  "date": "2026-10-31T01:11:22.000Z",
+  "fetched": "2026-10-31T01:33:12.104Z",
+  "fromCloud": "2026-10-31T0133.json"
+ },
+ {
   "id": "4d473c034efa8f83",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1120,6 +1142,17 @@
   "date": "2026-10-30T21:08:00.000Z",
   "fetched": "2026-10-30T22:03:12.930Z",
   "fromCloud": "2026-10-30T2203.json"
+ },
+ {
+  "id": "6ea02f8ac10e1130",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Shahar Erez - calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tel9VdndRLVlkN21TUEVXVURfQVJHRlVGaFhXUjVmbG9qM1QwSnNoeGFmY0FWNEVGOC10S1E2SW1RR19VY3BwX1BKYzN5MHdwRThNY1QwLWM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tel9VdndRLVlkN21TUEVXVURfQVJHRlVGaFhXUjVmbG9qM1QwSnNoeGFmY0FWNEVGOC10S1E2SW1RR19VY3BwX1BKYzN5MHdwRThNY1QwLWM?oc=5\" target=\"_blank\">Shahar Erez</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+  "date": "2026-10-30T21:06:41.000Z",
+  "fetched": "2026-10-31T01:33:12.104Z",
+  "fromCloud": "2026-10-31T0133.json"
  },
  {
   "id": "747833b79d90dd6a",
@@ -8094,71 +8127,5 @@
   "date": "2026-10-30T01:42:00.000Z",
   "fetched": "2026-10-30T02:33:11.532Z",
   "fromCloud": "2026-10-30T0233.json"
- },
- {
-  "id": "36b82dca7588ac51",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Sub Sri Thai Appoints Thanakorn Kosinlsuk As CFO - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1Rwa1ZJZU5RdHFnb1J2aVNSMjdTZUd0ZlU2dnA5VDZzVjViNDVsekMyVVFhYVpkN19Md0ZZNDNGQnV1X1dYV1NuNTI5Wkh2OFF6TmtYQTIwUzh1UnZPM3NLYmVqdzl0T01iM1pqSVV2dWJmd1psbWhQUWZvSVA4R0JzMXpYZjVIRW1rTnRyMlFRT19ZRXc2ZGpYUUFxN3lDTWxaWEFNdy1TdkxCUTRYalRFNFpueHp0U1E?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1Rwa1ZJZU5RdHFnb1J2aVNSMjdTZUd0ZlU2dnA5VDZzVjViNDVsekMyVVFhYVpkN19Md0ZZNDNGQnV1X1dYV1NuNTI5Wkh2OFF6TmtYQTIwUzh1UnZPM3NLYmVqdzl0T01iM1pqSVV2dWJmd1psbWhQUWZvSVA4R0JzMXpYZjVIRW1rTnRyMlFRT19ZRXc2ZGpYUUFxN3lDTWxaWEFNdy1Tdk",
-  "date": "2026-10-30T01:30:46.000Z",
-  "fetched": "2026-10-30T02:33:11.532Z",
-  "fromCloud": "2026-10-30T0233.json"
- },
- {
-  "id": "7856b12177b02b28",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Looking at a decade’s worth of trades involving first-round picks after Chicago Bears’ acquisition of Jeffery Simmons - Detroit Football Network",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGaVhFdC00SWZEX3NOV3Y4WUpuc0Vycmxvc1lQeFphZWdTenRqZUVOSC1fM3E3YkJFQmxtTE5rTnB4bWVOUmFhN2lMNUpHdjBqQ0lDbHFjRTJhOTR5Sml5d2hGMEZIYzdDY3htYk5vd1h4VnJYRzFkRUt3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBGaVhFdC00SWZEX3NOV3Y4WUpuc0Vycmxvc1lQeFphZWdTenRqZUVOSC1fM3E3YkJFQmxtTE5rTnB4bWVOUmFhN2lMNUpHdjBqQ0lDbHFjRTJhOTR5Sml5d2hGMEZIYzdDY3htYk5vd1h4VnJYRzFkRUt3?oc=5\" target=\"_blank\">Looking at a decade’s worth of trades invol",
-  "date": "2026-10-30T01:27:02.000Z",
-  "fetched": "2026-10-30T04:03:13.073Z",
-  "fromCloud": "2026-10-30T0403.json"
- },
- {
-  "id": "6259f3705133b076",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - AMERICAN REBEL HOLDINGS INC (0001648087) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226049323/0001493152-26-049323-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001493152-26-049323 <b>Size:</b> 3 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 3.02: ",
-  "date": "2026-10-30T01:25:57.000Z",
-  "fetched": "2026-10-30T10:33:12.085Z",
-  "fromCloud": "2026-10-30T1033.json"
- },
- {
-  "id": "6c28f5e5015bad33",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - CareTrust REIT, Inc. (0001590717) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1590717/000162828026068370/0001628280-26-068370-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001628280-26-068370 <b>Size:</b> 2 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01: ",
-  "date": "2026-10-30T01:12:23.000Z",
-  "fetched": "2026-10-30T10:33:12.085Z",
-  "fromCloud": "2026-10-30T1033.json"
- },
- {
-  "id": "6c5bcad9c406ca2c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Unico Silver Appoints Dimitrios Kouvoussis As CFO - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR19PeFBYcFRaNzBXcjQwT2R2V3Rubnl1UHhYdEFkT2lWWmVEU2lSekhWY1BtbUxDaVJFeGVZLWFBVUg1WXN4Y1JXRjhsdTRCdDZMOVdBbWlSb2FlaHhseWVzVXJObmtSQnZmTkRqVml5Sl9neTU1MjB3WVN4TWJNeW9wQk01MVEtLUNKR2puQlZGUzI4cHFWNmdDWW5ybWNtSThVQ3NaREFOdlA0OHBqU0VaOHVLdlBveHhN?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR19PeFBYcFRaNzBXcjQwT2R2V3Rubnl1UHhYdEFkT2lWWmVEU2lSekhWY1BtbUxDaVJFeGVZLWFBVUg1WXN4Y1JXRjhsdTRCdDZMOVdBbWlSb2FlaHhseWVzVXJObmtSQnZmTkRqVml5Sl9neTU1MjB3WVN4TWJNeW9wQk01MVEtLUNKR2puQlZGUzI4cHFWNmdDWW5ybWNtSThVQ3NaREFOdl",
-  "date": "2026-10-30T01:05:00.000Z",
-  "fetched": "2026-10-30T01:33:13.391Z",
-  "fromCloud": "2026-10-30T0133.json"
- },
- {
-  "id": "7a8c9742c7571a02",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Kinross Gold Corp (KGC) (Q3 2026) Earnings Call Highlights: Strong Free Cash Flow, Higher ... - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMU4zdEE2aG5TZ0tFMWNSWlBfTzk0WXQ5OHFTaUhJM2VPa3NOanRaU09iUkhUZE5wcU9XVk1CQnJPcjdCMzU3RnM1VlVmcUJ6Y0xMMU5TWFI3TWR3U1cwdzFnMlNKNVNzQktJd0Vxc0gwVDgtVjMzb3hZbTJRZVBfNUQ0ZlMzZzJJNFFtYjNJeTNZcnM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMU4zdEE2aG5TZ0tFMWNSWlBfTzk0WXQ5OHFTaUhJM2VPa3NOanRaU09iUkhUZE5wcU9XVk1CQnJPcjdCMzU3RnM1VlVmcUJ6Y0xMMU5TWFI3TWR3U1cwdzFnMlNKNVNzQktJd0Vxc0gwVDgtVjMzb3hZbTJRZVBfNUQ0ZlMzZzJJNFFtYjNJeTNZcnM?oc=5\" target=\"_blank\">Kinross ",
-  "date": "2026-10-30T01:05:00.000Z",
-  "fetched": "2026-10-30T03:33:11.920Z",
-  "fromCloud": "2026-10-30T0333.json"
  }
 ]
