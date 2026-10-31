@@ -1,0 +1,96 @@
+{
+ "batch": "2026-10-31T0533",
+ "created": "2026-10-31T05:33:12.434Z",
+ "items": [
+  {
+   "id": "8f9f931c752cca2a",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "כך סיפק כלכלן מהפד רווח של 1.5 טריליון דולר לסין — בתמורה לעצות חיזור - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3FCSHJNdEVxV2JmVk1GZkx2WmE2Q1JzT3NmZ1h5N3hGTFVyME1XVGlsUDFpWV9YOV9YVDlkUXVyVVVtdWNZV000OGlQUDB2eTVHaVExX2xSTHRwSnpCc1hsdHF2NV9FVV84cENGVjB4N21iM0VBaFNaZ0VhMF9KWWdEdElBUmtDcW5SWnBrWjlzZ0hrbENUNzdYVWQ4dXZ5WERMbTJRTQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3FCSHJNdEVxV2JmVk1GZkx2WmE2Q1JzT3NmZ1h5N3hGTFVyME1XVGlsUDFpWV9YOV9YVDlkUXVyVVVtdWNZV000OGlQUDB2eTVHaVExX2xSTHRwSnpCc1hsdHF2NV9FVV84cENGVjB4N21iM0VBaFNaZ0VhMF9KWWdEdElBUmtDcW5SWnBrWjlzZ0hrbENUNzdYVWQ4dXZ5WERMbTJRTQ?oc=",
+   "date": "2026-10-31T05:29:00.000Z",
+   "fetched": "2026-10-31T05:33:12.434Z"
+  },
+  {
+   "id": "85f4f2d7487d915a",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "תשואות יוני 2026 – קופות גמל, קרנות השתלמות ופנסיה - Supermarker",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTRuYVpTeVA5a1lseFFuMnFxa1pfYzZOZldid1J6dXhrQ0pTdEZTWE5BLWVzTTAzTXphX0hWSDJjM05tSHBtOG9IWUVyb0J1T2xMRjAybG1LdzYtdFNsVm9HdTVSVUlXVDhHejVneUZON1hZRVdmQkdGbzhETjVxa25LSQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTRuYVpTeVA5a1lseFFuMnFxa1pfYzZOZldid1J6dXhrQ0pTdEZTWE5BLWVzTTAzTXphX0hWSDJjM05tSHBtOG9IWUVyb0J1T2xMRjAybG1LdzYtdFNsVm9HdTVSVUlXVDhHejVneUZON1hZRVdmQkdGbzhETjVxa25LSQ?oc=5\" target=\"_blank\">תשואות יוני 2026 – קופות גמל,",
+   "date": "2026-10-30T12:46:44.000Z",
+   "fetched": "2026-10-31T05:33:12.434Z"
+  },
+  {
+   "id": "bd20fbd0ec8833ce",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "המניה כמעט הוכפלה מתחילת השנה: וואן ספאן זינקה ב-27.3% אחרי דוח שהפתיע את וול סטריט - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SQzByTEdHQzNGdGRfRFp3bTg2eEFxNjNjMjJNajF4WF9OVUZ0N1BhVkFVSWU5S0tOek8td3lYMUl3dDFsSWNzTHRFWktNcjNpODU2ODZpTHhpczJ4dlQ5MXNCTWE5dFBzVzZHMS14bmk?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5SQzByTEdHQzNGdGRfRFp3bTg2eEFxNjNjMjJNajF4WF9OVUZ0N1BhVkFVSWU5S0tOek8td3lYMUl3dDFsSWNzTHRFWktNcjNpODU2ODZpTHhpczJ4dlQ5MXNCTWE5dFBzVzZHMS14bmk?oc=5\" target=\"_blank\">המניה כמעט הוכפלה מתחילת השנה: וואן ספאן זינקה ב-27.3% א",
+   "date": "2026-10-31T05:26:00.000Z",
+   "fetched": "2026-10-31T05:33:12.434Z"
+  },
+  {
+   "id": "9a04ba670c942b03",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Donald Trump’s endgame",
+   "link": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
+   "summary": "What will the US president’s last two years in Washington look like?",
+   "date": "2026-10-31T05:00:20.000Z",
+   "fetched": "2026-10-31T05:33:12.434Z"
+  },
+  {
+   "id": "18cfb24fc5d6d80a",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+   "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+   "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+   "date": "2026-10-31T05:00:31.000Z",
+   "fetched": "2026-10-31T05:33:12.434Z"
+  },
+  {
+   "id": "9d7ec0deba1ad5eb",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "The right to be apolitical",
+   "link": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
+   "summary": "The film ‘Fatherland’ is too harsh on the uncommitted",
+   "date": "2026-10-31T05:01:09.000Z",
+   "fetched": "2026-10-31T05:33:12.434Z"
+  },
+  {
+   "id": "c959885e9e1c45a2",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Korea No.14 Special Purpose Acquisition Co., Ltd. (364950.KQ) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95MG5mYlNBbzNPQTRHTnRWcnoycWprMFpUblNNOTdKbU9YRHBSTkdfekl0ZXhaYnRpRzlWT2tnek9SM3FUYnFIN2xnX20wVElTRHVDVlNDSlcwckhOZzl6UE5JUVFQOTBr?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE95MG5mYlNBbzNPQTRHTnRWcnoycWprMFpUblNNOTdKbU9YRHBSTkdfekl0ZXhaYnRpRzlWT2tnek9SM3FUYnFIN2xnX20wVElTRHVDVlNDSlcwckhOZzl6UE5JUVFQOTBr?oc=5\" target=\"_blank\">Korea No.14 Special Purpose Acquisition Co., Ltd. (364950.KQ) Seaso",
+   "date": "2026-10-31T03:32:37.000Z",
+   "fetched": "2026-10-31T05:33:12.434Z"
+  },
+  {
+   "id": "a23b6f329b65fefe",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Spider Digital Technology Ltd. and Starlink AI Acquisition Corp Announce Definitive Business Combination Agreement - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1NGMVJsTk1yYTlwZHhxLU1Pb05mZ0xjWi1UNjI2MUFJbi1FVTg4Q2hwU2ViS2huWTNwbFNOMnBwUVM2VHJtaDRZT05WSTY4R2pmaVlmTVNjdmVLV3hGMGllNzAwU2ExelV0UlE3cm1hNEsyUGFYdjRHRkhxSVBIQWtDZHpCVWhfeHo5WXZYbGt4YlJtM0J1dzZqVDJ0dEZrTlMzYlloMjVoTGtYdksyYWhoQ1hwUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1NGMVJsTk1yYTlwZHhxLU1Pb05mZ0xjWi1UNjI2MUFJbi1FVTg4Q2hwU2ViS2huWTNwbFNOMnBwUVM2VHJtaDRZT05WSTY4R2pmaVlmTVNjdmVLV3hGMGllNzAwU2ExelV0UlE3cm1hNEsyUGFYdjRHRkhxSVBIQWtDZHpCVWhfeHo5WXZYbGt4YlJtM0J1dzZqVDJ0dEZrTlMzYlloMjVoTG",
+   "date": "2026-10-31T00:13:25.000Z",
+   "fetched": "2026-10-31T05:33:12.434Z"
+  },
+  {
+   "id": "aa2ab8e3f0bd2be2",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Price to earnings forward of Helix Acquisition Corp. III – NASDAQ:HLXC - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGRBcWFlTnhwSHpQOG1CVTJSU1VNNEZGcldUamVxS1NPeGVJNzhBTzR3TFpDSDNrZWVFekJzalZZVHRZdl9HYmNXZE5TSFBHdEU1ZUlXdTZmN3Z2TEc0SW1iTV9BeVoteHBVck44SHpPWjNIdTIxNnVobHRwdmY5bF90UWQ5blRRaWpCNGREczEyamVSamlUcW15OXk4cVRxQ3c?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGRBcWFlTnhwSHpQOG1CVTJSU1VNNEZGcldUamVxS1NPeGVJNzhBTzR3TFpDSDNrZWVFekJzalZZVHRZdl9HYmNXZE5TSFBHdEU1ZUlXdTZmN3Z2TEc0SW1iTV9BeVoteHBVck44SHpPWjNIdTIxNnVobHRwdmY5bF90UWQ5blRRaWpCNGREczEyamVSamlUcW15OXk4cVRxQ3c?oc=5\" targ",
+   "date": "2026-10-30T20:54:25.000Z",
+   "fetched": "2026-10-31T05:33:12.434Z"
+  }
+ ]
+}
