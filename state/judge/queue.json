@@ -1,5 +1,60 @@
 [
  {
+  "id": "8f9f931c752cca2a",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "כך סיפק כלכלן מהפד רווח של 1.5 טריליון דולר לסין — בתמורה לעצות חיזור - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3FCSHJNdEVxV2JmVk1GZkx2WmE2Q1JzT3NmZ1h5N3hGTFVyME1XVGlsUDFpWV9YOV9YVDlkUXVyVVVtdWNZV000OGlQUDB2eTVHaVExX2xSTHRwSnpCc1hsdHF2NV9FVV84cENGVjB4N21iM0VBaFNaZ0VhMF9KWWdEdElBUmtDcW5SWnBrWjlzZ0hrbENUNzdYVWQ4dXZ5WERMbTJRTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3FCSHJNdEVxV2JmVk1GZkx2WmE2Q1JzT3NmZ1h5N3hGTFVyME1XVGlsUDFpWV9YOV9YVDlkUXVyVVVtdWNZV000OGlQUDB2eTVHaVExX2xSTHRwSnpCc1hsdHF2NV9FVV84cENGVjB4N21iM0VBaFNaZ0VhMF9KWWdEdElBUmtDcW5SWnBrWjlzZ0hrbENUNzdYVWQ4dXZ5WERMbTJRTQ?oc=",
+  "date": "2026-10-31T05:29:00.000Z",
+  "fetched": "2026-10-31T05:33:12.434Z",
+  "fromCloud": "2026-10-31T0533.json"
+ },
+ {
+  "id": "bd20fbd0ec8833ce",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "המניה כמעט הוכפלה מתחילת השנה: וואן ספאן זינקה ב-27.3% אחרי דוח שהפתיע את וול סטריט - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SQzByTEdHQzNGdGRfRFp3bTg2eEFxNjNjMjJNajF4WF9OVUZ0N1BhVkFVSWU5S0tOek8td3lYMUl3dDFsSWNzTHRFWktNcjNpODU2ODZpTHhpczJ4dlQ5MXNCTWE5dFBzVzZHMS14bmk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5SQzByTEdHQzNGdGRfRFp3bTg2eEFxNjNjMjJNajF4WF9OVUZ0N1BhVkFVSWU5S0tOek8td3lYMUl3dDFsSWNzTHRFWktNcjNpODU2ODZpTHhpczJ4dlQ5MXNCTWE5dFBzVzZHMS14bmk?oc=5\" target=\"_blank\">המניה כמעט הוכפלה מתחילת השנה: וואן ספאן זינקה ב-27.3% א",
+  "date": "2026-10-31T05:26:00.000Z",
+  "fetched": "2026-10-31T05:33:12.434Z",
+  "fromCloud": "2026-10-31T0533.json"
+ },
+ {
+  "id": "9d7ec0deba1ad5eb",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "The right to be apolitical",
+  "link": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
+  "summary": "The film ‘Fatherland’ is too harsh on the uncommitted",
+  "date": "2026-10-31T05:01:09.000Z",
+  "fetched": "2026-10-31T05:33:12.434Z",
+  "fromCloud": "2026-10-31T0533.json"
+ },
+ {
+  "id": "18cfb24fc5d6d80a",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+  "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+  "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+  "date": "2026-10-31T05:00:31.000Z",
+  "fetched": "2026-10-31T05:33:12.434Z",
+  "fromCloud": "2026-10-31T0533.json"
+ },
+ {
+  "id": "9a04ba670c942b03",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Donald Trump’s endgame",
+  "link": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
+  "summary": "What will the US president’s last two years in Washington look like?",
+  "date": "2026-10-31T05:00:20.000Z",
+  "fetched": "2026-10-31T05:33:12.434Z",
+  "fromCloud": "2026-10-31T0533.json"
+ },
+ {
   "id": "8367552f43b1fda4",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -97,6 +152,17 @@
   "date": "2026-10-31T03:48:18.000Z",
   "fetched": "2026-10-31T04:33:12.043Z",
   "fromCloud": "2026-10-31T0433.json"
+ },
+ {
+  "id": "c959885e9e1c45a2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Korea No.14 Special Purpose Acquisition Co., Ltd. (364950.KQ) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95MG5mYlNBbzNPQTRHTnRWcnoycWprMFpUblNNOTdKbU9YRHBSTkdfekl0ZXhaYnRpRzlWT2tnek9SM3FUYnFIN2xnX20wVElTRHVDVlNDSlcwckhOZzl6UE5JUVFQOTBr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE95MG5mYlNBbzNPQTRHTnRWcnoycWprMFpUblNNOTdKbU9YRHBSTkdfekl0ZXhaYnRpRzlWT2tnek9SM3FUYnFIN2xnX20wVElTRHVDVlNDSlcwckhOZzl6UE5JUVFQOTBr?oc=5\" target=\"_blank\">Korea No.14 Special Purpose Acquisition Co., Ltd. (364950.KQ) Seaso",
+  "date": "2026-10-31T03:32:37.000Z",
+  "fetched": "2026-10-31T05:33:12.434Z",
+  "fromCloud": "2026-10-31T0533.json"
  },
  {
   "id": "a5a57dac1e6022f4",
@@ -383,6 +449,17 @@
   "date": "2026-10-31T00:14:52.000Z",
   "fetched": "2026-10-31T02:31:40.157Z",
   "fromCloud": "2026-10-31T0231.json"
+ },
+ {
+  "id": "a23b6f329b65fefe",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Spider Digital Technology Ltd. and Starlink AI Acquisition Corp Announce Definitive Business Combination Agreement - Moomoo",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1NGMVJsTk1yYTlwZHhxLU1Pb05mZ0xjWi1UNjI2MUFJbi1FVTg4Q2hwU2ViS2huWTNwbFNOMnBwUVM2VHJtaDRZT05WSTY4R2pmaVlmTVNjdmVLV3hGMGllNzAwU2ExelV0UlE3cm1hNEsyUGFYdjRHRkhxSVBIQWtDZHpCVWhfeHo5WXZYbGt4YlJtM0J1dzZqVDJ0dEZrTlMzYlloMjVoTGtYdksyYWhoQ1hwUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1NGMVJsTk1yYTlwZHhxLU1Pb05mZ0xjWi1UNjI2MUFJbi1FVTg4Q2hwU2ViS2huWTNwbFNOMnBwUVM2VHJtaDRZT05WSTY4R2pmaVlmTVNjdmVLV3hGMGllNzAwU2ExelV0UlE3cm1hNEsyUGFYdjRHRkhxSVBIQWtDZHpCVWhfeHo5WXZYbGt4YlJtM0J1dzZqVDJ0dEZrTlMzYlloMjVoTG",
+  "date": "2026-10-31T00:13:25.000Z",
+  "fetched": "2026-10-31T05:33:12.434Z",
+  "fromCloud": "2026-10-31T0533.json"
  },
  {
   "id": "2c53a06342fbc13b",
@@ -1692,6 +1769,17 @@
   "date": "2026-10-30T20:55:00.000Z",
   "fetched": "2026-10-30T22:03:12.930Z",
   "fromCloud": "2026-10-30T2203.json"
+ },
+ {
+  "id": "aa2ab8e3f0bd2be2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Price to earnings forward of Helix Acquisition Corp. III – NASDAQ:HLXC - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGRBcWFlTnhwSHpQOG1CVTJSU1VNNEZGcldUamVxS1NPeGVJNzhBTzR3TFpDSDNrZWVFekJzalZZVHRZdl9HYmNXZE5TSFBHdEU1ZUlXdTZmN3Z2TEc0SW1iTV9BeVoteHBVck44SHpPWjNIdTIxNnVobHRwdmY5bF90UWQ5blRRaWpCNGREczEyamVSamlUcW15OXk4cVRxQ3c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGRBcWFlTnhwSHpQOG1CVTJSU1VNNEZGcldUamVxS1NPeGVJNzhBTzR3TFpDSDNrZWVFekJzalZZVHRZdl9HYmNXZE5TSFBHdEU1ZUlXdTZmN3Z2TEc0SW1iTV9BeVoteHBVck44SHpPWjNIdTIxNnVobHRwdmY5bF90UWQ5blRRaWpCNGREczEyamVSamlUcW15OXk4cVRxQ3c?oc=5\" targ",
+  "date": "2026-10-30T20:54:25.000Z",
+  "fetched": "2026-10-31T05:33:12.434Z",
+  "fromCloud": "2026-10-31T0533.json"
  },
  {
   "id": "ca210322decd550f",
@@ -4730,6 +4818,17 @@
   "fromCloud": "2026-10-30T1503.json"
  },
  {
+  "id": "85f4f2d7487d915a",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "תשואות יוני 2026 – קופות גמל, קרנות השתלמות ופנסיה - Supermarker",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTRuYVpTeVA5a1lseFFuMnFxa1pfYzZOZldid1J6dXhrQ0pTdEZTWE5BLWVzTTAzTXphX0hWSDJjM05tSHBtOG9IWUVyb0J1T2xMRjAybG1LdzYtdFNsVm9HdTVSVUlXVDhHejVneUZON1hZRVdmQkdGbzhETjVxa25LSQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTRuYVpTeVA5a1lseFFuMnFxa1pfYzZOZldid1J6dXhrQ0pTdEZTWE5BLWVzTTAzTXphX0hWSDJjM05tSHBtOG9IWUVyb0J1T2xMRjAybG1LdzYtdFNsVm9HdTVSVUlXVDhHejVneUZON1hZRVdmQkdGbzhETjVxa25LSQ?oc=5\" target=\"_blank\">תשואות יוני 2026 – קופות גמל,",
+  "date": "2026-10-30T12:46:44.000Z",
+  "fetched": "2026-10-31T05:33:12.434Z",
+  "fromCloud": "2026-10-31T0533.json"
+ },
+ {
   "id": "ad3ef709a03dd81b",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -7742,93 +7841,5 @@
   "date": "2026-10-30T05:37:00.000Z",
   "fetched": "2026-10-30T07:21:26.990Z",
   "fromCloud": "2026-10-30T0721.json"
- },
- {
-  "id": "b5190322b9ee3005",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "המלכודת שהוציאה את הבריטים מסואץ: 70 שנה למלחמת סיני - גלובס",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MWUhPeElReFVZLW9WSlJfT1puaGpUYWtkZDhGVXdkLV9EUTQzeFB2X1B5YjhITUpOajJHeXFrYzJITXlVODczVGFHMHQycVA4Q0lWWTFJMUxVR2JHRlVwVXJRVzduQkNS?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MWUhPeElReFVZLW9WSlJfT1puaGpUYWtkZDhGVXdkLV9EUTQzeFB2X1B5YjhITUpOajJHeXFrYzJITXlVODczVGFHMHQycVA4Q0lWWTFJMUxVR2JHRlVwVXJRVzduQkNS?oc=5\" target=\"_blank\">המלכודת שהוציאה את הבריטים מסואץ: 70 שנה למלחמת סיני</a>&nbsp;&nbsp",
-  "date": "2026-10-30T05:24:46.000Z",
-  "fetched": "2026-10-30T06:03:12.805Z",
-  "fromCloud": "2026-10-30T0603.json"
- },
- {
-  "id": "273c02c17902bc81",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "המלכודת המוניטרית שהוציאה את הבריטים מסואץ: 70 שנה למלחמת סיני",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001561321#utm_source=RSS",
-  "summary": "70 שנה למבצע קדש, ומערכה אחת שלו כמעט נשכחה מהזיכרון הישראלי - הכלכלית &#8226; בריטניה רצתה להשאיר כוחות באזור התעלה אבל נזקקה לדולרים כדי להגן על שער הליש\"ט, ובוושינגטון סגרו את הברז &#8226; איך ישראל הענייה הייתה מוגנת יותר מפני אותו מנוף לחץ?",
-  "date": "2026-10-30T05:22:00.000Z",
-  "fetched": "2026-10-30T05:33:11.415Z",
-  "fromCloud": "2026-10-30T0533.json"
- },
- {
-  "id": "c424e1eeca3d62b6",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "גם עם הנחה של אלפי שקלים, למכונית הזו מחכה תחרות קשה",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001561351#utm_source=RSS",
-  "summary": "גרסת הפלאג&ndash;אין של הספורטאז' מציעה הנעה מעודנת, תא נוסעים שימושי, אבזור מכובד ואיכות קוריאנית &#8226; אבל היא מצטרפת באיחור לפלח שנשלט על ידי סיניות מוזלות",
-  "date": "2026-10-30T05:14:00.000Z",
-  "fetched": "2026-10-30T05:33:11.415Z",
-  "fromCloud": "2026-10-30T0533.json"
- },
- {
-  "id": "fa11289a0362b68d",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "החשמליות עקפו את הבנזין באירופה, ובישראל הן דווקא נסוגות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwNEN4TVU3NVRhaFpZX2pUX2cwNzlEM25OSjNRQzJBM2pJWHJlMFlhak42VDhiOWZsTG1SRVN4d1A5RHdUZ1kzbm5rNnRsSl9FbHpVQ0R5M01WYjNOa1NHUmpwcw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwNEN4TVU3NVRhaFpZX2pUX2cwNzlEM25OSjNRQzJBM2pJWHJlMFlhak42VDhiOWZsTG1SRVN4d1A5RHdUZ1kzbm5rNnRsSl9FbHpVQ0R5M01WYjNOa1NHUmpwcw?oc=5\" target=\"_blank\">החשמליות עקפו את הבנזין באירופה, ובישראל הן דווקא נסוגות</a>&nbsp;&nbsp;<",
-  "date": "2026-10-30T05:14:00.000Z",
-  "fetched": "2026-10-30T08:03:11.734Z",
-  "fromCloud": "2026-10-30T0803.json"
- },
- {
-  "id": "576e0c1b8f3852c6",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "טל חוטינר - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXBTMGtvYmVkcEVxYmp5c0gxX2V3eWhsRHB6d1U5NndXLXdURWpiUmxIV2FMVHdzVllqNnFNMk1Nc0hIMG1RcExfZ0MyNnFMSGJva0Flc2V2QXptdkl1cVZSMUt1TFk0ZGY5R0JzR1NQaTlNWDB4ZFBfLWlweDNtV2thYWFrSzQwRVE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXBTMGtvYmVkcEVxYmp5c0gxX2V3eWhsRHB6d1U5NndXLXdURWpiUmxIV2FMVHdzVllqNnFNMk1Nc0hIMG1RcExfZ0MyNnFMSGJva0Flc2V2QXptdkl1cVZSMUt1TFk0ZGY5R0JzR1NQaTlNWDB4ZFBfLWlweDNtV2thYWFrSzQwRVE?oc=5\" target=\"_blank\">טל חוטינר</a>&nbsp;&",
-  "date": "2026-10-30T05:11:02.000Z",
-  "fetched": "2026-10-30T09:03:12.574Z",
-  "fromCloud": "2026-10-30T0903.json"
- },
- {
-  "id": "330a69385f685426",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "כיסא הגלגלים אבד בטיסה? חברת התעופה תספק תחליף: כך משתנות זכויות הנוסעים עם מוגבלות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85cnRKaDhUc2Nxd3BrSnVyRTRWdUJjcWZ5ZUNHeEIzZ3NIdTFYYUJLbndQcDMzNFdoanlUd2JiYkU2VmJfOS1CQllWc2cxOXY2blpPRlQzaFRKRzBOSFV1c0lfVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE85cnRKaDhUc2Nxd3BrSnVyRTRWdUJjcWZ5ZUNHeEIzZ3NIdTFYYUJLbndQcDMzNFdoanlUd2JiYkU2VmJfOS1CQllWc2cxOXY2blpPRlQzaFRKRzBOSFV1c0lfVQ?oc=5\" target=\"_blank\">כיסא הגלגלים אבד בטיסה? חברת התעופה תספק תחליף: כך משתנות זכויות הנוסעים ",
-  "date": "2026-10-30T05:10:00.000Z",
-  "fetched": "2026-10-30T08:03:11.734Z",
-  "fromCloud": "2026-10-30T0803.json"
- },
- {
-  "id": "89677f655ad4c5b6",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "\"הוא היה יושב כמו כלב במזנון הכנסת - ואז התחיל מצעד המתחנפים\"",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001560906#utm_source=RSS",
-  "summary": "מצעד המתרפסים, המלחמה על החדרים ומי תקע למי סכין בגב: בעלי תפקידים שהקיפו ראשי ממשלות חוזרים ונזכרים במה שהתרחש בימים שאחרי הבחירות באקווריום &#8226; מגולדה מאיר, דרך אהוד אולמרט ועד בנימין נתניהו: הצצה אל מאחורי הקלעים של לשכת ראש הממשלה ברגעים הכי סוערים",
-  "date": "2026-10-30T05:09:00.000Z",
-  "fetched": "2026-10-30T05:33:11.415Z",
-  "fromCloud": "2026-10-30T0533.json"
- },
- {
-  "id": "866771057682d8c9",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "הערכה באיראן: תקיפה נוספת תתרחש במטרה להפיל את המשטר",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001561437#utm_source=RSS",
-  "summary": "\"ההזדמנות לתקיפה ישראלית-אמריקאית תיפתח\": בטהרן מתכוננים לסוף בחירות האמצע בארה\"ב &#8226; לפי ההערכה באיראן, המטרה תהיה להעמיק את השיתוק הכלכלי ובהמשך לנסות להפיל את המשטר &#8226; גם איזנקוט נתפס כמי שעשוי להמשיך בקו הניצי של נתניהו &#8226; בינתיים, האיראנים אינם משנים את עמדותיה",
-  "date": "2026-10-30T05:04:00.000Z",
-  "fetched": "2026-10-30T05:33:11.415Z",
-  "fromCloud": "2026-10-30T0533.json"
  }
 ]
