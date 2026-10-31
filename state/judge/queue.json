@@ -11,6 +11,17 @@
   "fromCloud": "2026-10-31T2003.json"
  },
  {
+  "id": "aabb582fc17f150f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Deep Sea Minerals Corp – DUS:X450 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0k4ek1PNUdadzcwdVNnREhiNlZUTjBrelE2Z3BHZVFKbmhyRFg1YkhJem84cVJfYUpfVV9KM0t6cmt6ZjQwZmZkZmsyV2NGamIzQlhKdDlaYjJldnFLQWpZNUlZN0IyVWtQTXFrRkNRZ2QxWmktU0UxRmlLYkpNWlprYzluOU9Yc21hOUwxcXZ0cVpTeWF0VXhqLVNISVVCVnUzYUp3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0k4ek1PNUdadzcwdVNnREhiNlZUTjBrelE2Z3BHZVFKbmhyRFg1YkhJem84cVJfYUpfVV9KM0t6cmt6ZjQwZmZkZmsyV2NGamIzQlhKdDlaYjJldnFLQWpZNUlZN0IyVWtQTXFrRkNRZ2QxWmktU0UxRmlLYkpNWlprYzluOU9Yc21hOUwxcXZ0cVpTeWF0VXhqLVNISVVCVnUzYUp3?oc=5\"",
+  "date": "2026-10-31T19:39:07.000Z",
+  "fetched": "2026-10-31T20:33:12.014Z",
+  "fromCloud": "2026-10-31T2033.json"
+ },
+ {
   "id": "1391b95396bae5c2",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -75,6 +86,17 @@
   "date": "2026-10-31T18:32:00.000Z",
   "fetched": "2026-10-31T19:03:12.742Z",
   "fromCloud": "2026-10-31T1903.json"
+ },
+ {
+  "id": "ecafee7f26955aed",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הפחד מה-AI טיפס לקומת ההנהלה: כמעט שליש מבעלי ההכנסות הגבוהות בארה\"ב רואים בו את האיום הגדול על המשרה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83YWxzRWVRazRxQ1NSelRtX19PNUN6ZFotRUtJaWJCMUlIdUZUbkZKQVByZC1raXNySXR2SmkyNHNZb3E3NHQweTQzb041bkNvR2RYZ2NIU19DSE9iSFpDOWRPSXZVa00?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83YWxzRWVRazRxQ1NSelRtX19PNUN6ZFotRUtJaWJCMUlIdUZUbkZKQVByZC1raXNySXR2SmkyNHNZb3E3NHQweTQzb041bkNvR2RYZ2NIU19DSE9iSFpDOWRPSXZVa00?oc=5\" target=\"_blank\">הפחד מה-AI טיפס לקומת ההנהלה: כמעט שליש מבעלי ההכנסות הגבוהות בארה\"ב",
+  "date": "2026-10-31T18:28:00.000Z",
+  "fetched": "2026-10-31T20:33:12.014Z",
+  "fromCloud": "2026-10-31T2033.json"
  },
  {
   "id": "c806e45d6161b7be",
@@ -2055,6 +2077,17 @@
   "date": "2026-10-31T03:19:00.000Z",
   "fetched": "2026-10-31T03:33:15.111Z",
   "fromCloud": "2026-10-31T0333.json"
+ },
+ {
+  "id": "5097d722604bd9c8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Mirae Asset Vision Special Purpose Acquisition 5 Company Estimates – KRX:477470 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2FwSnFhd2Z5YmV6ZU5Xa3RmQ0UyOWhJRGFQenNWdEF4VHBiUEwwU2NpdzFUcEpaZ0Y2b096X0F3VFQ3cTYtZ0paRGtib2t5TUhueTJ3RldOZ0ZMcTBZTzJhU0ptS1VGZHhxdE5YZEppOXhoUmNpMXVXeEoyOWU0aWFZel9oUnRrczJEMk9sVnU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2FwSnFhd2Z5YmV6ZU5Xa3RmQ0UyOWhJRGFQenNWdEF4VHBiUEwwU2NpdzFUcEpaZ0Y2b096X0F3VFQ3cTYtZ0paRGtib2t5TUhueTJ3RldOZ0ZMcTBZTzJhU0ptS1VGZHhxdE5YZEppOXhoUmNpMXVXeEoyOWU0aWFZel9oUnRrczJEMk9sVnU?oc=5\" target=\"_blank\">Mirae Asset ",
+  "date": "2026-10-31T03:18:21.000Z",
+  "fetched": "2026-10-31T20:33:12.014Z",
+  "fromCloud": "2026-10-31T2033.json"
  },
  {
   "id": "19227cb847fe9da6",
@@ -4068,181 +4101,5 @@
   "date": "2026-10-30T20:36:13.000Z",
   "fetched": "2026-10-31T12:03:11.375Z",
   "fromCloud": "2026-10-31T1203.json"
- },
- {
-  "id": "3fdd69a0707e61c4",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Sow Good Extends Tanzania Acquisition Deadline to December 15 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGFNT05JbVRhT3ViczhlODRzbXpCME04OW1iQnZxOFl0c0h1bUxFbkllTUh2Wkk0U2hKaWlxWFpGcnVvMkFLZnpYZGg5dDNHUXpydnI3a282WHhJc1AtSFY5Wml6ay0yMzhsNk1aN09wME51VGdMVDlMZU9FcHFndTY0ZEd5V2NpYkNJc3BUVnp6RFp4SzVINXRMTk5oRDFkQTVvUUxuN2l1U0IyQmZaZ18xdGlyVmRxVHRXR2d2Y04?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGFNT05JbVRhT3ViczhlODRzbXpCME04OW1iQnZxOFl0c0h1bUxFbkllTUh2Wkk0U2hKaWlxWFpGcnVvMkFLZnpYZGg5dDNHUXpydnI3a282WHhJc1AtSFY5Wml6ay0yMzhsNk1aN09wME51VGdMVDlMZU9FcHFndTY0ZEd5V2NpYkNJc3BUVnp6RFp4SzVINXRMTk5oRDFkQTVvUUxuN2l1U0",
-  "date": "2026-10-30T20:33:01.000Z",
-  "fetched": "2026-10-30T21:33:15.868Z",
-  "fromCloud": "2026-10-30T2133.json"
- },
- {
-  "id": "0e1cc4955b0110a9",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הקקאו הזול מחזיר את הרווח: מונדלז, יצרנית האוראו, קפצה ב-3.9% אחרי הדוח - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odEJ0ZFBRS3E0Ql9POWZtMTNLTE1veWo5ZThEQWdCR2pYZlZOOVN0QVNwRXJ4azRyS05HNDRoTVhMcXQ2NmJMelNkZlFfS0N5bFdMa1JHYjBZRmZDX0Ita2dIV2Y0QmJ3SU4xeDJ5WUY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5odEJ0ZFBRS3E0Ql9POWZtMTNLTE1veWo5ZThEQWdCR2pYZlZOOVN0QVNwRXJ4azRyS05HNDRoTVhMcXQ2NmJMelNkZlFfS0N5bFdMa1JHYjBZRmZDX0Ita2dIV2Y0QmJ3SU4xeDJ5WUY?oc=5\" target=\"_blank\">הקקאו הזול מחזיר את הרווח: מונדלז, יצרנית האוראו, קפצה ב",
-  "date": "2026-10-30T20:33:00.000Z",
-  "fetched": "2026-10-30T21:03:12.513Z",
-  "fromCloud": "2026-10-30T2103.json"
- },
- {
-  "id": "050cf4d9ea0cd4e3",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - CITIZENS FINANCIAL GROUP INC/RI (0000759944) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/759944/000119312526441754/0001193125-26-441754-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-441754 <b>Size:</b> 201 KB <br>Item 4.01: Changes in Registrant's Certifying Accountant <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T20:30:35.000Z",
-  "fetched": "2026-10-30T20:33:11.700Z",
-  "fromCloud": "2026-10-30T2033.json"
- },
- {
-  "id": "ce41d04476163f4b",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Hawkeye Digital, Inc. (0001750777) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1750777/000168316826008200/0001683168-26-008200-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001683168-26-008200 <b>Size:</b> 182 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-  "date": "2026-10-30T20:30:31.000Z",
-  "fetched": "2026-10-30T20:33:11.700Z",
-  "fromCloud": "2026-10-30T2033.json"
- },
- {
-  "id": "a82e8b08dc2fa4d2",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Bogota Financial Corp. (0001787414) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1787414/000094337426000471/0000943374-26-000471-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0000943374-26-000471 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T20:30:16.000Z",
-  "fetched": "2026-10-30T20:33:11.700Z",
-  "fromCloud": "2026-10-30T2033.json"
- },
- {
-  "id": "48725db0853f94db",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - North Haven Net REIT (0001999784) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000078/0001999784-26-000078-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001999784-26-000078 <b>Size:</b> 187 KB <br>Item 7.01: Regulation FD Disclosure",
-  "date": "2026-10-30T20:30:15.000Z",
-  "fetched": "2026-10-30T20:33:11.700Z",
-  "fromCloud": "2026-10-30T2033.json"
- },
- {
-  "id": "5694e6a93998ecbb",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Proficient Auto Logistics, Inc (0001998768) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1998768/000121390026114421/0001213900-26-114421-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001213900-26-114421 <b>Size:</b> 1 MB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 7.01: Regulation FD Disclosure <",
-  "date": "2026-10-30T20:30:15.000Z",
-  "fetched": "2026-10-30T20:33:11.700Z",
-  "fromCloud": "2026-10-30T2033.json"
- },
- {
-  "id": "5add07090d47efda",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Gladstone Investment Corporation Supports Smart Chemical Solutions' Acquisition of Polymer Technologies - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSmtIbm9DcUpqY2VzWnJ6VjdCTHRJa0RSMHhrZXg0YnN0NUpKaW82eXJuXzA2WEhEVE1ITGFad2kzNDB1V1l5MnNtSVBhT2I0OEJJMzZ4Z1EwQVBoQjZxZEFmMXVBS1dGeTdWVEx1QU1jWE1scENpNE16RE82U0tyUC1LV0lzUkFuMXFiNUR3aTRxQWQwLWgwcUVjOUtXRFR6bmswaGxvLUdZZTVrU0N6UFZFalRxMHJmeEdpa1ZnWi1kcVV3dlZ3ejFNdjVNTFNIY2UxQjNMcVRzbFl2VW5BVXFIZkh1ckhCbUhmZzB0X191aGsz?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSmtIbm9DcUpqY2VzWnJ6VjdCTHRJa0RSMHhrZXg0YnN0NUpKaW82eXJuXzA2WEhEVE1ITGFad2kzNDB1V1l5MnNtSVBhT2I0OEJJMzZ4Z1EwQVBoQjZxZEFmMXVBS1dGeTdWVEx1QU1jWE1scENpNE16RE82U0tyUC1LV0lzUkFuMXFiNUR3aTRxQWQwLWgwcUVjOUtXRFR6bmswaGxvLUdZZT",
-  "date": "2026-10-30T20:30:00.000Z",
-  "fetched": "2026-10-30T21:33:15.868Z",
-  "fromCloud": "2026-10-30T2133.json"
- },
- {
-  "id": "b21bf06754fa7b27",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - STANDEX INTERNATIONAL CORP/DE/ (0000310354) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/310354/000143774926034218/0001437749-26-034218-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001437749-26-034218 <b>Size:</b> 737 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T20:28:28.000Z",
-  "fetched": "2026-10-30T20:33:11.700Z",
-  "fromCloud": "2026-10-30T2033.json"
- },
- {
-  "id": "8e6c93ae4e9155c4",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "U.S. Army Reveals LRPM Demo Plan, Acquisition Details - Aviation Week",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnVIU3BKQVB1bFlCX2cxNkRodzN0Z1lmWmNObEFEQ3JGTjNLbVNHSGRkZVpmNkFobHVSM3pJVFpSRXN4M2hCQ3BLdk9PUnNtQjlqVEhGS1JjcU4xR0J0OTAwSU5kZlBMQTV2Unl3NVRXMFFsSXBkT1pDaGdsMVE1MXl3cVdMUGV2czc4NFB4N0FxbG53TmVzUXpnNzltVjlReW50SmFwQi0tYUk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnVIU3BKQVB1bFlCX2cxNkRodzN0Z1lmWmNObEFEQ3JGTjNLbVNHSGRkZVpmNkFobHVSM3pJVFpSRXN4M2hCQ3BLdk9PUnNtQjlqVEhGS1JjcU4xR0J0OTAwSU5kZlBMQTV2Unl3NVRXMFFsSXBkT1pDaGdsMVE1MXl3cVdMUGV2czc4NFB4N0FxbG53TmVzUXpnNzltVjlReW50SmFwQi0tYU",
-  "date": "2026-10-30T20:27:08.000Z",
-  "fetched": "2026-10-30T21:03:12.513Z",
-  "fromCloud": "2026-10-30T2103.json"
- },
- {
-  "id": "79358b1b32447e87",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "HWBK: Higher earnings and margin, with FSC acquisition fueling balance-sheet growth - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPN2ZxWGoyelRPWmtDbXFjVWZCd09sQ1p6c3VmUmR5dC1fVW1ZUmxOcHNIbWtULW8yVzlGLV9ORHcxN3FEVmdQdlJ5TkRXQ2lpQnVYTW9xZ0UwLVBTWVY4UDV5eTBySms0YVQyNmk4bXF5SFdUakhkS1EwTGoyY2NmSmVZa3BDbGVXOUh0NGxWUlo4bGd1U3pPS2N6NWN0eGRxMElzRGwzZGtHSHY2X0dMaHBlQ0p0NUxmYUxhTTZONnhyWWRjQXM3RVpGZzc0bVNIaFd0Sl9LZjdQVUNKdVdla3IxMWpFaXpfdjgwY2ZETlJkNW95NWFJ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPN2ZxWGoyelRPWmtDbXFjVWZCd09sQ1p6c3VmUmR5dC1fVW1ZUmxOcHNIbWtULW8yVzlGLV9ORHcxN3FEVmdQdlJ5TkRXQ2lpQnVYTW9xZ0UwLVBTWVY4UDV5eTBySms0YVQyNmk4bXF5SFdUakhkS1EwTGoyY2NmSmVZa3BDbGVXOUh0NGxWUlo4bGd1U3pPS2N6NWN0eGRxMElzRGwzZGtHSH",
-  "date": "2026-10-30T20:20:36.000Z",
-  "fetched": "2026-10-30T21:33:15.868Z",
-  "fromCloud": "2026-10-30T2133.json"
- },
- {
-  "id": "b5c97af16489b08f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "FHI: Q3 earnings and assets grew, led by equity strength and the FCP acquisition - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTVFaYW1mckZJUTJYRU5Zcm5BTjhKZmhtekdVRkpiMWJ3bXFQMU00UTA2NVZnXzhVQU1WMnpSaEJwTXFQOU9va1M4bnJvVzJZTXNtY1ZFbDBORWg3VnJiRDV0RzhJa2JMUzhuQVBtZVljNk1zNm1wSEVwNkVLVlBOR3ZmWFBSdGlZSng4bWxzZFhxQURETlhZMlBNVlBLV0d2UVdTeFhKcFc4UFU3TVVPa3Y3ck9hVXRtbnJZUjBPSkwwZXBrLTRsVVpxTnREMlFCYmMtQ1ZuZ1dRalBwM2pxc1o1MHI0YUlLcWRpcDh3UEVNMjA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTVFaYW1mckZJUTJYRU5Zcm5BTjhKZmhtekdVRkpiMWJ3bXFQMU00UTA2NVZnXzhVQU1WMnpSaEJwTXFQOU9va1M4bnJvVzJZTXNtY1ZFbDBORWg3VnJiRDV0RzhJa2JMUzhuQVBtZVljNk1zNm1wSEVwNkVLVlBOR3ZmWFBSdGlZSng4bWxzZFhxQURETlhZMlBNVlBLV0d2UVdTeFhKcFc4UF",
-  "date": "2026-10-30T20:17:35.000Z",
-  "fetched": "2026-10-30T21:33:15.868Z",
-  "fromCloud": "2026-10-30T2133.json"
- },
- {
-  "id": "504794789d0ebc5d",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הדוח עקף את התחזיות, והמניה נפלה ב-14.8%: למה המשקיעים ברחו מטוויליו - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40VG1yT0JNX2xOV2tQSVFqRExaTzZGcHczV2txRWFuelU1d0RabDJKUnVqYWFLMWZobnRVTmlSbm9zSldQWkwtWDg2Z1lLN2pHRkxfV3lDcWNqTjhyNnFtS2M0bDYwSTREV2lmT2JxaWY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE40VG1yT0JNX2xOV2tQSVFqRExaTzZGcHczV2txRWFuelU1d0RabDJKUnVqYWFLMWZobnRVTmlSbm9zSldQWkwtWDg2Z1lLN2pHRkxfV3lDcWNqTjhyNnFtS2M0bDYwSTREV2lmT2JxaWY?oc=5\" target=\"_blank\">הדוח עקף את התחזיות, והמניה נפלה ב-14.8%: למה המשקיעים ב",
-  "date": "2026-10-30T20:15:00.000Z",
-  "fetched": "2026-10-30T20:33:11.700Z",
-  "fromCloud": "2026-10-30T2033.json"
- },
- {
-  "id": "bc6ac4d1890c70a3",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "South Africa’s Cape Conference CFO Suspension Fuels Calls for Independent Review - Spectrum Magazine",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXpWWGpWYVJ0VXNvU3J1NXJJZDBkX2lDN25SOE5aeC1GcXZsQkJydXRKWUszRS1oa241eG1KWS03X1BxbjZzaDhpQnZVVmhIWmpMaDg1Z09YQ2haOTVpM2MwUUYzb0VzWVJkVVRwR0hmYU5vNmROTWpidEl5X3o0MllRU3JPaURCWU5qVTJZck9QQzBZOV8yb2xkVGxNR2h1eUlkTVdZdGlySkJXTjRrYXFhTUk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXpWWGpWYVJ0VXNvU3J1NXJJZDBkX2lDN25SOE5aeC1GcXZsQkJydXRKWUszRS1oa241eG1KWS03X1BxbjZzaDhpQnZVVmhIWmpMaDg1Z09YQ2haOTVpM2MwUUYzb0VzWVJkVVRwR0hmYU5vNmROTWpidEl5X3o0MllRU3JPaURCWU5qVTJZck9QQzBZOV8yb2xkVGxNR2h1eUlkTVdZdGlySk",
-  "date": "2026-10-30T20:12:03.000Z",
-  "fetched": "2026-10-31T02:03:13.349Z",
-  "fromCloud": "2026-10-31T0203.json"
- },
- {
-  "id": "c50a7752db2ea62a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "M/I Homes Ex. Vice President, CFO Sold Shares Worth Over $2.5M - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenVXQjZCQUtOWlVTWWtqdFlON2VzWnNZNTR5LTZXSllncFVxZlVfSVIyN2VxQ1ZadUoxVlozRThkYzVva3NOa0xqeDVrdFE0dmxZc0VuV0tHT3hsdlhKbE1tWXoyUDd6N2QwaVpUV3FYbFVTQkRYTFRBWnh6LXVZVHFFclFGZW8tR2dUaW5mVjBoam16UVR1V2dVR19yUFpiTzRheUhFY290V05lbzZVT3VnZGJlSHBhOHhka3FR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOenVXQjZCQUtOWlVTWWtqdFlON2VzWnNZNTR5LTZXSllncFVxZlVfSVIyN2VxQ1ZadUoxVlozRThkYzVva3NOa0xqeDVrdFE0dmxZc0VuV0tHT3hsdlhKbE1tWXoyUDd6N2QwaVpUV3FYbFVTQkRYTFRBWnh6LXVZVHFFclFGZW8tR2dUaW5mVjBoam16UVR1V2dVR19yUFpiTzRheUhFY290V0",
-  "date": "2026-10-30T20:10:00.000Z",
-  "fetched": "2026-10-30T21:33:15.868Z",
-  "fromCloud": "2026-10-30T2133.json"
- },
- {
-  "id": "60b99ac0d0fc98e2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Oracle Stocks Decline 6.17% With Funding Ceiling Excluding Debt Refinancing - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQjNOd2xiWG45WWhyamVlUFpVUWNEVDMtbTdwSGRVSDJtb3F6aVg2bUVTZ21ibHBUT2k1YlVLNGRob1JtdWQzME5Jc3A1RjFsckxCYXRUS3NEWU1XU2lmMHZHbmtBajEtX1pGWTFUcWJyd3hybFJJR2dHTjN5WFVOWHVxMjRKekE5a0M0a3VpdGpUdjhITFY2Q2owUUlUeVVlaExiWVREdFAxYldvNGpFWFJOQjZsblY3cFhlLWxwaXNWVDBqUnF2QTRMdTl3MkE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNQjNOd2xiWG45WWhyamVlUFpVUWNEVDMtbTdwSGRVSDJtb3F6aVg2bUVTZ21ibHBUT2k1YlVLNGRob1JtdWQzME5Jc3A1RjFsckxCYXRUS3NEWU1XU2lmMHZHbmtBajEtX1pGWTFUcWJyd3hybFJJR2dHTjN5WFVOWHVxMjRKekE5a0M0a3VpdGpUdjhITFY2Q2owUUlUeVVlaExiWVREdFAxYl",
-  "date": "2026-10-30T20:04:12.000Z",
-  "fetched": "2026-10-30T20:33:11.700Z",
-  "fromCloud": "2026-10-30T2033.json"
  }
 ]
