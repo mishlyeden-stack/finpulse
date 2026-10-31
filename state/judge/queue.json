@@ -1,5 +1,16 @@
 [
  {
+  "id": "da8844bbf2eb1e19",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+  "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+  "summary": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
+  "date": "2026-10-31T12:00:01.000Z",
+  "fetched": "2026-10-31T12:03:11.375Z",
+  "fromCloud": "2026-10-31T1203.json"
+ },
+ {
   "id": "6e854cd583b6fa92",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -9,6 +20,17 @@
   "date": "2026-10-31T11:30:00.000Z",
   "fetched": "2026-10-31T11:33:12.282Z",
   "fromCloud": "2026-10-31T1133.json"
+ },
+ {
+  "id": "cc63c9ebc7b3385e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tampa General promotes executive to CFO amid expansion - Business Observer",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3E5UHFiclMteVJTdFNuTWJweVZhQlRidHJFZ210NFBmSHdoWTZQRklHZlU4c3ktMFk2eDgydmYzUlpzbm5tUGJaZGRRZkU0LWk0SWVJTGFWVVF1NnI5QUdCeUk4ZEEybUlNVDJzTWFpNzRkUkF6RExNd2NVVDc1NDIxV29KUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3E5UHFiclMteVJTdFNuTWJweVZhQlRidHJFZ210NFBmSHdoWTZQRklHZlU4c3ktMFk2eDgydmYzUlpzbm5tUGJaZGRRZkU0LWk0SWVJTGFWVVF1NnI5QUdCeUk4ZEEybUlNVDJzTWFpNzRkUkF6RExNd2NVVDc1NDIxV29KUQ?oc=5\" target=\"_blank\">Tampa General promotes ex",
+  "date": "2026-10-31T11:30:00.000Z",
+  "fetched": "2026-10-31T12:03:11.375Z",
+  "fromCloud": "2026-10-31T1203.json"
  },
  {
   "id": "bcd9f1fd42408eca",
@@ -31,6 +53,17 @@
   "date": "2026-10-31T11:00:00.000Z",
   "fetched": "2026-10-31T11:33:12.282Z",
   "fromCloud": "2026-10-31T1133.json"
+ },
+ {
+  "id": "626953acaf25cb0f",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "בוגדן שוויינצ'קובסקי - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXh1QVhQMkRNQmw2b3c5SGNwVG9ZblJPNDNwQm5fdGoyQjdleldaOGNGZU50SjQtOWI3Zy02RG1oUFZocUNyeFBHTHlkUWNzNldaVV9hck0zaTYzcllNdW5SZzc5d1h3Zm0yWllISHo0aTFOM0FVQUVEMHNtNW1jV2dxVmNWWUlBUXF2cnVxbXUyc1hrX241V0VMWXRzN3pFLXRJUGpWQlMxMVkzQmdseGZMR09QanU3NmNkZVg0OVZZUzdVdC1vRFZHdUYzY0xsd3k0cUhBbTNQYW8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXh1QVhQMkRNQmw2b3c5SGNwVG9ZblJPNDNwQm5fdGoyQjdleldaOGNGZU50SjQtOWI3Zy02RG1oUFZocUNyeFBHTHlkUWNzNldaVV9hck0zaTYzcllNdW5SZzc5d1h3Zm0yWllISHo0aTFOM0FVQUVEMHNtNW1jV2dxVmNWWUlBUXF2cnVxbXUyc1hrX241V0VMWXRzN3pFLXRJUGpWQlMxMV",
+  "date": "2026-10-31T10:59:41.000Z",
+  "fetched": "2026-10-31T12:03:11.375Z",
+  "fromCloud": "2026-10-31T1203.json"
  },
  {
   "id": "b3bda45369846f06",
@@ -86,6 +119,17 @@
   "date": "2026-10-31T09:53:44.000Z",
   "fetched": "2026-10-31T11:03:12.138Z",
   "fromCloud": "2026-10-31T1103.json"
+ },
+ {
+  "id": "bc1981c5791839d7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of DEEP SEA MINERALS CORP – OTC:DSEAF - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHQzT3hOWnNscXcxY2MxMU5va3lYbVZTbXJPbFNtNzI0UnBiODllMEhGcGEyazZtSVlQdXZrWUo5ZU9mNnRMVl9FSTJoQUtSUi1kSmNPU1VIS2N6YzRTVDh3eV9tN2FON1EwbGl2Z29QNmJxdjMyV2VBZjJSRTJJSVVHYWdtWnF1bVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHQzT3hOWnNscXcxY2MxMU5va3lYbVZTbXJPbFNtNzI0UnBiODllMEhGcGEyazZtSVlQdXZrWUo5ZU9mNnRMVl9FSTJoQUtSUi1kSmNPU1VIS2N6YzRTVDh3eV9tN2FON1EwbGl2Z29QNmJxdjMyV2VBZjJSRTJJSVVHYWdtWnF1bVE?oc=5\" target=\"_blank\">Free cash flow of DE",
+  "date": "2026-10-31T09:51:06.000Z",
+  "fetched": "2026-10-31T12:03:11.375Z",
+  "fromCloud": "2026-10-31T1203.json"
  },
  {
   "id": "c9efb345b89e1e47",
@@ -473,6 +517,17 @@
   "fromCloud": "2026-10-31T0633.json"
  },
  {
+  "id": "51b2a36f5f9f9fc9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Kimberly Clark (KMB) Stock Could Be 26% Below Fair Value On Debt Funded Acquisition - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3o1NjNZQTluem1taGxac18tRWtQYTg5M2VQUlNBMnc2S3hiaXV4ejB0ME1fUEdlUGRsSE5kNXIxekwyOTVZR21aaFk4NWdpWTAtR0tEeGEtTDZxak1ORVlVaDE1UUhtQjNuS2N4VHBUVWgyNEp3eXQ3bS1WcUtfUUl2Sm9ERlZxWnZOczExbEdTcXhRcERrdlp6VQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3o1NjNZQTluem1taGxac18tRWtQYTg5M2VQUlNBMnc2S3hiaXV4ejB0ME1fUEdlUGRsSE5kNXIxekwyOTVZR21aaFk4NWdpWTAtR0tEeGEtTDZxak1ORVlVaDE1UUhtQjNuS2N4VHBUVWgyNEp3eXQ3bS1WcUtfUUl2Sm9ERlZxWnZOczExbEdTcXhRcERrdlp6VQ?oc=5\" target=\"_blan",
+  "date": "2026-10-31T06:18:00.000Z",
+  "fetched": "2026-10-31T12:03:11.375Z",
+  "fromCloud": "2026-10-31T1203.json"
+ },
+ {
   "id": "be770ae3c0e23bd5",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -845,6 +900,17 @@
   "date": "2026-10-31T04:00:21.000Z",
   "fetched": "2026-10-31T04:03:12.493Z",
   "fromCloud": "2026-10-31T0403.json"
+ },
+ {
+  "id": "bfdfe68714f5d752",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of CRITICAL COPPER MINING CORP – CSE:CCCU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFVLaWQwR3NNTjh0MjRJaWV3RUJGMmtwdF85MDFCM2Z5cUx6MEVfVlhZNlNBbFhBd1ZIVUsyb0x0X3hFTy01YWNHQV83QWFyZEVTODJBRHRIa0lHNXVDN0ktYVdmWllrTU9IaVJUclp4ejlKMC0xLWVNMGp2U3EwWElYdmVlRXRMVHJrbmZFek8xMjFsekNFd21CTzZxNHhUNE1fd1F3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFVLaWQwR3NNTjh0MjRJaWV3RUJGMmtwdF85MDFCM2Z5cUx6MEVfVlhZNlNBbFhBd1ZIVUsyb0x0X3hFTy01YWNHQV83QWFyZEVTODJBRHRIa0lHNXVDN0ktYVdmWllrTU9IaVJUclp4ejlKMC0xLWVNMGp2U3EwWElYdmVlRXRMVHJrbmZFek8xMjFsekNFd21CTzZxNHhUNE1fd1F3?oc=5\"",
+  "date": "2026-10-31T03:55:40.000Z",
+  "fetched": "2026-10-31T12:03:11.375Z",
+  "fromCloud": "2026-10-31T1203.json"
  },
  {
   "id": "75f7914d2504728a",
@@ -2704,6 +2770,17 @@
   "date": "2026-10-30T20:41:01.000Z",
   "fetched": "2026-10-30T21:33:15.868Z",
   "fromCloud": "2026-10-30T2133.json"
+ },
+ {
+  "id": "9ec2d6badbd3ee0b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Scotiabank Completes Acquisition of Remaining Scotia Group Jamaica Shares for CA$600 Million - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmJybTIzbnhzZmJPOUVCbkZqUkowZXdZLXRMbkhRTkRUMXUwUzZGMDlfRGpPUTg0ZmxPTkExOVFNa29iV1Y3LU5kd0ExOWNXdUE4RTF1eE05aWo2Y2lDX1VRTVdRWFZRWk9PTkxIaVVRTWszbGZyNzVva3FhUlhoSWxDMDVjN3I0YjI1QXlqZXEwMHk1dFdaRWVZNmExYnZVZjRtd2F2TzB2cDZ3NUlCNmtCeUs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmJybTIzbnhzZmJPOUVCbkZqUkowZXdZLXRMbkhRTkRUMXUwUzZGMDlfRGpPUTg0ZmxPTkExOVFNa29iV1Y3LU5kd0ExOWNXdUE4RTF1eE05aWo2Y2lDX1VRTVdRWFZRWk9PTkxIaVVRTWszbGZyNzVva3FhUlhoSWxDMDVjN3I0YjI1QXlqZXEwMHk1dFdaRWVZNmExYnZVZjRtd2F2TzB2cD",
+  "date": "2026-10-30T20:36:13.000Z",
+  "fetched": "2026-10-31T12:03:11.375Z",
+  "fromCloud": "2026-10-31T1203.json"
  },
  {
   "id": "3fdd69a0707e61c4",
@@ -6345,225 +6422,5 @@
   "date": "2026-10-30T12:03:31.000Z",
   "fetched": "2026-10-30T12:33:13.055Z",
   "fromCloud": "2026-10-30T1233.json"
- },
- {
-  "id": "ec3cf38aaaf015f3",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Setara Biosciences Raises $90 Million Series A Following Jazz Pharmaceuticals’ Acquisition of Actio - citybiz",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTNQNVNmSXVfSUJ2M2xwZ29HbUdady1tYlFoRWRqQUlURFBldUhaQkZBN0xPTm1Odk1hX3ByRUp0Y1BUN1JzaG5kN3B1dUxxd3QzV1g5eGR2QmZGaUtMeHpwbURfcFpXeHhLQVg5aFFWbHJweDRhc3ZXeTRLUEdPVmRtVXlsbkY2VkRkc3Z6NWxNclJDLVlBdmZna3h1VmR3RTJaeF94aTdBYV9CcWhidXlBNjZ5bVlhal9ROUk0RVd2bWdkQXl5VjFRdzlVbi1aZWc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTNQNVNmSXVfSUJ2M2xwZ29HbUdady1tYlFoRWRqQUlURFBldUhaQkZBN0xPTm1Odk1hX3ByRUp0Y1BUN1JzaG5kN3B1dUxxd3QzV1g5eGR2QmZGaUtMeHpwbURfcFpXeHhLQVg5aFFWbHJweDRhc3ZXeTRLUEdPVmRtVXlsbkY2VkRkc3Z6NWxNclJDLVlBdmZna3h1VmR3RTJaeF94aTdBYV",
-  "date": "2026-10-30T12:03:02.000Z",
-  "fetched": "2026-10-30T12:33:13.055Z",
-  "fromCloud": "2026-10-30T1233.json"
- },
- {
-  "id": "cf72417d01aca399",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "פשיטה על בית הימורים בחיפה: שני חשודים נעצרו, אלפי שקלים ומחשבים נתפסו - HKN חיפה והקריות",
-  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HeFNEcHp6X0twMmlLdUptYU1LaFhoMDhoeFFsOVhLN3lpMzlCWV9lT3A0ZFJGWndlV29CUFVBemdXeHcxdEdweA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HeFNEcHp6X0twMmlLdUptYU1LaFhoMDhoeFFsOVhLN3lpMzlCWV9lT3A0ZFJGWndlV29CUFVBemdXeHcxdEdweA?oc=5\" target=\"_blank\">פשיטה על בית הימורים בחיפה: שני חשודים נעצרו, אלפי שקלים ומחשבים נתפסו</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">H",
-  "date": "2026-10-30T12:03:01.000Z",
-  "fetched": "2026-10-30T17:33:13.459Z",
-  "fromCloud": "2026-10-30T1733.json"
- },
- {
-  "id": "7dc615bcfc852b70",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "7 שעות בצום - וזו הסיבה לכך שהניתוח בוטל - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15Y3RBNXRTZzZnLTh5MzVCcmdUWTBocWU0c0g0akhoVUo0b1JCNEdMODZTdWg1eGFiOVpRNXo3ZUNqOXZSek9yT3hMOEc1MmRMQU5Bd2k2bDlzRGVucDcwOGhqdWVYVkk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15Y3RBNXRTZzZnLTh5MzVCcmdUWTBocWU0c0g0akhoVUo0b1JCNEdMODZTdWg1eGFiOVpRNXo3ZUNqOXZSek9yT3hMOEc1MmRMQU5Bd2k2bDlzRGVucDcwOGhqdWVYVkk?oc=5\" target=\"_blank\">7 שעות בצום - וזו הסיבה לכך שהניתוח בוטל</a>&nbsp;&nbsp;<font color=",
-  "date": "2026-10-30T12:03:00.000Z",
-  "fetched": "2026-10-30T13:03:51.578Z",
-  "fromCloud": "2026-10-30T1303.json"
- },
- {
-  "id": "ab3e0dce22b6830f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "כלל ביטוח תשיב כ-29 מיליון שקל על צ'קים שלא נפדו - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiWDQ5M0d4QlRodklTNG1vd2lRTXB5MnhaNllfMGNpWTF6S09CZ2IwQVVYalUyZVZMNlpCZk4yeWhURmUtS2VGOEJ6Zk9XbzFVa0xVMmlDblN4UjlvSkM1dGsyM3NXTmc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiWDQ5M0d4QlRodklTNG1vd2lRTXB5MnhaNllfMGNpWTF6S09CZ2IwQVVYalUyZVZMNlpCZk4yeWhURmUtS2VGOEJ6Zk9XbzFVa0xVMmlDblN4UjlvSkM1dGsyM3NXTmc?oc=5\" target=\"_blank\">כלל ביטוח תשיב כ-29 מיליון שקל על צ'קים שלא נפדו</a>&nbsp;&nbsp;<fon",
-  "date": "2026-10-30T12:02:00.000Z",
-  "fetched": "2026-10-30T13:03:51.578Z",
-  "fromCloud": "2026-10-30T1303.json"
- },
- {
-  "id": "7c20688897d0d732",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Currenc Group reinstates Tranglo deal, eyes full $666.7M acquisition - StreetInsider",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWFDNGNzT2pMQzlBVkpSZzlFSnlveTZTTm1INXY5STl2eU5sempKTWlIVndxVUtoNEF1X2RxbnRRWXVVNDlWU0xETTBxaTVWQlN4QkJVRFBHQll4VnZ0Y05sR0Y0SWVSbEJxb0FMTXdZZFU4OWxDeFladV9wWlVZR1N6Z0h6S0xCSm1aVWVXTk1nNlBTYy15cnEtamZqZ1l5WHVSbS1sZHJkZUlvMVR0bW55NXZ3akdyalJacXctT0gyei12aUdtSDRPUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWFDNGNzT2pMQzlBVkpSZzlFSnlveTZTTm1INXY5STl2eU5sempKTWlIVndxVUtoNEF1X2RxbnRRWXVVNDlWU0xETTBxaTVWQlN4QkJVRFBHQll4VnZ0Y05sR0Y0SWVSbEJxb0FMTXdZZFU4OWxDeFladV9wWlVZR1N6Z0h6S0xCSm1aVWVXTk1nNlBTYy15cnEtamZqZ1l5WHVSbS1sZHJkZU",
-  "date": "2026-10-30T12:01:41.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "41ee8f49166d726d",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Iran hits Hormuz tanker with limpet mines in apparent tactical shift",
-  "link": "https://www.ft.com/content/66ba3e98-26f5-46f1-9af3-5854364b4e9f?syn-25a6b1a6=1",
-  "summary": "Ship damaged on Thursday by attackers in speedboat in first such incident since 2019",
-  "date": "2026-10-30T12:01:05.000Z",
-  "fetched": "2026-10-30T12:33:13.055Z",
-  "fromCloud": "2026-10-30T1233.json"
- },
- {
-  "id": "08b366e1bd80fe66",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Disruptive By Design: Speed and Rigor Are Not Enemies - AFCEA International",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjZtMjg1TmI0ZFl1dW5uNlg1MEpnS3BIUEZWZ2tKa2pSLTdVbEdGMzNrQW5YSEVRQlZmZWFQRGJWa0JBZ3dNWlNlOE1FcUd0WEdER0hKQU5IQlFBSkdybVctNkUyVGRNRFM1SHZFY1k3RGM4OENNMTFUZEZwWVlsejVxeHlqVXdlVGtmTg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjZtMjg1TmI0ZFl1dW5uNlg1MEpnS3BIUEZWZ2tKa2pSLTdVbEdGMzNrQW5YSEVRQlZmZWFQRGJWa0JBZ3dNWlNlOE1FcUd0WEdER0hKQU5IQlFBSkdybVctNkUyVGRNRFM1SHZFY1k3RGM4OENNMTFUZEZwWVlsejVxeHlqVXdlVGtmTg?oc=5\" target=\"_blank\">Disruptive By Des",
-  "date": "2026-10-30T12:00:00.000Z",
-  "fetched": "2026-10-30T16:03:12.900Z",
-  "fromCloud": "2026-10-30T1603.json"
- },
- {
-  "id": "e8fbf62959af8c8b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "AMGO: Gold pilot output began, while commercial expansion and a conditional US$33m acquisition advanced - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOREVrdnpXZXNXS1poT0Y1Z3ZOdkNGN29EM0FxWTJneVJTZ3RRWE5TN3UzV3NpZ2FvQlFHT0gzMk8wdXU3bnN0Z1dWQ3NXRlB3VUhWVkJTT3A0Znc0aTRsTFpwNmlDRkNBVFBTQy1MSU5NUjJjT0MwcUNFRFJLcUhBeWJyNU5KVkkzNUl5NWVIUUJoa3dlenpPQjRtZnowblBZNWZfc0RQem9sMnBqc0JEeGllQ2pFV3pOSUpCTVZpWndHSUFkd3daTzdoczZVNkZkSkp0NnhxV1ZncDZkV1ItMlZYRFBXMU1XWVpDWG0wdGdTcG1WNFBJaEdhYndlVklsOTk3LW5UN2NsMWd2RzJVZFB3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOREVrdnpXZXNXS1poT0Y1Z3ZOdkNGN29EM0FxWTJneVJTZ3RRWE5TN3UzV3NpZ2FvQlFHT0gzMk8wdXU3bnN0Z1dWQ3NXRlB3VUhWVkJTT3A0Znc0aTRsTFpwNmlDRkNBVFBTQy1MSU5NUjJjT0MwcUNFRFJLcUhBeWJyNU5KVkkzNUl5NWVIUUJoa3dlenpPQjRtZnowblBZNWZfc0RQem9sMn",
-  "date": "2026-10-30T11:57:22.000Z",
-  "fetched": "2026-10-30T12:33:13.055Z",
-  "fromCloud": "2026-10-30T1233.json"
- },
- {
-  "id": "2d9eaf9b24002150",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Jinko Holdings names new CFO, adds board member - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDBnb0FIeHNtdFFhYV8yMDg3SEphNzY3YmYwOVRIclNzNUhCT1RiM0xQZUFzdENJNGdYWVozWVBGVVZXZ0tHOXVRbkJQUVRRNzJFR3FaZllSYlJhc0JQV1o5b1p5Z1BoenNJYk1qb1lQeF9CY2U3RHpSRksyT0N4bXlwSDFGS1NfYXhCV1pUMEFjRmp6OGF6QUlfcml5OVJEUWpxd2RB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDBnb0FIeHNtdFFhYV8yMDg3SEphNzY3YmYwOVRIclNzNUhCT1RiM0xQZUFzdENJNGdYWVozWVBGVVZXZ0tHOXVRbkJQUVRRNzJFR3FaZllSYlJhc0JQV1o5b1p5Z1BoenNJYk1qb1lQeF9CY2U3RHpSRksyT0N4bXlwSDFGS1NfYXhCV1pUMEFjRmp6OGF6QUlfcml5OVJEUWpxd2RB?oc=5\"",
-  "date": "2026-10-30T11:57:03.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "76ef9f0e7fd91bd7",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - COLGATE PALMOLIVE CO (0000021665) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/21665/000002166526000047/0000021665-26-000047-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0000021665-26-000047 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:56:34.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "73a31ec3ee93f65f",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - MAMMOTH ENERGY SERVICES, INC. (0001679268) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1679268/000162828026068441/0001628280-26-068441-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001628280-26-068441 <b>Size:</b> 651 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:56:06.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "4f565d147816fe3a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Trash Pays: Can Waste Management Keep Raising Its Dividend for Decades? - 24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmdDNldiZG94WmpzZWZtLWpOUnBTeXpobUNwaEhuZjlWOUJYalFtZnp5aGxWeVAtdzJIdTdRT05Gb042T01VSkk3ZHFYTy1GM1FCckdDQzJzYVlTNDNLNzV0UjZNVEZLOUZSZ3cyTVVwTzFTV1NidG9IdmZGU2l2bXgyd1E3bUV6ZUZyWVliX2l1TkFZdmUtNHpmVEdlWjhBWExEVWJaQUpZUTFkbVBadUdEOA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmdDNldiZG94WmpzZWZtLWpOUnBTeXpobUNwaEhuZjlWOUJYalFtZnp5aGxWeVAtdzJIdTdRT05Gb042T01VSkk3ZHFYTy1GM1FCckdDQzJzYVlTNDNLNzV0UjZNVEZLOUZSZ3cyTVVwTzFTV1NidG9IdmZGU2l2bXgyd1E3bUV6ZUZyWVliX2l1TkFZdmUtNHpmVEdlWjhBWExEVWJaQUpZUT",
-  "date": "2026-10-30T11:55:32.000Z",
-  "fetched": "2026-10-30T13:03:51.578Z",
-  "fromCloud": "2026-10-30T1303.json"
- },
- {
-  "id": "d967942c339d9704",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Ropes & Gray guides on healthcare services company acquisition - ICLG",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXlCVlFGODhYRkRJQkdvUnhGdC1VUVVMUDFoTnZDS2p3WW9wb1ZoQ1N4eEE0cVlUNVNQbjdSRWpNUEZjZUR0WEZQcmx6ZWM5bTlTS1Q4d0tnUWJmckNTQ2dxQTlRTWNhT0Y5eXBWeFE3U3FxVHJLRlBxcUhPNTluRjIyZTh0ZE0weWVF?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXlCVlFGODhYRkRJQkdvUnhGdC1VUVVMUDFoTnZDS2p3WW9wb1ZoQ1N4eEE0cVlUNVNQbjdSRWpNUEZjZUR0WEZQcmx6ZWM5bTlTS1Q4d0tnUWJmckNTQ2dxQTlRTWNhT0Y5eXBWeFE3U3FxVHJLRlBxcUhPNTluRjIyZTh0ZE0weWVF?oc=5\" target=\"_blank\">Ropes & Gray guides",
-  "date": "2026-10-30T11:51:11.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "7d4405ca28e73f42",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "ניו מד מבקשת לאשר לינקי קוינט שכר חודשי של 100 אלף שקל, ואופציות בשווי 3 מיליון שקל - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyblY1clAtYllvaHNJTGdEZEZJOXI4LXppcldlNHFITTlXSTNxMWIyMFRyZ1ZSUjJHOWtqRlhqajl3ZnVRTTNxYUV3eEhwWk1vZnloRTA2V1pjUU9jOG5HRHVITQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyblY1clAtYllvaHNJTGdEZEZJOXI4LXppcldlNHFITTlXSTNxMWIyMFRyZ1ZSUjJHOWtqRlhqajl3ZnVRTTNxYUV3eEhwWk1vZnloRTA2V1pjUU9jOG5HRHVITQ?oc=5\" target=\"_blank\">ניו מד מבקשת לאשר לינקי קוינט שכר חודשי של 100 אלף שקל, ואופציות בשווי 3 ",
-  "date": "2026-10-30T11:51:00.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "2fac214817dd32b1",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Amper Closes Acquisition Of Teltronic Group - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWRsOHNQQkdSWmVEUHh3TnQ2cjNacFkzdWVqTlpjdVU1aEItYWlQb1h2N2d1Zm5ZXzdRYTlmdXZRb1RCb2xneWoyR1kyazA0S2ZubUVIM2VIS0JucjhfSXZLS3Z1b1c4R19ucTBpRE5hM0tVejZNLXg5emRMaFp2LVVNQkZ4aWlHRHAyMXlKcDZCWXRoZDdzemJMZ3lIVG9hTmVzSUJRTEIzOURoNjRHZkIxUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWRsOHNQQkdSWmVEUHh3TnQ2cjNacFkzdWVqTlpjdVU1aEItYWlQb1h2N2d1Zm5ZXzdRYTlmdXZRb1RCb2xneWoyR1kyazA0S2ZubUVIM2VIS0JucjhfSXZLS3Z1b1c4R19ucTBpRE5hM0tVejZNLXg5emRMaFp2LVVNQkZ4aWlHRHAyMXlKcDZCWXRoZDdzemJMZ3lIVG9hTmVzSUJRTEIzOU",
-  "date": "2026-10-30T11:46:48.000Z",
-  "fetched": "2026-10-30T13:33:13.438Z",
-  "fromCloud": "2026-10-30T1333.json"
- },
- {
-  "id": "bf45689e79ce14b4",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "נופר מגייסת עד 310 מיליון דולר לפרויקט סולארי בטקסס שכל החשמל שלו כבר מכור לענקית טכנולוגיה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HVXFzY1BmVHhrT1pvVzJHSVN5em1qRXJoZENoU25XTkl6RDFCdGNGOWxzb2d3R09nNkZSNjVYR3BjU1pTLTJ4NUxtU1RETG01VjdUY0xtbDJwQWdPbnNueVlhSTFRTVVWNmVWTng2N0k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9HVXFzY1BmVHhrT1pvVzJHSVN5em1qRXJoZENoU25XTkl6RDFCdGNGOWxzb2d3R09nNkZSNjVYR3BjU1pTLTJ4NUxtU1RETG01VjdUY0xtbDJwQWdPbnNueVlhSTFRTVVWNmVWTng2N0k?oc=5\" target=\"_blank\">נופר מגייסת עד 310 מיליון דולר לפרויקט סולארי בטקסס שכל ",
-  "date": "2026-10-30T11:43:00.000Z",
-  "fetched": "2026-10-30T14:33:13.453Z",
-  "fromCloud": "2026-10-30T1433.json"
- },
- {
-  "id": "f0925603c0d20967",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Audi CFO Says Need for Action ‘Brooks No Delay’ After Q3 Profit Slump - eletric-vehicles.com",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2RMTzVkTGtkcG1Pdi1pNFlSYThzeGdhOW9mYWhTdDV6aEk3ekRYU1QtV2ZxYlBWeldDT0g3cEM0dmxocHhnbmx4a1dzQjBrV1hZY3JVUm45THhwbzNFc3NvYXk3VWtuOFlxTFdjT25UZXFOdERaVXpLeGZCVERjUmltRU9IMER6dGM1dWo0cy1xbkVHanNpVElGekxSM2VOQ3E1bVdDQXNWdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2RMTzVkTGtkcG1Pdi1pNFlSYThzeGdhOW9mYWhTdDV6aEk3ekRYU1QtV2ZxYlBWeldDT0g3cEM0dmxocHhnbmx4a1dzQjBrV1hZY3JVUm45THhwbzNFc3NvYXk3VWtuOFlxTFdjT25UZXFOdERaVXpLeGZCVERjUmltRU9IMER6dGM1dWo0cy1xbkVHanNpVElGekxSM2VOQ3E1bVdDQXNWdw",
-  "date": "2026-10-30T11:42:06.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "f7d5b67b56f669c8",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "קאמקו מצמצמת את תחזית הייצור ל-2026 ומדווחת על ירידה ברווחים מאת Investing.com - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVS1mMGpYeFlqNzVhRkpFX0pEMFVIRDA0a2kzUEFqVGlXMjVLakk2c0VTU3pwOHpEb3R2MVZlX2NvWDVBcy1lalFsaFZoZi03UDNGcG1wQTlpVlNOTjVwYTVWRnFiWDd4RkdMVGJySXFpVUx0Nmw1RDdjSVVOSXFweQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVS1mMGpYeFlqNzVhRkpFX0pEMFVIRDA0a2kzUEFqVGlXMjVLakk2c0VTU3pwOHpEb3R2MVZlX2NvWDVBcy1lalFsaFZoZi03UDNGcG1wQTlpVlNOTjVwYTVWRnFiWDd4RkdMVGJySXFpVUx0Nmw1RDdjSVVOSXFweQ?oc=5\" target=\"_blank\">קאמקו מצמצמת את תחזית הייצור ל-20",
-  "date": "2026-10-30T11:37:31.000Z",
-  "fetched": "2026-10-30T13:33:13.438Z",
-  "fromCloud": "2026-10-30T1333.json"
- },
- {
-  "id": "6609d4ca0ed513fd",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "לאאורה יש 84 אלף דירות בצנרת - אז למה היא צריכה הרפתקה בדיור מוגן?",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001561315#utm_source=RSS",
-  "summary": "חברת ההתחדשות העירונית, הגדולה בפער ממתחרותיה, דיווחה השבוע על רכישת חברת \"בית בכפר\" לפי שווי עצום של 1.7 מיליארד שקל &#8226; המהלך מבהיר עד כמה גדול הסיכון בתחום התמחותה, ואיך הדיור המוגן אינו גחמה, אלא גידור אסטרטגי",
-  "date": "2026-10-30T11:35:00.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "4f51d03266c235b8",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Polaris’s CFO Wants to Restart Buybacks After a Tough Couple of Years - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGJzLVg2OWNzTTBVbVBrTkEtQW5meWJialFZbFFuV3VCREZ1V015TFZ2b1UtVnRja25HTHJoYWEyb2NZd0tFel9BM3RCcU4xM1BXTnVISEg4WFo2UVZNV3JQbmkxWHhJcjk0ejhyaFRsTmljcnZOcy04STh2TDJIZGIwMDBDNlBocU1kY21JLTdIX3BQTmV2RUdtejk5RGZTeW5MTlBlaXBmb3NXWFdpWEFmbTY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGJzLVg2OWNzTTBVbVBrTkEtQW5meWJialFZbFFuV3VCREZ1V015TFZ2b1UtVnRja25HTHJoYWEyb2NZd0tFel9BM3RCcU4xM1BXTnVISEg4WFo2UVZNV3JQbmkxWHhJcjk0ejhyaFRsTmljcnZOcy04STh2TDJIZGIwMDBDNlBocU1kY21JLTdIX3BQTmV2RUdtejk5RGZTeW5MTlBlaXBmb3",
-  "date": "2026-10-30T11:34:00.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
  }
 ]
