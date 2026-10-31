@@ -1,5 +1,16 @@
 [
  {
+  "id": "6e854cd583b6fa92",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "הוא מימן מכיסו סרט עם ניקולס קייג' ב-45 מיליון דולר. ואז הסרט נגנב",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001560904#utm_source=RSS",
+  "summary": "תביעה נגד נטפליקס בגלל כונן קשיח שנעלם היא התפנית האחרונה בסיפורו רצוף התלאות של הסרט Fortitude",
+  "date": "2026-10-31T11:30:00.000Z",
+  "fetched": "2026-10-31T11:33:12.282Z",
+  "fromCloud": "2026-10-31T1133.json"
+ },
+ {
   "id": "bcd9f1fd42408eca",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -9,6 +20,17 @@
   "date": "2026-10-31T11:00:39.000Z",
   "fetched": "2026-10-31T11:03:12.138Z",
   "fromCloud": "2026-10-31T1103.json"
+ },
+ {
+  "id": "f0c80b908a885d8f",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+  "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+  "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
+  "date": "2026-10-31T11:00:00.000Z",
+  "fetched": "2026-10-31T11:33:12.282Z",
+  "fromCloud": "2026-10-31T1133.json"
  },
  {
   "id": "b3bda45369846f06",
@@ -97,6 +119,17 @@
   "date": "2026-10-31T09:36:34.000Z",
   "fetched": "2026-10-31T10:03:13.431Z",
   "fromCloud": "2026-10-31T1003.json"
+ },
+ {
+  "id": "35fff27240c0ca2e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "משא ומתן עם קבלן: מה מסתתר מאחורי מבצעי \"10% עכשיו\" - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMnlSZ2dKQ1huUUhKR3Yta0ZuM2tLSno4elBWalN6M1F2NjRvZjR4czA1Qk1Ccmh1QTFENllpTDl4YmhfYzNhMlRhX3BnejFBRElOelZBLWR1Vk5oTDhVVXZZMWhEUUxEOWQyUWd3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1JMnlSZ2dKQ1huUUhKR3Yta0ZuM2tLSno4elBWalN6M1F2NjRvZjR4czA1Qk1Ccmh1QTFENllpTDl4YmhfYzNhMlRhX3BnejFBRElOelZBLWR1Vk5oTDhVVXZZMWhEUUxEOWQyUWd3?oc=5\" target=\"_blank\">משא ומתן עם קבלן: מה מסתתר מאחורי מבצעי \"10% עכשיו\"</a>&nbs",
+  "date": "2026-10-31T09:22:00.000Z",
+  "fetched": "2026-10-31T11:33:12.282Z",
+  "fromCloud": "2026-10-31T1133.json"
  },
  {
   "id": "caaf27e4abee689f",
@@ -306,6 +339,17 @@
   "date": "2026-10-31T07:09:00.000Z",
   "fetched": "2026-10-31T07:33:20.670Z",
   "fromCloud": "2026-10-31T0733.json"
+ },
+ {
+  "id": "acba517c39b49669",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "New CFO Appointment Could Be A Big Moment For Mattel (MAT) - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTjRNTmNXai1CT2NsV2hrUTRBVTlpNy1Xd2RkUWdTWGFlZGZJanZwbGo2TDk3MEJlODhvOVk0aXlTaWZtV0YzUTQ0YklhRXRWd2U1UWQxS0piUGl3eDRxbzRKQVo5dWtPZXFMS29YNlo4ZmlBbFN6Y3lBQXR3dHNwOXRQTy03WHN0RzJHM0NGRmRDUE5oQW5qcTNXU0Z3dw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTjRNTmNXai1CT2NsV2hrUTRBVTlpNy1Xd2RkUWdTWGFlZGZJanZwbGo2TDk3MEJlODhvOVk0aXlTaWZtV0YzUTQ0YklhRXRWd2U1UWQxS0piUGl3eDRxbzRKQVo5dWtPZXFMS29YNlo4ZmlBbFN6Y3lBQXR3dHNwOXRQTy03WHN0RzJHM0NGRmRDUE5oQW5qcTNXU0Z3dw?oc=5\" target=\"_",
+  "date": "2026-10-31T07:08:51.000Z",
+  "fetched": "2026-10-31T11:33:12.282Z",
+  "fromCloud": "2026-10-31T1133.json"
  },
  {
   "id": "1539c406d2676e30",
@@ -6521,335 +6565,5 @@
   "date": "2026-10-30T11:34:00.000Z",
   "fetched": "2026-10-30T12:03:14.570Z",
   "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "7e399253816fd78a",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "אהרון פרנקל עלה להחזקה של 20% באלוני חץ, תמורת 121 מיליון שקל - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nWUQ4c2wzNUREZWNMYXBiUW5ualFKQmlQcmp0TndIekNIdWhkOXF6VFMzWm9tNGItZ2RUM3JIM3FSd0Y5VnpoLTBkakt0ZzhIbjZNeTVjdUkzdzVtMVY1d0xkUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nWUQ4c2wzNUREZWNMYXBiUW5ualFKQmlQcmp0TndIekNIdWhkOXF6VFMzWm9tNGItZ2RUM3JIM3FSd0Y5VnpoLTBkakt0ZzhIbjZNeTVjdUkzdzVtMVY1d0xkUQ?oc=5\" target=\"_blank\">אהרון פרנקל עלה להחזקה של 20% באלוני חץ, תמורת 121 מיליון שקל</a>&nbsp;&n",
-  "date": "2026-10-30T11:33:00.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "1bd6370255c9a66d",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Gates Industrial Corp Ltd. (0001718512) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1718512/000162828026068435/0001628280-26-068435-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001628280-26-068435 <b>Size:</b> 555 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:32:36.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "b61f2335fe0b4d4a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Crown Reserve Acquisition Corp. I Estimates – NASDAQ:CRAC - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oai1BRVhQb01mdHR2SHdqbzZOR2ttenFKb0l1Y3VKWFZiQ3JjX3kxYjRxSnN2TnhOck5kbXU2NG5fb1Q1ZmZ6TENVR0FVSTE0YWNxTkRCY2ZOMy1yQ2JBT1h4aUJ6TFVzZWhvOUdqS01TNlhPMjBKdA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oai1BRVhQb01mdHR2SHdqbzZOR2ttenFKb0l1Y3VKWFZiQ3JjX3kxYjRxSnN2TnhOck5kbXU2NG5fb1Q1ZmZ6TENVR0FVSTE0YWNxTkRCY2ZOMy1yQ2JBT1h4aUJ6TFVzZWhvOUdqS01TNlhPMjBKdA?oc=5\" target=\"_blank\">Crown Reserve Acquisition Corp. I Estimates –",
-  "date": "2026-10-30T11:32:22.000Z",
-  "fetched": "2026-10-30T14:33:13.453Z",
-  "fromCloud": "2026-10-30T1433.json"
- },
- {
-  "id": "a6afb7ffb247ba69",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Deal Roundup: Thrive strikes $15.3bn ADT take-private; Stonepeak completes BMO finance acquisition - AltAssets Private Equity News",
-  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb2pqak55dG9UNWdPbTloSGtLNTFCSTVQWVVMWGlVR0wwdjRaWFdIQUVwR1B4Q1o1MzRxaFdxM255RC12WXd2Q1kxcVlsaHdMMkNITHd6a01sU3JGeWJENjhxdmpGbms1WkRLQ0xOQ3NSSUdOaXVERlQ2XzVMQkdsNFVvZ09IQmFWVU9oQWF0V0x3ZEFEcEhXU2o3TzZ5b1ZtRUFxUEVRM0RzckxTT19hZGZiVTVJa0JST3JuVWVVYkRGbHhoQ09jN1VIWGN0MmtTRUVOUVZtY3lkejFYZXJscWp3RlhVczlTVjJQc0VWdkJtdXBURFZxRXpqRWp1RUw2S1F3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNb2pqak55dG9UNWdPbTloSGtLNTFCSTVQWVVMWGlVR0wwdjRaWFdIQUVwR1B4Q1o1MzRxaFdxM255RC12WXd2Q1kxcVlsaHdMMkNITHd6a01sU3JGeWJENjhxdmpGbms1WkRLQ0xOQ3NSSUdOaXVERlQ2XzVMQkdsNFVvZ09IQmFWVU9oQWF0V0x3ZEFEcEhXU2o3TzZ5b1ZtRUFxUEVRM0Rzck",
-  "date": "2026-10-30T11:32:16.000Z",
-  "fetched": "2026-10-30T19:39:18.189Z",
-  "fromCloud": "2026-10-30T1939.json"
- },
- {
-  "id": "0aabdd6258866608",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Federal Realty OP LP (0001901876) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1901876/000003490326000054/0000034903-26-000054-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0000034903-26-000054 <b>Size:</b> 2 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:31:28.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "b853e16cc5f60f46",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - FEDERAL REALTY INVESTMENT TRUST (0000034903) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000054/0000034903-26-000054-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0000034903-26-000054 <b>Size:</b> 2 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:31:28.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "1487cf155bdbd6ca",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - DOMINION ENERGY, INC (0000715957) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/715957/000119312526439883/0001193125-26-439883-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-439883 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:31:09.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "b18f17b882e59cf8",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow of BAMBUSA THERAPEUTICS INC – NASDAQ:BBTX - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMm5iVV9NVkFpemtaRjBIREh3VVZ1SmtFOHVXeV93ZGtrd1lnOWxzNnl0XzJhLUVwSEF0RUppMnlmdjNPazVyZGYyeEVBUmJLSGdKVHIxa3p5S2FCZ3YyQXcwbHhpM3FaZVI4STYtWTFvSkxoZm1uaHRpME9TcnNDenR4ZGlabHcxWXc1MQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMm5iVV9NVkFpemtaRjBIREh3VVZ1SmtFOHVXeV93ZGtrd1lnOWxzNnl0XzJhLUVwSEF0RUppMnlmdjNPazVyZGYyeEVBUmJLSGdKVHIxa3p5S2FCZ3YyQXcwbHhpM3FaZVI4STYtWTFvSkxoZm1uaHRpME9TcnNDenR4ZGlabHcxWXc1MQ?oc=5\" target=\"_blank\">Free cash flow of",
-  "date": "2026-10-30T11:30:18.000Z",
-  "fetched": "2026-10-30T14:33:13.453Z",
-  "fromCloud": "2026-10-30T1433.json"
- },
- {
-  "id": "eb5293eb98573dff",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Cboe Global Markets, Inc. (0001374310) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1374310/000162828026068432/0001628280-26-068432-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001628280-26-068432 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:30:16.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "903df9059074efb5",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Asahi Life completes acquisition of Vietnamese life insurer - Vietnam Investment Review - VIR",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDM5bkx3Z0hPRzFHMHhGdlpHZ05LaEJoS1NxTnVKLS1VMXB6WkpqdVExOUtJRXhmTThhX0g4OXRLeEhmbFZubWpqOUJKVHRRdUMxMVRJUXhBc1ZGQXdKdFl2TmFoaWlBR0FOcms3LW9POEZKNG56RldvajRQRm5IZnBBWm9sUWlZRnk5dy1WcUI2QVM5?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDM5bkx3Z0hPRzFHMHhGdlpHZ05LaEJoS1NxTnVKLS1VMXB6WkpqdVExOUtJRXhmTThhX0g4OXRLeEhmbFZubWpqOUJKVHRRdUMxMVRJUXhBc1ZGQXdKdFl2TmFoaWlBR0FOcms3LW9POEZKNG56RldvajRQRm5IZnBBWm9sUWlZRnk5dy1WcUI2QVM5?oc=5\" target=\"_blank\">Asahi L",
-  "date": "2026-10-30T11:29:37.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "b97909231edd076c",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Churchill Capital Corp XI (0002074973) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026114063/0001213900-26-114063-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001213900-26-114063 <b>Size:</b> 327 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:27:44.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "ad5509a9fbdb0491",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "WinVest Acquisition Corp. Estimates – OTC:WINVU - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ybXR0aVc4dXVJYzg0Mno3bmFFbTlpYjkxMUhGWEhIWm1QVHFqZnZrU3I1ZVRVX1ZIWDVfV2gzOVNZZm9LYmFMSEgyWnAza3BxQ3BIcFNYN1pCWUZuOFBITWVPX2YyalJTMVFXY1lUc3lSTmhzN3c?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ybXR0aVc4dXVJYzg0Mno3bmFFbTlpYjkxMUhGWEhIWm1QVHFqZnZrU3I1ZVRVX1ZIWDVfV2gzOVNZZm9LYmFMSEgyWnAza3BxQ3BIcFNYN1pCWUZuOFBITWVPX2YyalJTMVFXY1lUc3lSTmhzN3c?oc=5\" target=\"_blank\">WinVest Acquisition Corp. Estimates – OTC:WINVU<",
-  "date": "2026-10-30T11:27:27.000Z",
-  "fetched": "2026-10-30T13:03:51.578Z",
-  "fromCloud": "2026-10-30T1303.json"
- },
- {
-  "id": "5374c398c5c19627",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Enact Holdings, Inc. (0001823529) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1823529/000182352926000237/0001823529-26-000237-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001823529-26-000237 <b>Size:</b> 138 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-  "date": "2026-10-30T11:26:38.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "14bb5f59b810d1dc",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Genworth Financial Names Jerome Upton CEO and Angela Simmons CFO as Thomas McInerney Retires - citybiz",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVXEzSlplU0VBN1dkYUFoOUJtSFprQ0xlTXJjc0NjSzg1NElLZHEtV2ZsVmg4VFM5UUlGcGJGVFU2MmFnNWtZc0xsaEhQQkNQTjZHRnVQcktCVXY4MS05aUsxTE9tb1VDWG1zOE15cW44UF9uczZUckZzbTRQRkZRM3hOUkpLbURLSC11QlRGUkR6NXdiWk4yMng1ZWFyTWFVR2N0dC1QVHdUMWhGYV8zRy1vcHlMMDZ2M18zem5SaS1xbVpvTDBTYzVBVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQVXEzSlplU0VBN1dkYUFoOUJtSFprQ0xlTXJjc0NjSzg1NElLZHEtV2ZsVmg4VFM5UUlGcGJGVFU2MmFnNWtZc0xsaEhQQkNQTjZHRnVQcktCVXY4MS05aUsxTE9tb1VDWG1zOE15cW44UF9uczZUckZzbTRQRkZRM3hOUkpLbURLSC11QlRGUkR6NXdiWk4yMng1ZWFyTWFVR2N0dC1QVHdUMW",
-  "date": "2026-10-30T11:25:35.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "ef7bfb07590ec169",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Strategy Stock Pulls Back Following Revenue Miss, CFO Transition - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNTVqZW9IMFcyYnNScjN1U0ZHQ2hzUXBhWkdpeXVRTlZqYzEtbHJGS2VNeGwwbnFSbUtLV0wzZ0tMVXdMQkxoVENlalV6NFdtQld3T040TVFDVFNmYVZLNzJhUlJLYWhGcml5RzdFVDc3aVB2bDN2Y0psZTY1TzI0WFpMY1dXSHhQRWlHMDBrdWxJT3p4Ni1FOUlkbjFQdkFPNjR3UTFlOS1GbktyYTFldXBmb0hKVjM4c1M1T0xzWnVKdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNTVqZW9IMFcyYnNScjN1U0ZHQ2hzUXBhWkdpeXVRTlZqYzEtbHJGS2VNeGwwbnFSbUtLV0wzZ0tMVXdMQkxoVENlalV6NFdtQld3T040TVFDVFNmYVZLNzJhUlJLYWhGcml5RzdFVDc3aVB2bDN2Y0psZTY1TzI0WFpMY1dXSHhQRWlHMDBrdWxJT3p4Ni1FOUlkbjFQdkFPNjR3UTFlOS1Gbk",
-  "date": "2026-10-30T11:25:01.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "d3073cd2e5887088",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "AstraZeneca CFO Aradhana Sarin on Q3 results, oncology portfolio and drug pipeline outlook - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLU5Lc1ZxTHdxTDZpSG8wbDl1dHVxZ2VtVC1XS3kxeWRXRFZOSnV3YzloRUdTa0UtZ05TN19qdWRNRHhlU3RYOVRNYTdreXNvRUx2OXNtSEthMWtFX3Jma2dISXdYMzh4eFRLN1ZkZUR1UHpuWk11Q0xtQllRYmZGMHRoSF9tYm5MQlhtcVY3ZmZUSzBsN0hRdWFza3VJMUtra0t3ZEdBanBTOEUtcVB1NWpseHByVHlJUUV6dElSODgxRXdlSjkwbU5BWE0?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNLU5Lc1ZxTHdxTDZpSG8wbDl1dHVxZ2VtVC1XS3kxeWRXRFZOSnV3YzloRUdTa0UtZ05TN19qdWRNRHhlU3RYOVRNYTdreXNvRUx2OXNtSEthMWtFX3Jma2dISXdYMzh4eFRLN1ZkZUR1UHpuWk11Q0xtQllRYmZGMHRoSF9tYm5MQlhtcVY3ZmZUSzBsN0hRdWFza3VJMUtra0t3ZEdBanBTOE",
-  "date": "2026-10-30T11:24:09.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "12b688560b25348a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "UBS cuts DoorDash stock price target on acquisition costs - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3VyNGdWQUY3bW1MZmhYUGlKb20yMlNwSDJmdi05UTEwOEs2X2NmVi0zSVpISFhLc0pCZk9XUXZScGxqZkdxanMzSlVXcE4tM0lIWXduODg0WTVqOUthbUNOWkZaSGwxaDFITklpZmtQRl90TWt6QUQtb3NPbGdiSXBzYnJZN3JkUHRMMllVd2xteTh0ZGRCMjhTc1lyN0JOWHJzN0ZOOXdIanpXM1l3Wk9ybFpBSWFE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3VyNGdWQUY3bW1MZmhYUGlKb20yMlNwSDJmdi05UTEwOEs2X2NmVi0zSVpISFhLc0pCZk9XUXZScGxqZkdxanMzSlVXcE4tM0lIWXduODg0WTVqOUthbUNOWkZaSGwxaDFITklpZmtQRl90TWt6QUQtb3NPbGdiSXBzYnJZN3JkUHRMMllVd2xteTh0ZGRCMjhTc1lyN0JOWHJzN0ZOOXdIan",
-  "date": "2026-10-30T11:22:59.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "409bd5ff9eef4c41",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "How North Korea became a hacking superpower",
-  "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
-  "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
-  "date": "2026-10-30T11:20:19.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "04955222430f6d3c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Kenvue Profit, Revenue Rise as Turnaround Efforts Continue - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjR0dGtza1JQZE5SQUdsQWFodl9BZzcwRm5tcGpfT1M2YzVPZDM5UGo5OUcyMmlKT1BIQVFBSTQ2Y3ZRakhReFZXVWpuMktqSzRQaHRSUG04ZnVIcHhKb2NaZ2I0UWViOVcwMHRPQmNnZjkzVnFZYUFlbWNxQTVqbV84cF9aa1JsTTdKWGNuU0h2Q0M2bkhfMnVLZEdYdjFnWXZ6MHhJTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjR0dGtza1JQZE5SQUdsQWFodl9BZzcwRm5tcGpfT1M2YzVPZDM5UGo5OUcyMmlKT1BIQVFBSTQ2Y3ZRakhReFZXVWpuMktqSzRQaHRSUG04ZnVIcHhKb2NaZ2I0UWViOVcwMHRPQmNnZjkzVnFZYUFlbWNxQTVqbV84cF9aa1JsTTdKWGNuU0h2Q0M2bkhfMnVLZEdYdjFnWXZ6MHhJTQ?oc=",
-  "date": "2026-10-30T11:19:00.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "c6e9a45e2e0a264b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Intel Just Warned It Probably Won’t Generate Free Cash Flow Next Year - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORWxJaDRpdUl4bmI3eVJ5blB0QlFBNEdsSWlsdnAzTXVqc2Y1ZE84SktfUWhvR052WFExNU9SR1RUTjhvVjRkdFJjYU5SdnNaaFJpeXI5YVg0T0ExTTJyeTRmYU10cTN2SVlkYWQ0SjlmNlBPZkhmVTJsUjRLMGpxMlZ0RUhTdzVSSjlmZG1MMGtpTGx1Z2R1TmFfMA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxORWxJaDRpdUl4bmI3eVJ5blB0QlFBNEdsSWlsdnAzTXVqc2Y1ZE84SktfUWhvR052WFExNU9SR1RUTjhvVjRkdFJjYU5SdnNaaFJpeXI5YVg0T0ExTTJyeTRmYU10cTN2SVlkYWQ0SjlmNlBPZkhmVTJsUjRLMGpxMlZ0RUhTdzVSSjlmZG1MMGtpTGx1Z2R1TmFfMA?oc=5\" target=\"_blan",
-  "date": "2026-10-30T11:18:10.000Z",
-  "fetched": "2026-10-30T12:03:14.570Z",
-  "fromCloud": "2026-10-30T1203.json"
- },
- {
-  "id": "b72f65f8d0291dcf",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "מניות Exelon עולות ב-2% בעקבות תוצאות רבעון שלישי שהכו את התחזיות מאת Investing.com - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DSjc5RW0wbHFod3BhOVR4am11RXJkcTFMLXhpNUFuSktWSTN5TGEySmdEdU9UQ3VzWlNFRUFZU0pEc1NYUUlBaElsUmxNb3IyUlRaZ1g0QlpXSldOclZsT05zamhjT0tiUjdtb1dDQVk5V29U?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5DSjc5RW0wbHFod3BhOVR4am11RXJkcTFMLXhpNUFuSktWSTN5TGEySmdEdU9UQ3VzWlNFRUFZU0pEc1NYUUlBaElsUmxNb3IyUlRaZ1g0QlpXSldOclZsT05zamhjT0tiUjdtb1dDQVk5V29U?oc=5\" target=\"_blank\">מניות Exelon עולות ב-2% בעקבות תוצאות רבעון שלישי ש",
-  "date": "2026-10-30T11:18:10.000Z",
-  "fetched": "2026-10-30T13:33:13.438Z",
-  "fromCloud": "2026-10-30T1333.json"
- },
- {
-  "id": "277a3f10dda696ee",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "פיץ': הסיכון הפוליטי בישראל תואם את דירוג האשראי הנוכחי והתחזית השלילית - חדשות - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVF8zTF9pWWdVRG1XaUpNWEQyTmE1WFFjLVpzOWxmVjNnQUxuZlQtaEpaYlJqT18zaWhVU0tCdWZEZXE4bnJHaEtfY3o3Ynh2UHlTUmYyMkVpM1doNm04UGFlWjFUVkZKUmFVTldXZHc5M3dIaE96b2tNNFBIMkpjNjFtQ2ZaVHB5RUJ6WFZ1WkwxcjA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQVF8zTF9pWWdVRG1XaUpNWEQyTmE1WFFjLVpzOWxmVjNnQUxuZlQtaEpaYlJqT18zaWhVU0tCdWZEZXE4bnJHaEtfY3o3Ynh2UHlTUmYyMkVpM1doNm04UGFlWjFUVkZKUmFVTldXZHc5M3dIaE96b2tNNFBIMkpjNjFtQ2ZaVHB5RUJ6WFZ1WkwxcjA?oc=5\" target=\"_blank\">פיץ': הס",
-  "date": "2026-10-30T11:18:00.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "2fd71b93b35e5dc0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Genworth Financial names new CEO and CFO, effective January 2027 - StreetInsider",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3JFX1FXSXVKV3dRbGdVRGdoekJLcHhDMkRiaExtU2c0aXYtOHBMQWZRaDVuQnRmMmYzZkV2M3JVV21uY1RGeHhPWndNbHhLeXNYZF9fRGxUZmdMM3VGdGtKNmpXeWtKc2NqVjFmTXFUNGFLYkVQX09LMlNYT0wtaEJwelFLelU4SjN2UDl6MXZVMGIweE9JaTNQR29Gay1PMDVpTUMyRFBRMkg1RW9oNldxQldBUkFKbVVQSzZVNFpRcGc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3JFX1FXSXVKV3dRbGdVRGdoekJLcHhDMkRiaExtU2c0aXYtOHBMQWZRaDVuQnRmMmYzZkV2M3JVV21uY1RGeHhPWndNbHhLeXNYZF9fRGxUZmdMM3VGdGtKNmpXeWtKc2NqVjFmTXFUNGFLYkVQX09LMlNYT0wtaEJwelFLelU4SjN2UDl6MXZVMGIweE9JaTNQR29Gay1PMDVpTUMyRFBRMk",
-  "date": "2026-10-30T11:17:41.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "e9f9a93f34b0f268",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - CHOICEONE FINANCIAL SERVICES INC (0000803164) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/803164/000119312526439873/0001193125-26-439873-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-439873 <b>Size:</b> 2 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:16:15.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "27d99c7db46f0671",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "2.81 מיליון שקל בשנה: נחשף שכרו של מנהל רמ\"י לשעבר אצל תשובה",
-  "link": "https://www.ynet.co.il/economy/article/h1llogmamg",
-  "summary": "ינקי קוינט ירוויח 100 אלף שקל ברוטו בחודש כיו\"ר ניו-מד אנרג'י, במשרה של 70% בלבד. השכר חורג ממדיניות התגמול של השותפות ולכן דורש אישור מיוחד. בנוסף הוא צפוי לקבל 561,657 אופציות לא סחירות ועוד תוספות",
-  "date": "2026-10-30T11:15:43.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "2f2b9151f7e99910",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Flowco Holdings Inc. (0002035149) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526439872/0001193125-26-439872-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-439872 <b>Size:</b> 221 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T11:15:14.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "14beda9f4e7f47d8",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "אנג'ל משתלטת על פעילות הפיתות בצפון אמריקה, תמורת 21.9 מיליון דולר - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wcjJTMDdybGhpTk9MTk81QlpkRjJwaTctQVExWlVZSkhHYmZuX2dJc1FlcVJib0JxaHM0QWVGVVVUc3FuSnZGYXlldGZqNDZjRzdQczBvZ1hmbDd0YjlLejUwbw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wcjJTMDdybGhpTk9MTk81QlpkRjJwaTctQVExWlVZSkhHYmZuX2dJc1FlcVJib0JxaHM0QWVGVVVUc3FuSnZGYXlldGZqNDZjRzdQczBvZ1hmbDd0YjlLejUwbw?oc=5\" target=\"_blank\">אנג'ל משתלטת על פעילות הפיתות בצפון אמריקה, תמורת 21.9 מיליון דולר</a>&nb",
-  "date": "2026-10-30T11:12:00.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "9dcdc41900be6b99",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Alicorp: Acquisition-led growth lifted revenue, but margin pressure and higher leverage persisted - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWS1BNGdtRldZeGlSUDU5UXdEMXBIUlJmS3VjdmVRRFVKMFNJSjVVR09NZ0hEbFA2b29CYlNLQ0dKRHlBa2xUYnJ4Zi1QN2Y1WW9sMEZPaEJfaWRkZGdnNnJoeFVVWVNmZjJKSy04SzNudXVSNWRvYzdxbkFOanVKRXdSWnpQOFJUcUVPY0dLMWZEMWcwQk5QYWZxZlA2MnNzVTdQVWUxdTNKcktNcXJNd2RGZWZfV0NZOERxenU2U3Ayay1ydUlwbldDUGcxb1hkcDJVSnlrZVpaSko0c0wweXVzYW10d2ZNMUFwc29wYWpWUnFrbkZ5TEVxN2EwcGxSREVxLVUwaTdnZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPWS1BNGdtRldZeGlSUDU5UXdEMXBIUlJmS3VjdmVRRFVKMFNJSjVVR09NZ0hEbFA2b29CYlNLQ0dKRHlBa2xUYnJ4Zi1QN2Y1WW9sMEZPaEJfaWRkZGdnNnJoeFVVWVNmZjJKSy04SzNudXVSNWRvYzdxbkFOanVKRXdSWnpQOFJUcUVPY0dLMWZEMWcwQk5QYWZxZlA2MnNzVTdQVWUxdTNKck",
-  "date": "2026-10-30T11:10:53.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "35fc634a28d1fa12",
-  "source": "SecurityWeek",
-  "group": "industry",
-  "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
-  "link": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
-  "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders. The post Drupal Commerce Core Vulnerability Exploited Against Online Stores appeared first on SecurityWeek .",
-  "date": "2026-10-30T11:07:11.000Z",
-  "fetched": "2026-10-30T11:33:13.493Z",
-  "fromCloud": "2026-10-30T1133.json"
- },
- {
-  "id": "556ba9708ae89c3e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of 7867 – TWSE:7867 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZno2ZDZqYkZSSTJrbVIxYjloWDhDbkg5Tm1rOEdiWkFIcktDWUxDSnJlUjlFaFJSNk8xMmJ0Vjh6VXdjcC0xa3RKSlJlbmtvYWRHRFRrckdRNkZzUXBRMWVGc3ZfbDdpZUg5VHluVnlRTVJ5NEhtWWF1NzlsZmpnREFmNG9HbXN1b3BaQ3FDWEFwNkI3SWVYRVhiOW9MM1k4VzhhYW90NA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZno2ZDZqYkZSSTJrbVIxYjloWDhDbkg5Tm1rOEdiWkFIcktDWUxDSnJlUjlFaFJSNk8xMmJ0Vjh6VXdjcC0xa3RKSlJlbmtvYWRHRFRrckdRNkZzUXBRMWVGc3ZfbDdpZUg5VHluVnlRTVJ5NEhtWWF1NzlsZmpnREFmNG9HbXN1b3BaQ3FDWEFwNkI3SWVYRVhiOW9MM1k4VzhhYW90NA?oc=",
-  "date": "2026-10-30T11:03:42.000Z",
-  "fetched": "2026-10-30T13:03:51.578Z",
-  "fromCloud": "2026-10-30T1303.json"
  }
 ]
