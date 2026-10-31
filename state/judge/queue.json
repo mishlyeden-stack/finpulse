@@ -1,5 +1,27 @@
 [
  {
+  "id": "6fae7d7e43bae518",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+  "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+  "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
+  "date": "2026-10-31T14:00:02.000Z",
+  "fetched": "2026-10-31T14:33:12.630Z",
+  "fromCloud": "2026-10-31T1433.json"
+ },
+ {
+  "id": "cf7c1deb7cdc5a71",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "11 שעות עם טראמפ: מה ראינו בשטח בשבע עצרות בחירות בתוך שבעה ימים",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561376#utm_source=RSS",
+  "summary": "מסע עצרות הבחירות במדינות שרובן מזוהות עם הרפובליקאים נועד לעודד את תומכי טראמפ להגיע לקלפיות ביום הבחירות, ובכך לצמצם את הפסדי המפלגה הצפויים",
+  "date": "2026-10-31T14:00:00.000Z",
+  "fetched": "2026-10-31T14:33:12.630Z",
+  "fromCloud": "2026-10-31T1433.json"
+ },
+ {
   "id": "c9e86b67db5ce167",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -9,6 +31,17 @@
   "date": "2026-10-31T13:58:00.000Z",
   "fetched": "2026-10-31T14:03:13.328Z",
   "fromCloud": "2026-10-31T1403.json"
+ },
+ {
+  "id": "1c61927942cd3b30",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Strategy Sinks 11% in a Week on Binance Hack, CFO Exit: “Returning STRC to Health” - TIKR.com",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkFFQW1QR1FIY2JpWDR2SWxZbVV0bmZ3U1hheXpDMU5Zb1duS2VER2Z3MGhzT3hVcGNQSkF5SlBFZUV6a3otdV9rQ3hVTHpoRWVldmNoY0JnNG45aGFQbE44LXluM19IUzgzQXR2RnNaSUUxVk5sS2tEa2J6WEdpZzdQRk1qRHpxVXZMYjQ0TXFTVXNpa3U3TGduVDhFczc3Rk1IS3pydw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkFFQW1QR1FIY2JpWDR2SWxZbVV0bmZ3U1hheXpDMU5Zb1duS2VER2Z3MGhzT3hVcGNQSkF5SlBFZUV6a3otdV9rQ3hVTHpoRWVldmNoY0JnNG45aGFQbE44LXluM19IUzgzQXR2RnNaSUUxVk5sS2tEa2J6WEdpZzdQRk1qRHpxVXZMYjQ0TXFTVXNpa3U3TGduVDhFczc3Rk1IS3pydw?oc=",
+  "date": "2026-10-31T13:56:00.000Z",
+  "fetched": "2026-10-31T14:33:12.630Z",
+  "fromCloud": "2026-10-31T1433.json"
  },
  {
   "id": "d01b296f31eb2911",
@@ -64,6 +97,17 @@
   "date": "2026-10-31T12:46:00.000Z",
   "fetched": "2026-10-31T13:03:12.653Z",
   "fromCloud": "2026-10-31T1303.json"
+ },
+ {
+  "id": "51ee3bdee86bfcb1",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "S&P מזהירה את מטא: השקעות הענק ב-AI עלולות לעלות לה בדירוג האשראי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FeTJKbERIUzhybV9XYXktMzVEd2tWc1JMN28wQkJ4VnphWlVkbzVyb2tIWi11Qkoza253eU0yZXFmblpsTUJ4YVdVUnRXeTE4c3phZGRxLVAwUjhVM19YOFZDYnRNYm9mZ3M3VWlXSC0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5FeTJKbERIUzhybV9XYXktMzVEd2tWc1JMN28wQkJ4VnphWlVkbzVyb2tIWi11Qkoza253eU0yZXFmblpsTUJ4YVdVUnRXeTE4c3phZGRxLVAwUjhVM19YOFZDYnRNYm9mZ3M3VWlXSC0?oc=5\" target=\"_blank\">S&P מזהירה את מטא: השקעות הענק ב-AI עלולות לעלות לה בדיר",
+  "date": "2026-10-31T12:42:00.000Z",
+  "fetched": "2026-10-31T14:33:12.630Z",
+  "fromCloud": "2026-10-31T1433.json"
  },
  {
   "id": "2e7a7e822bc8aa2b",
@@ -515,6 +559,17 @@
   "date": "2026-10-31T08:30:00.000Z",
   "fetched": "2026-10-31T08:33:13.352Z",
   "fromCloud": "2026-10-31T0833.json"
+ },
+ {
+  "id": "9263ebdf7b8d69c7",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "800 מיליארד דולר באותיות הקטנות: ההתחייבויות שאנתרופיק השאירה מחוץ למאזן - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6c21ldk0yUThIcGdhUDVtQlZRUkFuVERDWkxkaUhhemR1QTRxVGJoQnpUR3hpRTg5TGM4WUJfbWphbndGSFg4RHBrbUllY0stbXdfUEhoZm9nMlYwUEU5bC0wTkUwRmh0WDE2VQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB6c21ldk0yUThIcGdhUDVtQlZRUkFuVERDWkxkaUhhemR1QTRxVGJoQnpUR3hpRTg5TGM4WUJfbWphbndGSFg4RHBrbUllY0stbXdfUEhoZm9nMlYwUEU5bC0wTkUwRmh0WDE2VQ?oc=5\" target=\"_blank\">800 מיליארד דולר באותיות הקטנות: ההתחייבויות שאנתרופיק השאירה",
+  "date": "2026-10-31T08:20:00.000Z",
+  "fetched": "2026-10-31T14:33:12.630Z",
+  "fromCloud": "2026-10-31T1433.json"
  },
  {
   "id": "b7b65e8d039e7b09",
@@ -5322,170 +5377,5 @@
   "date": "2026-10-30T14:36:06.000Z",
   "fetched": "2026-10-30T19:39:18.189Z",
   "fromCloud": "2026-10-30T1939.json"
- },
- {
-  "id": "7f30ba2bf3d4c9ef",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Azora Therapeutics, Inc. – BOATS:AZR - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGpoRjJuNThUUjdkSUNHZmljYm0wQmszVXB0cEhUWUp5VHRIZktjV0wtUjl1TnNETDI1TVB1UV80M2ctSjRLaEZybFExQTZlY3hYeHpSQmxaM2FlTkZVaFU2TTk4UGtFdERrN1FMTDI1X3owWXNUR3JPbXpQWDJJM1pGdnF4dEMzek9jNkI3aG0ySkJDOTNTc1dhZ0NrMFdwWDdFdUp3Zw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGpoRjJuNThUUjdkSUNHZmljYm0wQmszVXB0cEhUWUp5VHRIZktjV0wtUjl1TnNETDI1TVB1UV80M2ctSjRLaEZybFExQTZlY3hYeHpSQmxaM2FlTkZVaFU2TTk4UGtFdERrN1FMTDI1X3owWXNUR3JPbXpQWDJJM1pGdnF4dEMzek9jNkI3aG0ySkJDOTNTc1dhZ0NrMFdwWDdFdUp3Zw?oc=",
-  "date": "2026-10-30T14:33:04.000Z",
-  "fetched": "2026-10-30T17:03:21.028Z",
-  "fromCloud": "2026-10-30T1703.json"
- },
- {
-  "id": "afb8b863459ce86e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "AstraZeneca CFO on AI, Earnings, Restructuring Plan - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenB2Z0R6SVdqekN2Y3k1dG9CczN1enR0c1BXb3Q0Ymh2aUYyaGJnRWttYVY4RkdTZTVJMjV6eU9QV3FVamx4UThLTjdJWjQzYS1TRVlXd2RhMjVhVVhBSFNfYTNRdTA2dzUtNU1feGZuRnRsdDJNS3A4VUczenJYcDFZcG9QWVRNMFpObVpPMS1pdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQenB2Z0R6SVdqekN2Y3k1dG9CczN1enR0c1BXb3Q0Ymh2aUYyaGJnRWttYVY4RkdTZTVJMjV6eU9QV3FVamx4UThLTjdJWjQzYS1TRVlXd2RhMjVhVVhBSFNfYTNRdTA2dzUtNU1feGZuRnRsdDJNS3A4VUczenJYcDFZcG9QWVRNMFpObVpPMS1pdw?oc=5\" target=\"_blank\">AstraZene",
-  "date": "2026-10-30T14:31:36.000Z",
-  "fetched": "2026-10-30T18:03:14.262Z",
-  "fromCloud": "2026-10-30T1803.json"
- },
- {
-  "id": "80659323eb610428",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1946997/000119312526440373/0001193125-26-440373-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-440373 <b>Size:</b> 198 KB <br>Item 7.01: Regulation FD Disclosure",
-  "date": "2026-10-30T14:31:29.000Z",
-  "fetched": "2026-10-30T14:33:13.453Z",
-  "fromCloud": "2026-10-30T1433.json"
- },
- {
-  "id": "1d31b6b7e29a9da3",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "תשואה של עד 8% מענקיות הטק: בנק אוף אמריקה ממליץ על האג\"ח שלהן ומעדיף אותן על פני המניות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CbmdFY0E1Rl92Q3RldmYyNDBENUlZVkdJTzhJb0ZIT2tSaGF3TzdFemNhVzd1cktpU2ZNSVIzVnAtSkpIai1OeHA4Y0F1RHpibzNGeTZUa0h2aGktU0lENzZVaFRtZ3NTRV9LSC02UDI?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5CbmdFY0E1Rl92Q3RldmYyNDBENUlZVkdJTzhJb0ZIT2tSaGF3TzdFemNhVzd1cktpU2ZNSVIzVnAtSkpIai1OeHA4Y0F1RHpibzNGeTZUa0h2aGktU0lENzZVaFRtZ3NTRV9LSC02UDI?oc=5\" target=\"_blank\">תשואה של עד 8% מענקיות הטק: בנק אוף אמריקה ממליץ על האג\"",
-  "date": "2026-10-30T14:21:00.000Z",
-  "fetched": "2026-10-30T14:33:13.453Z",
-  "fromCloud": "2026-10-30T1433.json"
- },
- {
-  "id": "1bcbc0c2f5c03541",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "CareTrust REIT lands $3.2B credit facility to fuel acquisition spree - Dealroom",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVVNCTzVXM3ZTU2k4Q1loRlh6LVpDTzVOUlRaTEp3Vll5ZXF2MHFITm43a2RmMVdlaFp0bWVsSHF5REpTUk1EVDh2STlRZFo5RjREeHdjdUVUUkNBM3pLNjdrVXJTck93aTFnOW9HV0lHVTVQUmFNSml1Z2ZaWE1nZ2hzYkh5UlJvSXdwdW1BNzFBZW1meHVaMC1ZbjhlTnBhNFFr?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVVNCTzVXM3ZTU2k4Q1loRlh6LVpDTzVOUlRaTEp3Vll5ZXF2MHFITm43a2RmMVdlaFp0bWVsSHF5REpTUk1EVDh2STlRZFo5RjREeHdjdUVUUkNBM3pLNjdrVXJTck93aTFnOW9HV0lHVTVQUmFNSml1Z2ZaWE1nZ2hzYkh5UlJvSXdwdW1BNzFBZW1meHVaMC1ZbjhlTnBhNFFr?oc=5\" tar",
-  "date": "2026-10-30T14:19:58.000Z",
-  "fetched": "2026-10-30T14:25:05.729Z",
-  "fromCloud": "2026-10-30T1425.json"
- },
- {
-  "id": "8bc9e2bc7ca5ce91",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מה האנליסטים חושבים על אינטל - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fek84bXlkQXpJOVBQUmFFLVhHRmQ0TWt2QVRJd21xUXRhMWQ5M2R2R0doTjhCcUREUEw1S1R1b0RBMmFqZnhaMFJqMlNBcS1DTHJwLUU2QVFJSFBxU1hhd2lFbXBkcWN2NS1iNl94TWY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1fek84bXlkQXpJOVBQUmFFLVhHRmQ0TWt2QVRJd21xUXRhMWQ5M2R2R0doTjhCcUREUEw1S1R1b0RBMmFqZnhaMFJqMlNBcS1DTHJwLUU2QVFJSFBxU1hhd2lFbXBkcWN2NS1iNl94TWY?oc=5\" target=\"_blank\">מה האנליסטים חושבים על אינטל</a>&nbsp;&nbsp;<font color=",
-  "date": "2026-10-30T14:19:00.000Z",
-  "fetched": "2026-10-30T14:33:13.453Z",
-  "fromCloud": "2026-10-30T1433.json"
- },
- {
-  "id": "abf0d16d475df7e0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "DHS Moves to New Acquisition Forecast Platform With Data Access Resuming November 5 - Homeland Security Today",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS24xQm1wS1BreVRHSDlKYWJQMHRRX2hIUTR1RzhZbGQxaDNCU2g0c0dXRWhTWFhVTlRsTkRFNE0zLU9WdTR5TDRhNk10OVFxQ2pIWllCZmFMcUNmQWlVS3BvSmIwU3N6Y001OWNLSEEteWFpVzcyZDZJTUtScnR6RDZ6UFZqSzY1b0htWjNTNkZZVGtheDlxTVFIWmVSSzQ5akJBRzVkQTEtTXFKY1JaMDZxUFd1UExGeGJZNmxISWpRRlk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS24xQm1wS1BreVRHSDlKYWJQMHRRX2hIUTR1RzhZbGQxaDNCU2g0c0dXRWhTWFhVTlRsTkRFNE0zLU9WdTR5TDRhNk10OVFxQ2pIWllCZmFMcUNmQWlVS3BvSmIwU3N6Y001OWNLSEEteWFpVzcyZDZJTUtScnR6RDZ6UFZqSzY1b0htWjNTNkZZVGtheDlxTVFIWmVSSzQ5akJBRzVkQTEtTX",
-  "date": "2026-10-30T14:17:30.000Z",
-  "fetched": "2026-10-30T14:25:05.729Z",
-  "fromCloud": "2026-10-30T1425.json"
- },
- {
-  "id": "f08787ff940e4f1b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Tigers new acquisition Tsung-Che Cheng in photos - The Detroit News",
-  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcmxkWWdPdlMtUkl5ZEQ3eHBYb2d5cEFpV1k4Z0tZVHV4ODN0eS1zbXdKeUdTNlRMUmNkN3JQazhqRHhnczdzSWE0RmtEQ2E4UE5RZk5qUkVnMDREaXI1NFpGbzNOMUNLaTAtdTd2OEwxYy03U1NyYXJWbVRqZ2pjeHM2bk1pQWN5UjFIMVFpdDMzb0RqN2s3d0VGLXNmV0wtWGZ0LW1iU1BXbHpjVHBzOUZwOGN1RHBjX0RkbE9zR2JBa3l4MGk4MTZVZW5jODkwYXhWd2QzNW8xaE5TUkZoMQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcmxkWWdPdlMtUkl5ZEQ3eHBYb2d5cEFpV1k4Z0tZVHV4ODN0eS1zbXdKeUdTNlRMUmNkN3JQazhqRHhnczdzSWE0RmtEQ2E4UE5RZk5qUkVnMDREaXI1NFpGbzNOMUNLaTAtdTd2OEwxYy03U1NyYXJWbVRqZ2pjeHM2bk1pQWN5UjFIMVFpdDMzb0RqN2s3d0VGLXNmV0wtWGZ0LW1iU1BXbH",
-  "date": "2026-10-30T14:17:23.000Z",
-  "fetched": "2026-10-30T14:25:05.729Z",
-  "fromCloud": "2026-10-30T1425.json"
- },
- {
-  "id": "308cf3baf1a8d322",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "הציבור הניף בבחירות שלט ״עצור״ לאגף החקיקה של ההפיכה המשטרית - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUV9pekVLZURHRVNCdGVIbGRNUkVfSmxRa05kWTFSdm1UcVdFajVSNXVSb1UxbEZ1OXU0WjQ3QmZlLTNHbEZ2TG9zXzJncU5fNHJIekRjRE5XSkVZNFJxaHQzTGJBSVQyY0w5WA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUV9pekVLZURHRVNCdGVIbGRNUkVfSmxRa05kWTFSdm1UcVdFajVSNXVSb1UxbEZ1OXU0WjQ3QmZlLTNHbEZ2TG9zXzJncU5fNHJIekRjRE5XSkVZNFJxaHQzTGJBSVQyY0w5WA?oc=5\" target=\"_blank\">הציבור הניף בבחירות שלט ״עצור״ לאגף החקיקה של ההפיכה המשטרית<",
-  "date": "2026-10-30T14:17:00.000Z",
-  "fetched": "2026-10-30T14:25:05.729Z",
-  "fromCloud": "2026-10-30T1425.json"
- },
- {
-  "id": "8740641dc6b26b84",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Higley approves bond refinancing to save taxpayers - yourvalley.net",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjZVVC0wRy1nSE16RTFlTDRmbi1kNm16UEgxbkJrTjRCMnZ1QWZWQThYMTl5clJGZHczZUdfN29ROUxnNEtFMU1rOHVEQlhwbzc2cHplbzlkYzhtSTgyTDR5YUx2bWxKQkdOdEtYWXJOR2F4eURMeDZibklsZmRrTnhjZm55ZWFwR0c5VURqNGtiekdpQXZmWXBwUXo1MC1VMDlEcElsWVYyYUJ2?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjZVVC0wRy1nSE16RTFlTDRmbi1kNm16UEgxbkJrTjRCMnZ1QWZWQThYMTl5clJGZHczZUdfN29ROUxnNEtFMU1rOHVEQlhwbzc2cHplbzlkYzhtSTgyTDR5YUx2bWxKQkdOdEtYWXJOR2F4eURMeDZibklsZmRrTnhjZm55ZWFwR0c5VURqNGtiekdpQXZmWXBwUXo1MC1VMDlEcElsWVYyYU",
-  "date": "2026-10-30T14:15:00.000Z",
-  "fetched": "2026-10-30T19:39:18.189Z",
-  "fromCloud": "2026-10-30T1939.json"
- },
- {
-  "id": "6401d539d04d0d8a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "AstraZeneca CFO says company is developing a GLP-1 pill - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVk11Z1BfajREbHRVaUQ5Szl6RVNTNDRjQUpTUUFxckJHS01kaXZNSlVYNS1vV0djMm55dnlsb2JjX0F0QkZZUVZRLUROcEVaVlpxcW0wcFZMY2taTVNuajc0djNqbE1jX1B4eUlnOU9MYU5UcFZfN215aTdHZlFxWGxOZTF4aGJVeklOenF2Ui13cmNiMS1xOFZFYmoySXc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVk11Z1BfajREbHRVaUQ5Szl6RVNTNDRjQUpTUUFxckJHS01kaXZNSlVYNS1vV0djMm55dnlsb2JjX0F0QkZZUVZRLUROcEVaVlpxcW0wcFZMY2taTVNuajc0djNqbE1jX1B4eUlnOU9MYU5UcFZfN215aTdHZlFxWGxOZTF4aGJVeklOenF2Ui13cmNiMS1xOFZFYmoySXc?oc=5\" target=\"",
-  "date": "2026-10-30T14:14:04.000Z",
-  "fetched": "2026-10-30T14:25:05.729Z",
-  "fromCloud": "2026-10-30T1425.json"
- },
- {
-  "id": "4d205c79595e9b89",
-  "source": "AV Network",
-  "group": "industry",
-  "title": "Puerto Rico Baseball Stadium Invigorates the Crowd with LEA Professional Solutions",
-  "link": "https://www.avnetwork.com/installations/sports-entertainment/puerto-rico-baseball-stadium-invigorates-the-crowd-with-lea-professional-solutions",
-  "summary": "Nine Connect Series 1504 amplifiers and a Connect Series 704 amplifier bring new life to the revamped stadium.",
-  "date": "2026-10-30T14:09:43.000Z",
-  "fetched": "2026-10-30T14:25:05.729Z",
-  "fromCloud": "2026-10-30T1425.json"
- },
- {
-  "id": "60defb00cdf0a9cf",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - BENCHMARK 2021-B31 MORTGAGE TRUST (0001894714) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1894714/000119312526440261/0001193125-26-440261-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001193125-26-440261 <b>Size:</b> 99 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-10-30T14:09:16.000Z",
-  "fetched": "2026-10-30T14:25:05.729Z",
-  "fromCloud": "2026-10-30T1425.json"
- },
- {
-  "id": "df4a2388829f1c14",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Sky Constant Century Inc. (0001573766) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1573766/000182912626011789/0001829126-26-011789-index.htm",
-  "summary": "<b>Filed:</b> 2026-10-30 <b>AccNo:</b> 0001829126-26-011789 <b>Size:</b> 194 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 8.01: Other Events",
-  "date": "2026-10-30T14:08:25.000Z",
-  "fetched": "2026-10-30T14:25:05.729Z",
-  "fromCloud": "2026-10-30T1425.json"
- },
- {
-  "id": "0422cbd17a59c24a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Jinko Holdings Eyes AI and Data Center Boom As Losses Shrink, CFO Exits - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1NvSHlBUjFqU2lWMkF3Ym9KTDA3SEZkUGpxRzlKdFI0Mm1vUEJ1aUp1Vnl1S2JxeW9vV2FuejNzZzdGTE1ZaGhud3BTdWxJRERFWU0zaW9UdUpkWXVucF95NDU4VmpCNU1QbWozNUl5ck9xaGZ6LVFXbDg2UVNSUWtsbmllQWNZc05zcmZXWnpEM25ROTVXMkJTM1otX3p5VWQzQ1lybERLSDdENHRIa1ZtQkE2clFhRk9vNDJCeVRVcmYzSDFyZQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1NvSHlBUjFqU2lWMkF3Ym9KTDA3SEZkUGpxRzlKdFI0Mm1vUEJ1aUp1Vnl1S2JxeW9vV2FuejNzZzdGTE1ZaGhud3BTdWxJRERFWU0zaW9UdUpkWXVucF95NDU4VmpCNU1QbWozNUl5ck9xaGZ6LVFXbDg2UVNSUWtsbmllQWNZc05zcmZXWnpEM25ROTVXMkJTM1otX3p5VWQzQ1lybERLSD",
-  "date": "2026-10-30T14:08:22.000Z",
-  "fetched": "2026-10-30T17:33:13.459Z",
-  "fromCloud": "2026-10-30T1733.json"
  }
 ]
