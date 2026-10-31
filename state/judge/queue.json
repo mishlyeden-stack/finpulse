@@ -1,5 +1,49 @@
 [
  {
+  "id": "288af35ad8160939",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "המוכרים עזבו את העיר, הקונים באו מבחוץ: בכמה נמכרה דירת 4 חדרים בעיר הדרומית?",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561087#utm_source=RSS",
+  "summary": "דירת 4 חדרים בשטח של 113 מ\"ר בנתיבות נמכרה תמורת 1.695 מיליון שקל &#8226; \"יש הרבה בנייה חדשה בעיר, מה שמגדיל מאוד את ההיצע ומחזק את הכוח של הקונים\" &#8226; ועוד עסקאות נדל\"ן מהשבוע האחרון",
+  "date": "2026-10-31T07:00:00.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
+  "id": "530a0b214f621e38",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Big Tech Data Center Spending Tops $720B [2026] - https://tech-insider.org/",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaU5tTlBpLVNRMGZpTXVIVkF6cGVzVlpmOXdtdnpTZ3RsUld1c0E2UDA0dUxrV3B2YVFMLW8zSXFVaXRxRVRKd2ZCTnRfaDhyQzBudVlRZFhMWnV6ZEhGdkxTdVN1NXVkWEFaTmhuREM4dUxOYU5YQ21UcUZ4R0pDUmJjSzNDSTRoV0dLQkQ4Q3I?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNaU5tTlBpLVNRMGZpTXVIVkF6cGVzVlpmOXdtdnpTZ3RsUld1c0E2UDA0dUxrV3B2YVFMLW8zSXFVaXRxRVRKd2ZCTnRfaDhyQzBudVlRZFhMWnV6ZEhGdkxTdVN1NXVkWEFaTmhuREM4dUxOYU5YQ21UcUZ4R0pDUmJjSzNDSTRoV0dLQkQ4Q3I?oc=5\" target=\"_blank\">Big Tech Dat",
+  "date": "2026-10-31T06:51:56.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
+  "id": "ed7f7a0c0b5fed68",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "הלגונה הכחולה בדרך לבורסה, וזו הולכת להיות הנפקה לא שגרתית",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561451#utm_source=RSS",
+  "summary": "אתר הספא המפורסם באיסלנד שרד התפרצויות געשיות, פינויי תיירים וסגירות חוזרות, וכעת הוא בדרך לבורסה במדינה &bull; עם הכנסות של 156 מיליון אירו ותוכנית אופציות ל-700 עובדים, נותרה רק שאלה אחת: איך מתמחרים חברה שהר געש יכול לסגור בכל רגע?",
+  "date": "2026-10-31T06:41:00.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
+  "id": "32aad1e137dcdf6d",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "What if the AI runs out of electricity? - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxQzZzbzFFTXdfejgyd1hoY2ZhUnB0MndGNEt1ZlExRDExNU4ybzloVHoxanhpT1ByaWRKSnhOZXhKeFd2b0dRMlNQTUNZemVLZVpYQUQ5aGtGajNSdDNyQkhUVi02YTA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxQzZzbzFFTXdfejgyd1hoY2ZhUnB0MndGNEt1ZlExRDExNU4ybzloVHoxanhpT1ByaWRKSnhOZXhKeFd2b0dRMlNQTUNZemVLZVpYQUQ5aGtGajNSdDNyQkhUVi02YTA?oc=5\" target=\"_blank\">What if the AI runs out of electricity?</a>&nbsp;&nbsp;<font color=\"",
+  "date": "2026-10-31T06:35:00.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
   "id": "2ceab34c7e651d16",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -110,6 +154,17 @@
   "fromCloud": "2026-10-31T0533.json"
  },
  {
+  "id": "f0adaac0eec00181",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "M3-Brigade Acquisition VI Corp. Estimates – NASDAQ:MBVIU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5YUdKSVVGNEhMS192Rko0c2dYRjhQX05ic0V3dS1qYWhiSDZvMzROdllhNWJTcVNwamxyZ0ljczV0Y0Ita2lmZWZENW1RSEc3dmF6cHVQOURZcDdyU3pvWElaM1ZmbTNNWnYwNGRJSjBoQldmVEYwQ2Nn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB5YUdKSVVGNEhMS192Rko0c2dYRjhQX05ic0V3dS1qYWhiSDZvMzROdllhNWJTcVNwamxyZ0ljczV0Y0Ita2lmZWZENW1RSEc3dmF6cHVQOURZcDdyU3pvWElaM1ZmbTNNWnYwNGRJSjBoQldmVEYwQ2Nn?oc=5\" target=\"_blank\">M3-Brigade Acquisition VI Corp. Estimates –",
+  "date": "2026-10-31T05:27:20.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
   "id": "bd20fbd0ec8833ce",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -165,6 +220,17 @@
   "fromCloud": "2026-10-31T0533.json"
  },
  {
+  "id": "ac12973c2aeb53b8",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Lula’s surprise election victory sends agri-commodities tumbling",
+  "link": "https://www.ft.com/content/f0ca6771-20a2-4146-bd3f-4796d3c86094?syn-25a6b1a6=1",
+  "summary": "Steep fall in Brazilian real has made the country’s exports more competitive, undermining pricing power for farmers in other countries",
+  "date": "2026-10-31T05:00:31.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
   "id": "9a04ba670c942b03",
   "source": "Financial Times",
   "group": "global-press",
@@ -185,6 +251,17 @@
   "date": "2026-10-31T04:53:50.000Z",
   "fetched": "2026-10-31T05:03:15.780Z",
   "fromCloud": "2026-10-31T0503.json"
+ },
+ {
+  "id": "fc461400fd6507c8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of KENTEC INC – TPEX:5235 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkxKSGpLdkxIZnc4ZjQzcmx3RHZtYTNkMEV3SnBRLUpGYXAza3pQdjJqVzJRTDlyQzlISjF4R2VPQWkxOWxJaHppUVZWcTduT1pORjRsSXBtdXVzVG80LW5LRE4tS1cxemowa2NuTXNIdjcyVGJCcE1lSDZMSEF4VEQzR19EYTBkWlE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkxKSGpLdkxIZnc4ZjQzcmx3RHZtYTNkMEV3SnBRLUpGYXAza3pQdjJqVzJRTDlyQzlISjF4R2VPQWkxOWxJaHppUVZWcTduT1pORjRsSXBtdXVzVG80LW5LRE4tS1cxemowa2NuTXNIdjcyVGJCcE1lSDZMSEF4VEQzR19EYTBkWlE?oc=5\" target=\"_blank\">Free cash flow of KE",
+  "date": "2026-10-31T04:49:47.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
  },
  {
   "id": "79d72664014f514f",
@@ -374,6 +451,17 @@
   "fromCloud": "2026-10-31T0403.json"
  },
  {
+  "id": "95441dd1e72cec69",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "תבעה 2.4 מיליון שקל מחברת החשמל ותשלם לה 100 אלף - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORGQyVk1LdnFGWFlHelN4aFNjUHhTb2tpU1RRczN0U3FNT0VzOGpIQWFSR3NDUkVYMTR4TDcwOWs4alkyM24taTVUbzZOSFBoM2w4OVpwQndidDNhVWJnNzNHbzZ4REk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORGQyVk1LdnFGWFlHelN4aFNjUHhTb2tpU1RRczN0U3FNT0VzOGpIQWFSR3NDUkVYMTR4TDcwOWs4alkyM24taTVUbzZOSFBoM2w4OVpwQndidDNhVWJnNzNHbzZ4REk?oc=5\" target=\"_blank\">תבעה 2.4 מיליון שקל מחברת החשמל ותשלם לה 100 אלף</a>&nbsp;&nbsp;<fon",
+  "date": "2026-10-31T02:39:00.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
   "id": "a62cca622728b754",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -517,6 +605,17 @@
   "fromCloud": "2026-10-31T0203.json"
  },
  {
+  "id": "bde8432d0efa18b9",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ההצמדה בוטלה: חנן מור תשיב 2.66 מיליון שקל לרוכשי דירות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ad2JhNy1XeWtpaXJxajZVcFRfeHdtU2JzVkwtYVVtV2d0ekQya2pSTWFWTWI1TjhhdlM3STJTNlNjU3FWZ2NQa1NkRHNnYXhMNWRjeHdCeGw2Uk51Q3ZDRVBGVVZqZzg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ad2JhNy1XeWtpaXJxajZVcFRfeHdtU2JzVkwtYVVtV2d0ekQya2pSTWFWTWI1TjhhdlM3STJTNlNjU3FWZ2NQa1NkRHNnYXhMNWRjeHdCeGw2Uk51Q3ZDRVBGVVZqZzg?oc=5\" target=\"_blank\">ההצמדה בוטלה: חנן מור תשיב 2.66 מיליון שקל לרוכשי דירות</a>&nbsp;&nb",
+  "date": "2026-10-31T00:58:00.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
   "id": "5a25919dbccd165e",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -548,6 +647,17 @@
   "date": "2026-10-31T00:45:00.000Z",
   "fetched": "2026-10-31T03:03:12.440Z",
   "fromCloud": "2026-10-31T0303.json"
+ },
+ {
+  "id": "d3324c33010f78ed",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "צוק הפטנטים מתקרב: אסטרהזנקה, נוברטיס ו-GSK בוחרות דרכים שונות לעבור אותו - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uN0prbTMyaUtWRDFGUkZscEJSRjFtdFRSaV9zX1owUnFuUkxVT052V0hiTWZCQmJJWHlldkVJcnNqNUpkYWVkOHVaRGl2UHZfTnpxem1zVTd3Mk1LYjJnNzA5czBMOWJQRktSbFlBc3I?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9uN0prbTMyaUtWRDFGUkZscEJSRjFtdFRSaV9zX1owUnFuUkxVT052V0hiTWZCQmJJWHlldkVJcnNqNUpkYWVkOHVaRGl2UHZfTnpxem1zVTd3Mk1LYjJnNzA5czBMOWJQRktSbFlBc3I?oc=5\" target=\"_blank\">צוק הפטנטים מתקרב: אסטרהזנקה, נוברטיס ו-GSK בוחרות דרכים",
+  "date": "2026-10-31T00:45:00.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
  },
  {
   "id": "5edb1e30b1042b49",
@@ -779,6 +889,17 @@
   "date": "2026-10-30T23:32:42.000Z",
   "fetched": "2026-10-31T04:03:12.493Z",
   "fromCloud": "2026-10-31T0403.json"
+ },
+ {
+  "id": "f9bd384e423419bb",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Poland suspends top judges as battle over rule of law escalates",
+  "link": "https://www.ft.com/content/1be69ebe-0c55-446e-9abf-84ac9e99c51e?syn-25a6b1a6=1",
+  "summary": "President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court",
+  "date": "2026-10-30T23:32:09.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
  },
  {
   "id": "fdb59986a91897e9",
@@ -3190,6 +3311,17 @@
   "fromCloud": "2026-10-30T1733.json"
  },
  {
+  "id": "cee91b477c7ec568",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Lula, Brazil’s 81-year-old comeback kid",
+  "link": "https://www.ft.com/content/5726c4a2-61b7-4296-9c0a-89bf1630e09f?syn-25a6b1a6=1",
+  "summary": "The four-time president has pulled off one of the greatest unexpected victories in modern democratic politics",
+  "date": "2026-10-30T16:57:16.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
   "id": "eb0b4972a77f61de",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -5060,6 +5192,17 @@
   "fromCloud": "2026-10-31T0603.json"
  },
  {
+  "id": "df44687a36b184f5",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "תשואות ספטמבר 2025 – קופות גמל, קרנות השתלמות ופנסיה - Supermarker",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkJRZGU4ZGEzMW91QkZsWVhKRWtUbm9ZTUpxTTBnRnE3M1pNMEUwTVVFTk56ZFBlaEkzaGdOYUxxa2l5R1JGeUt6dENJOVFWVGRkWFF2MDZHcUhnX195VTV4WUwzTzNaNThfOTVtQ0lsU3AyQWROa0l3VkZLZ1pmZlNNbw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkJRZGU4ZGEzMW91QkZsWVhKRWtUbm9ZTUpxTTBnRnE3M1pNMEUwTVVFTk56ZFBlaEkzaGdOYUxxa2l5R1JGeUt6dENJOVFWVGRkWFF2MDZHcUhnX195VTV4WUwzTzNaNThfOTVtQ0lsU3AyQWROa0l3VkZLZ1pmZlNNbw?oc=5\" target=\"_blank\">תשואות ספטמבר 2025 – קופות גמ",
+  "date": "2026-10-30T12:46:45.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
+ },
+ {
   "id": "85f4f2d7487d915a",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -5135,6 +5278,17 @@
   "date": "2026-10-30T12:46:44.000Z",
   "fetched": "2026-10-31T06:33:12.138Z",
   "fromCloud": "2026-10-31T0633.json"
+ },
+ {
+  "id": "86b1dc7a161c2c28",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "תשואות פברואר 2026 – קופות גמל, קרנות השתלמות ופנסיה - Supermarker",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUF4cHVtLXVkd1FNQUhKTVh1WFRONXM2ZGJVWWI4cjBCNHVUcm95dGUzUW13a0p1SHZWR0dyMV96T3RTTThHb195OERidUc5YjJDQW0xaVV1YXUzYzBKb0dNcV9SWjh0alA4TC1KcjJnU0o0cGF5MHFmQ2tYbFRTdkFYNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUF4cHVtLXVkd1FNQUhKTVh1WFRONXM2ZGJVWWI4cjBCNHVUcm95dGUzUW13a0p1SHZWR0dyMV96T3RTTThHb195OERidUc5YjJDQW0xaVV1YXUzYzBKb0dNcV9SWjh0alA4TC1KcjJnU0o0cGF5MHFmQ2tYbFRTdkFYNA?oc=5\" target=\"_blank\">תשואות פברואר 2026 – קופות גמ",
+  "date": "2026-10-30T12:46:44.000Z",
+  "fetched": "2026-10-31T07:03:12.766Z",
+  "fromCloud": "2026-10-31T0703.json"
  },
  {
   "id": "ad3ef709a03dd81b",
@@ -7698,236 +7852,5 @@
   "date": "2026-10-30T07:09:00.000Z",
   "fetched": "2026-10-30T07:21:26.990Z",
   "fromCloud": "2026-10-30T0721.json"
- },
- {
-  "id": "b7fba8bc994eb759",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Novotek CFO Helena Bramstorp To Leave Company - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzAzMU9LVnQ2NUpTWGpEYlEwejFNdDNlem44UlVGM0VxTFVZV19XODJBSkVIc3NYUDJ3ekJpVDBfNEVDNnItMkRDYU5pMGtvMFF6c2pfeFhSdXdVemdHUlUzRlkyekxGUExrRVl1eHAzeDc4TTBsNWR0eHZzOUoyVlV5alpTMnZ0aS1FOXlKVE9ZM2E0Y1JMSklPVU5DYlVEWGpnUWlFM0dXOWRUWGtpN2lYbnRtUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzAzMU9LVnQ2NUpTWGpEYlEwejFNdDNlem44UlVGM0VxTFVZV19XODJBSkVIc3NYUDJ3ekJpVDBfNEVDNnItMkRDYU5pMGtvMFF6c2pfeFhSdXdVemdHUlUzRlkyekxGUExrRVl1eHAzeDc4TTBsNWR0eHZzOUoyVlV5alpTMnZ0aS1FOXlKVE9ZM2E0Y1JMSklPVU5DYlVEWGpnUWlFM0dXOW",
-  "date": "2026-10-30T07:03:20.000Z",
-  "fetched": "2026-10-30T09:33:12.296Z",
-  "fromCloud": "2026-10-30T0933.json"
- },
- {
-  "id": "188ad02994b52a54",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "מגדל תפרק שתי קרנות נוספות, הטייפון ממשיך לשנות את מחירי הביצוע - פאנדר",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wVUdWa1BDenpLV3pvQ0FBZWs5VnAxbUp4NF8yM2RiNzZtMFZsVWRoZ3YtekZtZFdocnlyLWdqN1U2Wkk3OXFGTjg2MFJEMlBV?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wVUdWa1BDenpLV3pvQ0FBZWs5VnAxbUp4NF8yM2RiNzZtMFZsVWRoZ3YtekZtZFdocnlyLWdqN1U2Wkk3OXFGTjg2MFJEMlBV?oc=5\" target=\"_blank\">מגדל תפרק שתי קרנות נוספות, הטייפון ממשיך לשנות את מחירי הביצוע</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
-  "date": "2026-10-30T07:00:50.000Z",
-  "fetched": "2026-10-30T09:03:12.574Z",
-  "fromCloud": "2026-10-30T0903.json"
- },
- {
-  "id": "5a14f5d3ea347a10",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Key facts: CANADIAN NATL RAILWAY CO to Report Q3 2026; CFO to Retire - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFREejduZDBCZmRsemlrYnlZX2FySmdVM09yd1NBS1ppcDhzUGpYNnNHQ2lCTWpkaVRSV01XbE5NMDlaSzBSbW5QTUxpRjQ3ams5Rkw5aHpwX0I5Y1Z2Mmdkc0UwYXZmeURQV3A5cWdqN0RPbWtWTm1PLWZjYnlQWjE5UlR4R1FYT0FyQ3BJeVl3MmpxeTJfeWVjcmIxanNnZW5ibWhEc2NLaS1ISElJY2V4ZzM4WjBpNlpDRjRXMGVYbTUweEtz?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFREejduZDBCZmRsemlrYnlZX2FySmdVM09yd1NBS1ppcDhzUGpYNnNHQ2lCTWpkaVRSV01XbE5NMDlaSzBSbW5QTUxpRjQ3ams5Rkw5aHpwX0I5Y1Z2Mmdkc0UwYXZmeURQV3A5cWdqN0RPbWtWTm1PLWZjYnlQWjE5UlR4R1FYT0FyQ3BJeVl3MmpxeTJfeWVjcmIxanNnZW5ibWhEc2NLaS",
-  "date": "2026-10-30T07:00:00.000Z",
-  "fetched": "2026-10-30T07:21:26.990Z",
-  "fromCloud": "2026-10-30T0721.json"
- },
- {
-  "id": "7c23567d3ee37bbd",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Kratos expands hypersonic manufacturing capability with acquisition of AMCM M 8K large-format metal additive manufacturing system - Defense and Munitions",
-  "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTjZCYzFkU0dCa0VMWDNiZnFyUjBrV0NvS2hObWJyalRmTjVlaEVLYVBra2gtZVlYU1BsQ0FuX2N4OEptNFVRbHFZd3lhaXlYUE9lcUxuOWZCMUVsZmlDZHJqaUxnbDRkSEZWbmc5MGR2NHQtTzBXU2ZQT1hsQURHOUZYUXB2NExvSHpJbWVndVFoem1HcFpfdF8zdVlvV2w1cXpuTF9fZWtwVS1QOUFPYmdnYWstS1VKVWlwSUEyaXJlMlhDMmxuVGRGNDVxTV9udHRHcmlRNkh2cHVDQlR0THZINURvQXZiUEN3bjFNdVh2SU9SbzNUN3pmWER5amNL?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNTjZCYzFkU0dCa0VMWDNiZnFyUjBrV0NvS2hObWJyalRmTjVlaEVLYVBra2gtZVlYU1BsQ0FuX2N4OEptNFVRbHFZd3lhaXlYUE9lcUxuOWZCMUVsZmlDZHJqaUxnbDRkSEZWbmc5MGR2NHQtTzBXU2ZQT1hsQURHOUZYUXB2NExvSHpJbWVndVFoem1HcFpfdF8zdVlvV2w1cXpuTF9fZWtwVS",
-  "date": "2026-10-30T07:00:00.000Z",
-  "fetched": "2026-10-30T08:33:12.147Z",
-  "fromCloud": "2026-10-30T0833.json"
- },
- {
-  "id": "bf82cd3f7bfc6b63",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "הירידות בטכנולוגיה מגיעות לאסיה: טוקיו מאבדת 2%; החוזים על נאסד\"ק מוחקים 1.8% - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oN3R5bXZXNjl0ejRSeXFUR1FwM0ItdUZjbGc3aVA1azB5R2V4MmZfTVFXYkV0NFZNamh5eFgwTmtLeW9LdGo0aFUtQURzamhLNEd3RFBKQ290YzRybnM4dHh3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oN3R5bXZXNjl0ejRSeXFUR1FwM0ItdUZjbGc3aVA1azB5R2V4MmZfTVFXYkV0NFZNamh5eFgwTmtLeW9LdGo0aFUtQURzamhLNEd3RFBKQ290YzRybnM4dHh3?oc=5\" target=\"_blank\">הירידות בטכנולוגיה מגיעות לאסיה: טוקיו מאבדת 2%; החוזים על נאסד\"ק מוחקים 1.",
-  "date": "2026-10-30T06:59:33.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "67aaa876e50a6f42",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Mitsubishi Logistics Corporation - Acquisition Of Shares Is Scheduled To Be Completed In Q4 Of Fiscal Year Ending March 31, 2027 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPanRHS1JiM3JiSWtjamRaTHpLM2U2V0sweHA1WEhERU1rd3g0R0M0bm1ZdjI0Mzc3MTU2T2lNZC1PckxZM1FYN2QwODE3WmFIc2l5MzZKcGdoTVhWT0psN3JlY2FseU5fd3hZc040Z1hFLTVaWVhwbTJEUl9VWjUzcWU4RHdUQ0FETHd5QjJqdzEybzNXUHFwTXVtSFJCaFNrS0NFQkpKTFJ1TjBrVFI0UDhTWDFBZFVQV1BtS2JITUpCblBRaGZhdFVYZWI3R0oxVklqSmI1S2xZUzNDdzl2SVd1UFZCNjloV0JOdnNSM0ZENWJYRXhxY1I5V05lbzBlVktUNXF5dDQzUENXUHB4SEtvVl9Rd0NlQ2hMNU9tN2c?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPanRHS1JiM3JiSWtjamRaTHpLM2U2V0sweHA1WEhERU1rd3g0R0M0bm1ZdjI0Mzc3MTU2T2lNZC1PckxZM1FYN2QwODE3WmFIc2l5MzZKcGdoTVhWT0psN3JlY2FseU5fd3hZc040Z1hFLTVaWVhwbTJEUl9VWjUzcWU4RHdUQ0FETHd5QjJqdzEybzNXUHFwTXVtSFJCaFNrS0NFQkpKTFJ1Tj",
-  "date": "2026-10-30T06:58:00.000Z",
-  "fetched": "2026-10-30T07:21:26.990Z",
-  "fromCloud": "2026-10-30T0721.json"
- },
- {
-  "id": "becd4970563bcf10",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "French economy contracts 0.1% in third quarter",
-  "link": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1",
-  "summary": "Eurozone’s second-largest economy is grappling with high energy prices and a surge in borrowing costs",
-  "date": "2026-10-30T06:54:08.000Z",
-  "fetched": "2026-10-30T07:21:26.990Z",
-  "fromCloud": "2026-10-30T0721.json"
- },
- {
-  "id": "65fb1dd23fc725a7",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "כשהבורסה ממתינה להתפזרות הערפל הפוליטי, ירידות ה–AI מחו\"ל יגיעו היום - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTlnZlZxQWwyOXpJa3M0NHI0SFJYZHU0MWtob01lZ0tSMEw5ZGFHelR2UlNRdXg5RURNclc5ZVlybnBrRF9FWk5wQnQ3ZFdwNGhUVTJlNjE3NG1vZmR2bTBnVFpPYkJTTFdEVUZYamFaTl92aXBDVzBMNkc1VjZMcXZZTVAzMWZaa19lZ3kwOHdpYml6QVdGNU5WbXpPZ0VwYXZF?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTlnZlZxQWwyOXpJa3M0NHI0SFJYZHU0MWtob01lZ0tSMEw5ZGFHelR2UlNRdXg5RURNclc5ZVlybnBrRF9FWk5wQnQ3ZFdwNGhUVTJlNjE3NG1vZmR2bTBnVFpPYkJTTFdEVUZYamFaTl92aXBDVzBMNkc1VjZMcXZZTVAzMWZaa19lZ3kwOHdpYml6QVdGNU5WbXpPZ0VwYXZF?oc=5\" tar",
-  "date": "2026-10-30T06:54:00.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "a1d50eaca4d323cf",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fresh Off Jeffery Simmons Blockbuster Acquisition, Bears Linked to Chargers' Linebacker Deal, Says NFL Insider - Yahoo Sports",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHZpTjM3ZGRaVXUtZloxSjFfYkFfOXFRQ0M1S1M1Y3FmbjRQT1FvM3hEalFGU3FqQmEyNUtDazNoNzc5OTQ2TTdkNXBmOTV4aFhOb3h1TXpYaW94ZUk2QUk2TENncTlNYTBYX2ozS1BPenVXa3YzWThXbHdhVl9fUnlNcVN0eWU0UnhPZDJ5UQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHZpTjM3ZGRaVXUtZloxSjFfYkFfOXFRQ0M1S1M1Y3FmbjRQT1FvM3hEalFGU3FqQmEyNUtDazNoNzc5OTQ2TTdkNXBmOTV4aFhOb3h1TXpYaW94ZUk2QUk2TENncTlNYTBYX2ozS1BPenVXa3YzWThXbHdhVl9fUnlNcVN0eWU0UnhPZDJ5UQ?oc=5\" target=\"_blank\">Fresh Off Jef",
-  "date": "2026-10-30T06:53:00.000Z",
-  "fetched": "2026-10-30T13:03:51.578Z",
-  "fromCloud": "2026-10-30T1303.json"
- },
- {
-  "id": "028deab924d3aca7",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "עיכוב של שבוע שעשוי לעלות 30 מיליון דולר: למה דני אבדיה איבד את הזכאות לסופרמקס - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EaWFLZVR1ekJsbG41b2c3alQ2SDFvVlRybVhLZTB4SEJjemJKV0wxNlI5dGQ5VFowdXJaM0dBUHdicVNLdENZWnZZZGZYUVA3Ny1GY2lvT2oyclotZG92SkJMM0ZSUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EaWFLZVR1ekJsbG41b2c3alQ2SDFvVlRybVhLZTB4SEJjemJKV0wxNlI5dGQ5VFowdXJaM0dBUHdicVNLdENZWnZZZGZYUVA3Ny1GY2lvT2oyclotZG92SkJMM0ZSUQ?oc=5\" target=\"_blank\">עיכוב של שבוע שעשוי לעלות 30 מיליון דולר: למה דני אבדיה איבד את הזכאו",
-  "date": "2026-10-30T06:52:00.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "933a85c3d610e03d",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "3,000 כרטיסים ועד 70 אירו למושב: מכבי תל אביב מעבירה את היורוליג ללימסול - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBod25QUjl5Ym9PUi1qd1htR2NyRXVtZXFxNXNqd2ZxSE4xeWEyU3lpd3hCRnlpLTFmaG5iejN0SjNYeUxnSUY4MWg3aGgwUWRtMS1YR2ViNFRxY2FZcW1wNDVyWldsUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBod25QUjl5Ym9PUi1qd1htR2NyRXVtZXFxNXNqd2ZxSE4xeWEyU3lpd3hCRnlpLTFmaG5iejN0SjNYeUxnSUY4MWg3aGgwUWRtMS1YR2ViNFRxY2FZcW1wNDVyWldsUQ?oc=5\" target=\"_blank\">3,000 כרטיסים ועד 70 אירו למושב: מכבי תל אביב מעבירה את היורוליג ללימ",
-  "date": "2026-10-30T06:52:00.000Z",
-  "fetched": "2026-10-30T08:03:11.734Z",
-  "fromCloud": "2026-10-30T0803.json"
- },
- {
-  "id": "022622770c02fc61",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "\"לכנסת יש יותר לגיטימציה מאשר לממשלה\" - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RR1paR2pZdW9oRHNLNWtFNzBMMVl4QXRkOEpBVHkybEd3bks5a0ZqVzMtcGxHVklHcDVKRmc4cHEwTEh0ZzdDdnhmbHAwRFNwekV5LW9KckFmSG5RZ253bmNUR0x2MjA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RR1paR2pZdW9oRHNLNWtFNzBMMVl4QXRkOEpBVHkybEd3bks5a0ZqVzMtcGxHVklHcDVKRmc4cHEwTEh0ZzdDdnhmbHAwRFNwekV5LW9KckFmSG5RZ253bmNUR0x2MjA?oc=5\" target=\"_blank\">\"לכנסת יש יותר לגיטימציה מאשר לממשלה\"</a>&nbsp;&nbsp;<font color=\"#6",
-  "date": "2026-10-30T06:50:00.000Z",
-  "fetched": "2026-10-30T08:03:11.734Z",
-  "fromCloud": "2026-10-30T0803.json"
- },
- {
-  "id": "26d8756ac28f0ad0",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "סמוטריץ' חתם על צו סבסוד הדלק",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001561439#utm_source=RSS",
-  "summary": "לאחר שמחיר הדלק אמור היה לעלות ב-5 בנובמבר ל-8.35 שקלים, שר האוצר בצלאל סמוטריץ' חתם על צו לסבסוד הבלו על הדלק &#8226; החל מה-5 בנובמבר יעמוד המחיר לליטר בנזין על 7.85 שקל",
-  "date": "2026-10-30T06:44:00.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "a9b7bcaaa22955cc",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "ילד איבד עין ליד ביתו - העירייה תשלם 2 מיליון שקל",
-  "link": "https://www.ynet.co.il/economy/article/syzlsog6gg",
-  "summary": "בן 10 מטמרה מעד על אבנים בדרכו מהמכולת, וענף עץ חדר לעינו הימנית. הרשות המקומית טענה שהוריו התרשלו כשאפשרו לו לצאת לבד, אך היא נדחתה בביהמ\"ש",
-  "date": "2026-10-30T06:42:01.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "4845f7195a5b6d89",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "זכתה בירושת אימה – ואיבדה אותה כי התערבה בצוואה",
-  "link": "https://www.ynet.co.il/economy/article/sjxqfsl6ze",
-  "summary": "בת שקיבלה משק חקלאי הכחישה תחילה קשר להכנת המסמך, אך בהמשך הודתה שניסחה טיוטה. ביהמ\"ש ביטל את ההורשה חרף הסכמת אחיה לרישום הנחלה על שמה",
-  "date": "2026-10-30T06:41:21.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "0b727892b049d4d7",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Paris Air Show tells Israeli defense companies there is no room for them - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSFUxLWM2d21hVWZvNTFvOS1sY1pLTmg0cXVpUlZad0lZQkpZZWotYnNLRUVMck9aTkRlSTcwOFZjTExkWER3b0g0dkphZ2ZMU2dnYkNnV0Eza3pUR1JIbnVuajE0LVE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSFUxLWM2d21hVWZvNTFvOS1sY1pLTmg0cXVpUlZad0lZQkpZZWotYnNLRUVMck9aTkRlSTcwOFZjTExkWER3b0g0dkphZ2ZMU2dnYkNnV0Eza3pUR1JIbnVuajE0LVE?oc=5\" target=\"_blank\">Paris Air Show tells Israeli defense companies there is no room for ",
-  "date": "2026-10-30T06:41:00.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "9ab706b0bd9ebaa2",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "פוקס מעלה את תחזית הרווח התפעולי ל-2026, מזהירה מהאטה ברבעון הרביעי מאת Investing.com - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aZ1pLc0lEMUNoRmpfX01DckNvTUNIOU9wb0J2emlpbWxuWGxrclZDNGZPWk55Y3l3azJLcTdkQWZUWUpfeDNBaUNrcW15VThOZ1JfVmNIUXB4WFVEUDk2NDNOMWpaV1lrUURhd21EZWE3M0FZ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1aZ1pLc0lEMUNoRmpfX01DckNvTUNIOU9wb0J2emlpbWxuWGxrclZDNGZPWk55Y3l3azJLcTdkQWZUWUpfeDNBaUNrcW15VThOZ1JfVmNIUXB4WFVEUDk2NDNOMWpaV1lrUURhd21EZWE3M0FZ?oc=5\" target=\"_blank\">פוקס מעלה את תחזית הרווח התפעולי ל-2026, מזהירה מהא",
-  "date": "2026-10-30T06:40:19.000Z",
-  "fetched": "2026-10-30T08:33:12.147Z",
-  "fromCloud": "2026-10-30T0833.json"
- },
- {
-  "id": "2361bc022e0ada49",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "מאות חשבונות הימרו על נתניהו רגע לפני המדגמים - פולימרקט חוקרת - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGZJTjRoS3BzOUVoYnNDQ1c3WXcxLVE1Y1JyNW54MjBIaElwSlN4ZFBiNmJZa0ExZlM1dmNOdFR0czUyM3RqSGFENElJRHdWVVo1YXFpTFhmZkl3MlBuSk9BNlREeXBSR3Z6Z3BZYzRsaHpZeEl1cmRtcHpHZWMyb1hMRUhyWkdKb0dxU1Myd19sSVB3RkFDV0JBTU9hd1hESm5EUXMtUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGZJTjRoS3BzOUVoYnNDQ1c3WXcxLVE1Y1JyNW54MjBIaElwSlN4ZFBiNmJZa0ExZlM1dmNOdFR0czUyM3RqSGFENElJRHdWVVo1YXFpTFhmZkl3MlBuSk9BNlREeXBSR3Z6Z3BZYzRsaHpZeEl1cmRtcHpHZWMyb1hMRUhyWkdKb0dxU1Myd19sSVB3RkFDV0JBTU9hd1hESm5EUXMtUQ?oc=",
-  "date": "2026-10-30T06:38:00.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "d84525a91803a20f",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "קרנות השתלמות באוקטובר: הכללי ירד ב-0.4%, ואיזה מסלול הרוויח 2.6% - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iTlVHMVdUYzRJU3lSVDRyRU5Ham9qa0I3R1Zta0RrX2ZSZ2Vfd2NqdUZxZW1TcFZ6SkpiMlRnUml4TTczS25zV3pWbGlUS3VGVWc4SXFtOW1oVGRVVTJUeldWRDRIZHVxRHJXdkJiRkZyb28?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5iTlVHMVdUYzRJU3lSVDRyRU5Ham9qa0I3R1Zta0RrX2ZSZ2Vfd2NqdUZxZW1TcFZ6SkpiMlRnUml4TTczS25zV3pWbGlUS3VGVWc4SXFtOW1oVGRVVTJUeldWRDRIZHVxRHJXdkJiRkZyb28?oc=5\" target=\"_blank\">קרנות השתלמות באוקטובר: הכללי ירד ב-0.4%, ואיזה מסלו",
-  "date": "2026-10-30T06:37:00.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "aad074279e21782b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Kistler introduces 16-channel charge amplifier and data acquisition system - Military Aerospace",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVBqVXRyT0x3NTBlMVQyR2VLSVpnOTJSZ3RGaE9FaGRpcVg2V3ltcmVNZG92eE9RQTdRa3ZzX2FwZFYtUjJxSmVMbUFfVVhSN2NRblFWNlpGa0tsWFlwWmk3c3hnbTlTX1BrZTl6amZjejVIYi14c0RIcXpVU2dBcG1lNDQ4VTdyZVRUN3EwQnEtd3pBbElvVXMzdVBmRy1mUUFvSUpWaFhzYXVhRUxzN1BHbkJndkVPd1ZGMkZWZjJsNDhlVDY3Mml3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVBqVXRyT0x3NTBlMVQyR2VLSVpnOTJSZ3RGaE9FaGRpcVg2V3ltcmVNZG92eE9RQTdRa3ZzX2FwZFYtUjJxSmVMbUFfVVhSN2NRblFWNlpGa0tsWFlwWmk3c3hnbTlTX1BrZTl6amZjejVIYi14c0RIcXpVU2dBcG1lNDQ4VTdyZVRUN3EwQnEtd3pBbElvVXMzdVBmRy1mUUFvSUpWaFhzYX",
-  "date": "2026-10-30T06:36:38.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
- },
- {
-  "id": "74a9b9b23c26617d",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "ההנחה תקוזז בחצי ומאמצע השבוע תשלמו קרוב ל-8 שקלים לליטר דלק",
-  "link": "https://www.ynet.co.il/economy/article/rjye9hwpze",
-  "summary": "משרד האוצר פרסם תזכיר צו שמאריך את ההפחתה במס הבלו, אבל מקטין אותה משקל לחצי שקל בלבד. המשמעות: בשבת המחיר יירד ל-7.35 שקל, אבל כבר ברביעי יזנק ל-7.85 בעקבות השינוי בהפחתה",
-  "date": "2026-10-30T06:36:10.000Z",
-  "fetched": "2026-10-30T07:03:12.681Z",
-  "fromCloud": "2026-10-30T0703.json"
  }
 ]
