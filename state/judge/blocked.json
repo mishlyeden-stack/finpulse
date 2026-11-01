@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 52,
+  "ok": 56,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 52
+  "blocked": 58
  },
  "en.globes.co.il": {
   "ok": 11,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 50,
+  "ok": 61,
   "blocked": 0
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 43
+  "blocked": 49
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 16
+  "blocked": 17
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 28
+  "blocked": 34
  },
  "ecb.europa.eu": {
   "ok": 4,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 15,
+  "ok": 17,
   "blocked": 0
  },
  "securityweek.com": {
@@ -65,14 +65,14 @@
  },
  "datacenterdynamics.com": {
   "ok": 9,
-  "blocked": 16
+  "blocked": 17
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 4
  },
  "calcalistech.com": {
-  "ok": 15,
+  "ok": 16,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -105,7 +105,7 @@
  },
  "seekingalpha.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "investing.com": {
   "ok": 0,
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 4
+  "blocked": 7
  },
  "techtarget.com": {
   "ok": 1,
@@ -366,5 +366,25 @@
  "247wallst.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "remio.ai": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "eletric-vehicles.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "fr.tradingview.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "finance.walla.co.il": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "tech-insider.org": {
+  "ok": 0,
+  "blocked": 1
  }
 }
