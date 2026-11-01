@@ -5,19 +5,19 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 61
+  "blocked": 62
  },
  "en.globes.co.il": {
   "ok": 15,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 74,
-  "blocked": 0
+  "ok": 77,
+  "blocked": 1
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 53
+  "blocked": 54
  },
  "13tv.co.il": {
   "ok": 0,
@@ -72,7 +72,7 @@
   "blocked": 5
  },
  "calcalistech.com": {
-  "ok": 17,
+  "ok": 19,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -120,7 +120,7 @@
   "blocked": 1
  },
  "maariv.co.il": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "visionmonday.com": {
