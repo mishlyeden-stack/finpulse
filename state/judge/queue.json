@@ -1738,6 +1738,17 @@
   "fromCloud": "2026-11-01T1433.json"
  },
  {
+  "id": "0fe4115efda75337",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "שדות ים שלטה באליפות ישראל בשייט: חרובי, אשכנזי, שדה ועבו הוכתרו לאלופים - HKN חיפה והקריות",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZNXgwbzUyWGdFRS1LSGVOX3VpZ2VUMjRSdEYwOUt3aUZSdDZXVEwtcDlUc1JpOGJ1TjV2SzV1VUxrUDhUM1pkUg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZNXgwbzUyWGdFRS1LSGVOX3VpZ2VUMjRSdEYwOUt3aUZSdDZXVEwtcDlUc1JpOGJ1TjV2SzV1VUxrUDhUM1pkUg?oc=5\" target=\"_blank\">שדות ים שלטה באליפות ישראל בשייט: חרובי, אשכנזי, שדה ועבו הוכתרו לאלופים</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+  "date": "2026-11-01T12:34:00.000Z",
+  "fetched": "2026-11-01T23:04:19.816Z",
+  "fromCloud": "2026-11-01T2304.json"
+ },
+ {
   "id": "d4e4277eeb8ed234",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
