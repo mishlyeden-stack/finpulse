@@ -1048,3 +1048,4 @@ time,type,round,items_in_call,input_chars,flagged,noise,event_key,level,score,im
 2026-11-01 10:08,event,1,,,,,Strategy (MicroStrategy) | Q3 — רווח ביטקוין + החלפת CFO | נובמבר 2026,learn,7,2,1,verified,2025,Strategy: Q3 מונע מרווח ביטקוין בו-זמנית עם החלפת CFO
 2026-11-01 10:08,event,1,,,,,Iveco | רכישת Tata הופכת ללא-מותנית + החלפת CFO | נובמבר 2026,learn,7,2,1,verified,2001,Iveco: עסקת רכישת Tata הופכת ללא-מותנית בו-זמנית עם החלפת CFO
 2026-11-01 10:08,event,1,,,,,Canadian National Railway | החלפת CFO אחרי Q3 חזק | נובמבר 2026,learn,7,2,1,verified,2036,Canadian National Railway: CFO עוזב אחרי רבעון חזק — תכנון עוקב או אות אזהרה?
+2026-11-01 11:05,judge,1,28,26318,0,28,,,,,,,,
