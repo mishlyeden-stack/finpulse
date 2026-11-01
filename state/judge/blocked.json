@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 61,
+  "ok": 63,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -8,7 +8,7 @@
   "blocked": 61
  },
  "en.globes.co.il": {
-  "ok": 14,
+  "ok": 15,
   "blocked": 0
  },
  "bizportal.co.il": {
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 17,
+  "ok": 18,
   "blocked": 0
  },
  "securityweek.com": {
@@ -69,7 +69,7 @@
  },
  "funder.co.il": {
   "ok": 0,
-  "blocked": 4
+  "blocked": 5
  },
  "calcalistech.com": {
   "ok": 17,
@@ -96,7 +96,7 @@
   "blocked": 2
  },
  "stocktwits.com": {
-  "ok": 1,
+  "ok": 4,
   "blocked": 0
  },
  "defensehere.com": {
@@ -337,7 +337,7 @@
  },
  "israelhayom.co.il": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "fedscoop.com": {
   "ok": 1,
