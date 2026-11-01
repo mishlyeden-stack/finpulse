@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-10-29",
+  "updated": "2026-11-01",
   "numbers": [
     {
       "key": "cpi",
@@ -16,34 +16,34 @@
     {
       "key": "ta35",
       "label": "מדד ת״א 35",
-      "value": "4,130",
-      "change": "-1.81%",
-      "note": "נעילה 28.10",
+      "value": "4,059",
+      "change": "-1.72%",
+      "note": "נעילה 30.10",
       "source": "https://il.investing.com/indices/ta25-historical-data",
-      "by": "Investing.com",
-      "asOf": "2026-10-28",
+      "by": "Investing.com / Bloomberg",
+      "asOf": "2026-10-30",
       "maxAgeDays": 3
     },
     {
       "key": "il10y",
       "label": "אג״ח ממשלתי 10ש׳ ישראל",
-      "value": "4.07%",
-      "change": "+0.04",
-      "note": "נכון ל-26.10",
+      "value": "4.16%",
+      "change": "+0.09",
+      "note": "נכון ל-30.10",
       "source": "https://www.investing.com/rates-bonds/israel-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-10-26",
+      "asOf": "2026-10-30",
       "maxAgeDays": 5
     },
     {
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
-      "value": "5.015%",
-      "change": "+0.03",
-      "note": "נכון ל-28.10",
+      "value": "4.94%",
+      "change": "-0.075",
+      "note": "נכון ל-30.10",
       "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-30",
       "maxAgeDays": 3
     },
     {
@@ -71,12 +71,20 @@
   ],
   "events": [
     {
+      "date": "02.11",
+      "what": "דוח רבעוני של אפל Q4 FY26 (אחרי שוק)"
+    },
+    {
       "date": "15.11",
       "what": "מדד המחירים לאוקטובר"
     },
     {
       "date": "09.12",
       "what": "החלטת ריבית הפד (FOMC)"
+    },
+    {
+      "date": "17.12",
+      "what": "החלטת ריבית ECB"
     }
   ],
   "forecasts": [
