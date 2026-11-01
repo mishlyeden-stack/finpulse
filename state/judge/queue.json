@@ -1,5 +1,27 @@
 [
  {
+  "id": "ba848bc053c73fa0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Eagles Defender Pitched as Panthers Trade Acquisition & It Makes Too Much Sense - Sports Illustrated",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWhnVVl0WnMwVUx5X1VLbnBEY3gxZkFIX0s5UmhWQ0NoTzJrQlNFU0otOUM5eFVUVlI4T2haeGRDM1Vnek5WOUpqQ2tUN29lQWltUkVyRzhZMmwwc0ZjZVNjWGZnb0YtTjhxSXQ5RXluM3RUQzZPX1IxZUxvOWlGZDJ0dFo3Z1M4bHhiVXlLU09lQ2hGenozck1mMzh4US1VM1AxX2xrRHNHUFpvLTJJODU2bzlZM0pOWmZqdElGbS12Qy02QWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWhnVVl0WnMwVUx5X1VLbnBEY3gxZkFIX0s5UmhWQ0NoTzJrQlNFU0otOUM5eFVUVlI4T2haeGRDM1Vnek5WOUpqQ2tUN29lQWltUkVyRzhZMmwwc0ZjZVNjWGZnb0YtTjhxSXQ5RXluM3RUQzZPX1IxZUxvOWlGZDJ0dFo3Z1M4bHhiVXlLU09lQ2hGenozck1mMzh4US1VM1AxX2xrRHNHUF",
+  "date": "2026-11-01T19:00:02.000Z",
+  "fetched": "2026-11-01T19:03:12.319Z",
+  "fromCloud": "2026-11-01T1903.json"
+ },
+ {
+  "id": "9dd61f852f79da4e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "India Approves Xavier Niel’s €5.1 Billion Vodafone Stake Acquisition - Retail News Asia",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMV9XTHhPLXlNZzRVMW1lNVZwVDg3UWhlcFU1bGZJN1lHTVI3cHQzRW1WZjVyeWJSeEJIeFdpb0NLckJfQUJRV1BveFhjdUZBd1pmTm9VVDJ1QXd2VlNhWURzalVzd1Z1OV9KcXAxSFgxZm5xejBVNzZPUjN4ZzFfVEtfa3Q3M0dnbDJqY1prSTFEVnFsMFdZOUx0cw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOMV9XTHhPLXlNZzRVMW1lNVZwVDg3UWhlcFU1bGZJN1lHTVI3cHQzRW1WZjVyeWJSeEJIeFdpb0NLckJfQUJRV1BveFhjdUZBd1pmTm9VVDJ1QXd2VlNhWURzalVzd1Z1OV9KcXAxSFgxZm5xejBVNzZPUjN4ZzFfVEtfa3Q3M0dnbDJqY1prSTFEVnFsMFdZOUx0cw?oc=5\" target=\"_blan",
+  "date": "2026-11-01T18:42:54.000Z",
+  "fetched": "2026-11-01T19:03:12.319Z",
+  "fromCloud": "2026-11-01T1903.json"
+ },
+ {
   "id": "30700e3acfea9fd3",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -11,6 +33,17 @@
   "fromCloud": "2026-11-01T1833.json"
  },
  {
+  "id": "dfb3f1546ce8fd10",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AI spending drains billions from Big Tech as Amazon, Alphabet and Meta face investor backlash - Sri Lanka Guardian",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRi01Q2FaV0VMMGhfT2YydDRNeWVSRk1aOE1IRGZiemNWeGhnR2ZuQTQyZ0N0cDQyeUhtRkl0YllFYVRhdzRVUkdkdFhkSEJXdmw5NDlwVTNsWnp2M3hHRjR2a3JLTU1WM3JCX0NWanpvRndxdFhlMFBfTlZaYThHdXJKZEJaeGNlWFpXZGlZZ2NUS3ZTenJtWl9qQm5Vd3VfWFlfQUR5bnhhWUFScEhYdXJXdlNua1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRi01Q2FaV0VMMGhfT2YydDRNeWVSRk1aOE1IRGZiemNWeGhnR2ZuQTQyZ0N0cDQyeUhtRkl0YllFYVRhdzRVUkdkdFhkSEJXdmw5NDlwVTNsWnp2M3hHRjR2a3JLTU1WM3JCX0NWanpvRndxdFhlMFBfTlZaYThHdXJKZEJaeGNlWFpXZGlZZ2NUS3ZTenJtWl9qQm5Vd3VfWFlfQUR5bnhhWU",
+  "date": "2026-11-01T18:30:00.000Z",
+  "fetched": "2026-11-01T19:03:12.319Z",
+  "fromCloud": "2026-11-01T1903.json"
+ },
+ {
   "id": "3959bdfce2586d7b",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -20,6 +53,61 @@
   "date": "2026-11-01T18:26:00.000Z",
   "fetched": "2026-11-01T18:33:11.000Z",
   "fromCloud": "2026-11-01T1833.json"
+ },
+ {
+  "id": "87eae797b6790211",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "\"Security teams are struggling to handle this AI threat\" - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aZnhHekEtSU1qUGpqUVQwLTMzbFZpa19LWlVNWHJnUGE3eTNIS2RCZG9ad0psODdDc0dtRHI2WnpZMWRHMzhzck1FUHlmSm1RRVVoVklocTI3RlNMYV9BcUlXTy1EUzA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aZnhHekEtSU1qUGpqUVQwLTMzbFZpa19LWlVNWHJnUGE3eTNIS2RCZG9ad0psODdDc0dtRHI2WnpZMWRHMzhzck1FUHlmSm1RRVVoVklocTI3RlNMYV9BcUlXTy1EUzA?oc=5\" target=\"_blank\">\"Security teams are struggling to handle this AI threat\"</a>&nbsp;&n",
+  "date": "2026-11-01T18:25:00.000Z",
+  "fetched": "2026-11-01T19:03:12.319Z",
+  "fromCloud": "2026-11-01T1903.json"
+ },
+ {
+  "id": "54a571102f4c79d8",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "\"To build a company in Israel for the last four years is not an easy mission\" - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUXl2MTdiVTBfbkEtRjJjUDhWeDFvMUtlQUtYZjFsVmxuc3U0TzNWMEExR2M2SUlpQUhNQjZVcnJ1MTBhNFhUcTFKc0l4dFYxRER1OU8xOEwzbVNDdlpBa1oyNVlpRnc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUXl2MTdiVTBfbkEtRjJjUDhWeDFvMUtlQUtYZjFsVmxuc3U0TzNWMEExR2M2SUlpQUhNQjZVcnJ1MTBhNFhUcTFKc0l4dFYxRER1OU8xOEwzbVNDdlpBa1oyNVlpRnc?oc=5\" target=\"_blank\">\"To build a company in Israel for the last four years is not an easy",
+  "date": "2026-11-01T18:24:00.000Z",
+  "fetched": "2026-11-01T19:03:12.319Z",
+  "fromCloud": "2026-11-01T1903.json"
+ },
+ {
+  "id": "294fb2fa3de82e3b",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "“One of the only moats is the power of the brand” - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBudTd0VzJ0b0xKRmNWX29TM3VNUUJoWHpsVHRzVm52b3hNaVktbFcyUFg1aVh0TEFvbVo4Q0FWQy1nQlRtaGRXT2kzZGpaaXRDdF9DM0l6azdUbG9GeDNxSmttVmZPMnM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBudTd0VzJ0b0xKRmNWX29TM3VNUUJoWHpsVHRzVm52b3hNaVktbFcyUFg1aVh0TEFvbVo4Q0FWQy1nQlRtaGRXT2kzZGpaaXRDdF9DM0l6azdUbG9GeDNxSmttVmZPMnM?oc=5\" target=\"_blank\">“One of the only moats is the power of the brand”</a>&nbsp;&nbsp;<fo",
+  "date": "2026-11-01T18:23:00.000Z",
+  "fetched": "2026-11-01T19:03:12.319Z",
+  "fromCloud": "2026-11-01T1903.json"
+ },
+ {
+  "id": "5482b3402055bdc1",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "\"There can only be so many services or software startups\" - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WUXpGNWJIbWhFLTAzVXc1dmdTeWpxZXR2WVFCV3lQX0ZOMDEyUkVrYWp6OGdsZ0EtNE1rNVRBZzRtRFJ2aGMxSWNjUDN1ejF3ZzlSaTROZXJDQ3RTUGhjRXl5MXlhUGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WUXpGNWJIbWhFLTAzVXc1dmdTeWpxZXR2WVFCV3lQX0ZOMDEyUkVrYWp6OGdsZ0EtNE1rNVRBZzRtRFJ2aGMxSWNjUDN1ejF3ZzlSaTROZXJDQ3RTUGhjRXl5MXlhUGc?oc=5\" target=\"_blank\">\"There can only be so many services or software startups\"</a>&nbsp;&",
+  "date": "2026-11-01T18:23:00.000Z",
+  "fetched": "2026-11-01T19:03:12.319Z",
+  "fromCloud": "2026-11-01T1903.json"
+ },
+ {
+  "id": "7cb85a1b7f8f301c",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "\"We are here to make the change and make it happen for marketing\" - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vemdObnQ5TjdyVGdiU3R2VWxKd0JUYkFlSlN4b2hyWUt3S3BlY2o3RTJSOXZXQV8xeHd0QWs2WnA1c1VsVEtmNGF1SFNEOXRlWWstZFQ5bGVJOXZXVlJGQ0FvN0JsLWM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vemdObnQ5TjdyVGdiU3R2VWxKd0JUYkFlSlN4b2hyWUt3S3BlY2o3RTJSOXZXQV8xeHd0QWs2WnA1c1VsVEtmNGF1SFNEOXRlWWstZFQ5bGVJOXZXVlJGQ0FvN0JsLWM?oc=5\" target=\"_blank\">\"We are here to make the change and make it happen for marketing\"</a",
+  "date": "2026-11-01T18:22:00.000Z",
+  "fetched": "2026-11-01T19:03:12.319Z",
+  "fromCloud": "2026-11-01T1903.json"
  },
  {
   "id": "3b8f8d36527b716d",
