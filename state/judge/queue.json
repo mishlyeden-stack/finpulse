@@ -1,5 +1,60 @@
 [
  {
+  "id": "df85269a68751fea",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "האוצר נערך לתקציב המשכי: הביטחון לא צפוי להיפגע, המשרדים האזרחיים כן",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561538#utm_source=RSS",
+  "summary": "השבוע יחלו ההתייעצויות בבית הנשיא לגבי הרכבת הממשלה, אך באוצר כבר נערכים לתקציב המשכי בתחילת 2027 &#8226; למשרדי הממשלה יהיה קושי להתנהל בתקופה הזו וגם חבילות המיסוי יצטרכו להמתין &#8226; ומה יקרה לגירעון? גלובס עושה סדר",
+  "date": "2026-11-01T17:30:00.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
+ },
+ {
+  "id": "b0eeee4470a27819",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "אפקט שדועך מהר: מה באמת קורה למותגים אחרי קמפיין של סידני סוויני",
+  "link": "https://www.ynet.co.il/economy/article/s1l0n5name",
+  "summary": "מקמפיין ג'ינס שיצר סערה עם ניחוח גזעני, דרך סבון עם מי האמבט שלה ועד לקמפיין עירום להימורי ספורט, הכוכבת ההוליוודית הפכה למכונת באזז. אבל הנתונים מראים שההצלחה היא בטווח הקצר: אמריקן איגל רשמה שיא ברבעון החגים ואז צנחה, ודוקטור סקווטש איבדה נתח שוק במכירות. האם בעצם כולם מדברים ע",
+  "date": "2026-11-01T17:21:30.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
+ },
+ {
+  "id": "31438138e69abbce",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "אחרי המרד נגדו: יו\"ר ועד עובדי בנק הפועלים פורש",
+  "link": "https://www.ynet.co.il/economy/article/syosbgbtfl",
+  "summary": "רוני גרפונקל מפנה את מקומו אחרי שבע שנים בתפקיד, בין השאר בעקבות עימותים פנימיים בתוך הוועד. הרקע: כישלון בניהול הסכסוך מול הנהלת הבנק, שהודיעה על תוכנית התייעלות | חשיפת ynet",
+  "date": "2026-11-01T17:11:33.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
+ },
+ {
+  "id": "93a54737e23a3a9c",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "הבכי של התצפיתניות בבקו\"ם מזכיר את מה שהממשלה שכחה - מידע פנים - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2puZE5tZ0FNNzdtN0owQjBEOTFSTFJuVXNERjk3LUItdk1HenVYODVnT2E2QkpQMVoyYk1kTmVjTE5BNmhYLThRa3ktS1BCN18xaHhKMHlGR1Z4dkRvcnRheFJ3am1pTUY2V2V5RFQ2M040Ylg2R0hRRjgwWl9KZmR5T3dqcVRGS3FJcHhuMlJpcXJKT1BJWWJWSVRVWDI3c09reUl3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2puZE5tZ0FNNzdtN0owQjBEOTFSTFJuVXNERjk3LUItdk1HenVYODVnT2E2QkpQMVoyYk1kTmVjTE5BNmhYLThRa3ktS1BCN18xaHhKMHlGR1Z4dkRvcnRheFJ3am1pTUY2V2V5RFQ2M040Ylg2R0hRRjgwWl9KZmR5T3dqcVRGS3FJcHhuMlJpcXJKT1BJWWJWSVRVWDI3c09reUl3?oc=5\"",
+  "date": "2026-11-01T17:11:00.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
+ },
+ {
+  "id": "2df6688463d6bcdf",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Serbia shuts down bank favoured by Russians",
+  "link": "https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce?syn-25a6b1a6=1",
+  "summary": "Alta Bank is suspected of wiring large amounts of money out of the country after election loss of former president Aleksandar Vučić",
+  "date": "2026-11-01T17:02:03.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
+ },
+ {
   "id": "06a23787decdc8ff",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -20,6 +75,28 @@
   "date": "2026-11-01T16:42:14.000Z",
   "fetched": "2026-11-01T17:03:12.749Z",
   "fromCloud": "2026-11-01T1703.json"
+ },
+ {
+  "id": "73682364441a48c7",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "נתניהו: הקרבת החברה הישראלית בשם הצלת הכלכלה - تسنیم",
+  "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOUE55LXhVZF9NSGtmLVFPdlg1RVg2U2E4ZTAxaWRtWDlVV0ozYXZ3bXJXSEYyZ3hoZ0l6ZDdPbWZRekhwcWFJTkI0QUtzZlhjVXM2T0l5dV9RYVprZWhUMkMwdHNCMDJLTWhUNFhqV202OEJaT0FOZTM4VVRKTFJxQU9ia2g2ZlY1amFNclM0amZSdUFwbm5SaVVFdl9YbjJCOWhyOEFqZndNUEF3aTg4M3RCNF9xcFRJaHZUOVRBS2djSEpLUDRkUUlQWktSOEtoU01nUW9UYm1MUE5ZMml3Qmd3dU5mVFpvWlFBaVluSGNEakFTdTRUdHpNWm1nb3lkRmstWXdQb1RoX2hsWUZHNndERUctb2tIOV9TVy1xd0ZxNWE1Q0VLTkI5NFV0TXVLaVVxSXZUTGJwazZUdVlubDVqR0Jkcm1YSy1mQThnR2ZBVHpFUmc2c2FJSDFIUHk4NGZ2Tkt3Z1F0dWVFV1BUTmpfYk5KblF6d2FDNGRNcVItM1RQRVNGTnFERnI3RkN6ZVlv0gGYA0FVX3lxTE81X0pwM2RwSUktcndMVjJDdzRQUllwOGZVcjRtVndUTEk4NWhFa0xaV0pMUGhmLVdDVmNXWGRxV1FTeHJuemxEM1hVM3prbm96S1M1T2huWFlQOG1PY2hsUGJqaXQ2ZHZlZU9VR3IyTTVjN2R5MnpMREN1dzNHN2Q3aEFRRmoxLTJHOTNiejBEYl9vWFNRckVXMzZmVWlqaEdYOTYtZ0R1LWFuRWJrbDdwX3lsY185RGJoV0QyMGtFYXhWSVRIcHhWeExtUjlfcklwRlBrUHU5Z3NDcldVT3F5WlJkS2ZNbTZqLTRLVU81XzF1ckZjT3VzWk44WUt5VS1LVWtWOVo0X1VYbzN3UjlHT2dxWWlDNUhidFRxMkdQVmMwUUxPVFNKNkl5TlBtY0ZaRkJiUGJqSmxYYnhIQzhnSjdNMlhISGpGUmhrNkctT1B0QUh2OXhSX1hWU2tVNzh6VFplVVdsZEpubW5pNzJYX1FyaGNPZ1dGbWJCT1lUU2FXU3pqdXBjSi1uQ0x3WlF5blBycy0xMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwNBVV95cUxOUE55LXhVZF9NSGtmLVFPdlg1RVg2U2E4ZTAxaWRtWDlVV0ozYXZ3bXJXSEYyZ3hoZ0l6ZDdPbWZRekhwcWFJTkI0QUtzZlhjVXM2T0l5dV9RYVprZWhUMkMwdHNCMDJLTWhUNFhqV202OEJaT0FOZTM4VVRKTFJxQU9ia2g2ZlY1amFNclM0amZSdUFwbm5SaVVFdl9YbjJCOWhyOEFqZndNUE",
+  "date": "2026-11-01T16:38:14.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
+ },
+ {
+  "id": "75a4bda3dd14824d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Negative $200 Billion Free Cash Flow Projection Sends Tech Into Freefall As Alphabet (NASDAQ: GOOG), Meta (NASDAQ: META) And SpaceX (NASDAQ: SPCX) Burn Through Capital - Foreign Policy Journal",
+  "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZHMyYjZuNUVRNUIwX2xuS2kzcE5LU2Zmd0ZzQnN5OEMyeEFROFFpRW1Va0l4WnR4bElsYWdlQzZRMzFrc3hYMWRyLXp5WXpNRU80aW1obDZEMVFqeDVEdG1jd05zSFhobU16Z2UzemExMno0UFpaSWVfYWg2dlhyUVRzZjV5QWhZSGU0OS13a3BNVlhCY3FCT2RHVDMxbGJENDF5SGF2WFRSU0p0V1lUU3Npb0oyZllHS0M0RGxJdXF5elJWVk5JdUIzREFoRWZrZU52SktlZDk5UEJwaXRDTGRZWmptQi1MS1ZTNTFNd0NsX2lVUklhUUdHN0U4djhVSkFoT1l6elJsZHYxNDltdnRtd01rUXhfa1ItV2tjLVMxeV9DMjcwZVNzSnZKdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOZHMyYjZuNUVRNUIwX2xuS2kzcE5LU2Zmd0ZzQnN5OEMyeEFROFFpRW1Va0l4WnR4bElsYWdlQzZRMzFrc3hYMWRyLXp5WXpNRU80aW1obDZEMVFqeDVEdG1jd05zSFhobU16Z2UzemExMno0UFpaSWVfYWg2dlhyUVRzZjV5QWhZSGU0OS13a3BNVlhCY3FCT2RHVDMxbGJENDF5SGF2WFRSU0",
+  "date": "2026-11-01T16:37:00.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
  },
  {
   "id": "2ea76342aa3c6d28",
@@ -77,6 +154,17 @@
   "fromCloud": "2026-11-01T1633.json"
  },
  {
+  "id": "54c06e3800a10c30",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AI capex surge pushes Big Tech free cash flow below zero - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamtQRzNaTzc2TmRPblhOdEc0XzRTckUxMzVIbjVETW5UcU9za0hhNDZjYldiaGRQZ3dYYUpjUDlXaTNEYzR2ajZuMUJiR1pwMjJLaEExb1YwR1FzeGRJMVdEelBQMjg3NzB4UlpVV3dhMTNxdEVvdXFFcjVvS0ZIcWNPUmh5eFd5UkUtUmZGejc0aWZHVjNISUw5ZF9TMTNXZnZsaHlYcFFTdjItakYzS1JwRTNkT2VIVndF?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamtQRzNaTzc2TmRPblhOdEc0XzRTckUxMzVIbjVETW5UcU9za0hhNDZjYldiaGRQZ3dYYUpjUDlXaTNEYzR2ajZuMUJiR1pwMjJLaEExb1YwR1FzeGRJMVdEelBQMjg3NzB4UlpVV3dhMTNxdEVvdXFFcjVvS0ZIcWNPUmh5eFd5UkUtUmZGejc0aWZHVjNISUw5ZF9TMTNXZnZsaHlYcFFTdj",
+  "date": "2026-11-01T16:13:56.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
+ },
+ {
   "id": "2c088f5aaccd10a8",
   "source": "Financial Times",
   "group": "global-press",
@@ -119,6 +207,17 @@
   "date": "2026-11-01T16:02:00.000Z",
   "fetched": "2026-11-01T17:03:12.749Z",
   "fromCloud": "2026-11-01T1703.json"
+ },
+ {
+  "id": "ab90cc8c48260a96",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BMO Financial Group Closes Euroz Hartleys Capital Markets Acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENQMllsREJkcW9EOWlvYzhSc2p2NFI5VkhhZXZFRHRQZENnd3lMaEVfakNkeFpiQ0V4eEdsMGVrZjd2VUVZd3FhTzVMQ190aF9tcTJFNU9VN0U4MVFVU1JhRm1XSXFZaGZZVzViNXF0SUVWdWM3YU1EOFFCZ1ItcG9rZlJYZ0FXc01zRURuUk9UdEl6NDVzajQwb015Y0RvYmx6OUgxNWxNV2NzeHFsMkdOSE5oT1c5WkdKZ1NqUHZtN1RZVGIyd0dZOA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENQMllsREJkcW9EOWlvYzhSc2p2NFI5VkhhZXZFRHRQZENnd3lMaEVfakNkeFpiQ0V4eEdsMGVrZjd2VUVZd3FhTzVMQ190aF9tcTJFNU9VN0U4MVFVU1JhRm1XSXFZaGZZVzViNXF0SUVWdWM3YU1EOFFCZ1ItcG9rZlJYZ0FXc01zRURuUk9UdEl6NDVzajQwb015Y0RvYmx6OUgxNWxNV2",
+  "date": "2026-11-01T16:01:00.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
  },
  {
   "id": "b4d47fed93ff778d",
@@ -198,6 +297,17 @@
   "fromCloud": "2026-11-01T1603.json"
  },
  {
+  "id": "272af407a615b009",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "תחבורה ציבורית - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RSTZJdHVJOVViZHpZUzFURkxDdjl5U3otR2tWekFFTUtRS0hmel9FaFpFOU15U3cxT2ZJRkJhc2U2VTZnYWFmT19XcDJmSUR5NktwSFgydkRaNUZ1RVEzeg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RSTZJdHVJOVViZHpZUzFURkxDdjl5U3otR2tWekFFTUtRS0hmel9FaFpFOU15U3cxT2ZJRkJhc2U2VTZnYWFmT19XcDJmSUR5NktwSFgydkRaNUZ1RVEzeg?oc=5\" target=\"_blank\">תחבורה ציבורית</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-01T15:50:36.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
+ },
+ {
   "id": "f7583e5340cec655",
   "source": "אנשים ומחשבים",
   "group": "industry",
@@ -229,6 +339,17 @@
   "date": "2026-11-01T15:45:00.000Z",
   "fetched": "2026-11-01T16:03:14.003Z",
   "fromCloud": "2026-11-01T1603.json"
+ },
+ {
+  "id": "5bf7ff541a2db6e4",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Coldi - calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fRkhYNU90SndvMW10LWJXR25qbm0tUDNoRnpGc21TbVN6OWV6QzlsMW5rdHg2UW5kTnVxX0RybE9mSl81YnJqNktUZV9DT05i?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fRkhYNU90SndvMW10LWJXR25qbm0tUDNoRnpGc21TbVN6OWV6QzlsMW5rdHg2UW5kTnVxX0RybE9mSl81YnJqNktUZV9DT05i?oc=5\" target=\"_blank\">Coldi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+  "date": "2026-11-01T15:42:23.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
  },
  {
   "id": "33708747e9defc30",
@@ -350,6 +471,17 @@
   "date": "2026-11-01T15:09:53.000Z",
   "fetched": "2026-11-01T15:33:12.540Z",
   "fromCloud": "2026-11-01T1533.json"
+ },
+ {
+  "id": "27682e109c011841",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Trump Org. CFO Weisselberg surrenders - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Xb1ZEQTl2eHRSQmtYb202UWNfZGJLWGFhOEtjY2ZHaXBQengwTFFod2dKODR2WXN0bUswQ2hWallMMUtkMUdNMEg2bFNOZEdpVkFGRVB1WTVJUk1U?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Xb1ZEQTl2eHRSQmtYb202UWNfZGJLWGFhOEtjY2ZHaXBQengwTFFod2dKODR2WXN0bUswQ2hWallMMUtkMUdNMEg2bFNOZEdpVkFGRVB1WTVJUk1U?oc=5\" target=\"_blank\">Trump Org. CFO Weisselberg surrenders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters<",
+  "date": "2026-11-01T15:08:48.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
  },
  {
   "id": "b4ee378a888fb5ed",
@@ -768,6 +900,17 @@
   "date": "2026-11-01T12:08:07.000Z",
   "fetched": "2026-11-01T14:33:14.941Z",
   "fromCloud": "2026-11-01T1433.json"
+ },
+ {
+  "id": "0b902b8f7680e973",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שוק ההון כתבות נוספות - עמוד 3999 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yUzBYUHlZWm0waVlQNFZFZExTUVdGbllKVEE4XzJmVTdHTzJ6MUFXUmlPWFBIY2swN2tMS1BFQnFJM05LS1FOYnFuRVBadWJ2R0FHekQ5cENGUVhuYU1zczFCS3JZR3c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yUzBYUHlZWm0waVlQNFZFZExTUVdGbllKVEE4XzJmVTdHTzJ6MUFXUmlPWFBIY2swN2tMS1BFQnFJM05LS1FOYnFuRVBadWJ2R0FHekQ5cENGUVhuYU1zczFCS3JZR3c?oc=5\" target=\"_blank\">שוק ההון כתבות נוספות - עמוד 3999</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+  "date": "2026-11-01T10:31:38.000Z",
+  "fetched": "2026-11-01T17:33:12.240Z",
+  "fromCloud": "2026-11-01T1733.json"
  },
  {
   "id": "672c392b2ba7dfb4",
