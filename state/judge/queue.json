@@ -1,5 +1,38 @@
 [
  {
+  "id": "9dcbbb1ee779f8a2",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "להרוויח ולהפסיד בבורסה בלי לסכן שקל: איך אפשר ללמוד לסחור בכסף מדומה?",
+  "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/r1uylzhpge",
+  "summary": "חשבון דמו מאפשר לתרגל פקודות קנייה ומכירה, לבחון אסטרטגיות ולהכיר את מערכות המסחר בכסף וירטואלי. מה אפשר ללמוד מההתנסות, ומה היא אינה מדמה כשעוברים להשקיע כסף אמיתי",
+  "date": "2026-11-01T19:24:34.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
+  "id": "48c10087bb763a23",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BMO Financial Completes Acquisition of Euroz Hartleys' Australia - GuruFocus",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1pVbExYTzF0cGFkNExtdXBCUV9WbGRGc3FsSk1rVGhTc0ZkaG1JNGlRU0R4UzVRR1pWVDVva1g1YXp4b1psd3ZPWi0tY3lPWExCa1NNS3hRbnVJNlJNVkplREJXTGZybUg2MlpVNjlBSGx5bDg4SG9yYXVpNHYycTd5WV9xUnRRQUljQlh2Z1luY2oyYlBlR0lTVkRsbU5GX0dnSVRSR1dTZWswYXdFRTNJZHJzaktEY0o1NEZlRE5WaURtWmRpNzZHQXM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1pVbExYTzF0cGFkNExtdXBCUV9WbGRGc3FsSk1rVGhTc0ZkaG1JNGlRU0R4UzVRR1pWVDVva1g1YXp4b1psd3ZPWi0tY3lPWExCa1NNS3hRbnVJNlJNVkplREJXTGZybUg2MlpVNjlBSGx5bDg4SG9yYXVpNHYycTd5WV9xUnRRQUljQlh2Z1luY2oyYlBlR0lTVkRsbU5GX0dnSVRSR1dTZW",
+  "date": "2026-11-01T19:21:22.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
+  "id": "e6fa60a292464256",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "ברזאני בדרך להנפקת ענק של מיליארד שקל - שליש מהגיוס יחולק כדיבידנד - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OSnRhMm55SzJfY0drOHRpd1BNN1c4V0g2SVczeURjekd4UXlIZnZwXzFoSUphZVdWY3E4UEJQV0JLMHFyRE5FUjQ1blJNV0llODBsLVg3SzRYOERxcHNLVDNybw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OSnRhMm55SzJfY0drOHRpd1BNN1c4V0g2SVczeURjekd4UXlIZnZwXzFoSUphZVdWY3E4UEJQV0JLMHFyRE5FUjQ1blJNV0llODBsLVg3SzRYOERxcHNLVDNybw?oc=5\" target=\"_blank\">ברזאני בדרך להנפקת ענק של מיליארד שקל - שליש מהגיוס יחולק כדיבידנד</a>&nb",
+  "date": "2026-11-01T19:07:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
   "id": "ba848bc053c73fa0",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -11,6 +44,28 @@
   "fromCloud": "2026-11-01T1903.json"
  },
  {
+  "id": "fbf4311e36834111",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "From six-person startups to a $6.3 billion take-private: October's extraordinary month for Israeli tech exits - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5Z1ZSVFg3QWVBeDR1cjR1QnRLbU14UnMyMGhKdkdMMERQaDh3R09TUFNqamVWVkczZGZ4VEg1VlZlSjEyR21yM0dXYW1UZEJfbDhSQzlqZWlUM1lvOUlRWFBKbThoaFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5Z1ZSVFg3QWVBeDR1cjR1QnRLbU14UnMyMGhKdkdMMERQaDh3R09TUFNqamVWVkczZGZ4VEg1VlZlSjEyR21yM0dXYW1UZEJfbDhSQzlqZWlUM1lvOUlRWFBKbThoaFE?oc=5\" target=\"_blank\">From six-person startups to a $6.3 billion take-private: October's e",
+  "date": "2026-11-01T18:53:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
+  "id": "5b19b58b5d8df000",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מדינות המפרץ חוששות מסבב נוסף מול איראן: אנרגיה ותשתיות אזרחיות בסיכון - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XWDZDV0M2NFplQUZEMExaVzRyVWdjcHlBVXhCQzhBMXkwVVcxa1kydnZWMFJMQ1d5NkxIUzZkdjF3dURBMUdjeU40WktOSkpjMHptQjdrMzBGQjdZd19BTEFScmN0OEplQUZIb0dWOEI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1XWDZDV0M2NFplQUZEMExaVzRyVWdjcHlBVXhCQzhBMXkwVVcxa1kydnZWMFJMQ1d5NkxIUzZkdjF3dURBMUdjeU40WktOSkpjMHptQjdrMzBGQjdZd19BTEFScmN0OEplQUZIb0dWOEI?oc=5\" target=\"_blank\">מדינות המפרץ חוששות מסבב נוסף מול איראן: אנרגיה ותשתיות ",
+  "date": "2026-11-01T18:52:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
   "id": "9dd61f852f79da4e",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -20,6 +75,17 @@
   "date": "2026-11-01T18:42:54.000Z",
   "fetched": "2026-11-01T19:03:12.319Z",
   "fromCloud": "2026-11-01T1903.json"
+ },
+ {
+  "id": "fe4d4c50f2aad3c7",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הלגונה הכחולה בדרך לבורסה: מתכננת לגייס 100 מיליון אירו להתרחבות באיסלנד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CMjRIS2JBU2NXT1RnTlNhZmc5SXEzQmxFT3ktUy1ZWDZKajB1N0lYRTE2NGtmNTVSY3NPU0RHTzh5VG9MVVFiRDJONWk5V0NOWFdrYUY4Q0ZGbHJXR3luaEV5VEk3UkZnS29VU203NTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1CMjRIS2JBU2NXT1RnTlNhZmc5SXEzQmxFT3ktUy1ZWDZKajB1N0lYRTE2NGtmNTVSY3NPU0RHTzh5VG9MVVFiRDJONWk5V0NOWFdrYUY4Q0ZGbHJXR3luaEV5VEk3UkZnS29VU203NTQ?oc=5\" target=\"_blank\">הלגונה הכחולה בדרך לבורסה: מתכננת לגייס 100 מיליון אירו ",
+  "date": "2026-11-01T18:38:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
  },
  {
   "id": "30700e3acfea9fd3",
@@ -110,6 +176,39 @@
   "fromCloud": "2026-11-01T1903.json"
  },
  {
+  "id": "de08517e4865369a",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "\"This is an amazing way to create impact in Israel” - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lUVB4VERGM1BWOGlwVzNTa0hzUU9QWHhHeVpuUlFqdm9kRGVWbzItMjUwYzEwSjhtNmVxWG1qR2hneFQ5dWNsU1RsY280cWNNVEJqM1c4a1hPNVFoWjVoSW9BbzI1YWs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lUVB4VERGM1BWOGlwVzNTa0hzUU9QWHhHeVpuUlFqdm9kRGVWbzItMjUwYzEwSjhtNmVxWG1qR2hneFQ5dWNsU1RsY280cWNNVEJqM1c4a1hPNVFoWjVoSW9BbzI1YWs?oc=5\" target=\"_blank\">\"This is an amazing way to create impact in Israel”</a>&nbsp;&nbsp;<",
+  "date": "2026-11-01T18:22:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
+  "id": "346620ba893d9d25",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "“Building a company during these times is a challenging journey” - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pTmZBR1AxMmVWTmx4WWgtTWNUaWQ1MURzSDZ1TE5QaGZlNEFpemk1amNhNmNtX3ZKQWlLdlVzaEFyeE1GbmcwOERYV2xPenVabnA4aW00RjhLckFMd1ZuSnBsOHRHYTA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pTmZBR1AxMmVWTmx4WWgtTWNUaWQ1MURzSDZ1TE5QaGZlNEFpemk1amNhNmNtX3ZKQWlLdlVzaEFyeE1GbmcwOERYV2xPenVabnA4aW00RjhLckFMd1ZuSnBsOHRHYTA?oc=5\" target=\"_blank\">“Building a company during these times is a challenging journey”</a>",
+  "date": "2026-11-01T18:21:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
+  "id": "f1eedf30f401070f",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "\"We're the first hospital outside the US that gets the latest capabilities of OpenAI\" - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcUxNTWxKbTFqRmlEb0JGNUE0Rk56T3RNUlpjQVd0a0dCcVk1c25TWUtsbVllUG5UVjcybHVlSG5iT3psRjNIbC1aUHdicEIxR1NJdGplOVNqTlhxUXhpLU5waTlOWHM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvcUxNTWxKbTFqRmlEb0JGNUE0Rk56T3RNUlpjQVd0a0dCcVk1c25TWUtsbVllUG5UVjcybHVlSG5iT3psRjNIbC1aUHdicEIxR1NJdGplOVNqTlhxUXhpLU5waTlOWHM?oc=5\" target=\"_blank\">\"We're the first hospital outside the US that gets the latest capabi",
+  "date": "2026-11-01T18:21:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
   "id": "3b8f8d36527b716d",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -119,6 +218,17 @@
   "date": "2026-11-01T18:17:03.000Z",
   "fetched": "2026-11-01T18:33:11.000Z",
   "fromCloud": "2026-11-01T1833.json"
+ },
+ {
+  "id": "996b6c9cc68efc08",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אירופה מתכננת להפחית את דירוג הסיכון להלבנת הון בשוק האמנות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYnc0aXFWajl3bHRkb1d0dGF5T0JPZzdnRm5VOWFRdnBodmlkclNRYzdnaUJRWkNjelR4M2Y1UndVWm1iUllDQUJ5S2pZbTVWQlo2NnVPUkV0MGpWSUhsMDNqTzFBMWJvVzlRYWd4bFM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYnc0aXFWajl3bHRkb1d0dGF5T0JPZzdnRm5VOWFRdnBodmlkclNRYzdnaUJRWkNjelR4M2Y1UndVWm1iUllDQUJ5S2pZbTVWQlo2NnVPUkV0MGpWSUhsMDNqTzFBMWJvVzlRYWd4bFM?oc=5\" target=\"_blank\">אירופה מתכננת להפחית את דירוג הסיכון להלבנת הון בשוק האמ",
+  "date": "2026-11-01T18:16:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
  },
  {
   "id": "1a7f8559c1a7265e",
@@ -220,6 +330,17 @@
   "fromCloud": "2026-11-01T1803.json"
  },
  {
+  "id": "1708d84e6a099cf0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Lockheed Martin completes $3.4B acquisition of maritime defense company with Indiana presence - WPTA | 21Alive | Fort Wayne, IN",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFQ4b28xWmdZaHAwbGFQZFdmdXRUUFQwOXNtUmpoWlBVRU9mdHJsUlRhUWVvZHlQeWZKaWNIT1B4MUFmcDF1SHVxWkJSdEU0WEszak5qVDRvTnVtaWZMYnRDMVphWUdCeXZXcVpaN1RUOGtKN2lQZlVmNTNBTVJIR054TzA5UDM2Q3lncHFrbEJ1aXpOZjJJLXRHU2s5NklQaUxKY0c1TVpNVG9fY3hmY0x3VUM2bk9PdEVvY2VJdnlXc085QUln?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFQ4b28xWmdZaHAwbGFQZFdmdXRUUFQwOXNtUmpoWlBVRU9mdHJsUlRhUWVvZHlQeWZKaWNIT1B4MUFmcDF1SHVxWkJSdEU0WEszak5qVDRvTnVtaWZMYnRDMVphWUdCeXZXcVpaN1RUOGtKN2lQZlVmNTNBTVJIR054TzA5UDM2Q3lncHFrbEJ1aXpOZjJJLXRHU2s5NklQaUxKY0c1TVpNVG",
+  "date": "2026-11-01T17:45:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
   "id": "2345644546717157",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -229,6 +350,17 @@
   "date": "2026-11-01T17:44:00.000Z",
   "fetched": "2026-11-01T18:03:11.912Z",
   "fromCloud": "2026-11-01T1803.json"
+ },
+ {
+  "id": "082de82b32e170ad",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ניל יאנג נגד טראמפ: תביעה של 10 מיליון דולר על שימוש בשיר בלי רשות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWlROa2kzb09sU3dRT016UlZneWRHWFJfVnJURVEySWFEMmdpOFRTT1ozSl9XejVuSFBPbXJhalNXTk1keEtQRjVmWXlLc0RFNmhsdHNVa0JvUlRIcGFrQVVnVm1tXzE2N2QxZnVuTWE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWlROa2kzb09sU3dRT016UlZneWRHWFJfVnJURVEySWFEMmdpOFRTT1ozSl9XejVuSFBPbXJhalNXTk1keEtQRjVmWXlLc0RFNmhsdHNVa0JvUlRIcGFrQVVnVm1tXzE2N2QxZnVuTWE?oc=5\" target=\"_blank\">ניל יאנג נגד טראמפ: תביעה של 10 מיליון דולר על שימוש בשי",
+  "date": "2026-11-01T17:44:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
  },
  {
   "id": "7c96cdc2af5beb76",
@@ -297,6 +429,17 @@
   "fromCloud": "2026-11-01T1733.json"
  },
  {
+  "id": "1808939aad604db4",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "רוסיה שולחת חיטה דרך הקוטב: תקיפות אוקראינה מאלצות אותה לעקוף את הים השחור - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SV1NabG5MLWI3TFhQaHJWYUdsTE9RcVVoRlI4eUh5WVdQWmhBVnZrcERORkVCWDJ5V2lIdGJWOVhDRTQ3RUFCTUNxbUtRcjBoZl9aaEtHSGxoTWpUYU5CUjk4S0t4cERvUU5jWmtTRlo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9SV1NabG5MLWI3TFhQaHJWYUdsTE9RcVVoRlI4eUh5WVdQWmhBVnZrcERORkVCWDJ5V2lIdGJWOVhDRTQ3RUFCTUNxbUtRcjBoZl9aaEtHSGxoTWpUYU5CUjk4S0t4cERvUU5jWmtTRlo?oc=5\" target=\"_blank\">רוסיה שולחת חיטה דרך הקוטב: תקיפות אוקראינה מאלצות אותה ",
+  "date": "2026-11-01T17:29:00.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
   "id": "b0eeee4470a27819",
   "source": "ynet כלכלה",
   "group": "israel-press",
@@ -306,6 +449,17 @@
   "date": "2026-11-01T17:21:30.000Z",
   "fetched": "2026-11-01T17:33:12.240Z",
   "fromCloud": "2026-11-01T1733.json"
+ },
+ {
+  "id": "b88c2d2921ee134b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of CREOTECH QUANTUM S.A – LS:A42A6J - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM09IQU1OS3BIcE5DZXBRcDZ3MGt1TFJfOE9oZTZIN2NrZDdwOUZHUy1PWGxQenctMzVWY0ZPdV9qV3RvYl80RVBLNE9aZEpFQ2hjaEVWWFJBZzhfNHdhLTFtX094QVFFZUNzYUhWOHlWbEp5Uzd1eHA2dWNKLTQ1RkNiazdQc0o0OWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQM09IQU1OS3BIcE5DZXBRcDZ3MGt1TFJfOE9oZTZIN2NrZDdwOUZHUy1PWGxQenctMzVWY0ZPdV9qV3RvYl80RVBLNE9aZEpFQ2hjaEVWWFJBZzhfNHdhLTFtX094QVFFZUNzYUhWOHlWbEp5Uzd1eHA2dWNKLTQ1RkNiazdQc0o0OWc?oc=5\" target=\"_blank\">Free cash flow of CR",
+  "date": "2026-11-01T17:19:22.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
  },
  {
   "id": "31438138e69abbce",
@@ -1397,6 +1551,17 @@
   "fromCloud": "2026-11-01T1833.json"
  },
  {
+  "id": "0c370eb644eb8873",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Flaherty & Crumrine Preferred and Income Securities Fund Incorporated – NASDAQ:XFFCX - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamVIcURia0NvU3ZHdWdOMVdXZEVGNDFEWXg0UU1tZGZlVTNlVVlidkQ3eHI1SXNjNWtZYmpBaXNKd3pFQ0xLZnlhZ1NNY2sxMVR4MjAwNjd6VnU5ZXpnQUVSMThtV1p2bF8tZjFUOEltZk9KS3pMNjZFMFVJdzB4d0pLTW1OeU8wcnhaczJVd1hQenZPekFuWDA1dVFLTFcydDJhdUtnRXd4aGs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamVIcURia0NvU3ZHdWdOMVdXZEVGNDFEWXg0UU1tZGZlVTNlVVlidkQ3eHI1SXNjNWtZYmpBaXNKd3pFQ0xLZnlhZ1NNY2sxMVR4MjAwNjd6VnU5ZXpnQUVSMThtV1p2bF8tZjFUOEltZk9KS3pMNjZFMFVJdzB4d0pLTW1OeU8wcnhaczJVd1hQenZPekFuWDA1dVFLTFcydDJhdUtnRXd4aG",
+  "date": "2026-11-01T02:21:26.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
+ },
+ {
   "id": "f5f9a969302a1a24",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1461,6 +1626,17 @@
   "date": "2026-10-31T20:52:49.000Z",
   "fetched": "2026-11-01T14:33:14.941Z",
   "fromCloud": "2026-11-01T1433.json"
+ },
+ {
+  "id": "21d182600a1d6590",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of CREOTECH QUANTUM S.A – GETTEX:55N - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNFlkb0VSRlpEOC13M09ZSDBOWTJubklCTE1lRzFVd08xQVRnc2ZyNlFybEcxSjRxVExxdDZ5c2FsaEd2SWpSbVN1WXljc25Cdzl4c0JiMFZOSFlOek9oUm1Rc0JleFdFV1UxdkdDTHZ4cWRUWUN4QVJ2cGJWTW9Ya3haNnY1Sm03cTVjNWNfY2ZTRUs3dEhfMFRfUlJ2cW1zYWZMQ2ozR3o?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNFlkb0VSRlpEOC13M09ZSDBOWTJubklCTE1lRzFVd08xQVRnc2ZyNlFybEcxSjRxVExxdDZ5c2FsaEd2SWpSbVN1WXljc25Cdzl4c0JiMFZOSFlOek9oUm1Rc0JleFdFV1UxdkdDTHZ4cWRUWUN4QVJ2cGJWTW9Ya3haNnY1Sm03cTVjNWNfY2ZTRUs3dEhfMFRfUlJ2cW1zYWZMQ2ozR3o?oc",
+  "date": "2026-10-31T20:22:24.000Z",
+  "fetched": "2026-11-01T19:33:12.902Z",
+  "fromCloud": "2026-11-01T1933.json"
  },
  {
   "id": "bbdbfab9f69ea8b7",
