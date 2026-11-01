@@ -1,186 +1,26 @@
 {
  "batch": "2026-11-01T1503",
- "created": "2026-11-01T15:03:17.838Z",
+ "created": "2026-11-01T15:03:38.022Z",
  "items": [
   {
-   "id": "9f4061dec61acb67",
-   "source": "Globes English",
-   "group": "israel-press",
-   "title": "Israeli startups raised over $900m in October",
-   "link": "https://en.globes.co.il/en/article-1001561531#utm_source=RSS",
-   "summary": "In the first ten months of 2026, Israeli privately held technology companies raised $11.9 billion.",
-   "date": "2026-11-01T14:45:53.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "2ed78a1526100dd5",
-   "source": "ynet כלכלה",
-   "group": "israel-press",
-   "title": "המרוץ לכלכלת החלל: הסיפור מאחורי החברות שמנסות להפוך את החלל לתעשייה של טריליוני דולרים",
-   "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/sjv11ute6gg",
-   "summary": "מה שהתחיל כמרוץ לשיגור רקטות ולוויינים הופך בהדרגה לתעשייה שעשויה לשנות את הכלכלה העולמית. חברות כמו רוקט לאב, AST ספייס מובייל וספייס אקס מפתחות תשתיות תקשורת, שיגור ומחשוב חדשות, אך החזון של אילון מאסק מגיע הרבה מעבר לכדור הארץ. המשקיע המיליארדר רון בארון מעריך שספייס אקס עשויה",
-   "date": "2026-11-01T14:38:52.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "fb02fdada6319e74",
-   "source": "כלכליסט (Google News)",
-   "group": "israel-press",
-   "title": "בעל מניות באיילון דורש גילוי מסמכים לקראת תביעה נגזרת: מדוע ויתרה על עסקת אלטשולר שחם? - Calcalist",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96Si15cDZ6a1hOUWtoVkxLQlZ0V2ZIMHZiZk5jTFl2Y2JyUDNBYnktemdxVnotU1NpOHRQdGU3aVZTRjk0RldyUnVjazlsYWlCMEM1eFpCQ3h0TGZTQm9FMzRR?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE96Si15cDZ6a1hOUWtoVkxLQlZ0V2ZIMHZiZk5jTFl2Y2JyUDNBYnktemdxVnotU1NpOHRQdGU3aVZTRjk0RldyUnVjazlsYWlCMEM1eFpCQ3h0TGZTQm9FMzRR?oc=5\" target=\"_blank\">בעל מניות באיילון דורש גילוי מסמכים לקראת תביעה נגזרת: מדוע ויתרה על עסקת א",
-   "date": "2026-11-01T14:46:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "4306071bd9e2fc5d",
+   "id": "9ef57c08e8e36ac2",
    "source": "TheMarker (Google News)",
    "group": "israel-press",
-   "title": "נתניהו שומע? פריצת הקריפטו הגדולה בהיסטוריה קרתה בסוף השבוע. מה קרה שם? - פודקאסטים - TheMarker - TheMarker",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0tOb3VRdzM5enhVQ3VTcmM1SzYybGhvb25uTVBTTWlWU2o1UGN0WW5WMHJuY0FXb19HWU0ydGVEZllrV085SEJTYUIwRnY5QkRRQlhUemhKRE1NR0hXTXlPcW1vWXF4WE9NT2h2ZElTRkpsdFRDMDFsRDlrRFpUSFhaRUFvd2hhaFlua0JXM2JEd0oyNTVCNXo4a2tNMngtbWZB?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0tOb3VRdzM5enhVQ3VTcmM1SzYybGhvb25uTVBTTWlWU2o1UGN0WW5WMHJuY0FXb19HWU0ydGVEZllrV085SEJTYUIwRnY5QkRRQlhUemhKRE1NR0hXTXlPcW1vWXF4WE9NT2h2ZElTRkpsdFRDMDFsRDlrRFpUSFhaRUFvd2hhaFlua0JXM2JEd0oyNTVCNXo4a2tNMngtbWZB?oc=5\" tar",
-   "date": "2026-11-01T14:44:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
+   "title": "אייקון סוכנות לביטוח: האפשרויות שמציעות פוליסות החיסכון - TheMasters Video - TheMarker - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVAxUUJVWlhadUU4d0VPUmgwNzByN0RQQlMxTjkxcVQ0cmF1VVJfQ1JRYndoUTNubXBoUFFGS3RaeXh0VUd5aG93azF1V1kyMjVCN0hsYVFuWnJTVlQ3bjZsSWNsdGlUcUFiQWNoZnlJZ3RqTVRhNWs1V3g2XzEzeWkwMmFPZE03Zi14TElpZXB5Skd6Qk9WQVBuMTZMYUNvTXpKUml1bi1wNHNXZXNGMHIxdk1fUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVAxUUJVWlhadUU4d0VPUmgwNzByN0RQQlMxTjkxcVQ0cmF1VVJfQ1JRYndoUTNubXBoUFFGS3RaeXh0VUd5aG93azF1V1kyMjVCN0hsYVFuWnJTVlQ3bjZsSWNsdGlUcUFiQWNoZnlJZ3RqTVRhNWs1V3g2XzEzeWkwMmFPZE03Zi14TElpZXB5Skd6Qk9WQVBuMTZMYUNvTXpKUml1bi1wNH",
+   "date": "2026-11-01T12:52:00.000Z",
+   "fetched": "2026-11-01T15:03:38.022Z"
   },
   {
-   "id": "82908e6e3e9abeeb",
-   "source": "TheMarker (Google News)",
-   "group": "israel-press",
-   "title": "בדרך להנפקה: ברזאני רוצה לגייס מיליארד ש' ולחלק 330 מיליון ש' דיווידנד - TheMarker",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEJMdkU1b3ZZakwzWVZlSVhuTng1azFXLWkydklpRzg1Xy01REoxN3RUeUNJaTdpejdSck1mNlQ3ZlZyTWNhQzZsX2tpS1VlZy1hT0pGellWWkxqVE1LUzRrMGxMOENyaGVXYjdfM1poRGdSZjFCbHIxcVNfOXhvOHAtb0pfZjVySHNGbm5obExFLWpJNWNXTkF4TktrR2h1aWRj?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEJMdkU1b3ZZakwzWVZlSVhuTng1azFXLWkydklpRzg1Xy01REoxN3RUeUNJaTdpejdSck1mNlQ3ZlZyTWNhQzZsX2tpS1VlZy1hT0pGellWWkxqVE1LUzRrMGxMOENyaGVXYjdfM1poRGdSZjFCbHIxcVNfOXhvOHAtb0pfZjVySHNGbm5obExFLWpJNWNXTkF4TktrR2h1aWRj?oc=5\" tar",
-   "date": "2026-11-01T14:30:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "8624c193c7150757",
-   "source": "TheMarker (Google News)",
-   "group": "israel-press",
-   "title": "\"גם במחיר פגיעה בסוכן הביטוח\": נדחתה עתירת הסוכנות שסחרה בפרטי מבוטחים - TheMarker",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1dUZ3NFeU9rYVVjQnpTaG0wbkRTRWFlNVpRQWFQaFg5NkNZamxrTEh6N1NRVXVScVZGX1ZFU0hiV3dFUllNSDNLYVY1SUZhSGtzNEU4T2xUUFQ1NFYzVTFEaFdrY0VOOEJiUHVqYlBfbDRRUFZfR3ViNjFFNXg5bllLWGlwWWJhSkNPVHlOcU5ZRElBLTZSLTFuVDdRaEZCd2dv?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1dUZ3NFeU9rYVVjQnpTaG0wbkRTRWFlNVpRQWFQaFg5NkNZamxrTEh6N1NRVXVScVZGX1ZFU0hiV3dFUllNSDNLYVY1SUZhSGtzNEU4T2xUUFQ1NFYzVTFEaFdrY0VOOEJiUHVqYlBfbDRRUFZfR3ViNjFFNXg5bllLWGlwWWJhSkNPVHlOcU5ZRElBLTZSLTFuVDdRaEZCd2dv?oc=5\" tar",
-   "date": "2026-11-01T14:36:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "7ddf629ec0bf05f9",
-   "source": "TheMarker (Google News)",
-   "group": "israel-press",
-   "title": "היורש של ריי דליו: הבינה המלאכותית זקוקה לריסון מיידי - TheMarker",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXhvdzVLczFmNFA3ZWhyTXpYUmVqMi15c2lORG9GNWQzWUJqajNsbGZVZldsNnBiMHVJQ0FPT3c0Zi1BMUZWZnloZVd4U0pNOG1SVHMycXlYZUljenRDbDdEZFgzeG5LOVNCdFVxeWtQcUJTRTg0Y2VsMG5pZkVvM05ZYTF5eGxJSFgwaEU5WHlDOTZnaXZTMDlxbldaSmxjdHZfbU5rRQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXhvdzVLczFmNFA3ZWhyTXpYUmVqMi15c2lORG9GNWQzWUJqajNsbGZVZldsNnBiMHVJQ0FPT3c0Zi1BMUZWZnloZVd4U0pNOG1SVHMycXlYZUljenRDbDdEZFgzeG5LOVNCdFVxeWtQcUJTRTg0Y2VsMG5pZkVvM05ZYTF5eGxJSFgwaEU5WHlDOTZnaXZTMDlxbldaSmxjdHZfbU5rRQ?oc=",
-   "date": "2026-11-01T14:58:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "f3bd616ba1035161",
-   "source": "TheMarker (Google News)",
-   "group": "israel-press",
-   "title": "המדינה הלכה לגייס חוב בחו\"ל — אז למה עכשיו הוא מגיע לשוק המקומי? - שוק ההון - TheMarker - TheMarker",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3FpOS1IVjk1RmtUSXRDdktLc0pNMUFFblk2WFlhd1M3amhXWE9DTWVhVXE4QWdNeW5RSkJaRmY3MTc0OS1KUmhveVZZaHpCRFJBeUp6SE1oeTFZdFFZdXFuUTI5ODRKODFnSExTSHIxZXZVNzdJdmlTejRXSzJHRDdtcnljVW54TEJTY1NraU9TR0pMYVVleHhPbHQ3MUpGNGtJ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3FpOS1IVjk1RmtUSXRDdktLc0pNMUFFblk2WFlhd1M3amhXWE9DTWVhVXE4QWdNeW5RSkJaRmY3MTc0OS1KUmhveVZZaHpCRFJBeUp6SE1oeTFZdFFZdXFuUTI5ODRKODFnSExTSHIxZXZVNzdJdmlTejRXSzJHRDdtcnljVW54TEJTY1NraU9TR0pMYVVleHhPbHQ3MUpGNGtJ?oc=5\" tar",
-   "date": "2026-11-01T14:36:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "7d4888cc3fa2fc7d",
-   "source": "ביזפורטל (Google News)",
-   "group": "israel-press",
-   "title": "ענקיות הטכנולוגיה עברו ממזומן לחוב: \"מסוכן יותר, מצריך מכפיל נמוך\" - ביזפורטל",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDNjJRU2stX2RTYl9uQU5QSjlRUXBweUVnQm1vbmJWT1MzcElRNjdhTVBWTkZjdkxJZlhWazE1dDJoTUNSTUgzRXJpbWdOa1ZHSmY2NVROMUFESUZMRm5iZFdDbW12dUc0NUJtSlQwbm4?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBDNjJRU2stX2RTYl9uQU5QSjlRUXBweUVnQm1vbmJWT1MzcElRNjdhTVBWTkZjdkxJZlhWazE1dDJoTUNSTUgzRXJpbWdOa1ZHSmY2NVROMUFESUZMRm5iZFdDbW12dUc0NUJtSlQwbm4?oc=5\" target=\"_blank\">ענקיות הטכנולוגיה עברו ממזומן לחוב: \"מסוכן יותר, מצריך מ",
-   "date": "2026-11-01T14:37:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "c8294198eae4a940",
-   "source": "ביזפורטל (Google News)",
-   "group": "israel-press",
-   "title": "הפרמיה האמיתית באקזיט של פריון - והקרן הישראלית שמורווחת בגדול - ביזפורטל",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Xb25CdDNaa0NKNkdPeUtJNEtENmQ3d0s3d3NOLTd0eWVBNVRxTnRfX0x5MGdnVHhfMDZoSkVkLS1tclJUNS1jeXdweGNYWmdITXJtNGdxWWs2YnY4dHpJOU9DZEFGY0k2TUxfVW1NSlU?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5Xb25CdDNaa0NKNkdPeUtJNEtENmQ3d0s3d3NOLTd0eWVBNVRxTnRfX0x5MGdnVHhfMDZoSkVkLS1tclJUNS1jeXdweGNYWmdITXJtNGdxWWs2YnY4dHpJOU9DZEFGY0k2TUxfVW1NSlU?oc=5\" target=\"_blank\">הפרמיה האמיתית באקזיט של פריון - והקרן הישראלית שמורווחת",
-   "date": "2026-11-01T14:55:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "4bca9586570d1395",
+   "id": "145baac62ec4935f",
    "source": "בנק ישראל ומשק (Google News)",
    "group": "israel-official",
-   "title": "מזרחי טפחות יחלק 10 מיליון שקל להורים: מענק של 1,000 שקל למימון חוגים לילדים - היום",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZVnVTa3NFNmRVTUJRZnpmUUt4RWJYOWEtNXR4cW9GYmhZUkY5TnkxaGhlRXlwZG1mQV9sSWJIbldZWkw3N19XemFUM0pwZ0hfMEtubGx6dTI4S1d0a2lBSTRkUUR1QTdzSU0tYjdn?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBZVnVTa3NFNmRVTUJRZnpmUUt4RWJYOWEtNXR4cW9GYmhZUkY5TnkxaGhlRXlwZG1mQV9sSWJIbldZWkw3N19XemFUM0pwZ0hfMEtubGx6dTI4S1d0a2lBSTRkUUR1QTdzSU0tYjdn?oc=5\" target=\"_blank\">מזרחי טפחות יחלק 10 מיליון שקל להורים: מענק של 1,000 שקל למ",
-   "date": "2026-11-01T13:13:57.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "f3cf73a8e3ac9842",
-   "source": "Google News – CFO / M&A",
-   "group": "cfo",
-   "title": "Baystate completes acquisition of Mercy Medical Center - Western Mass News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa05xMHI5VExITTdJYmVWLWFEMGFUYTNZUFB0RWkxZnZDd0hHOENMTi1QOUJITHNycEF3MDM5T21KRURqVVZQRVRsZmxpSGtUOW44cnkzSnFuTnhxVXBmZHVlUS1aUW9kQ2tSVzRManhjYjNyYWxNODlvbkZaaDlzaWZ0N053TnB5YU8xdmY0amh1RjBxRDZDdzlFQdIBrwFBVV95cUxPSHA4UHhPZmdnamVvbnIxeUwySmxYWmdEaWpjbEUxZ0p6ZlRzdzU2Qm9vRWg5WnJ3c1duZ0hVRjcyaWlDTktiZ3hQdW1wN0pSdTR1UnRXTzhvYjJBbXpTRkhzNmdJNHFaMFhReHZzdlFxdjIyb3pqck8xcnJZSlc4QTYzcDF2aEJRUU5PYVJkejRxaHN6S1lBY2xjU3NreF9DNm9IVGVabzdQMnBQS293?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOa05xMHI5VExITTdJYmVWLWFEMGFUYTNZUFB0RWkxZnZDd0hHOENMTi1QOUJITHNycEF3MDM5T21KRURqVVZQRVRsZmxpSGtUOW44cnkzSnFuTnhxVXBmZHVlUS1aUW9kQ2tSVzRManhjYjNyYWxNODlvbkZaaDlzaWZ0N053TnB5YU8xdmY0amh1RjBxRDZDdzlFQdIBrwFBVV95cUxPSHA4UH",
-   "date": "2026-11-01T14:42:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "3c5bba9c78076f3e",
-   "source": "Google News – CFO / M&A",
-   "group": "cfo",
-   "title": "Form 4 Atlasclear Holdings Inc: Sandip I. Patel (Director, CFO & General Counsel) For: 24 September - Investing.com Canada",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXRHTnI5QlpXUjZNaHNwN1dZeFZnSHk5dmRQUmQ3OXNfcHBrVXdNYkJqUWJMcnFtNnp3LS1ab09QLU93YThTSm03N1NrWUxUcm1FNWZ1R0V5ZWN1YWNrTk5PVm9ZaTVvZXg1c29mcVdZMGh2YlVsSGc5UmIzWjdXdktvdXhPNWNFTUxQdjNXTEQ0MkJ4QXVUNEVNTjdMbnJwMTVDcGxVWFBFejVJUzZQSlprRmJ3ckpFZENvM05MdDVfUVg1TmxlaU5nQ3ZXdzZ3T1UtNlBBdWZzWVpiS1lVNHJjNk13ZTMw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXRHTnI5QlpXUjZNaHNwN1dZeFZnSHk5dmRQUmQ3OXNfcHBrVXdNYkJqUWJMcnFtNnp3LS1ab09QLU93YThTSm03N1NrWUxUcm1FNWZ1R0V5ZWN1YWNrTk5PVm9ZaTVvZXg1c29mcVdZMGh2YlVsSGc5UmIzWjdXdktvdXhPNWNFTUxQdjNXTEQ0MkJ4QXVUNEVNTjdMbnJwMTVDcGxVWFBFej",
-   "date": "2026-11-01T14:38:16.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "2e8d07738de61a06",
-   "source": "Google News – CFO / M&A",
-   "group": "cfo",
-   "title": "Willis Re completes acquisition of BMS Re’s US subsidiaries - InsuranceAsia News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0QtQWczYzd5czFWRzdFRFZQSWV3UF9PdzRYUTQ5Z2pVN0FKMHlhbGhEZkU2YklqS2NMLWJSYWVja3M4d0ljbzg1RDZ2UkZmYzdUZ0UxZy1vMWxNRENqbmhRdm9tN3VFb3VOYkpQMm9YQVRTVmZxX0NvS2lxNEc0YUZDMjN4bDQ3S2VSaHM5XzdiUQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0QtQWczYzd5czFWRzdFRFZQSWV3UF9PdzRYUTQ5Z2pVN0FKMHlhbGhEZkU2YklqS2NMLWJSYWVja3M4d0ljbzg1RDZ2UkZmYzdUZ0UxZy1vMWxNRENqbmhRdm9tN3VFb3VOYkpQMm9YQVRTVmZxX0NvS2lxNEc0YUZDMjN4bDQ3S2VSaHM5XzdiUQ?oc=5\" target=\"_blank\">Willis Re",
-   "date": "2026-11-01T08:49:44.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "1022d4f3561a4248",
-   "source": "Google News – CFO / M&A",
-   "group": "cfo",
-   "title": "Advantage Energy cuts debt by over 50% via Wemb... - Pluang",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2NxV3l0bVo1dlg3S1FodTB2Y2Vldmc0Sl9ZMld4UXRDcmZyNmRBRWx1RGFGQ2dnUHlYVVdJRWRVd0xUQnZ3NnhwS21WT3lrc2ZyUzZLQkJDN1M0OUYyQXlMSkI0UXhrRGFEaWdOSVZwNUttYjZDNTlVdV8tamlNSnFlb0paNDE4UGZkSm5xN09xNU5IXzdqVUZNRQ?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2NxV3l0bVo1dlg3S1FodTB2Y2Vldmc0Sl9ZMld4UXRDcmZyNmRBRWx1RGFGQ2dnUHlYVVdJRWRVd0xUQnZ3NnhwS21WT3lrc2ZyUzZLQkJDN1M0OUYyQXlMSkI0UXhrRGFEaWdOSVZwNUttYjZDNTlVdV8tamlNSnFlb0paNDE4UGZkSm5xN09xNU5IXzdqVUZNRQ?oc=5\" target=\"_blan",
-   "date": "2026-11-01T13:48:01.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "f3a07e2ef25de9d0",
-   "source": "Google News – CFO / M&A",
-   "group": "cfo",
-   "title": "Affle CPCU acquisition of Perion at US$420 million explained - Kalkine India",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTTFFZFAtR0FQdHk2SFUzQmtVZnpWTHpwaFJUaEplUUJLZWtfS0Y5enNHZnZvbngwUldKSTRScFYzbEQzS3o3N29BMy1td3BRdWQ3ay1SVmJmRUo3WldtVTJmM3owWFZUOWl1MU1NYi1McHYwZFVrZldDRkhacDRCSDJfdjYzWmoyRGMteEtrNGFXS2RqS1lTV3F1aUdVbV9rLTZzcWYzQ29pUmJOSDB3cWFoaVFaU1djOS1IVw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPTTFFZFAtR0FQdHk2SFUzQmtVZnpWTHpwaFJUaEplUUJLZWtfS0Y5enNHZnZvbngwUldKSTRScFYzbEQzS3o3N29BMy1td3BRdWQ3ay1SVmJmRUo3WldtVTJmM3owWFZUOWl1MU1NYi1McHYwZFVrZldDRkhacDRCSDJfdjYzWmoyRGMteEtrNGFXS2RqS1lTV3F1aUdVbV9rLTZzcWYzQ29pUm",
-   "date": "2026-11-01T12:22:00.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "ba2bbe4d97e62ebc",
-   "source": "Google News – CFO / M&A",
-   "group": "cfo",
-   "title": "Lenovo's AI Retail Rollout and a Cheaper Loan Cut Through the Sector's Intel-Led Gloom - ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUjVsUjZ5RTQ5NkJtNXNkSTVqVXV5QnB5VDR2MnhPMU5veTViVEFBS3huaUlzd21leEIwUEgzRmtqQ2NLSFZxOXhrbGV5VXctZXlRblEtdW1tVVNha1pBVUJRSWJZeFhwTVFzQTlZV1NXMzMwa1dLZ1hsMFVTZElsRE9ZNHJLY1czLXFoMGljVmVZZ0xfV3FNdjhUemw0QURHTHliVVVyZ2NaMlc2R1JWcXhFbF9kOVNDSXZuY0s1Z1dQNGl6ci1aNmZqeGFfajJHbTNjSmJsYVN0NDB2VGtWcmxoWFUtbXdLQXhHNWhjZw?oc=5",
-   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUjVsUjZ5RTQ5NkJtNXNkSTVqVXV5QnB5VDR2MnhPMU5veTViVEFBS3huaUlzd21leEIwUEgzRmtqQ2NLSFZxOXhrbGV5VXctZXlRblEtdW1tVVNha1pBVUJRSWJZeFhwTVFzQTlZV1NXMzMwa1dLZ1hsMFVTZElsRE9ZNHJLY1czLXFoMGljVmVZZ0xfV3FNdjhUemw0QURHTHliVVVyZ2NaMl",
-   "date": "2026-11-01T13:11:45.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
-  },
-  {
-   "id": "f926992e49edbd2f",
-   "source": "DCD – Data Center Dynamics",
-   "group": "industry",
-   "title": "What could 1,000x more reliable quantum computation unlock?",
-   "link": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
-   "summary": "<p data-block-key=\"y1wxy\">And why you should start thinking about quantum computing as an element of the broader data center ecosystem</p>",
-   "date": "2026-11-01T15:00:31.000Z",
-   "fetched": "2026-11-01T15:03:17.838Z"
+   "title": "הבחירות נגמרו, הבלאגן רק מתחיל: האזהרה למשקיעים בישראל - מעריב",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16UUhNam81UWlKcWUyeFg1U3N1S3hJbHZ6R1AwZF8zTUFOTThRZ0J3WmN2eWVTcVJPUmRDSnpKMkIwbUhJeGFzWFcyd0FzcUtuNU1teVNHRFJnR2s1Y2Yxa0VSYUkxUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE16UUhNam81UWlKcWUyeFg1U3N1S3hJbHZ6R1AwZF8zTUFOTThRZ0J3WmN2eWVTcVJPUmRDSnpKMkIwbUhJeGFzWFcyd0FzcUtuNU1teVNHRFJnR2s1Y2Yxa0VSYUkxUQ?oc=5\" target=\"_blank\">הבחירות נגמרו, הבלאגן רק מתחיל: האזהרה למשקיעים בישראל</a>&nbsp;&nbsp",
+   "date": "2026-11-01T09:18:58.000Z",
+   "fetched": "2026-11-01T15:03:38.022Z"
   }
  ]
 }
