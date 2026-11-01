@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 66,
+  "ok": 68,
   "blocked": 0
  },
  "news.google.com": {
@@ -24,7 +24,7 @@
   "blocked": 1
  },
  "ad-hoc-news.de": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "israeldefense.co.il": {
@@ -386,5 +386,13 @@
  "tech-insider.org": {
   "ok": 0,
   "blocked": 1
+ },
+ "sponser.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "smestreet.in": {
+  "ok": 1,
+  "blocked": 0
  }
 }
