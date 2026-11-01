@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 58
+  "blocked": 60
  },
  "en.globes.co.il": {
   "ok": 11,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 61,
+  "ok": 64,
   "blocked": 0
  },
  "news.google.com": {
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 17
+  "blocked": 23
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -72,7 +72,7 @@
   "blocked": 4
  },
  "calcalistech.com": {
-  "ok": 16,
+  "ok": 17,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -160,7 +160,7 @@
   "blocked": 1
  },
  "avnetwork.com": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 0
  },
  "prnewswire.com": {
