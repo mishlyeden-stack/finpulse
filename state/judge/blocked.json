@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 60
+  "blocked": 61
  },
  "en.globes.co.il": {
   "ok": 11,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 69,
+  "ok": 72,
   "blocked": 0
  },
  "news.google.com": {
@@ -24,7 +24,7 @@
   "blocked": 1
  },
  "ad-hoc-news.de": {
-  "ok": 4,
+  "ok": 7,
   "blocked": 0
  },
  "israeldefense.co.il": {
