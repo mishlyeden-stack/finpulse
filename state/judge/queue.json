@@ -429,6 +429,17 @@
   "fromCloud": "2026-10-31T2203.json"
  },
  {
+  "id": "287f38b1ee97ea1e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Shivam Autotech Ltd Rights 2026-19.11.26 For Shares – NSE:SHIVAM_RE1 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjRQX0IyaWZBbkJhcmtyTDJfaXFnNWk0YUNFUTdoYy04Y1VkR0V3ZTh0N3cya09ydVFhOHV1aTNxX3lFOFhYVy1lWWRZOEd3SU5DSW55NVpLc2FRc1g0UV9jeHB3NFRWdzkwVHhoZU1PN2Zxd05YMXVfOXpXVXZXLXZxZXlyVGlXbzJaMkNZSW8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjRQX0IyaWZBbkJhcmtyTDJfaXFnNWk0YUNFUTdoYy04Y1VkR0V3ZTh0N3cya09ydVFhOHV1aTNxX3lFOFhYVy1lWWRZOEd3SU5DSW55NVpLc2FRc1g0UV9jeHB3NFRWdzkwVHhoZU1PN2Zxd05YMXVfOXpXVXZXLXZxZXlyVGlXbzJaMkNZSW8?oc=5\" target=\"_blank\">Free cash fl",
+  "date": "2026-10-31T19:42:50.000Z",
+  "fetched": "2026-11-01T01:33:11.727Z",
+  "fromCloud": "2026-11-01T0133.json"
+ },
+ {
   "id": "aabb582fc17f150f",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -449,6 +460,17 @@
   "date": "2026-10-31T19:27:38.000Z",
   "fetched": "2026-10-31T21:33:12.318Z",
   "fromCloud": "2026-10-31T2133.json"
+ },
+ {
+  "id": "cd756646fe6ec33d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "NMP Acquisition Corp. (NMP) Seasonal returns chart - Yahoo Finance Australia",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQjAzQWFQMlhpS0xkTEpkUm9UaGVMZ2g4X3lYd2NGYW11YTVSZk1JQzRmeHVEV0M4dVBQRW8wQ2lTMjVKSmRFOU9veVNYc0ZfX2VWNHNvVlB6X0JoME5jMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQjAzQWFQMlhpS0xkTEpkUm9UaGVMZ2g4X3lYd2NGYW11YTVSZk1JQzRmeHVEV0M4dVBQRW8wQ2lTMjVKSmRFOU9veVNYc0ZfX2VWNHNvVlB6X0JoME5jMA?oc=5\" target=\"_blank\">NMP Acquisition Corp. (NMP) Seasonal returns chart</a>&nbsp;&nbsp;<font color",
+  "date": "2026-10-31T19:27:01.000Z",
+  "fetched": "2026-11-01T01:33:11.727Z",
+  "fromCloud": "2026-11-01T0133.json"
  },
  {
   "id": "1391b95396bae5c2",
@@ -3386,16 +3408,5 @@
   "date": "2026-10-31T01:38:00.000Z",
   "fetched": "2026-10-31T08:03:14.827Z",
   "fromCloud": "2026-10-31T0803.json"
- },
- {
-  "id": "636162e11799d6c9",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Form 4 Belite Bio Inc ADR: Hao-Yuan Chuang (Director, CFO) For: 29 October - Investing.com UK",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0w0emF4NV9PMld2TnBYc25TYkw0SGMyU0pQWi1ELXRXQWRoSko4aFRVeEVvdTYzTWJwNWhFUU50QXZFVDZLZmNFRlBrSVhBWnpCeXE0TUJieTVKYUx4SDZ6aV85MVRIVXRheUV2Z05UQW9Ld19Yd2o1eEdNNjRMOVFLTXZ5Y1NPQ2t3V2wzSmdjNzR3MHVzUEU5Rzd1czE5UURVZ090eDlBbXloLTM3aGg3MEp4WkhnOEtjYlhDZlBUTzdlT3RZYw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0w0emF4NV9PMld2TnBYc25TYkw0SGMyU0pQWi1ELXRXQWRoSko4aFRVeEVvdTYzTWJwNWhFUU50QXZFVDZLZmNFRlBrSVhBWnpCeXE0TUJieTVKYUx4SDZ6aV85MVRIVXRheUV2Z05UQW9Ld19Yd2o1eEdNNjRMOVFLTXZ5Y1NPQ2t3V2wzSmdjNzR3MHVzUEU5Rzd1czE5UURVZ090eDlBbX",
-  "date": "2026-10-31T01:32:00.000Z",
-  "fetched": "2026-10-31T21:03:11.642Z",
-  "fromCloud": "2026-10-31T2103.json"
  }
 ]
