@@ -110,6 +110,17 @@
   "fromCloud": "2026-10-31T2133.json"
  },
  {
+  "id": "22fc87025f4d64f7",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מטא סגרה גם את התביעה השנייה, וסנאפ נשארת לבד מול חבר המושבעים בלוס אנג'לס - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QLXkybGVQOVBIMmtwV2Y0U2NxbmJsRmk3LWxBLUNVcWhKMEYyZDJNeDB5YzR0UmtqU1J5bE03eWJWV1o0UVFxZE9qREFNYXdVdXRKMzNiTzlkU3VRLS1FU3NRUGdYWjg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QLXkybGVQOVBIMmtwV2Y0U2NxbmJsRmk3LWxBLUNVcWhKMEYyZDJNeDB5YzR0UmtqU1J5bE03eWJWV1o0UVFxZE9qREFNYXdVdXRKMzNiTzlkU3VRLS1FU3NRUGdYWjg?oc=5\" target=\"_blank\">מטא סגרה גם את התביעה השנייה, וסנאפ נשארת לבד מול חבר המושבעים בלוס ",
+  "date": "2026-10-31T21:20:00.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
+ },
+ {
   "id": "e79c203706bd0ae9",
   "source": "ynet כלכלה",
   "group": "israel-press",
@@ -152,6 +163,28 @@
   "date": "2026-10-31T21:00:00.000Z",
   "fetched": "2026-10-31T23:03:12.275Z",
   "fromCloud": "2026-10-31T2303.json"
+ },
+ {
+  "id": "f753e6e4cd338f3b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שורה אחת ב-robots.txt: OpenAI, גוגל ומיקרוסופט מאחדות את החסימה של אימון AI - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6SjFhZ3lVeV9CdC1nUEJUcTRDVHBkX19ZaWlnR0VLak85X0w1OVlORkpWZXFhR3U3cjNHTzZrNkNRVmxQZWxBVUFjQWhCT0NsYkhLekxqcVJYWXRaeTJiQmlZSXdoQkNL?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6SjFhZ3lVeV9CdC1nUEJUcTRDVHBkX19ZaWlnR0VLak85X0w1OVlORkpWZXFhR3U3cjNHTzZrNkNRVmxQZWxBVUFjQWhCT0NsYkhLekxqcVJYWXRaeTJiQmlZSXdoQkNL?oc=5\" target=\"_blank\">שורה אחת ב-robots.txt: OpenAI, גוגל ומיקרוסופט מאחדות את החסימה של ",
+  "date": "2026-10-31T21:00:00.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
+ },
+ {
+  "id": "f267596bbb4d607e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "לא לחץ \"הסר\" ונרשם שוב: \"לוחם הספאם\" תבע 38,900 שקל וקיבל 775 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MMlU4M1QyTHMxUk5OTWczOXJ5N1F1SG5NUmpsT3hBbGgyZUJva1R0TGJiQVFyODZPT1BMREpMZmwwOHBqZ2plZjI3RUpNTlg3QlpZSFQzMWlBWFM5bUEzdEpLdkUyd28?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MMlU4M1QyTHMxUk5OTWczOXJ5N1F1SG5NUmpsT3hBbGgyZUJva1R0TGJiQVFyODZPT1BMREpMZmwwOHBqZ2plZjI3RUpNTlg3QlpZSFQzMWlBWFM5bUEzdEpLdkUyd28?oc=5\" target=\"_blank\">לא לחץ \"הסר\" ונרשם שוב: \"לוחם הספאם\" תבע 38,900 שקל וקיבל 775</a>&nb",
+  "date": "2026-10-31T20:58:00.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
  },
  {
   "id": "7bf576eed9c05c74",
@@ -306,6 +339,17 @@
   "date": "2026-10-31T19:08:20.000Z",
   "fetched": "2026-10-31T20:03:13.105Z",
   "fromCloud": "2026-10-31T2003.json"
+ },
+ {
+  "id": "e952288714c467dc",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הפסד ראשון לענקיות הרשת בבריטניה: מטא, טיקטוק ו-X יחשפו לאופקום איך הן מסננות תוכן - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVmdDdTlvNGZBNkhMVFh6Vm41eHNiZExyWkxuNTFnSjExTXlLNXVwb0dDeWNyd05fZlRWX19faU5UTGpwS3YwQWROLUtnM1JqY0U4RENBNzNJYkp5NmlKakRVd0kxWDg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVmdDdTlvNGZBNkhMVFh6Vm41eHNiZExyWkxuNTFnSjExTXlLNXVwb0dDeWNyd05fZlRWX19faU5UTGpwS3YwQWROLUtnM1JqY0U4RENBNzNJYkp5NmlKakRVd0kxWDg?oc=5\" target=\"_blank\">הפסד ראשון לענקיות הרשת בבריטניה: מטא, טיקטוק ו-X יחשפו לאופקום איך ",
+  "date": "2026-10-31T19:08:00.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
  },
  {
   "id": "0a06e47b0915083a",
@@ -1705,6 +1749,17 @@
   "fromCloud": "2026-10-31T1003.json"
  },
  {
+  "id": "407f8bfcb01d0ef9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Balance interests of acquiring body, landowners in acquisition appeals: Supreme Court - Deccan Herald",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYUpTRnR6ajFRTUNRRUNhOEdZM1ZES2pRTnI2RUxfeXRzY3gzN2NrSUJ6MDRNSWtyQzc1YnVGUUotN1FfanNkM25KMlRvOERmT1pDcjlkSVR0T0pvaHdZZGpjZkJEQmRrNDFBc3ZkYVBpSVBqaUhhaHNJckdrNVU5OE41ZEdRdmZ6dGlvcHN2UnNSS1hDYy1yWFd1bTVWUXdnRzV2TTlkMENGUUNTVmxrZHVlaGtZTEM5TV9XSmd2Rmw5OXhV?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQYUpTRnR6ajFRTUNRRUNhOEdZM1ZES2pRTnI2RUxfeXRzY3gzN2NrSUJ6MDRNSWtyQzc1YnVGUUotN1FfanNkM25KMlRvOERmT1pDcjlkSVR0T0pvaHdZZGpjZkJEQmRrNDFBc3ZkYVBpSVBqaUhhaHNJckdrNVU5OE41ZEdRdmZ6dGlvcHN2UnNSS1hDYy1yWFd1bTVWUXdnRzV2TTlkMENGUU",
+  "date": "2026-10-31T08:45:43.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
+ },
+ {
   "id": "40ddddc2d063590d",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1804,6 +1859,17 @@
   "fromCloud": "2026-10-31T1433.json"
  },
  {
+  "id": "4a4de5e53abe35d4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CCI clears Xavier Niel's 5.1 bn euro Vodafone stake acquisition, 3 deals - Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0ZWM3k0a0VZeFdiZWVJeV9RQ09tdEY3eUFBUU90MllvS1hEM0pRV2hyLXRxTlV6TTg5R3hDSlExaVdlMHVFQmJxS3RqRkVhREhmQTd2VW1nOFpqUnQtMTR3RjIwUzljZUdreUN4aGl4MTg4Szk3UUo3azN2MkN0Q0ptTWRxWWMtdTc1MFpNNExXaWJoMVMzV2VCTmJXby1ua3NzbnBBcDQ3a2tnekI0Zm4tN3RmbE9zdGtobkVyM3A5NDZhTUxOUGVVd2ZMYU9EelHSAdcBQVVfeXFMT2xXVnQxbkg5YXpBUWp2SHdpS2xoY2I2cjV1MnBMNWlWVktSSTNHR3hLNW5fZllRbEtoLTY1N3JaTExQUFlNQW9TVmxfZmFqWEpyWU5IVjBCLUdWaktvN2tuVTB3U2F3U0dKa0YtcUNlN2ludTFLblIzV3NJSl9XXzBmNXpDQlRWbVFNMGxLbDVHVnVOdE9Pdl9JVVdKeVRpR2g4dnRidjRwUDlqUWVobTlXak5VVThOUGpPOWIwUGFMWHpQdzROU1Jzb3g3N215T0pjV1BfOHM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0ZWM3k0a0VZeFdiZWVJeV9RQ09tdEY3eUFBUU90MllvS1hEM0pRV2hyLXRxTlV6TTg5R3hDSlExaVdlMHVFQmJxS3RqRkVhREhmQTd2VW1nOFpqUnQtMTR3RjIwUzljZUdreUN4aGl4MTg4Szk3UUo3azN2MkN0Q0ptTWRxWWMtdTc1MFpNNExXaWJoMVMzV2VCTmJXby1ua3NzbnBBcDQ3a2",
+  "date": "2026-10-31T08:13:24.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
+ },
+ {
   "id": "4576e0716511245b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1835,6 +1901,17 @@
   "date": "2026-10-31T08:02:00.000Z",
   "fetched": "2026-10-31T08:33:13.352Z",
   "fromCloud": "2026-10-31T0833.json"
+ },
+ {
+  "id": "9d2fce6c204d564d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BHAV Acquisition Corp. II (BHAIU) 10K Form and Latest SEC Filings 2026 - MarketBeat",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0SFRvM1BsRVpaMjJrV0Z4ZlZnZFpBVzhfRG9MM0tOVXRzZXUxX0VsQkpSdTU1N24zdFlIenpQUTFydkdjaFVqRDFyVkdDWHZVenhrV0pQc2RULWp1cks3RW1BQ3lFQzdZdUFB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB0SFRvM1BsRVpaMjJrV0Z4ZlZnZFpBVzhfRG9MM0tOVXRzZXUxX0VsQkpSdTU1N24zdFlIenpQUTFydkdjaFVqRDFyVkdDWHZVenhrV0pQc2RULWp1cks3RW1BQ3lFQzdZdUFB?oc=5\" target=\"_blank\">BHAV Acquisition Corp. II (BHAIU) 10K Form and Latest SEC Filin",
+  "date": "2026-10-31T07:55:07.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
  },
  {
   "id": "e901fdf5be7d87e3",
@@ -2088,6 +2165,17 @@
   "date": "2026-10-31T06:35:00.000Z",
   "fetched": "2026-10-31T07:03:12.766Z",
   "fromCloud": "2026-10-31T0703.json"
+ },
+ {
+  "id": "1ff322548179fa46",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BHAV Acquisition Corp. II (BHAIU) Stock Price, News & Analysis - MarketBeat",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZEJCdGVheXppb003a0Njd1hnYTdNb25WU04yaDB0eXRCSlJwRzl3X096Q0t0ellyV3BUYmtzV3paNU4wYWlET09uUnhsNm96LUt1NkFJV1JwWnM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZEJCdGVheXppb003a0Njd1hnYTdNb25WU04yaDB0eXRCSlJwRzl3X096Q0t0ellyV3BUYmtzV3paNU4wYWlET09uUnhsNm96LUt1NkFJV1JwWnM?oc=5\" target=\"_blank\">BHAV Acquisition Corp. II (BHAIU) Stock Price, News & Analysis</a>&nbsp;&nbsp;<font ",
+  "date": "2026-10-31T06:34:45.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
  },
  {
   "id": "2ceab34c7e651d16",
@@ -2618,6 +2706,17 @@
   "fromCloud": "2026-10-31T2303.json"
  },
  {
+  "id": "c430e7899fae9c49",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פטריק פויאנה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ec3MzQzdNTjE5QV83WnpmX09zdHE5ZVFjaDdzY0plSWtBcGVHRUNZcG5JQnRFT0JnTDNuV2ppU0o1bUprSmRwcXRiSFRnSWxyOFdXYjln?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ec3MzQzdNTjE5QV83WnpmX09zdHE5ZVFjaDdzY0plSWtBcGVHRUNZcG5JQnRFT0JnTDNuV2ppU0o1bUprSmRwcXRiSFRnSWxyOFdXYjln?oc=5\" target=\"_blank\">פטריק פויאנה</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-10-31T04:00:22.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
+ },
+ {
   "id": "b9c9e1209fa121f1",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -2682,6 +2781,17 @@
   "date": "2026-10-31T03:59:20.000Z",
   "fetched": "2026-10-31T22:35:58.772Z",
   "fromCloud": "2026-10-31T2235.json"
+ },
+ {
+  "id": "690a656085353c64",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אנדרס אופדל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vcFR2aURYR0ZER2RUVnpSZzZFQzh3eU5zTm5PRmw0c2pIbTRuSFBRTHBOS2ZEbFZzQmVMcUdLSC1ibHRlVFJTMm4zNXR6azUyeUZZWHBB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vcFR2aURYR0ZER2RUVnpSZzZFQzh3eU5zTm5PRmw0c2pIbTRuSFBRTHBOS2ZEbFZzQmVMcUdLSC1ibHRlVFJTMm4zNXR6azUyeUZZWHBB?oc=5\" target=\"_blank\">אנדרס אופדל</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-10-31T03:59:20.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
  },
  {
   "id": "7c0de2fb20285e9c",
@@ -2902,6 +3012,17 @@
   "date": "2026-10-31T02:17:24.000Z",
   "fetched": "2026-10-31T22:33:11.994Z",
   "fromCloud": "2026-10-31T2233.json"
+ },
+ {
+  "id": "71a349b103dd0781",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CCI clears Xavier Niel's 16.2% stake acquisition in Vodafone Group - ET Telecom",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM3ZvczlfMkZDZGg5NFgxVVJMLVFaVXNSdTZMYTNpcFZmMHJJZjBobUd1bzVucWFlNnBhV3I0NXJhdDRTaUljTjJMUllFY09Jd29BZmVwaDl3bERCTHFSMXJCNTI4WGt2cUw2ZUNSQS1EWVQzUnhBMVNMajdSaGFIT3BGX3pQbkZwelRYb25nc0tnOE1qRU10VWdKNEJYcTVUNkItWlRBcmlZb0I2Qnl1VHBoRUlvaVZYbWRXcURHR2pRWVVZUi1ZQjZMbDlrQdIB0wFBVV95cUxOR0x1ckQzbWRKWDZXR0ZGUHo3VnVmT0JvZXRWYXI5TzRNV0ZUMXAzNml1cmZBeVVhcUlCMFlDU2MxeEpBdFVobkhGTmFiTmh0M0I2WDF1enFVdVJaTS1ycFozOFZwM01RVUNQWURHUXk1WHRVSlFQRnlrWUZBdG9IeDFVTHZycVZCbEE5cG1EaF9ySHJkMVY2QjV2UU5yM193YWFQalFiYXNvbTNzS3hseUtYRm5tZldWMlBIZnRDRThBbGlEVVBZcTlwVVhfdEtkR3J3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNM3ZvczlfMkZDZGg5NFgxVVJMLVFaVXNSdTZMYTNpcFZmMHJJZjBobUd1bzVucWFlNnBhV3I0NXJhdDRTaUljTjJMUllFY09Jd29BZmVwaDl3bERCTHFSMXJCNTI4WGt2cUw2ZUNSQS1EWVQzUnhBMVNMajdSaGFIT3BGX3pQbkZwelRYb25nc0tnOE1qRU10VWdKNEJYcTVUNkItWlRBcmlZb0",
+  "date": "2026-10-31T02:14:05.000Z",
+  "fetched": "2026-11-01T00:03:14.363Z",
+  "fromCloud": "2026-11-01T0003.json"
  },
  {
   "id": "b1e7ce9c93555dbb",
@@ -3364,192 +3485,5 @@
   "date": "2026-10-31T00:03:54.000Z",
   "fetched": "2026-10-31T00:33:12.216Z",
   "fromCloud": "2026-10-31T0033.json"
- },
- {
-  "id": "39a17ac48e146df7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Amazon Just Lost $42 Billion in Free Cash Flow. Is It a Red Flag for Investors? - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlhUS3BVQ0xkVkhCaF8yUUxCb1lXWXVhSHc3UlRxTDFJYkU3dnl1NXJKREpWVFlhYW52TnE4bS0zWjNnNTUyaGNXOUxVMk54bi1vMklvZ2JvNkYweTN1RnV5djNWQkdVMTFLaHdlbGg2ckJIQUhzcTAwT2J2QzJ6NzViTWtqbXprckJTM2RhWTNxN3RVQUlRX0w3RnJDdVlUankwdDZXZFc3em1mOWhMMnFEX3RWdlVXM0ppaktFQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlhUS3BVQ0xkVkhCaF8yUUxCb1lXWXVhSHc3UlRxTDFJYkU3dnl1NXJKREpWVFlhYW52TnE4bS0zWjNnNTUyaGNXOUxVMk54bi1vMklvZ2JvNkYweTN1RnV5djNWQkdVMTFLaHdlbGg2ckJIQUhzcTAwT2J2QzJ6NzViTWtqbXprckJTM2RhWTNxN3RVQUlRX0w3RnJDdVlUankwdDZXZFc3em",
-  "date": "2026-10-31T00:02:01.000Z",
-  "fetched": "2026-10-31T00:03:12.116Z",
-  "fromCloud": "2026-10-31T0003.json"
- },
- {
-  "id": "fff4deef794d2276",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ממניה של 14 דולר לשיא חדש: קייר-DX זינקה ב-22.2% אחרי דוח שריסק את התחזיות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0dmVwQjR6YWxMSzVvWHVLSm13dEJhTEN5Z3hmWkI1UnR1MVd6NzU4Tk9vSW50VWxOejNIWURPUWNjMl90bTQ1V1VsWGpLdzlIc0pPUm55OXRQTmNUZnJLcU9RVXpxb0pvLWNaX2NUZVA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB0dmVwQjR6YWxMSzVvWHVLSm13dEJhTEN5Z3hmWkI1UnR1MVd6NzU4Tk9vSW50VWxOejNIWURPUWNjMl90bTQ1V1VsWGpLdzlIc0pPUm55OXRQTmNUZnJLcU9RVXpxb0pvLWNaX2NUZVA?oc=5\" target=\"_blank\">ממניה של 14 דולר לשיא חדש: קייר-DX זינקה ב-22.2% אחרי דו",
-  "date": "2026-10-31T00:01:00.000Z",
-  "fetched": "2026-10-31T00:33:12.216Z",
-  "fromCloud": "2026-10-31T0033.json"
- },
- {
-  "id": "12cc42e569fde564",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "המדד עלה ב-118%, ה-NHL ב-140%: האם קבוצות ספורט מנצחות את וול סטריט - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Kb3B0dzRmcExIR0s4N3FKODNJcDJ5cDlQeTNiNkd4RXd4UVA0Y1RhOGh3Tk1sc1NHT0NreEl3c2gxdm4tdF9oQ2lac1JUZWpFRHZtemxrS3ZxVTFNZG1uUHZCeTBZdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Kb3B0dzRmcExIR0s4N3FKODNJcDJ5cDlQeTNiNkd4RXd4UVA0Y1RhOGh3Tk1sc1NHT0NreEl3c2gxdm4tdF9oQ2lac1JUZWpFRHZtemxrS3ZxVTFNZG1uUHZCeTBZdw?oc=5\" target=\"_blank\">המדד עלה ב-118%, ה-NHL ב-140%: האם קבוצות ספורט מנצחות את וול סטריט</",
-  "date": "2026-10-30T23:56:00.000Z",
-  "fetched": "2026-10-31T00:03:12.116Z",
-  "fromCloud": "2026-10-31T0003.json"
- },
- {
-  "id": "436652133b1fc56a",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "גלובל כתבות נוספות - עמוד 3333 - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZVVpczlzRzd4ZktTTzJpZC14ejFFUWVHYTB4VGVQOThBcjMzMzJaNXctTmxUUWd3Yk9QU0F4eXRMWjlLSVVpQmc3SG56R0JObnoxanlDR1VvTl9WZUxrNWdOM3VxU00?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZVVpczlzRzd4ZktTTzJpZC14ejFFUWVHYTB4VGVQOThBcjMzMzJaNXctTmxUUWd3Yk9QU0F4eXRMWjlLSVVpQmc3SG56R0JObnoxanlDR1VvTl9WZUxrNWdOM3VxU00?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3333</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-  "date": "2026-10-30T23:47:10.000Z",
-  "fetched": "2026-10-31T22:35:58.772Z",
-  "fromCloud": "2026-10-31T2235.json"
- },
- {
-  "id": "0192b651e1631b8f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "University Bancorp Closes on the Acquisition of 20% of UIF Corporation for Cash & Stock Worth About $15.2 Million - Eagle-Tribune",
-  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOFdJVXVhcHVoY3lGR2FsblVEWlRPMVlpN01mdzdLMzhmTHpoa2Q1YTljWE1jbmlLYlp3eXlaT0VLMHBCSEtpV3lUbUpmQnBhSzNoSkE1ZFg4cU8yZ3RxTGxjUjZ0bmVRdG9GQmF2ZDNtcTBXNDhiNXpGSlFmaTBaXzdFSXhkS09TU1dtclRuN2pOWktSNVd0M2M2WXlOMS1DX3VxWnJGUEdVWFUyelUxNUE5Vms2ZlBmUDViWEpVdkluSENsT0RxMS1ERmphNmd6VU9nOUpoWG5wVTIybVd4ekNxVGdJbnhqSjFxVDdtbm54Z1kzN2RYY0dCVkhYYWxuMUFKUGJqTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPOFdJVXVhcHVoY3lGR2FsblVEWlRPMVlpN01mdzdLMzhmTHpoa2Q1YTljWE1jbmlLYlp3eXlaT0VLMHBCSEtpV3lUbUpmQnBhSzNoSkE1ZFg4cU8yZ3RxTGxjUjZ0bmVRdG9GQmF2ZDNtcTBXNDhiNXpGSlFmaTBaXzdFSXhkS09TU1dtclRuN2pOWktSNVd0M2M2WXlOMS1DX3VxWnJGUEdVWF",
-  "date": "2026-10-30T23:46:24.000Z",
-  "fetched": "2026-10-31T00:03:12.116Z",
-  "fromCloud": "2026-10-31T0003.json"
- },
- {
-  "id": "6449278757f42e72",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "University Bancorp Closes on the Acquisition of 20% of UIF Corporation for Cash & Stock Worth About $15.2 Million - Hastings Tribune",
-  "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMzd1QkJ4aDN5NHB4TGZPNVYzOUtHX3g0YmxmVG1wRGJJQ2ZQM3pWU2JIX3JvQ0VKRE02NWtta0EwSkw1QkVZSUhvXzZWVnMtM2owQWRUbTdxSktFYmlTdFkwUXNyVlR3M3ZJQ3JkQnhVR19IQlNPZWJxdlVTRDZxSXppVURVTGtsRDNkNllrdmFmOWt2b1l5S3hxN1NFdDNpRk9lZDJXd0s0Z29rbUJ0UWlUMldNUS04WFlLc1Q0czczbWc0SDJ2Q0NZMEFXMFNPS3N4THhxcnNtWkc1RUVfak9iVTFpQnphU1FTTjVMZEVXZVhiaVUwMWd5ZGhUSXkzWVg4UmV3c1BKNDRMYVE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNMzd1QkJ4aDN5NHB4TGZPNVYzOUtHX3g0YmxmVG1wRGJJQ2ZQM3pWU2JIX3JvQ0VKRE02NWtta0EwSkw1QkVZSUhvXzZWVnMtM2owQWRUbTdxSktFYmlTdFkwUXNyVlR3M3ZJQ3JkQnhVR19IQlNPZWJxdlVTRDZxSXppVURVTGtsRDNkNllrdmFmOWt2b1l5S3hxN1NFdDNpRk9lZDJXd0s0Z2",
-  "date": "2026-10-30T23:46:24.000Z",
-  "fetched": "2026-10-31T02:31:40.157Z",
-  "fromCloud": "2026-10-31T0231.json"
- },
- {
-  "id": "64f6982a750dfaab",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Cheesecake Factory CFO Matthew Clark sells $2.7M in stock - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRjdWd2czSXh5ekdRd2NJMzBFRlFrSHJwRXdrbW9iN200bnQwM2xQaVRWSUVPeklSdkctQlJyRUZ6RUlWRVpRemtKUUdoOWQyTkp2c3I3bUsza3lDc3dkZXUzRXZoeERTQXJlTlQ0UlpDQld1VmFKRzhfZHdtSm9Qb21CaVJ0ZDhSQkFQUHViQlVfSWhkOUhMVkh2OGQ4ZzA4a19lNEFOeWZ6M0VnSUZPN0NONF80RlktLThQZg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRjdWd2czSXh5ekdRd2NJMzBFRlFrSHJwRXdrbW9iN200bnQwM2xQaVRWSUVPeklSdkctQlJyRUZ6RUlWRVpRemtKUUdoOWQyTkp2c3I3bUsza3lDc3dkZXUzRXZoeERTQXJlTlQ0UlpDQld1VmFKRzhfZHdtSm9Qb21CaVJ0ZDhSQkFQUHViQlVfSWhkOUhMVkh2OGQ4ZzA4a19lNEFOeWZ6M0",
-  "date": "2026-10-30T23:45:24.000Z",
-  "fetched": "2026-10-31T00:33:12.216Z",
-  "fromCloud": "2026-10-31T0033.json"
- },
- {
-  "id": "caa7ff3a74772163",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אלע C 1925.0 DEC מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aV2NfaS1IQnZLLUpFaWxfbE5KQ3NGUFgyZ0gzMHVUeTFNUjJKUVVuMnYwZjdwYWlvWUVwOF9IZVFCcGFjN0xzSHJ6ZTZEdHJWTS1Mc1d0Q0ZhNXIwSkpZZGF4TGNHZF94UFNXLXV2NWJtUlFR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5aV2NfaS1IQnZLLUpFaWxfbE5KQ3NGUFgyZ0gzMHVUeTFNUjJKUVVuMnYwZjdwYWlvWUVwOF9IZVFCcGFjN0xzSHJ6ZTZEdHJWTS1Mc1d0Q0ZhNXIwSkpZZGF4TGNHZF94UFNXLXV2NWJtUlFR?oc=5\" target=\"_blank\">אלע C 1925.0 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-10-30T23:43:11.000Z",
-  "fetched": "2026-10-31T23:03:12.275Z",
-  "fromCloud": "2026-10-31T2303.json"
- },
- {
-  "id": "f07e983ee539607e",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אלע C 1400.0 JAN מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VZFd2eGtLbEZ2MXZ3SndLanFfc2g2dW5hbl9ud0Y0ZDYwdDlkdG85dVhzeVl5bVpsVXBTN2lxZ2NUaDQ0cDR6Y1FZUWRCYWJIbmNoZjUyczZoZkJVdXNzTTAzXzJTNWdVSFN4Ukt4eFV6VDZG?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5VZFd2eGtLbEZ2MXZ3SndLanFfc2g2dW5hbl9ud0Y0ZDYwdDlkdG85dVhzeVl5bVpsVXBTN2lxZ2NUaDQ0cDR6Y1FZUWRCYWJIbmNoZjUyczZoZkJVdXNzTTAzXzJTNWdVSFN4Ukt4eFV6VDZG?oc=5\" target=\"_blank\">אלע C 1400.0 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-10-30T23:42:45.000Z",
-  "fetched": "2026-10-31T23:03:12.275Z",
-  "fromCloud": "2026-10-31T2303.json"
- },
- {
-  "id": "72b2345b031cef33",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אמת P 2300.0 JAN מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqaWtnb3plZHRoYUtPU2JnUHBRcG9fSHRjQnR4ZEZicXVMU0ZwbHNWX0VlVDdJSDRyMHRpNmhBTXdXTVRESHVEaVRLZkNYQjdrLXFYYU1sLXJHcG02WFdNa3dVNHp2LXFkN1A5Q0RMdU9iVDU2?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBqaWtnb3plZHRoYUtPU2JnUHBRcG9fSHRjQnR4ZEZicXVMU0ZwbHNWX0VlVDdJSDRyMHRpNmhBTXdXTVRESHVEaVRLZkNYQjdrLXFYYU1sLXJHcG02WFdNa3dVNHp2LXFkN1A5Q0RMdU9iVDU2?oc=5\" target=\"_blank\">אמת P 2300.0 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-10-30T23:42:18.000Z",
-  "fetched": "2026-10-31T23:03:12.275Z",
-  "fromCloud": "2026-10-31T2303.json"
- },
- {
-  "id": "99411aaa2631c549",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אלב P 345000 JAN מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JZ1o0YmQxZzR3Zk5YM1k3TUlWcnVhTF9MQXhIVTdKWlF5UmpwbE1lUXRzeGRzQjJ1V25QdjB2MHpRRTY2UF9MNHN5ZzBzZndhdjhiX19nd3RhZHlVUUt2SFZSNDFLY1o3Tk1aTWs1UGRpWUVi?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9JZ1o0YmQxZzR3Zk5YM1k3TUlWcnVhTF9MQXhIVTdKWlF5UmpwbE1lUXRzeGRzQjJ1V25QdjB2MHpRRTY2UF9MNHN5ZzBzZndhdjhiX19nd3RhZHlVUUt2SFZSNDFLY1o3Tk1aTWs1UGRpWUVi?oc=5\" target=\"_blank\">אלב P 345000 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-10-30T23:41:50.000Z",
-  "fetched": "2026-10-31T14:52:56.165Z",
-  "fromCloud": "2026-10-31T1452.json"
- },
- {
-  "id": "df648c126a2ebc1c",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אלב P 200000 JAN מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVa3ZVRTRDTktDU0dhTnlSWFcxY21lVUlvVHhNVExTUWtKeGQyRkZORkRuelhzZnlhbm01Ukl3QnZ1cERiczJ2Y3p2S0FXakxtd3pneHVZeUg0LTFibjBoVkpLQUlnY0FZX29NZlUzTVd2bThB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBVa3ZVRTRDTktDU0dhTnlSWFcxY21lVUlvVHhNVExTUWtKeGQyRkZORkRuelhzZnlhbm01Ukl3QnZ1cERiczJ2Y3p2S0FXakxtd3pneHVZeUg0LTFibjBoVkpLQUlnY0FZX29NZlUzTVd2bThB?oc=5\" target=\"_blank\">אלב P 200000 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-10-30T23:41:15.000Z",
-  "fetched": "2026-10-31T14:52:56.165Z",
-  "fromCloud": "2026-10-31T1452.json"
- },
- {
-  "id": "60745148012cf7ce",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "גג סולארי ביתי בישראל — המדריך המלא במספרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SeGtaMV8tQVMtRXMxQlk0ZnJxLUNhQkVSVDllRndzSHU3WlhEVGNaQ3pOZGhoS3ZUY3RKa2h1OThTWEhqUjI4c1UxRDlzTmo1MEtUOTNaWkppWmN3TU5kUjcwZ2E?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SeGtaMV8tQVMtRXMxQlk0ZnJxLUNhQkVSVDllRndzSHU3WlhEVGNaQ3pOZGhoS3ZUY3RKa2h1OThTWEhqUjI4c1UxRDlzTmo1MEtUOTNaWkppWmN3TU5kUjcwZ2E?oc=5\" target=\"_blank\">גג סולארי ביתי בישראל — המדריך המלא במספרים</a>&nbsp;&nbsp;<font color=\"",
-  "date": "2026-10-30T23:40:32.000Z",
-  "fetched": "2026-10-31T05:03:15.780Z",
-  "fromCloud": "2026-10-31T0503.json"
- },
- {
-  "id": "c6141ded7d8682a4",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Banco Bradesco S.A. (BBDO) Free Cash Flow 2025: $12.3B outflow, down 259.1% - Stock Titan",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44X2FpanAxSDN2ZEJzUFVwLXhmSUNoUUxqVzVrMThnOTQ0MGJHbVlSenRaNnBrYXZONy13SldzWjJFRVFLdjBHR3c5SzVQX0RJUUFDX19PQU56dlZUY1gxdmprSEtrbFhmMnc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE44X2FpanAxSDN2ZEJzUFVwLXhmSUNoUUxqVzVrMThnOTQ0MGJHbVlSenRaNnBrYXZONy13SldzWjJFRVFLdjBHR3c5SzVQX0RJUUFDX19PQU56dlZUY1gxdmprSEtrbFhmMnc?oc=5\" target=\"_blank\">Banco Bradesco S.A. (BBDO) Free Cash Flow 2025: $12.3B outflow, ",
-  "date": "2026-10-30T23:40:08.000Z",
-  "fetched": "2026-10-31T22:35:58.772Z",
-  "fromCloud": "2026-10-31T2235.json"
- },
- {
-  "id": "3d0a66b0d7b6ea77",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "HONDA MOTOR CO LTD (HNDAF) Free Cash Flow 2025: $1.5B outflow, down 155.3% - Stock Titan",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEcW5lOFlxYXc4SjlrdDFQWWM4V1NxZklldk40R1N4NkFoS1FraFpnNl96MWdod3Z4X3JkNFVld3F3cVdOLVJ4bUZlNDZSUDFnZUVZWFl1VkNvZXpyT3RMZERkbUYxaEN2TDNZ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBEcW5lOFlxYXc4SjlrdDFQWWM4V1NxZklldk40R1N4NkFoS1FraFpnNl96MWdod3Z4X3JkNFVld3F3cVdOLVJ4bUZlNDZSUDFnZUVZWFl1VkNvZXpyT3RMZERkbUYxaEN2TDNZ?oc=5\" target=\"_blank\">HONDA MOTOR CO LTD (HNDAF) Free Cash Flow 2025: $1.5B outflow, ",
-  "date": "2026-10-30T23:38:22.000Z",
-  "fetched": "2026-10-31T23:33:13.356Z",
-  "fromCloud": "2026-10-31T2333.json"
- },
- {
-  "id": "039db57a190d4abf",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "NETEASE INC (NETTF) Free Cash Flow 2025: $7.1B, up 35.0% - Stock Titan",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MQnc4cEFERGQ5NFFVdnVsZ05IXzZmYzdzZjcxMmJra09mWWFYWEhxQmNTT3lLTHRiNmZPYXdkUFFfbnBJNjZtTnZBZFd6RVI2ODY2d0hQeDh5OG11eHRoVTNJMGc2UjhlbFpr?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1MQnc4cEFERGQ5NFFVdnVsZ05IXzZmYzdzZjcxMmJra09mWWFYWEhxQmNTT3lLTHRiNmZPYXdkUFFfbnBJNjZtTnZBZFd6RVI2ODY2d0hQeDh5OG11eHRoVTNJMGc2UjhlbFpr?oc=5\" target=\"_blank\">NETEASE INC (NETTF) Free Cash Flow 2025: $7.1B, up 35.0%</a>&nb",
-  "date": "2026-10-30T23:38:18.000Z",
-  "fetched": "2026-10-31T20:03:13.105Z",
-  "fromCloud": "2026-10-31T2003.json"
- },
- {
-  "id": "4017e1b0e13bc42f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Gladstone Investment Corporation Supports Smart Chemical Solutions' Acquisition of Polymer Technologies - The Courier-Journal",
-  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUk9WZzNHbF8yYTZNUlJGb2FONWtaS0xWTW5fSkFhSUlSOVEyblBlRkNOV2o5TFVzVkdDX2hObklabGlaUDFmazlJZVlVc2Fmd3FjMjZGemJ5X2lOQkNrOEhHM3JPc1JRU25BZk13QkUwNENBendDWW1uSmpLa0Q3cGl2WG9ueDNFb3gtbUJxTDlmVktOZEM2WDZxWE9hUy1jVUdFNFpTdkNaTmxFbW9zSnVUbXlWZG41WTAtOGJrdzV1R3pSTXJQV29KdmlyNFRVR2tQMUZJUmVxVE5BdWVBUDZyTGlQbDhFWGRSTmI0X2xVLXhS?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUk9WZzNHbF8yYTZNUlJGb2FONWtaS0xWTW5fSkFhSUlSOVEyblBlRkNOV2o5TFVzVkdDX2hObklabGlaUDFmazlJZVlVc2Fmd3FjMjZGemJ5X2lOQkNrOEhHM3JPc1JRU25BZk13QkUwNENBendDWW1uSmpLa0Q3cGl2WG9ueDNFb3gtbUJxTDlmVktOZEM2WDZxWE9hUy1jVUdFNFpTdkNaTm",
-  "date": "2026-10-30T23:35:05.000Z",
-  "fetched": "2026-10-31T01:03:12.773Z",
-  "fromCloud": "2026-10-31T0103.json"
  }
 ]
