@@ -3953,5 +3953,33 @@
   "first": 1793538442528,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "ישראל | מבחן הממשלה הבאה בהייטק — מס אופציות, AI, קוונטום, חרמות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793542053844,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אינטל | צניחה 29% — היום הגרוע מאז 1974 + מחיקת 12 מיליארד דולר ממחזיקים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793542053845,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AppLovin | נפילה 28% אחרי שעות — החטאת הכנסות + חקירת SEC נסגרה | נובמבר 2026",
+  "level": "learn",
+  "first": 1793542053845,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמזון | רכישת Globalstar אושרה על ידי FCC | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793542053845,
+  "sentLive": false,
+  "candidate": true
  }
 ]

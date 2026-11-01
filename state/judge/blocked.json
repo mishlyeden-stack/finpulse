@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 63,
+  "ok": 64,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 54
+  "blocked": 55
  },
  "13tv.co.il": {
   "ok": 0,
@@ -28,19 +28,19 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 15,
+  "ok": 16,
   "blocked": 0
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 23
+  "blocked": 25
  },
  "silicon.co.uk": {
   "ok": 1,
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 10,
+  "ok": 11,
   "blocked": 0
  },
  "ft.com": {
@@ -96,7 +96,7 @@
   "blocked": 2
  },
  "stocktwits.com": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 0
  },
  "defensehere.com": {
@@ -398,5 +398,9 @@
  "ca.investing.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "neoteo.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }
