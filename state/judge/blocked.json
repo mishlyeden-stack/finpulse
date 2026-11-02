@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 90,
+  "ok": 91,
   "blocked": 1
  },
  "news.google.com": {
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 18,
+  "ok": 19,
   "blocked": 0
  },
  "securityweek.com": {
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 9,
-  "blocked": 18
+  "blocked": 19
  },
  "funder.co.il": {
   "ok": 0,
@@ -257,7 +257,7 @@
  },
  "moomoo.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "reuters.com": {
   "ok": 0,
