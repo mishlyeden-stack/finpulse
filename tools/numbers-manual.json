@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "numbers": [
     {
       "key": "cpi",
@@ -17,7 +17,7 @@
       "key": "ta35",
       "label": "מדד ת״א 35",
       "value": "4,059",
-      "change": "-1.72%",
+      "change": "-2.06%",
       "note": "נעילה 30.10",
       "source": "https://il.investing.com/indices/ta25-historical-data",
       "by": "Investing.com / Bloomberg",
@@ -38,12 +38,12 @@
     {
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
-      "value": "4.94%",
-      "change": "-0.075",
-      "note": "נכון ל-30.10",
+      "value": "4.92%",
+      "change": "-0.017",
+      "note": "נכון ל-02.11",
       "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-10-30",
+      "asOf": "2026-11-02",
       "maxAgeDays": 3
     },
     {
