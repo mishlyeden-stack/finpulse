@@ -1,208 +1,5 @@
 [
  {
-  "key": "רשות החשמל | הגבלות חוות שרתים | אוקטובר 2026",
-  "level": "red",
-  "first": 1792344343843,
-  "sentLive": true,
-  "candidate": true
- },
- {
-  "key": "הלמ\"ס | צמיחה רבעון שני 2026 | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344343844,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תקציב המדינה | קיצוץ 2.6 מיליארד לרכש ביטחוני | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344343846,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "כלמוביל | מתקפת סייבר | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344343849,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "חשמל ומרכזי נתונים ישראל | היקפי מרכזי נתונים עתידיים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344343852,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סייבר ישראלי | שנה היסטורית אקזיטים | 2026",
-  "level": "yellow",
-  "first": 1792344343854,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שווקים | ירידות שבבים + נפט + ת\"א | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344343856,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנקאות ישראל | ריבית על עו\"ש | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344343858,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אג\"ח קונצרניות ארה\"ב | הזדמנות השקעה | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344343860,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "גאוזי | מחיקת ערך 98% + הזרמת הצלה | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344343863,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ראלף לורן | הסרת ESG מבונוסים לטובת AI | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344343866,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סיון טכנולוגיות | הנפקה ת\"א | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344343868,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "לוזון | החלפת יו\"ר ועצירת מכירת נכסים בארה\"ב | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344691155,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Salesforce | סוכני AI יצרו 88 מיליון דולר הכנסות | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344691159,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנק לאומי | התנגדות לחובת ריבית על עו\"ש | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344691162,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "משכנתאות ישראל | קאמבק פריים לשיא 3.5 שנים | ספטמבר 2026",
-  "level": "yellow",
-  "first": 1792344691164,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תקציב המדינה | קיצוץ רוחבי כולל שיקום עוטף וצפון | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344691171,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "כאל | סנטרברידג' חוזרת למרוץ רכישה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344691175,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סטארטאפ AI ישראלי | אקזיט 35 מיליון דולר ללא גיוס הון | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344691180,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שוק העבודה ישראל | משרות פנויות מתקרבות ל-150 אלף | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344691185,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "הייטק ישראל | מחסור 18 אלף עובדים לעומת טרום-קורונה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344691189,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וויז | רכישת מקדונלד'ס ישראל | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344691191,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ווישור | כניסה לאשראי ונדל\"ן לחברות בנייה | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344691192,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "דן | רכישת תנופה 150 מיליון שקל | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344965585,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ג'ונסון אנד ג'ונסון | הסדר טלק ורווח שיורי | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344965587,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שוק העבודה ישראל | 148 אלף משרות פנויות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344965587,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "הייטק ישראל | 180 מיליארד שקל בהון עובדים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344965588,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | יצרנית לייזר הנפקה בורסה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792344965589,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "זארה | סגירת חנויות ומעבר לדיגיטל | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792344965590,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "מטא | תזרים שלילי למרות הכנסות שיא | אוקטובר 2026",
   "level": "learn",
   "first": 1792389541916,
@@ -3979,6 +3776,167 @@
   "key": "אמזון | רכישת Globalstar אושרה על ידי FCC | נובמבר 2026",
   "level": "yellow",
   "first": 1793542053845,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל–שווייץ | מכרז הגנה אווירית 7 מיליארד דולר — ברק MX מול SAMP/T NG | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592391063,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וול סטריט | מעבר ממניות AI לדפנסיביות — גוגל ומטא בשוק דובי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592391063,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "לנובו | מימון מחדש זול פוגש אזהרת דילול — שוק ה-PC בצניחה | נובמבר 2026",
+  "level": "learn",
+  "first": 1793592391063,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קימברלי-קלארק | גיוס חוב 4.9 מיליארד דולר לרכישת Kenvue | נובמבר 2026",
+  "level": "learn",
+  "first": 1793592391064,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | קונגרס 2026 — תרחיש ממשלה מפוצלת ושוק מניות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592391064,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | צוותי אבטחה מתקשים להתמודד עם איום ה-AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592615044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "היי-טק ישראלי | אקזיטים אוקטובר 2026 — 6.3 מיליארד דולר take-private | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592615044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מפרץ פרסי | חשש ממתקפה על אנרגיה ותשתיות — נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592615044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הייטק ישראלי | גיוסים אוקטובר 2026 — 872 מיליון דולר, סייבר ו-AI מובילים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592615044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וול סטריט | ריכוזיות יתר — 5 חברות אחראיות ל-68% מצמיחת רווחים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592615044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וול סטריט | ביטוח על השקעות AI — שוק חדש לאופציות ותמחור שבבים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592615044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "לוקהיד מרטין | רכישת חברת לוחמה תת-ימית קנדית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592615044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | תקציב המשכי 2027 — ביטחון נשמר, משרדים אזרחיים נפגעים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592799305,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | האקרים איראניים חזרו לתקוף בישראל — עלייה בפעילות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592799305,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | תשואות חוב מסוכן מזנקות — לחץ עובר לקרנות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592799305,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | מהלך בינלאומי שעשוי להשפיע על לקוחות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592799305,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אירופה | הפגנות ענק מתפשטות — מיליארד אירו נזק בצרפת + חשש מעונת חג המולד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793592799305,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "OpenAI | קיצוץ שליש מיעד גיוס — מ-30 ל-20 מיליארד דולר לקראת IPO | נובמבר 2026",
+  "level": "learn",
+  "first": 1793593068381,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ענקיות טכנולוגיה | מעבר ממזומן לחוב — ניתוח סיכון | נובמבר 2026",
+  "level": "learn",
+  "first": 1793593068381,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים ישראל + וול סטריט | ערב בחירות אמצע + פתיחת עונת דוחות ת״א | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793593068381,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הייטק ישראלי | גיוסים נובמבר 2026 — מעל 900 מיליון דולר באוקטובר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793593068381,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ServiceNow | Sweep ישראלית מאיצה החלפת CRM בשבועות במקום שנים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793593068381,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אינטל | מעבר ייצור ממעבדי PC לשרתים — תגובה אסטרטגית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793593068381,
   "sentLive": false,
   "candidate": true
  }
