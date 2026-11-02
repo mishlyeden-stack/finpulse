@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 66
+  "blocked": 67
  },
  "en.globes.co.il": {
   "ok": 16,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 82,
+  "ok": 84,
   "blocked": 1
  },
  "news.google.com": {
@@ -412,6 +412,10 @@
   "blocked": 0
  },
  "bizzness.net": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "cryptobriefing.com": {
   "ok": 1,
   "blocked": 0
  }
