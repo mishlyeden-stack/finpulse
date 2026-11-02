@@ -1,33 +1,5 @@
 [
  {
-  "key": "ישראל AI | צורך ב-4 תחנות כוח גז נוספות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792407955361,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ברזאני תשתיות | הנפקה ראשונית בבורסה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792407955364,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ת״א | שבועיים של הכרעות קריטיות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792407955367,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Pro AV | רכישת Almo Pro AV ושינויים בענף | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792407955369,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Fortinet | ניצול פגיעות FortiGate בהאקת טלקום | אוקטובר 2026",
   "level": "yellow",
   "first": 1792410546490,
@@ -3643,6 +3615,20 @@
   "key": "רפאל | אוסטרליה מתעניינת במיירטי כיפת ברזל — עסקה פוטנציאלית גדולה | נובמבר 2026",
   "level": "yellow",
   "first": 1793615849892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Cursor | תוסף Claude זדוני — מתקפת שרשרת אספקה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793619335764,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אירופה | מתקפות סייבר על מערכות קירור סופרמרקטים — גל שני | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793619335765,
   "sentLive": false,
   "candidate": true
  }
