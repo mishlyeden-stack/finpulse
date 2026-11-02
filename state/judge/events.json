@@ -1,54 +1,5 @@
 [
  {
-  "key": "Fortinet | ניצול פגיעות FortiGate בהאקת טלקום | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792410546490,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רשות המסים | ביטול שטר 200 שקל ומאבק במזומן | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792410546495,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אינפלציה ישראל | ירידת מדד המחירים ומשכנתאות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792410546500,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ביטוח לאומי | קיצוץ קצבאות אפשרי | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792410546504,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "יוון-IAI | חכירת צוללות אוטונומיות Blue Whale | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792410546506,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תקציב המדינה | העלאת מסים ואיום ביטול שטר 200 | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792413232685,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פרצת אבטחה ETS | מיליוני רשומות תלמידים נחשפו | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792413232691,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "רשות המסים | ביטול שטר 200 + צעדי מיסוי קשים | אוקטובר 2026",
   "level": "yellow",
   "first": 1792413471165,
@@ -3629,6 +3580,27 @@
   "key": "אירופה | מתקפות סייבר על מערכות קירור סופרמרקטים — גל שני | נובמבר 2026",
   "level": "yellow",
   "first": 1793619335765,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טאואר | דוחות Q3 2026 — הכנסות 526 מיליון דולר, תחזית אופטימית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793623020584,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ישראל | סיכונים לבלימת ההתאוששות — לאחר בחירות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793623020585,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוסטרליה | בחינת רכישת כיפת ברזל — עסקה פוטנציאלית נוספת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793623020585,
   "sentLive": false,
   "candidate": true
  }
