@@ -1,47 +1,5 @@
 [
  {
-  "key": "אלביט | חוזה 235 מיליון דולר לארטילריית רקטות באירופה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792396114858,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פניקס ESOP | הכנסת פקודות סטופ-לוס להגנה על הון עובדים | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792396114863,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רפאל | חשיפת Sky Sonic מיירט היפרסוני בוושינגטון | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792396114864,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "צרפת | פער דירוג אשראי מול ישראל מתכווץ | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792398765645,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "HPE ישראל | AI יוצר שטחים עיוורים לאבטחה ארגונית | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792398765649,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בחירות ישראל | מגן הבחירות - הגנת סייבר לתהליך הבחירות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792398765651,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל-יוון | ייצור משותף טילי LORA | אוקטובר 2026",
   "level": "yellow",
   "first": 1792401422325,
@@ -3678,6 +3636,20 @@
   "key": "גולדמן זאקס | תחזית נפט מועלית — ברנט 105 דולר בדצמבר | נובמבר 2026",
   "level": "yellow",
   "first": 1793604988362,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Ivanti Connect Secure | Zero-Day כפול מנוצל בשרשרת מתקפה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793608559743,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | שוק חוב 2026 — 170 מיליארד שקל אך מספר מנפיקים יורד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793608559743,
   "sentLive": false,
   "candidate": true
  }
