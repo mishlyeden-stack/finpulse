@@ -8,7 +8,7 @@
   "blocked": 68
  },
  "en.globes.co.il": {
-  "ok": 19,
+  "ok": 20,
   "blocked": 0
  },
  "bizportal.co.il": {
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 44
+  "blocked": 45
  },
  "ecb.europa.eu": {
   "ok": 4,
@@ -148,7 +148,7 @@
   "blocked": 1
  },
  "tradingview.com": {
-  "ok": 0,
+  "ok": 2,
   "blocked": 5
  },
  "govconwire.com": {
@@ -189,7 +189,7 @@
  },
  "mckinsey.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "wsj.com": {
   "ok": 0,
@@ -277,7 +277,7 @@
  },
  "sec.gov": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "newsquawk.com": {
   "ok": 1,
