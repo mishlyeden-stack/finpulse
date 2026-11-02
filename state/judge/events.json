@@ -1,12 +1,5 @@
 [
  {
-  "key": "ישראל-יוון | ייצור משותף טילי LORA | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792401422325,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "MITRE ATT&CK v20 | AI Abuse ו-MFA Bypass בקטלוג הגנות | אוקטובר 2026",
   "level": "learn",
   "first": 1792403198230,
@@ -3650,6 +3643,13 @@
   "key": "ישראל | שוק חוב 2026 — 170 מיליארד שקל אך מספר מנפיקים יורד | נובמבר 2026",
   "level": "yellow",
   "first": 1793608559743,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | AI מקצר את הדרך מחולשה למתקפה — Gemini 4 Carbon | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793612243748,
   "sentLive": false,
   "candidate": true
  }
