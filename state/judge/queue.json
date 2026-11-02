@@ -1,5 +1,104 @@
 [
  {
+  "id": "445593dd83d24be0",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Navient Holdings, Inc. (0002152623) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2152623/000119312526443614/0001193125-26-443614-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-02 <b>AccNo:</b> 0001193125-26-443614 <b>Size:</b> 149 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-02T21:02:25.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
+  "id": "ee690cccdde88eba",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Syndax Pharmaceuticals Inc (0001395937) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/0001193125-26-443613-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-02 <b>AccNo:</b> 0001193125-26-443613 <b>Size:</b> 7 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements ",
+  "date": "2026-11-02T21:02:16.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
+  "id": "702490c2e32dc11b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - NorthStrive Acquisition Corp I. (0002133719) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2133719/000121390026114913/0001213900-26-114913-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-02 <b>AccNo:</b> 0001213900-26-114913 <b>Size:</b> 1 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-02T21:01:50.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
+  "id": "a05bde13aca1b121",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Waystar Holding Corp. (0001990354) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1990354/000199035426000040/0001990354-26-000040-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-02 <b>AccNo:</b> 0001990354-26-000040 <b>Size:</b> 530 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-02T21:01:23.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
+  "id": "0a6b1d88bc1f7f71",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "North Shore Bank closes acquisition, adding six branches - The Business Journals",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQk5wekxHT2wtbG9Ud3BsbnQyaGY4YVZUc3BRUzVXR1kzekw0ekNUTGd6TngtRnJWSDJma0h5d1lQUzRSVkRhamJBcHlHNUtWOEFxQkhEc1YxR3VXNm5hNkxhYUV3NzVZOEQxVGFScnRwQTFKanRCeDlYTkt0VlZrWGRNd0ZuSEhaSXVQbGZMa3VUa3VES0hHb1V0YjRFNmdoY0Q0bQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOQk5wekxHT2wtbG9Ud3BsbnQyaGY4YVZUc3BRUzVXR1kzekw0ekNUTGd6TngtRnJWSDJma0h5d1lQUzRSVkRhamJBcHlHNUtWOEFxQkhEc1YxR3VXNm5hNkxhYUV3NzVZOEQxVGFScnRwQTFKanRCeDlYTkt0VlZrWGRNd0ZuSEhaSXVQbGZMa3VUa3VES0hHb1V0YjRFNmdoY0Q0bQ?oc=5\" t",
+  "date": "2026-11-02T20:53:00.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
+  "id": "0edee162c7bb25a0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EVP & CFO Delco Albert Brad converted options into 1,108 shares and... - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWZqYlZ5VzVqY2xHWnhWcklFX1FqUGNIYzNnQlRVV0x5OWR6ZFpjaU1SR0xkODA2aWZPbHdFaDN1em92eGVZekZCMFhWcGRLRnpvTXJPdjQweGNUM1hrNlZOSlZvajBXVHRIeWl0ZmhlUmk5U1Brcnd4Qy12Nkd4WTFLX0lramtzdmtWM0FWRGZQUUZsYzlMY3U1N1lFcE1aUlVZUHpR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWZqYlZ5VzVqY2xHWnhWcklFX1FqUGNIYzNnQlRVV0x5OWR6ZFpjaU1SR0xkODA2aWZPbHdFaDN1em92eGVZekZCMFhWcGRLRnpvTXJPdjQweGNUM1hrNlZOSlZvajBXVHRIeWl0ZmhlUmk5U1Brcnd4Qy12Nkd4WTFLX0lramtzdmtWM0FWRGZQUUZsYzlMY3U1N1lFcE1aUlVZUHpR?oc=5\"",
+  "date": "2026-11-02T20:52:11.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
+  "id": "993224907453104d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Third Point Private Capital Partners (0002025369) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2025369/000110465926121290/0001104659-26-121290-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-02 <b>AccNo:</b> 0001104659-26-121290 <b>Size:</b> 159 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events",
+  "date": "2026-11-02T20:46:29.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
+  "id": "092fe562b0019974",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Benchmark 2026-V24 Mortgage Trust (0002153060) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2153060/000153949726002823/0001539497-26-002823-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-02 <b>AccNo:</b> 0001539497-26-002823 <b>Size:</b> 52 MB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-02T20:37:42.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
+  "id": "a143971f16b6ac81",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Birmingham-based insurance company completes key acquisition - AL.com",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWtqa0xYRkEyZklxUWJGcm5nc1dIY1lNOW1VZGNmRUZWRDNEam5Iai1QcXV6b2ZMMFpFSTVzZUFQYUU2UEt1R09KWWs5UDhxVFVmS2s0RDBELXpfdDlPdnNnTjJOdGF1d0ZMRUEtM2pqT29Zd0F6bEQ2R2dxNnVJUWEtTTNqY09ZamNDalVCVjN0UmlhUTlMZXY2YXBQcUdIYmk0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWtqa0xYRkEyZklxUWJGcm5nc1dIY1lNOW1VZGNmRUZWRDNEam5Iai1QcXV6b2ZMMFpFSTVzZUFQYUU2UEt1R09KWWs5UDhxVFVmS2s0RDBELXpfdDlPdnNnTjJOdGF1d0ZMRUEtM2pqT29Zd0F6bEQ2R2dxNnVJUWEtTTNqY09ZamNDalVCVjN0UmlhUTlMZXY2YXBQcUdIYmk0?oc=5\" tar",
+  "date": "2026-11-02T20:34:00.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
   "id": "42fac446bc54a39d",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -42,6 +141,17 @@
   "date": "2026-11-02T20:23:55.000Z",
   "fetched": "2026-11-02T20:33:12.353Z",
   "fromCloud": "2026-11-02T2033.json"
+ },
+ {
+  "id": "9ea36add2d2bc25d",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Intel shares fall back to April levels after losing over half their value in five weeks - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRzFZbkRuQ1FGUG5lZW1qQ0M2Wkw2S1F5bk9QY2JPZ3JBdnpXNzZMWDRZUlk2TmlDdjRNc3VsREJaSnpHYUtlaU8tcFpKT2VvdVB4Y2ltcjZvZy12OFpPQ1ZQbl83a0E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRzFZbkRuQ1FGUG5lZW1qQ0M2Wkw2S1F5bk9QY2JPZ3JBdnpXNzZMWDRZUlk2TmlDdjRNc3VsREJaSnpHYUtlaU8tcFpKT2VvdVB4Y2ltcjZvZy12OFpPQ1ZQbl83a0E?oc=5\" target=\"_blank\">Intel shares fall back to April levels after losing over half their ",
+  "date": "2026-11-02T20:23:00.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
  },
  {
   "id": "d1da061b2e8b10a0",
@@ -97,6 +207,17 @@
   "date": "2026-11-02T20:11:00.000Z",
   "fetched": "2026-11-02T20:18:00.248Z",
   "fromCloud": "2026-11-02T2018.json"
+ },
+ {
+  "id": "e857ee3fa1992b36",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Why Free Cash Flow Matters More Than Ever: 5 Tech Stocks to Watch - Zacks Investment Research",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVhmMUVJSTJmUEVzNXpQTTV1Um5NaGtRR0l5dW00MnAyR0dPclhDRHZ0cTlROWN2V0dVN2lKVTlLOFYtWjRGR2NEVEMwUGExQ2xZTFduUDluVUx2UWZXY0NEbHlkWEVBbmNNMlpvalZmbUZVdy0yTjVya1pfVERsdTcwMUw5SWxhTjNSRzZnNmxaQlBsaEttMWd4VW9ETTBTQ0dDX0kwTFM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVhmMUVJSTJmUEVzNXpQTTV1Um5NaGtRR0l5dW00MnAyR0dPclhDRHZ0cTlROWN2V0dVN2lKVTlLOFYtWjRGR2NEVEMwUGExQ2xZTFduUDluVUx2UWZXY0NEbHlkWEVBbmNNMlpvalZmbUZVdy0yTjVya1pfVERsdTcwMUw5SWxhTjNSRzZnNmxaQlBsaEttMWd4VW9ETTBTQ0dDX0kwTFM?oc",
+  "date": "2026-11-02T20:10:42.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
  },
  {
   "id": "4c73f41d993c7a66",
@@ -374,6 +495,28 @@
   "fromCloud": "2026-11-02T1933.json"
  },
  {
+  "id": "13d0f310ce143f27",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אנל P 017500 JAN מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DLWFsSXVsNTNXMlNKOEdvLXlrUk51dWJMTjdpLXBOTHFaYVBRX3VpZ1I5YWdfdDk1Wm9NNnpza2ZqQ1Q4T19lODFGTF8zX3d5ZU5sQmFtQzFNczh5ZlBjbUZtdldsRlVZRUdZbkV6VzBLcTdY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1DLWFsSXVsNTNXMlNKOEdvLXlrUk51dWJMTjdpLXBOTHFaYVBRX3VpZ1I5YWdfdDk1Wm9NNnpza2ZqQ1Q4T19lODFGTF8zX3d5ZU5sQmFtQzFNczh5ZlBjbUZtdldsRlVZRUdZbkV6VzBLcTdY?oc=5\" target=\"_blank\">אנל P 017500 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-02T18:52:35.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
+  "id": "5f66662dafa56d45",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע C 1725.0 DEC מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WYnBCZUZCMlVvVWJUTG0yWEQ0eUN0QXFWU2lRV1YydWxscEJwQ2VaWEhJSldOMHF6YnRpTm1xbU9qcDJSbm9pVjQ4R0hhOEFzUUw2R0JGVTAyQ1NCLUQ0YWwxeGVZY2hqekw3dC13XzE4RE01?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1WYnBCZUZCMlVvVWJUTG0yWEQ0eUN0QXFWU2lRV1YydWxscEJwQ2VaWEhJSldOMHF6YnRpTm1xbU9qcDJSbm9pVjQ4R0hhOEFzUUw2R0JGVTAyQ1NCLUQ0YWwxeGVZY2hqekw3dC13XzE4RE01?oc=5\" target=\"_blank\">אלע C 1725.0 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-02T18:52:34.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
+ },
+ {
   "id": "61a0165ac1538746",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -548,6 +691,17 @@
   "date": "2026-11-02T17:54:49.000Z",
   "fetched": "2026-11-02T18:03:13.099Z",
   "fromCloud": "2026-11-02T1803.json"
+ },
+ {
+  "id": "dd6ef6877a04234e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אחץ P 3600.0 JAN מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwd3liRUlhRWVhQ3NDOTZvV0tvZzFlNERTaGdBSjVDckJfTXhkVThmSUlZaExpOUI5dVdrZ3F5T3phUERwbGl1ZXVsb01kbGNzaUlyMm5ScnhtZW9mZ3hSNGFENVNGM2FGSmFqUFBGS2VjVU5M?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBwd3liRUlhRWVhQ3NDOTZvV0tvZzFlNERTaGdBSjVDckJfTXhkVThmSUlZaExpOUI5dVdrZ3F5T3phUERwbGl1ZXVsb01kbGNzaUlyMm5ScnhtZW9mZ3hSNGFENVNGM2FGSmFqUFBGS2VjVU5M?oc=5\" target=\"_blank\">אחץ P 3600.0 JAN מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-02T17:54:30.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
  },
  {
   "id": "d27f362c70df445b",
@@ -790,6 +944,17 @@
   "date": "2026-11-02T17:15:00.000Z",
   "fetched": "2026-11-02T17:33:13.151Z",
   "fromCloud": "2026-11-02T1733.json"
+ },
+ {
+  "id": "56deea0f453813f5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Plato's Lofts Acquisition Secures Housing for UNCW Students - University of North Carolina Wilmington | UNCW",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFB0X25YMnVNWTA0cFBYOTJYNWdMOEFPSWUtdnh4LS1wT2xzTVYycDh4SS02SjM4bWRjdS0wTnp4S2lwWTEzajgtOURkNGJrSE0wWHp0WHJDSUt4RE9IemZoRmt0NV9tUjJvZ2NMSkYwTjNtZGNxWEpLZjNmVGh3bzMzcHVaaHdUR3B6c05KWVZybWNwWUY1TkdZTEI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFB0X25YMnVNWTA0cFBYOTJYNWdMOEFPSWUtdnh4LS1wT2xzTVYycDh4SS02SjM4bWRjdS0wTnp4S2lwWTEzajgtOURkNGJrSE0wWHp0WHJDSUt4RE9IemZoRmt0NV9tUjJvZ2NMSkYwTjNtZGNxWEpLZjNmVGh3bzMzcHVaaHdUR3B6c05KWVZybWNwWUY1TkdZTEI?oc=5\" target=\"_bla",
+  "date": "2026-11-02T17:14:53.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
  },
  {
   "id": "ec6df5e3ef97bac9",
@@ -2152,6 +2317,17 @@
   "date": "2026-11-02T14:58:57.000Z",
   "fetched": "2026-11-02T15:33:14.701Z",
   "fromCloud": "2026-11-02T1533.json"
+ },
+ {
+  "id": "ff66ca742dd363ea",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אחץ P 3350.0 DEC מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KZTZmN1NGS0dJZ1M3OUZtQ19ERDU4M1pmbmFGNnhRM05VcHE3VFAxSkRtY2tzR1RqelE0WTkzR19mTk83eVQ1OFNJaWVHTjFPVjh1N1BZQkZLS3F3Ujk1SlVXclNlTno0eG5DeXlRT2NVbFNP?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5KZTZmN1NGS0dJZ1M3OUZtQ19ERDU4M1pmbmFGNnhRM05VcHE3VFAxSkRtY2tzR1RqelE0WTkzR19mTk83eVQ1OFNJaWVHTjFPVjh1N1BZQkZLS3F3Ujk1SlVXclNlTno0eG5DeXlRT2NVbFNP?oc=5\" target=\"_blank\">אחץ P 3350.0 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-02T14:58:57.000Z",
+  "fetched": "2026-11-02T21:03:14.458Z",
+  "fromCloud": "2026-11-02T2103.json"
  },
  {
   "source": "rAVe Publications",
