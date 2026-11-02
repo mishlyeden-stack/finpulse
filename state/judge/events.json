@@ -1,47 +1,5 @@
 [
  {
-  "key": "בנק ישראל | החלטת ריבית + לוח כלכלי שבועי | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792393419098,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מודיעין | זינוק הכנסות מ-5 ל-32 מיליון דולר אחרי רכישת ביג פוט | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792393419101,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | חוזה רקטות EXTRA-MR ומשגרי PULS | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792393419103,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AI | שלושה בועות AI בוחנות את אמון וול סטריט | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792393419104,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ברן | רכישת 40% ממפעל התפלה אשקלון + כניסה לוורידיס | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792393419105,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "משרד התקשורת | הקלה על יבוא מוצרי חשמל ביתיים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792393419107,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "אלביט | חוזה 235 מיליון דולר לארטילריית רקטות באירופה | אוקטובר 2026",
   "level": "yellow",
   "first": 1792396114858,
@@ -3692,6 +3650,34 @@
   "key": "שקל | נחלש ל-3.14 לפני בחירות אמצע אמריקה | 2 נובמבר 2026",
   "level": "yellow",
   "first": 1793601383431,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ישראל | 7.9 מיליארד שקל זרמו לקרנות מניות חו״ל באוקטובר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793604988361,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | חוזה תותח הרועם 600 מיליון שקל + הסכם אימון ארטילריה 190 מיליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793604988362,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דיסקונט | מכרז מחודש למכירת כאל — מועמדים חדשים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793604988362,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גולדמן זאקס | תחזית נפט מועלית — ברנט 105 דולר בדצמבר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793604988362,
   "sentLive": false,
   "candidate": true
  }

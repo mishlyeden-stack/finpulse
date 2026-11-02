@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 71,
+  "ok": 72,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 84,
+  "ok": 87,
   "blocked": 1
  },
  "news.google.com": {
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 28
+  "blocked": 29
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -337,7 +337,7 @@
  },
  "israelhayom.co.il": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "fedscoop.com": {
   "ok": 1,
