@@ -1,47 +1,5 @@
 [
  {
-  "key": "MITRE ATT&CK v20 | AI Abuse ו-MFA Bypass בקטלוג הגנות | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792403198230,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "JPMorgan | 5 מיליארד דולר השקעות ישירות בביטחון וטק | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792405188412,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שוק העבודה ישראל | אבטלה מורחבת 4.4% | ספטמבר 2026",
-  "level": "yellow",
-  "first": 1792405188416,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שווקים | פיצול ת״א-וול סטריט וסיכון לבורסה ישראלית | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792405188418,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ליתיום-יון ו-UPS | שינוי בתחשיב השקעה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792405188419,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארמי ארה״ב | האצת רכש נגד-כטב״מ | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792405188422,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל AI | צורך ב-4 תחנות כוח גז נוספות | אוקטובר 2026",
   "level": "yellow",
   "first": 1792407955361,
@@ -3650,6 +3608,41 @@
   "key": "סייבר | AI מקצר את הדרך מחולשה למתקפה — Gemini 4 Carbon | נובמבר 2026",
   "level": "yellow",
   "first": 1793612243748,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "צ׳ק פוינט | דוחות Q3 — ירידה בהכנסות, מניה צונחת 12% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793615849891,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Chainalysis | פרצת נתונים — מתקפת AI אג׳נטית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793615849891,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | שיתוק ביטחוני — חודשים של עצירה בגלל אנדרלמוסיה פוליטית ותקציבית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793615849892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נת״ע | 11 מכרזים ב-65 מיליארד שקל בשנה וחצי — מטרו ת״א | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793615849892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רפאל | אוסטרליה מתעניינת במיירטי כיפת ברזל — עסקה פוטנציאלית גדולה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793615849892,
   "sentLive": false,
   "candidate": true
  }
