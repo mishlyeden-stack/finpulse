@@ -1,5 +1,225 @@
 [
  {
+  "id": "4f4b19cf5c9fa045",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "מבצעי נובמבר יוצאים לדרך: 3,000 עסקים ישתתפו ב-ShoppingIL",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561857#utm_source=RSS",
+  "summary": "ShoppingIL של גוגל ייפתח השבוע בהשתתפות כ־3,000 עסקים ישראלים, מהם 16% הוקמו מאז פרוץ המלחמה &#8226; מנתוני המשתתפים עולה כי כמחציתם הם עסקים זעירים עם פחות מחמישה עובדים &bull; האירוע יתקיים על רקע מבצעי נובמבר, בהם בלאק פריידיי וסייבר מאנדיי",
+  "date": "2026-11-03T17:30:00.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "09e095d9f8307af2",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "זינקו ל-7.52 מיליון: יותר משרות פנויות ממובטלים בספטמבר בארה\"ב - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vd0tJZjNrYWFNR0R5b3VLY0FRMmdvbjBlS2tIV25TaFJ3ZGJzR2tpTVdEM2lUOVNHNjRIU29IX1FOcEZYOW8tSHQ1QUdVWk8xVHZLVHFwTnZrMW9wRVZEcDNsUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vd0tJZjNrYWFNR0R5b3VLY0FRMmdvbjBlS2tIV25TaFJ3ZGJzR2tpTVdEM2lUOVNHNjRIU29IX1FOcEZYOW8tSHQ1QUdVWk8xVHZLVHFwTnZrMW9wRVZEcDNsUQ?oc=5\" target=\"_blank\">זינקו ל-7.52 מיליון: יותר משרות פנויות ממובטלים בספטמבר בארה\"ב</a>&nbsp;&",
+  "date": "2026-11-03T17:29:00.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "0553ec1d92aefa67",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "California Resources and Bloom Energy eye 1GW of fuel cells across California to power data centers and other offtakers",
+  "link": "https://www.datacenterdynamics.com/en/news/california-resources-and-bloom-energy-eye-1gw-of-fuel-cells-across-california-to-power-data-centers-and-other-offtakers/",
+  "summary": "<p data-block-key=\"dpc0r\">Intend to couple the systems with carbon capture and storage</p>",
+  "date": "2026-11-03T17:28:17.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "47cdf28065228f7a",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000209/0001331451-26-000209-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001331451-26-000209 <b>Size:</b> 172 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+  "date": "2026-11-03T17:28:03.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "b1f8d3427c96bc70",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Samsung SDS breaks ground on Gumi AI Data Center in South Korea",
+  "link": "https://www.datacenterdynamics.com/en/news/samsung-sds-breaks-ground-on-gumi-ai-data-center-in-south-korea/",
+  "summary": "<p data-block-key=\"7wuec\">Will eventually offer 120MW</p>",
+  "date": "2026-11-03T17:25:59.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "5b809447e5c29f57",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Cellnex signs €375m loan with EIB to support rollout of 5G infrastructure",
+  "link": "https://www.datacenterdynamics.com/en/news/cellnex-signs-375m-loan-with-eib-to-support-rollout-of-5g-infrastructure/",
+  "summary": "<p data-block-key=\"who43\">Will fund new tower builds across Cellnex's European markets</p>",
+  "date": "2026-11-03T17:25:55.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "1ed7a065ffcbf040",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Pfizer Reports R&D Pipeline Progress as Next CFO Confirmed - Healthcare Digital",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEhNNHlyQU9qRDZXNmUtZXJqLXJvS3dWSS1HY0ZlQ3Jma3czSnRzdzd3LTdVT25UYUUtRGpFdVgwdmtMMXB6NHVCQkVCZDI1S3kzZUFkLWhORVBud0pkS1A1UHJYY1F0UkY0NnFHU1pZWlkwaGRLQWlMSHpleVotSWwyRXlnMHl1T0JOSFpPRjNTal95aDZqS0E4OA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEhNNHlyQU9qRDZXNmUtZXJqLXJvS3dWSS1HY0ZlQ3Jma3czSnRzdzd3LTdVT25UYUUtRGpFdVgwdmtMMXB6NHVCQkVCZDI1S3kzZUFkLWhORVBud0pkS1A1UHJYY1F0UkY0NnFHU1pZWlkwaGRLQWlMSHpleVotSWwyRXlnMHl1T0JOSFpPRjNTal95aDZqS0E4OA?oc=5\" target=\"_blan",
+  "date": "2026-11-03T17:23:23.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "2200383f3d60ddd5",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ראיין ריינולדס בנה הון של 350 מיליון דולר מסרטים ומעסקים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iTEw2Q3pqR1NDa0hGRTBMX0h6RmozM1Z4Ni16dlUzQ3Y2ekNucFBRdkY3QVNZb3hSN0Z4dUJFZVh2SXBsbVVFcHQwZXk2UFBBakRUWHhISzUxSS1TdVlxb2s4YU5SNml4UTd2b2o1SFA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5iTEw2Q3pqR1NDa0hGRTBMX0h6RmozM1Z4Ni16dlUzQ3Y2ekNucFBRdkY3QVNZb3hSN0Z4dUJFZVh2SXBsbVVFcHQwZXk2UFBBakRUWHhISzUxSS1TdVlxb2s4YU5SNml4UTd2b2o1SFA?oc=5\" target=\"_blank\">ראיין ריינולדס בנה הון של 350 מיליון דולר מסרטים ומעסקים",
+  "date": "2026-11-03T17:23:00.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "f3760de3fe245a87",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "At Home Appoints Former CFO Judd Nystrom Chief Executive Officer - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFB0SU5FVU5GSjdUbWpCU2NHNkpVN29ydXZaWHlrdC1oVjhERnZfNmoxUS1Sc3hGVWlncGdmTWlsZVphN05NYmY5RERxTDhXdDZQd1plNkM1cjhVM3d3UWw4WkVqQmJLQXMtMU5DZU4wYkJsdzBoMy1OQzBERk1jM3o4dEZBdHJXdG9fM0NfTkNGOWRERWEzcExSME1Ud3BEUS03Zndn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFB0SU5FVU5GSjdUbWpCU2NHNkpVN29ydXZaWHlrdC1oVjhERnZfNmoxUS1Sc3hGVWlncGdmTWlsZVphN05NYmY5RERxTDhXdDZQd1plNkM1cjhVM3d3UWw4WkVqQmJLQXMtMU5DZU4wYkJsdzBoMy1OQzBERk1jM3o4dEZBdHJXdG9fM0NfTkNGOWRERWEzcExSME1Ud3BEUS03Zndn?oc=5\"",
+  "date": "2026-11-03T17:22:25.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "8e33953829212b83",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "International Seaways formally seals Bruton acquisition - TradeWinds News",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelJ0bklOSExMWWdaSk8yel8xVHpicjFOaVFid0x6OHNQaTBvZnlVUEtTd3pOUG13VXJRU3lXUkI1eUx6bk5nTjNvWi0zWEswMHVPN0g5WFFPekFNYzYxaGV1a3IxRjk3dXAtcjhYcVRjaWp6Rk43TmszR3JOWnZKaTJicVlaSFFGaEVmaklpWU1JcHZfbFRuMUFyZzBqeXJxMUhISjZab0xVQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelJ0bklOSExMWWdaSk8yel8xVHpicjFOaVFid0x6OHNQaTBvZnlVUEtTd3pOUG13VXJRU3lXUkI1eUx6bk5nTjNvWi0zWEswMHVPN0g5WFFPekFNYzYxaGV1a3IxRjk3dXAtcjhYcVRjaWp6Rk43TmszR3JOWnZKaTJicVlaSFFGaEVmaklpWU1JcHZfbFRuMUFyZzBqeXJxMUhISjZab0xVQQ",
+  "date": "2026-11-03T17:22:11.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "104327bce0462c5d",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Connected Infra Group appoints M&A specialist as tower company targets expansion plans",
+  "link": "https://www.datacenterdynamics.com/en/news/connected-infra-group-appoints-ma-specialist-as-tower-company-targets-expansion-plans/",
+  "summary": "<p data-block-key=\"u2k00\">Reunites Isaac Lipton with Bernard Borghei</p>",
+  "date": "2026-11-03T17:21:49.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "6c4cbe71c0e6a05a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Property acquisition sets up plans for a new gateway at Buttermilk Falls State Park - The Ithaca Voice",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVRGbFpvSmdZMHppWWV0TU50clZTQmxJQ2kzeGFWRHY3VkM2UmpxcENZbDdXQ1FfMGFNTEl2c090UWRjV3BYdmdJWkpOcXN2RFFyeERZaFpOcDFVeF9kLWEzS3pwUk1WMTA1dVVLOXREVXZ1NDBWY0Fnekw3dUMtRWRHMWFCM29Eald5ZXdqRkU3QmZPdTBobC1rMm1yRU51UmVsR2E3b0JVcnM2ODRXYkFFbkpNU0k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVRGbFpvSmdZMHppWWV0TU50clZTQmxJQ2kzeGFWRHY3VkM2UmpxcENZbDdXQ1FfMGFNTEl2c090UWRjV3BYdmdJWkpOcXN2RFFyeERZaFpOcDFVeF9kLWEzS3pwUk1WMTA1dVVLOXREVXZ1NDBWY0Fnekw3dUMtRWRHMWFCM29Eald5ZXdqRkU3QmZPdTBobC1rMm1yRU51UmVsR2E3b0JVcn",
+  "date": "2026-11-03T17:20:00.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "4ac01b437b2ba2ec",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Trump Orders Mortgage Insurance Cuts and Refinancing Cost Relief - Legis1",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55cmU0WjB3QVdrcThWVk5aLXhpYThRdEdmOVFPVmZDR1MxX3lJa3J0ekJoRlJ3ZmVOYnJvYU01YnZ3OHBSc1lTZmJhQ1hpenlfb1hDaXNiNTItZ3J4ZDFTZWRHLXNnS1ZoZE1MbE5QcXdZYUQ0cE1XNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE55cmU0WjB3QVdrcThWVk5aLXhpYThRdEdmOVFPVmZDR1MxX3lJa3J0ekJoRlJ3ZmVOYnJvYU01YnZ3OHBSc1lTZmJhQ1hpenlfb1hDaXNiNTItZ3J4ZDFTZWRHLXNnS1ZoZE1MbE5QcXdZYUQ0cE1XNA?oc=5\" target=\"_blank\">Trump Orders Mortgage Insurance Cuts and Refi",
+  "date": "2026-11-03T17:18:47.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "2a961b8b89bb72e2",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "150 years of Ericsson",
+  "link": "https://www.datacenterdynamics.com/en/analysis/150-years-of-ericsson/",
+  "summary": "<p data-block-key=\"6233l\">A trip down memory lane provides inspiration for the vendor’s AI-focused future</p>",
+  "date": "2026-11-03T17:17:33.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "b2162d1064690cb0",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "\"למדינה יהיה תפקיד במימון חברות דיפ־טק גם בשלבים מאוחרים\" - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFBIYnd3V1NvYWxmLWE4V3UyWXRVS2VnVEY2UDZ5RnhJbzB6WlpFX3lWMVJvQzAtX01tSGhMMVVLRHBVVEpsT0FMU1Z4OFB5dF91VGY0VEJ6MzJJbGk3WFJuNlJFSlNGc01GdXRfeElzbjBKR19zQlJINnIxZ3pBMTlncFZhUUd4S2FzaldwcWZid1M5WTNrQ1J0MHdLSGE5aUlpSGtkdXpqdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFBIYnd3V1NvYWxmLWE4V3UyWXRVS2VnVEY2UDZ5RnhJbzB6WlpFX3lWMVJvQzAtX01tSGhMMVVLRHBVVEpsT0FMU1Z4OFB5dF91VGY0VEJ6MzJJbGk3WFJuNlJFSlNGc01GdXRfeElzbjBKR19zQlJINnIxZ3pBMTlncFZhUUd4S2FzaldwcWZid1M5WTNrQ1J0MHdLSGE5aUlpSGtkdXpqdw",
+  "date": "2026-11-03T17:17:00.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "2872a9f915ca9c2c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "John Glasgow, CEO, CFO, and Founder of Campfire – Interview Series - Unite.AI",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlBtTW1YQlVQcGdxUXBxRVlOZnVpTlVkM1NBTWkyZ0lWRmhJSmEwakM2QnQwejd0djg3N2wzT0p0UzM2RGcwSzZpamJJTkl0aG02em90MlVWYXp1ZXJ6Z2J4MG1qRzVROXlHYVB0OVRNS0x5T0NQb0tIc3E2NmJLaUVoMGZUVjZxX3Vj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlBtTW1YQlVQcGdxUXBxRVlOZnVpTlVkM1NBTWkyZ0lWRmhJSmEwakM2QnQwejd0djg3N2wzT0p0UzM2RGcwSzZpamJJTkl0aG02em90MlVWYXp1ZXJ6Z2J4MG1qRzVROXlHYVB0OVRNS0x5T0NQb0tIc3E2NmJLaUVoMGZUVjZxX3Vj?oc=5\" target=\"_blank\">John Glasgow, CEO, ",
+  "date": "2026-11-03T17:14:21.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "763a9477ce84a23e",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "ציוני מפעילות התחב\"צ נחשפים: זו החברה שתופסת את המקום הראשון",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561938#utm_source=RSS",
+  "summary": "משרד התחבורה צפוי לפרסם דוח המסכם את ביצועי מפעילות התחבורה הציבורית במחצית הראשונה של 2026 &#8226; אלקטרה אפיקים מובילה בין המפעילות הגדולות עם 84.62 נקודות, ואילו תנופה מדורגת אחרונה עם 50.89 נקודות &#8226; ברשות לתחבורה ציבורית מפיקים לקחים ומנסים לדלל מהשוק את החברות החלשות",
+  "date": "2026-11-03T17:12:00.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "90084f5fd7ba8d0f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Builders FirstSource Acquires L&P Building Supply - LBM Journal",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ2Fib1dyY200TTQ0dXZScnlIbllDTlV1d1NERjVfNDVDR3V6M3JpRmdlNXBKZEdTVThOSkJHdGJMTEk1QWtDamp5c3dlOTNQSUtlNlZLSFZvMFA5Nk1nRWV4cFNHeW42SXhFTFEyQUdialBUd2R5d2hkYy1XX1lJdHBlXy1Rc0k2ME43cGpsZGMwVE9JN0p2YzZaNXV4T2tSSHB2b3JYS2VjMUEybDBFYnR3ZTdGNkppTXBGNmM1OWh0aXV0X0pCZUZtLW5xaHlhZUc4b3FscklhdkMyWkhaeWs1aTg4b3ZQU0E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ2Fib1dyY200TTQ0dXZScnlIbllDTlV1d1NERjVfNDVDR3V6M3JpRmdlNXBKZEdTVThOSkJHdGJMTEk1QWtDamp5c3dlOTNQSUtlNlZLSFZvMFA5Nk1nRWV4cFNHeW42SXhFTFEyQUdialBUd2R5d2hkYy1XX1lJdHBlXy1Rc0k2ME43cGpsZGMwVE9JN0p2YzZaNXV4T2tSSHB2b3JYS2VjMU",
+  "date": "2026-11-03T17:09:01.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "f8ad37c5eec26e54",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Voyager satisfied with Astrobotic acquisition ahead of Griffin-1 launch - SpaceNews",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVNSOWRycDFpSk15c2xiZVJTWTZBbklmU1UxYVVfSm9nMlBXQ2xpcmhmNC1jaDBVX2dPeGxnNVFlc1p3MWxHa09XY1pvak5UR2lUUzFUSFJtNWZpZmtkcjFMbnhnMTBBd2dtVmlPdF9LN0tnWldnbnp5ZGJyb0diTThPdmZuRFpqbW9SdHpyR3kxdktPcnJvSnBn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVNSOWRycDFpSk15c2xiZVJTWTZBbklmU1UxYVVfSm9nMlBXQ2xpcmhmNC1jaDBVX2dPeGxnNVFlc1p3MWxHa09XY1pvak5UR2lUUzFUSFJtNWZpZmtkcjFMbnhnMTBBd2dtVmlPdF9LN0tnWldnbnp5ZGJyb0diTThPdmZuRFpqbW9SdHpyR3kxdktPcnJvSnBn?oc=5\" target=\"_blank\"",
+  "date": "2026-11-03T17:08:33.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "b2a5270e28196e7e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Pfizer Raises 2026 Outlook and Names New CFO After Earnings Beat - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0o0UnhTSkh4UERkTjRXZlVUZWU2UzZMazBxQVNEX3MxcGp1djA4N1B2SVV6bzExcjFnMjNScmRUTWNkZU9yejJNcWhwMjhnMWdPVi1uVTlleE5BTHJyYURfd1Jnc2lMcXRRTWFkTno0M0o4cVVmNW5xckVqZjJfaFgtM1NPNXdTVDlrTEF3Q3d0SGU0amk3OQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0o0UnhTSkh4UERkTjRXZlVUZWU2UzZMazBxQVNEX3MxcGp1djA4N1B2SVV6bzExcjFnMjNScmRUTWNkZU9yejJNcWhwMjhnMWdPVi1uVTlleE5BTHJyYURfd1Jnc2lMcXRRTWFkTno0M0o4cVVmNW5xckVqZjJfaFgtM1NPNXdTVDlrTEF3Q3d0SGU0amk3OQ?oc=5\" target=\"_blank\">P",
+  "date": "2026-11-03T17:03:49.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
   "id": "12afee6e9e742957",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -55,6 +275,17 @@
   "fromCloud": "2026-11-03T1703.json"
  },
  {
+  "id": "ed242c3ba0e23381",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בלום אנרג'י קופצת 9% אחרי שדרוג המלצה - הביקוש למרכזי נתונים מאיץ - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NVW8yVC1zVWFINFM2YXBJZEJwWmVOdnR5eWtvZ0dfV01QbVJmMmdWR2d2MFlZNUYxOHhQRXozVm9teEttZUpTMnlPZ0xnVlBsOTY0OURuNDQ2X3Z3bHNtZ3NVX2E4Qko4dktIZWNDc1o?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1NVW8yVC1zVWFINFM2YXBJZEJwWmVOdnR5eWtvZ0dfV01QbVJmMmdWR2d2MFlZNUYxOHhQRXozVm9teEttZUpTMnlPZ0xnVlBsOTY0OURuNDQ2X3Z3bHNtZ3NVX2E4Qko4dktIZWNDc1o?oc=5\" target=\"_blank\">בלום אנרג'י קופצת 9% אחרי שדרוג המלצה - הביקוש למרכזי נת",
+  "date": "2026-11-03T16:56:00.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
   "id": "7a930629903df6fb",
   "source": "אנשים ומחשבים",
   "group": "industry",
@@ -66,6 +297,17 @@
   "fromCloud": "2026-11-03T1703.json"
  },
  {
+  "id": "e2d121540c6614df",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Fortifi adds spiral cooling and freezing expertise with I.J. White acquisition - Baking Business",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdDJuWGtxUmY4MWFxbnJnQUpIWTF3NjBUd0VlTmNTVlNUOWRfeUtOUy1ucE5rQkpaVlpBQVV5bEd5dUpiZ0xUYzJZMl9XMHF2anhSSWdtYll2bDNZakNwbnEzR196VFkzdmt1UFN3ampkSVhkOU81bzhyWkNualVMdzRXUlVZYUowMVFxRUJrSHQ0SUVaZHdCLTViNHFEY2hqVWZzbmhPVVdSbjdUV0dCMDdYbndSRk5BVnlZMUNKMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdDJuWGtxUmY4MWFxbnJnQUpIWTF3NjBUd0VlTmNTVlNUOWRfeUtOUy1ucE5rQkpaVlpBQVV5bEd5dUpiZ0xUYzJZMl9XMHF2anhSSWdtYll2bDNZakNwbnEzR196VFkzdmt1UFN3ampkSVhkOU81bzhyWkNualVMdzRXUlVZYUowMVFxRUJrSHQ0SUVaZHdCLTViNHFEY2hqVWZzbmhPVVdSbj",
+  "date": "2026-11-03T16:51:43.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
   "id": "c6150f21e21c60b8",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -75,6 +317,28 @@
   "date": "2026-11-03T16:51:15.000Z",
   "fetched": "2026-11-03T17:03:17.228Z",
   "fromCloud": "2026-11-03T1703.json"
+ },
+ {
+  "id": "80418adf61044b1a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Deal Expands Matsui's Reach Across EMEA Market - PlasticsToday",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVBTd3BCVUlFcjl6MktMY2dsWHIwZHAyZXJwc08yc0xScVJJeXlKa3JodzNGREpqaW1UYkFoaUZTTEh4Rmd1R0tMX2tVWkJZTjVPelQxU0dRLXJMSEpzZFZIeXk3a2Ewb211dm94OERIcHRSQzlGUHZUYVlQTi1hM3pJdlM3aHZlUnRRVlZnU1YxZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVBTd3BCVUlFcjl6MktMY2dsWHIwZHAyZXJwc08yc0xScVJJeXlKa3JodzNGREpqaW1UYkFoaUZTTEh4Rmd1R0tMX2tVWkJZTjVPelQxU0dRLXJMSEpzZFZIeXk3a2Ewb211dm94OERIcHRSQzlGUHZUYVlQTi1hM3pJdlM3aHZlUnRRVlZnU1YxZw?oc=5\" target=\"_blank\">Deal Expa",
+  "date": "2026-11-03T16:50:17.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
+  "id": "15bfd37114f82b1e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CVI: Record refining earnings and a ~$4.2B acquisition set up a near-doubling of capacity - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdjIwT0lVNl9jUk4wbVU4OFc5SlRJdXFOeG9LMkZILWkxSU10RmtlSXpIWGZiVXdCQWpYNXlJcDM4Nng5WkFuQ3o0Mk5VZklNQUlqRjJJWE1keUtTaWhpVW1WWFJ1Mll4VWR2ZHdiR25nVTN1T0ZwSjZsNGJsNUkxMWtySEp3MDJRWDU0WjNickFXS2FNaFRMOUxqRS0tM0p2R2tIQzFRM0JJZUFIVklwWFZQUjFlSXF1MFB6eFZUMW5HcGdKdzZCLWhEYTZTZXZMelBWamhfNHR0LXkzSklLMWVCY0l1NTc1ckhlLTcxeFhLVzRoTTBLY0V0eE5kc1BtSThZ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOdjIwT0lVNl9jUk4wbVU4OFc5SlRJdXFOeG9LMkZILWkxSU10RmtlSXpIWGZiVXdCQWpYNXlJcDM4Nng5WkFuQ3o0Mk5VZklNQUlqRjJJWE1keUtTaWhpVW1WWFJ1Mll4VWR2ZHdiR25nVTN1T0ZwSjZsNGJsNUkxMWtySEp3MDJRWDU0WjNickFXS2FNaFRMOUxqRS0tM0p2R2tIQzFRM0JJZU",
+  "date": "2026-11-03T16:49:11.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
  },
  {
   "id": "ee9cc58be9ff11a6",
@@ -121,6 +385,17 @@
   "fromCloud": "2026-11-03T1703.json"
  },
  {
+  "id": "f9540e74d0e12c0d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Sysco under pressure on Jetro acquisition costs, FY sales guidance - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmdyYkNNNDd3SGoxa1lua05tRF9ZcEQxZ3R0V3h3MGhUYUd0U2htU1l3enJ5QUpTZnVmSWlqQWV2bnV3ZUtqMW1LVGs4c29oMl90RlZtWWxuR01tX0pETmxPSDBiRmJuQjhTb1FpVjVxRjlOTG9tUzdadFA0TlhPZ2ZhX2RNTk9NbXVEdThOWXNaR1B3SFNhdEhaYU02c01hSmVHMG1WRnBTa0dhR09Cd0M0RHZGb0wtcTBla1hOVDNVRVBuaXdF?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmdyYkNNNDd3SGoxa1lua05tRF9ZcEQxZ3R0V3h3MGhUYUd0U2htU1l3enJ5QUpTZnVmSWlqQWV2bnV3ZUtqMW1LVGs4c29oMl90RlZtWWxuR01tX0pETmxPSDBiRmJuQjhTb1FpVjVxRjlOTG9tUzdadFA0TlhPZ2ZhX2RNTk9NbXVEdThOWXNaR1B3SFNhdEhaYU02c01hSmVHMG1WRnBTa0",
+  "date": "2026-11-03T16:44:58.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
   "id": "be48e88d3324c879",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -141,6 +416,17 @@
   "date": "2026-11-03T16:43:00.000Z",
   "fetched": "2026-11-03T17:03:17.228Z",
   "fromCloud": "2026-11-03T1703.json"
+ },
+ {
+  "id": "0091c80f4ca6649d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Option Care Health earnings loom with $5.8B acquisition pending - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXdCdVRoemRWRkxlWmJTUnBiOTMzcXRGNjhURF9vdGR6cWZhellIYlRrQXoxV0N3dUpBYmJuQkg0S2pyVXhuOFV2dXFlVUJvbTRmSl9nS01CSnRfWW0wLVFadmhGZTF4QlZsYVNuR0tmZWpDSFFka051VndaVXd2V3FuT2x2N1lRQUd3VmhfRGluY3BMM2NJWmRzY2tLOUNKSGNKN19ycHpxZk5BbENrMDZBcmk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXdCdVRoemRWRkxlWmJTUnBiOTMzcXRGNjhURF9vdGR6cWZhellIYlRrQXoxV0N3dUpBYmJuQkg0S2pyVXhuOFV2dXFlVUJvbTRmSl9nS01CSnRfWW0wLVFadmhGZTF4QlZsYVNuR0tmZWpDSFFka051VndaVXd2V3FuT2x2N1lRQUd3VmhfRGluY3BMM2NJWmRzY2tLOUNKSGNKN19ycHpxZk",
+  "date": "2026-11-03T16:42:24.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
  },
  {
   "id": "33056f75323e83eb",
@@ -295,6 +581,17 @@
   "date": "2026-11-03T16:27:03.000Z",
   "fetched": "2026-11-03T16:33:14.725Z",
   "fromCloud": "2026-11-03T1633.json"
+ },
+ {
+  "id": "ac49e05aa5a3f4bb",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מס על שכירות מהשקל הראשון? הצחתקם אותי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mUU43VG9JZEdHaUNhbmJjTndDZ2ozY3NvRVFSM0t5bjl5ME5DZVZxdi1QWGtXQmI4SXFiNzJHQkVZa2N5ZWM1blJrYmpSaFZwamcybDNkUEoyUE5aYnkwN1FKRG1abWh0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mUU43VG9JZEdHaUNhbmJjTndDZ2ozY3NvRVFSM0t5bjl5ME5DZVZxdi1QWGtXQmI4SXFiNzJHQkVZa2N5ZWM1blJrYmpSaFZwamcybDNkUEoyUE5aYnkwN1FKRG1abWh0?oc=5\" target=\"_blank\">מס על שכירות מהשקל הראשון? הצחתקם אותי</a>&nbsp;&nbsp;<font color=\"",
+  "date": "2026-11-03T16:24:00.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
  },
  {
   "id": "649dfe230ed7487c",
@@ -616,6 +913,17 @@
   "fromCloud": "2026-11-03T1703.json"
  },
  {
+  "id": "3dfbceab390f796c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Cronheim Mortgage Arranges $70M Acquisition Loan for Long Island Shopping Center - REBusinessOnline",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOam9BeG9fTEZjVC1VTWhuTjNfalRNeDgwdTRzQ2VWejllakhOdi1NLUlna1VuRXJPSGIxM0o1M2R0ck5oM3U5aC1aQXhtYU9DQXQyYzJlSGJGVUY3OWt1MmhuMXE3M1JiLU1ydFJuZUY0THRMa0pibjA4d181LTA0LWs2YXdLMUJZQ1BnVjlJc0p6LTNfdmdFNHVNRXlXNTg2V0VkT1B3eGhzQUpmMVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOam9BeG9fTEZjVC1VTWhuTjNfalRNeDgwdTRzQ2VWejllakhOdi1NLUlna1VuRXJPSGIxM0o1M2R0ck5oM3U5aC1aQXhtYU9DQXQyYzJlSGJGVUY3OWt1MmhuMXE3M1JiLU1ydFJuZUY0THRMa0pibjA4d181LTA0LWs2YXdLMUJZQ1BnVjlJc0p6LTNfdmdFNHVNRXlXNTg2V0VkT1B3eGhzQU",
+  "date": "2026-11-03T15:51:15.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
   "id": "f665bae84ed47430",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -933,6 +1241,17 @@
   "date": "2026-11-03T14:54:19.000Z",
   "fetched": "2026-11-03T15:33:11.618Z",
   "fromCloud": "2026-11-03T1533.json"
+ },
+ {
+  "id": "5f975ed55ff254e3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000199/0001331465-26-000199-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001331465-26-000199 <b>Size:</b> 167 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+  "date": "2026-11-03T14:53:12.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
  },
  {
   "id": "23e13ab65e22e342",
@@ -1979,6 +2298,17 @@
   "id": "2b15a09a3ec7c7f7"
  },
  {
+  "id": "411708026e8abd6c",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "אחרי שני רצחי נשים בתוך חודש: עיריית חיפה מסרה שהנרצחות לא היו מוכרות לרווחה - HKN חיפה והקריות",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52X1JfNkQ4VkxQdTdWRmU0Z29xdlpsWWxtaXFvbmM3MTk4c0FvRXdGQVFYLTEtWEdxdUtuTl9JX04zZGxpVVhCYQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE52X1JfNkQ4VkxQdTdWRmU0Z29xdlpsWWxtaXFvbmM3MTk4c0FvRXdGQVFYLTEtWEdxdUtuTl9JX04zZGxpVVhCYQ?oc=5\" target=\"_blank\">אחרי שני רצחי נשים בתוך חודש: עיריית חיפה מסרה שהנרצחות לא היו מוכרות לרווחה</a>&nbsp;&nbsp;<font color=\"#6f6",
+  "date": "2026-11-03T11:44:32.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
+ },
+ {
   "id": "25941fc0634e3a88",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -2067,14 +2397,14 @@
   "fromCloud": "2026-11-03T1533.json"
  },
  {
-  "id": "e503bc954149610f",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "פעם חמישית באותו רחוב: אישה ערירית נמצאה מתה בדירתה ברחוב החלוץ בחיפה ימים אחרי מותה - HKN חיפה והקריות",
-  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NY3dGUEFKZEcxWmlWZ1FKQmNuOS0xZG1SeXhDSnRvbUt5ZEVLUG5hMDlqN2xmblNLc2xiMGIyb1dKcFR0VGhmLQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NY3dGUEFKZEcxWmlWZ1FKQmNuOS0xZG1SeXhDSnRvbUt5ZEVLUG5hMDlqN2xmblNLc2xiMGIyb1dKcFR0VGhmLQ?oc=5\" target=\"_blank\">פעם חמישית באותו רחוב: אישה ערירית נמצאה מתה בדירתה ברחוב החלוץ בחיפה ימים אחרי מותה</a>&nbsp;&nbsp;<font col",
-  "date": "2026-11-02T17:29:00.000Z",
-  "fetched": "2026-11-03T16:03:15.482Z",
-  "fromCloud": "2026-11-03T1603.json"
+  "id": "4fc8dac2bf688226",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "The 1 percent wake-up call for life insurers",
+  "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers",
+  "summary": "Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around fee-based accumulation is disappearing. Life insurers have a choice to make.",
+  "date": "2026-11-03T00:00:00.000Z",
+  "fetched": "2026-11-03T17:33:21.061Z",
+  "fromCloud": "2026-11-03T1733.json"
  }
 ]
