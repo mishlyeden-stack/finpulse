@@ -1,5 +1,137 @@
 [
  {
+  "id": "ab1a304d3bc56b68",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - GLADSTONE COMMERCIAL CORP (0001234006) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1234006/000123400626000025/0001234006-26-000025-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001234006-26-000025 <b>Size:</b> 320 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:02:45.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "50b8c5676365ffad",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Nurix Therapeutics, Inc. (0001549595) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1549595/000154959526000055/0001549595-26-000055-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001549595-26-000055 <b>Size:</b> 144 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-03T21:02:18.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "fdf0411dd8467e41",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Spyre Therapeutics, Inc. (0001636282) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1636282/000163628226000132/0001636282-26-000132-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001636282-26-000132 <b>Size:</b> 294 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:02:07.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "a7525a34a1c6394b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Salamander Innisbrook, LLC (0001418372) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1418372/000119312526445300/0001193125-26-445300-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001193125-26-445300 <b>Size:</b> 151 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:01:34.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "81a146c8b00ae30d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Ramaco Resources, Inc. (0001687187) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1687187/000110465926121974/0001104659-26-121974-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001104659-26-121974 <b>Size:</b> 999 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:01:26.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "0a60a77ede7095ed",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ASTEC INDUSTRIES INC (0000792987) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/792987/000079298726000048/0000792987-26-000048-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0000792987-26-000048 <b>Size:</b> 261 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-11-03T21:01:26.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "b9fbc09403d0bef6",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Red Rock Resorts, Inc. (0001653653) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1653653/000119312526445298/0001193125-26-445298-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001193125-26-445298 <b>Size:</b> 270 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:01:07.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "60dffc84a64bd7f0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Candidates in Florida CFO race on the campaign trail - The Palm Beach Post",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1ZTSUZVcGdHaWVNVTIwWGphRkFWdEEzMlFJNXBMWnlQYWZ4YllpOWQ4Z0l3UENSVzJuNmZBR1dETTdncFM5endhc2dWQjBSZWVxVUVQZTNGWF9WWXpUaWw5RHNsaGVXZmZBV0JEMkYtbXppdWxtTUR2T2J0RFV5YW9mSVNDSzZBUjRvbVZsR214NVdZVENXUllrd2lPSGUxNXRaaG5Xa3RGUV92LTk1TUVfejJFdHlhdmpFSlZHbmxGa1p3VDhCaV9Zd1NCUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1ZTSUZVcGdHaWVNVTIwWGphRkFWdEEzMlFJNXBMWnlQYWZ4YllpOWQ4Z0l3UENSVzJuNmZBR1dETTdncFM5endhc2dWQjBSZWVxVUVQZTNGWF9WWXpUaWw5RHNsaGVXZmZBV0JEMkYtbXppdWxtTUR2T2J0RFV5YW9mSVNDSzZBUjRvbVZsR214NVdZVENXUllrd2lPSGUxNXRaaG5Xa3RGUV",
+  "date": "2026-11-03T21:00:00.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "357cae772fa3feea",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "News | Gencom enters European hotel market with acquisition of Rosewood London - CoStar",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0J3YVIxbkFjc3k2RV9vWEJWY3Vael8tZXJFOXhqeEhaclJlTGFJUWl0ZlFvdG5WSl94dHR5U2V1WlBBRW1ldG1zS1NYTUJEQjV0cmVoVm16Q2syOTIzYy1laHR2QlVDdDRwdnRudnJrM2RMMkVCbmZlRnVYWV9adkk5LVN4SXI1akhSNjZHQ3VNTjQ0VVFwVXY3TlhKWUJSaU1TemZEUHVJQWxfUXZhTjdpTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0J3YVIxbkFjc3k2RV9vWEJWY3Vael8tZXJFOXhqeEhaclJlTGFJUWl0ZlFvdG5WSl94dHR5U2V1WlBBRW1ldG1zS1NYTUJEQjV0cmVoVm16Q2syOTIzYy1laHR2QlVDdDRwdnRudnJrM2RMMkVCbmZlRnVYWV9adkk5LVN4SXI1akhSNjZHQ3VNTjQ0VVFwVXY3TlhKWUJSaU1TemZEUHVJQW",
+  "date": "2026-11-03T20:56:41.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "cde0fc266d3d7dee",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Roku’s strong Q3 bolsters Fox’s $22B acquisition case - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUE3dlI4MDlqbVB4dTZ2ZE8zZFY3bEJuOF80RTJUZHlOWi1Mdm42RVB0Qm9Rd1RzWHZQZmRvV3JyZjNrNmFIZ2tGQ005SktFNDY0blVTd0RTZnNxVUF4b0xRSi1JeC1iZVlOT0dNd19BN0RGT1FlbmlxdlRJM21WVjloQ3lEeFhTdzBQeHAzM3o5MGRsbHBucDBCcHZKTkk5ZmVhWElWbmJqV25kemlwQlRR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUE3dlI4MDlqbVB4dTZ2ZE8zZFY3bEJuOF80RTJUZHlOWi1Mdm42RVB0Qm9Rd1RzWHZQZmRvV3JyZjNrNmFIZ2tGQ005SktFNDY0blVTd0RTZnNxVUF4b0xRSi1JeC1iZVlOT0dNd19BN0RGT1FlbmlxdlRJM21WVjloQ3lEeFhTdzBQeHAzM3o5MGRsbHBucDBCcHZKTkk5ZmVhWElWbmJqV2",
+  "date": "2026-11-03T20:56:12.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "6d5ae584bd7dd1ff",
+  "source": "The Economist – Finance & economics",
+  "group": "global-press",
+  "title": "China’s AI stock-market struggles are a warning",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+  "summary": "What happens when the supply of new tech catches up with demand?",
+  "date": "2026-11-03T20:48:59.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "9d6aef1982cbd81e",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "היועמ\"שית בהודעה חריגה וחריפה נגד זיני: \"במדינת חוק לא חוקרים בלי ראיות\" - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXUjhfMmlIbTdmSEJLUjRNMXRGOWdRMm1BZ0NqVzV4ZjlCMTN6UklEVy1YWnNFUFB5ckFfSnhxTC05VmNfSE9QQkdIamhmUGFOTEVRaldDOF94V0xBb2VtVzBmdVg1cTgz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXUjhfMmlIbTdmSEJLUjRNMXRGOWdRMm1BZ0NqVzV4ZjlCMTN6UklEVy1YWnNFUFB5ckFfSnhxTC05VmNfSE9QQkdIamhmUGFOTEVRaldDOF94V0xBb2VtVzBmdVg1cTgz?oc=5\" target=\"_blank\">היועמ\"שית בהודעה חריגה וחריפה נגד זיני: \"במדינת חוק לא חוקרים בלי ר",
+  "date": "2026-11-03T20:32:00.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
   "id": "ff438d32845e4930",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -20,6 +152,28 @@
   "date": "2026-11-03T20:21:00.000Z",
   "fetched": "2026-11-03T20:33:29.755Z",
   "fromCloud": "2026-11-03T2033.json"
+ },
+ {
+  "id": "d43ffd49e07bfc02",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "The CFO Who Learned to Code by Shipping: How I Use Hackathons to Keep Up With AI Tools - HackerNoon",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakctcmhGbE5FZGRGWjUxczBkcUVER1p0UXk5ZWU0cjh1eEJwUF82R1ZhdWNUZFdSaVRzckJRSFJOOWs3ZngwVDFrbWZmZlV6alJfR3dEem1VNi1UWmE4WmFVU2RkOXJnLWZpSnhqS0NGanNZckdSNTdmZ3VaU2xKMUpBLUkwTmwxYk1WNW9CV1FocVl5aTZER1JxQWlPc29uMlhqSEdvSW5TUUhK?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQakctcmhGbE5FZGRGWjUxczBkcUVER1p0UXk5ZWU0cjh1eEJwUF82R1ZhdWNUZFdSaVRzckJRSFJOOWs3ZngwVDFrbWZmZlV6alJfR3dEem1VNi1UWmE4WmFVU2RkOXJnLWZpSnhqS0NGanNZckdSNTdmZ3VaU2xKMUpBLUkwTmwxYk1WNW9CV1FocVl5aTZER1JxQWlPc29uMlhqSEdvSW5TUU",
+  "date": "2026-11-03T20:20:04.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "ec5109bbb02cd4f8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Shareholder lawsuits challenge disclosures in Bernhard Capital’s $1B acquisition - Baton Rouge Business Report",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGJQVHVXTmVyUGdpVHY5a0xLaHgzZ2hJbzY4bTV6LVQ1aDlHOWxTVnZ6TFphN3hNNEJadmVrMDFGelhwd3BXZVpHODlLVWRxWDQ1WmQ3MzIxS2lmSTMzanFyeldadE9kV2RKWHVVLXAtRFp1eWlzMHhLSmx2WmZrUkJDdmJ3bFRzMk4taXVqZktVYnlKemVRV3UwcEJlZVpUX0RvX1MweFhKQ0NaeGpj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGJQVHVXTmVyUGdpVHY5a0xLaHgzZ2hJbzY4bTV6LVQ1aDlHOWxTVnZ6TFphN3hNNEJadmVrMDFGelhwd3BXZVpHODlLVWRxWDQ1WmQ3MzIxS2lmSTMzanFyeldadE9kV2RKWHVVLXAtRFp1eWlzMHhLSmx2WmZrUkJDdmJ3bFRzMk4taXVqZktVYnlKemVRV3UwcEJlZVpUX0RvX1MweFhKQ0",
+  "date": "2026-11-03T20:18:04.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
  },
  {
   "id": "4b14c1a647b64309",
@@ -44,6 +198,17 @@
   "fromCloud": "2026-11-03T2003.json"
  },
  {
+  "id": "f896e037cbf1e08d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EVGO Stock Alert: EVgo Receives Acquisition Proposal From LS Power - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUZMZG1hNWZ5elVINTVBUGlleE1GbXVmNy1qZDZ0ZlBUSEVvQkNmX29XZkIxMVo4b1JLeXRfdmg5X3FUQTJZLURLSjRqQklrNTlUV2ZaTTY5dEdHQVdzZmRKUTVlWWJFeS1RS2tneGpkb2NNVEJoRkZaVDREbHhRbEVsU2dhdTVjbW9XQk5neGFPeGVnQUFQWklqOU9GaWJkVVpPOElwNWgtdS0wVWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUZMZG1hNWZ5elVINTVBUGlleE1GbXVmNy1qZDZ0ZlBUSEVvQkNmX29XZkIxMVo4b1JLeXRfdmg5X3FUQTJZLURLSjRqQklrNTlUV2ZaTTY5dEdHQVdzZmRKUTVlWWJFeS1RS2tneGpkb2NNVEJoRkZaVDREbHhRbEVsU2dhdTVjbW9XQk5neGFPeGVnQUFQWklqOU9GaWJkVVpPOElwNWgtdS",
+  "date": "2026-11-03T19:52:20.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
   "id": "a221601b8e62936b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -53,6 +218,17 @@
   "date": "2026-11-03T19:46:30.000Z",
   "fetched": "2026-11-03T20:03:21.470Z",
   "fromCloud": "2026-11-03T2003.json"
+ },
+ {
+  "id": "8eee727f79fd3777",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of House of Doge Inc. – OTC:HODO - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2FjemFUTHR1YnhFUjVEa2piS3pDTkMzUEtuYUFfZHdWV2FoVzV0bVZ6Q0FsdGZTV21QQWx4cm5FWWhQV0NEUlhYSWtHamEzc3BQcUkzM3dHOGZHeUhLQmd3REZKdGRrYk1UMmFONU94MXBRSjBpMTR0cVdjTERaSERlZXVZUEJT?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2FjemFUTHR1YnhFUjVEa2piS3pDTkMzUEtuYUFfZHdWV2FoVzV0bVZ6Q0FsdGZTV21QQWx4cm5FWWhQV0NEUlhYSWtHamEzc3BQcUkzM3dHOGZHeUhLQmd3REZKdGRrYk1UMmFONU94MXBRSjBpMTR0cVdjTERaSERlZXVZUEJT?oc=5\" target=\"_blank\">Free cash flow of House",
+  "date": "2026-11-03T19:46:23.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
  },
  {
   "id": "f6110c84865bf018",
@@ -330,6 +506,17 @@
   "fromCloud": "2026-11-03T1903.json"
  },
  {
+  "id": "839abcdc583f9bc9",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "הפסקת הסיוע - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORU0zMFNwRGpOLXhTNU45b1ZPRmYyal92T1FzMEFNV2kzLU4yeXhuZ0RWdGEtWnBHWkFBOTB0andmbEVYTmFfRGtyU014a24yeGstbS01N2NjTzl1UFQ2c2g0dTdnMkxDNF9PYVZVSzdVYkZVNkNSUXJIdGNzVlp0M3VwaVFxNFpnbVJ3VW0zdzZoUnk0X3A5QVZB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORU0zMFNwRGpOLXhTNU45b1ZPRmYyal92T1FzMEFNV2kzLU4yeXhuZ0RWdGEtWnBHWkFBOTB0andmbEVYTmFfRGtyU014a24yeGstbS01N2NjTzl1UFQ2c2g0dTdnMkxDNF9PYVZVSzdVYkZVNkNSUXJIdGNzVlp0M3VwaVFxNFpnbVJ3VW0zdzZoUnk0X3A5QVZB?oc=5\" target=\"_blank\"",
+  "date": "2026-11-03T18:46:27.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
+ },
+ {
   "id": "9bdd3bb277c91682",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -460,6 +647,17 @@
   "date": "2026-11-03T18:28:53.000Z",
   "fetched": "2026-11-03T18:33:13.527Z",
   "fromCloud": "2026-11-03T1833.json"
+ },
+ {
+  "id": "b4455da7bc140d9f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Future of CBIZ headquarters space unclear after $5B Grant Thornton acquisition - The Business Journals",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGRGc01mWEsyVTd3X3EyMXlvdS1Zb3FpcFdfbFBpYm5WbkE3T1RWRTUzMGVFUWFHNEhpTVgyY1RaVWtIcy01SGFJdG9qU0ktbWFVb3hNNkFtb2FGRjJUUGF1MVl1OGprWGRpY2ZJWjg4YjBnVEVYX2NsLURkc0hKV3ZjTzQ3RVpLNzMwWWRtX190Ym5lM01mY0xOWU1XM05TYUIzd013?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGRGc01mWEsyVTd3X3EyMXlvdS1Zb3FpcFdfbFBpYm5WbkE3T1RWRTUzMGVFUWFHNEhpTVgyY1RaVWtIcy01SGFJdG9qU0ktbWFVb3hNNkFtb2FGRjJUUGF1MVl1OGprWGRpY2ZJWjg4YjBnVEVYX2NsLURkc0hKV3ZjTzQ3RVpLNzMwWWRtX190Ym5lM01mY0xOWU1XM05TYUIzd013?oc=5\"",
+  "date": "2026-11-03T18:26:00.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
  },
  {
   "id": "840ace2845259100",
@@ -3205,6 +3403,17 @@
   "date": "2026-11-03T14:12:44.000Z",
   "fetched": "2026-11-03T14:33:14.214Z",
   "fromCloud": "2026-11-03T1433.json"
+ },
+ {
+  "id": "bcb58ddaca9e2664",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "John Ternus - calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BMzAxWkNEdFpZTER1YlNBQlVFMks3SER6dTZkWFhIWUs1YnBpV0dWVEhFY0JoengxUlZIU1BKOHVXMXZpUUwwNjRQY0Uwb21BS3hWc29QbG8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BMzAxWkNEdFpZTER1YlNBQlVFMks3SER6dTZkWFhIWUs1YnBpV0dWVEhFY0JoengxUlZIU1BKOHVXMXZpUUwwNjRQY0Uwb21BS3hWc29QbG8?oc=5\" target=\"_blank\">John Ternus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+  "date": "2026-11-03T14:12:40.000Z",
+  "fetched": "2026-11-03T21:03:21.294Z",
+  "fromCloud": "2026-11-03T2103.json"
  },
  {
   "id": "ef841d24c4e5b1a5",
@@ -7015,68 +7224,5 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1PS1VWcU9uQXMxRnBPdEZhemc1WldqVHIwOUFKa3lrNnRWeXRIYVhJRWtZLXVoNFFxV0RrNUxKMkVqUW10NnNiS09KODBhUmRyVlVlOXd6ZjMzUW9uSlhRYkxiaVlCZ1B2ODh6YnVmbEQ?oc=5\" target=\"_blank\">פלנטיר שוב עקפה את הציפיות: ההכנסות כמעט הוכפלו</a>&nbsp",
   "date": "2026-11-02T21:05:00.000Z",
   "id": "a047afe1a6cc6951"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אפל עקפה את הציפיות בדוח הראשון של המנכ\"ל החדש - האייפון זינק ב-18% - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SUURVaFlCbmJ4bU9WRnlOeU1pWUE0ZUh5eGZIbWJJdDZ2Yk9ISUlPSWtyNkNlODhSRi1EbnNmY0htSldER0k4WlFTR3hobVoyYXFtMUNQYzdqVTVJNFVDenQ3Z2dGeGNPRlpyVHk3T1Q?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5SUURVaFlCbmJ4bU9WRnlOeU1pWUE0ZUh5eGZIbWJJdDZ2Yk9ISUlPSWtyNkNlODhSRi1EbnNmY0htSldER0k4WlFTR3hobVoyYXFtMUNQYzdqVTVJNFVDenQ3Z2dGeGNPRlpyVHk3T1Q?oc=5\" target=\"_blank\">אפל עקפה את הציפיות בדוח הראשון של המנכ\"ל החדש - האייפון",
-  "date": "2026-11-02T21:01:00.000Z",
-  "id": "7f23817b5a5c1ba0"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אקספנג עקפה את טסלה ו-BYD בצמרת החשמליות בישראל, והשוק כולו התכווץ בכשליש - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NeERaeTFWZ1ZTd2pyTVdkZWZ3V0RCb3JKemZhSHIteVNEY0M1MmJ4ckJFSVREOE02VjhYWEtwNl9RSlBSa3pWYU1NZkxzeXhlSm9aTGVJdkRNSmVUMEE1ZTRFYw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NeERaeTFWZ1ZTd2pyTVdkZWZ3V0RCb3JKemZhSHIteVNEY0M1MmJ4ckJFSVREOE02VjhYWEtwNl9RSlBSa3pWYU1NZkxzeXhlSm9aTGVJdkRNSmVUMEE1ZTRFYw?oc=5\" target=\"_blank\">אקספנג עקפה את טסלה ו-BYD בצמרת החשמליות בישראל, והשוק כולו התכווץ בכשליש",
-  "date": "2026-11-02T20:55:00.000Z",
-  "id": "583ccf5ca60878e2"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "האמנים קונים את הבמה: עומר אדם וארומה מיוזיק רוכשים כ-40% מזאפה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjR2t3RW1mMXZQcUV6SWpRZExwZXFJb1FMM25VbmVmMDFacFc0VUIySUJaLUsya0ZUdDMycW9iYU1wZjA4aTc1ZTk5OExOMHZ1UlNtZGxjb1ExbnZLSUljblhldXAtbFVP?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjR2t3RW1mMXZQcUV6SWpRZExwZXFJb1FMM25VbmVmMDFacFc0VUIySUJaLUsya0ZUdDMycW9iYU1wZjA4aTc1ZTk5OExOMHZ1UlNtZGxjb1ExbnZLSUljblhldXAtbFVP?oc=5\" target=\"_blank\">האמנים קונים את הבמה: עומר אדם וארומה מיוזיק רוכשים כ-40% מזאפה</a>",
-  "date": "2026-11-02T20:54:00.000Z",
-  "id": "e6d754ce3e3f1548"
- },
- {
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "רצח יונית מסוודא בעיר חיפה, פוענח: רצתה להיפרד ונרצחה בדירתה - כאן נעים",
-  "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQQ1JBY2hUamZFWjlCUUppNnpDUEE0QWwwczBXOWk3c29WYUpqWE0yWDdsNUVsNGxmT3pEdnpUbVFYZE56TzF3akg2QlRvU1MyVmxRU0w0STllQnRHZzNWdHJMdEpKMlBOamZfZFIxREhIR1ZFR0tnVGc4UzhnU3o4aDBPYjhtdlpNekZ0bnVkb1g3amhUUVVkSUttWmtDcG9ndnJETzZ4V2llY1RjRFZtM2ZhcjNpeVhNNW85dHJUSFV3UWoyWmV6ZnozZ052UHlRVXBOWXp3SWc2YUFBaWF4dENIa1pBQjE2MnVaLTdHN3ZkYWg1SWhuS2dLTC12aGZyZVR5YzVJVlc2a0VBaklCTE1lNGxULUdrZm1xZ1NteUhqU2JjdW5zWno0T0NrRVF0U280TWR5MHIteXVib2fSAcMCQVVfeXFMTk9JQTJERzJVdG0xa2ZqSDVhTndIYW9PN0l0Vm5pV29HSXNWS0x2Q1VObDMwWDlVemMyOExfSExrcnBSMWl6U1BfUW1HZ2NBYU80NHdZUDNOZkp2MzZSTmlxY19iZGJXaFJzZXBsN2p1R1NIeFhzRTQ5TU9CV3VmWXdXN09fOWUzUHBweWtYcS1DOGRrandpZnRSamxJTGNvbzVFbWpucDU2NmpyYzNGbTk3ME9ERXJuemF5MmQ1aGM0ZWlUbWJmN1hLQTAyNFJ0Zmctb3JWRVIwRkpJV1k2Sm4yT08tVTVTR2NnelNqMjN4VE5UckNsMTVCOEVYR1VFaTdyNUhZSUxYR2NTRUw3eGRCSTRfMVpmTFd2LW1tV1Z4MzZkbGRCbGIxd1VTc3d6Z1Q5SUo0cmlLNDk4czNYVF91X2c?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxQQ1JBY2hUamZFWjlCUUppNnpDUEE0QWwwczBXOWk3c29WYUpqWE0yWDdsNUVsNGxmT3pEdnpUbVFYZE56TzF3akg2QlRvU1MyVmxRU0w0STllQnRHZzNWdHJMdEpKMlBOamZfZFIxREhIR1ZFR0tnVGc4UzhnU3o4aDBPYjhtdlpNekZ0bnVkb1g3amhUUVVkSUttWmtDcG9ndnJETzZ4V2llY1",
-  "date": "2026-11-02T20:47:42.000Z",
-  "id": "0df180f9bc781363"
- },
- {
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "Manufacturing grows for 10 straight months; erratic prices dim sentiment",
-  "link": "https://www.cfodive.com/news/manufacturing-grows-10-straight-months-erratic-prices-dim-sentiment-inflation-gdp-economy/873500/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/VicIHyET5S3GLFpFvZgelaExvrvq-2jAUmhUTWjzF4A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjEwNzQyMzQ0X0RlczJEQnYuanBn.webp\"/></div></figure><p>&ldquo;The AI-capex boom probably will continu",
-  "date": "2026-11-02T20:41:43.000Z",
-  "id": "4c83da802f8dbb29"
- },
- {
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "Norwegian Cruise Line taps newly-hired strategy chief for CFO",
-  "link": "https://www.cfodive.com/news/norwegian-cruise-line-taps-newly-hired-strategy-chief-cfo-compensation/873498/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/oq13m2Zgu_6bm28P43G0t_6Ko5K3GUtDH-wbEciVOhI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMzIwMjA3LmpwZw==.webp\"/></div></figure><p>After eight years as CFO, Mark A. Kempa will hand the ",
-  "date": "2026-11-02T20:36:46.000Z",
-  "id": "12e070ddc2e457c6"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "המדריך המלא לפיס ולווינר: כמה עולה ומה הסיכוי? - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XN0VoX2dFWFVaWUxCZEp4VkJVNlE2ZTJrX2sxZnJRTFdnbm9NdE91dmFkNjZNX010MTR1NmFZTGZXNUZORXkzTk1IUnVyWHJDdEFmd21VZjFiUFc0RmRpMUdTZGZxLXVVOXJyTFE4Zk1VVVBBTVdoN2lR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9XN0VoX2dFWFVaWUxCZEp4VkJVNlE2ZTJrX2sxZnJRTFdnbm9NdE91dmFkNjZNX010MTR1NmFZTGZXNUZORXkzTk1IUnVyWHJDdEFmd21VZjFiUFc0RmRpMUdTZGZxLXVVOXJyTFE4Zk1VVVBBTVdoN2lR?oc=5\" target=\"_blank\">המדריך המלא לפיס ולווינר: כמה עולה ומה הסיכ",
-  "date": "2026-11-02T20:36:00.000Z",
-  "id": "ad794ad491b359db"
  }
 ]
