@@ -1,33 +1,5 @@
 [
  {
-  "key": "AI | בועות AI ואנלוגיה לתשתיות עבר | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792481785969,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "צרפת | אג״ח צונחות תשואה 5% בעקבות מהומות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792482004085,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תקציב המדינה | פער 40 מיליארד שקל ועליית מסים אחרי בחירות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792482331256,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנק ישראל | החלטת ריבית | אוקטובר 2026",
-  "level": "red",
-  "first": 1792484234650,
-  "sentLive": true,
-  "candidate": false
- },
- {
   "key": "ג'נריישן | גיוס אג'ח 1.16 מיליארד שקל לרכישת שו'ב אנרגיה | אוקטובר 2026",
   "level": "learn",
   "first": 1792486962727,

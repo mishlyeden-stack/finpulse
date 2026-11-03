@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 73
+  "blocked": 74
  },
  "en.globes.co.il": {
   "ok": 21,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 50
+  "blocked": 51
  },
  "ecb.europa.eu": {
   "ok": 4,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 25,
+  "ok": 26,
   "blocked": 0
  },
  "ice.co.il": {
