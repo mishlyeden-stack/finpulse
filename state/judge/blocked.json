@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 52
+  "blocked": 53
  },
  "ecb.europa.eu": {
   "ok": 4,
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 9
+  "blocked": 10
  },
  "techtarget.com": {
   "ok": 1,
@@ -269,7 +269,7 @@
  },
  "timesofisrael.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "ravepubs.com": {
   "ok": 0,
@@ -466,5 +466,9 @@
  "thedailyupside.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "nadlancenter.co.il": {
+  "ok": 0,
+  "blocked": 1
  }
 }
