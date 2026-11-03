@@ -3757,5 +3757,75 @@
   "first": 1793679559660,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "גולדמן זאקס | עצירת כלי AI בפיתוח עצמי — חשש פרודוקטיביות ובקרה | נובמבר 2026",
+  "level": "learn",
+  "first": 1793680676777,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | ביטוח ספינות מטען — פקיעת הקרן בסוף נובמבר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793680676778,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | קרנות נאמנות — פדיונות 3.2 מיליארד שקל ועמדת המתנה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793680676778,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI ומודל עסקי | AI משנה את המודל, לא רק את הטכנולוגיה — CFO.com | נובמבר 2026",
+  "level": "learn",
+  "first": 1793680948409,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נפט | צניחה 6%+ על רקע איתות הסדר איראן–ארה״ב | 2 נובמבר 2026",
+  "level": "red",
+  "first": 1793681149999,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "אנתרופיק | תשקיף IPO — הכנסות 33.2 מיליארד, הפסד 104 מיליארד דולר | נובמבר 2026",
+  "level": "learn",
+  "first": 1793681149999,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Nvidia–Nscale–אנתרופיק | ערבות אשראי למרכז נתונים Monarch | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793681149999,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | חוזה אימון ארטילריה צה״ל 170 מיליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793681149999,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל | המשך היחלשות — דולר ואירו עולים | 2 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793681150000,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | 37 עסקאות M&A באוקטובר 2026 — סיכום חודשי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793681150000,
+  "sentLive": false,
+  "candidate": true
  }
 ]
