@@ -3610,5 +3610,152 @@
   "first": 1793630226877,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "Parsons | מינוי CFO זמני — George Ball | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793678854095,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | עדכון קצבאות ינואר 2027 — 1.6%, השיעור הנמוך מאז 2021 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793678854096,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בייננס | חידוש משיכות אחרי שוד — לקוחות מושכים מיליארדים, פגיעה באמון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793678854096,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פלנטיר | Q3 2026 — הכנסות 2.31 מיליארד דולר, זינוק 100%, העלאת תחזית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679020630,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קימברלי-קלארק | השלמת רכישת Kenvue — אינטגרציה ומה הלאה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679020630,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Norwegian Cruise Line | CFO יוצא אחרי 8 שנים — מינוי מנהל אסטרטגיה כ-CFO | נובמבר 2026",
+  "level": "learn",
+  "first": 1793679221067,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Optro | CFO חדש מגדיר צמיחת AI בת-קיימא כסדר עדיפויות | נובמבר 2026",
+  "level": "learn",
+  "first": 1793679221067,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טאואר | מנכ״ל: ביקוש AI שלם — אנשים מבוהלים אבל הביקוש ממשיך | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679221067,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "האסט (Haast) | הרגעת וול סטריט — יש מספיק מזומן למימון השקעות AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679221067,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | גשר אווירי לישראל לקראת מהלך צבאי אפשרי נגד איראן | נובמבר 2026",
+  "level": "red",
+  "first": 1793679559660,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "CFO Brew | שנת ה-CFO הקטליזטור — תפקיד בשינוי | נובמבר 2026",
+  "level": "learn",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אירופה | מתקפות סייבר על מערכות קירור סופרמרקטים — גל שני",
+  "level": "yellow",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "צה״ל | הקמת זרוע AI ומערכות רובוטיות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אקסטנד | פיטורים 10% אחרי צניחת מניה 80% | נובמבר 2026",
+  "level": "learn",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | אזהרת בכיר אוצר לשעבר — סוף הכלכלה הישראלית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "IDEX | זינוק 19% אחרי דוחות + העלאת תחזית שנתית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דיסקונט | מכרז מחודש למכירת כאל — מועמדים חדשים",
+  "level": "yellow",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "SpaceXAI | הרחבת Colossus 2 — שני קמפוסים חדשים במיסיסיפי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Envision | מרכז נתונים 800VDC ראשון בעולם — סין | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארקיע | סכסוך עבודה + דילול מניות עובדים לקראת מכירה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נפט | נפילה 8% — מניות תעופה זינקו עד 10% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793679559660,
+  "sentLive": false,
+  "candidate": true
  }
 ]

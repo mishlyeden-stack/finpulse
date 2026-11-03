@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 76,
+  "ok": 81,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 91,
+  "ok": 97,
   "blocked": 1
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 58
+  "blocked": 65
  },
  "13tv.co.il": {
   "ok": 0,
@@ -28,12 +28,12 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 16,
+  "ok": 17,
   "blocked": 0
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 31
+  "blocked": 32
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 45
+  "blocked": 47
  },
  "ecb.europa.eu": {
   "ok": 4,
@@ -64,15 +64,15 @@
   "blocked": 4
  },
  "datacenterdynamics.com": {
-  "ok": 9,
-  "blocked": 19
+  "ok": 11,
+  "blocked": 20
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 7
  },
  "calcalistech.com": {
-  "ok": 24,
+  "ok": 25,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -85,7 +85,7 @@
  },
  "bloomberg.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "fortworthinc.com": {
   "ok": 0,
@@ -109,7 +109,7 @@
  },
  "investing.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "sadanews.ps": {
   "ok": 1,
@@ -120,7 +120,7 @@
   "blocked": 1
  },
  "maariv.co.il": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 0
  },
  "visionmonday.com": {
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 6,
+  "ok": 10,
   "blocked": 1
  },
  "businesswire.com": {
@@ -149,7 +149,7 @@
  },
  "tradingview.com": {
   "ok": 2,
-  "blocked": 5
+  "blocked": 7
  },
  "govconwire.com": {
   "ok": 0,
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 6,
+  "ok": 7,
   "blocked": 1
  },
  "inquirer.com": {
@@ -196,7 +196,7 @@
   "blocked": 2
  },
  "cfobrew.com": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "federalnewsnetwork.com": {
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 7
+  "blocked": 9
  },
  "techtarget.com": {
   "ok": 1,
@@ -277,7 +277,7 @@
  },
  "sec.gov": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "newsquawk.com": {
   "ok": 1,
@@ -426,5 +426,29 @@
  "finance.biggo.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "inc.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "constructionowners.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "forbes.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "thedesk.net": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "mediapost.com": {
+  "ok": 0,
+  "blocked": 2
+ },
+ "bizjournals.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
