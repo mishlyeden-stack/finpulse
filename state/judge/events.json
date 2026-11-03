@@ -1,54 +1,5 @@
 [
  {
-  "key": "בנק ישראל | ציפיות ריבית + ציפיות אינפלציה | אוקטובר 2026",
-  "level": "red",
-  "first": 1792499684701,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "ממשלת ישראל | 25 אלף עובדי ממשלה כבר משתמשי AI - יעד כלל עובדים עד 2027 | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792499684701,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Stripe | כניסה לישראל | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792499684703,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "RTX | העלאת תחזית שלישית 2026 על ביקוש ביטחוני | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792499684704,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מיקרוסופט | הרשאות דינמיות לסוכני AI וניקוד סיכון | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792499684706,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Anthropic | הנפקה קרובה - אריק שמידט יעשיר עשרות מיליארדים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792499684707,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Google Cloud | תקלה אירופה + רבולוט | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792499684708,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "סייבר AI | פלטפורמת Cairn נוצלה לפריצת 100+ ארגונים | אוקטובר 2026",
   "level": "yellow",
   "first": 1792502264245,
@@ -3672,7 +3623,7 @@
   "level": "red",
   "first": 1793705733269,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "אנתרופיק | עלות עובד 107 אלף דולר לחודש — שכר ותשתית AI בחברת AI | נובמבר 2026",
@@ -3685,6 +3636,27 @@
   "key": "אוסטרליה | בחינת רכישת מיירטי כיפת ברזל — עסקה פוטנציאלית | נובמבר 2026",
   "level": "yellow",
   "first": 1793705733269,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נייס | פיטורים 500 עובדים — מעבר ל-AI ובחינת מכירת אקטימייז | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793711243564,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Dominion Energy | 54.9GW ביקוש מרכזי נתונים — עלייה 13% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793711243564,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Node-RED | חולשה קריטית מנוצלת — בוטים ו-webshells פרוסים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793711243564,
   "sentLive": false,
   "candidate": true
  }
