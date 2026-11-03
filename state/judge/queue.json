@@ -1,5 +1,115 @@
 [
  {
+  "id": "7de4d55ba13a2aca",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Kennedy Lewis Capital Co (0001911321) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000038/0001911321-26-000038-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001911321-26-000038 <b>Size:</b> 2 MB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T15:58:57.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "71811ff7873d3071",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Fireworks contracts 5MW of Nvidia Blackwell Ultra capacity at Era4 data center in UK",
+  "link": "https://www.datacenterdynamics.com/en/news/fireworks-contracts-5mw-of-nvidia-blackwell-ultra-capacity-at-era4-data-center-in-uk/",
+  "summary": "<p data-block-key=\"4ua34\">Will be hosted in Era4's Chesterfield data center</p>",
+  "date": "2026-11-03T15:58:06.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "82eb9e93fa682d8d",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "הסנונית הראשונה בדרך להריסת התחנה המרכזית בתל אביב",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561875#utm_source=RSS",
+  "summary": "רגע לפני שעבודות הרכבת הקלה מגיעות לאזור, עיריית תל אביב ומשרד התחבורה הגיעו להסכמות על הריסת הגשר המוביל לתחנה המרכזית בתחילת 2027 &#8226; המהלך יחייב שינויים בהסדרי התנועה וצפוי להוסיף כאוס &#8226; מיטל להבי, סגנית ראש העירייה: \"צעד נחוץ לשינוי פני התחנה\"",
+  "date": "2026-11-03T15:58:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "e6d7a6646778aad4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "INEOS Inovyn completes acquisition of UK's only ethylene dichloride asset - Hydrocarbon Processing",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDZfZm50aFZBcmt1c0pJMVVRR1J0RFZQVmRvRmhhVkt1d2ltVzhjM3RETFg2YjlGS2hZRnZ4ajlNTV9hcXBIMjRraDlvOTBUQXV5SVhKQ1lRNmVYbkRLMlJyenFUeURaLTN3bEZnMmxIZzR6YkJFSkJiZEdyMWJsbXNmQnFGSEoyTzdqUURDUE5HUUcwNGVmcU5mSWk4UGhxa3VZVGl2ZnEybGNJUEtOd2p3OGlfeHllcmRVWWNDT1pCQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDZfZm50aFZBcmt1c0pJMVVRR1J0RFZQVmRvRmhhVkt1d2ltVzhjM3RETFg2YjlGS2hZRnZ4ajlNTV9hcXBIMjRraDlvOTBUQXV5SVhKQ1lRNmVYbkRLMlJyenFUeURaLTN3bEZnMmxIZzR6YkJFSkJiZEdyMWJsbXNmQnFGSEoyTzdqUURDUE5HUUcwNGVmcU5mSWk4UGhxa3VZVGl2ZnEybG",
+  "date": "2026-11-03T15:54:12.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "3dd167946f2b0a6d",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "צ'רי, ג'אקו ומיצובישי: פעילות ההשכרה של ביי אנד דרייב תיסגר - רכבים יוצעו למכירה",
+  "link": "https://www.ynet.co.il/economy/article/hjyuffvage",
+  "summary": "לאחר שצברה חובות של 97 מיליון שקל וקיבלה צו לעיכוב הליכים, הוחלט על סגירה מיידית של פעילות השכרת הרכב של הסוכנות הוותיקה, שהתבררה כהפסדית. ביהמ\"ש אישר למנהלי ההסדר לקיים ביום חמישי התמחרות מקוונת על עשרות רכבים. בין הדגמים שיוצעו: יונדאי, מיצובישי, צ'רי וג'אקו. המכירות עצמן עדיין",
+  "date": "2026-11-03T15:53:43.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "f665bae84ed47430",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Under Secretary of War for Policy Elbridge Colby and Under Secretary of War for Acquisitio - U.S. Department of War (.gov)",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOVBPdU40M2xYTktRUjhaM2hPZUpwWFZJaW1ibkQwbkk0QUtSVDZyMHNvSkpVakdvZFNmanliV2tUZlJPNWRIaVBGY1gyQjYzeDNTNGNLbEJRZ056amdhc0FUaDVYYVRCdWZpVkNIazRSb09rY2Q2NVZTS3hXTjJyNWJOWUcyVmtEOFBuVkRoRDJqRkVQOTN1OThzd2VxSzZ6RU9EdDN1ektGXzNFRUdtRFRwUmVrRGF5UFhjZ2pNSnRkalBMSmx4dGhmbGhiTTRhZHhVbTYxZ3Q?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOVBPdU40M2xYTktRUjhaM2hPZUpwWFZJaW1ibkQwbkk0QUtSVDZyMHNvSkpVakdvZFNmanliV2tUZlJPNWRIaVBGY1gyQjYzeDNTNGNLbEJRZ056amdhc0FUaDVYYVRCdWZpVkNIazRSb09rY2Q2NVZTS3hXTjJyNWJOWUcyVmtEOFBuVkRoRDJqRkVQOTN1OThzd2VxSzZ6RU9EdDN1ektGXz",
+  "date": "2026-11-03T15:45:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "80b2289637f0af57",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CFOs expect AI to pay off in 2 years: survey - CFO.com",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeS1UWF90MVdrNHNvWmcxMGE1Y0RVLWdaSzY2YlVuTzctVVEyaTEybXVFNG1UQnp6TjY4azFmcGJUVTJrRWRuZFhxS1pqWDRUUWJQOVdkRXVRU3hzUlBkbmhFVUczV0pWMVEwc0NGVlBvQ0tvWXFIeWljYVc1XzE1bEJOQUZMT0k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNeS1UWF90MVdrNHNvWmcxMGE1Y0RVLWdaSzY2YlVuTzctVVEyaTEybXVFNG1UQnp6TjY4azFmcGJUVTJrRWRuZFhxS1pqWDRUUWJQOVdkRXVRU3hzUlBkbmhFVUczV0pWMVEwc0NGVlBvQ0tvWXFIeWljYVc1XzE1bEJOQUZMT0k?oc=5\" target=\"_blank\">CFOs expect AI to pay of",
+  "date": "2026-11-03T15:43:29.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "efb7ad2b61b311ff",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "האם נתניהו קנה את התמיכה של טראמפ בצ'ק על סך 7.5 מיליארד דולר? - מדיניות כלכלית - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXRqek9iZUhScE9qT29YQl9MWldDX3NybGEwMXRoSFFmTUNpc0RGX0h2cElRVl9XbVdxaUpyYXo5enpmbHhLU1hkeTlyWVgwUi00SGpYQnYtcnlzU2JySmxpRXVKU285MXlHNEZKcW53RmtEUUk4dGlMOVREYWFYbmVTeW80eWdqa3BOcy1rSGpUaTc3YVhtRkdLT2ZsN2F3aThxdTdhMlpGTEtDalpJSENPVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONXRqek9iZUhScE9qT29YQl9MWldDX3NybGEwMXRoSFFmTUNpc0RGX0h2cElRVl9XbVdxaUpyYXo5enpmbHhLU1hkeTlyWVgwUi00SGpYQnYtcnlzU2JySmxpRXVKU285MXlHNEZKcW53RmtEUUk4dGlMOVREYWFYbmVTeW80eWdqa3BOcy1rSGpUaTc3YVhtRkdLT2ZsN2F3aThxdTdhMlpGTE",
+  "date": "2026-11-03T15:35:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "aa050b807e730de2",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "וולקאם: קבלת הפנים שארגן סטיבן אדמס לבוי ג'ורג'",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001561863#utm_source=RSS",
+  "summary": "איש העסקים סילבן אדמס, המכהן כנשיא הקונגרס היהודי העולמי בישראל, ערך קבלת פנים לאמן בביתו שבתל אביב &#8226; משלחת בכירים מענקית ההשקעות הבינלאומית שרודרס הגיעה בשבוע שעבר לישראל לרגל כנס משותף עם משרד עוה\"ד הרצוג פוקס נאמן &#8226; מותג האונליין הקולינרי כרמלה פותח שתי חנויות פיזי",
+  "date": "2026-11-03T15:33:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "e57ab9a7259f00ab",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Trump says US will end military aid to Israel by end of the year",
+  "link": "https://www.ft.com/content/2f1a826a-5d98-47ba-be3f-5d21edce89c8?syn-25a6b1a6=1",
+  "summary": "President makes surprise announcement to halt $4bn annual funding, which has featured prominently in midterm campaigning",
+  "date": "2026-11-03T15:32:31.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
   "id": "b7a03bda32799888",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -64,6 +174,17 @@
   "date": "2026-11-03T15:16:00.000Z",
   "fetched": "2026-11-03T15:33:11.618Z",
   "fromCloud": "2026-11-03T1533.json"
+ },
+ {
+  "id": "6947371aae96b152",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PR Roundtable: Who’s Been The Bucs’ Best Free Agent Acquisition? - Pewter Report",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13QUxlR29GcUdobkRRdmJqX1l5THR4R3FISUxDZ0lfa19GMXRGYkxmOFRvY0NVTVlSLUEtd3lkbE9MbDJfR3BrTFVZN2tudzJmVU5yZHdyck9SQVZsUzNVbXpqNlZDSG9mRm1FNVZIcDZYZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE13QUxlR29GcUdobkRRdmJqX1l5THR4R3FISUxDZ0lfa19GMXRGYkxmOFRvY0NVTVlSLUEtd3lkbE9MbDJfR3BrTFVZN2tudzJmVU5yZHdyck9SQVZsUzNVbXpqNlZDSG9mRm1FNVZIcDZYZw?oc=5\" target=\"_blank\">PR Roundtable: Who’s Been The Bucs’ Best Free Agent A",
+  "date": "2026-11-03T15:15:37.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
  },
  {
   "id": "3fff97372910932a",
@@ -152,6 +273,17 @@
   "date": "2026-11-03T15:01:28.000Z",
   "fetched": "2026-11-03T15:33:11.618Z",
   "fromCloud": "2026-11-03T1533.json"
+ },
+ {
+  "id": "c8ead648657d8aa1",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "Pfizer promotes insider to CFO",
+  "link": "https://www.cfodive.com/news/pfizer-promotes-insider-cfo-vaccines/873581/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/N1Nt13wmDgmbBO99VZhqKwhR_oj6uWgyljEVOA6AZgo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3NzE1MDgxLmpwZw==.webp\"/></div></figure><p>The New York-based pharmaceutical giant appointed Ceci",
+  "date": "2026-11-03T15:00:52.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
  },
  {
   "id": "f72290aa863fc017",
@@ -319,6 +451,17 @@
   "fromCloud": "2026-11-03T1533.json"
  },
  {
+  "id": "4cbfff4a078cbd32",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פלנטיר יורדת, אבל רוב האנליסטים נשארים בצד של הקונים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PQXIyU3FYdGZydkc5cnNEQnlkZDZENS1SY1dTd1dqYVNlQmF0WGZQZ2k3YXJuMFF1eFdRNk5RWlJzV01Xd09LSnpqd3ZvTE9nZ2o0dFV1WHFPQzlrSlR3aDVkTTZBNkpkSlpjcXBXR1A?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1PQXIyU3FYdGZydkc5cnNEQnlkZDZENS1SY1dTd1dqYVNlQmF0WGZQZ2k3YXJuMFF1eFdRNk5RWlJzV01Xd09LSnpqd3ZvTE9nZ2o0dFV1WHFPQzlrSlR3aDVkTTZBNkpkSlpjcXBXR1A?oc=5\" target=\"_blank\">פלנטיר יורדת, אבל רוב האנליסטים נשארים בצד של הקונים</a>",
+  "date": "2026-11-03T14:42:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
   "id": "27c6966734849914",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -438,6 +581,17 @@
   "date": "2026-11-03T14:28:00.000Z",
   "fetched": "2026-11-03T14:33:14.214Z",
   "fromCloud": "2026-11-03T1433.json"
+ },
+ {
+  "id": "c5d0a18d2abca9d3",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "נסיעה איטית בנתיב האיסוף בנתב\"ג נחשבת לעצירה? מה אומר החוק על קנס של 500 שקל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlWGk5YWNJdTZZSDQ4U0VweXc0OTY1alhfZ3d5RVpRdW9RbXowMFpWb250Tlp1WWZQRjBZaS1uU2ZlZXpZY0V0OFRnQi1NVG9hUlZuZ3g4X05iT09FaXU0UkpHdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlWGk5YWNJdTZZSDQ4U0VweXc0OTY1alhfZ3d5RVpRdW9RbXowMFpWb250Tlp1WWZQRjBZaS1uU2ZlZXpZY0V0OFRnQi1NVG9hUlZuZ3g4X05iT09FaXU0UkpHdw?oc=5\" target=\"_blank\">נסיעה איטית בנתיב האיסוף בנתב\"ג נחשבת לעצירה? מה אומר החוק על קנס של 500 ",
+  "date": "2026-11-03T14:28:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
  },
  {
   "id": "2b117280779029ef",
@@ -715,6 +869,17 @@
   "fromCloud": "2026-11-03T1433.json"
  },
  {
+  "id": "cb92101113fd3664",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "ארבעה דוקטורנטים מאוניברסיטת חיפה בין 11 זוכי מלגת נשיא המדינה - HKN חיפה והקריות",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fM2J6THM5UU5vRldBWFRUT1JfOTB6MnhuRVlORjlHRjZLa1UwNUY5eHpkOF9KQ2RyM1JHbWRnUklUaXc4WjlUeQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fM2J6THM5UU5vRldBWFRUT1JfOTB6MnhuRVlORjlHRjZLa1UwNUY5eHpkOF9KQ2RyM1JHbWRnUklUaXc4WjlUeQ?oc=5\" target=\"_blank\">ארבעה דוקטורנטים מאוניברסיטת חיפה בין 11 זוכי מלגת נשיא המדינה</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HKN חיפה ",
+  "date": "2026-11-03T14:05:22.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
   "source": "Israel Defense",
   "group": "industry",
   "title": "Netherlands to Acquire Additional CV90 Combat Vehicles in $1.45B Deal",
@@ -777,6 +942,17 @@
   "date": "2026-11-03T14:00:00.000Z",
   "fetched": "2026-11-03T14:33:14.214Z",
   "fromCloud": "2026-11-03T1433.json"
+ },
+ {
+  "id": "ca87633e13dc24d1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "L Squared Completes the Acquisition of Edko - Business Wire",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFBLRDNtcmY5TGsxazVwX0F5ZEhUdDdfRlIwdHBWOUxhUk9JOXhEUW5BVXJRX192aXRJSFMzN2ZrNENjbnZXNEJ2ZjVWLXh5Rmswb1VudERud3JDekI4Um5xMk9rMHJhbVJOTl9BMHpIYl9PMlVuNmZ5OHdyYkdQYnZwUkstOW9makt5VjEyc0phQVM0ZlA5dFBIRS1aang2b3c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFBLRDNtcmY5TGsxazVwX0F5ZEhUdDdfRlIwdHBWOUxhUk9JOXhEUW5BVXJRX192aXRJSFMzN2ZrNENjbnZXNEJ2ZjVWLXh5Rmswb1VudERud3JDekI4Um5xMk9rMHJhbVJOTl9BMHpIYl9PMlVuNmZ5OHdyYkdQYnZwUkstOW9makt5VjEyc0phQVM0ZlA5dFBIRS1aang2b3c?oc=5\" targ",
+  "date": "2026-11-03T14:00:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
  },
  {
   "id": "63d2695afa614fb6",
@@ -922,6 +1098,17 @@
   "fromCloud": "2026-11-03T1433.json"
  },
  {
+  "id": "1a3ef1ece4b85b00",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "SHOP: Revenue rose 32% as Q3 free cash flow margin reached 22% - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcHdnLUsyb19IMFY0VDY3S0pjLXpOLTRGODlCN0dQTDRCaW9ONkZsU0M1elRmTnVBd1MyLUszaWk1VHA4ZndWMXNxODlVNlZrSjBzeTkzT2xHdWxzdHpBOGU5Q0o4b0ZveDJ6MVM0WjNSQ3UtZGQtd0dpWE9TbHYyREFRYXUwZUtDa1ctcHhPUV9NQV9WdTlZVk00dUpOQ1VLaThqcFZPcEt3VTR4d1IycHRCZ2c5d29DLU1RRnVSNXNPTExuTFJudXJtc01yekNCbUxYbzBwM2RSZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcHdnLUsyb19IMFY0VDY3S0pjLXpOLTRGODlCN0dQTDRCaW9ONkZsU0M1elRmTnVBd1MyLUszaWk1VHA4ZndWMXNxODlVNlZrSjBzeTkzT2xHdWxzdHpBOGU5Q0o4b0ZveDJ6MVM0WjNSQ3UtZGQtd0dpWE9TbHYyREFRYXUwZUtDa1ctcHhPUV9NQV9WdTlZVk00dUpOQ1VLaThqcFZPcEt3VT",
+  "date": "2026-11-03T13:10:23.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
   "source": "Israel Defense",
   "group": "industry",
   "title": "Finland to Acquire RGW110 Anti-Tank Systems from Dynamit Nobel",
@@ -995,6 +1182,17 @@
   "fromCloud": "2026-11-03T1533.json"
  },
  {
+  "id": "43fe7d15489270f9",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "לפני עתירה: מתנגדי היטל השצ״פ בקריית ביאליק דורשים מהעירייה לבטלו ולהחזיר את הכספים - HKN חיפה והקריות",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14OVZrUVRXUFhhZlZnYzFNM1M4N052WXllYWJXVHlWNl9kal8xMlc2amxhX0xsT2hQbDhLYk9lNjVBQzdINl9mWA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE14OVZrUVRXUFhhZlZnYzFNM1M4N052WXllYWJXVHlWNl9kal8xMlc2amxhX0xsT2hQbDhLYk9lNjVBQzdINl9mWA?oc=5\" target=\"_blank\">לפני עתירה: מתנגדי היטל השצ״פ בקריית ביאליק דורשים מהעירייה לבטלו ולהחזיר את הכספים</a>&nbsp;&nbsp;<font colo",
+  "date": "2026-11-03T12:49:39.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
   "id": "4411c6c04ac0ecbe",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -1004,6 +1202,17 @@
   "date": "2026-11-03T12:48:02.000Z",
   "fetched": "2026-11-03T14:33:14.214Z",
   "fromCloud": "2026-11-03T1433.json"
+ },
+ {
+  "id": "cd197e20936dac40",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "פקחי עיריית חיפה הותקפו בחוף בזמן אכיפה נגד רכבים משופרים: שניים פונו לבית החולים - HKN חיפה והקריות",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hMTZaanpiRnU1WWRPMHE4cktLSVhsdkFfVkVtWDlrR3ZoV1pDN2NmakR1b3JkVUNWa056MURVRkc3NEgydkJMMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hMTZaanpiRnU1WWRPMHE4cktLSVhsdkFfVkVtWDlrR3ZoV1pDN2NmakR1b3JkVUNWa056MURVRkc3NEgydkJMMA?oc=5\" target=\"_blank\">פקחי עיריית חיפה הותקפו בחוף בזמן אכיפה נגד רכבים משופרים: שניים פונו לבית החולים</a>&nbsp;&nbsp;<font color=",
+  "date": "2026-11-03T12:47:08.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
  },
  {
   "id": "2570a1cfddbd5490",
@@ -1037,6 +1246,17 @@
   "date": "2026-11-03T12:24:04.000Z",
   "fetched": "2026-11-03T14:33:14.214Z",
   "fromCloud": "2026-11-03T1433.json"
+ },
+ {
+  "id": "82556b18ebc84cc6",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "בנק ישראל מציג שינוי בהרכב הפעילות בשוק המט\"ח ברבעון השלישי - Traders Union",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEpFbDhoajJhaWMtT1Jid0dQS2pSS210eWlDOXM5M1I3YTVfS2tXMTNWUllrWmt2Zk15amNsQ3hwRk9fcW9XVDhDYm9pby1rdEo2a0dNdWo1SzNDdF9HZnhZVU4yV0JEbWRfejdwWDQ0SWZaM3RtMWU2LS1XOGdDcVZBY2tFR0JzMWthdkRtSktuNkQzREk3TmdiNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEpFbDhoajJhaWMtT1Jid0dQS2pSS210eWlDOXM5M1I3YTVfS2tXMTNWUllrWmt2Zk15amNsQ3hwRk9fcW9XVDhDYm9pby1rdEo2a0dNdWo1SzNDdF9HZnhZVU4yV0JEbWRfejdwWDQ0SWZaM3RtMWU2LS1XOGdDcVZBY2tFR0JzMWthdkRtSktuNkQzREk3TmdiNA?oc=5\" target=\"_blan",
+  "date": "2026-11-03T12:22:33.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
  },
  {
   "source": "Times of Israel",
@@ -1079,6 +1299,17 @@
   "fromCloud": "2026-11-03T1503.json"
  },
  {
+  "id": "eb5241a7483a45e9",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "Payment processor settles with FTC over alleged deceptive fees",
+  "link": "https://www.cfodive.com/news/payment-processor-settle-ftc-alleged-deceptive-fees/873545/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/phr4WaiJ1jdntc34H4ifJ8K5oxL4m8SpzMyv563PC0A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GVENfMy5qcGc=.webp\"/></div></figure><p>Riverside Payments and its affiliates agreed to pay $600,000 to resolve allega",
+  "date": "2026-11-03T12:00:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
   "source": "Times of Israel",
   "group": "israel-press",
   "title": "French judges investigating war crimes complaint against IDF over 2024 Beirut strike",
@@ -1097,6 +1328,39 @@
   "date": "2026-11-03T11:19:17.000Z",
   "fetched": "2026-11-03T15:03:14.848Z",
   "fromCloud": "2026-11-03T1503.json"
+ },
+ {
+  "id": "36fd4e7e6354dbdc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Allegiant Travel Provides Pro Forma Results Reflecting Sun Country Acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc19tVEhyU0k4eW4wRVdpUzg2WExpLUxFeWE5WUtpbUhxRlJBbGk5MmpxUU9ZYVJwaEFUUXU0ME91WnRTUm9kNnhobWNsSEZLM1hzYnJ3c1kyTlVCOWJ0dFVPWGVESVFlYkpxZmhIeDVyZHY2QW45akdzMm05QTRKclNwblNxZW1rZHhJb25QVUZGU1d4RnZ3dllsSDFEZXJBLVQ5T2tRLUFSZHIwU2tFVndsR1pRN3I4WFozNGpPMkFNUTJmckpiMEFTaWxrMW1MQ2RtMEtRNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc19tVEhyU0k4eW4wRVdpUzg2WExpLUxFeWE5WUtpbUhxRlJBbGk5MmpxUU9ZYVJwaEFUUXU0ME91WnRTUm9kNnhobWNsSEZLM1hzYnJ3c1kyTlVCOWJ0dFVPWGVESVFlYkpxZmhIeDVyZHY2QW45akdzMm05QTRKclNwblNxZW1rZHhJb25QVUZGU1d4RnZ3dllsSDFEZXJBLVQ5T2tRLUFSZH",
+  "date": "2026-11-03T11:03:03.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "5e2cd61533789b0e",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "דירוג הבנקים נחשף: מי הכי הוגן ומי בתחתית הרשימה? - ביזנעס",
+  "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQOEVvcGFWeWJkbTF3Y1l4RW80WlRMRlpnY3dRcEJkR0lpbzBZemduVnU4cjY0RnN1ZHBmNkdGY29kcVRfRXo2eDdfU3BNLWtNN3hjelFESTFaUXlCaGlZc2hpbGdna3Rzd2REcURuNjFQTHMxX1dRdEtJLTdWNjdpanlUbDQtN24ybzFKa1hxNVFPbXRXZGRBaTRVQTRWTE44LUh6dGhFMlV5OUthN3NqUkF1RUtzM0tJNXlnNW5ybUVrVmM5dzJuQ0Z3VVdzZGNncnR1Rk5HeFZ4U0I5NEJBLThtcWFRQWRWM3dwRGtqSXlPd1IyZ1VvUHEwUHF1Q1JVaC04NWVEYmpfV19nSzhmeDUyMXZJTlJjXzJVWjdmMXExU05SbjZfTVljaFZVd0RNd2NPcVlDLS1TdDZRUFg4LWRZUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxQOEVvcGFWeWJkbTF3Y1l4RW80WlRMRlpnY3dRcEJkR0lpbzBZemduVnU4cjY0RnN1ZHBmNkdGY29kcVRfRXo2eDdfU3BNLWtNN3hjelFESTFaUXlCaGlZc2hpbGdna3Rzd2REcURuNjFQTHMxX1dRdEtJLTdWNjdpanlUbDQtN24ybzFKa1hxNVFPbXRXZGRBaTRVQTRWTE44LUh6dGhFMlV5OU",
+  "date": "2026-11-03T10:34:04.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
+ },
+ {
+  "id": "aeb5a933f03ae7f9",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "ליאור וולף, בכיר במובילאיי: \"הרובוטים הביתיים יעברו דמוקרטיזציה מהירה\" - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BfRGlDVW42X204Nk84b1VmVDdmT1h2N2c0Tl9TN0hSQkpweDUwQWI0VlJQNk5MRWZ5WEg4VHBWNDNud25udFRhdG9hdXJaaXhHY1RqLXBNZE14bDN4QWlmaFAtR3Z4bHZvSlBoczlOQ2pVQ2kwakswd01IbU5xZnpRQkRXRkZreWVsUzZWc21wU2gwUjZUQUExbHlKcXRQTlVBcXliN1daQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BfRGlDVW42X204Nk84b1VmVDdmT1h2N2c0Tl9TN0hSQkpweDUwQWI0VlJQNk5MRWZ5WEg4VHBWNDNud25udFRhdG9hdXJaaXhHY1RqLXBNZE14bDN4QWlmaFAtR3Z4bHZvSlBoczlOQ2pVQ2kwakswd01IbU5xZnpRQkRXRkZreWVsUzZWc21wU2gwUjZUQUExbHlKcXRQTlVBcXliN1daQQ",
+  "date": "2026-11-03T08:30:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
  },
  {
   "id": "f2ab2b1e47e5a09a",
@@ -1119,5 +1383,16 @@
   "date": "2026-11-03T00:00:00.000Z",
   "fetched": "2026-11-03T15:33:11.618Z",
   "fromCloud": "2026-11-03T1533.json"
+ },
+ {
+  "id": "e503bc954149610f",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "פעם חמישית באותו רחוב: אישה ערירית נמצאה מתה בדירתה ברחוב החלוץ בחיפה ימים אחרי מותה - HKN חיפה והקריות",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NY3dGUEFKZEcxWmlWZ1FKQmNuOS0xZG1SeXhDSnRvbUt5ZEVLUG5hMDlqN2xmblNLc2xiMGIyb1dKcFR0VGhmLQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NY3dGUEFKZEcxWmlWZ1FKQmNuOS0xZG1SeXhDSnRvbUt5ZEVLUG5hMDlqN2xmblNLc2xiMGIyb1dKcFR0VGhmLQ?oc=5\" target=\"_blank\">פעם חמישית באותו רחוב: אישה ערירית נמצאה מתה בדירתה ברחוב החלוץ בחיפה ימים אחרי מותה</a>&nbsp;&nbsp;<font col",
+  "date": "2026-11-02T17:29:00.000Z",
+  "fetched": "2026-11-03T16:03:15.482Z",
+  "fromCloud": "2026-11-03T1603.json"
  }
 ]
