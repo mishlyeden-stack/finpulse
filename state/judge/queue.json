@@ -1,5 +1,16 @@
 [
  {
+  "id": "8ce7f15cb9ad53f3",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "תאונה ב\"גג העולם\": שני מסוקים התנגשו בנחיתה ליד האוורסט - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02eHF6YXZRbE9oSG1fazhybG1HejhpVnMwRHlRcEl6M2V0UVlPejlHaUkyUlZPakswRW1lZ2pmTld2MmVtb2VjWFJVOWhaYWw3cXpKY2M4RG45blJ5SXpwcXZKcHBVSHpO?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE02eHF6YXZRbE9oSG1fazhybG1HejhpVnMwRHlRcEl6M2V0UVlPejlHaUkyUlZPakswRW1lZ2pmTld2MmVtb2VjWFJVOWhaYWw3cXpKY2M4RG45blJ5SXpwcXZKcHBVSHpO?oc=5\" target=\"_blank\">תאונה ב\"גג העולם\": שני מסוקים התנגשו בנחיתה ליד האוורסט</a>&nbsp;&n",
+  "date": "2026-11-03T09:57:00.000Z",
+  "fetched": "2026-11-03T10:03:13.981Z",
+  "fromCloud": "2026-11-03T1003.json"
+ },
+ {
   "id": "f9462e26229b8712",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -42,6 +53,17 @@
   "date": "2026-11-03T09:49:12.000Z",
   "fetched": "2026-11-03T09:59:48.661Z",
   "fromCloud": "2026-11-03T0959.json"
+ },
+ {
+  "id": "381e77b6fff92c39",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AMD Q3 Earnings to Test CFO Jean Hu Data Center Growth Forecast - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1Z6dXpyRHVIY0cwR3k1SVlSUzdvczJfU2Q2Q1daVmlGeXB5VGplMEt0djFuMnc3V1NhMDZxNF85c2FuV19HSHdUdDFmQ28zZU5SQWZpZENfb1V5cUlveGE0Qmx4ODZacXNGRW10QU1fRE5YVDhxaHFIZ3ZoYmhuWW1mdWxiY3FNQkxfLTgtaExxbXdMTUFrUlhOYkowRWpNX3pQVDZ2eEdqcWpNNUZwZWFJc29qbFJQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1Z6dXpyRHVIY0cwR3k1SVlSUzdvczJfU2Q2Q1daVmlGeXB5VGplMEt0djFuMnc3V1NhMDZxNF85c2FuV19HSHdUdDFmQ28zZU5SQWZpZENfb1V5cUlveGE0Qmx4ODZacXNGRW10QU1fRE5YVDhxaHFIZ3ZoYmhuWW1mdWxiY3FNQkxfLTgtaExxbXdMTUFrUlhOYkowRWpNX3pQVDZ2eEdqcW",
+  "date": "2026-11-03T09:48:23.000Z",
+  "fetched": "2026-11-03T10:03:13.981Z",
+  "fromCloud": "2026-11-03T1003.json"
  },
  {
   "id": "74c7b2bd2e3deb22",
@@ -174,6 +196,17 @@
   "fromCloud": "2026-11-03T0959.json"
  },
  {
+  "id": "0b55dbdd961fa80f",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "\"I don't think there are any shortcuts\": Rogue Security CEO on going global - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90dzM3dGNyZG03Wk0xX01KTmNQS3BtcWRtWmd3V0dfLTVFQVF6NHhxamg0cDVzb3g4QVRPSkNqUm5tRmNmcGxsWnNDZ3JxTUFxVnV3bGdJdkVqTFNrS21sMGlsSkUtbDQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90dzM3dGNyZG03Wk0xX01KTmNQS3BtcWRtWmd3V0dfLTVFQVF6NHhxamg0cDVzb3g4QVRPSkNqUm5tRmNmcGxsWnNDZ3JxTUFxVnV3bGdJdkVqTFNrS21sMGlsSkUtbDQ?oc=5\" target=\"_blank\">\"I don't think there are any shortcuts\": Rogue Security CEO on going",
+  "date": "2026-11-03T07:26:00.000Z",
+  "fetched": "2026-11-03T10:03:13.981Z",
+  "fromCloud": "2026-11-03T1003.json"
+ },
+ {
   "id": "afc03ee8196261a7",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -185,6 +218,17 @@
   "fromCloud": "2026-11-03T0959.json"
  },
  {
+  "id": "6b1a459fd2afeb2c",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ועדת ערר מחוזית: תוספת קומות בתמ\"א 38 מחייבת גם הוספת מרתפים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55ZE05b3ZiM0VONnA2OHZiazVubnBHaXR5QkI5c3VaRDYwZEhyeDNvYmdkRVVHVGdKYU5NcDNKR1dhYjhqckdRLVhrQVdJOWU2SHVISTNuVFh2UGhpTlVDTkw2b1pMbUk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55ZE05b3ZiM0VONnA2OHZiazVubnBHaXR5QkI5c3VaRDYwZEhyeDNvYmdkRVVHVGdKYU5NcDNKR1dhYjhqckdRLVhrQVdJOWU2SHVISTNuVFh2UGhpTlVDTkw2b1pMbUk?oc=5\" target=\"_blank\">ועדת ערר מחוזית: תוספת קומות בתמ\"א 38 מחייבת גם הוספת מרתפים</a>&nbs",
+  "date": "2026-11-03T05:39:00.000Z",
+  "fetched": "2026-11-03T10:03:13.981Z",
+  "fromCloud": "2026-11-03T1003.json"
+ },
+ {
   "id": "054409fc3a311136",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -194,5 +238,16 @@
   "date": "2026-11-03T04:50:00.000Z",
   "fetched": "2026-11-03T09:59:48.661Z",
   "fromCloud": "2026-11-03T0959.json"
+ },
+ {
+  "id": "ebd40a238531f6af",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Daily Research News Online no. 40554 - Publicis Completes LiveRamp Acquisition - MrWeb",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzYm90Tm5DS25OZUJTOGxVTXVMVFo1X2ttX0tzVzJHYm9xcmVycHAyY3dRNGZ1aFVleUxjYVduZG8xVFBBTkNlSS1KMUV0bXhPS1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzYm90Tm5DS25OZUJTOGxVTXVMVFo1X2ttX0tzVzJHYm9xcmVycHAyY3dRNGZ1aFVleUxjYVduZG8xVFBBTkNlSS1KMUV0bXhPS1E?oc=5\" target=\"_blank\">Daily Research News Online no. 40554 - Publicis Completes LiveRamp Acquisition</a>&nbsp;&nbsp;<f",
+  "date": "2026-11-03T03:56:21.000Z",
+  "fetched": "2026-11-03T10:03:13.981Z",
+  "fromCloud": "2026-11-03T1003.json"
  }
 ]
