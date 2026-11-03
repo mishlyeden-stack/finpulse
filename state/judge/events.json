@@ -1,33 +1,5 @@
 [
  {
-  "key": "בנק ישראל | תחזית ריבית פסגות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792479432155,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מניות ביטחון | ירידות למרות ביקוש גבוה לנשק | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792479432157,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סמישינג עולמי | התחזות לרשויות ממשלתיות הגיעה לישראל | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792479432159,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אינפלציה ארה״ב | הבית הלבן מודה בלחצים מחודשים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792479432160,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "אמזון | הוצאות AI גורמות לתזרים שלילי + עסקת SMR | אוקטובר 2026",
   "level": "learn",
   "first": 1792481604319,
@@ -3699,6 +3671,27 @@
   "key": "Flycomm | זיהוי אנטנות מזויפות וממסכי GPS עם מנוע RF אחד | נובמבר 2026",
   "level": "yellow",
   "first": 1793684401463,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פנטגון | קיצוץ 400 מיליארד דולר מתקציב הביטחון של טראמפ | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793689538159,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "איגוד הבנקים | מדמון פורש אחרי ניסיון הדחה ולחצי רגולציה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793689538160,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "זים | ספינת מטען מוטבעת על ידי כלי שיט רוסיים בים השחור | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793689538160,
   "sentLive": false,
   "candidate": true
  }
