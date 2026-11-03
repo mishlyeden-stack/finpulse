@@ -3827,5 +3827,33 @@
   "first": 1793681150000,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "CFO | ניהול הוצאות AI של עובדים — מדיניות ובקרה | נובמבר 2026",
+  "level": "learn",
+  "first": 1793684325728,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הורמוז | דיווח על אישור חמינאי לשיחות — נפט צולל, חוזים עולים | 2 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793684325728,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים עולמיים | דריכות לפני בחירות אמצע — קוריאה צוללת, חוזים מעורבים, נפט חוזר לעלות | 3 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793684325728,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Flycomm | זיהוי אנטנות מזויפות וממסכי GPS עם מנוע RF אחד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793684401463,
+  "sentLive": false,
+  "candidate": true
  }
 ]

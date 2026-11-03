@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 85,
+  "ok": 86,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 72
+  "blocked": 73
  },
  "en.globes.co.il": {
   "ok": 21,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 97,
+  "ok": 98,
   "blocked": 1
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 66
+  "blocked": 67
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 49
+  "blocked": 50
  },
  "ecb.europa.eu": {
   "ok": 4,
@@ -69,10 +69,10 @@
  },
  "funder.co.il": {
   "ok": 0,
-  "blocked": 7
+  "blocked": 8
  },
  "calcalistech.com": {
-  "ok": 25,
+  "ok": 26,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -460,6 +460,10 @@
   "blocked": 1
  },
  "emess.co.il": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "thedailyupside.com": {
   "ok": 1,
   "blocked": 0
  }
