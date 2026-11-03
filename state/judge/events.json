@@ -1,19 +1,5 @@
 [
  {
-  "key": "קפריסין | עסקת רפאל ומספנות ישראל 100+ מיליון דולר | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792489670663,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "חיל האוויר ישראל | שדרוג צי מסוקים Apache Echo ו-CH-53K | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792489670666,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "אבטחה פיזית וסייבר | שילוב ניהול אחיד | אוקטובר 2026",
   "level": "yellow",
   "first": 1792494260473,
@@ -3678,6 +3664,41 @@
   "key": "ארמקו | רווח Q3 36 מיליארד דולר — מלחמה עם איראן מנפחת מרווחי זיקוק | נובמבר 2026",
   "level": "yellow",
   "first": 1793698639706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל | היחלשות 4.4% מאז הבחירות — חשש מאינפלציה מואצת | 3 נובמבר 2026",
+  "level": "red",
+  "first": 1793702341614,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "אוצר | מס שכר דירה מהשקל הראשון + הפחתת מס רכישה — הצעה חדשה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793702341614,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נאט״ו | תרגיל 5G ו-AI לזיהוי רחפנים בים הבלטי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793702341614,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בריטניה | ראש הסייבר הלאומי: מתקפות AI על תשתיות קריטיות עד 2028 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793702341614,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | עסקת מרכז אימון ארטילריה רועם — 600 מיליון שקל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793702341615,
   "sentLive": false,
   "candidate": true
  }
