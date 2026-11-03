@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 90,
+  "ok": 92,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -8,11 +8,11 @@
   "blocked": 75
  },
  "en.globes.co.il": {
-  "ok": 22,
+  "ok": 23,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 103,
+  "ok": 104,
   "blocked": 1
  },
  "news.google.com": {
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 34
+  "blocked": 35
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -69,7 +69,7 @@
  },
  "funder.co.il": {
   "ok": 0,
-  "blocked": 8
+  "blocked": 9
  },
  "calcalistech.com": {
   "ok": 27,
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 11
+  "blocked": 12
  },
  "techtarget.com": {
   "ok": 1,
@@ -468,6 +468,10 @@
   "blocked": 0
  },
  "nadlancenter.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "boi.org.il": {
   "ok": 0,
   "blocked": 1
  }

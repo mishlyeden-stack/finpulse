@@ -1,33 +1,5 @@
 [
  {
-  "key": "סייבר AI | פלטפורמת Cairn נוצלה לפריצת 100+ ארגונים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792502264245,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אוקראינה | תקיפת מרכז נתונים קייב Datagroup | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792502264248,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AI וחסכון עלויות | שעה חסכונה אינה חיסכון במזומן | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792502363516,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | רכישת חברת רחפנים תת-ימיים קנדית | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792502363518,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Endava | CFO בחופשה + תביעה ניירות ערך + דוחות מאוחרים | אוקטובר 2026",
   "level": "learn",
   "first": 1792572697774,
@@ -3657,6 +3629,27 @@
   "key": "Node-RED | חולשה קריטית מנוצלת — בוטים ו-webshells פרוסים | נובמבר 2026",
   "level": "yellow",
   "first": 1793711243564,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טראמפ–נתניהו | עצירת סיוע ביטחוני אמריקאי לישראל — 4 מיליארד דולר | נובמבר 2026",
+  "level": "red",
+  "first": 1793714838987,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "פאלו אלטו | פתרון ישראלי לאבטחת סוכני AI ויישומי ענן | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793714838987,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ג׳י סיטי | צניחה 20%+ — מכירת נכסי ברזיל ללא היתכנות כלכלית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793714838987,
   "sentLive": false,
   "candidate": true
  }
