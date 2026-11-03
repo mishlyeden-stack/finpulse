@@ -1,19 +1,5 @@
 [
  {
-  "key": "ג'נריישן | גיוס אג'ח 1.16 מיליארד שקל לרכישת שו'ב אנרגיה | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792486962727,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה | מרכז נתונים טבעון | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792486962729,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "קפריסין | עסקת רפאל ומספנות ישראל 100+ מיליון דולר | אוקטובר 2026",
   "level": "yellow",
   "first": 1792489670663,
@@ -3664,6 +3650,34 @@
   "key": "סופווייב | צמיחה 35% + כניסה לסין + הכנסות חוזרות 50% ממחזור | נובמבר 2026",
   "level": "learn",
   "first": 1793691337955,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל | המשך היחלשות — דולר מתקרב ל-3.16 | 3 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793698639706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נאט״ו | תרגיל Crossed Swords — סוכני AI בהגנת סייבר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793698639706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | שבוע אחרי בחירות — הכל תקוע, אי-וודאות מעמיקה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793698639706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארמקו | רווח Q3 36 מיליארד דולר — מלחמה עם איראן מנפחת מרווחי זיקוק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793698639706,
   "sentLive": false,
   "candidate": true
  }
