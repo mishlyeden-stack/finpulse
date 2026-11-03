@@ -1,5 +1,181 @@
 [
  {
+  "id": "605118088fabf0da",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Super Micro Computer, Inc. (0001375365) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000026/0001375365-26-000026-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001375365-26-000026 <b>Size:</b> 520 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:31:04.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "e0ff9c07f8da81a4",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Blue Acquisition Corp/Cayman (0002059654) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2059654/000118518526005142/0001185185-26-005142-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001185185-26-005142 <b>Size:</b> 285 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01",
+  "date": "2026-11-03T21:30:57.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "d1c38162ae27cddb",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - First Guaranty Bancshares, Inc. (0001408534) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1408534/000140853426000081/0001408534-26-000081-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001408534-26-000081 <b>Size:</b> 702 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:30:15.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "b70dd93ec9d50de2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Mayville Engineering Company, Inc. (0001766368) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1766368/000110465926122046/0001104659-26-122046-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001104659-26-122046 <b>Size:</b> 673 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:30:13.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "eed94a852ebf8c36",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Matinas BioPharma Holdings, Inc. (0001582554) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1582554/000149315226049802/0001493152-26-049802-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001493152-26-049802 <b>Size:</b> 199 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-03T21:30:13.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "e3b8522f1c3a1477",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - HORACE MANN EDUCATORS CORP /DE/ (0000850141) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/850141/000085014126000038/0000850141-26-000038-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0000850141-26-000038 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:29:01.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "3dfe767873bc6ba3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Oportun Financial Corp (0001538716) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1538716/000153871626000116/0001538716-26-000116-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-03 <b>AccNo:</b> 0001538716-26-000116 <b>Size:</b> 669 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-03T21:27:47.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "397484ec151300e2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "OTCF Awards $250,000 to Scottsbluff Family YMCA for Land Acquisition for Proposed Aquatic and Senior - Rural Radio Network",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX1haUWNRTU5nVFVMdjVTQWk4N29EZGVsTHZjeDU1bmlRT0l2QmNvY2tqQmxWU0R5VEF6MzFTSE5jcGdoZklVLXYxVzVxXzc3TDVNYzg3dVAxU0FoT0w0S0otVVQ0b291MHdSNTB4c3dKRHVZazNaZHliSXBpVDZOWkI2SFZ3akVzN3VoWlN5aHRTQngxWWFYaklVdy10WURaRkVtdTBsRW52TzQ4UUxTUUFvREN2b3RNYjhoTDUyQ3l1RG1HSzV4VWE1VDMyZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQX1haUWNRTU5nVFVMdjVTQWk4N29EZGVsTHZjeDU1bmlRT0l2QmNvY2tqQmxWU0R5VEF6MzFTSE5jcGdoZklVLXYxVzVxXzc3TDVNYzg3dVAxU0FoT0w0S0otVVQ0b291MHdSNTB4c3dKRHVZazNaZHliSXBpVDZOWkI2SFZ3akVzN3VoWlN5aHRTQngxWWFYaklVdy10WURaRkVtdTBsRW52Tz",
+  "date": "2026-11-03T21:23:14.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "1edf9e1ed8092e58",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Mastercard (MA) CFO Ling sold 8,635 shares for $5.54M at an average $641.72 under a 10b5-1 plan - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlVUYkotSlZPdkt1Q3Y5Um1VbUd1bS1RVHlMTjJuU2pvZHM4TmpzVzZTMDZNNGhKbjg0akQtT2tXZ205NW1OVjM3cXBlQ1ZTbk5wdzlHRzJZVm93bTItdFBFNTZ1VXNSU0RObWkzSVJJWmhlQURPQkU2Ujg2RC0zdmJBbS1qRURHdWw2TEwyQ1d1Qi04RjhiZF9aRTd2VHc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlVUYkotSlZPdkt1Q3Y5Um1VbUd1bS1RVHlMTjJuU2pvZHM4TmpzVzZTMDZNNGhKbjg0akQtT2tXZ205NW1OVjM3cXBlQ1ZTbk5wdzlHRzJZVm93bTItdFBFNTZ1VXNSU0RObWkzSVJJWmhlQURPQkU2Ujg2RC0zdmJBbS1qRURHdWw2TEwyQ1d1Qi04RjhiZF9aRTd2VHc?oc=5\" target=\"",
+  "date": "2026-11-03T21:23:01.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "f0d28a9fc1aefc43",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Analog Devices completes Alif Semiconductor acquisition - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUlsTVFVZjhsMjF4empJS2hTS25DTkNTWWMtNmFMc2ttc1JCZ3hoWXFRX2MtbWFJNkhCWi1jX2trZXg3eEpHZUtqRk1vMkswUEhXWU5lUUllQnJ3cEo1VWtqbUMzX2owREo4MnNmNV9Ja210eHY2SWtZMkp2RkxIQTdybko5VnVxUUVoYnlYeTJQQW9kd0ZkVXdJcEc3VXcweWFrUTZvZkctYnNMY3Y2WDlR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUlsTVFVZjhsMjF4empJS2hTS25DTkNTWWMtNmFMc2ttc1JCZ3hoWXFRX2MtbWFJNkhCWi1jX2trZXg3eEpHZUtqRk1vMkswUEhXWU5lUUllQnJ3cEo1VWtqbUMzX2owREo4MnNmNV9Ja210eHY2SWtZMkp2RkxIQTdybko5VnVxUUVoYnlYeTJQQW9kd0ZkVXdJcEc3VXcweWFrUTZvZkctYn",
+  "date": "2026-11-03T21:21:42.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "23a7cb0466c67806",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Caterpillar Completes Fabick Cat Acquisition, Names New CEO - Equipment World",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNlFxbGltOHBzRGJUTjAxUms5NUVMeFRrSnBoYzVMSGEyc3h6aktFSDRMb2Q3dVhoekZDTG9HcHJubXZJMU15dG03RUh6ZDF0RlRwb3VXcmZ6dkY3RkFqa2NMS3VPZWowVzl1V1h2U01mb0lCNVNPbFc0M1BSdHFlUnpkTHNYTnRTYU8zMFBwMTZlaEYyc1B1VWhGNTQzRnQ3bVY4d3gxbllTazM0cmtr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNlFxbGltOHBzRGJUTjAxUms5NUVMeFRrSnBoYzVMSGEyc3h6aktFSDRMb2Q3dVhoekZDTG9HcHJubXZJMU15dG03RUh6ZDF0RlRwb3VXcmZ6dkY3RkFqa2NMS3VPZWowVzl1V1h2U01mb0lCNVNPbFc0M1BSdHFlUnpkTHNYTnRTYU8zMFBwMTZlaEYyc1B1VWhGNTQzRnQ3bVY4d3gxbllTaz",
+  "date": "2026-11-03T21:16:16.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "0de64172a13a0815",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Balcones Canyonlands Preserve to expand with 6.89-acre acquisition in Northwest Austin - Community Impact Newspaper",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU0VLMi1UQkZXMnRJVnpUNjd4Y2lYTFZyTGdickNWMEdEYllaRjNtTFNDelVUcmlNZHhwM2RtUW1ETGNpZmNmMnhnb3liNjRXNXc4ckhOV19tOEFHU0FwSkNMVmJ5MlBXVl9xTmpfZklUSU5jNTZUTUVmZ2g5NEVIc3FYZVc5dGlhdVdiakhPTjlCcC1zd0pzWjlLUlJ3QmdlbTVUZjU2ZUdIMTdMOTI1Q2NkdVlBemRPUG9jRUkxYTdPM1pIb1ZQRDBvVVk3S1Eta2h1LUlzdExlTHc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU0VLMi1UQkZXMnRJVnpUNjd4Y2lYTFZyTGdickNWMEdEYllaRjNtTFNDelVUcmlNZHhwM2RtUW1ETGNpZmNmMnhnb3liNjRXNXc4ckhOV19tOEFHU0FwSkNMVmJ5MlBXVl9xTmpfZklUSU5jNTZUTUVmZ2g5NEVIc3FYZVc5dGlhdVdiakhPTjlCcC1zd0pzWjlLUlJ3QmdlbTVUZjU2ZUdIMT",
+  "date": "2026-11-03T21:14:59.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "3ee4f92e6f61ec26",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "People: Jamere Jackson named next FedEx CFO - Cargo Facts",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUVJWXpwQXJMSVFBT1NHQTItWEpfR3ZmMFpKWXhnSEdjdUpGa19YV3RIWC1RSE4waUhFTGZ0ZTdUbGtSejNscEF3SmJFQ1pNbDZYYUFBVndyMWJiTnlqVkpwY0NNSFA1LUlscmxpU3dMaWVkWFhwODVsWG5WbVFLaw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUVJWXpwQXJMSVFBT1NHQTItWEpfR3ZmMFpKWXhnSEdjdUpGa19YV3RIWC1RSE4waUhFTGZ0ZTdUbGtSejNscEF3SmJFQ1pNbDZYYUFBVndyMWJiTnlqVkpwY0NNSFA1LUlscmxpU3dMaWVkWFhwODVsWG5WbVFLaw?oc=5\" target=\"_blank\">People: Jamere Jackson named next",
+  "date": "2026-11-03T21:14:35.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "9210858c63087208",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Sterling Infrastructure (STRL) CEO Maps Out Acquisition Push To Expand Capacity - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSUZwcDQ3MUlvYldmZDZVR1NNb0ZxVVp2UWdxTGlwRGhwUmw3WGl0SDF6bmhBYm4xVFB4MVBPVlVSdXl0SjNLSHlpSHJHcHNub3FScjJqN19mVi1sblZCeWwxa1JnNFdNb2FoTGxWSlhKQnBYUWlnLUoxYVVOcnFMdVBQN2Y2amtnYktaQ2tZY19nVnBvMUxoWjJ0QUluXzVOOUhGbg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSUZwcDQ3MUlvYldmZDZVR1NNb0ZxVVp2UWdxTGlwRGhwUmw3WGl0SDF6bmhBYm4xVFB4MVBPVlVSdXl0SjNLSHlpSHJHcHNub3FScjJqN19mVi1sblZCeWwxa1JnNFdNb2FoTGxWSlhKQnBYUWlnLUoxYVVOcnFMdVBQN2Y2amtnYktaQ2tZY19nVnBvMUxoWjJ0QUluXzVOOUhGbg?oc=5\" t",
+  "date": "2026-11-03T21:10:07.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "501522ba21d85b32",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Alphabet's Free Cash Flow Just Turned Negative. Should Investors Sell the Stock Now? - The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblQtLVJTcUsya2hmb0pVNDlpQldMMDhOQXYyRm9GSkI4VkREbTU4QlhWVjNtcmIwWWxyeTA0NjlHZFhrTzFxemxZQmtRSXZ2NkFGSnM3YTBjMWN4cG9Jb1hwS2JwT1Y2aGxISHlFcjR1OHhCRy1MaWhqcGpGazk0aVpoZ04zQzRxTHExOXBQbUxQZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOblQtLVJTcUsya2hmb0pVNDlpQldMMDhOQXYyRm9GSkI4VkREbTU4QlhWVjNtcmIwWWxyeTA0NjlHZFhrTzFxemxZQmtRSXZ2NkFGSnM3YTBjMWN4cG9Jb1hwS2JwT1Y2aGxISHlFcjR1OHhCRy1MaWhqcGpGazk0aVpoZ04zQzRxTHExOXBQbUxQZw?oc=5\" target=\"_blank\">Alphabet'",
+  "date": "2026-11-03T21:09:00.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "6056155d80cca48e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Analog Devices Completes Acquisition of Alif Semiconductor - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWdENHVueEpuVU1nRkp4Mk1GTTlnVnFwMzdDY3I3OXM1SlRHU2NJMWtkSXgwcHROOUJhQldDbV9xMjVlZ1VsZjBQb1h2MmFNMDcyVXYzVkkwU2FYMDJDMmpPNGg5b0dFOHc3THptMXJ3MUNzeFNNRjJfdHh5T1BVd2JQcVJUc0phSkNMLTAwUGxlbzMxaVNaTWNJRDJJWU1LZTcxTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWdENHVueEpuVU1nRkp4Mk1GTTlnVnFwMzdDY3I3OXM1SlRHU2NJMWtkSXgwcHROOUJhQldDbV9xMjVlZ1VsZjBQb1h2MmFNMDcyVXYzVkkwU2FYMDJDMmpPNGg5b0dFOHc3THptMXJ3MUNzeFNNRjJfdHh5T1BVd2JQcVJUc0phSkNMLTAwUGxlbzMxaVNaTWNJRDJJWU1LZTcxTQ?oc=5\" t",
+  "date": "2026-11-03T21:05:00.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
   "id": "ab1a304d3bc56b68",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -33,6 +209,17 @@
   "fromCloud": "2026-11-03T2103.json"
  },
  {
+  "id": "79c8ade482fce57a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Amdocs Enters the Insurance Industry Through the Acquisition of EIS, Opening a Strategic Growth Opportunity - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeENINUFuR2MzTkNZRjRpeXdGUFBwYWdtRDNFQWpvbmNxWkxuNHlEaHltRzJfVTRXQnduWEwzWnhyLUk1eFFJbHN4dGxNb09aT01PcEh0RzIyVUtlT01IZ1ZaUWp5ZE1WSkxPVUNEcEVxRVFOU0dvVl9KNVRFeTljY2VlQUhHcFItUWxsYzVGcmg3VXNuRDVWVmVobnJZSXFSYjQ1TXhFNEdqWWZh?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPeENINUFuR2MzTkNZRjRpeXdGUFBwYWdtRDNFQWpvbmNxWkxuNHlEaHltRzJfVTRXQnduWEwzWnhyLUk1eFFJbHN4dGxNb09aT01PcEh0RzIyVUtlT01IZ1ZaUWp5ZE1WSkxPVUNEcEVxRVFOU0dvVl9KNVRFeTljY2VlQUhHcFItUWxsYzVGcmg3VXNuRDVWVmVobnJZSXFSYjQ1TXhFNEdqWW",
+  "date": "2026-11-03T21:02:00.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
   "id": "a7525a34a1c6394b",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -42,6 +229,17 @@
   "date": "2026-11-03T21:01:34.000Z",
   "fetched": "2026-11-03T21:03:21.294Z",
   "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "10eb0f2e17c0d8f3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BHAV Acquisition Corp II prices $100M SPAC IPO, trimmed from $150M - Dealroom",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWtUd09yNi1rVmdfUi03NHhFZWxyMXZQUVp5OWIyU2lUNVFfQWlJQ1JNakdQVUVYNTAxT2pNaHZLOGZIQTZ5Ym1EblNQeW9CVUNHb05SdVhaUDZ6RVZQWXF3Z0VZUjFCZzVybVRVWDZhMFFranptalYwQXg2aDNtZnZDYTVmSWpncGVwU1lOMmJNdlRPcWhzdTFYS2poUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYWtUd09yNi1rVmdfUi03NHhFZWxyMXZQUVp5OWIyU2lUNVFfQWlJQ1JNakdQVUVYNTAxT2pNaHZLOGZIQTZ5Ym1EblNQeW9CVUNHb05SdVhaUDZ6RVZQWXF3Z0VZUjFCZzVybVRVWDZhMFFranptalYwQXg2aDNtZnZDYTVmSWpncGVwU1lOMmJNdlRPcWhzdTFYS2poUQ?oc=5\" target=\"_",
+  "date": "2026-11-03T21:01:34.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
  },
  {
   "id": "81a146c8b00ae30d",
@@ -88,6 +286,17 @@
   "fromCloud": "2026-11-03T2103.json"
  },
  {
+  "id": "2a723f9d0c93dfaa",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Candidates in Florida CFO race on the campaign trail - Daytona Beach News-Journal",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcUJ6akJkaGh3ckt1OXVTNHdJdGRTZ2gtRU1ORWN6RG9rMkRBUnQzUWR4dlBtOGtVWWhnUDV1OEdKLXVYeWpsOGlMUElQdTFCWFpBWlZfeHJ6UWhSUzk3dTBla1N3Ym1qaDZ6MEhnSFhkWXJoRTRoNEtzVVRjeThScjZnT09UOWN3NXhuNVJ2OTYzUTRxWjg5TEllNnFxWTg4YXVJSVhIekx3Sjk2SEp2bVhfNkZhQldsdTBINVdFVjFCUHJwcjRaWGJ1d2lCV0puLUNrcQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcUJ6akJkaGh3ckt1OXVTNHdJdGRTZ2gtRU1ORWN6RG9rMkRBUnQzUWR4dlBtOGtVWWhnUDV1OEdKLXVYeWpsOGlMUElQdTFCWFpBWlZfeHJ6UWhSUzk3dTBla1N3Ym1qaDZ6MEhnSFhkWXJoRTRoNEtzVVRjeThScjZnT09UOWN3NXhuNVJ2OTYzUTRxWjg5TEllNnFxWTg4YXVJSVhIekx3Sj",
+  "date": "2026-11-03T21:00:00.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
   "id": "357cae772fa3feea",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -119,6 +328,28 @@
   "date": "2026-11-03T20:48:59.000Z",
   "fetched": "2026-11-03T21:03:21.294Z",
   "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "3e0cf0333a33acb1",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "SEC approves easing of audit quality controls as endorsed by Big Four",
+  "link": "https://www.cfodive.com/news/sec-approves-easing-audit-quality-controls-endorsed-big-four-atkins-ey-pwc-deloitte-kpmg/873643/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/wHIjk1ryNT5sPMSda1WJKOv_2d-ALGDp7sCFJGVZR_E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWTZSWUguanBn.webp\"/></div></figure><p>The amended rules align with efforts by SEC Chair Paul Atkins to streamline co",
+  "date": "2026-11-03T20:45:31.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "635503b795176e46",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Revolve Completes Acquisition of Three Project, 6 MW Battery Storage Portfolio in Ontario - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTmI1Y1RNNTNIX1ZnUXR3S2kxSzJEUzhWUWxRSzEzM05MMGV4Y3NacEFVQTFnNU00clpTWnItUUpWX0h6ZF9BZE4xT1hZam5XX2JOcjdEU3hyVS10bW5hRV9fa0RZT2U3UmdxTW40R2FJWmg2R0R1RHEtSjdGUTJqdTVPa3dPS2RQVDBNT0dONVpYQllrRldPaFRyMDVKOGpVUUhTTDhYbFY1eFc4QnBmTkctcE40MnN1dFBhekFQM3BkVVgxYWFBY2NOdi1JMVFFZXpJOTFGVkwzSlo1SEotd25B?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTmI1Y1RNNTNIX1ZnUXR3S2kxSzJEUzhWUWxRSzEzM05MMGV4Y3NacEFVQTFnNU00clpTWnItUUpWX0h6ZF9BZE4xT1hZam5XX2JOcjdEU3hyVS10bW5hRV9fa0RZT2U3UmdxTW40R2FJWmg2R0R1RHEtSjdGUTJqdTVPa3dPS2RQVDBNT0dONVpYQllrRldPaFRyMDVKOGpVUUhTTDhYbFY1eF",
+  "date": "2026-11-03T20:45:00.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
  },
  {
   "id": "9d6aef1982cbd81e",
@@ -174,6 +405,39 @@
   "date": "2026-11-03T20:18:04.000Z",
   "fetched": "2026-11-03T21:03:21.294Z",
   "fromCloud": "2026-11-03T2103.json"
+ },
+ {
+  "id": "8acdd6619b98881b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Eyeonix AIQ to Issue 30.6 Million Shares for Proposed COMMAND HEALGRID Acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR0JYQWpldFcwZWxNUS1QVUxsOFhpM2o3QWgydXRqQ0ZxSjk0cFRLWll4Y1ZNVlJta1ZWRFBPNkRXN3k3Q2JfSDNSM3Z4cF9zckl5NG9aNWNacGdHaGc2NjBNQ0h0MXBubjRqWFJDYkRnbjR2cUlTMUFGWDllckl6WVA5SXByUmphVTZ0U1h6cnhvWWI1Ulp2emZSSURnd2Rjd1NaSGU0M2pCemxGVS1pczBQU2lYSS1TOXMxZEM4VVNCMjdjRjhhMWdsd1ZpODEydXpTMF9hWUVIR0Nx?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR0JYQWpldFcwZWxNUS1QVUxsOFhpM2o3QWgydXRqQ0ZxSjk0cFRLWll4Y1ZNVlJta1ZWRFBPNkRXN3k3Q2JfSDNSM3Z4cF9zckl5NG9aNWNacGdHaGc2NjBNQ0h0MXBubjRqWFJDYkRnbjR2cUlTMUFGWDllckl6WVA5SXByUmphVTZ0U1h6cnhvWWI1Ulp2emZSSURnd2Rjd1NaSGU0M2pCem",
+  "date": "2026-11-03T20:13:01.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "330cefb43a03365d",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "דלפין - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrM2F3TXZRVkg0SHA4aHdEWTlpTS0zZkJONk8yUW9tMm11a21VMVdmakduRUZMallIaWFScUtzS2VMczk4b05JTWFMVFZ4d0VTWUxZUFdEd3pLYmE4QzQwZUlTWmJOY3JKemFOVXNGNUk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBrM2F3TXZRVkg0SHA4aHdEWTlpTS0zZkJONk8yUW9tMm11a21VMVdmakduRUZMallIaWFScUtzS2VMczk4b05JTWFMVFZ4d0VTWUxZUFdEd3pLYmE4QzQwZUlTWmJOY3JKemFOVXNGNUk?oc=5\" target=\"_blank\">דלפין</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Calcalist</fo",
+  "date": "2026-11-03T20:11:01.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
+  "id": "0fe5b82a32f07599",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "מיכאל סטרנד - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTlyWWlBSGNSTG9ZR1ZicVg5a3lqcl9OT25ianpQYWRwNHhheDRDd3ZTanJoNnRKNy1YMGk0YTVCNncyNEFQMWdQQ0pJZVBRSV9zWFJWZFdaQ0ZvQTBXUmM0TWg2NlltX0ZPV0NxeTFjVE5lX0ZVYnY1SkJGclFRM1g4VkptakxaX2FTWXVSbjd6ZWlkNGh0bXhR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTlyWWlBSGNSTG9ZR1ZicVg5a3lqcl9OT25ianpQYWRwNHhheDRDd3ZTanJoNnRKNy1YMGk0YTVCNncyNEFQMWdQQ0pJZVBRSV9zWFJWZFdaQ0ZvQTBXUmM0TWg2NlltX0ZPV0NxeTFjVE5lX0ZVYnY1SkJGclFRM1g4VkptakxaX2FTWXVSbjd6ZWlkNGh0bXhR?oc=5\" target=\"_blank\"",
+  "date": "2026-11-03T20:11:01.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
  },
  {
   "id": "4b14c1a647b64309",
@@ -240,6 +504,17 @@
   "date": "2026-11-03T19:46:00.000Z",
   "fetched": "2026-11-03T20:33:29.755Z",
   "fromCloud": "2026-11-03T2033.json"
+ },
+ {
+  "id": "e0b8b13df12dd876",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Strengthening acquisition, research efforts will support warfighter readiness and military healthcare services - DVIDS",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMFJMNEs0RkZJdVpXajAyM1RXMWtRT2did1lTZ05mM3dpeVE4TkpjU1M3VTlhZDFfMDg5YWo1UUpaaTFpcTl1TVh6d21uQ1pPYnAyTWpUYm1Oek50ZF9yNHljazV4RlB5T19TWWFiOGRHRWVCTjE1ZDR4cFFoR0hFYjdVYVhHaHI5VjlkdU9jaU9zaUVpYXl6RFY2N0ZPZjFpWUJycnlrUGhwdEN1Z3REZEhKQnZ5MWZnaGlNWXZGSG1sNUppRzdYR01QWXhzYWhKRDZYSnVoNnhpcldhM2x3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMFJMNEs0RkZJdVpXajAyM1RXMWtRT2did1lTZ05mM3dpeVE4TkpjU1M3VTlhZDFfMDg5YWo1UUpaaTFpcTl1TVh6d21uQ1pPYnAyTWpUYm1Oek50ZF9yNHljazV4RlB5T19TWWFiOGRHRWVCTjE1ZDR4cFFoR0hFYjdVYVhHaHI5VjlkdU9jaU9zaUVpYXl6RFY2N0ZPZjFpWUJycnlrUGhwdE",
+  "date": "2026-11-03T19:44:00.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
  },
  {
   "id": "822ccb1223ae0bd8",
@@ -1045,6 +1320,17 @@
   "fromCloud": "2026-11-03T1733.json"
  },
  {
+  "id": "b811c95e055975f7",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "קראודסטרייק רוכשת שתי חברות לאבטחת AI בכ-495 מיליון דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MSmxvM0ZHd0hZekw5aWpRWkVOc184SG10WTR2eEN4VW9YVGVLamtjOEphTjFTVXRRejdMMGE4S2hUaURWV0UzdHF4UUJWeUt0Y1NWUTl5RDl2XzRPb1JsNnRPU0J6RG1fMGUtUDNselk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1MSmxvM0ZHd0hZekw5aWpRWkVOc184SG10WTR2eEN4VW9YVGVLamtjOEphTjFTVXRRejdMMGE4S2hUaURWV0UzdHF4UUJWeUt0Y1NWUTl5RDl2XzRPb1JsNnRPU0J6RG1fMGUtUDNselk?oc=5\" target=\"_blank\">קראודסטרייק רוכשת שתי חברות לאבטחת AI בכ-495 מיליון דולר",
+  "date": "2026-11-03T17:30:00.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
   "id": "09e095d9f8307af2",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -1491,6 +1777,17 @@
   "date": "2026-11-03T17:00:00.000Z",
   "fetched": "2026-11-03T17:03:17.228Z",
   "fromCloud": "2026-11-03T1703.json"
+ },
+ {
+  "id": "2f916424899fb73c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "GHD strengthens building engineering presence in Quebec with acquisition of ÉQIP Solutions Experts-Conseils - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYjBBdzBmRENaanZyOGs1dlBVM2drUFVrcGsyanowdVk3alZ5Uk1zV0hMMUppekUtYm1iMTN6QkZGa2NfZHByOWR3d1laUnh5c2swakVfNlgtOGlMQ1UzOHdyeHRvTmNwSlRzQ3FDcVJzVXVrYWwtSnBCWmNMbEtXVU1kX3lVc1VTU21pWVpZdHplWFFPbUtHaGpBcktEakllS0VuTzRtaHR4U2c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYjBBdzBmRENaanZyOGs1dlBVM2drUFVrcGsyanowdVk3alZ5Uk1zV0hMMUppekUtYm1iMTN6QkZGa2NfZHByOWR3d1laUnh5c2swakVfNlgtOGlMQ1UzOHdyeHRvTmNwSlRzQ3FDcVJzVXVrYWwtSnBCWmNMbEtXVU1kX3lVc1VTU21pWVpZdHplWFFPbUtHaGpBcktEakllS0VuTzRtaHR4U2",
+  "date": "2026-11-03T17:00:00.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
  },
  {
   "id": "781e33c02dba8f47",
@@ -1966,6 +2263,17 @@
   "date": "2026-11-03T16:27:03.000Z",
   "fetched": "2026-11-03T16:33:14.725Z",
   "fromCloud": "2026-11-03T1633.json"
+ },
+ {
+  "id": "9027c826525e7f8c",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שותפיו של מהרן פרוזנפר בסוכנות ביטוח כושלת טוענים שהוא מקפח אותם - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OUS04bDlrbTZqYi1sRmpuc1F0V09ENkppY1U0OGQ2Ry1fdk13SmljR2ZBLWdJa3B0cEI5eDBqeEJBWG85SndlVHdSRDZjT3k1c3BGXzVOcW1selJMOU5VOHdXZkZJdDA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OUS04bDlrbTZqYi1sRmpuc1F0V09ENkppY1U0OGQ2Ry1fdk13SmljR2ZBLWdJa3B0cEI5eDBqeEJBWG85SndlVHdSRDZjT3k1c3BGXzVOcW1selJMOU5VOHdXZkZJdDA?oc=5\" target=\"_blank\">שותפיו של מהרן פרוזנפר בסוכנות ביטוח כושלת טוענים שהוא מקפח אותם</a>",
+  "date": "2026-11-03T16:27:00.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
  },
  {
   "id": "45c09339770264cd",
@@ -5450,6 +5758,17 @@
   "id": "0c73f2e7eb7551dc"
  },
  {
+  "id": "f2c1b2fcdbd643f3",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "What Weil Gotshal teaches us about how law firms die",
+  "link": "https://www.ft.com/content/958c09b7-bebf-4322-9c11-c2ec5b0eed73",
+  "summary": "When partners start leaving to earn more money elsewhere, collapse becomes inevitable",
+  "date": "2026-11-03T11:00:07.000Z",
+  "fetched": "2026-11-03T21:33:26.767Z",
+  "fromCloud": "2026-11-03T2133.json"
+ },
+ {
   "source": "Google News – CFO / M&A",
   "group": "cfo",
   "title": "Rising Dragon Acquisition Corp. and HZJL Cayman Limited Announce Mutual Termination of Merger Agreement - Yahoo Finance",
@@ -7179,50 +7498,5 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE54alJGRi1YR0hwZ21DdUFXMVZ0aHFtZlpIZnRic0tZTU5ZVFUzSlIySzdQM3IwRl9aRmZPdGpGY0hmNHVXczFkR1FZeWZ1R0FQWFVJWXRmMFZWM244eW5laVU2TQ?oc=5\" target=\"_blank\">הדו\"חות הראשונים בתקופת טרנוס: אפל עקפה את תחזית ההכנסות והרווח</a>&nbsp;",
   "date": "2026-11-02T21:36:00.000Z",
   "id": "c9d9add59e08f531"
- },
- {
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "עומר אדם וארומה מיוזיק רוכשים כ-40% מזאפה - שוק ההון - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEh0MWJhdkx6R0ZyX0hOZFlvenRuRERBWW9ENm5zV0RScFpQQ3A4YU5zNlI2WkVpUXpzb3I2ZjhrZVJ1cUhPcnRVaF94ZVp5UzVkbHdwNmpuaG1UUjZVWlZsblZxZlh6Mk40VWNRX1FwY1FNLVhoSTJsV2JyWGQ0THFZRHZneHRCQk5KdkF3ZVJjZWVTMzRJ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEh0MWJhdkx6R0ZyX0hOZFlvenRuRERBWW9ENm5zV0RScFpQQ3A4YU5zNlI2WkVpUXpzb3I2ZjhrZVJ1cUhPcnRVaF94ZVp5UzVkbHdwNmpuaG1UUjZVWlZsblZxZlh6Mk40VWNRX1FwY1FNLVhoSTJsV2JyWGQ0THFZRHZneHRCQk5KdkF3ZVJjZWVTMzRJ?oc=5\" target=\"_blank\">עומ",
-  "date": "2026-11-02T21:14:00.000Z",
-  "id": "1bfa860086329175"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מארק וולטר מוכר עוד נכס ספורט: קבוצת קאדילק בפורמולה 1 מוצעת לפי שווי של 3 מיליארד דולר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtM3lpUk9mTTdsM3VQQXFOdzZnS3FmR1A3dUgwYnk2b2NVdXN3NWFQdUN1Mll6OV9ndmRhM1lOX3N1ZE16M1g1SHc5azV4VW1JV3E2eUE1OHFYN0FFTHRkQUNLMmo0LUY4TUFOMGFhT1M?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAtM3lpUk9mTTdsM3VQQXFOdzZnS3FmR1A3dUgwYnk2b2NVdXN3NWFQdUN1Mll6OV9ndmRhM1lOX3N1ZE16M1g1SHc5azV4VW1JV3E2eUE1OHFYN0FFTHRkQUNLMmo0LUY4TUFOMGFhT1M?oc=5\" target=\"_blank\">מארק וולטר מוכר עוד נכס ספורט: קבוצת קאדילק בפורמולה 1 מ",
-  "date": "2026-11-02T21:11:00.000Z",
-  "id": "7b4f701d8f62b141"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הניו יורק טיימס תובע את בריב: \"מכרה תוכן גנוב לחברות ה-AI\" - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oQWtudUk0eDRtWmYyU09NWW91VWhKMFJJOGlCRWNhdFJnZHNoNFFUbjRhNVEtOVNTTG9hbWxibEszMWt6bkpLMm94OFBHdU04b1cxX2I1Ynh3TTcwbXJKZHdQRnVELUk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oQWtudUk0eDRtWmYyU09NWW91VWhKMFJJOGlCRWNhdFJnZHNoNFFUbjRhNVEtOVNTTG9hbWxibEszMWt6bkpLMm94OFBHdU04b1cxX2I1Ynh3TTcwbXJKZHdQRnVELUk?oc=5\" target=\"_blank\">הניו יורק טיימס תובע את בריב: \"מכרה תוכן גנוב לחברות ה-AI\"</a>&nbsp;",
-  "date": "2026-11-02T21:10:00.000Z",
-  "id": "fc66ba4ec0f5c7ee"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "קרן פרייבט אקוויטי מניו יורק קונה את השליטה בטיילורמד לפי שווי של כ-250 מיליון דולר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDaFA4eEUxSkFYNVhjSk5hX0Q1WUVJY0xZVFpzT210NDF6QTZKZzZMVm0tcU1OZGFPVGlVRXVlczJNbjNYTnpDVFAtbTl4dEktWmIyWWdvelpIamp5Y0xLOTlUd0tvYzA4?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDaFA4eEUxSkFYNVhjSk5hX0Q1WUVJY0xZVFpzT210NDF6QTZKZzZMVm0tcU1OZGFPVGlVRXVlczJNbjNYTnpDVFAtbTl4dEktWmIyWWdvelpIamp5Y0xLOTlUd0tvYzA4?oc=5\" target=\"_blank\">קרן פרייבט אקוויטי מניו יורק קונה את השליטה בטיילורמד לפי שווי של כ",
-  "date": "2026-11-02T21:09:00.000Z",
-  "id": "22e6f6bd630dc7cd"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פלנטיר שוב עקפה את הציפיות: ההכנסות כמעט הוכפלו - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PS1VWcU9uQXMxRnBPdEZhemc1WldqVHIwOUFKa3lrNnRWeXRIYVhJRWtZLXVoNFFxV0RrNUxKMkVqUW10NnNiS09KODBhUmRyVlVlOXd6ZjMzUW9uSlhRYkxiaVlCZ1B2ODh6YnVmbEQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1PS1VWcU9uQXMxRnBPdEZhemc1WldqVHIwOUFKa3lrNnRWeXRIYVhJRWtZLXVoNFFxV0RrNUxKMkVqUW10NnNiS09KODBhUmRyVlVlOXd6ZjMzUW9uSlhRYkxiaVlCZ1B2ODh6YnVmbEQ?oc=5\" target=\"_blank\">פלנטיר שוב עקפה את הציפיות: ההכנסות כמעט הוכפלו</a>&nbsp",
-  "date": "2026-11-02T21:05:00.000Z",
-  "id": "a047afe1a6cc6951"
  }
 ]
