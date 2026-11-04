@@ -3841,5 +3841,54 @@
   "first": 1793767599457,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "OpenAI | Grid Protectors Program — הפחתת צריכת חשמל מרכזי נתונים בשעות שיא | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793768811679,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | ביטול סיוע ביטחוני אמריקאי — ניתוח השלכות על תעשיית הביטחון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793768811679,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טראמפ–ישראל | הפסקת סיוע ביטחוני 3.8 מיליארד דולר — הודעה רשמית | נובמבר 2026",
+  "level": "red",
+  "first": 1793769124782,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "קראודסטרייק | רכישת Fiddler ו-Dreadnode ב-495 מיליון דולר — אבטחת AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793769124782,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הייטק | ירידות מניות טק — השפעה על מנמ״רים ורכש IT | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793769124782,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנלייט | מנכ״לית מסמנת חוות שרתים כיעד הבא — מחבת חשמל לתשתית AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793769294470,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנדרואיד | עדכון נובמבר 2026 — תיקון 200+ פגיעויות כולל RCE קריטי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793769435398,
+  "sentLive": false,
+  "candidate": true
  }
 ]
