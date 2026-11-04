@@ -1,5 +1,126 @@
 [
  {
+  "id": "4a84c345d9907d95",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - PHIBRO ANIMAL HEALTH CORP (0001069899) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1069899/000110465926122727/0001104659-26-122727-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0001104659-26-122727 <b>Size:</b> 666 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 5.07: Submission of Matters to a Vote of Security Holders <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-04T21:31:19.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "1e0931d595c5bb41",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Cohen & Steers Income Opportunities REIT, Inc. (0001939433) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1939433/000193943326000177/0001939433-26-000177-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0001939433-26-000177 <b>Size:</b> 136 KB <br>Item 3.02: Unregistered Sales of Equity Securities",
+  "date": "2026-11-04T21:30:51.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "7f83cfc55fc83ca2",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "atNorth signs deal with Calentix for heat reuse at SWE04 data center in Sollefteå, Sweden",
+  "link": "https://www.datacenterdynamics.com/en/news/atnorth-signs-deal-with-calentix-for-heat-reuse-at-swe04-data-center-in-sollefte%C3%A5-sweden/",
+  "summary": "<p data-block-key=\"7yfxx\">First delivery of heat expected in 2029</p>",
+  "date": "2026-11-04T21:30:35.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "8c748b82d4287ab6",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - MAGNACHIP SEMICONDUCTOR Corp (0001325702) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1325702/000119312526447409/0001193125-26-447409-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0001193125-26-447409 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-04T21:30:16.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "ab90c24635abd074",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Jefferies Credit Partners BDC Inc. (0001959604) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1959604/000119312526447392/0001193125-26-447392-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0001193125-26-447392 <b>Size:</b> 170 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-04T21:30:15.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "6ab7a3263d3497fe",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Construction Partners, Inc. Completes Georgia Acquisition - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYVBWdHkyYTZ1RnZXTEp5aW1xQjNrenYzeDZPUXh0S3JLMGFyNzJ4T3J0V2N5U0x4Y0dTOENlTXllcGZ1UkxSV1VFX0J4MTVJRGlfUGoxR24wX2paTDlta1hUZjFqZjFLUUhuSk9BMExxbUR1N0JrTW14YjcyV1cyZm94S2h2LWxlVGVpcnNRSnFGcDd0akp0ZkhIbVk2LUU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYVBWdHkyYTZ1RnZXTEp5aW1xQjNrenYzeDZPUXh0S3JLMGFyNzJ4T3J0V2N5U0x4Y0dTOENlTXllcGZ1UkxSV1VFX0J4MTVJRGlfUGoxR24wX2paTDlta1hUZjFqZjFLUUhuSk9BMExxbUR1N0JrTW14YjcyV1cyZm94S2h2LWxlVGVpcnNRSnFGcDd0akp0ZkhIbVk2LUU?oc=5\" target=\"",
+  "date": "2026-11-04T21:28:23.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "037fd106fb394940",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "400 מיליון דולר: ההופעות, הבשמים והנדל\"ן של ג'ניפר לופז - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tcTV5Y0J2VGtPRHJOanpOdjJVS0xVdDRHYU81TktoZGFsRV9xRWNiUG5qTzAwaTRxSlFQWTFYNU9YaEpoNWI2dkJYTWpadVYzSjh5bHRBb3Y5ZUtLVkZLb1g2WEVUQ3hxQ0xMdmNtdkE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1tcTV5Y0J2VGtPRHJOanpOdjJVS0xVdDRHYU81TktoZGFsRV9xRWNiUG5qTzAwaTRxSlFQWTFYNU9YaEpoNWI2dkJYTWpadVYzSjh5bHRBb3Y5ZUtLVkZLb1g2WEVUQ3hxQ0xMdmNtdkE?oc=5\" target=\"_blank\">400 מיליון דולר: ההופעות, הבשמים והנדל\"ן של ג'ניפר לופז<",
+  "date": "2026-11-04T21:27:00.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "f481a4d76c4fb7f5",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "התחזית של בוקינג לרבעון הרביעי מתחת לצפי, אז למה המניה מזנקת בכ-10% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40ajE2MEt1MGxZOWJ3RjlwaXR0UzVObU5RWWR5ZTlzUE5Sanpnc0V4bGlrNS1rNzhKWlhPb1RFWE9mMkRnLVpwcEg1NnZqMTNUdnc0eDg2dmNHODk4LWFsRFk3WVRBdlE5WGtGTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE40ajE2MEt1MGxZOWJ3RjlwaXR0UzVObU5RWWR5ZTlzUE5Sanpnc0V4bGlrNS1rNzhKWlhPb1RFWE9mMkRnLVpwcEg1NnZqMTNUdnc0eDg2dmNHODk4LWFsRFk3WVRBdlE5WGtGTQ?oc=5\" target=\"_blank\">התחזית של בוקינג לרבעון הרביעי מתחת לצפי, אז למה המניה מזנקת ",
+  "date": "2026-11-04T21:26:00.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "5884f3a9b50e1e86",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Dronamics to Go Public Through Business Combination with GP-Act III Acquisition Corp - sUAS News",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWVLRGxoTzREQ1prZncxcDJEZW5VY1RaYWVfM001UlFmS1RWbXZBQTdBLTNNYTUyT0cyNmJXLXBqQVpNTTk0T0dZaWo2MDhhX3p3dUVpc0ZFc1RMZjVoQTJwMUhNUVd5eE9ZX2tUX3JGb1RiTHNpOXExZDlxeTZWcEVyblJoNTlyejIxeGhEUXJkbUdITVEwdmdRWHNMZkkxa3puX3h1ZEE2bTVlUW5SSnU2OV9VMmJpZVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWVLRGxoTzREQ1prZncxcDJEZW5VY1RaYWVfM001UlFmS1RWbXZBQTdBLTNNYTUyT0cyNmJXLXBqQVpNTTk0T0dZaWo2MDhhX3p3dUVpc0ZFc1RMZjVoQTJwMUhNUVd5eE9ZX2tUX3JGb1RiTHNpOXExZDlxeTZWcEVyblJoNTlyejIxeGhEUXJkbUdITVEwdmdRWHNMZkkxa3puX3h1ZEE2bT",
+  "date": "2026-11-04T21:09:35.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "f1011b98799be210",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+  "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
+  "summary": "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
+  "date": "2026-11-04T21:06:02.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "df084ed83dafd750",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "הסטארט-אפ האוסטרלי שמפטר עובדים - וממשיך לשלם להם משכורת - calcalist",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1va2NtNXZsaEFza242OHAyUVg5R0dMVWN3bDNBTm12QTBwYU9Fb3MyaTVfOXVUTjZ1Y280WkN5NUMyVG01R0lvSjhRejJnLUZicng3NHNDNEFkb3BEXzdoZXd2UUtfTDRZRXZ3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1va2NtNXZsaEFza242OHAyUVg5R0dMVWN3bDNBTm12QTBwYU9Fb3MyaTVfOXVUTjZ1Y280WkN5NUMyVG01R0lvSjhRejJnLUZicng3NHNDNEFkb3BEXzdoZXd2UUtfTDRZRXZ3?oc=5\" target=\"_blank\">הסטארט-אפ האוסטרלי שמפטר עובדים - וממשיך לשלם להם משכורת</a>&nb",
+  "date": "2026-11-04T21:04:00.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
   "id": "557965da4eb37c1b",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -77,6 +198,39 @@
   "fromCloud": "2026-11-04T2103.json"
  },
  {
+  "id": "35145577340f8b9c",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "AWS set to secure £1.05bn contract renewal from UK Home Office",
+  "link": "https://www.datacenterdynamics.com/en/news/aws-set-to-secure-105bn-contract-renewal-from-uk-home-office/",
+  "summary": "<p data-block-key=\"m4dge\">BidSkim analysis finds £444.6m spent on AWS since 2020</p>",
+  "date": "2026-11-04T21:00:39.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "03186e704673a32d",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump",
+  "link": "https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1",
+  "summary": "Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat",
+  "date": "2026-11-04T20:58:24.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
+  "id": "71818b4bea513ceb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Inteplast expands molding operations with ALP acquisition - Plastics News",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZEdNdXF3eHhWbjRzQUZNSG9kRHNKREp5QjdfYkxuYVd2TlVrRW9kdUliSUxPeDN5WUR2RXZSekdjX2xpTHdPdEtOaWc1XzRtck5KLThhRmFXUFJ1bld1aDJuUnpCeWJQNWp1ZGtPTnlnOWdFVGNWdHN2R1YwdWNIZVJQc1hFdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNZEdNdXF3eHhWbjRzQUZNSG9kRHNKREp5QjdfYkxuYVd2TlVrRW9kdUliSUxPeDN5WUR2RXZSekdjX2xpTHdPdEtOaWc1XzRtck5KLThhRmFXUFJ1bld1aDJuUnpCeWJQNWp1ZGtPTnlnOWdFVGNWdHN2R1YwdWNIZVJQc1hFdw?oc=5\" target=\"_blank\">Inteplast expands molding",
+  "date": "2026-11-04T20:57:00.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
   "id": "db31432f2b9780e5",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -121,6 +275,17 @@
   "fromCloud": "2026-11-04T2103.json"
  },
  {
+  "id": "61f58090ee9e521c",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "Services sector growth slows, impeded by tariffs, rising fuel costs: ISM",
+  "link": "https://www.cfodive.com/news/services-sector-growth-slows-impeded-tariffs-rising-fuel-costs-ism-inflation-fed-ai-trump/873799/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/u9aLUOqNg8hbX5ZEKqx8D4Znn5hhWnhP-o07vU8sxQo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA4MTcwNjE0LmpwZw==.webp\"/></div></figure><p>The services industry has faced a one-two punch from i",
+  "date": "2026-11-04T20:42:18.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
   "id": "746dd89cc4f1cefd",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -154,6 +319,17 @@
   "fromCloud": "2026-11-04T2103.json"
  },
  {
+  "id": "765753c630e98608",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "How EY is tackling next-gen talent in the AI age",
+  "link": "https://www.cfodive.com/news/ey-tackling-next-gen-talent-ai-age-accounting/873796/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/fHqmaiVLrkww4vlQx-djFS-stfD57x3uuug6p0Bgz7A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODI3MjkxNDg2LmpwZw==.webp\"/></div></figure><p>As AI takes on routine accounting tasks, mentorship an",
+  "date": "2026-11-04T20:31:06.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
+ },
+ {
   "id": "1ddb4a6dbf76ba76",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -163,6 +339,17 @@
   "date": "2026-11-04T20:30:00.000Z",
   "fetched": "2026-11-04T20:33:13.289Z",
   "fromCloud": "2026-11-04T2033.json"
+ },
+ {
+  "id": "26df0139dfbade3f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CNA Financial EVP & CFO Sold Shares Worth Over $1.1M - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdWxiR1ozcl9kRnlrcmNVeHQ5X3Job3dxNU5yTF95cmxxYWtiUmhQbTdLSVBMSlJrY2FEaU5QYnZWN1dkUnp3Rm5faXhiY0dkemh0NjNoRXlsRFBrUUlRcy1yVXVfZ2dkOWZzanRIMXprMzRHVFJYZHNiZldGM3VsREpvbGtkVDFkaUVUOTZlcGRTeTNOcG1jZUo2QVdoeURRdXBWaXZkc1VMeWo1aUthcw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdWxiR1ozcl9kRnlrcmNVeHQ5X3Job3dxNU5yTF95cmxxYWtiUmhQbTdLSVBMSlJrY2FEaU5QYnZWN1dkUnp3Rm5faXhiY0dkemh0NjNoRXlsRFBrUUlRcy1yVXVfZ2dkOWZzanRIMXprMzRHVFJYZHNiZldGM3VsREpvbGtkVDFkaUVUOTZlcGRTeTNOcG1jZUo2QVdoeURRdXBWaXZkc1VMeW",
+  "date": "2026-11-04T20:30:00.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
  },
  {
   "id": "620240c92a48bb7c",
@@ -273,6 +460,17 @@
   "date": "2026-11-04T19:59:21.000Z",
   "fetched": "2026-11-04T20:33:13.289Z",
   "fromCloud": "2026-11-04T2033.json"
+ },
+ {
+  "id": "1d0a92449334cf87",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Ero Copper raised at Scotiabank as free cash flow inflection gains momentum - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZkNDeHNuQjBJNkRyR1dORDJMRUgxUHhrYkVZdDJvamg1REVaS2ZtX3JIdjhKN1pFTkxJOGlpUVJvME4xMGFmZG45WmtlMV9oaTlSaEQxTEdRWmhOWnYtdURudFNXdkE1Nl91Mksza2YwTE5kb1VGZ2xVTk5Xc0JLNnJRSkZxR2k5NHVQMUZsSUdFMjNrUXowLU5pYTdKQ2tpemlmUVR0bmE1RU9wamRKcUZzRXZXQWR1Rmg3bWFmMGFjVUcwM09sU2dKRHlZVTR2WW5RNw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZkNDeHNuQjBJNkRyR1dORDJMRUgxUHhrYkVZdDJvamg1REVaS2ZtX3JIdjhKN1pFTkxJOGlpUVJvME4xMGFmZG45WmtlMV9oaTlSaEQxTEdRWmhOWnYtdURudFNXdkE1Nl91Mksza2YwTE5kb1VGZ2xVTk5Xc0JLNnJRSkZxR2k5NHVQMUZsSUdFMjNrUXowLU5pYTdKQ2tpemlmUVR0bmE1RU",
+  "date": "2026-11-04T19:59:21.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
  },
  {
   "id": "729869828c8c069e",
@@ -1263,6 +1461,17 @@
   "date": "2026-11-04T16:46:00.000Z",
   "fetched": "2026-11-04T17:03:16.106Z",
   "fromCloud": "2026-11-04T1703.json"
+ },
+ {
+  "id": "10c3cdaf69af98b0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "IonQ Completes $1.15B Acquisition of Elisity to Integrate Zero Trust with Quantum Security - Quantum Computing Report",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcmpLeExJbkFyT3U3eEVneVNDMXRCR042LTZ2TGcyenVVZGFLSU1rbU1lbHowSUN3NGhESXlFcFR3MWx5ZkNrUUR0QzBNbXg4WmhvMU1JTnZjVjBISDhxOHhad0JtTnBBdHAtY0ZUeFg5eWNhQnA5b1hTLWVZSGljWWRSZlNzSk9qcDBOUnFTb0xuTEtNandETEU1RjNRVnpPMWR2dk1OVGpIaGlyM2pONTNqMjRnZ09UNDczU3B4QWhTYknSAcgBQVVfeXFMTUlkUmdTeHlKQm5PQkN5NDllMEd3T0I2al9UdFdnU1A3MjdMZEZZd0VBQnRma3JMU05KaUdJdGowdXZhWWtCTmxJUFdNZjRWbUlQRDZWbmxsVE5PemQzaGE5emZGZThwNHUtM2VJOEJ2M3J6QlVSODZwakNZUzVZUkRKU25OcVRSYk9BcU9rUjFKTmp4bEtRTG9URGJLeExvZkR4MFVURVV0eVpVUDkxMEdoSUVuVzdidnp2OWxUa1Y5ajZqOVZtVVc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcmpLeExJbkFyT3U3eEVneVNDMXRCR042LTZ2TGcyenVVZGFLSU1rbU1lbHowSUN3NGhESXlFcFR3MWx5ZkNrUUR0QzBNbXg4WmhvMU1JTnZjVjBISDhxOHhad0JtTnBBdHAtY0ZUeFg5eWNhQnA5b1hTLWVZSGljWWRSZlNzSk9qcDBOUnFTb0xuTEtNandETEU1RjNRVnpPMWR2dk1OVGpIaG",
+  "date": "2026-11-04T16:45:26.000Z",
+  "fetched": "2026-11-04T21:33:12.476Z",
+  "fromCloud": "2026-11-04T2133.json"
  },
  {
   "id": "0344ec9d8426936a",
