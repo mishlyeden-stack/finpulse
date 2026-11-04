@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "numbers": [
     {
       "key": "cpi",
@@ -16,12 +16,12 @@
     {
       "key": "ta35",
       "label": "מדד ת״א 35",
-      "value": "4,059",
-      "change": "-2.06%",
-      "note": "נעילה 30.10",
+      "value": "4,062",
+      "change": "+0.6%",
+      "note": "נובמבר 2026 (תוך-יומי)",
       "source": "https://il.investing.com/indices/ta25-historical-data",
       "by": "Investing.com / Bloomberg",
-      "asOf": "2026-10-30",
+      "asOf": "2026-11-04",
       "maxAgeDays": 3
     },
     {
