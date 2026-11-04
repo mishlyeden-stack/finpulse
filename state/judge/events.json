@@ -3666,5 +3666,54 @@
   "first": 1793799383921,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "גוש האירו | אינפלציה 4% + העלאת ריבית ECB בדצמבר כמעט בטוחה | נובמבר 2026",
+  "level": "red",
+  "first": 1793803135485,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "מתקפת סייבר קירור | ענקית סופרמרקטים — 250 מיליון אירו נזק + קיצוץ תחזית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793803135485,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AMD | רבעון שיא + תזרים חופשי צנח 64% — צמיחה ללא מזומן | נובמבר 2026",
+  "level": "learn",
+  "first": 1793803135486,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אפקון | כניסה לקירור חוות שרתים — תחרות עם תדיראן | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793803135486,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CFO.com | חברות מתכננות העלאות מחיר מתונות ב-2027 — סקר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793803135486,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Barracuda ESG | חולשת אימות + הזרקת פקודה — גישת root | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793803135486,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סנטרה | גיוס 150 מיליון דולר — אבטחת נתונים אג׳נטית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793803135486,
+  "sentLive": false,
+  "candidate": true
  }
 ]

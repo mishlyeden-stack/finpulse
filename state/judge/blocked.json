@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 87
+  "blocked": 88
  },
  "en.globes.co.il": {
   "ok": 25,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 121,
+  "ok": 124,
   "blocked": 1
  },
  "news.google.com": {
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 36,
+  "ok": 38,
   "blocked": 0
  },
  "ice.co.il": {
@@ -132,7 +132,7 @@
   "blocked": 0
  },
  "cfo.com": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "cfodive.com": {
@@ -514,5 +514,9 @@
  "ladaat.co": {
   "ok": 0,
   "blocked": 1
+ },
+ "businessmodelanalyst.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }
