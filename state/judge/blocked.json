@@ -1,18 +1,18 @@
 {
  "globes.co.il": {
-  "ok": 102,
+  "ok": 106,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 80
+  "blocked": 83
  },
  "en.globes.co.il": {
   "ok": 24,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 114,
+  "ok": 115,
   "blocked": 1
  },
  "news.google.com": {
@@ -40,7 +40,7 @@
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 20,
+  "ok": 21,
   "blocked": 0
  },
  "ft.com": {
@@ -52,11 +52,11 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 23,
+  "ok": 24,
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 31,
+  "ok": 33,
   "blocked": 0
  },
  "ice.co.il": {
@@ -473,7 +473,7 @@
  },
  "boi.org.il": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "gurufocus.com": {
   "ok": 0,
