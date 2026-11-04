@@ -1,47 +1,5 @@
 [
  {
-  "key": "סמסונג-Harman | 10 שנים אחרי הרכישה: הכנסות הוכפלו + רווח תפעולי שיא | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792581541644,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קן גריפין | בועת AI + דעות נגד | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792581541649,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנקאות ישראל | ריבית על עו״ש — הטריק מאחורי ההבטחה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792581541652,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מודל AI סיני | קוד פגיע יותר עבור קבלני ביטחון אמריקניים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792581541654,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה GTC ברלין | מפעל AI ב-14 ימים + חיסכון חשמל + רכב אוטונומי | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792581541657,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "משרד החוץ ישראל | רכש אנליטיקת מצלמות אבטחה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792581591322,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "פרטנר | דיבידנד מיוחד 500 מיליון שקל אחרי פירעון אג״ח | אוקטובר 2026",
   "level": "learn",
   "first": 1792584197965,
@@ -3643,6 +3601,48 @@
   "key": "טוקיו | ניקיי צונח 3%+ — שבבים וסופטבנק מובילים ירידות | 4 נובמבר 2026",
   "level": "yellow",
   "first": 1793788742251,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נייס | Q3 2026 — צמיחה 8%, AI זינוק 46%, פיטורים 5%, ענן מאכזב | נובמבר 2026",
+  "level": "learn",
+  "first": 1793792238503,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | שכר הייטק עולה אך מספר מועסקים יורד — משבר ג׳וניורים מעמיק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793792238503,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "OpsShield | מתקפת שרשרת אספקה על עדכוני cPGuard — אישורים גנובים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793792238503,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות ני״ע | AI בייעוץ השקעות ללא אישור אנושי לכל החלטה — רגולציה חדשה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793792238503,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Chrome 157 | 213 תיקוני אבטחה כולל 7 קריטיים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793792238503,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וול סטריט + ת״א | התאוששות חוזים אחרי ירידות בחירות | 4 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793792291029,
   "sentLive": false,
   "candidate": true
  }
