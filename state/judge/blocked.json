@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 111,
+  "ok": 112,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 85
+  "blocked": 87
  },
  "en.globes.co.il": {
   "ok": 24,
@@ -28,7 +28,7 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 25,
+  "ok": 26,
   "blocked": 0
  },
  "themarker.com": {
@@ -72,7 +72,7 @@
   "blocked": 9
  },
  "calcalistech.com": {
-  "ok": 32,
+  "ok": 33,
   "blocked": 0
  },
  "ptnow.co.il": {
