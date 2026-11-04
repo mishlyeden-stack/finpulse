@@ -1,40 +1,5 @@
 [
  {
-  "key": "ארית-רשף | הפסד מוסדיים 400 מיליון שקל בגיוס הון פרטי | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792576218098,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "OVHcloud CLI | פגיעת שרשרת אספקה חשבון מפתח | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792576218103,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שווקים | פתיחת ת״א + SpaceX + מאסק-טסלה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792576218105,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנק ישראל | החלטת ריבית 3.25% + נפט 110 דולר | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792576418190,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "GM CFO | אזהרת אינפלציה תקצץ EBIT ב-1.5 מיליארד דולר ב-2027 | אוקטובר 2026",
-  "level": "learn",
-  "first": 1792578752973,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "סמסונג-Harman | 10 שנים אחרי הרכישה: הכנסות הוכפלו + רווח תפעולי שיא | אוקטובר 2026",
   "level": "yellow",
   "first": 1792581541644,
@@ -3629,6 +3594,55 @@
   "key": "שקל | דולר 3.17 + שיא 7 חודשים | 4 נובמבר 2026",
   "level": "yellow",
   "first": 1793785230515,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמדוקס | סכסוך T-Mobile מוחק 3 מיליארד דולר — מכירת מניות מנכ״ל לפני הנפילה | נובמבר 2026",
+  "level": "learn",
+  "first": 1793788742250,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בריטניה NCSC | סקירה שנתית — כופרות AI ישתקו תשתיות עד 2028 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793788742251,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בחירות אמצע ארה״ב | השלכות על AI ישראל ומגזר עסקי | 4 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793788742251,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Rheinmetall–Silvus | אינטגרציה RF פסיבי בהגנה אווירית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793788742251,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דלק | התייקרות חלקית — 50 אגורות במקום שקל, סבסוד אוצר | 4 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793788742251,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב–איראן | עלות מלחמה עוברת 47 מיליארד דולר — פנטגון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793788742251,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טוקיו | ניקיי צונח 3%+ — שבבים וסופטבנק מובילים ירידות | 4 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793788742251,
   "sentLive": false,
   "candidate": true
  }
