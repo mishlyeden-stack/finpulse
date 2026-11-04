@@ -1,5 +1,159 @@
 [
  {
+  "id": "557965da4eb37c1b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - POWER INTEGRATIONS INC (0000833640) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/833640/000083364026000152/0000833640-26-000152-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0000833640-26-000152 <b>Size:</b> 580 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-04T21:02:28.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "99f2a1234c56d08c",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Arcutis Biotherapeutics, Inc. (0001787306) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1787306/000178730626000056/0001787306-26-000056-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0001787306-26-000056 <b>Size:</b> 311 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-04T21:02:25.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "2a24de3a6e74c0b4",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Apollo IG Core Replacement, L.P. (0002074450) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2074450/000095014226002942/0000950142-26-002942-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0000950142-26-002942 <b>Size:</b> 190 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-04T21:01:52.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "f4f16c7524eace72",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Edgewise Therapeutics, Inc. (0001710072) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1710072/000110465926122654/0001104659-26-122654-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0001104659-26-122654 <b>Size:</b> 249 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-04T21:01:44.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "cbf79b6cbf7efb5c",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ARKO Petroleum Corp. (0002080921) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2080921/000119312526447170/0001193125-26-447170-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0001193125-26-447170 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-04T21:01:15.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "9663aa8f98c152ff",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Niagen Bioscience, Inc. (0001386570) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1386570/000138657026000057/0001386570-26-000057-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-04 <b>AccNo:</b> 0001386570-26-000057 <b>Size:</b> 4 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-04T21:01:12.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "3ad6de648d90c0d8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Michael Dell’s Baldwin buyout draws $2.3 billion in loans - Billionaires.Africa",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOGNBMGVUbzI5ZXp1dDgzSTlFMHl0aFp2c1NqX3o1Vk9wT0tVSWdNcFIyUUs0aktlaDdGQnFjeC1nYXpXNHRkU25YeEFEQ3FnN0ZmLVZlN0F0Z3p1QkEtY3hFQUxuTTctQ0tFMTBYam44YXF3dG1Ua010N0U1S3IyRjhXaDd6Y1Joa0NLM1dXUHMyczl6SS1ScnhQMTF4bkQyckswRUFXX241YnVHeFk2bGRKOUZVMG90c3RTZFN4SUY2QmhqeHFoaFRKNUs5dVhZOEdtVlowZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOGNBMGVUbzI5ZXp1dDgzSTlFMHl0aFp2c1NqX3o1Vk9wT0tVSWdNcFIyUUs0aktlaDdGQnFjeC1nYXpXNHRkU25YeEFEQ3FnN0ZmLVZlN0F0Z3p1QkEtY3hFQUxuTTctQ0tFMTBYam44YXF3dG1Ua010N0U1S3IyRjhXaDd6Y1Joa0NLM1dXUHMyczl6SS1ScnhQMTF4bkQyckswRUFXX241Yn",
+  "date": "2026-11-04T21:01:05.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "db31432f2b9780e5",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "SoftBank to commercialize aerial cell towers with Japanese fleet",
+  "link": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
+  "summary": "<p data-block-key=\"xnco9\">Sceye deal brings HAPS from prototypes to happening</p>",
+  "date": "2026-11-04T20:55:06.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "e66c29d167fd04c6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Form 4 Waste Management : David L. Reed (EVP & CFO) For: 3 November - Investing.com Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0IteWJrMmVZZHVmblRlc0tkTDExR2x6SWFIS1BLUUlWRWFVa3dsMHZPT0dmekdIM0M2bHNnWGQ4bkhWU3JKdnVKcXQ0UnFtdlk3SEZSanNqRDRYZ3k3WGZTdVRaQjR2MmZnMVh3WV8tbkdqMDVQUW9wUUw1SjVoZmM4dWc2TU1KZjFqQXY3X2NxamxETUstM2NLLTJZcWJZSVlDcERQRkdfa0w3ZHl1N3pkNDBhNUVTc2tLWHpHaw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0IteWJrMmVZZHVmblRlc0tkTDExR2x6SWFIS1BLUUlWRWFVa3dsMHZPT0dmekdIM0M2bHNnWGQ4bkhWU3JKdnVKcXQ0UnFtdlk3SEZSanNqRDRYZ3k3WGZTdVRaQjR2MmZnMVh3WV8tbkdqMDVQUW9wUUw1SjVoZmM4dWc2TU1KZjFqQXY3X2NxamxETUstM2NLLTJZcWJZSVlDcERQRkdfa0",
+  "date": "2026-11-04T20:53:56.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "5ba4c91120e6ca06",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Verizon AI-RAN work rides nationwide Ericsson Intelligent Controller deployment",
+  "link": "https://www.datacenterdynamics.com/en/news/verizon-ai-ran-work-rides-nationwide-ericsson-intelligent-controller-deployment/",
+  "summary": "<p data-block-key=\"66ubv\">CTO Yago Tenorio hinted at the move earlier this year</p>",
+  "date": "2026-11-04T20:49:07.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "75b46a7c8cffaf86",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מניות הביטחון נופלות: בוול סטריט מטילים ספק בתקציב של 1.5 טריליון דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50VEtMUjB5czQtaEtBYTJxRHNtMTlRRkttaEZhV3FXTWhzcEZwdHJHSVdNZmxhSWRSZm9oVzF5aUVBMDlUT0F0UGNPZ1E0elU5UkowQ2M3NVlEc2Iwdk5jSEJoMjlac1dBck12aXpUaGo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE50VEtMUjB5czQtaEtBYTJxRHNtMTlRRkttaEZhV3FXTWhzcEZwdHJHSVdNZmxhSWRSZm9oVzF5aUVBMDlUT0F0UGNPZ1E0elU5UkowQ2M3NVlEc2Iwdk5jSEJoMjlac1dBck12aXpUaGo?oc=5\" target=\"_blank\">מניות הביטחון נופלות: בוול סטריט מטילים ספק בתקציב של 1.",
+  "date": "2026-11-04T20:46:00.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "746dd89cc4f1cefd",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "הפלונטר הפוליטי: המנדט בדרך לאיזנקוט, החרדים על הגדר - ודרעי עם פליק פלאק - calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wWlNpSWtST1RrXzJMaUZHa3lweF9BSWNVOUxFVmNwVGZmVVVGX1BtcTRRXzgyMVRHWUxEU2thcGJmZ2xraVNXUHlTTXpZcThTUmhsTHkzcEFQbDlHX2RaX0I1X3VEcGFodWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4wWlNpSWtST1RrXzJMaUZHa3lweF9BSWNVOUxFVmNwVGZmVVVGX1BtcTRRXzgyMVRHWUxEU2thcGJmZ2xraVNXUHlTTXpZcThTUmhsTHkzcEFQbDlHX2RaX0I1X3VEcGFodWc?oc=5\" target=\"_blank\">הפלונטר הפוליטי: המנדט בדרך לאיזנקוט, החרדים על הגדר - ודרעי עם ",
+  "date": "2026-11-04T20:37:00.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "74c1d522ebdfd5e1",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "F1 regulator signs cloud agreement with AWS",
+  "link": "https://www.datacenterdynamics.com/en/news/f1-regulator-signs-cloud-agreement-with-aws/",
+  "summary": "<p data-block-key=\"iylcx\">While Alibaba Cloud teams up with International Olympic Committee on youth games in Senegal</p>",
+  "date": "2026-11-04T20:34:45.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
+  "id": "5920ac6ed82c1178",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "The Kingfish Company CEO Vincent Erenst Extends Tenure as CFO Plans Departure - Seafoodnews",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmp3VU81VW1kM3BVVDZzNFlocFBKcmd5T1UyZ2l6bGQ4Z0dpMGk0NG9UOWZMQUM4NkhJV3FxR2ExMGR2Tk5xbnZoeGk3aXFodWJld1B3amIxaks5VTNBbWxiRWM2ajZmS2FhWUMwNkFYeXl1Q1dZNlhfTklsdzByTE1Nc2ttT29FY2ZEUWI2TjdYRW94TmJYTEt1bWdGQnhiOHlZTkZPa3hmbGVZUEdOZ21IeEJ4MWhjNW9J?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmp3VU81VW1kM3BVVDZzNFlocFBKcmd5T1UyZ2l6bGQ4Z0dpMGk0NG9UOWZMQUM4NkhJV3FxR2ExMGR2Tk5xbnZoeGk3aXFodWJld1B3amIxaks5VTNBbWxiRWM2ajZmS2FhWUMwNkFYeXl1Q1dZNlhfTklsdzByTE1Nc2ttT29FY2ZEUWI2TjdYRW94TmJYTEt1bWdGQnhiOHlZTkZPa3hmbG",
+  "date": "2026-11-04T20:33:37.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
+ },
+ {
   "id": "1ddb4a6dbf76ba76",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -9,6 +163,17 @@
   "date": "2026-11-04T20:30:00.000Z",
   "fetched": "2026-11-04T20:33:13.289Z",
   "fromCloud": "2026-11-04T2033.json"
+ },
+ {
+  "id": "620240c92a48bb7c",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "תוצאות הבחירות מסבכות את תוכניות הקריפטו של נתניהו - ice (אייס)",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKekRmR0ROdUtZOFdtZW5VRW04Tnk0TUEtQWdIZG8tMklqQWJhNGwwd1hLTU83S3UwWFBCdlFoaHVlQTVYSDA4TFNxMUFtTmNDZUdMZTc0TkpRbGJ5Wnc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKekRmR0ROdUtZOFdtZW5VRW04Tnk0TUEtQWdIZG8tMklqQWJhNGwwd1hLTU83S3UwWFBCdlFoaHVlQTVYSDA4TFNxMUFtTmNDZUdMZTc0TkpRbGJ5Wnc?oc=5\" target=\"_blank\">תוצאות הבחירות מסבכות את תוכניות הקריפטו של נתניהו</a>&nbsp;&nbsp;<font color=\"#",
+  "date": "2026-11-04T20:29:55.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
  },
  {
   "id": "f8db35a4cc9b1b59",
@@ -75,6 +240,17 @@
   "date": "2026-11-04T20:13:00.000Z",
   "fetched": "2026-11-04T20:33:13.289Z",
   "fromCloud": "2026-11-04T2033.json"
+ },
+ {
+  "id": "a7e1557eaf171af4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Charter Communications (CHTR) Could Be 61% Below Fair Value As Free Cash Flow Story Builds - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVFmWGx5Tl9WNHk0UXZ1bEx4ekdUNWtlQUZmQy1OOFdBQ3liUTdzN1ZmZFJwRGU2cVBjVU5OM1NtYkZ4cklfQlN6dWxVd3JrSGJYMlBZQnBsWHNPS0FUSW9fQjY2NW5mbFRIOWstMmpoajAzbXA1YXVBWTBaWXltUnhPVWFlOEpWWlQ2LTk4QkFGaHdvY09aSUc4VjJVVFdCZm1v?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVFmWGx5Tl9WNHk0UXZ1bEx4ekdUNWtlQUZmQy1OOFdBQ3liUTdzN1ZmZFJwRGU2cVBjVU5OM1NtYkZ4cklfQlN6dWxVd3JrSGJYMlBZQnBsWHNPS0FUSW9fQjY2NW5mbFRIOWstMmpoajAzbXA1YXVBWTBaWXltUnhPVWFlOEpWWlQ2LTk4QkFGaHdvY09aSUc4VjJVVFdCZm1v?oc=5\" tar",
+  "date": "2026-11-04T20:10:20.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
  },
  {
   "id": "11b54b852400f005",
@@ -163,6 +339,17 @@
   "date": "2026-11-04T19:39:00.000Z",
   "fetched": "2026-11-04T20:03:12.907Z",
   "fromCloud": "2026-11-04T2003.json"
+ },
+ {
+  "id": "abc6963661af9b31",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אילה חסון מסרבת להקריא התנצלות מוכתבת, וכאן מוריד אותה מהמסך - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92cE80a2xlQ1dyV0lmRnlJMUlXaFBYQkY4VWg2UmhlQ0VpdTBxSlo5NzQwZlhtcDdsc1o5NFBmMkNjMzhBUGZIYVlvZ0djTjdpS2xHc2NjZElPWXBmY3NvWlFBb0stdWh4bGc3bHFyQ3pvSk1WRDBib2o1TzRYSWM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE92cE80a2xlQ1dyV0lmRnlJMUlXaFBYQkY4VWg2UmhlQ0VpdTBxSlo5NzQwZlhtcDdsc1o5NFBmMkNjMzhBUGZIYVlvZ0djTjdpS2xHc2NjZElPWXBmY3NvWlFBb0stdWh4bGc3bHFyQ3pvSk1WRDBib2o1TzRYSWM?oc=5\" target=\"_blank\">אילה חסון מסרבת להקריא התנצלות מוכתב",
+  "date": "2026-11-04T19:36:00.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
  },
  {
   "id": "bc97faede9b987df",
@@ -944,6 +1131,17 @@
   "date": "2026-11-04T17:14:00.000Z",
   "fetched": "2026-11-04T17:33:12.976Z",
   "fromCloud": "2026-11-04T1733.json"
+ },
+ {
+  "id": "2799b4d86ae68398",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Navy Taps Career Submariner to Lead PAE Maritime - USNI News",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0lka1VWaDJNcE8yY3BpMGJUb3oycmk2TFRQQnJ2RklyQ1ktN3dHRmV0bzhmcmcxcHhiN2l4Q3FySkt1a0g3MHBGclJCOTBiTkNlNER6THNIWDJIRkRpVXJoakRSSUdkNW13dXdmM3V2VGRBVFc0TVdoOU0tb0JnamJacXltdWxm?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0lka1VWaDJNcE8yY3BpMGJUb3oycmk2TFRQQnJ2RklyQ1ktN3dHRmV0bzhmcmcxcHhiN2l4Q3FySkt1a0g3MHBGclJCOTBiTkNlNER6THNIWDJIRkRpVXJoakRSSUdkNW13dXdmM3V2VGRBVFc0TVdoOU0tb0JnamJacXltdWxm?oc=5\" target=\"_blank\">Navy Taps Career Submar",
+  "date": "2026-11-04T17:10:00.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
  },
  {
   "id": "357228688fb54374",
@@ -2275,6 +2473,17 @@
   "date": "2026-11-04T12:53:48.000Z",
   "fetched": "2026-11-04T18:33:13.480Z",
   "fromCloud": "2026-11-04T1833.json"
+ },
+ {
+  "id": "049776e8ffc8b6f0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Wilton Selectmen Question Boucher as CFO Savo Plans Exit - Good Morning Wilton",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnhzN1FFWXFVWlNtbkF1My1IV1prb1RmdUM4VGtneG1jaU9FemJPeUJDdGM0OXl3VnhxeWo0T2lFVDBrZmdNQThYbS1sQVR2Mms3N01rSEI5aUowSlZyM0xTNW4xM2xLVngtdWc4S0JVQnVNdG5vdkJZNzlhUDJsazliY3pjWFZkMHJ4UjdsVm9UeWdi?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnhzN1FFWXFVWlNtbkF1My1IV1prb1RmdUM4VGtneG1jaU9FemJPeUJDdGM0OXl3VnhxeWo0T2lFVDBrZmdNQThYbS1sQVR2Mms3N01rSEI5aUowSlZyM0xTNW4xM2xLVngtdWc4S0JVQnVNdG5vdkJZNzlhUDJsazliY3pjWFZkMHJ4UjdsVm9UeWdi?oc=5\" target=\"_blank\">Wilton ",
+  "date": "2026-11-04T12:40:00.000Z",
+  "fetched": "2026-11-04T21:03:12.730Z",
+  "fromCloud": "2026-11-04T2103.json"
  },
  {
   "id": "1a9241dabbd263cf",
