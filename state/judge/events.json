@@ -3652,5 +3652,110 @@
   "first": 1793714838987,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "שקל | דולר בשיא מתחילת השנה — קידומת 2 נראית רחוקה | 4 נובמבר 2026",
+  "level": "red",
+  "first": 1793765274109,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "נדל״ן ישראל | מבצעי מימון אגרסיביים — שעבוד הורים ודחיית חוב בעשור | נובמבר 2026",
+  "level": "learn",
+  "first": 1793765274109,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ישראל | ירידה 10%+ מהשיא — האם לקנות את הדיפ? | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765274109,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "משקיעי AI | חשש מתמחור יתר חזק מתוצאות מצוינות — אפל ופלנטיר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765274109,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Toast | דוחות Q3 חזקים + יציאת CFO — מניה יורדת בכל זאת | נובמבר 2026",
+  "level": "learn",
+  "first": 1793765504238,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנזין | מחיר עולה ל-7.85 שקל בחצות — הנחת מס מצטמצמת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765504238,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "WhiteFiber | רכישת שתי קרקעות מרכז נתונים בצפון קרוליינה ב-60 מיליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765504238,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "EU | בית הדין האירופי — ג'מיני וזכויות מו'לים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765504238,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Fluence Energy | מינוי CEO ו-CFO זמניים על רקע בעיות שרשרת אספקה | נובמבר 2026",
+  "level": "learn",
+  "first": 1793765769157,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "SEC | הקלה בבקרות איכות ביקורת — Big Four תומכות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765769157,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל–EU | לחץ חדש להוצאת ישראל מ-Horizon Europe | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765769157,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלפאבית | גיוס 1.5 מיליארד דולר באג״ח מוניציפליות לאנרגיה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765769158,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AMD | עקיפת ציפיות Q3 + זינוק 5% במסחר מאוחר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765769158,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דיסני | תוכנית פיטורים + חיסכון 20% בעלויות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765769158,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מניית שבבים | זינוק 26% — הכנסות פי 3, AI דוחף תחזית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793765769158,
+  "sentLive": false,
+  "candidate": true
  }
 ]

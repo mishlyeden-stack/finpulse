@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 92,
+  "ok": 96,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 75
+  "blocked": 79
  },
  "en.globes.co.il": {
   "ok": 23,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 104,
+  "ok": 109,
   "blocked": 1
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 67
+  "blocked": 69
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 54
+  "blocked": 56
  },
  "ecb.europa.eu": {
   "ok": 4,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 21,
+  "ok": 22,
   "blocked": 0
  },
  "securityweek.com": {
@@ -65,14 +65,14 @@
  },
  "datacenterdynamics.com": {
   "ok": 13,
-  "blocked": 24
+  "blocked": 25
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 9
  },
  "calcalistech.com": {
-  "ok": 27,
+  "ok": 28,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -85,7 +85,7 @@
  },
  "bloomberg.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "fortworthinc.com": {
   "ok": 0,
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 10,
+  "ok": 12,
   "blocked": 1
  },
  "businesswire.com": {
@@ -148,7 +148,7 @@
   "blocked": 1
  },
  "tradingview.com": {
-  "ok": 2,
+  "ok": 4,
   "blocked": 7
  },
  "govconwire.com": {
@@ -213,7 +213,7 @@
  },
  "economist.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "einpresswire.com": {
   "ok": 1,
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 12
+  "blocked": 14
  },
  "techtarget.com": {
   "ok": 1,
@@ -257,7 +257,7 @@
  },
  "moomoo.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "reuters.com": {
   "ok": 0,
@@ -277,7 +277,7 @@
  },
  "sec.gov": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "newsquawk.com": {
   "ok": 1,
@@ -325,7 +325,7 @@
  },
  "benzinga.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "washingtontechnology.com": {
   "ok": 1,
@@ -472,6 +472,30 @@
   "blocked": 1
  },
  "boi.org.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "gurufocus.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "thedermdigest.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "barchart.com": {
+  "ok": 0,
+  "blocked": 2
+ },
+ "eetasia.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "cargofacts.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "fool.com": {
   "ok": 0,
   "blocked": 1
  }
