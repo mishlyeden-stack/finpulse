@@ -3658,7 +3658,7 @@
   "level": "red",
   "first": 1793765274109,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "נדל״ן ישראל | מבצעי מימון אגרסיביים — שעבוד הורים ודחיית חוב בעשור | נובמבר 2026",
@@ -3755,6 +3755,90 @@
   "key": "מניית שבבים | זינוק 26% — הכנסות פי 3, AI דוחף תחזית | נובמבר 2026",
   "level": "yellow",
   "first": 1793765769158,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | מתקפות קירור סופרמרקטים — ישראל הייתה ראשונה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767141333,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "BMW | קיצוץ תחזית רווח רכב ל-0 — עלויות מעבר לחשמל | נובמבר 2026",
+  "level": "learn",
+  "first": 1793767141333,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביל אקמן | ענן עדיף על שבבים — אנליסטים מפספסים מהפכת AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767141333,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בטא טכנולוגיות | זינוק 16% — הכנסות עקפו צפי ב-64%, תחזית עלתה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767141333,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Shopify | רכישת shop.com ב-99 מיליון דולר — אסטרטגיה דיגיטלית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767141334,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | הגבלת השכרת כוח מחשוב לסין — סגירת פרצה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767141334,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אייר קנדה | חזרה לישראל עם העלאת מחיר 30% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767141334,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קראודסטרייק | רכישת שתי חברות אבטחת AI ב-495 מיליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767413028,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מארוול–לומנטום | סקר השפעה על שוק מרכזי נתונים AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767413028,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שרתים ישנים | חומרת אתמול הופכת לנכס — DeepSeek ומודל חדש לתמחור | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767599457,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביטוח לאומי–ויזארדס | פרויקט Identity Governance רחב היקף הושלם | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767599457,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וול סטריט | מגמות שוק + שופיפיי + נפט + תשואות אג״ח לקראת בחירות | 3 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793767599457,
   "sentLive": false,
   "candidate": true
  }

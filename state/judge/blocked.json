@@ -1,18 +1,18 @@
 {
  "globes.co.il": {
-  "ok": 96,
+  "ok": 100,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 79
+  "blocked": 80
  },
  "en.globes.co.il": {
   "ok": 23,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 109,
+  "ok": 113,
   "blocked": 1
  },
  "news.google.com": {
@@ -33,14 +33,14 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 35
+  "blocked": 37
  },
  "silicon.co.uk": {
   "ok": 1,
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 17,
+  "ok": 19,
   "blocked": 0
  },
  "ft.com": {
@@ -72,7 +72,7 @@
   "blocked": 9
  },
  "calcalistech.com": {
-  "ok": 28,
+  "ok": 31,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -149,7 +149,7 @@
  },
  "tradingview.com": {
   "ok": 4,
-  "blocked": 7
+  "blocked": 8
  },
  "govconwire.com": {
   "ok": 0,
@@ -269,7 +269,7 @@
  },
  "timesofisrael.com": {
   "ok": 0,
-  "blocked": 4
+  "blocked": 5
  },
  "ravepubs.com": {
   "ok": 0,
@@ -449,7 +449,7 @@
  },
  "bizjournals.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "fibre-systems.com": {
   "ok": 0,
@@ -498,5 +498,17 @@
  "fool.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "domainnamewire.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "sg.finance.yahoo.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "lightwaveonline.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }
