@@ -3925,5 +3925,19 @@
   "first": 1793771035876,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "בחירות אמצע ארה״ב | ניצחון דמוקרטים — השלכות על וול סטריט וישראל | 4 נובמבר 2026",
+  "level": "red",
+  "first": 1793774117164,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "שקל | דולר 3.17 + טאיוואן יורדת 4% + פערי פתיחה בורסה | 4 נובמבר 2026",
+  "level": "yellow",
+  "first": 1793774117164,
+  "sentLive": false,
+  "candidate": true
  }
 ]
