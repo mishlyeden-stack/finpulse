@@ -1,5 +1,93 @@
 [
  {
+  "id": "981e7336c870b273",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Keros Therapeutics, Inc. (0001664710) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000065/0001664710-26-000065-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001664710-26-000065 <b>Size:</b> 269 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-05T21:02:38.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
+  "id": "5b926b99073cab01",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Corvus Pharmaceuticals, Inc. (0001626971) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1626971/000117184326007175/0001171843-26-007175-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001171843-26-007175 <b>Size:</b> 286 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-05T21:02:16.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
+  "id": "4f5328adf5539b42",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - TransMedics Group, Inc. (0001756262) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1756262/000119312526449729/0001193125-26-449729-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001193125-26-449729 <b>Size:</b> 490 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-05T21:02:14.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
+  "id": "b055b710b7e31627",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Voyager Therapeutics, Inc. (0001640266) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1640266/000119312526449728/0001193125-26-449728-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001193125-26-449728 <b>Size:</b> 514 KB <br>Item 2.01: Completion of Acquisition or Disposition of Assets",
+  "date": "2026-11-05T21:02:13.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
+  "id": "5c11999047c53091",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ARCH CAPITAL GROUP LTD. (0000947484) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/947484/000094748426000159/0000947484-26-000159-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0000947484-26-000159 <b>Size:</b> 198 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-05T21:01:57.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
+  "id": "6873a82d475259a3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - BRC Group Holdings, Inc. (0001464790) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1464790/000121390026116361/0001213900-26-116361-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001213900-26-116361 <b>Size:</b> 645 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation un",
+  "date": "2026-11-05T21:01:29.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
+  "id": "dcaf83637f54b14e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Acumen Pharmaceuticals, Inc. (0001576885) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026070987/0001628280-26-070987-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001628280-26-070987 <b>Size:</b> 159 KB <br>Item 1.02: Termination of a Material Definitive Agreement <br>Item 2.05: Cost Associated with Exit or Disposal Activities <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-05T21:01:17.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
+  "id": "456aeb80fe624428",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Milestone process guides Air Force acquisition decisions - AFLCMC (.mil)",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWc4eEdkbFRVOUxVUnBWcU1yNlpEUktSVDk2dmwxZFVvV3owcmllZnE4Q0NXQldoRmhlSzZtWmNLTXNVUV96a1hNV05XUXhNcERXazJqel83Tno2Z2NUZlNXbUJPX2RLbjBKUndxTWtoSlk2LWpKSVVmak9aVHdRdF9VNnZvc1E0bW1ZZ09qX0owcFhHallGbjN3SVJOaTJBX2FiNnFRcw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWc4eEdkbFRVOUxVUnBWcU1yNlpEUktSVDk2dmwxZFVvV3owcmllZnE4Q0NXQldoRmhlSzZtWmNLTXNVUV96a1hNV05XUXhNcERXazJqel83Tno2Z2NUZlNXbUJPX2RLbjBKUndxTWtoSlk2LWpKSVVmak9aVHdRdF9VNnZvc1E0bW1ZZ09qX0owcFhHallGbjN3SVJOaTJBX2FiNnFRcw?oc=",
+  "date": "2026-11-05T20:33:07.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
   "id": "7411c9f148b65736",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -253,6 +341,17 @@
   "fromCloud": "2026-11-05T2003.json"
  },
  {
+  "id": "30e2504480fb145a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מניית הביטחון שמזנקת 25%: ההכנסות קפצו ב-90% והצבר חצה מיליארד דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qb18yLTdyZnNqT3pnUUNkVlVYZWZLVjRLUFJRWGRSOTIwYnhTbG1JTUcxZmt2YTBMbnd4OXFSSHdVdS1Ja25hV1JjQzF0UGc4ZUxremxTNlV3eU1KM2N4RzdjVnF5R0lBcUVPZjh6M08?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5qb18yLTdyZnNqT3pnUUNkVlVYZWZLVjRLUFJRWGRSOTIwYnhTbG1JTUcxZmt2YTBMbnd4OXFSSHdVdS1Ja25hV1JjQzF0UGc4ZUxremxTNlV3eU1KM2N4RzdjVnF5R0lBcUVPZjh6M08?oc=5\" target=\"_blank\">מניית הביטחון שמזנקת 25%: ההכנסות קפצו ב-90% והצבר חצה מ",
+  "date": "2026-11-05T19:39:00.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
   "id": "88450ac78182c9bd",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -341,6 +440,17 @@
   "fromCloud": "2026-11-05T1933.json"
  },
  {
+  "id": "1cdb8b55e209feb7",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הביטקוין נופל לכ-75.6 אלף דולר: הנאסד\"ק גורר את הקריפטו מטה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mR0JGZ1VONVkyd09CQjNOek1aNmJLV2RMX0J4ZzZTcTdjVmdpQ3BkdE51R1daWV9HNVdhYWRyMEw2T0k4Z3ZKV1VDTmFCd3BmbkRyMXBwY2hVOGxJOUZERFdOc01KeTVhVnIzOGhsS1o?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5mR0JGZ1VONVkyd09CQjNOek1aNmJLV2RMX0J4ZzZTcTdjVmdpQ3BkdE51R1daWV9HNVdhYWRyMEw2T0k4Z3ZKV1VDTmFCd3BmbkRyMXBwY2hVOGxJOUZERFdOc01KeTVhVnIzOGhsS1o?oc=5\" target=\"_blank\">הביטקוין נופל לכ-75.6 אלף דולר: הנאסד\"ק גורר את הקריפטו ",
+  "date": "2026-11-05T19:10:00.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
   "id": "211d891ded32d449",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -427,6 +537,17 @@
   "date": "2026-11-05T18:41:06.000Z",
   "fetched": "2026-11-05T20:33:14.044Z",
   "fromCloud": "2026-11-05T2033.json"
+ },
+ {
+  "id": "84958615631af0b1",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בכירי ה-AI מודים: המסרים שלנו הזינו את המרד נגד מרכזי הנתונים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wQzR3ZG9pUmNTMDhET0RJczRacWVmcExfOENYdFA2eDA5QVNybkNwdkFkRl92blRQRDN4eTRDX3FvMTF6b1pyWjlvM3otcFFnSGhzS0ZxblctcllWREdlNDVmUGVuZ0Q2NkRvLWcwdmo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0wQzR3ZG9pUmNTMDhET0RJczRacWVmcExfOENYdFA2eDA5QVNybkNwdkFkRl92blRQRDN4eTRDX3FvMTF6b1pyWjlvM3otcFFnSGhzS0ZxblctcllWREdlNDVmUGVuZ0Q2NkRvLWcwdmo?oc=5\" target=\"_blank\">בכירי ה-AI מודים: המסרים שלנו הזינו את המרד נגד מרכזי הנ",
+  "date": "2026-11-05T18:40:00.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
  },
  {
   "id": "a6cf5a25a781e7a1",
@@ -869,6 +990,17 @@
   "fromCloud": "2026-11-05T1803.json"
  },
  {
+  "id": "d1c85c47446cdf85",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Priority Software Expands its Business Management Portfolio with the Acquisition of Fireberry, Accelerating Its AI-First Vision for the Future of Business Management - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbkpDSXNuNnc5MHVsbDFOQVBvSElQR2hZTjB2V0FaalRiV1hCdUFadUZYT2tLdTcxRUVoTjJSRU1YSlBtVUdMM09zZlNEdERvdjlNSnRYbGNhQjl1Ylh5dl9NUmJ3QngxU1pzSm1zdExjTl9IcE1BS0VOelFPQ1h4R19RVlAzREdjd2pxTU5Ba2ZvdE5OZVNTeDBTRndwV0U2R3dQTWtsQjdDd3FlX1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNbkpDSXNuNnc5MHVsbDFOQVBvSElQR2hZTjB2V0FaalRiV1hCdUFadUZYT2tLdTcxRUVoTjJSRU1YSlBtVUdMM09zZlNEdERvdjlNSnRYbGNhQjl1Ylh5dl9NUmJ3QngxU1pzSm1zdExjTl9IcE1BS0VOelFPQ1h4R19RVlAzREdjd2pxTU5Ba2ZvdE5OZVNTeDBTRndwV0U2R3dQTWtsQjdDd3",
+  "date": "2026-11-05T17:31:00.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
+ },
+ {
   "id": "40bed53066761cc1",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -1149,6 +1281,17 @@
   "date": "2026-11-05T17:00:47.000Z",
   "fetched": "2026-11-05T17:33:12.516Z",
   "fromCloud": "2026-11-05T1733.json"
+ },
+ {
+  "id": "094853f6780489dc",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "המכוניות של ג'יימס בונד, ההפסדים של בעלי המניות: האם אסטון מרטין בדרך לפשיטת רגל? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oc0h6dW11cGpNbUFrNHdtUzkzWTQ0LXRlbEtXRm5ub2lfeWhFS2tYbTJTdUl3MlVxV3VrbjdkQml0Y2xoYkxkbnFqcEJuSk8yeTFNTXlaQURUdVczMXRmcTVSNlUtdEpGYUhzaEo1Nm9wUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9oc0h6dW11cGpNbUFrNHdtUzkzWTQ0LXRlbEtXRm5ub2lfeWhFS2tYbTJTdUl3MlVxV3VrbjdkQml0Y2xoYkxkbnFqcEJuSk8yeTFNTXlaQURUdVczMXRmcTVSNlUtdEpGYUhzaEo1Nm9wUQ?oc=5\" target=\"_blank\">המכוניות של ג'יימס בונד, ההפסדים של בעלי המניות: האם ",
+  "date": "2026-11-05T17:00:00.000Z",
+  "fetched": "2026-11-05T21:03:12.169Z",
+  "fromCloud": "2026-11-05T2103.json"
  },
  {
   "id": "f8c846fd6d6b4d2f",
