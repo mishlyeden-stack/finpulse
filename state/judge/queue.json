@@ -1,5 +1,27 @@
 [
  {
+  "id": "ca4f025920021d2e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Kestra Medical CFO Vaseem Mahboob sells $2.4M in shares - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYTQ0R0QxWDg0Y3NzU0Q5R0xueWYwbVFrVHgxanI4R0ZENUpwaHJqUXhacGJwMDBhRWxQUnhPVUFiT01wYXA4cHBmOUg1amdNYzE5cjJuVHkwVTh3ZG9XQmFhekt6TVRYcEpmWnZiTlBSbmlLbWtwSk45Z2NXbUliVlhMdTUzekxoTjBhR2c4X1QtMG1PTjlWT25MdHpFcG5MeGpSMVV6RlJnLU5aaVBLVVpIMTRud0VVNmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQYTQ0R0QxWDg0Y3NzU0Q5R0xueWYwbVFrVHgxanI4R0ZENUpwaHJqUXhacGJwMDBhRWxQUnhPVUFiT01wYXA4cHBmOUg1amdNYzE5cjJuVHkwVTh3ZG9XQmFhekt6TVRYcEpmWnZiTlBSbmlLbWtwSk45Z2NXbUliVlhMdTUzekxoTjBhR2c4X1QtMG1PTjlWT25MdHpFcG5MeGpSMVV6RlJnLU",
+  "date": "2026-11-05T00:53:15.000Z",
+  "fetched": "2026-11-05T01:03:12.199Z",
+  "fromCloud": "2026-11-05T0103.json"
+ },
+ {
+  "id": "6115dbfe2fe209b7",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Democratic wave keeps US wealth taxes on the agenda despite California setback",
+  "link": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
+  "summary": "Proposition 40 billionaire tax set to be defeated in a rare victory for mega-donors in the US midterms",
+  "date": "2026-11-05T00:52:16.000Z",
+  "fetched": "2026-11-05T01:03:12.199Z",
+  "fromCloud": "2026-11-05T0103.json"
+ },
+ {
   "id": "3e541b2054187392",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -3738,16 +3760,5 @@
   "date": "2026-11-04T03:34:26.000Z",
   "fetched": "2026-11-04T23:33:14.292Z",
   "fromCloud": "2026-11-04T2333.json"
- },
- {
-  "id": "41ee20be73a3e92b",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "דיווח: סיסקו במו\"מ לרכישת אסטריקס הישראלית תמורת 250-350 מיליון דולר - calcalist",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jSFlDc0pZYllsWFIwRU1qWVpVd0RvMnNET2llVW1rZEx0aXBPV3hNd3FtQzJSUWdsUDdMUWIwdGNhQmU2UGxYWGFCMG9LazJhdDhXUGEtQ0VabU5Vajl2TkVLeHJHc015NmNF?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5jSFlDc0pZYllsWFIwRU1qWVpVd0RvMnNET2llVW1rZEx0aXBPV3hNd3FtQzJSUWdsUDdMUWIwdGNhQmU2UGxYWGFCMG9LazJhdDhXUGEtQ0VabU5Vajl2TkVLeHJHc015NmNF?oc=5\" target=\"_blank\">דיווח: סיסקו במו\"מ לרכישת אסטריקס הישראלית תמורת 250-350 מיליון",
-  "date": "2026-11-04T00:43:59.000Z",
-  "fetched": "2026-11-04T18:03:13.651Z",
-  "fromCloud": "2026-11-04T1803.json"
  }
 ]
