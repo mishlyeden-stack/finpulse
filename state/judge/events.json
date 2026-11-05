@@ -4065,5 +4065,19 @@
   "first": 1793873185131,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "בורסה ישראל | עדכון מדדים + 11.7 מיליארד שקל מחליפים ידיים | 5 נובמבר 2026",
+  "level": "red",
+  "first": 1793876914090,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "Zyxel | Zero-Day בממתגים — CVE-2026-107441 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1793876914090,
+  "sentLive": false,
+  "candidate": true
  }
 ]
