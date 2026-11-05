@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "numbers": [
     {
       "key": "cpi",
@@ -16,11 +16,11 @@
     {
       "key": "ta35",
       "label": "מדד ת״א 35",
-      "value": "4,062",
-      "change": "+0.6%",
-      "note": "נובמבר 2026 (תוך-יומי)",
-      "source": "https://il.investing.com/indices/ta25-historical-data",
-      "by": "Investing.com / Bloomberg",
+      "value": "3,970",
+      "change": "-2.3%",
+      "note": "נעילת 4 נובמבר 2026",
+      "source": "https://finance.yahoo.com/quote/TA35.TA/",
+      "by": "Yahoo Finance",
       "asOf": "2026-11-04",
       "maxAgeDays": 3
     },
@@ -28,22 +28,22 @@
       "key": "il10y",
       "label": "אג״ח ממשלתי 10ש׳ ישראל",
       "value": "4.16%",
-      "change": "+0.09",
-      "note": "נכון ל-30.10",
+      "change": "-0.00",
+      "note": "נובמבר 2026",
       "source": "https://www.investing.com/rates-bonds/israel-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-10-30",
+      "asOf": "2026-11-04",
       "maxAgeDays": 5
     },
     {
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
-      "value": "4.92%",
-      "change": "-0.017",
-      "note": "נכון ל-02.11",
+      "value": "4.84%",
+      "change": "-0.08",
+      "note": "5 נובמבר 2026",
       "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-11-02",
+      "asOf": "2026-11-05",
       "maxAgeDays": 3
     },
     {
