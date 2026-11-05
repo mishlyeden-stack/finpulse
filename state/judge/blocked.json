@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 117,
+  "ok": 119,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 88
+  "blocked": 92
  },
  "en.globes.co.il": {
   "ok": 25,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 72
+  "blocked": 74
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 45
+  "blocked": 48
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -41,11 +41,11 @@
  },
  "pc.co.il": {
   "ok": 22,
-  "blocked": 0
+  "blocked": 1
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 64
+  "blocked": 67
  },
  "ecb.europa.eu": {
   "ok": 4,
@@ -64,15 +64,15 @@
   "blocked": 5
  },
  "datacenterdynamics.com": {
-  "ok": 15,
-  "blocked": 28
+  "ok": 17,
+  "blocked": 30
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 9
  },
  "calcalistech.com": {
-  "ok": 34,
+  "ok": 36,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -84,7 +84,7 @@
   "blocked": 1
  },
  "bloomberg.com": {
-  "ok": 0,
+  "ok": 1,
   "blocked": 4
  },
  "fortworthinc.com": {
@@ -120,7 +120,7 @@
   "blocked": 1
  },
  "maariv.co.il": {
-  "ok": 5,
+  "ok": 6,
   "blocked": 0
  },
  "visionmonday.com": {
@@ -252,7 +252,7 @@
   "blocked": 0
  },
  "mako.co.il": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "moomoo.com": {
@@ -376,7 +376,7 @@
   "blocked": 1
  },
  "fr.tradingview.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "finance.walla.co.il": {
@@ -477,7 +477,7 @@
  },
  "gurufocus.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "thedermdigest.com": {
   "ok": 0,
