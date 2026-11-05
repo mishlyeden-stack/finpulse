@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 120,
+  "ok": 121,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -41,7 +41,7 @@
  },
  "pc.co.il": {
   "ok": 22,
-  "blocked": 1
+  "blocked": 5
  },
  "ft.com": {
   "ok": 0,
@@ -72,7 +72,7 @@
   "blocked": 9
  },
  "calcalistech.com": {
-  "ok": 36,
+  "ok": 37,
   "blocked": 0
  },
  "ptnow.co.il": {
