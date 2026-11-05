@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 112,
+  "ok": 117,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 124,
+  "ok": 136,
   "blocked": 1
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 70
+  "blocked": 72
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 61
+  "blocked": 64
  },
  "ecb.europa.eu": {
   "ok": 4,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 24,
+  "ok": 26,
   "blocked": 0
  },
  "securityweek.com": {
@@ -64,15 +64,15 @@
   "blocked": 5
  },
  "datacenterdynamics.com": {
-  "ok": 14,
-  "blocked": 26
+  "ok": 15,
+  "blocked": 28
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 9
  },
  "calcalistech.com": {
-  "ok": 33,
+  "ok": 34,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -109,7 +109,7 @@
  },
  "investing.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "sadanews.ps": {
   "ok": 1,
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 12,
+  "ok": 15,
   "blocked": 1
  },
  "businesswire.com": {
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 7,
+  "ok": 8,
   "blocked": 1
  },
  "inquirer.com": {
@@ -213,7 +213,7 @@
  },
  "economist.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "einpresswire.com": {
   "ok": 1,
@@ -518,5 +518,29 @@
  "businessmodelanalyst.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "costar.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "japantimes.co.jp": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "digitimes.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "biometricupdate.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "pymnts.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "wtmj.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
