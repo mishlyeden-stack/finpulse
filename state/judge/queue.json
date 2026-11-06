@@ -1,5 +1,60 @@
 [
  {
+  "id": "0c17c80a257caff2",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
+  "link": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
+  "summary": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä kehitystä – seuraavaksi kasvua on aika vauhdittaa suurilla liikkeillä.",
+  "date": "2026-11-06T00:00:00.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
+ },
+ {
+  "id": "62a2cc3f44934966",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "Assessing the growth trajectory of Finland’s largest companies",
+  "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/assessing-the-growth-trajectory-of-finlands-largest-companies",
+  "summary": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global peers, we find positive movement—now it’s time to accelerate, with bigger moves.",
+  "date": "2026-11-06T00:00:00.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
+ },
+ {
+  "id": "827ce5d9d3b4117a",
+  "source": "The Economist – Finance & economics",
+  "group": "global-press",
+  "title": "Markets realise they hate America’s blue wave",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+  "summary": "Investors worry that Democratic dominance will slow down the AI boom",
+  "date": "2026-11-05T23:41:07.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
+ },
+ {
+  "id": "0576a630893fd1be",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MPS bank impersonation scam, district CFO status unclear - FOX6 News Milwaukee",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOclZER0ZKWFpnS211MVZWZl9aWDkxb2tBRGN2akFyR0JVeFl5eDd0WG1oTDJabldlbUQ3cU5qRHRGZzJUSjFYVl9zZ2hrVzRnZU5lNUlINDkzVHpOdXU1WUxGN2o1RURXaTQ4NndlbWNvSjVzYzhEeURXQVM5TmNjTWkzQXlYd2c0bmVkbQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOclZER0ZKWFpnS211MVZWZl9aWDkxb2tBRGN2akFyR0JVeFl5eDd0WG1oTDJabldlbUQ3cU5qRHRGZzJUSjFYVl9zZ2hrVzRnZU5lNUlINDkzVHpOdXU1WUxGN2o1RURXaTQ4NndlbWNvSjVzYzhEeURXQVM5TmNjTWkzQXlYd2c0bmVkbQ?oc=5\" target=\"_blank\">MPS bank imperson",
+  "date": "2026-11-05T23:30:13.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
+ },
+ {
+  "id": "9111b0213fa50b44",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אירבנב עקפה את התחזיות והודיעה על רכישה עצמית ב-12 מיליארד דולר; המניה מזנקת - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14UmxsYWlkRjNmZkRCOFJ3WjFxa0d4ampYYkRaYWVQRm9LLW1EZlJjLU02cUF4WFFPUzNBUU4xa2ZuUG16dEZ0ZlFyNFNyYUIzcGpiMDBKQjYxVmFkeGs4dnpkMWdSUWdkWUItanFRSE8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE14UmxsYWlkRjNmZkRCOFJ3WjFxa0d4ampYYkRaYWVQRm9LLW1EZlJjLU02cUF4WFFPUzNBUU4xa2ZuUG16dEZ0ZlFyNFNyYUIzcGpiMDBKQjYxVmFkeGs4dnpkMWdSUWdkWUItanFRSE8?oc=5\" target=\"_blank\">אירבנב עקפה את התחזיות והודיעה על רכישה עצמית ב-12 מיליא",
+  "date": "2026-11-05T23:14:00.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
+ },
+ {
   "id": "a44d5633aa3ca537",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -31,6 +86,17 @@
   "date": "2026-11-05T22:57:26.000Z",
   "fetched": "2026-11-05T23:33:13.233Z",
   "fromCloud": "2026-11-05T2333.json"
+ },
+ {
+  "id": "661c125b80dced51",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "תשואה של 11% על אג״ח של קורווייב - מה זה אומר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SUVZONTdiblh0eDNHSGJJQ0EyME00WTJYc2tVc1BiU1F5WGh6ZWlobVlCcTJQTXN1dFNGY2pIUmlvNG8xTFBMcVlGZ3ZTbGdzQmdHZUVoMy1wMktpdHhlalpWWmdWUnBldWhwUnBIOV8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1SUVZONTdiblh0eDNHSGJJQ0EyME00WTJYc2tVc1BiU1F5WGh6ZWlobVlCcTJQTXN1dFNGY2pIUmlvNG8xTFBMcVlGZ3ZTbGdzQmdHZUVoMy1wMktpdHhlalpWWmdWUnBldWhwUnBIOV8?oc=5\" target=\"_blank\">תשואה של 11% על אג״ח של קורווייב - מה זה אומר</a>&nbsp;&",
+  "date": "2026-11-05T22:54:00.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
  },
  {
   "id": "20b636dd61729288",
@@ -284,6 +350,17 @@
   "date": "2026-11-05T22:15:21.000Z",
   "fetched": "2026-11-05T22:33:14.449Z",
   "fromCloud": "2026-11-05T2233.json"
+ },
+ {
+  "id": "6ffe453d0063b7b1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Copley Acquisition Corp Announces Shareholder Approval of Extension of Termination Date and Contribution to Trust Account to Extend Termination Date - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcU41c1RtRGlzRFJMMWNHMzlXTktndEZhVkxjallaLVRTMENGRDV5NHIxWVVTZEd1b0lTMW5PYmNfQy1NelNRb3J2NXVqWDN6dWlVX0pYLUMtMm5zU3JSdndQOTc0eGJ0eGE1UTRKcnliU1p5eGw2c1FpVldIaVBtQy1xRF9KMnVlekRSMEU5YU81WHBBNVZyTGZILVp3bkprbTAyMWp6TENlT1dDZXRr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcU41c1RtRGlzRFJMMWNHMzlXTktndEZhVkxjallaLVRTMENGRDV5NHIxWVVTZEd1b0lTMW5PYmNfQy1NelNRb3J2NXVqWDN6dWlVX0pYLUMtMm5zU3JSdndQOTc0eGJ0eGE1UTRKcnliU1p5eGw2c1FpVldIaVBtQy1xRF9KMnVlekRSMEU5YU81WHBBNVZyTGZILVp3bkprbTAyMWp6TENlT1",
+  "date": "2026-11-05T22:15:00.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
  },
  {
   "id": "b1c5d56a739c9c88",
@@ -825,6 +902,28 @@
   "fromCloud": "2026-11-05T2133.json"
  },
  {
+  "id": "1fb1b317b8e3265c",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בעל מתחם אירועים קיבל קנס על עישון במסיבה, ונכשל בניסיון לגבות אותו מהשוכר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05dDZNZHM4NGdfdDNqOWJKZlQzS1FOZl9WalU4VHVRNl80eHVSRTVRbnlTdGN3UlU4MXpzSDBLaDhIRzdSMmpCS21JTTBwT0k5ZzJKVF9tNklLODFiZ1ZsVkdzLWdXZkk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05dDZNZHM4NGdfdDNqOWJKZlQzS1FOZl9WalU4VHVRNl80eHVSRTVRbnlTdGN3UlU4MXpzSDBLaDhIRzdSMmpCS21JTTBwT0k5ZzJKVF9tNklLODFiZ1ZsVkdzLWdXZkk?oc=5\" target=\"_blank\">בעל מתחם אירועים קיבל קנס על עישון במסיבה, ונכשל בניסיון לגבות אותו ",
+  "date": "2026-11-05T21:11:00.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
+ },
+ {
+  "id": "a984ceaefcaccbf5",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "השחיקה עולה ביוקר: למה חברות מתחילות לחשוש מעובדים מותשים? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiazAta2QyNnFVV1dhQVh3aUgwMkxJdEltbnNPdWVEY1NyNE1LQVBqZkFfVnNFdDBjdkFPM3pZVmRJdGRBd0loLVhtTkFuVGtONDM1Z2paeHhQOVowX0ZZeXBsdWRwOVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiazAta2QyNnFVV1dhQVh3aUgwMkxJdEltbnNPdWVEY1NyNE1LQVBqZkFfVnNFdDBjdkFPM3pZVmRJdGRBd0loLVhtTkFuVGtONDM1Z2paeHhQOVowX0ZZeXBsdWRwOVE?oc=5\" target=\"_blank\">השחיקה עולה ביוקר: למה חברות מתחילות לחשוש מעובדים מותשים?</a>&nbsp;",
+  "date": "2026-11-05T21:11:00.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
+ },
+ {
   "id": "d347663d90cabc79",
   "source": "Financial Times",
   "group": "global-press",
@@ -834,6 +933,17 @@
   "date": "2026-11-05T21:07:55.000Z",
   "fetched": "2026-11-05T21:33:14.620Z",
   "fromCloud": "2026-11-05T2133.json"
+ },
+ {
+  "id": "944fd1b783a3d122",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פורשים בסוף השנה: לדחות קיבוע זכויות כדי לתפוס פטור של 62.5%? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2Z0ZjTkFTajluZlNtTjhWbTBjT1NmaTBfcFJmSG50UWNyZ2lRNkhPc2J6LXJPVTBGN1pvTXNrOVBwcFlNNGlqQWpzUGdJcXVyMWxodTJNRGxLMTR0LU1TcE83bEtmYjBJQTlYZ21UdGtnOTg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB2Z0ZjTkFTajluZlNtTjhWbTBjT1NmaTBfcFJmSG50UWNyZ2lRNkhPc2J6LXJPVTBGN1pvTXNrOVBwcFlNNGlqQWpzUGdJcXVyMWxodTJNRGxLMTR0LU1TcE83bEtmYjBJQTlYZ21UdGtnOTg?oc=5\" target=\"_blank\">פורשים בסוף השנה: לדחות קיבוע זכויות כדי לתפוס פטור ",
+  "date": "2026-11-05T21:07:00.000Z",
+  "fetched": "2026-11-06T00:03:11.518Z",
+  "fromCloud": "2026-11-06T0003.json"
  },
  {
   "id": "56080420c42e76f9",
@@ -4353,38 +4463,5 @@
   "date": "2026-11-05T07:38:32.000Z",
   "fetched": "2026-11-05T15:03:12.055Z",
   "fromCloud": "2026-11-05T1503.json"
- },
- {
-  "id": "bf20d53392f197ae",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Beauty, redefined",
-  "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
-  "summary": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking to connect with consumers.",
-  "date": "2026-11-05T00:00:00.000Z",
-  "fetched": "2026-11-05T15:33:12.964Z",
-  "fromCloud": "2026-11-05T1533.json"
- },
- {
-  "id": "94a3afa0c9d26244",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Reinventing the channel: How can your partner ecosystem fuel AI growth?",
-  "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth",
-  "summary": "AI presents an opportunity for technology vendors to reinvent their sales channels. This comprehensive overhaul would require five key moves.",
-  "date": "2026-11-05T00:00:00.000Z",
-  "fetched": "2026-11-05T17:03:17.218Z",
-  "fromCloud": "2026-11-05T1703.json"
- },
- {
-  "id": "af8629c3b302aec1",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "The spirit of the leader",
-  "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-spirit-of-the-leader",
-  "summary": "Leaders who develop their inner world tap into four unique qualities.",
-  "date": "2026-11-05T00:00:00.000Z",
-  "fetched": "2026-11-05T17:33:12.516Z",
-  "fromCloud": "2026-11-05T1733.json"
  }
 ]
