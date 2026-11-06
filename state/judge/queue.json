@@ -1,5 +1,93 @@
 [
  {
+  "id": "1f919e12a30c2f01",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - POWER SOLUTIONS INTERNATIONAL, INC. (0001137091) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1137091/000119312526451805/0001193125-26-451805-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001193125-26-451805 <b>Size:</b> 132 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-11-06T21:02:02.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
+ },
+ {
+  "id": "60052662c1f1ec04",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - FIRST BUSEY CORP /NV/ (0000314489) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/314489/000031448926000072/0000314489-26-000072-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0000314489-26-000072 <b>Size:</b> 314 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-06T21:01:53.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
+ },
+ {
+  "id": "2709fc3d5d486815",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - PINNACLE WEST CAPITAL CORP (0000764622) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/764622/000076462226000055/0000764622-26-000055-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0000764622-26-000055 <b>Size:</b> 7 MB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T21:01:20.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
+ },
+ {
+  "id": "79856b9088685faa",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ARIZONA PUBLIC SERVICE CO (0000007286) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/7286/000076462226000055/0000764622-26-000055-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0000764622-26-000055 <b>Size:</b> 7 MB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T21:01:20.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
+ },
+ {
+  "id": "1beb1ccb0856b69a",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - North Haven Net REIT (0001999784) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000080/0001999784-26-000080-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001999784-26-000080 <b>Size:</b> 170 KB <br>Item 3.02: Unregistered Sales of Equity Securities",
+  "date": "2026-11-06T21:00:15.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
+ },
+ {
+  "id": "db407fbf6567abd5",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1946997/000119312526451784/0001193125-26-451784-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001193125-26-451784 <b>Size:</b> 162 KB <br>Item 3.02: Unregistered Sales of Equity Securities",
+  "date": "2026-11-06T20:53:09.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
+ },
+ {
+  "id": "41b86daadd25b13a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics - The Robot Report",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDdhMDVXZEUxaWRuT1hxNk1GaVRSeHJPdk1OS2NnZXY5c3h3X0dMTHduNlZTbjVub1FFbjJJZ0RYTi1Yc0plVkVJMWRabnhSeXFOTWZ1c3NVMXJWMGtoSHdBMmpvd3FzNGhlUEs1WExHSkg3cVRfTjFKaWdCWm5HcHd4LWxReEpqZXdJb2FybDlOSTlPZnBFak1NaldPRFRlYTk5elRGbmY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDdhMDVXZEUxaWRuT1hxNk1GaVRSeHJPdk1OS2NnZXY5c3h3X0dMTHduNlZTbjVub1FFbjJJZ0RYTi1Yc0plVkVJMWRabnhSeXFOTWZ1c3NVMXJWMGtoSHdBMmpvd3FzNGhlUEs1WExHSkg3cVRfTjFKaWdCWm5HcHd4LWxReEpqZXdJb2FybDlOSTlPZnBFak1NaldPRFRlYTk5elRGbmY?oc",
+  "date": "2026-11-06T20:51:22.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
+ },
+ {
+  "id": "c3e0f843ca666e57",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אחד מכל 9 מבוגרים חולה בסוכרת: איך נמנעים, איך יורדים ומי מרוויח - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UcnA0MWFTcWNDdkw1NDAwRDZhMWl2WTU2QTFZSllEYkZzblJnaVlkYUg4TmczUlp2WThJa1dEdVU1ay1lR3dGbWRGQnFlTHBMa0pXRDhJRlM5OFBGb2dxTVBRQ09RNkM0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UcnA0MWFTcWNDdkw1NDAwRDZhMWl2WTU2QTFZSllEYkZzblJnaVlkYUg4TmczUlp2WThJa1dEdVU1ay1lR3dGbWRGQnFlTHBMa0pXRDhJRlM5OFBGb2dxTVBRQ09RNkM0?oc=5\" target=\"_blank\">אחד מכל 9 מבוגרים חולה בסוכרת: איך נמנעים, איך יורדים ומי מרוויח</a",
+  "date": "2026-11-06T20:48:00.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
+ },
+ {
   "id": "7edd5b034f7f4075",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -75,6 +163,17 @@
   "date": "2026-11-06T20:07:20.000Z",
   "fetched": "2026-11-06T20:33:13.315Z",
   "fromCloud": "2026-11-06T2033.json"
+ },
+ {
+  "id": "30c5f37035833fd3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PXT: Record 2026 production and >$50 million in expected 2027 incremental free cash flow - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdkdiM1pCZW5ZZzhwdTMzaWY1NmlFeXVpNXNaSFVBRHcxQnE0bEVRYU8xYVJMd1oyeHhHdkxwZTYxV0NPN2gyVkVKdWhremF0MFQzSDVVZHRqZnBEVnJzTVFWUlZjTDNpT0lWNUdpNE0zb1RQUGRDeW0yU2dnbE05NUNPV0lpU0ZZVmJBS3JXbDB6NW5KMUJ0SUVQSFQxM2F0RzM2M1ZHSVZvakRwX2RmZ2NSMXVoWkVQY0tMTnZiRHBDZ0JHQ0ZGZTFLNUFXdWxjVkdUcmZTNHk0aTRJb0lWc2pVQzVNUkFMMVloRDRZSXRMTzFuVWtZYVpLOUIyVEp2VkE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNdkdiM1pCZW5ZZzhwdTMzaWY1NmlFeXVpNXNaSFVBRHcxQnE0bEVRYU8xYVJMd1oyeHhHdkxwZTYxV0NPN2gyVkVKdWhremF0MFQzSDVVZHRqZnBEVnJzTVFWUlZjTDNpT0lWNUdpNE0zb1RQUGRDeW0yU2dnbE05NUNPV0lpU0ZZVmJBS3JXbDB6NW5KMUJ0SUVQSFQxM2F0RzM2M1ZHSVZvak",
+  "date": "2026-11-06T20:04:24.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
  },
  {
   "id": "f4be75040e0dc0b8",
@@ -218,6 +317,17 @@
   "date": "2026-11-06T19:35:07.000Z",
   "fetched": "2026-11-06T20:03:12.048Z",
   "fromCloud": "2026-11-06T2003.json"
+ },
+ {
+  "id": "adab315302985d94",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "סנטיאגו פניה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2J4UXBKTXRSUzRyMlNlejAyWXFzMXpxQlN1RllzZjJnYXRQWTZHWUdXQXlJa2tEQUVrMUZEZ3E0ek1FckpTZDVwMzA0aTBJemgxaWtQZ3hUUlNwVjA3eWJqQzRiOHdmZURFeEpyQ2EzRU8wdFRHMVZMREFuQ3FLRTJ4VWFJSW1hLWZjT1F0ZGtRTm9RejRyTXExVUJxUTBUQkE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2J4UXBKTXRSUzRyMlNlejAyWXFzMXpxQlN1RllzZjJnYXRQWTZHWUdXQXlJa2tEQUVrMUZEZ3E0ek1FckpTZDVwMzA0aTBJemgxaWtQZ3hUUlNwVjA3eWJqQzRiOHdmZURFeEpyQ2EzRU8wdFRHMVZMREFuQ3FLRTJ4VWFJSW1hLWZjT1F0ZGtRTm9RejRyTXExVUJxUTBUQkE?oc=5\" targ",
+  "date": "2026-11-06T19:18:01.000Z",
+  "fetched": "2026-11-06T21:03:13.150Z",
+  "fromCloud": "2026-11-06T2103.json"
  },
  {
   "id": "8b4f74754d151780",
@@ -6807,104 +6917,5 @@
   "date": "2026-11-05T21:04:00.000Z",
   "fetched": "2026-11-05T23:33:13.233Z",
   "fromCloud": "2026-11-05T2333.json"
- },
- {
-  "id": "981e7336c870b273",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Keros Therapeutics, Inc. (0001664710) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000065/0001664710-26-000065-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001664710-26-000065 <b>Size:</b> 269 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-05T21:02:38.000Z",
-  "fetched": "2026-11-05T21:03:12.169Z",
-  "fromCloud": "2026-11-05T2103.json"
- },
- {
-  "id": "5b926b99073cab01",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Corvus Pharmaceuticals, Inc. (0001626971) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1626971/000117184326007175/0001171843-26-007175-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001171843-26-007175 <b>Size:</b> 286 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-05T21:02:16.000Z",
-  "fetched": "2026-11-05T21:03:12.169Z",
-  "fromCloud": "2026-11-05T2103.json"
- },
- {
-  "id": "4f5328adf5539b42",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - TransMedics Group, Inc. (0001756262) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1756262/000119312526449729/0001193125-26-449729-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001193125-26-449729 <b>Size:</b> 490 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-05T21:02:14.000Z",
-  "fetched": "2026-11-05T21:03:12.169Z",
-  "fromCloud": "2026-11-05T2103.json"
- },
- {
-  "id": "b055b710b7e31627",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Voyager Therapeutics, Inc. (0001640266) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1640266/000119312526449728/0001193125-26-449728-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001193125-26-449728 <b>Size:</b> 514 KB <br>Item 2.01: Completion of Acquisition or Disposition of Assets",
-  "date": "2026-11-05T21:02:13.000Z",
-  "fetched": "2026-11-05T21:03:12.169Z",
-  "fromCloud": "2026-11-05T2103.json"
- },
- {
-  "id": "5c11999047c53091",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - ARCH CAPITAL GROUP LTD. (0000947484) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/947484/000094748426000159/0000947484-26-000159-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0000947484-26-000159 <b>Size:</b> 198 KB <br>Item 8.01: Other Events",
-  "date": "2026-11-05T21:01:57.000Z",
-  "fetched": "2026-11-05T21:03:12.169Z",
-  "fromCloud": "2026-11-05T2103.json"
- },
- {
-  "id": "6873a82d475259a3",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - BRC Group Holdings, Inc. (0001464790) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1464790/000121390026116361/0001213900-26-116361-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001213900-26-116361 <b>Size:</b> 645 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation un",
-  "date": "2026-11-05T21:01:29.000Z",
-  "fetched": "2026-11-05T21:03:12.169Z",
-  "fromCloud": "2026-11-05T2103.json"
- },
- {
-  "id": "dcaf83637f54b14e",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Acumen Pharmaceuticals, Inc. (0001576885) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026070987/0001628280-26-070987-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001628280-26-070987 <b>Size:</b> 159 KB <br>Item 1.02: Termination of a Material Definitive Agreement <br>Item 2.05: Cost Associated with Exit or Disposal Activities <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-05T21:01:17.000Z",
-  "fetched": "2026-11-05T21:03:12.169Z",
-  "fromCloud": "2026-11-05T2103.json"
- },
- {
-  "id": "d979df30396dd692",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Mid-Michigan bank completes acquisition of West Michigan’s Grand River Bank - WOODTV.com",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzE3VmdwSVZmeVBIZnFnVmFjcjFzclU3NHFsYlpucTd6RDBzWFZTR1c4RzNFaUU1ajRNaVlRZ2tMRUxKcUZNNTdMU25TM2pfcEdFV1UtQlBZZ2plX2NlNzQ2cUpLWjFya0VWVHRKc3lXOHY5X2kwWTlxOGVwQ2x6NWQ1cTJoUzRrX3U5cHluQ1NoX01GdzRfZ1ZCQ3pZNUREYkowR29CYkoyeXY5dXc0QXl3NjhSZ9IBuwFBVV95cUxQWThYTEZXb3lzaHNfWFBsdU5TRk03WHZ6OHlOeURTWHBmLWFxV20wV1pQZXY1Ui1zRk9JX2gtLXhCQU5RaUlraXBIS05WVExMZm1kQzhNSzVOa3ZibVdtc1ppYThIM3B0bU5ObmdwUHI5UENIRmczbDFfWlBnSkFDVmhoaFlvN0NSbjNINXE1TndVdzBNaUdaclJtMHNkSWltYmpUS1Nad0V4anlkaENkYlZENFU3anFULWNF?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzE3VmdwSVZmeVBIZnFnVmFjcjFzclU3NHFsYlpucTd6RDBzWFZTR1c4RzNFaUU1ajRNaVlRZ2tMRUxKcUZNNTdMU25TM2pfcEdFV1UtQlBZZ2plX2NlNzQ2cUpLWjFya0VWVHRKc3lXOHY5X2kwWTlxOGVwQ2x6NWQ1cTJoUzRrX3U5cHluQ1NoX01GdzRfZ1ZCQ3pZNUREYkowR29CYkoyeX",
-  "date": "2026-11-05T20:55:13.000Z",
-  "fetched": "2026-11-05T21:33:14.620Z",
-  "fromCloud": "2026-11-05T2133.json"
- },
- {
-  "id": "12890d7169226ce9",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Fireberry - calcalistech.com",
-  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IcmdEa0JEZWkzaWM1MDI4N1lnM2xNVmxGY0NjSlQ4Nkw3b0xaZVVaSEFnRHFvV1hmZDNFZHpHMmpRQXpKUjl2Mm1zWFV0Z0d6TEhNa0hR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IcmdEa0JEZWkzaWM1MDI4N1lnM2xNVmxGY0NjSlQ4Nkw3b0xaZVVaSEFnRHFvV1hmZDNFZHpHMmpRQXpKUjl2Mm1zWFV0Z0d6TEhNa0hR?oc=5\" target=\"_blank\">Fireberry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
-  "date": "2026-11-05T20:52:12.000Z",
-  "fetched": "2026-11-06T01:33:12.596Z",
-  "fromCloud": "2026-11-06T0133.json"
  }
 ]
