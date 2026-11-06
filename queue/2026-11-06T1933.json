@@ -1,0 +1,116 @@
+{
+ "batch": "2026-11-06T1933",
+ "created": "2026-11-06T19:33:14.245Z",
+ "items": [
+  {
+   "id": "4ddb980157a8607e",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "עוזי גרסטמן - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HM0V1dGhzSGlZWnpyYjN6WW45S2N6MUQwYzNXdDkwOTBLRDdablRPai0xZ0ZRc212czl5LWNVOEpJVThRTkJHRHJ0VVNfeG81V3pzSm82SWs0ZFNTaWVKT2xSYlNUQQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HM0V1dGhzSGlZWnpyYjN6WW45S2N6MUQwYzNXdDkwOTBLRDdablRPai0xZ0ZRc212czl5LWNVOEpJVThRTkJHRHJ0VVNfeG81V3pzSm82SWs0ZFNTaWVKT2xSYlNUQQ?oc=5\" target=\"_blank\">עוזי גרסטמן</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+   "date": "2026-11-06T12:37:36.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "b4c11bc26570da6e",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Protagenic Therapeutics, Inc.\\new (0001022899) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1022899/000149315226050420/0001493152-26-050420-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001493152-26-050420 <b>Size:</b> 312 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01",
+   "date": "2026-11-06T19:15:24.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "eaba4706bb5ccf09",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - SLM Student Loan Trust 2006-7 (0001370218) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1370218/000114036126042404/0001140361-26-042404-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001140361-26-042404 <b>Size:</b> 157 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-11-06T19:12:43.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "5e3a97dd8c8c5e70",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Trump to replace Susie Wiles with Stephen Miller as chief of staff",
+   "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
+   "summary": "Dramatic move comes three days after president’s Republican Party suffered bruising defeat in midterm elections",
+   "date": "2026-11-06T18:59:24.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "f8c0f3fa90db229e",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Dauch posts $45.3M loss, but sales outlook buoys investors - Crain's Detroit",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnhUVXp4c1ExQmdtdzNUMWUyYUJaRmg5aEtUd3Nnd1lGZ1pxSEVSTmdRQXYwdXRjaUIzWGtwUFlETnBBNDZsMDdMSURyUFZCWEgzWlY3M1Q5a0lZbUVjYWV3UndkUi01VEUxWF9lUWhvMTdRSTlEOEpXRU9lQ1RkNGFvOERySnlzU3BtdW9QZDY2QlFi?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnhUVXp4c1ExQmdtdzNUMWUyYUJaRmg5aEtUd3Nnd1lGZ1pxSEVSTmdRQXYwdXRjaUIzWGtwUFlETnBBNDZsMDdMSURyUFZCWEgzWlY3M1Q5a0lZbUVjYWV3UndkUi01VEUxWF9lUWhvMTdRSTlEOEpXRU9lQ1RkNGFvOERySnlzU3BtdW9QZDY2QlFi?oc=5\" target=\"_blank\">Dauch p",
+   "date": "2026-11-06T19:09:00.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "33db672f7112ac66",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing - Clinical Lab Products",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNFRsWGtIRFpfVGFwbFdTc21zSUN1amJiYkc0YUE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNF",
+   "date": "2026-11-06T19:05:52.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "8d0edaa8d65fb66b",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "OpenAI to press ahead with data-center expansion despite midterm sweep, CFO tells CNBC By Reuters - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMU1Lczh0NkVEUlM5TnZHbnFVSTE5ODhKNXZSZHpNTzZMUF9ISVYwcngwb1ZDcjBubXBBNEJQaTlLX0tnX3FWTEpka2luQmNYd2VZazROc25tSG9WdWZsdWJsR05veFNsN21PVWRhN0lKdlJZazJWODVKVmZkd0ZXczh6QkVVenhqcVl6QWNuMFotaE5uMDlqR00zLUQxcHVGbmVVZVBRRWJITGR6Vk5qSlhuSEI4SEhaYmlqRUp5LV9pWG9EYzZkQk9Sc3gxUTdKenk2aGRINy0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMU1Lczh0NkVEUlM5TnZHbnFVSTE5ODhKNXZSZHpNTzZMUF9ISVYwcngwb1ZDcjBubXBBNEJQaTlLX0tnX3FWTEpka2luQmNYd2VZazROc25tSG9WdWZsdWJsR05veFNsN21PVWRhN0lKdlJZazJWODVKVmZkd0ZXczh6QkVVenhqcVl6QWNuMFotaE5uMDlqR00zLUQxcHVGbmVVZVBRRWJITG",
+   "date": "2026-11-06T18:13:51.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "ed6b928e698716c7",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "CP Group, the Georgetown Company and Acre Announce Acquisition of Iconic Mizner Park in Boca Raton - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLTl2c1ZaY2FFcUYxQXpaM0pCTzNFXzNKTjZyQTg5NDNoQ2U5dGF3TVlmNUNhcURBM1JhNHBXUnkyelIyQU5hUTVNeFhZXzJQb3BuekR0NjR6ankxbDY3dDNDbE1BcXVWdkhUNWw4b2hEeHZ6RG4xTUVvSG1SV3AxdVk4bWtYV2EzY3RwcUN3ckFVWHVyWHpvRWloanBqMTIwdUQwT1RwLVh6dXZYQlNabG1VOFN2UExBTlFzX2ZiMUFIeFlDMFF2REFXTjFseWpxS0E?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLTl2c1ZaY2FFcUYxQXpaM0pCTzNFXzNKTjZyQTg5NDNoQ2U5dGF3TVlmNUNhcURBM1JhNHBXUnkyelIyQU5hUTVNeFhZXzJQb3BuekR0NjR6ankxbDY3dDNDbE1BcXVWdkhUNWw4b2hEeHZ6RG4xTUVvSG1SV3AxdVk4bWtYV2EzY3RwcUN3ckFVWHVyWHpvRWloanBqMTIwdUQwT1RwLVh6dX",
+   "date": "2026-11-06T19:03:31.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "1fc7442862d014b4",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Vivo expands office furniture portfolio with Vari acquisition, CEO change - Furniture Today",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQWZyQWc3ZzhraVRyX0JEazZGdXUwZHY4cEp4dkhJZjhuaXh5LVhmWjVmODBJTlQ1aksxQUV3QU01QjJKM3pmUTlVSVZBeEVuSG82OGh5c29CeHRoX0VBSTNCV0M1NGdOcWNtMWM2SVUxN1Q0NTkzTGxwMnliU0dXR2l2d0tuR1I4RzNfTmY4WF9fMkZvR2hrNGliTENoZGlnU2F0QVAwdC1yNnhBNTdPMUtZQUI0eDA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQWZyQWc3ZzhraVRyX0JEazZGdXUwZHY4cEp4dkhJZjhuaXh5LVhmWjVmODBJTlQ1aksxQUV3QU01QjJKM3pmUTlVSVZBeEVuSG82OGh5c29CeHRoX0VBSTNCV0M1NGdOcWNtMWM2SVUxN1Q0NTkzTGxwMnliU0dXR2l2d0tuR1I4RzNfTmY4WF9fMkZvR2hrNGliTENoZGlnU2F0QVAwdC1yNn",
+   "date": "2026-11-06T19:17:32.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "4d03dbefb76f98cd",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "OpenAI will keep investing in data centers despite results of midterms - CFO - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZG9jZG1XSUMwZ2lSWWlqVHh0eVBkb2FKaDRJQUVMSlc2NzJpeXIwVTltb0Q0MkF6Y3hxSEI5Sm9vNnlYZFZCTXE4XzdqVU9sNzNsb0NXcjU2Mk4zbVRlRUthdTVaWWpKSVVfbldGTXBSanlXMlRFLWFPc244QnNhdDlWYVdiLUtwNEp3UnBNVC1nZzVfb1Q4Q0YzR1BKc093VkpXaGJFX0R1OURYVXdkRjRjRGVTOVp2S3FPYi1aZ05mNldHWXlnRXNZWlM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOZG9jZG1XSUMwZ2lSWWlqVHh0eVBkb2FKaDRJQUVMSlc2NzJpeXIwVTltb0Q0MkF6Y3hxSEI5Sm9vNnlYZFZCTXE4XzdqVU9sNzNsb0NXcjU2Mk4zbVRlRUthdTVaWWpKSVVfbldGTXBSanlXMlRFLWFPc244QnNhdDlWYVdiLUtwNEp3UnBNVC1nZzVfb1Q4Q0YzR1BKc093VkpXaGJFX0R1OU",
+   "date": "2026-11-06T18:51:58.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  },
+  {
+   "id": "abb1a5f65845b8c7",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Could Refinancing Save You $400 a Month or More? ChatGPT Does the Math - AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcW9CTlFmUmF3VXhVY2o4UkN2dmVlLUxYVk4xTnNqYWU3aTlZNHBseUp1aGU4d2M1azRYYnNGNkJqRE1TMFJjUXNoSkRMVTBQRzg2cTJHTXl0TC1MX1liRzR5a201Y0VZQnFiVXFPM2d3OUZia3lmODlNVnJPaFFnYkF3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcW9CTlFmUmF3VXhVY2o4UkN2dmVlLUxYVk4xTnNqYWU3aTlZNHBseUp1aGU4d2M1azRYYnNGNkJqRE1TMFJjUXNoSkRMVTBQRzg2cTJHTXl0TC1MX1liRzR5a201Y0VZQnFiVXFPM2d3OUZia3lmODlNVnJPaFFnYkF3?oc=5\" target=\"_blank\">Could Refinancing Save You $400",
+   "date": "2026-11-06T18:00:15.000Z",
+   "fetched": "2026-11-06T19:33:14.245Z"
+  }
+ ]
+}
