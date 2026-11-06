@@ -1,5 +1,181 @@
 [
  {
+  "id": "e701814396004cec",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1271834/000109166726000072/0001091667-26-000072-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001091667-26-000072 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T12:00:54.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "dc6693cea558f2b1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1091667/000109166726000072/0001091667-26-000072-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001091667-26-000072 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T12:00:54.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "bb39e13eabe2b7a4",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - PRECISION BIOSCIENCES INC (0001357874) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1357874/000162828026071304/0001628280-26-071304-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001628280-26-071304 <b>Size:</b> 18 MB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T12:00:25.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "5951e6420f1584d1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Perspective Therapeutics, Inc. (0000728387) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/728387/000119312526450709/0001193125-26-450709-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001193125-26-450709 <b>Size:</b> 17 MB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T12:00:23.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "dbdc9a506e958cb2",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+  "link": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+  "summary": "As shipping costs surge due to high fuel prices, smaller and medium-sized retailers struggle to keep up, and they face a difficult holiday season.",
+  "date": "2026-11-06T12:00:01.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "e8696dc1f6141bd4",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Airsculpt Technologies, Inc. (0001870940) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1870940/000187094026000054/0001870940-26-000054-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001870940-26-000054 <b>Size:</b> 82 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 1.02: Termination of a Material Definitive Agreement <br>Item 2.02: Results of Operations and Financial Condition <br>Item 2.03: Creat",
+  "date": "2026-11-06T11:57:42.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "5f28d0894a6b85bd",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - STARWOOD PROPERTY TRUST, INC. (0001465128) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1465128/000146512826000030/0001465128-26-000030-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001465128-26-000030 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition",
+  "date": "2026-11-06T11:56:48.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "bd91a13678fde9d8",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+  "link": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+  "summary": "<p data-block-key=\"zcn4j\">Set to be powered via fuel cells and gas generation, coupled with CCS</p>",
+  "date": "2026-11-06T11:56:37.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "2d6e77ed178b8801",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+  "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+  "summary": "The biotech company now expects 2026 revenue growth of 15% to 25%, up from its previous guidance of up to 10%.",
+  "date": "2026-11-06T11:56:04.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "b04762ab80f811ba",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Topicus.com Inc. completes the acquisition of Softland Inversiones, S.L. - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEtvVGdQX2oxSWNnbkRYUXhRcGtBQXJJSlJ6QWZydjhxS21EeUhIaVBFMEdsR29McGZJV3drejlsaHBnT3BPX0h5dFlRcmpETWh4Nks3c2ZURjF0anoxNjlCR1ZOYmpjMmVsQTh6NXdzdXdPeExNWXhwLWE4anhMWkM2WE54NXFMVVZ1YWFwVV9DMkNicVBGaXhaZ3FOcGdxRHFrM010S2JQM1lFU1BVUjRUZUUwRmJTM0dlNDFXV3pfTFhqR2RaLXRRYS0tZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEtvVGdQX2oxSWNnbkRYUXhRcGtBQXJJSlJ6QWZydjhxS21EeUhIaVBFMEdsR29McGZJV3drejlsaHBnT3BPX0h5dFlRcmpETWh4Nks3c2ZURjF0anoxNjlCR1ZOYmpjMmVsQTh6NXdzdXdPeExNWXhwLWE4anhMWkM2WE54NXFMVVZ1YWFwVV9DMkNicVBGaXhaZ3FOcGdxRHFrM010S2JQM1",
+  "date": "2026-11-06T11:54:59.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "f7f544e5fac2d60b",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Playmobil owner to enter data center market with new facility in Dietenhofen, Germany",
+  "link": "https://www.datacenterdynamics.com/en/news/playmobil-owner-to-enter-data-center-market-with-new-facility-in-dietenhofen-germany/",
+  "summary": "<p data-block-key=\"ir54w\">The proposed facility will have power requirements of up to 100MW</p>",
+  "date": "2026-11-06T11:52:51.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "a39e19ee1153fafd",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Secure I.T. Environments to deliver modular data centers to hospitals in Wales",
+  "link": "https://www.datacenterdynamics.com/en/news/secure-it-environments-to-deliver-modular-data-centers-to-hospitals-in-wales/",
+  "summary": "<p data-block-key=\"5xsct\">Bagnor and Wrexham Maelor Hospitals</p>",
+  "date": "2026-11-06T11:47:00.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "e439c0593d673f68",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Adani Ports Bets $2.88 Billion on Europe with Evos Acquisition - ChemAnalyst",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0c1dENPNTJrb2dRVmNQN2lrWjRpSlB5NkZFa3Jycl9JWnBxNk5Mc3RaUXNvN1hxVGhCNjBVVlhkdnQ3SGgzc3pBeC1uNk84U0JXR3pES09LVllhQzVnWUFuX2FoWEgwMHJmUExMZTFMWHIxM24tc2xoNXJsYjgyYW1QOExSTlFqejBxR0ZhZ0R5emlFalNsQ0szM0gtU2dvczg3NDQ5QWR4NENu?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0c1dENPNTJrb2dRVmNQN2lrWjRpSlB5NkZFa3Jycl9JWnBxNk5Mc3RaUXNvN1hxVGhCNjBVVlhkdnQ3SGgzc3pBeC1uNk84U0JXR3pES09LVllhQzVnWUFuX2FoWEgwMHJmUExMZTFMWHIxM24tc2xoNXJsYjgyYW1QOExSTlFqejBxR0ZhZ0R5emlFalNsQ0szM0gtU2dvczg3NDQ5QWR4NE",
+  "date": "2026-11-06T11:42:00.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "1a8493d711c414e5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "RIA moves: Tech-focused RIA BKFi expands with first acquisition - InvestmentNews",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDJ1V3NtaXBFVmk0TzFtTUI1dVNxOGI2Qzc1WjVvdFh6M2N0QnhrLXJ0bUstT19tbU5IeTh6bzkwZ2p0Vl94SmlJT09ldTc0NDFoUlAxR3p0cDhwMmNVMG9id1E0ODRUeVczeHAwTVJBNFdRME85T2NaU0hUNlJRa2RBempuNDZEaThydnJ5eW9WQ3RVRnllS0UyU1dwaWdMc2V4dWpVcjR4TUprVjdxQzhnODNqLTlHTVlnN2xYbGVmd3lfdHJRWENwdkI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDJ1V3NtaXBFVmk0TzFtTUI1dVNxOGI2Qzc1WjVvdFh6M2N0QnhrLXJ0bUstT19tbU5IeTh6bzkwZ2p0Vl94SmlJT09ldTc0NDFoUlAxR3p0cDhwMmNVMG9id1E0ODRUeVczeHAwTVJBNFdRME85T2NaU0hUNlJRa2RBempuNDZEaThydnJ5eW9WQ3RVRnllS0UyU1dwaWdMc2V4dWpVcjR4TU",
+  "date": "2026-11-06T11:37:32.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "0019a40609ea42c7",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שילמתם דמי ביטוח לאומי ביתר? כך בודקים ומקבלים החזר עד 7 שנים אחורה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ja0xfbm95dEdLckVpNS1XVHUwdVU4bUh3aGR4WnNuTnI3b0w0cE80dFdNdmJ0NjNtOVhkLUwwSDdvMDJkVW1WcTlIV01iejRMc2ZWLTNEc0NLbm5CUHcwdEx0cWloVjRHbENWRVVxUi05dzlOQmk1VjZR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ja0xfbm95dEdLckVpNS1XVHUwdVU4bUh3aGR4WnNuTnI3b0w0cE80dFdNdmJ0NjNtOVhkLUwwSDdvMDJkVW1WcTlIV01iejRMc2ZWLTNEc0NLbm5CUHcwdEx0cWloVjRHbENWRVVxUi05dzlOQmk1VjZR?oc=5\" target=\"_blank\">שילמתם דמי ביטוח לאומי ביתר? כך בודקים ומקב",
+  "date": "2026-11-06T11:33:00.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
+  "id": "5a9f367a3f7609eb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "K&F Growth Acquisition Corp. II extends business combination deadline after shareholder approval - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRHJnQzRnY2dmYlprUFN6TVVnNUhEOW1SRTY0bXZ6dzlIQjlhMmlIVzVycTd0eHhvLWRsNnpvS21qN3dfdjhmVjdZS3BmV003YUxMZTg2ZmQ2QWZUVmF4ejJnSk9jVi1uZmFmRmQ1MkthbHcwanp6aFR6NFpDek9ORTF1aG5KU2Exa0staXBwUDBfOUphaE9xWlhhQktYcnhTaGFzZnY2eF9kVTJyUk5faXdxc2FCWEU5VGRsY2NqQnRaNldNNEFJUE1rNWQ4d1RrSVhLR1hzS250bzBGX25Jc2M2RFY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRHJnQzRnY2dmYlprUFN6TVVnNUhEOW1SRTY0bXZ6dzlIQjlhMmlIVzVycTd0eHhvLWRsNnpvS21qN3dfdjhmVjdZS3BmV003YUxMZTg2ZmQ2QWZUVmF4ejJnSk9jVi1uZmFmRmQ1MkthbHcwanp6aFR6NFpDek9ORTF1aG5KU2Exa0staXBwUDBfOUphaE9xWlhhQktYcnhTaGFzZnY2eF9kVT",
+  "date": "2026-11-06T11:32:38.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
   "id": "252d4f610b5ea1e6",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -42,6 +218,17 @@
   "date": "2026-11-06T11:30:00.000Z",
   "fetched": "2026-11-06T11:33:11.809Z",
   "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "85a16242b2cf9179",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Analog Devices completes $1.35B Alif Semiconductor acquisition - TNGlobal",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDJJMzhqaVFNVXl0RzNLLWdNMFhkeEZLWnpMVFAwX1dPM19sd1hZcmx2UXdfT1BFQzdNUzFnaExPRkIzNXRlN2owcURpbXFYR0RMeHE4cVhrUFA4bEszTVJEaTNiZllDTjU1bEZvVFdET0lKX0hWRFQ0U3VveVNuWldCUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDJJMzhqaVFNVXl0RzNLLWdNMFhkeEZLWnpMVFAwX1dPM19sd1hZcmx2UXdfT1BFQzdNUzFnaExPRkIzNXRlN2owcURpbXFYR0RMeHE4cVhrUFA4bEszTVJEaTNiZllDTjU1bEZvVFdET0lKX0hWRFQ0U3VveVNuWldCUQ?oc=5\" target=\"_blank\">Analog Devices completes $1.3",
+  "date": "2026-11-06T11:28:57.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
  },
  {
   "id": "334f3cbc9b4c3f00",
@@ -130,6 +317,17 @@
   "date": "2026-11-06T11:06:37.000Z",
   "fetched": "2026-11-06T11:33:11.809Z",
   "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "86eeb1d7a87583fc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Superdry refinancing deal will fund next growth phase - FashionNetwork USA",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1B1TFgtaHBuVzN0dVZwUGVGc3gtbkdNN0RzTEYyNzFuVF9sZHBIX2k5TmljczFtNGxhMEQyb29mSnhobGVDMnc3bVB5YWRhc1lTRlhPeHRuZmU2dmZOeVVVZENsSHRVRzlMbE9iQUxkQVdIZGhWVUkwSEdHWWpJWEFlaExDSHVrNUhlejk2azN6enctOE1IYngyZm5oUGhhN3k4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1B1TFgtaHBuVzN0dVZwUGVGc3gtbkdNN0RzTEYyNzFuVF9sZHBIX2k5TmljczFtNGxhMEQyb29mSnhobGVDMnc3bVB5YWRhc1lTRlhPeHRuZmU2dmZOeVVVZENsSHRVRzlMbE9iQUxkQVdIZGhWVUkwSEdHWWpJWEFlaExDSHVrNUhlejk2azN6enctOE1IYngyZm5oUGhhN3k4?oc=5\" tar",
+  "date": "2026-11-06T11:06:37.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
  },
  {
   "id": "e76f55eee29fcf45",
@@ -724,6 +922,17 @@
   "date": "2026-11-06T08:24:00.000Z",
   "fetched": "2026-11-06T09:33:11.827Z",
   "fromCloud": "2026-11-06T0933.json"
+ },
+ {
+  "id": "0934435b9661473b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "South32 maintains June 2027 timeline for Alcoa's acquisition of aluminium assets - AL Circle",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXhxdTN2c2VWYXFiNG5ocldWbnRwVHZmTmoxQUNiMjZFT292elNNNjZDREZjVzBCRG4zUDB1d1gtT0RoWlBOam1nUHJsTDg5RW5LNGpYUVM1MlRrUk1rYW9IUEdsS1JaWVVFbEZDY3NpUm9jeFJWTjJHbzEwWGxKdXFPQjJ0MmxadVJYWGxpOVJJTWFJVGVDMHZwcGpEeXpCUlc0MFFBdzJSZWhDN2p3dkt5Zk1QRi1x?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXhxdTN2c2VWYXFiNG5ocldWbnRwVHZmTmoxQUNiMjZFT292elNNNjZDREZjVzBCRG4zUDB1d1gtT0RoWlBOam1nUHJsTDg5RW5LNGpYUVM1MlRrUk1rYW9IUEdsS1JaWVVFbEZDY3NpUm9jeFJWTjJHbzEwWGxKdXFPQjJ0MmxadVJYWGxpOVJJTWFJVGVDMHZwcGpEeXpCUlc0MFFBdzJSZW",
+  "date": "2026-11-06T08:20:00.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
  },
  {
   "id": "140c429fb621e3f0",
@@ -4037,6 +4246,17 @@
   "fromCloud": "2026-11-05T2003.json"
  },
  {
+  "id": "10eac73fe5139fb9",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "פיירברי - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSFlVbEdOSXZ0ekloX1c2b0VhcVB3MUVKYnZjVzc0UGNRNjB2Zy1tUTc3cTZKdzN6cXFhMEQ1SjUzbzdRY0pCeFNqZFhURlZCR2JaSkxSYUVUU1I4YmVQZWxkZnpRTVdqZWNtMWlwUERydndsTndNdXB5ZzZfMUpTaw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQSFlVbEdOSXZ0ekloX1c2b0VhcVB3MUVKYnZjVzc0UGNRNjB2Zy1tUTc3cTZKdzN6cXFhMEQ1SjUzbzdRY0pCeFNqZFhURlZCR2JaSkxSYUVUU1I4YmVQZWxkZnpRTVdqZWNtMWlwUERydndsTndNdXB5ZzZfMUpTaw?oc=5\" target=\"_blank\">פיירברי</a>&nbsp;&nbsp;<font colo",
+  "date": "2026-11-05T19:47:08.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
   "id": "e555d03b485a0b27",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -4365,6 +4585,17 @@
   "date": "2026-11-05T18:30:00.000Z",
   "fetched": "2026-11-05T19:03:18.765Z",
   "fromCloud": "2026-11-05T1903.json"
+ },
+ {
+  "id": "0ede713818ecaf61",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "מטרו (גוש דן) - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNG9zbFIzeExXRmVqZ3dtQU84dTJubzBJaTRQNHNoakt3ZV9fNG1MMnFQZEN2NlNmMk02WTl6U0szQWZoTnNiOHlIMHZOdENkOC1Tb1dHbDRYMkRYUTJaV200ZzZOLTdyRVNHM3ZZNUl2eUNZQXh0UEVnQzFtTnc4ZVJwSm1udWwwQi10OXg4UFFYMlVpVEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNG9zbFIzeExXRmVqZ3dtQU84dTJubzBJaTRQNHNoakt3ZV9fNG1MMnFQZEN2NlNmMk02WTl6U0szQWZoTnNiOHlIMHZOdENkOC1Tb1dHbDRYMkRYUTJaV200ZzZOLTdyRVNHM3ZZNUl2eUNZQXh0UEVnQzFtTnc4ZVJwSm1udWwwQi10OXg4UFFYMlVpVEE?oc=5\" target=\"_blank\">מטרו",
+  "date": "2026-11-05T18:26:38.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
  },
  {
   "id": "ce03895f7c2f5853",
@@ -6830,6 +7061,17 @@
   "fromCloud": "2026-11-05T1533.json"
  },
  {
+  "id": "eed82efd70959010",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "אוהד שגב - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnQyU3FDa3pMX28zVGtiWkJ4RFpzbTVkTEZuMVAyeEktSGtkVUoxUkxzMkFGSWRxa3M2Rzd1V3lXMl9TR3YydlNUZkNUUldiWmV3UnFydENCeWVtc1RXM1J2dVJVeTVDamU5eUxoMERTTHR0U2dnTHhzaU16NWtDVUZB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnQyU3FDa3pMX28zVGtiWkJ4RFpzbTVkTEZuMVAyeEktSGtkVUoxUkxzMkFGSWRxa3M2Rzd1V3lXMl9TR3YydlNUZkNUUldiWmV3UnFydENCeWVtc1RXM1J2dVJVeTVDamU5eUxoMERTTHR0U2dnTHhzaU16NWtDVUZB?oc=5\" target=\"_blank\">אוהד שגב</a>&nbsp;&nbsp;<font c",
+  "date": "2026-11-05T13:52:08.000Z",
+  "fetched": "2026-11-06T12:03:11.824Z",
+  "fromCloud": "2026-11-06T1203.json"
+ },
+ {
   "id": "345dd57fa6d41f6b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -6985,67 +7227,5 @@
   "date": "2026-11-05T12:10:25.000Z",
   "fetched": "2026-11-05T15:03:12.055Z",
   "fromCloud": "2026-11-05T1503.json"
- },
- {
-  "id": "7b543cc6d195d552",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "מנהל רשות המסים: \"מההון השחור אפשר להביא 8 מיליארד ש' בשנה\" - גלובס",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiWTRHZ2doSmtHQ2NWMU1jU0dXSVlydUFoa21hcVFoSU1oX0RWaU1EellEeUhReC1LTzFJNkFEeG1VX1AxUDB4V04wLWI1UjB6UEZ6QlNQbkduOGhvd1hzeG96Q3JWNEp1?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiWTRHZ2doSmtHQ2NWMU1jU0dXSVlydUFoa21hcVFoSU1oX0RWaU1EellEeUhReC1LTzFJNkFEeG1VX1AxUDB4V04wLWI1UjB6UEZ6QlNQbkduOGhvd1hzeG96Q3JWNEp1?oc=5\" target=\"_blank\">מנהל רשות המסים: \"מההון השחור אפשר להביא 8 מיליארד ש' בשנה\"</a>&nbs",
-  "date": "2026-11-05T11:57:16.000Z",
-  "fetched": "2026-11-05T15:33:12.964Z",
-  "fromCloud": "2026-11-05T1533.json"
- },
- {
-  "source": "Times of Israel",
-  "group": "israel-press",
-  "title": "Daily Briefing Nov. 5 &#8211; Trump’s bombshell end of Israel military aid: Good for the Jewish state?",
-  "link": "https://www.timesofisrael.com/daily-briefing-nov-5-trumps-bombshell-end-of-israel-military-aid-good-for-the-jewish-state/",
-  "summary": "Military correspondent Emanuel Fabian weighs in on how a 'super-Sparta' Israel may reprioritize with a heftier defense budget, and updates us on operations along Israel's borders",
-  "date": "2026-11-05T11:52:49.000Z",
-  "id": "f0dbcc4a85934d2c"
- },
- {
-  "id": "ce972048456bb57f",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "יתרות המט\"ח של ישראל עלו ל-237.8 מיליארד דולר - לדעת",
-  "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBqaTFra3ZuMTM0eVdRUlNZem5ISmk2QUVsZUVnb3J6UERQdE9pVHg5d1FVSEFNaTl2anRLNjBqSWM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTFBqaTFra3ZuMTM0eVdRUlNZem5ISmk2QUVsZUVnb3J6UERQdE9pVHg5d1FVSEFNaTl2anRLNjBqSWM?oc=5\" target=\"_blank\">יתרות המט\"ח של ישראל עלו ל-237.8 מיליארד דולר</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">לדעת</font>",
-  "date": "2026-11-05T11:47:09.000Z",
-  "fetched": "2026-11-05T18:03:13.260Z",
-  "fromCloud": "2026-11-05T1803.json"
- },
- {
-  "id": "6ed6517304042fed",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אופקו: צמיחה של 16% בהכנסות מול הפסד שמעמיק ל-35.5 מיליון דולר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Uc29XLWdFRS1WTFRxcTZyT1NMSGtlTVV1NkJMTXhDdElmbWhjemZSM3o3NWRPVU40cE4yOGhwWFNCeWVrc2xWQW9MWk9HTkdtSy1LYXplSUp3VE9jWGttTmVtLVFDOWlBWmc2QTBfUFE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5Uc29XLWdFRS1WTFRxcTZyT1NMSGtlTVV1NkJMTXhDdElmbWhjemZSM3o3NWRPVU40cE4yOGhwWFNCeWVrc2xWQW9MWk9HTkdtSy1LYXplSUp3VE9jWGttTmVtLVFDOWlBWmc2QTBfUFE?oc=5\" target=\"_blank\">אופקו: צמיחה של 16% בהכנסות מול הפסד שמעמיק ל-35.5 מיליו",
-  "date": "2026-11-05T11:47:00.000Z",
-  "fetched": "2026-11-05T18:03:13.260Z",
-  "fromCloud": "2026-11-05T1803.json"
- },
- {
-  "id": "3e00429de923354c",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "איטליה תפצה תחנות כוח על הגז - במטרה להוריד את מחיר החשמל - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qN05CRF9SVDVvaDl2SzQ5Tzc0dWJkYl9DWWhwX3hiUzBCMnpHSGUxUzYyTGEtRXlweWlDM19NYlNWdERVZDdoSjNVZEVPcS0xcFFTUTF3UTN2R0JVcUJOcjJoTW82QVU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qN05CRF9SVDVvaDl2SzQ5Tzc0dWJkYl9DWWhwX3hiUzBCMnpHSGUxUzYyTGEtRXlweWlDM19NYlNWdERVZDdoSjNVZEVPcS0xcFFTUTF3UTN2R0JVcUJOcjJoTW82QVU?oc=5\" target=\"_blank\">איטליה תפצה תחנות כוח על הגז - במטרה להוריד את מחיר החשמל</a>&nbsp;&",
-  "date": "2026-11-05T11:46:00.000Z",
-  "fetched": "2026-11-05T22:33:14.449Z",
-  "fromCloud": "2026-11-05T2233.json"
- },
- {
-  "source": "Times of Israel",
-  "group": "israel-press",
-  "title": "World Court gets 5 new judges; 1 accused Israel of &#8216;ethnic cleansing&#8217; weeks after Oct. 7",
-  "link": "https://www.timesofisrael.com/world-court-gets-5-new-judges-1-accused-israel-of-ethnic-cleansing-weeks-after-oct-7/",
-  "summary": "Mahmoud Daifallah Hmoud of Jordan also said shortly after Hamas-led onslaught that Israel committed 'war crimes'; Israeli envoy: Proof of UN’s ‘institutional bias’ against us",
-  "date": "2026-11-05T11:43:51.000Z",
-  "id": "353f08002288d5d8"
  }
 ]
