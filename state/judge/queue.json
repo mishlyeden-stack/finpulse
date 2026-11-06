@@ -1,5 +1,27 @@
 [
  {
+  "id": "46e9c7984e27c263",
+  "source": "ECB",
+  "group": "global-official",
+  "title": "ECB publishes consolidated banking data for end-June 2026",
+  "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+  "summary": "",
+  "date": "2026-11-06T09:00:00.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
+ },
+ {
+  "id": "1b698b468d2211ec",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "״נוצרה הזדמנות״: מנכ״ל ישראייר מאשר את חשיפת גלובס על מו״מ לרכישת ארקיע",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001562357#utm_source=RSS",
+  "summary": "מנכ\"ל ישראייר אורי סירקיס התייחס לראשונה לחשיפת גלובס על כוונת חברת התעופה לרכוש את המתחרה ישראייר &#8226; במכתב לעובדים כתב המנכ\"ל כי החברה נמצאת ב\"עמדה של רכוש פוטנציאלי משמעותי\" וכי המטרה היא \"לשנות את מפת התעופה הישראלית\"",
+  "date": "2026-11-06T08:42:00.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
+ },
+ {
   "id": "ef5f62f339adba2a",
   "source": "ynet כלכלה",
   "group": "israel-press",
@@ -20,6 +42,28 @@
   "date": "2026-11-06T08:00:00.000Z",
   "fetched": "2026-11-06T08:03:13.676Z",
   "fromCloud": "2026-11-06T0803.json"
+ },
+ {
+  "id": "084e00f33c679ef7",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "כמה תשלמו על אריזת גללי פר? דברים שלא ידעתם על חודש הקניות - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlWVg2dkJlTHhGYVBNSEUwS0pYU3c4elo1eFR1d0hhN3VTVlVSRmg0Y2dtdzNkODBQYmY3Q3pldVhHLWQ4WVU2X28wc0pCUDVRSUxfTExPN1ZxcndVYUo5VVJ0Y0dZdHh4RXM4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBlWVg2dkJlTHhGYVBNSEUwS0pYU3c4elo1eFR1d0hhN3VTVlVSRmg0Y2dtdzNkODBQYmY3Q3pldVhHLWQ4WVU2X28wc0pCUDVRSUxfTExPN1ZxcndVYUo5VVJ0Y0dZdHh4RXM4?oc=5\" target=\"_blank\">כמה תשלמו על אריזת גללי פר? דברים שלא ידעתם על חודש הקניות</a>&",
+  "date": "2026-11-06T08:00:00.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
+ },
+ {
+  "id": "c38741f46a59a9b4",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "הניצחון הדמוקרטי מכה במאסק: טסלה ו-SpaceX איבדו 456 מיליארד דולר משוויין ביומיים - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Sa25hbW9VS0Z3VTBmWVRMb3lsbmNJSGN4TjgwRXo5UHNjWnNwRTh5VHoyVERORDh2a0ZMTDY5SVluNjUzR2JXN3U2YUNaZVNRamIxRk9GSFhvYlJKeDBrSjRkQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Sa25hbW9VS0Z3VTBmWVRMb3lsbmNJSGN4TjgwRXo5UHNjWnNwRTh5VHoyVERORDh2a0ZMTDY5SVluNjUzR2JXN3U2YUNaZVNRamIxRk9GSFhvYlJKeDBrSjRkQQ?oc=5\" target=\"_blank\">הניצחון הדמוקרטי מכה במאסק: טסלה ו-SpaceX איבדו 456 מיליארד דולר משוויין ",
+  "date": "2026-11-06T07:56:00.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
  },
  {
   "id": "95124f17d7d580e5",
@@ -53,6 +97,17 @@
   "date": "2026-11-06T07:14:01.000Z",
   "fetched": "2026-11-06T08:33:15.597Z",
   "fromCloud": "2026-11-06T0833.json"
+ },
+ {
+  "id": "5c7e1aae2104bcc7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Chord Energy Corp (CHRD) (Q3 2026) Earnings Call Highlights: $442 Million Free Cash Flow, 17% ... - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWDN6SDhJWTRtMy15NW9MMkprVHJ0Z1ZSampCZmg2VC16aWpMTkFSb1dpYjZwVU56OERUSV9uVkFpcktJODhiOW1HNVROVW1kdDZMZFJzbzNBMGJTSEFUSzRBZWltalcwWUd6OXJUSjRyaXUxZlM4c0FBSjkxV0V4ZTZEZE1md1Zyb1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOWDN6SDhJWTRtMy15NW9MMkprVHJ0Z1ZSampCZmg2VC16aWpMTkFSb1dpYjZwVU56OERUSV9uVkFpcktJODhiOW1HNVROVW1kdDZMZFJzbzNBMGJTSEFUSzRBZWltalcwWUd6OXJUSjRyaXUxZlM4c0FBSjkxV0V4ZTZEZE1md1Zyb1E?oc=5\" target=\"_blank\">Chord Energy Corp (C",
+  "date": "2026-11-06T07:14:00.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
  },
  {
   "id": "d7c16a4d8f17b5f3",
@@ -231,6 +286,17 @@
   "fromCloud": "2026-11-06T0803.json"
  },
  {
+  "id": "fe728cf222a7c6f8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Maria Hedengren appointed new CFO of Knowit - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmZER0l2ZHd3VUlEcG1pdW9zdlowdDZsbnhHUlEtMTJPOXFxaUNnNHZKMWhlSlg5MWtGZllSdDNvbEFMTG9BZWxwM1pzTE9tY3FnSjdBNU1zeXI3elIwaEpxZ21UMkZ2Yy1UWUJRRjRzLTJ6V25DR0Q2RUFZX09tZ2E1LUtZY1JDQzN1akhMTl9yZjFYTXRhdjl2bHFjMFN0OURqcXZ0N2pKV0l5WUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmZER0l2ZHd3VUlEcG1pdW9zdlowdDZsbnhHUlEtMTJPOXFxaUNnNHZKMWhlSlg5MWtGZllSdDNvbEFMTG9BZWxwM1pzTE9tY3FnSjdBNU1zeXI3elIwaEpxZ21UMkZ2Yy1UWUJRRjRzLTJ6V25DR0Q2RUFZX09tZ2E1LUtZY1JDQzN1akhMTl9yZjFYTXRhdjl2bHFjMFN0OURqcXZ0N2pKV0",
+  "date": "2026-11-06T06:30:00.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
+ },
+ {
   "id": "8c1d2e3dcd843549",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -394,6 +460,17 @@
   "date": "2026-11-06T06:00:00.000Z",
   "fetched": "2026-11-06T08:33:15.597Z",
   "fromCloud": "2026-11-06T0833.json"
+ },
+ {
+  "id": "e2d595e11c8c329e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "ARYZTA AG (ARYN) Announces Upcoming CFO Departure - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzdlcmlWejBLUzFjVUk5WUtZVVY0Z1hCSlFNMEdUdkk1Y2I4SUpWbGpvOTV6ZGlLelljSS14N0Q1eEZHdHI5eXVvcnBFeXlPdTIzRnZwNjFMVzRnMTVnaktGbm9PbWFXYXFUbVdEdlhHT3J6OGM2WnVYSlN5aVZ4eGRYN2hkNnlpS2ZQaWpoMmQzb3EyOXlrVUxudE1FNFdETThXX0F3RlFxcmpJcmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzdlcmlWejBLUzFjVUk5WUtZVVY0Z1hCSlFNMEdUdkk1Y2I4SUpWbGpvOTV6ZGlLelljSS14N0Q1eEZHdHI5eXVvcnBFeXlPdTIzRnZwNjFMVzRnMTVnaktGbm9PbWFXYXFUbVdEdlhHT3J6OGM2WnVYSlN5aVZ4eGRYN2hkNnlpS2ZQaWpoMmQzb3EyOXlrVUxudE1FNFdETThXX0F3RlFxcm",
+  "date": "2026-11-06T06:00:00.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
  },
  {
   "id": "51209c76b87a20e0",
@@ -2013,6 +2090,17 @@
   "fromCloud": "2026-11-05T2303.json"
  },
  {
+  "id": "827359d1f62b9652",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "ServiceNow lays off more employees as its shares fall 35% in under two weeks - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ONFBNZ2tWU2tGY3oyWjdkOWhYeEhDZzZjT1R5RlZKX3BXRmg4VUtPeEw1YUhCUlhicW82WjNlbk9XQUlnaC1kQnFKR3VndUlITXRCY0Jnc1J2V1RrUFcxaHhyRzlRQ3c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ONFBNZ2tWU2tGY3oyWjdkOWhYeEhDZzZjT1R5RlZKX3BXRmg4VUtPeEw1YUhCUlhicW82WjNlbk9XQUlnaC1kQnFKR3VndUlITXRCY0Jnc1J2V1RrUFcxaHhyRzlRQ3c?oc=5\" target=\"_blank\">ServiceNow lays off more employees as its shares fall 35% in under t",
+  "date": "2026-11-05T22:12:00.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
+ },
+ {
   "id": "84944fc34861e458",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -3091,6 +3179,17 @@
   "fromCloud": "2026-11-05T2003.json"
  },
  {
+  "id": "a8bf7f2725e2597d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גלובל כתבות נוספות - עמוד 3353 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZVHZWc0prb1BjZUZoak0zOXNkVVYza0J1SlBYOHJEczNBc1NLLU1sUnFwVU9POTVSY2pHaEJXSllFR3E2Z2hOcE1HNjRYWDZoOGx6c3phYkJtX2JhZ29wVFJMMEloQnM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZVHZWc0prb1BjZUZoak0zOXNkVVYza0J1SlBYOHJEczNBc1NLLU1sUnFwVU9POTVSY2pHaEJXSllFR3E2Z2hOcE1HNjRYWDZoOGx6c3phYkJtX2JhZ29wVFJMMEloQnM?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3353</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+  "date": "2026-11-05T19:45:32.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
+ },
+ {
   "id": "30e2504480fb145a",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -3144,6 +3243,17 @@
   "date": "2026-11-05T19:29:00.000Z",
   "fetched": "2026-11-05T19:33:13.656Z",
   "fromCloud": "2026-11-05T1933.json"
+ },
+ {
+  "id": "95a3229d6acb228a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גלובל כתבות נוספות - עמוד 3352 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BTmtUVjhuYTZOZzlKZkVURnh2dUxvcTBmU0wwMFJubnJrc2h2cXBBR3lqanJVZ0V0YnB6cmxFRUtYMnl4Q0x0WGIwVGFBVE4zYkpkZy1ILTBUZ1JESGdOSXdOdHZYYUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BTmtUVjhuYTZOZzlKZkVURnh2dUxvcTBmU0wwMFJubnJrc2h2cXBBR3lqanJVZ0V0YnB6cmxFRUtYMnl4Q0x0WGIwVGFBVE4zYkpkZy1ILTBUZ1JESGdOSXdOdHZYYUE?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3352</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+  "date": "2026-11-05T19:28:47.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
  },
  {
   "id": "80501dd1055ca117",
@@ -6057,6 +6167,17 @@
   "fromCloud": "2026-11-05T2203.json"
  },
  {
+  "id": "9845fb438fb1c064",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גלובל כתבות נוספות - עמוד 3351 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teDdHY0h4cDdwd1ZsTm82VllNR2Z2YkVxNEk5MVZVXzJvTUZ4YUdLaVRjUHhiN1Jrb2tLSEFYdFBKNzFtR00zdm0yX3lTX1FVa3NpRmttajlVZ29fRXozT0V5RURKRTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teDdHY0h4cDdwd1ZsTm82VllNR2Z2YkVxNEk5MVZVXzJvTUZ4YUdLaVRjUHhiN1Jrb2tLSEFYdFBKNzFtR00zdm0yX3lTX1FVa3NpRmttajlVZ29fRXozT0V5RURKRTQ?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3351</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+  "date": "2026-11-05T10:10:11.000Z",
+  "fetched": "2026-11-06T09:03:13.161Z",
+  "fromCloud": "2026-11-06T0903.json"
+ },
+ {
   "id": "6429db6a905c55a2",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -6130,56 +6251,5 @@
   "date": "2026-11-05T09:06:00.000Z",
   "fetched": "2026-11-05T15:33:12.964Z",
   "fromCloud": "2026-11-05T1533.json"
- },
- {
-  "id": "f1734e95f042dca4",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "קרב צמוד בפריים טיים: \"ארץ נהדרת\" ניצחה את \"הישרדות\" בפער של 2.7 נקודות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xWWZaamwtZFJ2OHZGajlSNmdtOENaQ3FqUkdmSGR0YVo2YllDRmZZS0E3WjZ1SzBTSy1XSHFZN01sY0NtbjVuWVZqSmxCY2xCbDlUa3d3OTR6LUhSeEVWRGlSdGl6T1ktM1R1WU52Z2Q5SmxxbEp1c1U0ZkozdTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9xWWZaamwtZFJ2OHZGajlSNmdtOENaQ3FqUkdmSGR0YVo2YllDRmZZS0E3WjZ1SzBTSy1XSHFZN01sY0NtbjVuWVZqSmxCY2xCbDlUa3d3OTR6LUhSeEVWRGlSdGl6T1ktM1R1WU52Z2Q5SmxxbEp1c1U0ZkozdTQ?oc=5\" target=\"_blank\">קרב צמוד בפריים טיים: \"ארץ נהדרת\" ני",
-  "date": "2026-11-05T08:53:00.000Z",
-  "fetched": "2026-11-05T15:03:12.055Z",
-  "fromCloud": "2026-11-05T1503.json"
- },
- {
-  "id": "b56cde707af96e2b",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "40 חודשי מאסר על מעורבות בחשבוניות פיקטיביות ב-156 מיליון שקל - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ec3k1Nk02V1pUQ2lKdzVENWFIbmhJMDNnbi1iNnB3eEdaV3NPQndPR1ZLenctU1JnNHpyNlltSW41ejZBUExTWDZab2pjdHMyYnV6Z1ROZk90Y3czV3UxcmZtanRVWkE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ec3k1Nk02V1pUQ2lKdzVENWFIbmhJMDNnbi1iNnB3eEdaV3NPQndPR1ZLenctU1JnNHpyNlltSW41ejZBUExTWDZab2pjdHMyYnV6Z1ROZk90Y3czV3UxcmZtanRVWkE?oc=5\" target=\"_blank\">40 חודשי מאסר על מעורבות בחשבוניות פיקטיביות ב-156 מיליון שקל</a>&nb",
-  "date": "2026-11-05T08:46:00.000Z",
-  "fetched": "2026-11-05T15:03:12.055Z",
-  "fromCloud": "2026-11-05T1503.json"
- },
- {
-  "id": "9a2a05f1e9d59aa5",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מירב ארד - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SX25WeUxUR0xlbl9QWEpJek5Lc1o4cEtodTNkMGM0TWZRRTNYMTRDakxMcmNjbk9MaV9uTFZoWWhPeTFtTTViSksyYndyMDlwc1kxbXpRVENVLWJJclp3Y0dLdDVYdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SX25WeUxUR0xlbl9QWEpJek5Lc1o4cEtodTNkMGM0TWZRRTNYMTRDakxMcmNjbk9MaV9uTFZoWWhPeTFtTTViSksyYndyMDlwc1kxbXpRVENVLWJJclp3Y0dLdDVYdw?oc=5\" target=\"_blank\">מירב ארד</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
-  "date": "2026-11-05T08:44:29.000Z",
-  "fetched": "2026-11-05T22:33:14.449Z",
-  "fromCloud": "2026-11-05T2233.json"
- },
- {
-  "source": "Times of Israel",
-  "group": "israel-press",
-  "title": "How Democrats could stop Trump’s war in Iran with the &#8216;power of the purse&#8217;",
-  "link": "https://www.timesofisrael.com/how-democrats-could-stop-trumps-war-in-iran-with-the-power-of-the-purse/",
-  "summary": "Having taken control of Congress in midterms, the party could try passing legislation to end conflict, though it would face presidential veto; cutting off funding is another option",
-  "date": "2026-11-05T08:35:50.000Z",
-  "id": "8270558aecefdebe"
- },
- {
-  "source": "Times of Israel",
-  "group": "israel-press",
-  "title": "Zini meets with AG, reportedly vows to follow law in foreign interference probe",
-  "link": "https://www.timesofisrael.com/zini-meets-with-ag-said-to-vow-hell-follow-law-during-foreign-interference-probe/",
-  "summary": "Sources say meeting aimed to calm tensions amid anger with Shin Bet chief over his actions in investigation; officials lambast Zini as 'negligent,' say he's 'parroting' Netanyahu",
-  "date": "2026-11-05T08:35:02.000Z",
-  "id": "6cfccabe1d705513"
  }
 ]
