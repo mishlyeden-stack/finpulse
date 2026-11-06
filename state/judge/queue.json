@@ -1,5 +1,82 @@
 [
  {
+  "id": "1fc7442862d014b4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Vivo expands office furniture portfolio with Vari acquisition, CEO change - Furniture Today",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQWZyQWc3ZzhraVRyX0JEazZGdXUwZHY4cEp4dkhJZjhuaXh5LVhmWjVmODBJTlQ1aksxQUV3QU01QjJKM3pmUTlVSVZBeEVuSG82OGh5c29CeHRoX0VBSTNCV0M1NGdOcWNtMWM2SVUxN1Q0NTkzTGxwMnliU0dXR2l2d0tuR1I4RzNfTmY4WF9fMkZvR2hrNGliTENoZGlnU2F0QVAwdC1yNnhBNTdPMUtZQUI0eDA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQWZyQWc3ZzhraVRyX0JEazZGdXUwZHY4cEp4dkhJZjhuaXh5LVhmWjVmODBJTlQ1aksxQUV3QU01QjJKM3pmUTlVSVZBeEVuSG82OGh5c29CeHRoX0VBSTNCV0M1NGdOcWNtMWM2SVUxN1Q0NTkzTGxwMnliU0dXR2l2d0tuR1I4RzNfTmY4WF9fMkZvR2hrNGliTENoZGlnU2F0QVAwdC1yNn",
+  "date": "2026-11-06T19:17:32.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
+ },
+ {
+  "id": "b4c11bc26570da6e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Protagenic Therapeutics, Inc.\\new (0001022899) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1022899/000149315226050420/0001493152-26-050420-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001493152-26-050420 <b>Size:</b> 312 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01",
+  "date": "2026-11-06T19:15:24.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
+ },
+ {
+  "id": "eaba4706bb5ccf09",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - SLM Student Loan Trust 2006-7 (0001370218) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1370218/000114036126042404/0001140361-26-042404-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001140361-26-042404 <b>Size:</b> 157 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T19:12:43.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
+ },
+ {
+  "id": "f8c0f3fa90db229e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Dauch posts $45.3M loss, but sales outlook buoys investors - Crain's Detroit",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnhUVXp4c1ExQmdtdzNUMWUyYUJaRmg5aEtUd3Nnd1lGZ1pxSEVSTmdRQXYwdXRjaUIzWGtwUFlETnBBNDZsMDdMSURyUFZCWEgzWlY3M1Q5a0lZbUVjYWV3UndkUi01VEUxWF9lUWhvMTdRSTlEOEpXRU9lQ1RkNGFvOERySnlzU3BtdW9QZDY2QlFi?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnhUVXp4c1ExQmdtdzNUMWUyYUJaRmg5aEtUd3Nnd1lGZ1pxSEVSTmdRQXYwdXRjaUIzWGtwUFlETnBBNDZsMDdMSURyUFZCWEgzWlY3M1Q5a0lZbUVjYWV3UndkUi01VEUxWF9lUWhvMTdRSTlEOEpXRU9lQ1RkNGFvOERySnlzU3BtdW9QZDY2QlFi?oc=5\" target=\"_blank\">Dauch p",
+  "date": "2026-11-06T19:09:00.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
+ },
+ {
+  "id": "33db672f7112ac66",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing - Clinical Lab Products",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNFRsWGtIRFpfVGFwbFdTc21zSUN1amJiYkc0YUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNF",
+  "date": "2026-11-06T19:05:52.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
+ },
+ {
+  "id": "ed6b928e698716c7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CP Group, the Georgetown Company and Acre Announce Acquisition of Iconic Mizner Park in Boca Raton - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLTl2c1ZaY2FFcUYxQXpaM0pCTzNFXzNKTjZyQTg5NDNoQ2U5dGF3TVlmNUNhcURBM1JhNHBXUnkyelIyQU5hUTVNeFhZXzJQb3BuekR0NjR6ankxbDY3dDNDbE1BcXVWdkhUNWw4b2hEeHZ6RG4xTUVvSG1SV3AxdVk4bWtYV2EzY3RwcUN3ckFVWHVyWHpvRWloanBqMTIwdUQwT1RwLVh6dXZYQlNabG1VOFN2UExBTlFzX2ZiMUFIeFlDMFF2REFXTjFseWpxS0E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLTl2c1ZaY2FFcUYxQXpaM0pCTzNFXzNKTjZyQTg5NDNoQ2U5dGF3TVlmNUNhcURBM1JhNHBXUnkyelIyQU5hUTVNeFhZXzJQb3BuekR0NjR6ankxbDY3dDNDbE1BcXVWdkhUNWw4b2hEeHZ6RG4xTUVvSG1SV3AxdVk4bWtYV2EzY3RwcUN3ckFVWHVyWHpvRWloanBqMTIwdUQwT1RwLVh6dX",
+  "date": "2026-11-06T19:03:31.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
+ },
+ {
+  "id": "5e3a97dd8c8c5e70",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Trump to replace Susie Wiles with Stephen Miller as chief of staff",
+  "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
+  "summary": "Dramatic move comes three days after president’s Republican Party suffered bruising defeat in midterm elections",
+  "date": "2026-11-06T18:59:24.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
+ },
+ {
   "id": "45925c548189f260",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -31,6 +108,17 @@
   "date": "2026-11-06T18:52:57.000Z",
   "fetched": "2026-11-06T19:03:12.096Z",
   "fromCloud": "2026-11-06T1903.json"
+ },
+ {
+  "id": "4d03dbefb76f98cd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "OpenAI will keep investing in data centers despite results of midterms - CFO - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZG9jZG1XSUMwZ2lSWWlqVHh0eVBkb2FKaDRJQUVMSlc2NzJpeXIwVTltb0Q0MkF6Y3hxSEI5Sm9vNnlYZFZCTXE4XzdqVU9sNzNsb0NXcjU2Mk4zbVRlRUthdTVaWWpKSVVfbldGTXBSanlXMlRFLWFPc244QnNhdDlWYVdiLUtwNEp3UnBNVC1nZzVfb1Q4Q0YzR1BKc093VkpXaGJFX0R1OURYVXdkRjRjRGVTOVp2S3FPYi1aZ05mNldHWXlnRXNZWlM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOZG9jZG1XSUMwZ2lSWWlqVHh0eVBkb2FKaDRJQUVMSlc2NzJpeXIwVTltb0Q0MkF6Y3hxSEI5Sm9vNnlYZFZCTXE4XzdqVU9sNzNsb0NXcjU2Mk4zbVRlRUthdTVaWWpKSVVfbldGTXBSanlXMlRFLWFPc244QnNhdDlWYVdiLUtwNEp3UnBNVC1nZzVfb1Q4Q0YzR1BKc093VkpXaGJFX0R1OU",
+  "date": "2026-11-06T18:51:58.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
  },
  {
   "id": "092b3e3c68ab20f8",
@@ -132,6 +220,17 @@
   "fromCloud": "2026-11-06T1833.json"
  },
  {
+  "id": "8d0edaa8d65fb66b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "OpenAI to press ahead with data-center expansion despite midterm sweep, CFO tells CNBC By Reuters - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMU1Lczh0NkVEUlM5TnZHbnFVSTE5ODhKNXZSZHpNTzZMUF9ISVYwcngwb1ZDcjBubXBBNEJQaTlLX0tnX3FWTEpka2luQmNYd2VZazROc25tSG9WdWZsdWJsR05veFNsN21PVWRhN0lKdlJZazJWODVKVmZkd0ZXczh6QkVVenhqcVl6QWNuMFotaE5uMDlqR00zLUQxcHVGbmVVZVBRRWJITGR6Vk5qSlhuSEI4SEhaYmlqRUp5LV9pWG9EYzZkQk9Sc3gxUTdKenk2aGRINy0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMU1Lczh0NkVEUlM5TnZHbnFVSTE5ODhKNXZSZHpNTzZMUF9ISVYwcngwb1ZDcjBubXBBNEJQaTlLX0tnX3FWTEpka2luQmNYd2VZazROc25tSG9WdWZsdWJsR05veFNsN21PVWRhN0lKdlJZazJWODVKVmZkd0ZXczh6QkVVenhqcVl6QWNuMFotaE5uMDlqR00zLUQxcHVGbmVVZVBRRWJITG",
+  "date": "2026-11-06T18:13:51.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
+ },
+ {
   "id": "cc81c89666cade47",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -163,6 +262,17 @@
   "date": "2026-11-06T18:00:54.000Z",
   "fetched": "2026-11-06T18:33:12.011Z",
   "fromCloud": "2026-11-06T1833.json"
+ },
+ {
+  "id": "abb1a5f65845b8c7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Could Refinancing Save You $400 a Month or More? ChatGPT Does the Math - AOL.com",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcW9CTlFmUmF3VXhVY2o4UkN2dmVlLUxYVk4xTnNqYWU3aTlZNHBseUp1aGU4d2M1azRYYnNGNkJqRE1TMFJjUXNoSkRMVTBQRzg2cTJHTXl0TC1MX1liRzR5a201Y0VZQnFiVXFPM2d3OUZia3lmODlNVnJPaFFnYkF3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcW9CTlFmUmF3VXhVY2o4UkN2dmVlLUxYVk4xTnNqYWU3aTlZNHBseUp1aGU4d2M1azRYYnNGNkJqRE1TMFJjUXNoSkRMVTBQRzg2cTJHTXl0TC1MX1liRzR5a201Y0VZQnFiVXFPM2d3OUZia3lmODlNVnJPaFFnYkF3?oc=5\" target=\"_blank\">Could Refinancing Save You $400",
+  "date": "2026-11-06T18:00:15.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
  },
  {
   "id": "83db753fe74a8045",
@@ -2077,6 +2187,17 @@
   "date": "2026-11-06T12:42:32.000Z",
   "fetched": "2026-11-06T13:03:12.161Z",
   "fromCloud": "2026-11-06T1303.json"
+ },
+ {
+  "id": "4ddb980157a8607e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "עוזי גרסטמן - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HM0V1dGhzSGlZWnpyYjN6WW45S2N6MUQwYzNXdDkwOTBLRDdablRPai0xZ0ZRc212czl5LWNVOEpJVThRTkJHRHJ0VVNfeG81V3pzSm82SWs0ZFNTaWVKT2xSYlNUQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HM0V1dGhzSGlZWnpyYjN6WW45S2N6MUQwYzNXdDkwOTBLRDdablRPai0xZ0ZRc212czl5LWNVOEpJVThRTkJHRHJ0VVNfeG81V3pzSm82SWs0ZFNTaWVKT2xSYlNUQQ?oc=5\" target=\"_blank\">עוזי גרסטמן</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-06T12:37:36.000Z",
+  "fetched": "2026-11-06T19:33:14.245Z",
+  "fromCloud": "2026-11-06T1933.json"
  },
  {
   "id": "886e8cd5c3dac982",
@@ -6917,159 +7038,5 @@
   "date": "2026-11-05T19:37:37.000Z",
   "fetched": "2026-11-05T20:03:15.681Z",
   "fromCloud": "2026-11-05T2003.json"
- },
- {
-  "id": "e33597d60cd5b950",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "TOU: A Q4 production ramp and stronger gas outlook underpin 2027 free cash flow growth - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdWxMUGR3YlMtNTR0b25feDlucHNrd015NHJIUkFBYjViamJrbkl1RkU3UnlDSF9EYTc3bWNqMDNmSVFwNHE2RmVySTV5NTU2R3NTSkpaN3IxUnh2czF0VFE4WFIyLTQtYXJjeDNXVjZyZWkzRmtabTJnQWhaSEc4ZWtDNG52MGpuTzMwbW5Tel9kNnJBU3hpX2d4ZmJZQjlTaXpRbXhnck9id2JEZmt0NHBsWW9Cd05vbFRCS2pUMWZvdUp4cHZCR0M2dFU2MFlJVkNmT29hM2ZUamt5VnBSVG9UWkRzRkZPS1ZxY2haRGhvdnM3V1hxeDJ2Z3F0UjB0ekE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOdWxMUGR3YlMtNTR0b25feDlucHNrd015NHJIUkFBYjViamJrbkl1RkU3UnlDSF9EYTc3bWNqMDNmSVFwNHE2RmVySTV5NTU2R3NTSkpaN3IxUnh2czF0VFE4WFIyLTQtYXJjeDNXVjZyZWkzRmtabTJnQWhaSEc4ZWtDNG52MGpuTzMwbW5Tel9kNnJBU3hpX2d4ZmJZQjlTaXpRbXhnck9id2",
-  "date": "2026-11-05T19:33:27.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "fb212219dd8b0409",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"הגל הכחול\" מבריח משקיעים מ-AI: מה עומד מאחורי המפולת בוול סטריט - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0tuSEloQzYydFhPczdQOUM1Qi1hbi0wMU9hemZnUUpFal9pN2s0UTczMFFPaC1tLVJEelFhSFdyTkRmTU9GeFpROHNtNmhDZDVpNkFhUUREUktKV2VnOUhMYW9YN1Y5UDBXVDV0Q3lHeE82M3BHNFdWMC1sQnRZUVR1QVR6U2k2VllhY1FRSWNyNHdjLTljS2ZkRlJkSlE0TnBSSTdYUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0tuSEloQzYydFhPczdQOUM1Qi1hbi0wMU9hemZnUUpFal9pN2s0UTczMFFPaC1tLVJEelFhSFdyTkRmTU9GeFpROHNtNmhDZDVpNkFhUUREUktKV2VnOUhMYW9YN1Y5UDBXVDV0Q3lHeE82M3BHNFdWMC1sQnRZUVR1QVR6U2k2VllhY1FRSWNyNHdjLTljS2ZkRlJkSlE0TnBSSTdYUQ?oc=",
-  "date": "2026-11-05T19:29:00.000Z",
-  "fetched": "2026-11-05T19:33:13.656Z",
-  "fromCloud": "2026-11-05T1933.json"
- },
- {
-  "id": "95a3229d6acb228a",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "גלובל כתבות נוספות - עמוד 3352 - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BTmtUVjhuYTZOZzlKZkVURnh2dUxvcTBmU0wwMFJubnJrc2h2cXBBR3lqanJVZ0V0YnB6cmxFRUtYMnl4Q0x0WGIwVGFBVE4zYkpkZy1ILTBUZ1JESGdOSXdOdHZYYUE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BTmtUVjhuYTZOZzlKZkVURnh2dUxvcTBmU0wwMFJubnJrc2h2cXBBR3lqanJVZ0V0YnB6cmxFRUtYMnl4Q0x0WGIwVGFBVE4zYkpkZy1ILTBUZ1JESGdOSXdOdHZYYUE?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3352</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-  "date": "2026-11-05T19:28:47.000Z",
-  "fetched": "2026-11-06T09:03:13.161Z",
-  "fromCloud": "2026-11-06T0903.json"
- },
- {
-  "id": "80501dd1055ca117",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Priority acquires AI-powered CRM company Fireberry in deal valued at over $30 million - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMWZnbXVFSF9ZWDAwcUh1ckF2bkhMb1ZlMV9hNTVnbU1fbzZpVDVvcnpHLUJfZGNETGhUU3cwUnk0TGVXQXVya2hqMy11S1ZsSVZfOWlzeVF5X04zWnRiQUtuc1pJeXc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMWZnbXVFSF9ZWDAwcUh1ckF2bkhMb1ZlMV9hNTVnbU1fbzZpVDVvcnpHLUJfZGNETGhUU3cwUnk0TGVXQXVya2hqMy11S1ZsSVZfOWlzeVF5X04zWnRiQUtuc1pJeXc?oc=5\" target=\"_blank\">Priority acquires AI-powered CRM company Fireberry in deal valued at",
-  "date": "2026-11-05T19:27:00.000Z",
-  "fetched": "2026-11-05T20:03:15.681Z",
-  "fromCloud": "2026-11-05T2003.json"
- },
- {
-  "id": "d8e23536845abd81",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "News | South Florida city controls full block following medical office acquisition - CoStar",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmFkaHowSm55VzlQWFRmVWhuZjl3ZE05NkhlQTRVU1BUZjRGenk1T1pkZTJELWoteVVXbXBMTHlDOUNaMFlKMlg1TTZRSE9GMGNJMzVwYm5fNDhnVDhJci1WQ1NMbTZUM2FuQlg4UzdPeXNjdkc4M0VDZjJzeWVvUld1RkRJUld6UkFFVVBJMDQxNWx1OGNUb0c4RVNERVRBRlR0dkFNRG5LQXlxVkpINjVROEdEUEE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmFkaHowSm55VzlQWFRmVWhuZjl3ZE05NkhlQTRVU1BUZjRGenk1T1pkZTJELWoteVVXbXBMTHlDOUNaMFlKMlg1TTZRSE9GMGNJMzVwYm5fNDhnVDhJci1WQ1NMbTZUM2FuQlg4UzdPeXNjdkc4M0VDZjJzeWVvUld1RkRJUld6UkFFVVBJMDQxNWx1OGNUb0c4RVNERVRBRlR0dkFNRG5LQX",
-  "date": "2026-11-05T19:23:46.000Z",
-  "fetched": "2026-11-05T19:33:13.656Z",
-  "fromCloud": "2026-11-05T1933.json"
- },
- {
-  "id": "f60ffd56e9471485",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Stock Yards Bancorp (SYBT): Completed Field & Main Bancorp acquisition in May 2026 for $112M - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVJCS215WG15clZUUEItZ0F5MU1naVVFUVg2QXRwbzBPb2UtSmtkMjc3X3Q4SEZyaGpYU1ZyYmFYMWVGaVFkWV9VY1Z5Y3B3cjNQUURHeTloUWRZWGZQTFRqWExWMFlvcWF5aUZvRmhEdEhEZTZGTFBFa1MwUHMzd1RERm5XM1IxVm84SWZn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVJCS215WG15clZUUEItZ0F5MU1naVVFUVg2QXRwbzBPb2UtSmtkMjc3X3Q4SEZyaGpYU1ZyYmFYMWVGaVFkWV9VY1Z5Y3B3cjNQUURHeTloUWRZWGZQTFRqWExWMFlvcWF5aUZvRmhEdEhEZTZGTFBFa1MwUHMzd1RERm5XM1IxVm84SWZn?oc=5\" target=\"_blank\">Stock Yards Ban",
-  "date": "2026-11-05T19:20:21.000Z",
-  "fetched": "2026-11-05T19:33:13.656Z",
-  "fromCloud": "2026-11-05T1933.json"
- },
- {
-  "id": "604920abfc0b9c76",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Payoneer B2B Volume Surges 59% Ahead of Nuvei Acquisition - PYMNTS.com",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWw4cGhzMXEtdnI2RjhqSnUxTFJKcm5UbzFaSGctT1VqdmNiZ1JpclJpT1FzQlAzTXRkNGFPTWFHRUo2amlyZ1BULW9mVGNpSUxIV0ZaSTZUdGZNUTh2TmxLWWdYQ3RvTEktMVI4VFlQZUpmT2tINWRoTHFkWm5lYWZWbXVKYWVMZHdDTkRUWlhTdTRrMldIM2ZR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWw4cGhzMXEtdnI2RjhqSnUxTFJKcm5UbzFaSGctT1VqdmNiZ1JpclJpT1FzQlAzTXRkNGFPTWFHRUo2amlyZ1BULW9mVGNpSUxIV0ZaSTZUdGZNUTh2TmxLWWdYQ3RvTEktMVI4VFlQZUpmT2tINWRoTHFkWm5lYWZWbXVKYWVMZHdDTkRUWlhTdTRrMldIM2ZR?oc=5\" target=\"_blank\"",
-  "date": "2026-11-05T19:19:38.000Z",
-  "fetched": "2026-11-05T19:33:13.656Z",
-  "fromCloud": "2026-11-05T1933.json"
- },
- {
-  "id": "0087ca5e6238dd17",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Matador’s Delaware Basin Buying Spree Goes Beyond Billion-Dollar Deals - Hart Energy",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vaW53ZDZGVmdPSXJ2S2FiWV9jWlBjU0RtR3pOYU1JbWZUQXpNMzZJZ1BOSTJUcjRYMmsycUlQa1dNZnNJRk5tV2l6NlM5YjdNRk05NFJQOVBYQVJ3eC1zdWo5TWw3Z3h0azlLNmY1ZUpmaENMZGs2UW1B?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1vaW53ZDZGVmdPSXJ2S2FiWV9jWlBjU0RtR3pOYU1JbWZUQXpNMzZJZ1BOSTJUcjRYMmsycUlQa1dNZnNJRk5tV2l6NlM5YjdNRk05NFJQOVBYQVJ3eC1zdWo5TWw3Z3h0azlLNmY1ZUpmaENMZGs2UW1B?oc=5\" target=\"_blank\">Matador’s Delaware Basin Buying Spree Goes ",
-  "date": "2026-11-05T19:14:40.000Z",
-  "fetched": "2026-11-05T22:33:14.449Z",
-  "fromCloud": "2026-11-05T2233.json"
- },
- {
-  "id": "a0086801c1acdea9",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Strategy (MSTR) CFO Exit Looms, Does The Stock Look Fully Valued? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUHdMSzQ4OUJYUkJuLVlpRWxuN1E3RzhTQW54S05OSDVtcFExRkctMzNDd0g1ZmtiWXl5YUFmODN0MnFsbXltSXNjckJRaTZkdE9HWk51TjloVWxrY296ZkYwS1JVZTFFZ00wVTBoTjh5bm9aRU9iRkU0ck9uS0dEdWQyeGpYV3Fqb2VrY00yY2dnSzZFNnhWYw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPUHdMSzQ4OUJYUkJuLVlpRWxuN1E3RzhTQW54S05OSDVtcFExRkctMzNDd0g1ZmtiWXl5YUFmODN0MnFsbXltSXNjckJRaTZkdE9HWk51TjloVWxrY296ZkYwS1JVZTFFZ00wVTBoTjh5bm9aRU9iRkU0ck9uS0dEdWQyeGpYV3Fqb2VrY00yY2dnSzZFNnhWYw?oc=5\" target=\"_blank\">S",
-  "date": "2026-11-05T19:10:04.000Z",
-  "fetched": "2026-11-05T19:33:13.656Z",
-  "fromCloud": "2026-11-05T1933.json"
- },
- {
-  "id": "1cdb8b55e209feb7",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הביטקוין נופל לכ-75.6 אלף דולר: הנאסד\"ק גורר את הקריפטו מטה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mR0JGZ1VONVkyd09CQjNOek1aNmJLV2RMX0J4ZzZTcTdjVmdpQ3BkdE51R1daWV9HNVdhYWRyMEw2T0k4Z3ZKV1VDTmFCd3BmbkRyMXBwY2hVOGxJOUZERFdOc01KeTVhVnIzOGhsS1o?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5mR0JGZ1VONVkyd09CQjNOek1aNmJLV2RMX0J4ZzZTcTdjVmdpQ3BkdE51R1daWV9HNVdhYWRyMEw2T0k4Z3ZKV1VDTmFCd3BmbkRyMXBwY2hVOGxJOUZERFdOc01KeTVhVnIzOGhsS1o?oc=5\" target=\"_blank\">הביטקוין נופל לכ-75.6 אלף דולר: הנאסד\"ק גורר את הקריפטו ",
-  "date": "2026-11-05T19:10:00.000Z",
-  "fetched": "2026-11-05T21:03:12.169Z",
-  "fromCloud": "2026-11-05T2103.json"
- },
- {
-  "id": "a54c20e6bc5c0129",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ליפט משיקה מנוי משותף עם דורדאש ב-9.99 דולר, עם החזר של 8% בזיכויים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VMW1ORG9aa1NvaDlQMnAyS01WSTVnam9hYmk3cmZNcl9ydTFLcmswLWFXa3VUbld1WHo5dzZfaEEtNkVsekp2V3BDb0ZzTXhabmdYSHBuSURMTjl3NmVzZFlRalNaRGhiUFJQQVQtS3I?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9VMW1ORG9aa1NvaDlQMnAyS01WSTVnam9hYmk3cmZNcl9ydTFLcmswLWFXa3VUbld1WHo5dzZfaEEtNkVsekp2V3BDb0ZzTXhabmdYSHBuSURMTjl3NmVzZFlRalNaRGhiUFJQQVQtS3I?oc=5\" target=\"_blank\">ליפט משיקה מנוי משותף עם דורדאש ב-9.99 דולר, עם החזר של ",
-  "date": "2026-11-05T19:07:00.000Z",
-  "fetched": "2026-11-05T22:33:14.449Z",
-  "fromCloud": "2026-11-05T2233.json"
- },
- {
-  "id": "211d891ded32d449",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Nemi Plans Nasdaq Listing After SPAC Merger with BHAV Acquisition Corp - Unite.AI",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3cwTkpnckV5cjdmYjk0Rzc0cV9Za29LNjc5cXhSMHcwVmh0Tk9nVzhUUkxVY2pCUmk5SjVnMmdIdUZSZ2QtNFAyTndlRW9ueklrOGRaVmhxNHlQUVFpYURicHF0Tm5wQkRzbnc3ZWVSS0VUMGRzOE5jWVc2c0ZpVUtNQk9LaWt5WlhZQjBPNkxRay1VVUxV?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3cwTkpnckV5cjdmYjk0Rzc0cV9Za29LNjc5cXhSMHcwVmh0Tk9nVzhUUkxVY2pCUmk5SjVnMmdIdUZSZ2QtNFAyTndlRW9ueklrOGRaVmhxNHlQUVFpYURicHF0Tm5wQkRzbnc3ZWVSS0VUMGRzOE5jWVc2c0ZpVUtNQk9LaWt5WlhZQjBPNkxRay1VVUxV?oc=5\" target=\"_blank\">Nem",
-  "date": "2026-11-05T19:06:03.000Z",
-  "fetched": "2026-11-05T19:33:13.656Z",
-  "fromCloud": "2026-11-05T1933.json"
- },
- {
-  "id": "f4791e1432828c93",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000215/0001331463-26-000215-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001331463-26-000215 <b>Size:</b> 158 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
-  "date": "2026-11-05T19:05:31.000Z",
-  "fetched": "2026-11-05T19:33:13.656Z",
-  "fromCloud": "2026-11-05T1933.json"
- },
- {
-  "id": "c3b31f723095d4ac",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Tech leaders need an urgent rethink of their political strategy",
-  "link": "https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40?syn-25a6b1a6=1",
-  "summary": "America’s data centre backlash is emblematic of AI anxiety and a scepticism of the industry’s power and wealth",
-  "date": "2026-11-05T19:04:55.000Z",
-  "fetched": "2026-11-05T19:33:13.656Z",
-  "fromCloud": "2026-11-05T1933.json"
  }
 ]
