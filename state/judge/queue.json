@@ -1,5 +1,214 @@
 [
  {
+  "id": "252d4f610b5ea1e6",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Delek US Holdings, Inc. (0001694426) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1694426/000162828026071294/0001628280-26-071294-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001628280-26-071294 <b>Size:</b> 4 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T11:31:56.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "b3b60e067ffbee9b",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Microsoft design change delays Iren's data center delivery in Texas",
+  "link": "https://www.datacenterdynamics.com/en/news/microsoft-design-change-delays-irens-data-center-delivery-in-texas/",
+  "summary": "<p data-block-key=\"xgezh\">$4bn ARR now targeting online date in January</p>",
+  "date": "2026-11-06T11:31:02.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "a5c73328e72b193e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - JBG SMITH Properties (0001689796) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1689796/000110465926123565/0001104659-26-123565-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001104659-26-123565 <b>Size:</b> 7 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T11:30:14.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "938fc845c107a528",
+  "source": "AV Network",
+  "group": "industry",
+  "title": "JBL Professional Introduces 3 Series MkIII Studio Monitors and Subwoofer",
+  "link": "https://www.avnetwork.com/products/audio/jbl-professional-introduces-3-series-mkiii-studio-monitors-and-subwoofer",
+  "summary": "MkIII family introduces redesigned acoustic systems, new Class D amplification, simplified room optimization, and integrated mounting options.",
+  "date": "2026-11-06T11:30:00.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "334f3cbc9b4c3f00",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Ghost Bikes Avoids Closure After Last-Minute Acquisition - Pinkbike",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2h3WmxPa21OR3RzeXZrOXNqVUE4QkdfX0paRUJfOHZBb0hiSEN1VVdmd29OaVZMZjBkOHJrMms1cGtmdGt0TjBWeWFFa2NHcjl1eTktQW5mRzZ5ZUFYYWlaelpTT0lCVS1DZElib0QzTjVDczExQ0RVRXhsRUljWmNoMjB2VnJzVmtVZGdpUmZJUHJW?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2h3WmxPa21OR3RzeXZrOXNqVUE4QkdfX0paRUJfOHZBb0hiSEN1VVdmd29OaVZMZjBkOHJrMms1cGtmdGt0TjBWeWFFa2NHcjl1eTktQW5mRzZ5ZUFYYWlaelpTT0lCVS1DZElib0QzTjVDczExQ0RVRXhsRUljWmNoMjB2VnJzVmtVZGdpUmZJUHJW?oc=5\" target=\"_blank\">Ghost B",
+  "date": "2026-11-06T11:28:39.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "a3f20a9952c316c2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Elanco Animal Health Inc (0001739104) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1739104/000173910426000054/0001739104-26-000054-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001739104-26-000054 <b>Size:</b> 503 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T11:27:25.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "3a8b1b5dc3feedfa",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "Airbnb מזנקת ביותר מ-10% לפני הפתיחה אחרי העלאת התחזית השנתית - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53VlROdmlDbHNXVEYtaUhGMXM3SGQtVmJIdVlRa3ZDaENIWURtSnZSVGJTX1dPdko0am1VYTVHbE5XRFJVZ0p2N1NJaEpTQXpHUnhOM0JwVGtNQ1VpWUxibW1jcUltUmk3VWVMSkRyeXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE53VlROdmlDbHNXVEYtaUhGMXM3SGQtVmJIdVlRa3ZDaENIWURtSnZSVGJTX1dPdko0am1VYTVHbE5XRFJVZ0p2N1NJaEpTQXpHUnhOM0JwVGtNQ1VpWUxibW1jcUltUmk3VWVMSkRyeXc?oc=5\" target=\"_blank\">Airbnb מזנקת ביותר מ-10% לפני הפתיחה אחרי העלאת התחזית ה",
+  "date": "2026-11-06T11:14:00.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "c770faa9a3b57b87",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "החוזים על הנאסד\"ק עולים 1.3%, הדאו יורד 0.9%; מיקרון מתאוששת ב-8% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlSWloSkVWQW5NejZUWlRDT3ZLX2p6Y2J1Sk1DTktzYXpFTFdtWWZ3YnVfREVlanpZYWcxM1dnay0wNFI0VEU3RHVTZDlISlQ0OV9aMk1EbHFGclRZOWhZdFVYQnA5cjJUUE9mT0lGU2o?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBlSWloSkVWQW5NejZUWlRDT3ZLX2p6Y2J1Sk1DTktzYXpFTFdtWWZ3YnVfREVlanpZYWcxM1dnay0wNFI0VEU3RHVTZDlISlQ0OV9aMk1EbHFGclRZOWhZdFVYQnA5cjJUUE9mT0lGU2o?oc=5\" target=\"_blank\">החוזים על הנאסד\"ק עולים 1.3%, הדאו יורד 0.9%; מיקרון מתא",
+  "date": "2026-11-06T11:14:00.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "12707ebc20e3b14b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "איירן מזנקת כ-15% אחרי הדוחות, קורוויב ונביוס מתאוששות בכ-6% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9paDlMX3gzOEJnMGpTeDlwSDM4TVM3bGhYZFNINUthTVFJQlNJMkpDX2NfOER6cTBwVUFsMHhPWmV5UE95aG5NbVpNSy1LYUlsMWt0eTlMV21Ed0VOenkyVUJsNVgwV21wZ0ZqT2JlRWU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9paDlMX3gzOEJnMGpTeDlwSDM4TVM3bGhYZFNINUthTVFJQlNJMkpDX2NfOER6cTBwVUFsMHhPWmV5UE95aG5NbVpNSy1LYUlsMWt0eTlMV21Ed0VOenkyVUJsNVgwV21wZ0ZqT2JlRWU?oc=5\" target=\"_blank\">איירן מזנקת כ-15% אחרי הדוחות, קורוויב ונביוס מתאוששות ב",
+  "date": "2026-11-06T11:10:00.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "4b150d30216da443",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Nokia: AI will equal half of all network traffic by 2035",
+  "link": "https://www.datacenterdynamics.com/en/news/nokia-ai-will-equal-half-of-all-network-traffic-by-2035/",
+  "summary": "<p data-block-key=\"ki06s\">Report predicts capacity impact of agents, humanoids, and more</p>",
+  "date": "2026-11-06T11:09:41.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "037ce1f30e8215c2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - K&F GROWTH ACQUISITION CORP. II (0002029976) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2029976/000121390026116547/0001213900-26-116547-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001213900-26-116547 <b>Size:</b> 274 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 5.07: Submission of Matters to a Vote of Secu",
+  "date": "2026-11-06T11:06:51.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "313e739dd815b834",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Superdry refinancing deal will fund next growth phase - FashionNetwork - The World's Fashion Business News",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjFyMVdmN1ZZNk5IZjBtczY5SnYzalIyYjY4N1NBSmV6VjRsMGxjcW1idmVnY0YySml2U0R1dUVWOTBPYm1tU3ViNkdPZzBZcmhlamVnd0lEa0dyM21TMTFpVGRCMjhKcEs2NWJLLXVSNXpnMHRWSml0MnhVQ2xpeGFPSlZrNXYzck5fVF90bHBlc2NZcDJVR2tGXzQ3V2t2QU9B?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORjFyMVdmN1ZZNk5IZjBtczY5SnYzalIyYjY4N1NBSmV6VjRsMGxjcW1idmVnY0YySml2U0R1dUVWOTBPYm1tU3ViNkdPZzBZcmhlamVnd0lEa0dyM21TMTFpVGRCMjhKcEs2NWJLLXVSNXpnMHRWSml0MnhVQ2xpeGFPSlZrNXYzck5fVF90bHBlc2NZcDJVR2tGXzQ3V2t2QU9B?oc=5\" tar",
+  "date": "2026-11-06T11:06:37.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "e76f55eee29fcf45",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Dropbox targets AI infrastructure gains with $350m Tigris Data acquisition - IT Pro",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNG4tZWNTa3pwTDdrSWNFamZuUW5vTC1NMnNTU2ZnRmhBMVhJZ3BGT2Z6alF2aDYtRmJBc1pURHp2MUs5MkdGcnRjcFRYTEk2ZUQzaFV1QW1VT05WcW1HaEpFQjRkS0d6UDBRTGZYbkFOSzljVG1QU1BKUVRNemJIX0NhUEw4YUxFQXNQWGt5ZW1JS1ExWVlWTWpaR3ZxQnNhc250STFSMHROZko2R2p1Rm9walZ3Smw0V1Jv?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNG4tZWNTa3pwTDdrSWNFamZuUW5vTC1NMnNTU2ZnRmhBMVhJZ3BGT2Z6alF2aDYtRmJBc1pURHp2MUs5MkdGcnRjcFRYTEk2ZUQzaFV1QW1VT05WcW1HaEpFQjRkS0d6UDBRTGZYbkFOSzljVG1QU1BKUVRNemJIX0NhUEw4YUxFQXNQWGt5ZW1JS1ExWVlWTWpaR3ZxQnNhc250STFSMHROZk",
+  "date": "2026-11-06T11:04:39.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "5bc0fe75fec8e8c2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "VEON Expands its Digital Commerce Footprint with Acquisition of OLX in Kazakhstan - Yahoo Finance Singapore",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS056R2JoSXBWRWI1ZXZ1aDJ4SUdIV0JhNTcxM2ZnLWQ3ZjJUSUFNTUFrTkdNcGVHUVNZWklaSkowU016alFTVFBLNzFWbjhkYWJqM2ROTnpySFpUNzRRQVg4ZEpmZmtuMzlDcnlnVHRKYjg2cFYzSmxVSVhaakdLU0RhelZieHFkb25ZSXdJRExmQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNS056R2JoSXBWRWI1ZXZ1aDJ4SUdIV0JhNTcxM2ZnLWQ3ZjJUSUFNTUFrTkdNcGVHUVNZWklaSkowU016alFTVFBLNzFWbjhkYWJqM2ROTnpySFpUNzRRQVg4ZEpmZmtuMzlDcnlnVHRKYjg2cFYzSmxVSVhaakdLU0RhelZieHFkb25ZSXdJRExmQQ?oc=5\" target=\"_blank\">VEON Expa",
+  "date": "2026-11-06T11:03:00.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "918ffb2f873dfd60",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - STARRY SEA ACQUISITION CORP (0002059165) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2059165/000182912626012048/0001829126-26-012048-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001829126-26-012048 <b>Size:</b> 266 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 8.01: Other Events",
+  "date": "2026-11-06T11:01:39.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "6a09721cd514e1c3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326005786/0001062993-26-005786-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001062993-26-005786 <b>Size:</b> 629 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T11:01:14.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "6b957f7a633b7f8c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tradevest group CFO to step down - FinTech Futures",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVZYUmVkMWxxc2ZfTlRHeDlLMWZ1WHprLXNTYW9CNDNJUU8xQ3JYUFBVMUx1M2kwZ0wwY2oyWUFxOUdYZGlaS0NsZHRzZlJKbjJQblpKSGFoc1pLaGtkVk9lV0xQazJqZk1jeW8zNXViclJ1a1Jya1ktX1dVUVNKMmh1dkJhY3cyLUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVZYUmVkMWxxc2ZfTlRHeDlLMWZ1WHprLXNTYW9CNDNJUU8xQ3JYUFBVMUx1M2kwZ0wwY2oyWUFxOUdYZGlaS0NsZHRzZlJKbjJQblpKSGFoc1pLaGtkVk9lV0xQazJqZk1jeW8zNXViclJ1a1Jya1ktX1dVUVNKMmh1dkJhY3cyLUE?oc=5\" target=\"_blank\">Tradevest group CFO ",
+  "date": "2026-11-06T11:01:11.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "acdc25b9b032b251",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Donald Trump has taught the world that tariffs are useless",
+  "link": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1",
+  "summary": "The Republicans’ evisceration in the midterm elections shows the economic and political costs of mindless protectionism",
+  "date": "2026-11-06T11:00:09.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
+  "id": "f74970b772a42cf6",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "תשואות האג\"ח בעולם יורדות, סין בשפל היסטורי - ובישראל כמעט בלי שינוי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FZ0wwcWZ5NWowVGFwcnphVkNURkpJTS05UVB3U0lFX1A1a3FEV2pYeU14YmJFMFBnSkdGdzhaMHFYd19zVXhuaGRNV0NsbC1IZDJ3ZnhCNVlPaEltV1hnVmpDbk1IWHNzajAwa0piVUk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1FZ0wwcWZ5NWowVGFwcnphVkNURkpJTS05UVB3U0lFX1A1a3FEV2pYeU14YmJFMFBnSkdGdzhaMHFYd19zVXhuaGRNV0NsbC1IZDJ3ZnhCNVlPaEltV1hnVmpDbk1IWHNzajAwa0piVUk?oc=5\" target=\"_blank\">תשואות האג\"ח בעולם יורדות, סין בשפל היסטורי - ובישראל כמ",
+  "date": "2026-11-06T11:00:00.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
   "id": "842f93a99766e110",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -20,6 +229,17 @@
   "date": "2026-11-06T10:52:00.000Z",
   "fetched": "2026-11-06T11:03:12.323Z",
   "fromCloud": "2026-11-06T1103.json"
+ },
+ {
+  "id": "430c624d5dadbbaf",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "India's Knowledge Marine completes $26.5m acquisition of TSHD - Baird Maritime",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUt5TVQ0T3hIM3RvQ2dsSHdydkY5ZTJ5NzFiRXFLRjBRU0NiRkN0QWN5TWkwZXFHbkpsUWVfSW50SWVhMjl0NzBibkczT1Juci12MUUwekJmVHZKUWJuekY0cEN1MW9EajJPbWdyLXltOFlxTzBGR2NoR2U0X2lGR01PbFVlUlNfV0VFQm9tQjR2cmQyZjdNaFlsMDDSAaoBQVVfeXFMTjlBbWpVdDZmMlk5LVBIZldZWkFDXy1UbDhjQU1nbXQzZUtDSzdvYkFnY1FiNXYyZTB2UTB6eEZhTms5WEdiYnVHS1Y5Zkp5TV8xblRHeXUxd1RtWGd2MHZ0Z3o1Wmo2WFhBY0JDRS1jSGcyMHBqSW4wYkZFdmJyS2gwbUR5LWdRbmtzTU9pV2dsZ3VSc19jR2h4aTdGMnp0Z2Raek43M3hrTUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUt5TVQ0T3hIM3RvQ2dsSHdydkY5ZTJ5NzFiRXFLRjBRU0NiRkN0QWN5TWkwZXFHbkpsUWVfSW50SWVhMjl0NzBibkczT1Juci12MUUwekJmVHZKUWJuekY0cEN1MW9EajJPbWdyLXltOFlxTzBGR2NoR2U0X2lGR01PbFVlUlNfV0VFQm9tQjR2cmQyZjdNaFlsMDDSAaoBQVVfeXFMTjlBbW",
+  "date": "2026-11-06T10:51:57.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
  },
  {
   "id": "4977eec87274b6a4",
@@ -75,6 +295,17 @@
   "date": "2026-11-06T10:36:43.000Z",
   "fetched": "2026-11-06T11:03:12.323Z",
   "fromCloud": "2026-11-06T1103.json"
+ },
+ {
+  "id": "36250b08cd4ec0f5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Foundation Healthcare Appoints Melvin Low Ming Dao As CFO - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkhSeDM2aVhhc2FBa2xtQWJlRTJ1Z2I3R2JPOXQyY1BNYjdsaUZjSzRsdHVmY0RrVlFUU091REZ3R1JIS3RoT0NuR2dxZ0JhV0UtZmFXbVM1SVF1TlZaaGFrNG5LQXFxZG9URGdhdTh1OTRXWTFjV1dReTB1TF91UDdzd2VPRlFEWEZubFVaNjhNN0MwVVpGWFA2aTRxRjZvdWUxMW9wLThRZ2hKQ1Z4WmdPOC0zYkdKVkVtUVRnU3p4dVB0Y0E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkhSeDM2aVhhc2FBa2xtQWJlRTJ1Z2I3R2JPOXQyY1BNYjdsaUZjSzRsdHVmY0RrVlFUU091REZ3R1JIS3RoT0NuR2dxZ0JhV0UtZmFXbVM1SVF1TlZaaGFrNG5LQXFxZG9URGdhdTh1OTRXWTFjV1dReTB1TF91UDdzd2VPRlFEWEZubFVaNjhNN0MwVVpGWFA2aTRxRjZvdWUxMW9wLThRZ2",
+  "date": "2026-11-06T10:34:29.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
  },
  {
   "id": "979da239352dc5eb",
@@ -1254,6 +1485,17 @@
   "fromCloud": "2026-11-06T0633.json"
  },
  {
+  "id": "4e084fff21af06cf",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "חברות ההייטק משלמות ארנונה יותר נמוכה - אך מכניסות הרבה כסף - גלובס",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1NnA2VmFMZUhKSWptUVFNa3h5c2pUUkZicDZCQXVQV1BSSzBsbzZVRDNJcTd3a3dibEl5WGxJNlN3eENMTElZbEllX3c1V2staFdaSjhjTXhSWHdNS2pqNXMwUXVVM202?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1NnA2VmFMZUhKSWptUVFNa3h5c2pUUkZicDZCQXVQV1BSSzBsbzZVRDNJcTd3a3dibEl5WGxJNlN3eENMTElZbEllX3c1V2staFdaSjhjTXhSWHdNS2pqNXMwUXVVM202?oc=5\" target=\"_blank\">חברות ההייטק משלמות ארנונה יותר נמוכה - אך מכניסות הרבה כסף</a>&nbs",
+  "date": "2026-11-06T05:04:43.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
   "id": "738ac712b558dc88",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -1958,6 +2200,17 @@
   "fromCloud": "2026-11-06T0333.json"
  },
  {
+  "id": "a0440d4f1a0839e6",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Ares Commercial Real Estate Corp (0001529377) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1529377/000162828026071276/0001628280-26-071276-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001628280-26-071276 <b>Size:</b> 4 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T02:47:22.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
+ },
+ {
   "id": "159bf34fac061eeb",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -2110,6 +2363,17 @@
   "date": "2026-11-06T00:53:31.000Z",
   "fetched": "2026-11-06T08:03:13.676Z",
   "fromCloud": "2026-11-06T0803.json"
+ },
+ {
+  "id": "f71124bdf284640f",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גלובל כתבות נוספות - עמוד 3354 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RWFhxYU9ZWUxtZTluLVNSUlc3ejBCSVV2R3AyN0JiRjQ5Nk15OXhuYmlyX0ZCQ1ItZDVzb2VKNDM1Umh5MTVaYUtmWDBsUEMxcVBiTHh1bzhfZWxKLVFBc3ctOVdnTEk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RWFhxYU9ZWUxtZTluLVNSUlc3ejBCSVV2R3AyN0JiRjQ5Nk15OXhuYmlyX0ZCQ1ItZDVzb2VKNDM1Umh5MTVaYUtmWDBsUEMxcVBiTHh1bzhfZWxKLVFBc3ctOVdnTEk?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3354</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+  "date": "2026-11-06T00:35:39.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
  },
  {
   "id": "e23cb9fefb7d822c",
@@ -2825,6 +3089,17 @@
   "date": "2026-11-05T22:00:22.000Z",
   "fetched": "2026-11-05T22:03:28.618Z",
   "fromCloud": "2026-11-05T2203.json"
+ },
+ {
+  "id": "6b07e852b932a6be",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "שוב קלפי? ניהול סיכונים חכם לחוסכים ומשקיעים בזמן פלונטר פוליטי - פאנדר",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FQ1l0cmF0eWg4T3UtLWpmWUE3SFRCMzZYcno0aVI1ZnJVRFdBRjhjOEtyMGZBVHZ0QTdfakxJME00dEt2Vy1HVFNDM1MtbUxC?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FQ1l0cmF0eWg4T3UtLWpmWUE3SFRCMzZYcno0aVI1ZnJVRFdBRjhjOEtyMGZBVHZ0QTdfakxJME00dEt2Vy1HVFNDM1MtbUxC?oc=5\" target=\"_blank\">שוב קלפי? ניהול סיכונים חכם לחוסכים ומשקיעים בזמן פלונטר פוליטי</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
+  "date": "2026-11-05T22:00:04.000Z",
+  "fetched": "2026-11-06T11:33:11.809Z",
+  "fromCloud": "2026-11-06T1133.json"
  },
  {
   "id": "68041c9f6d9de4bb",
