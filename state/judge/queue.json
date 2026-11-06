@@ -1,5 +1,27 @@
 [
  {
+  "id": "00eadc3269ff0b61",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "למה אפס הון עצמי זה דבר כל כך מסוכן",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001562263#utm_source=RSS",
+  "summary": "יזמי הנדל\"ן התחילו לאחרונה לחלק נכסים כמעט בחינם, באפס הון עצמי, רק תבחרו &#8226; מגבלות המימון הנוקשות של בנק ישראל גידרו את יציבות המערכת הבנקאית, לא את הכיס שלנו &#8226; את הפער שנוצר ממלאים היום בשוק האפור&ndash;בהיר של האשראי החוץ-בנקאי והלוואות קבלן",
+  "date": "2026-11-06T10:30:00.000Z",
+  "fetched": "2026-11-06T10:33:12.296Z",
+  "fromCloud": "2026-11-06T1033.json"
+ },
+ {
+  "id": "11bf39c2b5e70ef6",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "נתניהו בהתייחסות ראשונה לפצצה שהטיל טראמפ: \"עוברים מסיוע לשותפות\" - פוליטי - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnZmX1kyWkNIZ3RxUmw5MFREcmRha0YwckVmbnRiQXBSSVQ3bGJfU3BZQUJYckNUZUZkeDlpbEh1RGtPZmE4NFk3azcyOXgxeVc2dGgtMVI3Z2VKVG9nTmpoSFlRanZrMFVlSXd0MXNzOEJLbTgwNnNYbDFsNi1YSHkzYTlhdWdsTWlObktMWXVjNEotRXp0MkhTd0ZlY00?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnZmX1kyWkNIZ3RxUmw5MFREcmRha0YwckVmbnRiQXBSSVQ3bGJfU3BZQUJYckNUZUZkeDlpbEh1RGtPZmE4NFk3azcyOXgxeVc2dGgtMVI3Z2VKVG9nTmpoSFlRanZrMFVlSXd0MXNzOEJLbTgwNnNYbDFsNi1YSHkzYTlhdWdsTWlObktMWXVjNEotRXp0MkhTd0ZlY00?oc=5\" target=\"",
+  "date": "2026-11-06T09:43:00.000Z",
+  "fetched": "2026-11-06T10:33:12.296Z",
+  "fromCloud": "2026-11-06T1033.json"
+ },
+ {
   "id": "e5e33e5201059158",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -33,6 +55,17 @@
   "fromCloud": "2026-11-06T1003.json"
  },
  {
+  "id": "0c9dd111bb317fa5",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "אחרי רמי לוי: ועד עובדי רשות שדות התעופה בוחן את רכישת ארקיע - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfWVBZRExJYk43R0NOYzlVQ0VMMHRjYklpWHVTMFl2X1NiY3YzVlQzdnBJY1RtUFlqbXk3NVdHRk5WWXQyV0xMMm5ENjJwQXZlMnpiRWRIb18tUzJNNlFKSUUtVkdUcGp6VVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBfWVBZRExJYk43R0NOYzlVQ0VMMHRjYklpWHVTMFl2X1NiY3YzVlQzdnBJY1RtUFlqbXk3NVdHRk5WWXQyV0xMMm5ENjJwQXZlMnpiRWRIb18tUzJNNlFKSUUtVkdUcGp6VVE?oc=5\" target=\"_blank\">אחרי רמי לוי: ועד עובדי רשות שדות התעופה בוחן את רכישת ארקיע</a>",
+  "date": "2026-11-06T09:34:00.000Z",
+  "fetched": "2026-11-06T10:33:12.296Z",
+  "fromCloud": "2026-11-06T1033.json"
+ },
+ {
   "id": "3a73b8fccf35eceb",
   "source": "SecurityWeek",
   "group": "industry",
@@ -53,6 +86,17 @@
   "date": "2026-11-06T09:27:00.000Z",
   "fetched": "2026-11-06T10:03:12.480Z",
   "fromCloud": "2026-11-06T1003.json"
+ },
+ {
+  "id": "1a776bd6efd28adc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Stibbe advises Transpharmation Ltd. on the acquisition of OrganoTherapeutics S.à r.l. - Stibbe",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckd2ZHBuODNTaEFLQWNQV05oc1lybDJYT2lwWk0tMFJEdG13YU8xM29BQ2tBenVobXdWU2QtMXRKQi1QVnJmSFBVYVdYZXluejFiUFpsTnhjZHpQNmRwSlpERHBJelBWV2x4YTY1b2NSZEpDWTY3SUJqWGhEcFNBUWJod0xpNGhYZjlCVUFKMHhCYzlPYktjYkREQjBfbUNIbTR5VnhyVHo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckd2ZHBuODNTaEFLQWNQV05oc1lybDJYT2lwWk0tMFJEdG13YU8xM29BQ2tBenVobXdWU2QtMXRKQi1QVnJmSFBVYVdYZXluejFiUFpsTnhjZHpQNmRwSlpERHBJelBWV2x4YTY1b2NSZEpDWTY3SUJqWGhEcFNBUWJod0xpNGhYZjlCVUFKMHhCYzlPYktjYkREQjBfbUNIbTR5VnhyVHo?oc",
+  "date": "2026-11-06T09:25:51.000Z",
+  "fetched": "2026-11-06T10:33:12.296Z",
+  "fromCloud": "2026-11-06T1033.json"
  },
  {
   "id": "0c8a4f861322eece",
@@ -108,6 +152,28 @@
   "date": "2026-11-06T09:00:00.000Z",
   "fetched": "2026-11-06T09:03:13.161Z",
   "fromCloud": "2026-11-06T0903.json"
+ },
+ {
+  "id": "5e89d18e93ad3b0f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout - GamesIndustry.biz",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR3pzUllub2dhZlZ3WmJIQ3ZaRXBSWGFkc2ZhX0JWUXkwVEtMczFQRTBvcHR1SktiLVZKeWRBWGZNSUFIb2JKYnJxWTIzUGpnMXE1VE9BaU9id19jdVl6dTJmczdWb2N2a3NpbXJ6WWQzS2tGa3BnVFhOZ1B6TXdxSzdxRjkzVWx6V2JzeDZWN2s3UzlWdmU4THY0dk1tR3dlemZobFVqTUFjMVJMaEFvUTE2dnpqZ2NZY1lpNl9zaU9HZUdDbTQxN0tCZjdrNGNpam42eHFBUmxwcHphUjBRNjUyRQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR3pzUllub2dhZlZ3WmJIQ3ZaRXBSWGFkc2ZhX0JWUXkwVEtMczFQRTBvcHR1SktiLVZKeWRBWGZNSUFIb2JKYnJxWTIzUGpnMXE1VE9BaU9id19jdVl6dTJmczdWb2N2a3NpbXJ6WWQzS2tGa3BnVFhOZ1B6TXdxSzdxRjkzVWx6V2JzeDZWN2s3UzlWdmU4THY0dk1tR3dlemZobFVqTUFjMV",
+  "date": "2026-11-06T08:59:40.000Z",
+  "fetched": "2026-11-06T10:33:12.296Z",
+  "fromCloud": "2026-11-06T1033.json"
+ },
+ {
+  "id": "c5e35228f3f951be",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "The new CFO: From reporting the past to shaping the future - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tOW1FYVE3cGJ5czJCS29KMFZieG9mSk5PWU43NWRLVjJJX3F4Qmk4V013ZHY5dHQtSDJXRW4xME5iUVFFS1BiaGx1b2s4NzNDeW5JOVBUU2ZFanppelhqY0xqN3hxclE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tOW1FYVE3cGJ5czJCS29KMFZieG9mSk5PWU43NWRLVjJJX3F4Qmk4V013ZHY5dHQtSDJXRW4xME5iUVFFS1BiaGx1b2s4NzNDeW5JOVBUU2ZFanppelhqY0xqN3hxclE?oc=5\" target=\"_blank\">The new CFO: From reporting the past to shaping the future</a>&nbsp;",
+  "date": "2026-11-06T08:59:00.000Z",
+  "fetched": "2026-11-06T10:33:12.296Z",
+  "fromCloud": "2026-11-06T1033.json"
  },
  {
   "id": "3a6bb117ac70f46e",
@@ -6440,27 +6506,5 @@
   "date": "2026-11-05T10:59:00.000Z",
   "fetched": "2026-11-05T22:03:28.618Z",
   "fromCloud": "2026-11-05T2203.json"
- },
- {
-  "id": "9845fb438fb1c064",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "גלובל כתבות נוספות - עמוד 3351 - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teDdHY0h4cDdwd1ZsTm82VllNR2Z2YkVxNEk5MVZVXzJvTUZ4YUdLaVRjUHhiN1Jrb2tLSEFYdFBKNzFtR00zdm0yX3lTX1FVa3NpRmttajlVZ29fRXozT0V5RURKRTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teDdHY0h4cDdwd1ZsTm82VllNR2Z2YkVxNEk5MVZVXzJvTUZ4YUdLaVRjUHhiN1Jrb2tLSEFYdFBKNzFtR00zdm0yX3lTX1FVa3NpRmttajlVZ29fRXozT0V5RURKRTQ?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3351</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-  "date": "2026-11-05T10:10:11.000Z",
-  "fetched": "2026-11-06T09:03:13.161Z",
-  "fromCloud": "2026-11-06T0903.json"
- },
- {
-  "id": "6429db6a905c55a2",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "BYD שארק חזק ושקט, אבל קופצני ופחות נוח בעיר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ud00zOHc3bkF1OXZMb3MxLTBhRmpvZWx0T2hYVmJaQlUxLXZXcGd3UmMxcFVLaE9CMWZNYjdEUFlKSzFMWlVOTHNQZWRPWndEMG1JcHNObm9tc1pxQmtCa0trOA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ud00zOHc3bkF1OXZMb3MxLTBhRmpvZWx0T2hYVmJaQlUxLXZXcGd3UmMxcFVLaE9CMWZNYjdEUFlKSzFMWlVOTHNQZWRPWndEMG1JcHNObm9tc1pxQmtCa0trOA?oc=5\" target=\"_blank\">BYD שארק חזק ושקט, אבל קופצני ופחות נוח בעיר</a>&nbsp;&nbsp;<font color=\"",
-  "date": "2026-11-05T10:10:00.000Z",
-  "fetched": "2026-11-05T16:33:15.612Z",
-  "fromCloud": "2026-11-05T1633.json"
  }
 ]
