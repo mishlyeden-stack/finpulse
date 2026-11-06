@@ -935,6 +935,17 @@
   "fromCloud": "2026-11-05T2203.json"
  },
  {
+  "id": "0234115e689eb641",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Laureate Education’s Subsidiary in Peru Announces Acquisition, Expanding Capacity in Metropolitan Lima With New Campus Location - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1pGbTVfNmVIdEdCY25NU1dJV0xWUWd6dGJKOE9SWGtDT3VKVG10TEtwY0ZWczU5QUgxaXRJUEc1QVNaejlWLWhQSU1NLS1aRzhRaEx5SUU1NzUyRnFzelV3QjJiWEh2X2xiWDVxbEVJRm81TEdUVWZBT0tiQmJMMF9hcGpGUEVZN0JYcGw3NGM0bG9vbFRsVXN0Q1lQOF8wLWtXZms2M1lSaWI5X1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1pGbTVfNmVIdEdCY25NU1dJV0xWUWd6dGJKOE9SWGtDT3VKVG10TEtwY0ZWczU5QUgxaXRJUEc1QVNaejlWLWhQSU1NLS1aRzhRaEx5SUU1NzUyRnFzelV3QjJiWEh2X2xiWDVxbEVJRm81TEdUVWZBT0tiQmJMMF9hcGpGUEVZN0JYcGw3NGM0bG9vbFRsVXN0Q1lQOF8wLWtXZms2M1lSaW",
+  "date": "2026-11-05T21:15:00.000Z",
+  "fetched": "2026-11-06T01:33:12.596Z",
+  "fromCloud": "2026-11-06T0133.json"
+ },
+ {
   "id": "e61431e413ac039b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1109,6 +1120,17 @@
   "date": "2026-11-05T20:55:13.000Z",
   "fetched": "2026-11-05T21:33:14.620Z",
   "fromCloud": "2026-11-05T2133.json"
+ },
+ {
+  "id": "12890d7169226ce9",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Fireberry - calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IcmdEa0JEZWkzaWM1MDI4N1lnM2xNVmxGY0NjSlQ4Nkw3b0xaZVVaSEFnRHFvV1hmZDNFZHpHMmpRQXpKUjl2Mm1zWFV0Z0d6TEhNa0hR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IcmdEa0JEZWkzaWM1MDI4N1lnM2xNVmxGY0NjSlQ4Nkw3b0xaZVVaSEFnRHFvV1hmZDNFZHpHMmpRQXpKUjl2Mm1zWFV0Z0d6TEhNa0hR?oc=5\" target=\"_blank\">Fireberry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+  "date": "2026-11-05T20:52:12.000Z",
+  "fetched": "2026-11-06T01:33:12.596Z",
+  "fromCloud": "2026-11-06T0133.json"
  },
  {
   "id": "daf91b8361d9f4f4",
