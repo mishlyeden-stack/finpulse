@@ -1,5 +1,71 @@
 [
  {
+  "id": "ed7111483e3b0f48",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Inland Real Estate Income Trust, Inc. (0001528985) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1528985/000119312526451692/0001193125-26-451692-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001193125-26-451692 <b>Size:</b> 175 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
+  "date": "2026-11-06T20:25:03.000Z",
+  "fetched": "2026-11-06T20:33:13.315Z",
+  "fromCloud": "2026-11-06T2033.json"
+ },
+ {
+  "id": "e2069de27945fe81",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CANADIAN DERIVATIVES CLEARING CORP (0000319643) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/319643/000109991026000298/0001099910-26-000298-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001099910-26-000298 <b>Size:</b> 310 KB <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T20:21:15.000Z",
+  "fetched": "2026-11-06T20:33:13.315Z",
+  "fromCloud": "2026-11-06T2033.json"
+ },
+ {
+  "id": "20a4589ac5e473a1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Braveheart Bio, Inc. (0002131524) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2131524/000162828026071586/0001628280-26-071586-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001628280-26-071586 <b>Size:</b> 302 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-06T20:17:17.000Z",
+  "fetched": "2026-11-06T20:33:13.315Z",
+  "fromCloud": "2026-11-06T2033.json"
+ },
+ {
+  "id": "5b572d9519690783",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מה קורה לקצבת הנכות בגיל פרישה? הסכום נשמר, אבל צריך להגיש תביעה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wR3lSc0NKbHc2UnF5ZE5fbTZna1NwdTdBemwxeHJKQTBQeHYzSG9HMWFLaTd2WnlVRTNyV3FVSjdUYm9GaXBkR2tYb0wtU21FVDdvb1lrRDV2R0s5VVFZLTNkYjlTb0xSSEdmV01tUzFrUjlmSjJfekFB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4wR3lSc0NKbHc2UnF5ZE5fbTZna1NwdTdBemwxeHJKQTBQeHYzSG9HMWFLaTd2WnlVRTNyV3FVSjdUYm9GaXBkR2tYb0wtU21FVDdvb1lrRDV2R0s5VVFZLTNkYjlTb0xSSEdmV01tUzFrUjlmSjJfekFB?oc=5\" target=\"_blank\">מה קורה לקצבת הנכות בגיל פרישה? הסכום נשמר,",
+  "date": "2026-11-06T20:12:00.000Z",
+  "fetched": "2026-11-06T20:33:13.315Z",
+  "fromCloud": "2026-11-06T2033.json"
+ },
+ {
+  "id": "cacfce3ce2ca2e03",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bedford Town Manager Suggests Revival and New Version of Land Acquisition Committee - The Bedford Citizen",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNldESTV4eThWUENEUW05NmpaU3RMRVFEOXZBamdId3dIZUR1VEV1WThUNFE0VU5XYXBwTEw3aWVXMmhhWkVjTm5FMHM3TVRUQTR0OVFDY1UtTE91TlFSMUh3M1FqV2gydnpFVW8yTjY4ZnZMUVNpelV3bzFSS0FmQVdpY1d5b1QxSWoyN3dSblRmOFlxLWgxOGRaTE1hTmctc1gwYmxLOVpEQU9HSmQzTHRUUGk4RVR3dGw5NUJ2NA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNldESTV4eThWUENEUW05NmpaU3RMRVFEOXZBamdId3dIZUR1VEV1WThUNFE0VU5XYXBwTEw3aWVXMmhhWkVjTm5FMHM3TVRUQTR0OVFDY1UtTE91TlFSMUh3M1FqV2gydnpFVW8yTjY4ZnZMUVNpelV3bzFSS0FmQVdpY1d5b1QxSWoyN3dSblRmOFlxLWgxOGRaTE1hTmctc1gwYmxLOVpEQU",
+  "date": "2026-11-06T20:07:20.000Z",
+  "fetched": "2026-11-06T20:33:13.315Z",
+  "fromCloud": "2026-11-06T2033.json"
+ },
+ {
+  "id": "f4be75040e0dc0b8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Fox Completes $22 Billion Roku Takeover - Gizmodo",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFRWRXFOWFhlZTktZWlnMjZsR2ZIOTRSVGMzRWZnb25MMm9CVTd4cjZpWjdSZlIxYUR2ZkR5Q0NzUUNSXzhyVTVOdGF1X0xCWXRvaUxUR0pOUU1CMDJsOU5vLXVOTFRsRGsxMGotMi1EdGdkOUVldTB5U2hmUGVvdlN2dHc4Q0J4dHZfazVQOTV2OGpXanNvcl9pYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFRWRXFOWFhlZTktZWlnMjZsR2ZIOTRSVGMzRWZnb25MMm9CVTd4cjZpWjdSZlIxYUR2ZkR5Q0NzUUNSXzhyVTVOdGF1X0xCWXRvaUxUR0pOUU1CMDJsOU5vLXVOTFRsRGsxMGotMi1EdGdkOUVldTB5U2hmUGVvdlN2dHc4Q0J4dHZfazVQOTV2OGpXanNvcl9pYw?oc=5\" target=\"_blan",
+  "date": "2026-11-06T20:00:45.000Z",
+  "fetched": "2026-11-06T20:33:13.315Z",
+  "fromCloud": "2026-11-06T2033.json"
+ },
+ {
   "id": "4e17ce66f7bbf505",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -20,6 +86,17 @@
   "date": "2026-11-06T19:52:00.000Z",
   "fetched": "2026-11-06T20:03:12.048Z",
   "fromCloud": "2026-11-06T2003.json"
+ },
+ {
+  "id": "185ff72748861214",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition - Ars Technica",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVhjRWNDUEVxZ2RaZWRzOHFwdzBEZUJsdTNXNFhPSkhyMnFISFhPU1RNakVILUE4VU1rWWMtZVNWaXNSbzhvUkgzZThUOEVwLV8wWWNoTjBRZ3UtcWZBbURSc1lYbDNsd09yX0Zrd3A2SWRPejkzemZBWVFyYnc1MzJuWHRkVFZmMENPZmNmR3pOMF9hYWFhN2R3cFVwWTJ4NjM2NDdUN0RaZ1h2QThrT0U2bw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVhjRWNDUEVxZ2RaZWRzOHFwdzBEZUJsdTNXNFhPSkhyMnFISFhPU1RNakVILUE4VU1rWWMtZVNWaXNSbzhvUkgzZThUOEVwLV8wWWNoTjBRZ3UtcWZBbURSc1lYbDNsd09yX0Zrd3A2SWRPejkzemZBWVFyYnc1MzJuWHRkVFZmMENPZmNmR3pOMF9hYWFhN2R3cFVwWTJ4NjM2NDdUN0RaZ1",
+  "date": "2026-11-06T19:50:18.000Z",
+  "fetched": "2026-11-06T20:33:13.315Z",
+  "fromCloud": "2026-11-06T2033.json"
  },
  {
   "id": "51c9b3bd02e892a5",
@@ -372,6 +449,17 @@
   "date": "2026-11-06T18:13:51.000Z",
   "fetched": "2026-11-06T19:33:14.245Z",
   "fromCloud": "2026-11-06T1933.json"
+ },
+ {
+  "id": "a720e9ef11c47dea",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tripadvisor downgraded by BofA as CEO and CFO exits add risk - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdC1qaWJOazFiZndTZXYzWW50Q0p3QWVxa2g1TU55ZnVLV1FFbUdRV0l5bnMzY2g5Q3BhNUhXdXNPc3B1TEVuSjZoTGk4X2ZyQ09TNnB1Mi1jVXNwM3lVSFJpSVJrQXRock9PSzJwblE0X2lmcVF2X0pTQW9wUWlUWlpMU1lqTGdsNWNuTVoyY0ItcHFFWTZSS1hpbFhELUg4QkE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdC1qaWJOazFiZndTZXYzWW50Q0p3QWVxa2g1TU55ZnVLV1FFbUdRV0l5bnMzY2g5Q3BhNUhXdXNPc3B1TEVuSjZoTGk4X2ZyQ09TNnB1Mi1jVXNwM3lVSFJpSVJrQXRock9PSzJwblE0X2lmcVF2X0pTQW9wUWlUWlpMU1lqTGdsNWNuTVoyY0ItcHFFWTZSS1hpbFhELUg4QkE?oc=5\" targ",
+  "date": "2026-11-06T18:13:00.000Z",
+  "fetched": "2026-11-06T20:33:13.315Z",
+  "fromCloud": "2026-11-06T2033.json"
  },
  {
   "id": "cc81c89666cade47",
@@ -6796,203 +6884,5 @@
   "date": "2026-11-05T20:42:00.000Z",
   "fetched": "2026-11-05T22:33:14.449Z",
   "fromCloud": "2026-11-05T2233.json"
- },
- {
-  "id": "456aeb80fe624428",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Milestone process guides Air Force acquisition decisions - AFLCMC (.mil)",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWc4eEdkbFRVOUxVUnBWcU1yNlpEUktSVDk2dmwxZFVvV3owcmllZnE4Q0NXQldoRmhlSzZtWmNLTXNVUV96a1hNV05XUXhNcERXazJqel83Tno2Z2NUZlNXbUJPX2RLbjBKUndxTWtoSlk2LWpKSVVmak9aVHdRdF9VNnZvc1E0bW1ZZ09qX0owcFhHallGbjN3SVJOaTJBX2FiNnFRcw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWc4eEdkbFRVOUxVUnBWcU1yNlpEUktSVDk2dmwxZFVvV3owcmllZnE4Q0NXQldoRmhlSzZtWmNLTXNVUV96a1hNV05XUXhNcERXazJqel83Tno2Z2NUZlNXbUJPX2RLbjBKUndxTWtoSlk2LWpKSVVmak9aVHdRdF9VNnZvc1E0bW1ZZ09qX0owcFhHallGbjN3SVJOaTJBX2FiNnFRcw?oc=",
-  "date": "2026-11-05T20:33:07.000Z",
-  "fetched": "2026-11-05T21:03:12.169Z",
-  "fromCloud": "2026-11-05T2103.json"
- },
- {
-  "id": "9fe8a87699a0c9e8",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "איתי צישנבסקי - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWdTF6cXZtNDN2ajQtdXdYdngxQzVsUXliZnk2cXluaXdJQ1RtWlZVd3NWc241UlBsWTdPOWFvc0dtcENvYnc3MmhHUGVrcURMYm9NU0doTWlqcU03SFB2WXp0dUY4TlEtZjdScV8wMUQ0RWZGeTBjSFdFMnU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBWdTF6cXZtNDN2ajQtdXdYdngxQzVsUXliZnk2cXluaXdJQ1RtWlZVd3NWc241UlBsWTdPOWFvc0dtcENvYnc3MmhHUGVrcURMYm9NU0doTWlqcU03SFB2WXp0dUY4TlEtZjdScV8wMUQ0RWZGeTBjSFdFMnU?oc=5\" target=\"_blank\">איתי צישנבסקי</a>&nbsp;&nbsp;<font color",
-  "date": "2026-11-05T20:32:03.000Z",
-  "fetched": "2026-11-05T21:33:14.620Z",
-  "fromCloud": "2026-11-05T2133.json"
- },
- {
-  "id": "29c60c8898f6112a",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ובינתיים בשוק האג\"ח: עליות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwc0FQS29Ea3c2aFlwbnE4WFl1TVI5eE81V2FFbFJwd0JuMDNwWklZUUE3Umw4TF8taFN4ODV2M0NwMmZGMmJZbXhkazNQUGQtV04tT19Gc3RnSnZNQmNjLTZnWnozSHNGMlNuQWgtaTA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBwc0FQS29Ea3c2aFlwbnE4WFl1TVI5eE81V2FFbFJwd0JuMDNwWklZUUE3Umw4TF8taFN4ODV2M0NwMmZGMmJZbXhkazNQUGQtV04tT19Gc3RnSnZNQmNjLTZnWnozSHNGMlNuQWgtaTA?oc=5\" target=\"_blank\">ובינתיים בשוק האג\"ח: עליות</a>&nbsp;&nbsp;<font color=\"#",
-  "date": "2026-11-05T20:31:46.000Z",
-  "fetched": "2026-11-05T21:33:14.620Z",
-  "fromCloud": "2026-11-05T2133.json"
- },
- {
-  "id": "7411c9f148b65736",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Core University Living Real Estate Income Trust (0002119505) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2119505/000119312526449603/0001193125-26-449603-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001193125-26-449603 <b>Size:</b> 128 KB <br>Item 3.02: Unregistered Sales of Equity Securities",
-  "date": "2026-11-05T20:31:16.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "87be2127c18c8500",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "CohnReznick Welcomes Doug Schmid as CFO Advisory Partner - Inside Public Accounting",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFV0S3pDZjFPMExFcTFIOFIxVjJSVmRvZnF0R245SUwxRTBvTURkN3JpR2I4STVzay1lT21nM3BXMmRjOEZ0T1R5aUNtbFdlYjYySllIY204Z3dhMXJrUFRrXzFVNnhYSmM4Vk9udVl6MHVKT2JudFA3MjlyQ0JoSVo3cFAwd2JGWFFBV25XVlNQX1F5X2JTdmtLTTRvSWRrZ1FrUnFB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFV0S3pDZjFPMExFcTFIOFIxVjJSVmRvZnF0R245SUwxRTBvTURkN3JpR2I4STVzay1lT21nM3BXMmRjOEZ0T1R5aUNtbFdlYjYySllIY204Z3dhMXJrUFRrXzFVNnhYSmM4Vk9udVl6MHVKT2JudFA3MjlyQ0JoSVo3cFAwd2JGWFFBV25XVlNQX1F5X2JTdmtLTTRvSWRrZ1FrUnFB?oc=5\"",
-  "date": "2026-11-05T20:30:15.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "bb4b4d5aa9e40b65",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Will Democrats stall the AI boom?",
-  "link": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1",
-  "summary": "Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets",
-  "date": "2026-11-05T20:28:44.000Z",
-  "fetched": "2026-11-05T21:33:14.620Z",
-  "fromCloud": "2026-11-05T2133.json"
- },
- {
-  "id": "2bbc10ea8642e37f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Brazil’s open finance model helps fintechs like PicPay compete - CFO Brew",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWR3NzlmNmhNTWxtYmdmWDU0Y1Btb0NnN3hKNkM4azZXME1qbWRVak1sOGx4Zmt0RnZpS3hHQ24wbWZSb0xuSHN1MGlqYkVCZXNmOGpMZjdqbG9GUmNZZUpUSkhBbV8tbEVVaWNCUnVIVVVLT3EtQkIxQUNRRzd5US1fVnItS2tfX2NQMlVjQnZsYkZKRlZtQg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWR3NzlmNmhNTWxtYmdmWDU0Y1Btb0NnN3hKNkM4azZXME1qbWRVak1sOGx4Zmt0RnZpS3hHQ24wbWZSb0xuSHN1MGlqYkVCZXNmOGpMZjdqbG9GUmNZZUpUSkhBbV8tbEVVaWNCUnVIVVVLT3EtQkIxQUNRRzd5US1fVnItS2tfX2NQMlVjQnZsYkZKRlZtQg?oc=5\" target=\"_blank\">B",
-  "date": "2026-11-05T20:24:49.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "f0f7f5a4e14434eb",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Andalusian Credit Company, LLC (0001979306) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1979306/000110465926123281/0001104659-26-123281-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001104659-26-123281 <b>Size:</b> 2 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01: ",
-  "date": "2026-11-05T20:23:03.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "bb80e47417d046c7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "SD: Production, revenue and adjusted EBITDA grew as Cherokee development and acquisition boosted results - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxONDJ1aXFLRDE4VGVhaU53bjFnajRXb1g0LTIzTVBRYmZJZXBaWk9zdXk0SER2UFZSWmd3Y0lpTEdXby00SGk4ajN5djFTTEdZeUMxSnNsYW95eU9CQ3pEcDczeS0tVGdjMmJUU1AwNUJ6X0RuSUozSlU1M1EwMk1nbVVUYzRUalhaV05IaG9fbXBDMElQUmZ3LUhxVHBMRkhfQVVteWxoZ1hYWmpkT3hISEdxMXpEdXRIRE1nY1F4a1NWXy1XYVdPSVFOZWpfZHNYTnYwU1dOMFl0MWFqeHBtVlNTOVpVU0dLcmxISVJYd3JWMktDUDEzQUV6VV9XSVJkbVU3d1FSTG9NZGtRZXRJOFhFT0V0NjRw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxONDJ1aXFLRDE4VGVhaU53bjFnajRXb1g0LTIzTVBRYmZJZXBaWk9zdXk0SER2UFZSWmd3Y0lpTEdXby00SGk4ajN5djFTTEdZeUMxSnNsYW95eU9CQ3pEcDczeS0tVGdjMmJUU1AwNUJ6X0RuSUozSlU1M1EwMk1nbVVUYzRUalhaV05IaG9fbXBDMElQUmZ3LUhxVHBMRkhfQVVteWxoZ1hYWm",
-  "date": "2026-11-05T20:17:34.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "27949319de8e544c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Influence Media Partners completes acquisition of Anthem Entertainment’s catalogs in deal valued at over $600M - Music Business Worldwide",
-  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWklMLVJoQ2tuVW5URTlUSWYyZjkteEsxUWV1RjZoZkRXNzBqN2ZkVjVHWHRPbUZxSnNNbjh3N3g4X3RkQjU1VnkzcjhNVTVoVkFBY2Z3bUhRbzU1dndwbEVLWjFkc3NweUc0dVRqUFpPU3oxamw1NjNVUzRhcXNlWlozOHJwdFNKMy1pZTJXR2hIMjFIMDR5eXBoTVlsaV9XZlZ0Q1ZVNG9CcmNsMWlkckxzYTlzWGVaaTNYZURZcTZTSDduSDlpTkpwbEduM2pPMFdtT212SzBHWUt1LUhGLVFn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWklMLVJoQ2tuVW5URTlUSWYyZjkteEsxUWV1RjZoZkRXNzBqN2ZkVjVHWHRPbUZxSnNNbjh3N3g4X3RkQjU1VnkzcjhNVTVoVkFBY2Z3bUhRbzU1dndwbEVLWjFkc3NweUc0dVRqUFpPU3oxamw1NjNVUzRhcXNlWlozOHJwdFNKMy1pZTJXR2hIMjFIMDR5eXBoTVlsaV9XZlZ0Q1ZVNG9Ccm",
-  "date": "2026-11-05T20:17:21.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "0e0e2ac2151c63e5",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מיקרוסופט מתחילה להתחרט על הניאו-קלאוד - והספקיות הצעירות משלמות את המחיר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oMXJiTFRwUE5GaUpqQnBId005YjBmVVdWc0hqUEtOLTNPaXd2dHpDVnNjYVh6c1pjSG5OTFBTUWtHeGJ5LXY5UVVwUTJBeThFX3REZnhsblBVbVdPQ0Y5OFhmRklyVDNUbEV5Ul9hcl8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1oMXJiTFRwUE5GaUpqQnBId005YjBmVVdWc0hqUEtOLTNPaXd2dHpDVnNjYVh6c1pjSG5OTFBTUWtHeGJ5LXY5UVVwUTJBeThFX3REZnhsblBVbVdPQ0Y5OFhmRklyVDNUbEV5Ul9hcl8?oc=5\" target=\"_blank\">מיקרוסופט מתחילה להתחרט על הניאו-קלאוד - והספקיות הצעירו",
-  "date": "2026-11-05T20:16:00.000Z",
-  "fetched": "2026-11-05T21:33:14.620Z",
-  "fromCloud": "2026-11-05T2133.json"
- },
- {
-  "id": "7a36aa61c49dda2c",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2035428/000203542826000068/0002035428-26-000068-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0002035428-26-000068 <b>Size:</b> 147 KB <br>Item 3.02: Unregistered Sales of Equity Securities",
-  "date": "2026-11-05T20:15:16.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "797e7e331e9228bb",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Rithm Perpetual Life Residential Trust (0002081628) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026070928/0001628280-26-070928-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001628280-26-070928 <b>Size:</b> 143 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure",
-  "date": "2026-11-05T20:14:04.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "9dee0b585b1a1936",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - KBS Real Estate Investment Trust III, Inc. (0001482430) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1482430/000148243026000044/0001482430-26-000044-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001482430-26-000044 <b>Size:</b> 147 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
-  "date": "2026-11-05T20:12:59.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "e6c151e0a8cd4acb",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "GLIBA: Q3 returned to profitability, while USF exposure and debt refinancing remain pivotal - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWkdyRm5fbFoyTGdWbVpnR3ZrQ3JMVC1PVmlKMWpHZkw0TUdMdHplNWRpeDRXbnBsVjBwNFFQY19XQ29ZNEJHSUFhUEJpcVVnNmoyTzhRa2lIMTdkclBTVExTZWFpTE5IQ2xaeUI5amUwY0ttejk0cjRIbVhoSkR0R3VTMjUtbm1tYnBsNzM0MEhSMTgwY3Q0eFhYVDJJbDZGU2hOWVpTZHRQX1I4elA5QV9QNk1qXzFtMWhDWDRaaEZyeXVZeldUYURqX3daSkZvQnFwUEJZSkEyc2lBYkdHRVhqNEZoTjF3bVliSXotQXVCbzNQNWEwckFwTUQ1OEFRMlE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNWkdyRm5fbFoyTGdWbVpnR3ZrQ3JMVC1PVmlKMWpHZkw0TUdMdHplNWRpeDRXbnBsVjBwNFFQY19XQ29ZNEJHSUFhUEJpcVVnNmoyTzhRa2lIMTdkclBTVExTZWFpTE5IQ2xaeUI5amUwY0ttejk0cjRIbVhoSkR0R3VTMjUtbm1tYnBsNzM0MEhSMTgwY3Q0eFhYVDJJbDZGU2hOWVpTZHRQX1",
-  "date": "2026-11-05T20:12:31.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "70b323a2a2f4315d",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "מחיר המים צפוי לעלות ב-2.3% ב-2027, גורמי מקצוע דרשו להעלות יותר",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001562347#utm_source=RSS",
-  "summary": "מדובר בתוספת של כ-3.5 שקלים בחודש למשפחה בת חמש נפשות &#8226; ההחלטה התקבלה לאחר דיון במועצת רשות המים, שבחרה לצמצם את ההתייקרות המתוכננת למרות עלייה צפויה של 835 מיליון שקל בעלויות משק המים &#8226; חברי המועצה חלוקים בדעותיהם בין שמירה על יוקר מחיה נמוך לבין הצורך בהשקעות בתשתיו",
-  "date": "2026-11-05T20:11:00.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "0f4a8d3d09efa009",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "It’s Interesting That Neither Sony Nor Tamron Have Said Anything Regarding Acquisition - PetaPixel",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG1GT0FqUlpqZm5nVktkZWY1eVpUazdVWnlaLUtsWE9qXzUtWnpBbE5YQUR3dXRUYkVnMnpDR2dLbVZLZllGeWF0ekpPZkV3eXdsRGJwX09fYTNsWGVaOTdLMjluZmZPa3JLYTNMXy01emhoeC1hUG82MjRoNTFuOVRFY01GcDd3VXdJb2RxVTV3bjVldXFabUxYWXVYRU1YX1J3cncwSUhhUFY0bGZHcmY2THluUHRpZ09r?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG1GT0FqUlpqZm5nVktkZWY1eVpUazdVWnlaLUtsWE9qXzUtWnpBbE5YQUR3dXRUYkVnMnpDR2dLbVZLZllGeWF0ekpPZkV3eXdsRGJwX09fYTNsWGVaOTdLMjluZmZPa3JLYTNMXy01emhoeC1hUG82MjRoNTFuOVRFY01GcDd3VXdJb2RxVTV3bjVldXFabUxYWXVYRU1YX1J3cncwSUhhUF",
-  "date": "2026-11-05T20:10:29.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
- },
- {
-  "id": "be20bd7466279dec",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "הנשיא בסיום סבב הממליצים: \"אודיע ביום ראשון על מי יוטל המנדט\"",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001562348#utm_source=RSS",
-  "summary": "גדי איזנקוט קיבל 67 ממליצים, ובנימין נתניהו קיבל 46 ממליצים בלבד &#8226; הרצוג: \"מתכוון להפוך כל אבן, כדי לנסות להביא לממשלה יציבה\"",
-  "date": "2026-11-05T20:05:00.000Z",
-  "fetched": "2026-11-05T20:33:14.044Z",
-  "fromCloud": "2026-11-05T2033.json"
  }
 ]
