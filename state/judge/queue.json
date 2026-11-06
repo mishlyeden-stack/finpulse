@@ -1,5 +1,38 @@
 [
  {
+  "id": "b194bebb2aa67fcb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Fox completes Roku acquisition - Advanced Television",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0FMbWFpU2hlX2VrR01QZjVrcnpRXy1td01Ua3dfWS1EeE9NendkbV82alBndUtoSXk4QnN6aXA1aUtvLVg3dXBmZHR6cWZnZjI1RU92M2MzTl83VHZGdWNPQjdEOVFlWFBHa1BKSDFwM2lFbkZSVzN2S09UZE5YN1JGZk8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0FMbWFpU2hlX2VrR01QZjVrcnpRXy1td01Ua3dfWS1EeE9NendkbV82alBndUtoSXk4QnN6aXA1aUtvLVg3dXBmZHR6cWZnZjI1RU92M2MzTl83VHZGdWNPQjdEOVFlWFBHa1BKSDFwM2lFbkZSVzN2S09UZE5YN1JGZk8?oc=5\" target=\"_blank\">Fox completes Roku acquisiti",
+  "date": "2026-11-06T14:58:47.000Z",
+  "fetched": "2026-11-06T15:03:17.332Z",
+  "fromCloud": "2026-11-06T1503.json"
+ },
+ {
+  "id": "c45e3cd35ae84f46",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Plans for Poland’s National Data Processing Center fleshed out by NASK",
+  "link": "https://www.datacenterdynamics.com/en/news/plans-for-polands-national-data-processing-center-fleshed-out-by-nask/",
+  "summary": "<p data-block-key=\"evr1u\">The research and development institute said that the facility’s first phase will now require up to 15MW of power</p>",
+  "date": "2026-11-06T14:56:32.000Z",
+  "fetched": "2026-11-06T15:03:17.332Z",
+  "fromCloud": "2026-11-06T1503.json"
+ },
+ {
+  "id": "8e6f918d9351397a",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+  "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+  "summary": "<p data-block-key=\"61qyw\">Tim Höttges says \"welcome to the party\"</p>",
+  "date": "2026-11-06T14:55:11.000Z",
+  "fetched": "2026-11-06T15:03:17.332Z",
+  "fromCloud": "2026-11-06T1503.json"
+ },
+ {
   "id": "7081f1b463c87bf6",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -86,6 +119,17 @@
   "date": "2026-11-06T14:38:01.000Z",
   "fetched": "2026-11-06T14:57:39.343Z",
   "fromCloud": "2026-11-06T1457.json"
+ },
+ {
+  "id": "456c9f25f81d3633",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Ford’s Dividend Is Down 50% From 2025’s First Payout. Will the Bonus Return? - 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1B4aFZvdF92MGRxdlJOTTFDdWhHSGpwZ1JpdkNFS1JlaUs1cGNkVGwtM1pFR2E2RkNyS0M0ckwyV1RidDhqaGhkQmRvdUo4cjFTcER2LWRVU0FjN1FMMkhrdnBpekdjOFBSRmVxb2hhNVY0eGN3YkxaRi0zNk5MRjFOQklNd3FNcjBtZ2E3blVhQl9paTdYUHJIaWZmaDY0c3dLYlBqbXc2VWJKNXpTVFkxUzNNQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1B4aFZvdF92MGRxdlJOTTFDdWhHSGpwZ1JpdkNFS1JlaUs1cGNkVGwtM1pFR2E2RkNyS0M0ckwyV1RidDhqaGhkQmRvdUo4cjFTcER2LWRVU0FjN1FMMkhrdnBpekdjOFBSRmVxb2hhNVY0eGN3YkxaRi0zNk5MRjFOQklNd3FNcjBtZ2E3blVhQl9paTdYUHJIaWZmaDY0c3dLYlBqbXc2VW",
+  "date": "2026-11-06T14:37:00.000Z",
+  "fetched": "2026-11-06T15:03:17.332Z",
+  "fromCloud": "2026-11-06T1503.json"
  },
  {
   "id": "e3c221e5c8ab9222",
@@ -889,6 +933,17 @@
   "date": "2026-11-06T12:20:22.000Z",
   "fetched": "2026-11-06T12:33:12.778Z",
   "fromCloud": "2026-11-06T1233.json"
+ },
+ {
+  "id": "9d56b4c0a555c8fa",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Chesnara CEO targets further deals after £1.7bn MetLife UK acquisition - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0tVeWhYNFRXOUVWREtFY3FjYl9vcFIwdkI1RDB6SHkxTWw1aVd0WmU0NW9odnNwdFhBcTR5WHdITTd5aDlabmFoU2o5UnpuOUN4QWQ1MmJnaE1qUDctMWtNUjQtOWlLTkhRMFVhZXRZYW1CTlR2SzNFVC0teV9iZElnMVZ1Tmlm?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0tVeWhYNFRXOUVWREtFY3FjYl9vcFIwdkI1RDB6SHkxTWw1aVd0WmU0NW9odnNwdFhBcTR5WHdITTd5aDlabmFoU2o5UnpuOUN4QWQ1MmJnaE1qUDctMWtNUjQtOWlLTkhRMFVhZXRZYW1CTlR2SzNFVC0teV9iZElnMVZ1Tmlm?oc=5\" target=\"_blank\">Chesnara CEO targets fu",
+  "date": "2026-11-06T12:20:03.000Z",
+  "fetched": "2026-11-06T15:03:17.332Z",
+  "fromCloud": "2026-11-06T1503.json"
  },
  {
   "id": "62b771e70d065e63",
@@ -7792,78 +7847,5 @@
   "date": "2026-11-05T15:04:00.000Z",
   "fetched": "2026-11-05T15:33:12.964Z",
   "fromCloud": "2026-11-05T1533.json"
- },
- {
-  "id": "943e5e10b64af85e",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "ביום השנה ל־7 באוקטובר נחלשו הקניות - ביום הבחירות הישראלים פתחו את הארנק - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QeHNWOHR1WVRtVGo2OURkZmgzY29pNzk1UVFhYlBWU19fdkVPZFZOVGp6Ync4MXFobVFUSS1qZ1ZDcG1LWmNwRkJQY1Y1MFh6TjBRN1dJWFJKXzVtSkhkYUItb2s4cVdubWhlcw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1QeHNWOHR1WVRtVGo2OURkZmgzY29pNzk1UVFhYlBWU19fdkVPZFZOVGp6Ync4MXFobVFUSS1qZ1ZDcG1LWmNwRkJQY1Y1MFh6TjBRN1dJWFJKXzVtSkhkYUItb2s4cVdubWhlcw?oc=5\" target=\"_blank\">ביום השנה ל־7 באוקטובר נחלשו הקניות - ביום הבחירות הישראלים פ",
-  "date": "2026-11-05T15:03:00.000Z",
-  "fetched": "2026-11-05T15:33:12.964Z",
-  "fromCloud": "2026-11-05T1533.json"
- },
- {
-  "source": "Israel Defense",
-  "group": "industry",
-  "title": "Political Pressures Mount over Israel's Role in Horizon Europe",
-  "link": "https://www.israeldefense.co.il/en/node/72489",
-  "summary": "<span>Political Pressures Mount over Israel&amp;#039;s Role in Horizon Europe</span> <span><a title=\"View user profile.\" href=\"/en/user/6\" class=\"article__info-author\">ami@israeldefe…</a></span> <span><time datetime=\"2026-11-05T17:00:00+02:00\" title=\"Thursday, November 5, 2026 - ",
-  "date": "2026-11-05T15:00:00.000Z",
-  "id": "35711863a6e61892"
- },
- {
-  "id": "d8ebce75e29d6222",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "SSR Mining’s acquisition near Marigold to close this quarter - Elko Daily Free Press",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzRMZHdRd1lnUktjaUR2bTNsM29Td2Jqa0dTck53c2JKakhuc05lNGNPejREQ1lrTE9kLTFNZ3ZWdGotTVQ1bjc2cWluemtiOUt1Zms4b0EzSDdfRUVDT0hLeDF5ejB2NTFMUWw3V1ZmUWNyTkJIMmlWcW1QbWhEeWN5cXA2LVExVExzX2t0aXRBTGpaSEMybzZvX1NEaWs?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORzRMZHdRd1lnUktjaUR2bTNsM29Td2Jqa0dTck53c2JKakhuc05lNGNPejREQ1lrTE9kLTFNZ3ZWdGotTVQ1bjc2cWluemtiOUt1Zms4b0EzSDdfRUVDT0hLeDF5ejB2NTFMUWw3V1ZmUWNyTkJIMmlWcW1QbWhEeWN5cXA2LVExVExzX2t0aXRBTGpaSEMybzZvX1NEaWs?oc=5\" target=\"",
-  "date": "2026-11-05T15:00:00.000Z",
-  "fetched": "2026-11-05T15:33:12.964Z",
-  "fromCloud": "2026-11-05T1533.json"
- },
- {
-  "id": "9d81e826989fe5aa",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Cascades (CAS) CFO Allan Hogg to Retire in Second Half of 2027 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDRIdGVVY0E5OFlTY1ZDaWNmWktKYV9SSGJhSnduVEQ3WFk5OW1iM0hIZ1p2dTNEekhQLTJVVlg1MmxsRU1OSHdVcEJrX1JrbXp6a0R6OFo3dFlUbVVHU25hZG1aTlRJR1lZRnBqaUpiMW96ZEI5X2lFclhYYjRMWTc4bFEwRW1VMkg2YmNzR3ZwbUJIMHB1MHU0Z3ZHdnRpLUZxR0xHTmhwWkNlM3RMU3FSTFZSdnJRbHFLbnJKWQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDRIdGVVY0E5OFlTY1ZDaWNmWktKYV9SSGJhSnduVEQ3WFk5OW1iM0hIZ1p2dTNEekhQLTJVVlg1MmxsRU1OSHdVcEJrX1JrbXp6a0R6OFo3dFlUbVVHU25hZG1aTlRJR1lZRnBqaUpiMW96ZEI5X2lFclhYYjRMWTc4bFEwRW1VMkg2YmNzR3ZwbUJIMHB1MHU0Z3ZHdnRpLUZxR0xHTmhwWk",
-  "date": "2026-11-05T15:00:00.000Z",
-  "fetched": "2026-11-05T16:03:20.001Z",
-  "fromCloud": "2026-11-05T1603.json"
- },
- {
-  "id": "1a08625e9c16b4dd",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "DEC: Birch could more than double free cash flow as Q3 delivered $153 million in adjusted FCF - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRzR3U0ZRTWtnUkxhUENSeFVNQ2VQZnFtdTBETjllMVptQkRkczFic1JzWlFDN2JSaEQ2NTZaZklxblhHNm9NMjNVWDdVbEhDR0JYc2NneElTWm5nWm8wdTg0UjYzRXBuWnRxVFlYaVNtbkhtY2lyZG1zbG9VcUVaWVk2RUpVenVHWVhSMnBIZTFnd1FjTktHTHFSMG1mZnJWXzZaUXBBdlJaUndtcmc4RTZYTEhjU1NUa1VBX3VmSVFWcXBuRnVBa3U3RnhlSDFCU1R4bmNfRjFCbW92MXcwMXRGVGZYdTA2bjJpQnFIa2NnTjdpbXpNemc3amdoZHd6NUFOSm95cUhHQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNRzR3U0ZRTWtnUkxhUENSeFVNQ2VQZnFtdTBETjllMVptQkRkczFic1JzWlFDN2JSaEQ2NTZaZklxblhHNm9NMjNVWDdVbEhDR0JYc2NneElTWm5nWm8wdTg0UjYzRXBuWnRxVFlYaVNtbkhtY2lyZG1zbG9VcUVaWVk2RUpVenVHWVhSMnBIZTFnd1FjTktHTHFSMG1mZnJWXzZaUXBBdlJaUn",
-  "date": "2026-11-05T14:59:08.000Z",
-  "fetched": "2026-11-05T15:33:12.964Z",
-  "fromCloud": "2026-11-05T1533.json"
- },
- {
-  "source": "Times of Israel",
-  "group": "israel-press",
-  "title": "Opposition demands Knesset speaker’s ouster; he pledges debate on motion if majority wants it",
-  "link": "https://www.timesofisrael.com/opposition-demands-knesset-speakers-ouster-he-pledges-debate-on-motion-if-majority-wants-it/",
-  "summary": "United Torah Judaism breaks from Netanyahu, declines to recommend candidate for prime minister; Herzog spars with Otzma Yehudit over comments against Arab voters",
-  "date": "2026-11-05T14:58:32.000Z",
-  "id": "810ae653432dbdb8"
- },
- {
-  "id": "5a784cc6fe0e35eb",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - NorthWestern Energy Group, Inc. (0001993004) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1993004/000199300426000060/0001993004-26-000060-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-05 <b>AccNo:</b> 0001993004-26-000060 <b>Size:</b> 9 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-05T14:58:27.000Z",
-  "fetched": "2026-11-05T15:03:12.055Z",
-  "fromCloud": "2026-11-05T1503.json"
  }
 ]
