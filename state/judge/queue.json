@@ -1,5 +1,71 @@
 [
  {
+  "id": "986edfc864db12c6",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+  "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+  "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
+  "date": "2026-11-07T10:16:23.000Z",
+  "fetched": "2026-11-07T10:33:18.044Z",
+  "fromCloud": "2026-11-07T1033.json"
+ },
+ {
+  "id": "db46ce45eb96b8ea",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "טבע ב-42 דולר: שני בכירים מימשו אופציות ומכרו מניות בכ-3 מיליון דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZbzBnMm1DWWs3dnZ0ZTh2T0FjZzFGaHNlWmRzWGVHNC1venluTEhHdnkwZ3RUcWtDbUs5MmJLcXBoaGdJazBteWlVYzNycjNxdVFNN0NSRWtVQzlfVDY3NzFzS3JaYThacVlYVDhvaXM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZbzBnMm1DWWs3dnZ0ZTh2T0FjZzFGaHNlWmRzWGVHNC1venluTEhHdnkwZ3RUcWtDbUs5MmJLcXBoaGdJazBteWlVYzNycjNxdVFNN0NSRWtVQzlfVDY3NzFzS3JaYThacVlYVDhvaXM?oc=5\" target=\"_blank\">טבע ב-42 דולר: שני בכירים מימשו אופציות ומכרו מניות בכ-3",
+  "date": "2026-11-07T10:10:00.000Z",
+  "fetched": "2026-11-07T10:33:18.044Z",
+  "fromCloud": "2026-11-07T1033.json"
+ },
+ {
+  "id": "a2a948b215c774ec",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MMG Group appoints Smeer Chopra as group chief financial officer - ET HospitalityWorld",
+  "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPellvZ0cwblBWcHVtNVFjZGlkQ19CUzdJcUZrWjhvQmFYV1E0dkFJZUg5V3VfcTFzcXphYkNrY196TXJnLWVmdU40b0F5OW5KNjBqVnlYdTF2TzdKaTg2R0Rfak9yTXdPS3lvUU5XYkhwam5vZW4yR1Zla3UtOUxYNW1CNEhkOE41UFZJX0NfYlFGTEJfMDNnNzctSUd1bVh4YWh1OUdsRVNUOTdmcWxOd095WFRtME5mNldic24yRlFpQUxhekdpcmwwel9qaGN3ZUk1WDhJVjhzby1nNWpYSzQxbDdMU214azhaTjJBYU16Q0hoTzNhZFlROW51VjB3bVRMVWdmd0JEUHJMUDgtb3lMbkxaQzAtZkpVYkZjMjJONW0ycGNKLTVkMNIB8wFBVV95cUxNZ3Q1R3JuVDFsclp6MS1ybUstalQ4SnljY1FrQmxDS29jWWlYQmtPUV9XZnlkdUtHR09la1VaRmk2d0k2M0hTNWh0dUtQUVRPejdjOXFVMHg2MVU1VXhtV01hQ19TZHNscVVCakhSZ2FfN1prck9WakVySkk3dnprajZuSDh2R0ZMWjhEa1VXLUVSUkU1S0dGS1dLWlAwZHpPR1MyOV9lelpic2VUQzFhM3BPdFYwQm5HeE9qZDc4a0xTZktGUGlQUkFDV25HTDd5QXYxYzAySXY4eU9sc3pvYURyOGI1dWJ2M2xYRk96S21vT28?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxPellvZ0cwblBWcHVtNVFjZGlkQ19CUzdJcUZrWjhvQmFYV1E0dkFJZUg5V3VfcTFzcXphYkNrY196TXJnLWVmdU40b0F5OW5KNjBqVnlYdTF2TzdKaTg2R0Rfak9yTXdPS3lvUU5XYkhwam5vZW4yR1Zla3UtOUxYNW1CNEhkOE41UFZJX0NfYlFGTEJfMDNnNzctSUd1bVh4YWh1OUdsRVNUOT",
+  "date": "2026-11-07T10:03:24.000Z",
+  "fetched": "2026-11-07T10:33:18.044Z",
+  "fromCloud": "2026-11-07T1033.json"
+ },
+ {
+  "id": "5137893ce0006837",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ברק אברמוב נותן טיפים של אלפי שקלים. מה אתם חושבים על זה? סקר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zU0EzVE52SmZHXzVTWmFSajNFUDhzc0Z5enFxel9aWkE3SHdMeXhXT3ZaWDZlclB3Q1BNTER3LXhkbGVvXzdhV2NULTVVQjh4VWxta2dqdUd5aFBvVVBmbGJ5bFNiblprX2JCV1lCOVlaMkllcFBEYkZB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4zU0EzVE52SmZHXzVTWmFSajNFUDhzc0Z5enFxel9aWkE3SHdMeXhXT3ZaWDZlclB3Q1BNTER3LXhkbGVvXzdhV2NULTVVQjh4VWxta2dqdUd5aFBvVVBmbGJ5bFNiblprX2JCV1lCOVlaMkllcFBEYkZB?oc=5\" target=\"_blank\">ברק אברמוב נותן טיפים של אלפי שקלים. מה אתם",
+  "date": "2026-11-07T10:03:00.000Z",
+  "fetched": "2026-11-07T10:33:18.044Z",
+  "fromCloud": "2026-11-07T1033.json"
+ },
+ {
+  "id": "22a8960c91bdf704",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "האוזניות שמאיימות על המותגים החזקים בשוק",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001562253#utm_source=RSS",
+  "summary": "חברת Nothing הבריטית השיקה את Headphone (1) Pro, היקרות ביותר שלה בסגמנט \"אוזניות קשת\", בניסיון להציע חוויית פרימיום של ממש &#8226; תג המחיר נמוך במאות שקלים מחלק מהמתחרות בקטגוריה, אבל יש כמה חסרונות",
+  "date": "2026-11-07T10:00:00.000Z",
+  "fetched": "2026-11-07T10:33:18.044Z",
+  "fromCloud": "2026-11-07T1033.json"
+ },
+ {
+  "id": "786f71ac26046e2e",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "הרפובליקאים מאשימים את ישראל בתבוסה: כלכלת ישראל תשרוד, הבטחון פחות - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmdyR2hGaVlmU0FSc1V2czJQbjNRdkliZC05bmhXbUFJMFZuUVJhNmV3YWNTekdtZEJwdW1VTnZOOS1HX0luY3EzdHZIWWxua0FGWFVLaWp0cHYyY1RQS0cwUVltZndyVG1DeGpmaUVobVZkakdGaUlESWpoUkxrVDFySUVvYzR3LUhoa0R1STJpQ3c0T05lQ2FBUXgtUUI2OGVOSmRNVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmdyR2hGaVlmU0FSc1V2czJQbjNRdkliZC05bmhXbUFJMFZuUVJhNmV3YWNTekdtZEJwdW1VTnZOOS1HX0luY3EzdHZIWWxua0FGWFVLaWp0cHYyY1RQS0cwUVltZndyVG1DeGpmaUVobVZkakdGaUlESWpoUkxrVDFySUVvYzR3LUhoa0R1STJpQ3c0T05lQ2FBUXgtUUI2OGVOSmRNVQ?oc=",
+  "date": "2026-11-07T10:00:00.000Z",
+  "fetched": "2026-11-07T10:33:18.044Z",
+  "fromCloud": "2026-11-07T1033.json"
+ },
+ {
   "id": "42a889a27e2c54a6",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -42,6 +108,17 @@
   "date": "2026-11-07T09:55:58.000Z",
   "fetched": "2026-11-07T10:03:12.204Z",
   "fromCloud": "2026-11-07T1003.json"
+ },
+ {
+  "id": "8cdbc7a2072efc9b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלב P 202500 DEC מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04eFEwSkwtaWh6OHlZYktFbWFYRVMxMVFhTTZVa0YtRW5qQUhLeGhrRnNub0lyVDkzWGhsX3hZdEg0STZ4RDlLRDZtSTJpSjhoTzRlNzJIR2stSEc1dmxRb2JxNFB4ZGM1aHdoNkRZVWgwQjBP?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE04eFEwSkwtaWh6OHlZYktFbWFYRVMxMVFhTTZVa0YtRW5qQUhLeGhrRnNub0lyVDkzWGhsX3hZdEg0STZ4RDlLRDZtSTJpSjhoTzRlNzJIR2stSEc1dmxRb2JxNFB4ZGM1aHdoNkRZVWgwQjBP?oc=5\" target=\"_blank\">אלב P 202500 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-07T09:55:58.000Z",
+  "fetched": "2026-11-07T10:33:18.044Z",
+  "fromCloud": "2026-11-07T1033.json"
  },
  {
   "id": "5c9507c735bb26cd",
@@ -5441,105 +5518,6 @@
   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWFNRSUNCQzdVZ3lQUjlwZ2pZa0VoZWxLZ3d4a1ZwLWZ5RDIwS3QxX1dXVExvbDlnU1MzSGZxUzQ1NkpaV29uVzBOMGVFanUtRzd3VHlNY1N0OUdPUjVCMkE3b09KTTBaVDliLUxRNA?oc=5",
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWFNRSUNCQzdVZ3lQUjlwZ2pZa0VoZWxLZ3d4a1ZwLWZ5RDIwS3QxX1dXVExvbDlnU1MzSGZxUzQ1NkpaV29uVzBOMGVFanUtRzd3VHlNY1N0OUdPUjVCMkE3b09KTTBaVDliLUxRNA?oc=5\" target=\"_blank\">Genmab CFO backs analysts’ 2027 cost estimates</a>&nbsp;&",
   "date": "2026-11-06T10:33:59.000Z",
-  "fetched": "2026-11-06T11:03:12.323Z",
-  "fromCloud": "2026-11-06T1103.json"
- },
- {
-  "id": "92d275cfb613c069",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Adani Ports agrees $2.86b acquisition of liquid storage operator Evos - Baird Maritime",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFRWMjgzUWNwNld4a2dKRGxJSXhpaktESE81Q2lURHk0MV9EUDFSbVNObmQwZ3V3dVhpWnJpUXJCMEpfbWZHS0NZWDh1ZzFra2RKTHdxMENwcTBIbHB6ejVUSkNJNkotNUhCcGdRTFpGZW1ralRFQmpiMVlHNElHQVpHU2xleVnSAZQBQVVfeXFMUFFFVmFPZ0V4N19YTWI3YjdhV3F0VXlJOFc4S1UzcXlPc1dKWFZ6eXVVLWNYNjAxQUt2cVZPdzNlZFFaYUE0SkEwRFpyaFZtVlNJZi1GLXJ6bVVJXzF6eHZxLWpiOEdIb0ZsNWZSS19zTm1WbU1NUGhKd2JvU0pGSGZMR0s3RTVKN0w2RTFOOW8yLXg5bA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFRWMjgzUWNwNld4a2dKRGxJSXhpaktESE81Q2lURHk0MV9EUDFSbVNObmQwZ3V3dVhpWnJpUXJCMEpfbWZHS0NZWDh1ZzFra2RKTHdxMENwcTBIbHB6ejVUSkNJNkotNUhCcGdRTFpGZW1ralRFQmpiMVlHNElHQVpHU2xleVnSAZQBQVVfeXFMUFFFVmFPZ0V4N19YTWI3YjdhV3F0VXlJOF",
-  "date": "2026-11-06T10:31:03.000Z",
-  "fetched": "2026-11-06T11:03:12.323Z",
-  "fromCloud": "2026-11-06T1103.json"
- },
- {
-  "id": "9e6e99a9e8229806",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ועד עובדי רש\"ת שוקל לקנות את ארקיע בכספי הפנסיה: מתחרה לרמי לוי - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEQ3YxTU9pcXF2T0xoOW9nRFZxbm0tSjZTMzBTd3BNT1dGaml4LVcxS05BTk9ZaDNESFB0a01iNVR6ZzRwWkpkZFFrTFpFekZ5QmNUUkVlM0ozbllNNWZMNmEyLVVMbFU5?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEQ3YxTU9pcXF2T0xoOW9nRFZxbm0tSjZTMzBTd3BNT1dGaml4LVcxS05BTk9ZaDNESFB0a01iNVR6ZzRwWkpkZFFrTFpFekZ5QmNUUkVlM0ozbllNNWZMNmEyLVVMbFU5?oc=5\" target=\"_blank\">ועד עובדי רש\"ת שוקל לקנות את ארקיע בכספי הפנסיה: מתחרה לרמי לוי</a>",
-  "date": "2026-11-06T10:31:00.000Z",
-  "fetched": "2026-11-06T11:03:12.323Z",
-  "fromCloud": "2026-11-06T1103.json"
- },
- {
-  "id": "00eadc3269ff0b61",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "למה אפס הון עצמי זה דבר כל כך מסוכן",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001562263#utm_source=RSS",
-  "summary": "יזמי הנדל\"ן התחילו לאחרונה לחלק נכסים כמעט בחינם, באפס הון עצמי, רק תבחרו &#8226; מגבלות המימון הנוקשות של בנק ישראל גידרו את יציבות המערכת הבנקאית, לא את הכיס שלנו &#8226; את הפער שנוצר ממלאים היום בשוק האפור&ndash;בהיר של האשראי החוץ-בנקאי והלוואות קבלן",
-  "date": "2026-11-06T10:30:00.000Z",
-  "fetched": "2026-11-06T10:33:12.296Z",
-  "fromCloud": "2026-11-06T1033.json"
- },
- {
-  "id": "e26a9ab344a83a07",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "דילוג בין משרות מביא העלאה, אבל הקידום האמיתי הוא דווקא באותו מקום עבודה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LRkhjLW10RFBLalhkMi1mTVlwOE5XT19RSU5WVVdtQ2o1MDJXZ3BxY214dU9zYnQ0SGFLOHNZbVVsRTFlSFhWZWpWOVpDMWFSeEl0V05nWkNVUm1EVlNka3lqRXJlSVU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LRkhjLW10RFBLalhkMi1mTVlwOE5XT19RSU5WVVdtQ2o1MDJXZ3BxY214dU9zYnQ0SGFLOHNZbVVsRTFlSFhWZWpWOVpDMWFSeEl0V05nWkNVUm1EVlNka3lqRXJlSVU?oc=5\" target=\"_blank\">דילוג בין משרות מביא העלאה, אבל הקידום האמיתי הוא דווקא באותו מקום ע",
-  "date": "2026-11-06T10:28:00.000Z",
-  "fetched": "2026-11-06T11:03:12.323Z",
-  "fromCloud": "2026-11-06T1103.json"
- },
- {
-  "id": "a899ca363352cdec",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Cigarettes worth over $60 million seized in massive smuggling operation at Ashdod port - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wZUtBS1lrNWREVmVrUHVWV2tKejFrZHJTRkNaSFJSa29tazZaQ04zUmpHODdYOG1DWUxTbkZRSmd1T3pVTGkxaU03M0FGSl92WFNTNEQ5RFBLT0RBRjJjNUNnZ2ZmX1U?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wZUtBS1lrNWREVmVrUHVWV2tKejFrZHJTRkNaSFJSa29tazZaQ04zUmpHODdYOG1DWUxTbkZRSmd1T3pVTGkxaU03M0FGSl92WFNTNEQ5RFBLT0RBRjJjNUNnZ2ZmX1U?oc=5\" target=\"_blank\">Cigarettes worth over $60 million seized in massive smuggling operat",
-  "date": "2026-11-06T10:26:00.000Z",
-  "fetched": "2026-11-06T11:03:12.323Z",
-  "fromCloud": "2026-11-06T1103.json"
- },
- {
-  "id": "27cabde24bb56530",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"נצבע את השמיים באדום\": מי עומד מאחורי איומי הסרק על טיסות? - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdJakNtQ0JRT1ZIWmVIdUw0N2NoUUdWZnNTUVo2TExkVlY3Q3lqUnVPbmVlS01paG82ZnlPM3RYLU1DbmhjdWJaUDdlQlVWcE84a1ZGUTk2UDRPVFhZTjRKNXlBOWZVODM2aDc1V0U2UGNkZ1AzOHlHVE94Tk1wTFNFV2k3dFVheGtYSjk0QlV4LWx3RDFVQnE5Zkx0Z3RyTC1QaVdwSQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVdJakNtQ0JRT1ZIWmVIdUw0N2NoUUdWZnNTUVo2TExkVlY3Q3lqUnVPbmVlS01paG82ZnlPM3RYLU1DbmhjdWJaUDdlQlVWcE84a1ZGUTk2UDRPVFhZTjRKNXlBOWZVODM2aDc1V0U2UGNkZ1AzOHlHVE94Tk1wTFNFV2k3dFVheGtYSjk0QlV4LWx3RDFVQnE5Zkx0Z3RyTC1QaVdwSQ?oc=",
-  "date": "2026-11-06T10:21:00.000Z",
-  "fetched": "2026-11-06T11:03:12.323Z",
-  "fromCloud": "2026-11-06T1103.json"
- },
- {
-  "id": "b3df1c3f0da25e3a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Novi Partners completes acquisition of Atlantas Marine - Hydro International",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3FkYi10TXFVNTIzNXZIeVJibGNXVDZrWW53WUhEV1ZsZDNrMkZMaHVMUjYxS0lvQ2ladlBWZFJVUGItOGdieVRraFlVbHN6dURrQkc3ZlBVM3ExUE5uYjRKMUs3eXpKNUJjV0lVYnExRmRUVTU1WEk2NFhNT0JabVY4eG1lc2kyaDBEVVJQQUJOcGZjYzNRWFdqVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3FkYi10TXFVNTIzNXZIeVJibGNXVDZrWW53WUhEV1ZsZDNrMkZMaHVMUjYxS0lvQ2ladlBWZFJVUGItOGdieVRraFlVbHN6dURrQkc3ZlBVM3ExUE5uYjRKMUs3eXpKNUJjV0lVYnExRmRUVTU1WEk2NFhNT0JabVY4eG1lc2kyaDBEVVJQQUJOcGZjYzNRWFdqVQ?oc=5\" target=\"_blan",
-  "date": "2026-11-06T10:15:01.000Z",
-  "fetched": "2026-11-06T11:03:12.323Z",
-  "fromCloud": "2026-11-06T1103.json"
- },
- {
-  "id": "9cb627d217a3b29d",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "What Is Next For Etsy (ETSY) After CFO Lanny Baker's Planned Exit? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN09uNGlEV3NWMzJHS25FbmU5aHJWMVhQbkhVZHZvaHRwY0VLR0lFM1lvLU9xODFIMmZBRU9qUnJQemVzV21Ld2FGU25GWW9XcDUzUWtjOEZvUzVWYnJ3TjJ2dFplaEItUkdnZVlVSUFpQkpzY3lMNjc2ZXJPMG5JNlZ0TUJrNE1lMkhwa0ZHWVQyMUU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNN09uNGlEV3NWMzJHS25FbmU5aHJWMVhQbkhVZHZvaHRwY0VLR0lFM1lvLU9xODFIMmZBRU9qUnJQemVzV21Ld2FGU25GWW9XcDUzUWtjOEZvUzVWYnJ3TjJ2dFplaEItUkdnZVlVSUFpQkpzY3lMNjc2ZXJPMG5JNlZ0TUJrNE1lMkhwa0ZHWVQyMUU?oc=5\" target=\"_blank\">What Is ",
-  "date": "2026-11-06T10:12:10.000Z",
-  "fetched": "2026-11-06T13:33:11.812Z",
-  "fromCloud": "2026-11-06T1333.json"
- },
- {
-  "id": "634f0b262f90348e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "ANURAS: Bliss GVS Pharma acquisition reshaped consolidation as H1 revenue reached INR 14,609.15 million - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOV1dLRzhFRG03TGQtN2xrLTAyM2NJOE02M3R3cmY5OVV4cjRoZzBXS2szbmpZaHQzMTdGdXNIR2ZjdUxJcExOMmF3THl6WHJweGZoR01wTzBmYUp2OVgyTDdDcTJyRUhaSHRnVElxbFQxMGdCRGc0VDVFWUc3Y1NfYXdmTVMzRHBqX3FocGVISGRBYjhxdEdzN0p3cWcwTGwyM1RiZGZxczJPWEJjaEFwb0R6LUN6RUNKZS02cUtKbjFGOUJTRm1fb3A5U0hQLU9JZEkzcmVNakNaVlQyMENoQnVtbEZ4VGJHVGFYNlhpNXFwZWUyT01DYnNWM25RYjRQVkxVR2ZldmZZYlYzUWpYUjg5SQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOV1dLRzhFRG03TGQtN2xrLTAyM2NJOE02M3R3cmY5OVV4cjRoZzBXS2szbmpZaHQzMTdGdXNIR2ZjdUxJcExOMmF3THl6WHJweGZoR01wTzBmYUp2OVgyTDdDcTJyRUhaSHRnVElxbFQxMGdCRGc0VDVFWUc3Y1NfYXdmTVMzRHBqX3FocGVISGRBYjhxdEdzN0p3cWcwTGwyM1RiZGZxczJPWE",
-  "date": "2026-11-06T10:10:19.000Z",
   "fetched": "2026-11-06T11:03:12.323Z",
   "fromCloud": "2026-11-06T1103.json"
  }
