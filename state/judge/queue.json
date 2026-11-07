@@ -1,5 +1,16 @@
 [
  {
+  "id": "ec277674c0113ade",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "ברקשייר הכפילה הרכישות החוזרות של מניותיה, הרווח התפעולי ירד ב-6% - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vUEJxbUFqS2xucHFBYjJZMUlDNHZhQ0RERWlsVWJOdGJVNWk0M0xyMk5VdWt1d0EtU0xtSDMyZkVnajVYblktaWRBS1VCb0VOQ0pZeGVQcmtZSjVVMzdfNGY0QQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vUEJxbUFqS2xucHFBYjJZMUlDNHZhQ0RERWlsVWJOdGJVNWk0M0xyMk5VdWt1d0EtU0xtSDMyZkVnajVYblktaWRBS1VCb0VOQ0pZeGVQcmtZSjVVMzdfNGY0QQ?oc=5\" target=\"_blank\">ברקשייר הכפילה הרכישות החוזרות של מניותיה, הרווח התפעולי ירד ב-6%</a>&nbs",
+  "date": "2026-11-07T14:45:00.000Z",
+  "fetched": "2026-11-07T15:03:12.026Z",
+  "fromCloud": "2026-11-07T1503.json"
+ },
+ {
   "id": "a870dc5e648c06e6",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -614,6 +625,17 @@
   "date": "2026-11-07T09:22:31.000Z",
   "fetched": "2026-11-07T10:03:12.204Z",
   "fromCloud": "2026-11-07T1003.json"
+ },
+ {
+  "id": "29b365556482823f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Leader's Advantage Acquisition Corp.: Shareholders Board Members Managers and Company Profile | KYG540931022 - www.marketscreener.com",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRl94S1dPbzRCcmpWWGRtNThGdlNkaUlER3pSWk1pNk45VUwtOHNZLUo3X0JYZ3BBT3MzWHNrY29icjJjRFllVFJ0X3JLMW1yLV9HWHlmRzdxMWUyM2tPOHIwWWRyMlFqcWVYUVpDOGFTXzFWSHZJaU83bHBGODhFb2k5ZGxTamw2UGl2N29OZU0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRl94S1dPbzRCcmpWWGRtNThGdlNkaUlER3pSWk1pNk45VUwtOHNZLUo3X0JYZ3BBT3MzWHNrY29icjJjRFllVFJ0X3JLMW1yLV9HWHlmRzdxMWUyM2tPOHIwWWRyMlFqcWVYUVpDOGFTXzFWSHZJaU83bHBGODhFb2k5ZGxTamw2UGl2N29OZU0?oc=5\" target=\"_blank\">Leader's Adv",
+  "date": "2026-11-07T09:19:00.000Z",
+  "fetched": "2026-11-07T15:03:12.026Z",
+  "fromCloud": "2026-11-07T1503.json"
  },
  {
   "id": "d25f7393ec1369a0",
@@ -3892,324 +3914,5 @@
   "date": "2026-11-06T15:05:00.000Z",
   "fetched": "2026-11-06T15:33:13.828Z",
   "fromCloud": "2026-11-06T1533.json"
- },
- {
-  "id": "e89a721db4a34904",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fox finalizes Roku acquisition in $22 billion deal - Awful Announcing",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjNkhpR29rZ3gyT3pYTGRHdzVoalN6azlibzR0QmVuRjdiS1BMQ0tVcDFpa0ZTWjBRX212aTZYQ1RqeWtTRmJHTHdtRzkwZjMyWVJrWTZJaHNNUDNaZjB3bWYyWG56Sm8xMTZfcldGZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBjNkhpR29rZ3gyT3pYTGRHdzVoalN6azlibzR0QmVuRjdiS1BMQ0tVcDFpa0ZTWjBRX212aTZYQ1RqeWtTRmJHTHdtRzkwZjMyWVJrWTZJaHNNUDNaZjB3bWYyWG56Sm8xMTZfcldGZw?oc=5\" target=\"_blank\">Fox finalizes Roku acquisition in $22 billion deal</a>&nb",
-  "date": "2026-11-06T15:03:10.000Z",
-  "fetched": "2026-11-06T15:33:13.828Z",
-  "fromCloud": "2026-11-06T1533.json"
- },
- {
-  "id": "55ee3201095978cb",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "JLL Arranges $67.3M Loan for Refinancing of Metro Boston Apartment Building - REBusinessOnline",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXdtUUJ5MVpDOUx5VnYwQWhaMmdQNGs0UlZUUUVJUDU0OEx2YmU3RXdiNk9RbUV2aXhZdUwxQ1d1S2tURDZvMmRZRzBDamJfaEF1d0hRODlKNTk4VGgwN2RleUtITy1KdTE0enFFYS1JMnAtR0M5SG1vZ01LREtxWEI2UFFLNWd3MWpSQVh3VnlETVY2Q1ZoNUZSLUVUT0R6U1JhVm9Pbw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXdtUUJ5MVpDOUx5VnYwQWhaMmdQNGs0UlZUUUVJUDU0OEx2YmU3RXdiNk9RbUV2aXhZdUwxQ1d1S2tURDZvMmRZRzBDamJfaEF1d0hRODlKNTk4VGgwN2RleUtITy1KdTE0enFFYS1JMnAtR0M5SG1vZ01LREtxWEI2UFFLNWd3MWpSQVh3VnlETVY2Q1ZoNUZSLUVUT0R6U1JhVm9Pbw?oc=",
-  "date": "2026-11-06T15:02:30.000Z",
-  "fetched": "2026-11-06T15:33:13.828Z",
-  "fromCloud": "2026-11-06T1533.json"
- },
- {
-  "id": "e3d9cf8abcf13a14",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fraud lawsuit over Viking Plastics acquisition settled - Plastics News",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1BPcXpzd045UlJlRFVCTW9ZWldpcXM2V2JPVlh5cGt0Q0ZQM01PU3psUVg1cE1fMjJBanhOdGlPZEJkZXVoVmFOQW9hdnFxNjVfenFLVjU4dm9EejJUWDdVeVcxeW5jNW1aak5Xa1ltNHB0akVwemZSNkJWcUdqZ1l3MElFdF92MTd2NENOMW85QWpXRmt0emZjcFhpdTJBaGc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1BPcXpzd045UlJlRFVCTW9ZWldpcXM2V2JPVlh5cGt0Q0ZQM01PU3psUVg1cE1fMjJBanhOdGlPZEJkZXVoVmFOQW9hdnFxNjVfenFLVjU4dm9EejJUWDdVeVcxeW5jNW1aak5Xa1ltNHB0akVwemZSNkJWcUdqZ1l3MElFdF92MTd2NENOMW85QWpXRmt0emZjcFhpdTJBaGc?oc=5\" targ",
-  "date": "2026-11-06T14:59:00.000Z",
-  "fetched": "2026-11-06T15:33:13.828Z",
-  "fromCloud": "2026-11-06T1533.json"
- },
- {
-  "id": "b194bebb2aa67fcb",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fox completes Roku acquisition - Advanced Television",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0FMbWFpU2hlX2VrR01QZjVrcnpRXy1td01Ua3dfWS1EeE9NendkbV82alBndUtoSXk4QnN6aXA1aUtvLVg3dXBmZHR6cWZnZjI1RU92M2MzTl83VHZGdWNPQjdEOVFlWFBHa1BKSDFwM2lFbkZSVzN2S09UZE5YN1JGZk8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0FMbWFpU2hlX2VrR01QZjVrcnpRXy1td01Ua3dfWS1EeE9NendkbV82alBndUtoSXk4QnN6aXA1aUtvLVg3dXBmZHR6cWZnZjI1RU92M2MzTl83VHZGdWNPQjdEOVFlWFBHa1BKSDFwM2lFbkZSVzN2S09UZE5YN1JGZk8?oc=5\" target=\"_blank\">Fox completes Roku acquisiti",
-  "date": "2026-11-06T14:58:47.000Z",
-  "fetched": "2026-11-06T15:03:17.332Z",
-  "fromCloud": "2026-11-06T1503.json"
- },
- {
-  "id": "2c6a137d4d973b37",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "CL: Q3 delivered $21M in free cash flow as higher-cost inventory constrained margins - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZnNqTjJxOTJBY1NWZVZLOEVXYWhCSGdsTUFyRkVzbWNBdkpDdXU2bFFENEtQcFlLRUpzTnBicUhsNTNSTXkzaEpyVVZHQWx4cGppUU51b3YzeF94cUMxWk5TUlZVeU5aVlQzcTNSRXc5LUxCRU1KdHlMUGRlU2FtbWJ1YS1VU2loQTlNb0Y0c242YmhOOVZveGNfdkd0YjJ3ZEx6YjRRYjBudEZSOHlIVm9sT0pZWC1RS2RDRV9vZGtma0IzS2xicmhxamlfV2NpalQzeE9RWWtpcExETW9RWHZxb3FjUDF5NDhKcC1zRHl2WXV4NzRTU3p0QzNUQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZnNqTjJxOTJBY1NWZVZLOEVXYWhCSGdsTUFyRkVzbWNBdkpDdXU2bFFENEtQcFlLRUpzTnBicUhsNTNSTXkzaEpyVVZHQWx4cGppUU51b3YzeF94cUMxWk5TUlZVeU5aVlQzcTNSRXc5LUxCRU1KdHlMUGRlU2FtbWJ1YS1VU2loQTlNb0Y0c242YmhOOVZveGNfdkd0YjJ3ZEx6YjRRYjBudE",
-  "date": "2026-11-06T14:58:39.000Z",
-  "fetched": "2026-11-06T16:03:12.064Z",
-  "fromCloud": "2026-11-06T1603.json"
- },
- {
-  "id": "f65bd66ad6964f88",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "May Walter - calcalistech.com",
-  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iSFo1RG1ZZ01xd0pJSl9CLXZ0elFjWGRxY1gtdUZBVUZlSldEUnJwTEdoWG1kU1YzSlp2UWtYdFA5Q1c4NTdwME1sbEZaUURIOHp1U1ExVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iSFo1RG1ZZ01xd0pJSl9CLXZ0elFjWGRxY1gtdUZBVUZlSldEUnJwTEdoWG1kU1YzSlp2UWtYdFA5Q1c4NTdwME1sbEZaUURIOHp1U1ExVQ?oc=5\" target=\"_blank\">May Walter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
-  "date": "2026-11-06T14:57:13.000Z",
-  "fetched": "2026-11-06T19:03:12.096Z",
-  "fromCloud": "2026-11-06T1903.json"
- },
- {
-  "id": "a07e453c3a647ca0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fox Finalizes $22 Billion Roku Acquisition in Streaming Push - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1BSM2l5eVBQU1lVZWlMSUNjb1VoWEpSTEhHbjBPbC1qNG1GMnNhVWFHVWlTT0NlbXc3bkFoTWpFVjRDcnNzVWRuNWExT0ptMmhhWDlSWllfcThhbWx4bkc2eEZucjJ4NllrZFBIdXBOR2cxQUVTd2dnekNKSER6alFlWlEzQzdROVQxWGhsN0h3ZnY0VzhvUm5EcVVXUEM0VU9xODFFbE9YX2ZYczlR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1BSM2l5eVBQU1lVZWlMSUNjb1VoWEpSTEhHbjBPbC1qNG1GMnNhVWFHVWlTT0NlbXc3bkFoTWpFVjRDcnNzVWRuNWExT0ptMmhhWDlSWllfcThhbWx4bkc2eEZucjJ4NllrZFBIdXBOR2cxQUVTd2dnekNKSER6alFlWlEzQzdROVQxWGhsN0h3ZnY0VzhvUm5EcVVXUEM0VU9xODFFbE9YX2",
-  "date": "2026-11-06T14:57:00.000Z",
-  "fetched": "2026-11-06T15:33:13.828Z",
-  "fromCloud": "2026-11-06T1533.json"
- },
- {
-  "id": "067be6d80e3743dd",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Suzano's CFO Says Chinese Debt Market Now Looks More Attractive For Bond Issuance - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONDVLS3lqYmU0THE1ZWNBU2U2TVctRnR1U0RxWDJfVDNtbV9WeTNDMEdrVW9xS1pVNEo2aUp4QTVBb29TNFBHWGMwaXdLOWtuWGVDaVJNRnhJRjNydXN2THZzYUtWWWw2aGhWaktwYmtFX1hnZE9mTy1MVEZqWmxqVjlTeUJGbjJNeG04andCaXZsQm56emF1VWt3WWFwRlNjTGJjaW9RQ1lIX3ZDM3dNdGhqX0lQT3F2amdLOFFKSWs0R2xQdUZxdy1sMzVKSjQ5d3VfcE1rcUNfZTh6YkNDTmg4Mlp3UQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxONDVLS3lqYmU0THE1ZWNBU2U2TVctRnR1U0RxWDJfVDNtbV9WeTNDMEdrVW9xS1pVNEo2aUp4QTVBb29TNFBHWGMwaXdLOWtuWGVDaVJNRnhJRjNydXN2THZzYUtWWWw2aGhWaktwYmtFX1hnZE9mTy1MVEZqWmxqVjlTeUJGbjJNeG04andCaXZsQm56emF1VWt3WWFwRlNjTGJjaW9RQ1lIX3",
-  "date": "2026-11-06T14:56:54.000Z",
-  "fetched": "2026-11-06T16:03:12.064Z",
-  "fromCloud": "2026-11-06T1603.json"
- },
- {
-  "id": "c45e3cd35ae84f46",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Plans for Poland’s National Data Processing Center fleshed out by NASK",
-  "link": "https://www.datacenterdynamics.com/en/news/plans-for-polands-national-data-processing-center-fleshed-out-by-nask/",
-  "summary": "<p data-block-key=\"evr1u\">The research and development institute said that the facility’s first phase will now require up to 15MW of power</p>",
-  "date": "2026-11-06T14:56:32.000Z",
-  "fetched": "2026-11-06T15:03:17.332Z",
-  "fromCloud": "2026-11-06T1503.json"
- },
- {
-  "id": "50ab14969bcc2b5a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Contango Appoints Andrew Darare As CEO And Yalin Sun As CFO - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQXdPcE5BaFVXMEtZOUV4S05zMWVnTG1LMGFPTngwT2lURXROSEp5SlRKaThneFhxelJoeWJXZllzdkdPdHFZU1RvME9hQlVrTWRsc3A5VUR2V21IVHRMSlpWbl9hMXhXbW01cHZZZGVHMkh1cmd4aDJrdnpPWmJPb25qcVUwbks3Vno5RWFacktLcWRSMmd0M2xocnYyMExPY1NndUZmYWVDLUpuYVVaUUlKcGFqVmRKd28zd3RZaTh6d2hDcmppRA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQXdPcE5BaFVXMEtZOUV4S05zMWVnTG1LMGFPTngwT2lURXROSEp5SlRKaThneFhxelJoeWJXZllzdkdPdHFZU1RvME9hQlVrTWRsc3A5VUR2V21IVHRMSlpWbl9hMXhXbW01cHZZZGVHMkh1cmd4aDJrdnpPWmJPb25qcVUwbks3Vno5RWFacktLcWRSMmd0M2xocnYyMExPY1NndUZmYWVDLU",
-  "date": "2026-11-06T14:56:03.000Z",
-  "fetched": "2026-11-06T16:03:12.064Z",
-  "fromCloud": "2026-11-06T1603.json"
- },
- {
-  "id": "925d7f07c9bb5e06",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fox has finalized its Roku acquisition well ahead of schedule, forming a free streaming giant - Business Insider Africa",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTdtUXJMM25sQlNJUUV2bVMwdDJpQi1ZU01PZnNhSld5TW1qTExWU090c1k2dGZDYldXRzc1X3RZLUFmNnZrTnhjUFZlMUZLdXdCN3ZsVldKd0hIREQ5QWs3eG5iNGdRV0pFZjNsbUxjX0RVbVNodTQxQ1lCN01FUktsY0FKbDlMa09rNGY4eVIyWThHRHAxZzR3Nk9ETTV4VVFiQjQwakxpa1R0dlZ3a2ZHVHllSG1QaGdITXJmWEl5UQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTdtUXJMM25sQlNJUUV2bVMwdDJpQi1ZU01PZnNhSld5TW1qTExWU090c1k2dGZDYldXRzc1X3RZLUFmNnZrTnhjUFZlMUZLdXdCN3ZsVldKd0hIREQ5QWs3eG5iNGdRV0pFZjNsbUxjX0RVbVNodTQxQ1lCN01FUktsY0FKbDlMa09rNGY4eVIyWThHRHAxZzR3Nk9ETTV4VVFiQjQwakxpa1",
-  "date": "2026-11-06T14:55:37.000Z",
-  "fetched": "2026-11-06T15:33:13.828Z",
-  "fromCloud": "2026-11-06T1533.json"
- },
- {
-  "id": "8e6f918d9351397a",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
-  "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
-  "summary": "<p data-block-key=\"61qyw\">Tim Höttges says \"welcome to the party\"</p>",
-  "date": "2026-11-06T14:55:11.000Z",
-  "fetched": "2026-11-06T15:03:17.332Z",
-  "fromCloud": "2026-11-06T1503.json"
- },
- {
-  "id": "ff168e5af90478f7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Your forecast is only as good as last month’s close - CFO.com",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGFSeHp6dnd4MUxNM29fTWt5d256N1RScVRYbXpYMmxMOU85LVBYVklFN3luMWFvaUltOFBZbVhyY01RSkFVVlpoSUdVQlZidlhqejk2YnJ4MGVJcHNwOUdYRWtMcHZzbHVQT28yQUVYMU5FNW1NYWtVeTNfOExNTWxVUnBVTXhHdjFj?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGFSeHp6dnd4MUxNM29fTWt5d256N1RScVRYbXpYMmxMOU85LVBYVklFN3luMWFvaUltOFBZbVhyY01RSkFVVlpoSUdVQlZidlhqejk2YnJ4MGVJcHNwOUdYRWtMcHZzbHVQT28yQUVYMU5FNW1NYWtVeTNfOExNTWxVUnBVTXhHdjFj?oc=5\" target=\"_blank\">Your forecast is on",
-  "date": "2026-11-06T14:55:08.000Z",
-  "fetched": "2026-11-06T16:03:12.064Z",
-  "fromCloud": "2026-11-06T1603.json"
- },
- {
-  "id": "aa56ef654c9a3490",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fox finalizes Roku deal ahead of schedule and shakes up leadership. Read the staff memo outlining the changes. - Business Insider",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTlVNFY0al82VmVMcjhYRkV1ZGp1VWFhenV5V1NmY29yaU96SzlZanJqcTJXYkk3RVQxOUZkcDY4b2V3RHh1MzVKRkZUXzNlOVVSQUlDajBxZ01nOG1Gbm9nckZGRml4TWw4cG15b1g1OTNZUnBrMTJwLWNNTWEtVXJqRUctVDd2czV3b01NUVNGQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTlVNFY0al82VmVMcjhYRkV1ZGp1VWFhenV5V1NmY29yaU96SzlZanJqcTJXYkk3RVQxOUZkcDY4b2V3RHh1MzVKRkZUXzNlOVVSQUlDajBxZ01nOG1Gbm9nckZGRml4TWw4cG15b1g1OTNZUnBrMTJwLWNNTWEtVXJqRUctVDd2czV3b01NUVNGQQ?oc=5\" target=\"_blank\">Fox final",
-  "date": "2026-11-06T14:55:00.000Z",
-  "fetched": "2026-11-06T21:33:11.865Z",
-  "fromCloud": "2026-11-06T2133.json"
- },
- {
-  "id": "7081f1b463c87bf6",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fox Corporation Completes Roku Acquisition, Targets $400 Million in Cost Synergies - citybiz",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVklyQVFuelpNeHNDcnFud1NHNlVWZTgtVEhQRXpGV05vTThQRjVTb0hTYkVVYndsaXdzdDJ5bDYwaDZNUmVrMFdDUGNWWVVjbUpMYllyZ29EdDdIZUtmUVh6QUFCUHluNkJKZ2wxUE03VTRZVW1EdWI0VzVlY0JkdHg4WGVvYlpVOWt5QnNsZEMxUUQ5bW9sOXZ0bHZPYWxxN25HUjlsNVVuNWg0QlZkX3F0am9HV3hVWTRF?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVklyQVFuelpNeHNDcnFud1NHNlVWZTgtVEhQRXpGV05vTThQRjVTb0hTYkVVYndsaXdzdDJ5bDYwaDZNUmVrMFdDUGNWWVVjbUpMYllyZ29EdDdIZUtmUVh6QUFCUHluNkJKZ2wxUE03VTRZVW1EdWI0VzVlY0JkdHg4WGVvYlpVOWt5QnNsZEMxUUQ5bW9sOXZ0bHZPYWxxN25HUjlsNVVuNW",
-  "date": "2026-11-06T14:52:04.000Z",
-  "fetched": "2026-11-06T14:57:39.343Z",
-  "fromCloud": "2026-11-06T1457.json"
- },
- {
-  "id": "0c5e9158fcda4de2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "‘Unique’ Trussville brewery will soon become a bank after $1.2 million acquisition - AL.com",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1RJSk9pSjl1LUQxY05QUlFzOHo5a1NDMGN4enl5Rzd0bmJSdGdvWU9xX2R0U2FjOE9FUjRBQzFBMnU1RFl4VnJ1bjItZ3I4eVB6M1RwNS1iOTduTEZUUGw3SFhCdkl6SndsTkZTYm5Yb3l2eGlycU1rWERNdy1uUERRTnpPTXYyZGdUekVHWnpVM1RBMFMxN2ZhVWZZMEFQbW5OMktSemNoczY3WHJQbWsxa2YzbDdramVj?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1RJSk9pSjl1LUQxY05QUlFzOHo5a1NDMGN4enl5Rzd0bmJSdGdvWU9xX2R0U2FjOE9FUjRBQzFBMnU1RFl4VnJ1bjItZ3I4eVB6M1RwNS1iOTduTEZUUGw3SFhCdkl6SndsTkZTYm5Yb3l2eGlycU1rWERNdy1uUERRTnpPTXYyZGdUekVHWnpVM1RBMFMxN2ZhVWZZMEFQbW5OMktSemNocz",
-  "date": "2026-11-06T14:52:00.000Z",
-  "fetched": "2026-11-06T14:57:39.343Z",
-  "fromCloud": "2026-11-06T1457.json"
- },
- {
-  "id": "7a5b6f48f9faadb8",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "First Camp taps bonds for $47.8M to fuel acquisition drive - Dealroom",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmdpSFh2M2Y0Q2pZYjJ5dnVPOC1GdDI0Q3V5NFdpWWxlQ2JsNXNQVGF5UEZQQWl6UG9GLTR6R21zMUluY1J6NGJCY050NE9KSUxYcEtTSXBwb3V6Zlk2V01LZVBmOWtRaE9Ja1ZyVzZWX3RvUVU3TDRkOXZMczdSNUEyMTJ0TUdyWUhRcEk5T1FzUThWSmc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmdpSFh2M2Y0Q2pZYjJ5dnVPOC1GdDI0Q3V5NFdpWWxlQ2JsNXNQVGF5UEZQQWl6UG9GLTR6R21zMUluY1J6NGJCY050NE9KSUxYcEtTSXBwb3V6Zlk2V01LZVBmOWtRaE9Ja1ZyVzZWX3RvUVU3TDRkOXZMczdSNUEyMTJ0TUdyWUhRcEk5T1FzUThWSmc?oc=5\" target=\"_blank\">Firs",
-  "date": "2026-11-06T14:51:39.000Z",
-  "fetched": "2026-11-06T14:57:39.343Z",
-  "fromCloud": "2026-11-06T1457.json"
- },
- {
-  "id": "acd1a5a944f18c13",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
-  "link": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
-  "summary": "<p data-block-key=\"lofc0\">An almost $10bn increase</p>",
-  "date": "2026-11-06T14:50:38.000Z",
-  "fetched": "2026-11-06T14:57:39.343Z",
-  "fromCloud": "2026-11-06T1457.json"
- },
- {
-  "id": "bf5b6620078a09c7",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "OneStream חצתה 600 לקוחות באזור EMEA ושילשה את אימוץ הבינה המלאכותית מאת Investing.com - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS0ZITkRRbGlIOWRNWVBuOGwzYVJ1dGNxdE5hNjBHU0hEWFFtV1FWaHJqMi1OSjFwb0ZNWjRRVjhCaENhM25yc05zNEdWUW95MGVTeEpmX1lvNlQ5WW5OeTItVmNRTHI0ZG0tVHhkRS04VElaQ2o5V2pLLXBRM3JOTw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNS0ZITkRRbGlIOWRNWVBuOGwzYVJ1dGNxdE5hNjBHU0hEWFFtV1FWaHJqMi1OSjFwb0ZNWjRRVjhCaENhM25yc05zNEdWUW95MGVTeEpmX1lvNlQ5WW5OeTItVmNRTHI0ZG0tVHhkRS04VElaQ2o5V2pLLXBRM3JOTw?oc=5\" target=\"_blank\">OneStream חצתה 600 לקוחות באזור E",
-  "date": "2026-11-06T14:48:24.000Z",
-  "fetched": "2026-11-06T17:03:12.807Z",
-  "fromCloud": "2026-11-06T1703.json"
- },
- {
-  "id": "68cd4d4d17f39125",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "Immunocore מדווחת על הכנסות של $102.2 מיליון מ-KIMMTRAK ברבעון השלישי מאת Investing.com - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0pTTGRzOW5OMVBEOXBJYVhVbVlFQWphQm9ZTXV2UXo5MXVRSURWYzlfdEJZc2VoVDYwUkloR1Uwa2lzNUZyM3Qxd0ZYQkF0czFCM09UUjdrbmtiVzhNd0IyakdvWm9fV1BZZ1RtMGFIMmpoUTVJd3QwSmNkWEhUcQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0pTTGRzOW5OMVBEOXBJYVhVbVlFQWphQm9ZTXV2UXo5MXVRSURWYzlfdEJZc2VoVDYwUkloR1Uwa2lzNUZyM3Qxd0ZYQkF0czFCM09UUjdrbmtiVzhNd0IyakdvWm9fV1BZZ1RtMGFIMmpoUTVJd3QwSmNkWEhUcQ?oc=5\" target=\"_blank\">Immunocore מדווחת על הכנסות של $1",
-  "date": "2026-11-06T14:48:23.000Z",
-  "fetched": "2026-11-06T16:33:12.941Z",
-  "fromCloud": "2026-11-06T1633.json"
- },
- {
-  "id": "cef4734126721d5c",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "Stagwell Media ממנה את קייט ריצ’לינג לתפקיד מנהלת המותג הראשית מאת Investing.com - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOblhKM2ZjUHZjQ2xPVk1vU3N0TmpCY2NoUUdPbXFzam1jVEp2N254c0Z6WF95UkZRMF82OVdrT3M3czZnQlRJRVBaTUhOQVgwbXNTMEEtVUE4c204dmo0SWh1RFZyUHBxaGwyY2xxOW14U1piNjU3eDdkYURsRm1XVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOblhKM2ZjUHZjQ2xPVk1vU3N0TmpCY2NoUUdPbXFzam1jVEp2N254c0Z6WF95UkZRMF82OVdrT3M3czZnQlRJRVBaTUhOQVgwbXNTMEEtVUE4c204dmo0SWh1RFZyUHBxaGwyY2xxOW14U1piNjU3eDdkYURsRm1XVQ?oc=5\" target=\"_blank\">Stagwell Media ממנה את קייט ריצ’ל",
-  "date": "2026-11-06T14:48:19.000Z",
-  "fetched": "2026-11-06T16:03:12.064Z",
-  "fromCloud": "2026-11-06T1603.json"
- },
- {
-  "id": "1ec378aea9fc0e3a",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "Compass Therapeutics מציגה נתונים על מנגנון הפעולה של CTX-10726 מאת Investing.com - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmFXMkhTRm5sajhYWEZBMEFLZG55M3VrZnhscFBWWHY5cFVEaHJxc2lnMnBrN1dRY21HTXZEOG9Udk1NZkl2ZjZsVlBhaDNXTlJxZVFkVjZfdWdPdk1ZREJ6anh6WVhPSmxwUnJwM2txZEZiemJXNGtXNW1sM2lqMw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmFXMkhTRm5sajhYWEZBMEFLZG55M3VrZnhscFBWWHY5cFVEaHJxc2lnMnBrN1dRY21HTXZEOG9Udk1NZkl2ZjZsVlBhaDNXTlJxZVFkVjZfdWdPdk1ZREJ6anh6WVhPSmxwUnJwM2txZEZiemJXNGtXNW1sM2lqMw?oc=5\" target=\"_blank\">Compass Therapeutics מציגה נתונים",
-  "date": "2026-11-06T14:46:37.000Z",
-  "fetched": "2026-11-06T17:03:12.807Z",
-  "fromCloud": "2026-11-06T1703.json"
- },
- {
-  "id": "b0e3e1a71cd3bb5b",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "Minerva Neurosciences מדווחת על תוצאות הרבעון השלישי; נתוני שלב 3 צפויים במחצית השנייה של 2027 מאת Investing.com - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlBHX2F6djJfdDhzUlVPX25Xdk4yOEZacm93TjBwckd6LU83OXVabGh6SUNSTEprR1RxVV93VTJGeFg0WDZqUVdVV1Z0OHRmNUxuT1RkRFVWT0FaaVd0S1hOQnBLQ0Z1M2FLR0dlNmZDOGFuTmpvZ3NsTWRtdTg2ag?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlBHX2F6djJfdDhzUlVPX25Xdk4yOEZacm93TjBwckd6LU83OXVabGh6SUNSTEprR1RxVV93VTJGeFg0WDZqUVdVV1Z0OHRmNUxuT1RkRFVWT0FaaVd0S1hOQnBLQ0Z1M2FLR0dlNmZDOGFuTmpvZ3NsTWRtdTg2ag?oc=5\" target=\"_blank\">Minerva Neurosciences מדווחת על ת",
-  "date": "2026-11-06T14:44:24.000Z",
-  "fetched": "2026-11-06T17:03:12.807Z",
-  "fromCloud": "2026-11-06T1703.json"
- },
- {
-  "id": "7d0ad73365fa11ab",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fox Closes $22 Billion Roku Acquisition, Combining Streamer With Fox One, Fox Nation, Tubi - Media Play News",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdF84RVpyR3JEYm83blB4cWFNV3hVSFo1SUcxbGFLVkphYWxncXllZlFjdG9UcFZuNHBNaERYWlo0Y0xFYUFjdWNsaXJscmVoZlREeGstOHRkM0ZBazZvaXpZbk1PUGtHams2UXlqbE1reTcwMDduNmc4Y0l6TEl0ZnVlREhVc3k3ZnIyLVNIY1hrcEtLdkt5NDA1Vkp4S1VHUG9TeE1Ob3VlYVdXV1NRX0I2TDE0S0ts?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdF84RVpyR3JEYm83blB4cWFNV3hVSFo1SUcxbGFLVkphYWxncXllZlFjdG9UcFZuNHBNaERYWlo0Y0xFYUFjdWNsaXJscmVoZlREeGstOHRkM0ZBazZvaXpZbk1PUGtHams2UXlqbE1reTcwMDduNmc4Y0l6TEl0ZnVlREhVc3k3ZnIyLVNIY1hrcEtLdkt5NDA1Vkp4S1VHUG9TeE1Ob3VlYV",
-  "date": "2026-11-06T14:44:06.000Z",
-  "fetched": "2026-11-06T14:57:39.343Z",
-  "fromCloud": "2026-11-06T1457.json"
- },
- {
-  "id": "f1f4cad63d7385dc",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Fox Corp. Closes $22B Acquisition Of Roku - Deadline",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xdl9Yc1RyTkhoaFc4c09qNnYzMjRmeWMxTWVlcUVlenpITEdwNC0zMTZtWTNUU1dYNXFjMGlZVlc2bUc4WVFCWFRtNVVza3IyU1VnXzl5TWpEdmsxWml3QkN3cUlxN1drTTlCUFhESFNiYVlOak8tUDE5X0k4Zw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8xdl9Yc1RyTkhoaFc4c09qNnYzMjRmeWMxTWVlcUVlenpITEdwNC0zMTZtWTNUU1dYNXFjMGlZVlc2bUc4WVFCWFRtNVVza3IyU1VnXzl5TWpEdmsxWml3QkN3cUlxN1drTTlCUFhESFNiYVlOak8tUDE5X0k4Zw?oc=5\" target=\"_blank\">Fox Corp. Closes $22B Acquisition Of ",
-  "date": "2026-11-06T14:42:00.000Z",
-  "fetched": "2026-11-06T14:57:39.343Z",
-  "fromCloud": "2026-11-06T1457.json"
- },
- {
-  "id": "3819f670736191ac",
-  "source": "SecurityWeek",
-  "group": "industry",
-  "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
-  "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-  "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first o",
-  "date": "2026-11-06T14:40:09.000Z",
-  "fetched": "2026-11-06T14:57:39.343Z",
-  "fromCloud": "2026-11-06T1457.json"
- },
- {
-  "id": "9b2f7d4de5a1656e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "(Reuters): PIF and Silver Lake Explore Acquisition of Gaming Software Firm Unity - صحيفة مال",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93M0h4VHJrUjUydWtGZmp6RW16VGRGNEFhaVNsdUNYZ0VFXzZIQVVHbjBTZ1cwcHJybFl2NzhzR2FwMjVkQTZ0WENkYVdXSFU3UC0weHZHSDJPLXFOTzZaMlZ4SE5jVGFF?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE93M0h4VHJrUjUydWtGZmp6RW16VGRGNEFhaVNsdUNYZ0VFXzZIQVVHbjBTZ1cwcHJybFl2NzhzR2FwMjVkQTZ0WENkYVdXSFU3UC0weHZHSDJPLXFOTzZaMlZ4SE5jVGFF?oc=5\" target=\"_blank\">(Reuters): PIF and Silver Lake Explore Acquisition of Gaming Softwa",
-  "date": "2026-11-06T14:38:01.000Z",
-  "fetched": "2026-11-06T14:57:39.343Z",
-  "fromCloud": "2026-11-06T1457.json"
- },
- {
-  "id": "456c9f25f81d3633",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Ford’s Dividend Is Down 50% From 2025’s First Payout. Will the Bonus Return? - 24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1B4aFZvdF92MGRxdlJOTTFDdWhHSGpwZ1JpdkNFS1JlaUs1cGNkVGwtM1pFR2E2RkNyS0M0ckwyV1RidDhqaGhkQmRvdUo4cjFTcER2LWRVU0FjN1FMMkhrdnBpekdjOFBSRmVxb2hhNVY0eGN3YkxaRi0zNk5MRjFOQklNd3FNcjBtZ2E3blVhQl9paTdYUHJIaWZmaDY0c3dLYlBqbXc2VWJKNXpTVFkxUzNNQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1B4aFZvdF92MGRxdlJOTTFDdWhHSGpwZ1JpdkNFS1JlaUs1cGNkVGwtM1pFR2E2RkNyS0M0ckwyV1RidDhqaGhkQmRvdUo4cjFTcER2LWRVU0FjN1FMMkhrdnBpekdjOFBSRmVxb2hhNVY0eGN3YkxaRi0zNk5MRjFOQklNd3FNcjBtZ2E3blVhQl9paTdYUHJIaWZmaDY0c3dLYlBqbXc2VW",
-  "date": "2026-11-06T14:37:00.000Z",
-  "fetched": "2026-11-06T15:03:17.332Z",
-  "fromCloud": "2026-11-06T1503.json"
- },
- {
-  "id": "fb2dea5b5002aebd",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty - CoinDesk",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOG90RHphdkwycUFVUHl2U3IteTc5bXg4bFhfU20zTVNYQVdYa3lxOWhwRkJtZ1pHUHdMb3hWLWt5aFloMWZ2TnNfVWRZQUYxLVVnbDFERlh4dmVKejNCYXU5RXVHSGlGVnhmVkQzX0phMm9YVWpZU0dSMDllTmdDdVJwMmMwbU1PQjRWNWM3QXhDVkFKZ012UUp5U3pEbHFZZFltOXQ1UmNZRWNIOFNDQ1B3Q2s2M2ZDWTJTNnpYVUNmOHM0Qm51VDg5Tzk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOOG90RHphdkwycUFVUHl2U3IteTc5bXg4bFhfU20zTVNYQVdYa3lxOWhwRkJtZ1pHUHdMb3hWLWt5aFloMWZ2TnNfVWRZQUYxLVVnbDFERlh4dmVKejNCYXU5RXVHSGlGVnhmVkQzX0phMm9YVWpZU0dSMDllTmdDdVJwMmMwbU1PQjRWNWM3QXhDVkFKZ012UUp5U3pEbHFZZFltOXQ1UmNZRW",
-  "date": "2026-11-06T14:33:49.000Z",
-  "fetched": "2026-11-06T16:33:12.941Z",
-  "fromCloud": "2026-11-06T1633.json"
  }
 ]
