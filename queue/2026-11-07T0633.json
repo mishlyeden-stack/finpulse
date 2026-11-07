@@ -1,0 +1,26 @@
+{
+ "batch": "2026-11-07T0633",
+ "created": "2026-11-07T06:33:16.535Z",
+ "items": [
+  {
+   "id": "1711556ac2f56573",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "How Wall Street’s all-in bet on AI blew up",
+   "link": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
+   "summary": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets",
+   "date": "2026-11-07T05:00:31.000Z",
+   "fetched": "2026-11-07T06:33:16.535Z"
+  },
+  {
+   "id": "f468cfa6a1ea4f23",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Why does America hate AI?",
+   "link": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1",
+   "summary": "Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic",
+   "date": "2026-11-07T05:00:13.000Z",
+   "fetched": "2026-11-07T06:33:16.535Z"
+  }
+ ]
+}
