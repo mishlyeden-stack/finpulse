@@ -1,0 +1,26 @@
+{
+ "batch": "2026-11-07T0303",
+ "created": "2026-11-07T03:03:11.443Z",
+ "items": [
+  {
+   "id": "2c5f811f4ea2546d",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+   "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+   "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+   "date": "2026-11-07T02:33:26.000Z",
+   "fetched": "2026-11-07T03:03:11.443Z"
+  },
+  {
+   "id": "ad36b79afe52cc07",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Netflix's Plan To Buy Radford Studio Center On Track - Deadline",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEdpNHgyWHJIdWlXTFoyajROa3U5NEZDQ0hNU1ZWYy1CRnVSaXpvbEE1elpIYm5idklRRThuTUpJa3dibEYybUx3aG9UQkUwX0E4LTlqZllwUFNoYmEzdXZaM1owN3J4YTY5Q3IwQUVuLWc1THg3UWQ4eHQ4cllQcVdDdHk1QQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEdpNHgyWHJIdWlXTFoyajROa3U5NEZDQ0hNU1ZWYy1CRnVSaXpvbEE1elpIYm5idklRRThuTUpJa3dibEYybUx3aG9UQkUwX0E4LTlqZllwUFNoYmEzdXZaM1owN3J4YTY5Q3IwQUVuLWc1THg3UWQ4eHQ4cllQcVdDdHk1QQ?oc=5\" target=\"_blank\">Netflix's Plan To Buy Rad",
+   "date": "2026-11-07T02:41:00.000Z",
+   "fetched": "2026-11-07T03:03:11.443Z"
+  }
+ ]
+}
