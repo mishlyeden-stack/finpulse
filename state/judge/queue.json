@@ -1,5 +1,27 @@
 [
  {
+  "id": "8621aa8955ea9cdc",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "What will a Democratic Congress mean for Ukraine?",
+  "link": "https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74?syn-25a6b1a6=1",
+  "summary": "With Donald Trump retaining control of foreign policy, lawmakers will use legislative tools to try to support Kyiv",
+  "date": "2026-11-07T12:00:04.000Z",
+  "fetched": "2026-11-07T12:33:12.016Z",
+  "fromCloud": "2026-11-07T1233.json"
+ },
+ {
+  "id": "7011ebeaa1506297",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Gilead Pays a $3.28 Annual Dividend Despite Negative Earnings. Is It Safe? - 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmdNWkFxQVM2QldnZlJ1WldMMUlGQzZwYTRzdjJUdXdPLWJTQkdLRzVoQlZZUHpzQUhaeng0YUkxcDdndERFWmFUVmEwLXdnYXF6VGhSdnpMM2taSWdtSXQ5NnZZLXhYWHNhSzFyV0VyZjY3bmNybThQdzJvdE5MTDRaR0N3MTVlZkxtYXlyNDdJc2d1WXhpeWNDOXdIZG8wTmMxeWR5cmppRFBLdnV1a2N4Z1kzQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmdNWkFxQVM2QldnZlJ1WldMMUlGQzZwYTRzdjJUdXdPLWJTQkdLRzVoQlZZUHpzQUhaeng0YUkxcDdndERFWmFUVmEwLXdnYXF6VGhSdnpMM2taSWdtSXQ5NnZZLXhYWHNhSzFyV0VyZjY3bmNybThQdzJvdE5MTDRaR0N3MTVlZkxtYXlyNDdJc2d1WXhpeWNDOXdIZG8wTmMxeWR5cmppRF",
+  "date": "2026-11-07T11:37:00.000Z",
+  "fetched": "2026-11-07T12:33:12.016Z",
+  "fromCloud": "2026-11-07T1233.json"
+ },
+ {
   "id": "ed16eed9c4df1cd6",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -31,6 +53,17 @@
   "date": "2026-11-07T11:25:00.000Z",
   "fetched": "2026-11-07T11:33:11.173Z",
   "fromCloud": "2026-11-07T1133.json"
+ },
+ {
+  "id": "6ebf9ba7240c6cac",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AWS Records $7.6 Billion Free Cash Flow Deficit During AI Expansion - www.tokenpost.com",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5aW1BXzlJVm5kYjk0Y1BWTmt2NU5hZlpSU1pWTFV1Uk1wcDEwcTBYcUR2ZDRPMDFWcVQ0N1FuVkIta1hTOGlzb0E4U202T3liRTdETWN2Xy0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5aW1BXzlJVm5kYjk0Y1BWTmt2NU5hZlpSU1pWTFV1Uk1wcDEwcTBYcUR2ZDRPMDFWcVQ0N1FuVkIta1hTOGlzb0E4U202T3liRTdETWN2Xy0?oc=5\" target=\"_blank\">AWS Records $7.6 Billion Free Cash Flow Deficit During AI Expansion</a>&nbsp;&nbsp;<font",
+  "date": "2026-11-07T11:16:14.000Z",
+  "fetched": "2026-11-07T12:33:12.016Z",
+  "fromCloud": "2026-11-07T1233.json"
  },
  {
   "id": "092c5278cffa1067",
@@ -4706,203 +4739,5 @@
   "date": "2026-11-06T12:35:32.000Z",
   "fetched": "2026-11-06T13:03:12.161Z",
   "fromCloud": "2026-11-06T1303.json"
- },
- {
-  "id": "941e998ea651eb5d",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Planet Green Holdings Corp. (0001117057) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1117057/000121390026116582/0001213900-26-116582-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001213900-26-116582 <b>Size:</b> 209 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
-  "date": "2026-11-06T12:30:19.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "7f864920dcaf95aa",
-  "source": "AV Network",
-  "group": "industry",
-  "title": "ElysiumLED Introduces CORE Outdoor LED Display Series",
-  "link": "https://www.avnetwork.com/products/displays/elysiumled-introduces-core-outdoor-led-display-series",
-  "summary": "The CORE Outdoor series delivers sharp, high-resolution imagery and wide 178-degree viewing angles.",
-  "date": "2026-11-06T12:30:00.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "9305ba03f8fd7901",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "מיליונים איבדו גישה לכספם והנשיא התפטר: קריסת הבנק שמטלטלת את פרגוואי - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXhJZVFhX3VROXdYQTRaX1o2TnU1RUJ1NXNSTFRRbzVTY1VQbTNUU2k3U3k2VFM4dUlVNDFPQU5EUTdEM29UanpESFMwMFlxd1paR0ExLWhaSXZNcmtUY0tWTG9ocHRHRjJvSTlrR2VTemctVWdHY3daUUktb2NFS2JNUUt6RkozZm03Mmhwa2t3VDdHSTZJalFsSDhQaTR1dEw3cThEOA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXhJZVFhX3VROXdYQTRaX1o2TnU1RUJ1NXNSTFRRbzVTY1VQbTNUU2k3U3k2VFM4dUlVNDFPQU5EUTdEM29UanpESFMwMFlxd1paR0ExLWhaSXZNcmtUY0tWTG9ocHRHRjJvSTlrR2VTemctVWdHY3daUUktb2NFS2JNUUt6RkozZm03Mmhwa2t3VDdHSTZJalFsSDhQaTR1dEw3cThEOA?oc=",
-  "date": "2026-11-06T12:25:00.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "36d08e5da36e24bc",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "למשוך בגיל 18 או לחכות ל-21? כמה שווה ההמתנה בחיסכון לכל ילד - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rUkJILU0wWWZzUWprSEpERjVDYTlXczRaQVkwSTFibDVDSUFId0NCQ1h1dXlhU0tVLXlGVHI5Q3NpTWlnTnZieWtoNU9Nc1FqNU9VS1FFU0ViMUJwazROWnQ2RVhkbkc0aDBLOXVUcUdDZHRQem1UY0pB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9rUkJILU0wWWZzUWprSEpERjVDYTlXczRaQVkwSTFibDVDSUFId0NCQ1h1dXlhU0tVLXlGVHI5Q3NpTWlnTnZieWtoNU9Nc1FqNU9VS1FFU0ViMUJwazROWnQ2RVhkbkc0aDBLOXVUcUdDZHRQem1UY0pB?oc=5\" target=\"_blank\">למשוך בגיל 18 או לחכות ל-21? כמה שווה ההמתנ",
-  "date": "2026-11-06T12:21:00.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "5d3e25ec96869eec",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Beam Global terminates acquisition agreement with ScoutDI AS - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVJsMkR1RzVva3pMb2xZWDZ2UWUwNENWSXdBS3BGWmp6NGZ6WE5tS190SUdoM1cta0hPMXZrLUR1Z1RRUFhVbUNoNVV6dS1tck44aWZqdURQT2dEeXgtVkNHUjVPQXBic2QtTjJuM3NzVElWVUM4MmdVenllTVNweXpFeDc2ZXZfWktpU3lXRHA4Q1VvcGJVdFU4VXJmeEJ5bnA2UGd1U3RjQ1JNNWg5cHZtNlpnQkU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVJsMkR1RzVva3pMb2xZWDZ2UWUwNENWSXdBS3BGWmp6NGZ6WE5tS190SUdoM1cta0hPMXZrLUR1Z1RRUFhVbUNoNVV6dS1tck44aWZqdURQT2dEeXgtVkNHUjVPQXBic2QtTjJuM3NzVElWVUM4MmdVenllTVNweXpFeDc2ZXZfWktpU3lXRHA4Q1VvcGJVdFU4VXJmeEJ5bnA2UGd1U3RjQ1",
-  "date": "2026-11-06T12:20:58.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "8f120a6fd1b4feb2",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Anika Therapeutics, Inc. (0000898437) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/898437/000117184326007211/0001171843-26-007211-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001171843-26-007211 <b>Size:</b> 443 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-06T12:20:22.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "9d56b4c0a555c8fa",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Chesnara CEO targets further deals after £1.7bn MetLife UK acquisition - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0tVeWhYNFRXOUVWREtFY3FjYl9vcFIwdkI1RDB6SHkxTWw1aVd0WmU0NW9odnNwdFhBcTR5WHdITTd5aDlabmFoU2o5UnpuOUN4QWQ1MmJnaE1qUDctMWtNUjQtOWlLTkhRMFVhZXRZYW1CTlR2SzNFVC0teV9iZElnMVZ1Tmlm?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0tVeWhYNFRXOUVWREtFY3FjYl9vcFIwdkI1RDB6SHkxTWw1aVd0WmU0NW9odnNwdFhBcTR5WHdITTd5aDlabmFoU2o5UnpuOUN4QWQ1MmJnaE1qUDctMWtNUjQtOWlLTkhRMFVhZXRZYW1CTlR2SzNFVC0teV9iZElnMVZ1Tmlm?oc=5\" target=\"_blank\">Chesnara CEO targets fu",
-  "date": "2026-11-06T12:20:03.000Z",
-  "fetched": "2026-11-06T15:03:17.332Z",
-  "fromCloud": "2026-11-06T1503.json"
- },
- {
-  "id": "62b771e70d065e63",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "שומר נתפס עם 470 אלף שקל במזומן, וגרסת הירושה נדחתה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xTVRMUTJKUVBiM2dCdy1oQ1JHRTV6NjQ2LTVXWFFpLVdXNDZyZExXWmNucGZaV3lxV1cteVEzeDBscXVvdHR5cTd6TTRrM1FkY3lZTks5OU1FTkpuX0lDTm9abTFVWWc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xTVRMUTJKUVBiM2dCdy1oQ1JHRTV6NjQ2LTVXWFFpLVdXNDZyZExXWmNucGZaV3lxV1cteVEzeDBscXVvdHR5cTd6TTRrM1FkY3lZTks5OU1FTkpuX0lDTm9abTFVWWc?oc=5\" target=\"_blank\">שומר נתפס עם 470 אלף שקל במזומן, וגרסת הירושה נדחתה</a>&nbsp;&nbsp;<",
-  "date": "2026-11-06T12:20:00.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "9e1eaeed0f6aa058",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "נפטר ערירי ב-1983, ושתי היורשות יחזירו שליש מהכסף - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MLWY1cUZXR1hBWmM2dlRoNXFmazl4N1lIc2YyR3MzaEkxMlJhVlp2dWNzcEFFZDYyOW9GQzRiZGJUSkVQS01QTXg1a1A2TGg2bElMdnhZN3NBUVpJYnZnZkUtRkRpbDQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MLWY1cUZXR1hBWmM2dlRoNXFmazl4N1lIc2YyR3MzaEkxMlJhVlp2dWNzcEFFZDYyOW9GQzRiZGJUSkVQS01QTXg1a1A2TGg2bElMdnhZN3NBUVpJYnZnZkUtRkRpbDQ?oc=5\" target=\"_blank\">נפטר ערירי ב-1983, ושתי היורשות יחזירו שליש מהכסף</a>&nbsp;&nbsp;<fo",
-  "date": "2026-11-06T12:20:00.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "59f3f7c8aef44144",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Calviks completes the acquisition of Subshore - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdDVtczNhRkRkQWR3bG5mY2UyRDRmdUVOQ1JvRG5tOHdINFlyNVFFSjR0V0t0RG9pYXFqWWRtTTRaS0lncmFZcm9zZk52N0pwS0lSYU5qb0RqeWRZT0k0alJRM052X3B4VHRQcTBscGJKbFlUTUh5REVFQlpLTHk0cFlCYVRXMkdGUnpFRnM4eC1wWTBsZy1PVl9pbEdjek5XR0gxY05mSDE2MnJRQ2gtRg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdDVtczNhRkRkQWR3bG5mY2UyRDRmdUVOQ1JvRG5tOHdINFlyNVFFSjR0V0t0RG9pYXFqWWRtTTRaS0lncmFZcm9zZk52N0pwS0lSYU5qb0RqeWRZT0k0alJRM052X3B4VHRQcTBscGJKbFlUTUh5REVFQlpLTHk0cFlCYVRXMkdGUnpFRnM4eC1wWTBsZy1PVl9pbEdjek5XR0gxY05mSDE2Mn",
-  "date": "2026-11-06T12:18:00.000Z",
-  "fetched": "2026-11-06T13:33:11.812Z",
-  "fromCloud": "2026-11-06T1333.json"
- },
- {
-  "id": "000d2504ad4aab64",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Calviks AB (publ) (CALVIK) Completes Acquisition of Subshore - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2J6djduMFFNN0U5OXkyMGpjUUhDM21zV1ozLUtfdTNOQzZLT2hhYk5OeVlkY0VOSzhCMUpQbGVlN0ppZXdSRjdHT25la3JkV3JwT2RGdG44aXAwaUJWNEdXZW5UU2gtclhyNGxwNW5NQnNXZXpqWkRncm5GWW9oSWhXMzBOWHVTU1ZSSElqZjEyOVdhSm1URE1UcVhWOEc4dG1ZQnF4UzhCWDE4TXl2bFZOUzZReGcwR1E?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2J6djduMFFNN0U5OXkyMGpjUUhDM21zV1ozLUtfdTNOQzZLT2hhYk5OeVlkY0VOSzhCMUpQbGVlN0ppZXdSRjdHT25la3JkV3JwT2RGdG44aXAwaUJWNEdXZW5UU2gtclhyNGxwNW5NQnNXZXpqWkRncm5GWW9oSWhXMzBOWHVTU1ZSSElqZjEyOVdhSm1URE1UcVhWOEc4dG1ZQnF4UzhCWD",
-  "date": "2026-11-06T12:18:00.000Z",
-  "fetched": "2026-11-06T13:33:11.812Z",
-  "fromCloud": "2026-11-06T1333.json"
- },
- {
-  "id": "da40a4a9fd6cd705",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Brookfield Asset Management Ltd. (0001937926) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326007210/0001171843-26-007210-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001171843-26-007210 <b>Size:</b> 402 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-06T12:17:15.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "cc8d32ac462dd7fa",
-  "source": "SecurityWeek",
-  "group": "industry",
-  "title": "Researchers Find Residential Proxies on White House Network",
-  "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
-  "summary": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek .",
-  "date": "2026-11-06T12:16:13.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "d0d508558fffa18c",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K/A - PYXUS INTERNATIONAL, INC. (0000939930) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/939930/000093993026000050/0000939930-26-000050-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0000939930-26-000050 <b>Size:</b> 61 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-06T12:15:50.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "50805d5fc34c6308",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Brookfield Asset Management Q3 fee-related earnings rise on Oaktree acquisition - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUTAxQk9scWtQMXBvUXJsaGZIOGY0bEhGbm1xMEJCTGZTNm1WbjJGZW1TUm1qRGRHdVRlQ3ZGOVlPWWNEVm8xQjBjYWdxX182UThGM3MzVGJ6ZnVtUzFoVlZZblhjeVZZMW5aUUxuQmpQZkNiZWJINklDbEtxU1UwU1FCdmZtMEJxS25XUVdVZjlUOEJCTVJfd3otdS1tdFJfNnRFNVBYYmFiWFl4R2hTeWF4U3dDRW5BbTVmeVJWS3ZOYjVEOTlHNGlMUjEyMjl5VFp0TUpuZkt2dU8wRUJNdTZkbw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUTAxQk9scWtQMXBvUXJsaGZIOGY0bEhGbm1xMEJCTGZTNm1WbjJGZW1TUm1qRGRHdVRlQ3ZGOVlPWWNEVm8xQjBjYWdxX182UThGM3MzVGJ6ZnVtUzFoVlZZblhjeVZZMW5aUUxuQmpQZkNiZWJINklDbEtxU1UwU1FCdmZtMEJxS25XUVdVZjlUOEJCTVJfd3otdS1tdFJfNnRFNVBYYmFiWF",
-  "date": "2026-11-06T12:12:16.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "222613d43ca7cb0b",
-  "source": "SecurityWeek",
-  "group": "industry",
-  "title": "OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass",
-  "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
-  "summary": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass appeared first on SecurityWeek .",
-  "date": "2026-11-06T12:07:42.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "0acf6149ba459db5",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - TREACE MEDICAL CONCEPTS, INC. (0001630627) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1630627/000119312526450715/0001193125-26-450715-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001193125-26-450715 <b>Size:</b> 751 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-06T12:05:13.000Z",
-  "fetched": "2026-11-06T12:33:12.778Z",
-  "fromCloud": "2026-11-06T1233.json"
- },
- {
-  "id": "1d26f1b37f0719a2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "The Acquisition Transition - Business Record",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQkF0SkpxNGlEaVB5VWVLbkxzM0N3Mko2blZGcE1leHk1OEh5dGYzaUJhaERydDIxNFl6cFFrajVBY0JhNENfMEtzZjhLRk1VdHJmYWg0WnEwTUpIN3lTUlo2dmMwVnBiWnc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQkF0SkpxNGlEaVB5VWVLbkxzM0N3Mko2blZGcE1leHk1OEh5dGYzaUJhaERydDIxNFl6cFFrajVBY0JhNENfMEtzZjhLRk1VdHJmYWg0WnEwTUpIN3lTUlo2dmMwVnBiWnc?oc=5\" target=\"_blank\">The Acquisition Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
-  "date": "2026-11-06T12:04:25.000Z",
-  "fetched": "2026-11-06T14:57:39.343Z",
-  "fromCloud": "2026-11-06T1457.json"
  }
 ]
