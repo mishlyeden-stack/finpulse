@@ -1,5 +1,27 @@
 [
  {
+  "id": "ad36b79afe52cc07",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Netflix's Plan To Buy Radford Studio Center On Track - Deadline",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEdpNHgyWHJIdWlXTFoyajROa3U5NEZDQ0hNU1ZWYy1CRnVSaXpvbEE1elpIYm5idklRRThuTUpJa3dibEYybUx3aG9UQkUwX0E4LTlqZllwUFNoYmEzdXZaM1owN3J4YTY5Q3IwQUVuLWc1THg3UWQ4eHQ4cllQcVdDdHk1QQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEdpNHgyWHJIdWlXTFoyajROa3U5NEZDQ0hNU1ZWYy1CRnVSaXpvbEE1elpIYm5idklRRThuTUpJa3dibEYybUx3aG9UQkUwX0E4LTlqZllwUFNoYmEzdXZaM1owN3J4YTY5Q3IwQUVuLWc1THg3UWQ4eHQ4cllQcVdDdHk1QQ?oc=5\" target=\"_blank\">Netflix's Plan To Buy Rad",
+  "date": "2026-11-07T02:41:00.000Z",
+  "fetched": "2026-11-07T03:03:11.443Z",
+  "fromCloud": "2026-11-07T0303.json"
+ },
+ {
+  "id": "2c5f811f4ea2546d",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+  "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+  "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+  "date": "2026-11-07T02:33:26.000Z",
+  "fetched": "2026-11-07T03:03:11.443Z",
+  "fromCloud": "2026-11-07T0303.json"
+ },
+ {
   "id": "b9a7481d5a5bd4e8",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -6532,38 +6554,5 @@
   "date": "2026-11-06T03:15:00.000Z",
   "fetched": "2026-11-06T04:33:11.154Z",
   "fromCloud": "2026-11-06T0433.json"
- },
- {
-  "id": "5d7c1511e0dda8d0",
-  "source": "SecurityWeek",
-  "group": "industry",
-  "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
-  "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-  "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .",
-  "date": "2026-11-06T03:03:29.000Z",
-  "fetched": "2026-11-06T03:33:12.139Z",
-  "fromCloud": "2026-11-06T0333.json"
- },
- {
-  "id": "a0440d4f1a0839e6",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Ares Commercial Real Estate Corp (0001529377) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1529377/000162828026071276/0001628280-26-071276-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-06 <b>AccNo:</b> 0001628280-26-071276 <b>Size:</b> 4 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-06T02:47:22.000Z",
-  "fetched": "2026-11-06T11:33:11.809Z",
-  "fromCloud": "2026-11-06T1133.json"
- },
- {
-  "id": "159bf34fac061eeb",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Building on Our DNA of Embracing Change: SoftBank Corp. Integrated Report 2026 CFO Message - ソフトバンク",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VQnQxbGVHT2xFcGwzbGJlRS1IcHJ6REVDVTdtdEMtMUpZdFk4Zk1ZZHZ0UWFPTEhjTmNsOEZVanVGTDhjc1RjbEZYQ0ZjMWl0QzE1SDNhN3VuYkxURDZTSA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VQnQxbGVHT2xFcGwzbGJlRS1IcHJ6REVDVTdtdEMtMUpZdFk4Zk1ZZHZ0UWFPTEhjTmNsOEZVanVGTDhjc1RjbEZYQ0ZjMWl0QzE1SDNhN3VuYkxURDZTSA?oc=5\" target=\"_blank\">Building on Our DNA of Embracing Change: SoftBank Corp. Integrated Report 202",
-  "date": "2026-11-06T02:45:01.000Z",
-  "fetched": "2026-11-06T03:33:12.139Z",
-  "fromCloud": "2026-11-06T0333.json"
  }
 ]
