@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 111
+  "blocked": 112
  },
  "en.globes.co.il": {
   "ok": 31,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 87
+  "blocked": 88
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 59
+  "blocked": 60
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -41,7 +41,7 @@
  },
  "pc.co.il": {
   "ok": 23,
-  "blocked": 9
+  "blocked": 10
  },
  "ft.com": {
   "ok": 0,
