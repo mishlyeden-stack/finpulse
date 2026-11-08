@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 134,
+  "ok": 136,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 72
+  "blocked": 74
  },
  "ecb.europa.eu": {
   "ok": 5,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 29,
+  "ok": 31,
   "blocked": 0
  },
  "securityweek.com": {
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 17
+  "blocked": 18
  },
  "techtarget.com": {
   "ok": 1,
