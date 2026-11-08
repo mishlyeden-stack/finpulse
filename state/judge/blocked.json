@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 145,
+  "ok": 147,
   "blocked": 1
  },
  "news.google.com": {
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 55
+  "blocked": 56
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -564,6 +564,10 @@
   "blocked": 0
  },
  "kucoin.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "deccanchronicle.com": {
   "ok": 1,
   "blocked": 0
  }
