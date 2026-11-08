@@ -1,18 +1,18 @@
 {
  "globes.co.il": {
-  "ok": 137,
+  "ok": 139,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 107
+  "blocked": 109
  },
  "en.globes.co.il": {
-  "ok": 30,
+  "ok": 31,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 151,
+  "ok": 152,
   "blocked": 1
  },
  "news.google.com": {
@@ -29,7 +29,7 @@
  },
  "israeldefense.co.il": {
   "ok": 33,
-  "blocked": 0
+  "blocked": 1
  },
  "themarker.com": {
   "ok": 0,
@@ -72,7 +72,7 @@
   "blocked": 11
  },
  "calcalistech.com": {
-  "ok": 43,
+  "ok": 44,
   "blocked": 0
  },
  "ptnow.co.il": {
