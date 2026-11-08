@@ -1,5 +1,27 @@
 [
  {
+  "id": "1709db73aafbc753",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Israir approached again over potential acquisition of Arkia - FlightGlobal",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTdVUkFqSzNUVV92WE5TMUw1TWszTXZLWGV0bGp2ZkZGcFpNWEZrampSZTY1TnhVLUM3ZWloaFVZSWZEY1YtZlVjWmFGMjR4bVphNXdfSENzTUdzUHJtdTQyMXZSMTZoMkdqTTBudF9VQXZiTW56c2VfUmZHTkxhLUtpWWVTeWpiYUVEaHBiSjZJenhSTDZpSU5TcjlPVkdxZzM5U2xsQlZzdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTdVUkFqSzNUVV92WE5TMUw1TWszTXZLWGV0bGp2ZkZGcFpNWEZrampSZTY1TnhVLUM3ZWloaFVZSWZEY1YtZlVjWmFGMjR4bVphNXdfSENzTUdzUHJtdTQyMXZSMTZoMkdqTTBudF9VQXZiTW56c2VfUmZHTkxhLUtpWWVTeWpiYUVEaHBiSjZJenhSTDZpSU5TcjlPVkdxZzM5U2xsQlZzdw",
+  "date": "2026-11-08T19:03:29.000Z",
+  "fetched": "2026-11-08T19:06:59.556Z",
+  "fromCloud": "2026-11-08T1906.json"
+ },
+ {
+  "id": "2ff28b572e5a0f6b",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Nadine Baudot-Trajtenberg: Drug dealers evade sanctions with crypto",
+  "link": "https://en.globes.co.il/en/article-1001562503#utm_source=RSS",
+  "summary": "Speaking at the Globes Looking Beyond the Trend Conference, the Bank of Israel former deputy governor slammed Prime Minister Benjamin Netanyahu&rsquo;s plan to bypass sanctions with cryptocurrency.",
+  "date": "2026-11-08T19:03:00.000Z",
+  "fetched": "2026-11-08T19:06:59.556Z",
+  "fromCloud": "2026-11-08T1906.json"
+ },
+ {
   "id": "8138a9414fd36a71",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -498,6 +520,17 @@
   "date": "2026-11-08T16:29:52.000Z",
   "fetched": "2026-11-08T17:03:11.447Z",
   "fromCloud": "2026-11-08T1703.json"
+ },
+ {
+  "id": "66d939d6d6e8de20",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Tzachi Abu sells stake in planned power plant",
+  "link": "https://en.globes.co.il/en/article-1001562496#utm_source=RSS",
+  "summary": "Abu&rsquo;s Ari Real Estate and Avni Sapirim have sold a 50.1% stake in the planned Orot Yitzhak power plant to Rapac.",
+  "date": "2026-11-08T16:24:12.000Z",
+  "fetched": "2026-11-08T19:06:59.556Z",
+  "fromCloud": "2026-11-08T1906.json"
  },
  {
   "id": "40a766edec584f2d",
