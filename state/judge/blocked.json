@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 109
+  "blocked": 111
  },
  "en.globes.co.il": {
   "ok": 31,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 152,
+  "ok": 154,
   "blocked": 1
  },
  "news.google.com": {
@@ -41,11 +41,11 @@
  },
  "pc.co.il": {
   "ok": 23,
-  "blocked": 7
+  "blocked": 8
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 74
+  "blocked": 75
  },
  "ecb.europa.eu": {
   "ok": 5,
