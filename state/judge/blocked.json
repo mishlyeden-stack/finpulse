@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 126,
+  "ok": 132,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 95
+  "blocked": 103
  },
  "en.globes.co.il": {
   "ok": 28,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 139,
+  "ok": 144,
   "blocked": 1
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 75
+  "blocked": 81
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 50
+  "blocked": 53
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 68
+  "blocked": 70
  },
  "ecb.europa.eu": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 28,
+  "ok": 29,
   "blocked": 0
  },
  "securityweek.com": {
@@ -72,7 +72,7 @@
   "blocked": 10
  },
  "calcalistech.com": {
-  "ok": 37,
+  "ok": 38,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 8,
+  "ok": 9,
   "blocked": 1
  },
  "inquirer.com": {
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 14
+  "blocked": 17
  },
  "techtarget.com": {
   "ok": 1,
@@ -284,7 +284,7 @@
   "blocked": 0
  },
  "fourweekmba.com": {
-  "ok": 0,
+  "ok": 1,
   "blocked": 1
  },
  "citybiz.co": {
@@ -296,7 +296,7 @@
   "blocked": 1
  },
  "techcrunch.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "spacenews.com": {
@@ -320,7 +320,7 @@
   "blocked": 1
  },
  "kan.org.il": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "benzinga.com": {
@@ -404,7 +404,7 @@
   "blocked": 0
  },
  "pulse2.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "cbc.ca": {
@@ -542,5 +542,25 @@
  "wtmj.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "webwire.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "zman.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "tokenpost.com": {
+  "ok": 2,
+  "blocked": 0
+ },
+ "tikr.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "simplywall.st": {
+  "ok": 1,
+  "blocked": 0
  }
 }
