@@ -1,12 +1,5 @@
 [
  {
-  "key": "סייבר | עלייה בפעילות התקפית לקראת הבחירות — דו״ח צ׳ק פוינט | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792932427553,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "DeepSeek | גיוס 15 מיליארד דולר אחרי איסור DHS | אוקטובר 2026",
   "level": "yellow",
   "first": 1792936091785,
@@ -4049,6 +4042,34 @@
   "key": "שפיר–בז״א | דרישת מכירת פעילויות נוספות לצורך שליטה | נובמבר 2026",
   "level": "yellow",
   "first": 1794139601809,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות המסים | מס על טיסות יוצאות — 1.1 מיליארד שקל בשנה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794143184517,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "כנס גלובס שבבים | אפלייד מטריאלס ומארוול — אין האטה בהזמנות למרות מפולת מניות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794143184517,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Brava Security | גיוס 15 מיליון דולר — סייבר מבוסס סוכני AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794143184517,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שוק ההון ישראל | פאניקה במשקיעים — ׳רק תמכרו׳ | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794143184517,
   "sentLive": false,
   "candidate": true
  }
