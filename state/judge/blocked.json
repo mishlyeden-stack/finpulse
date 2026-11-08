@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 149,
+  "ok": 150,
   "blocked": 1
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 85
+  "blocked": 86
  },
  "13tv.co.il": {
   "ok": 0,
@@ -28,7 +28,7 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 31,
+  "ok": 33,
   "blocked": 0
  },
  "themarker.com": {
@@ -41,7 +41,7 @@
  },
  "pc.co.il": {
   "ok": 22,
-  "blocked": 6
+  "blocked": 7
  },
  "ft.com": {
   "ok": 0,
@@ -72,7 +72,7 @@
   "blocked": 10
  },
  "calcalistech.com": {
-  "ok": 41,
+  "ok": 42,
   "blocked": 0
  },
  "ptnow.co.il": {
