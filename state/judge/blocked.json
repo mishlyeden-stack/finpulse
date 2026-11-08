@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 132,
+  "ok": 134,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 103
+  "blocked": 105
  },
  "en.globes.co.il": {
   "ok": 28,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 144,
+  "ok": 145,
   "blocked": 1
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 81
+  "blocked": 83
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 53
+  "blocked": 55
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 70
+  "blocked": 72
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 39,
+  "ok": 40,
   "blocked": 0
  },
  "ice.co.il": {
@@ -72,7 +72,7 @@
   "blocked": 10
  },
  "calcalistech.com": {
-  "ok": 38,
+  "ok": 39,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -149,7 +149,7 @@
  },
  "tradingview.com": {
   "ok": 4,
-  "blocked": 8
+  "blocked": 9
  },
  "govconwire.com": {
   "ok": 0,
@@ -337,7 +337,7 @@
  },
  "israelhayom.co.il": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "fedscoop.com": {
   "ok": 1,
@@ -560,6 +560,10 @@
   "blocked": 0
  },
  "simplywall.st": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "kucoin.com": {
   "ok": 1,
   "blocked": 0
  }

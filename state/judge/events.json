@@ -4254,5 +4254,47 @@
   "first": 1794111613940,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "SonicWall | חולשת VPN מנוצלת — עקיפת SAML ו-MFA | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794112535862,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CISO | אי-אפשר לאשר סוכני AI אחד-אחד — בעיית ממשל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794112535862,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "S&P | דירוג אשראי ישראל A — תחזית יציבה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794112714868,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קרנות גידור | טלטלת שווקים מוחקת ניהול השקעות — גרג קופי וחודש שיא שלילי | נובמבר 2026",
+  "level": "learn",
+  "first": 1794112714868,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "OpenAI CFO | השקעות מרכזי נתונים נמשכות למרות תגובת ציבור | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794112714868,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה–סין | מקורבת למנכ״ל — חשד לריגול | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794112714869,
+  "sentLive": false,
+  "candidate": true
  }
 ]
