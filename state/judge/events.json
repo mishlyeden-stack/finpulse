@@ -1,33 +1,5 @@
 [
  {
-  "key": "ג׳יי.פי מורגן | תחזית אג״ח ישראל לאחר בחירות — פרמיית סיכון | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793021790950,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | דחיית העלאות מחירים לפני הבחירות — החשבון מגיע | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793021790951,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | עסקת תצפית AI לאסיה-פסיפיק 200 מיליון דולר | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793021790951,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מטא | גיוס ענק 95 מיליארד דולר — אנבידיה, ברודקום ו-AMD בתור | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793021790951,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Anthropic | תשקיף IPO — 16.3 מיליארד דולר הכנסות בחצי שנה | אוקטובר 2026",
   "level": "yellow",
   "first": 1793025404248,
@@ -4049,6 +4021,13 @@
   "key": "מאנדיי | עקפה תחזיות Q3 — מייסדים מזהירים מאתגרים תפעוליים במעבר ל-AI | נובמבר 2026",
   "level": "yellow",
   "first": 1794229762099,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "QNAP NAS | שרשרת ניצול Plex2Shell — 4 חולשות בשימוש פעיל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794233166426,
   "sentLive": false,
   "candidate": true
  }
