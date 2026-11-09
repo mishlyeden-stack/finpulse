@@ -1,5 +1,192 @@
 [
  {
+  "id": "9c8ca9e8374ca2f3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K/A - Tecnoglass Holdings Inc. (0001534675) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1534675/000149315226050740/0001493152-26-050740-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001493152-26-050740 <b>Size:</b> 238 KB <br>Item 2.02: Results of Operations and Financial Condition",
+  "date": "2026-11-09T21:31:11.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "9d9e74ccb06e82c4",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Rafael Holdings, Inc. (0001713863) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1713863/000121390026117552/0001213900-26-117552-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001213900-26-117552 <b>Size:</b> 12 MB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-09T21:30:50.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "a726de8b1fb4af0d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Viant Technology Inc. (0001828791) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1828791/000182879126000084/0001828791-26-000084-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001828791-26-000084 <b>Size:</b> 719 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 8.01: Other Events",
+  "date": "2026-11-09T21:30:24.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "ac1b8fd6f3dd4712",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ARMSTRONG WORLD INDUSTRIES INC (0000007431) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/7431/000119312526453697/0001193125-26-453697-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001193125-26-453697 <b>Size:</b> 18 MB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-09T21:30:24.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "e859b8a6ee798c11",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - FiscalNote Holdings, Inc. (0001823466) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1823466/000119312526453689/0001193125-26-453689-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001193125-26-453689 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-09T21:30:16.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "07df0a350928ce5d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Upstart Holdings, Inc. (0001647639) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000086/0001647639-26-000086-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001647639-26-000086 <b>Size:</b> 139 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-11-09T21:30:16.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "a5ec6c840eb07cc8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Detroit Lions add some security at safety with trade for Andre Cisco - Detroit Free Press",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2dtN3VTM0VTa1FfTmhRQU5hbmlEUTB2TWo0OXhmQXRxTWlyVEJGYTRyZlBDM1JsSkJWd0doUzFKaWtDRkJUSmRGVDRRVWItdFJ0UDY2YUdYV21LTXFkeDRSZEFyN2RBYXJtcDJ0Y0U1UHpGZXM5QkpzOXFXcV8xQWk4WkxQNEtWOV81YnVaY3lGVTZGUnFJcEhiUTdWY1JIVnFEVXBndXBXa1A0TUxCUThTSQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2dtN3VTM0VTa1FfTmhRQU5hbmlEUTB2TWo0OXhmQXRxTWlyVEJGYTRyZlBDM1JsSkJWd0doUzFKaWtDRkJUSmRGVDRRVWItdFJ0UDY2YUdYV21LTXFkeDRSZEFyN2RBYXJtcDJ0Y0U1UHpGZXM5QkpzOXFXcV8xQWk4WkxQNEtWOV81YnVaY3lGVTZGUnFJcEhiUTdWY1JIVnFEVXBndXBXa1",
+  "date": "2026-11-09T21:29:00.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "db1d2006a7f411bf",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Kochav Defense Acquisition Corp. (0002053799) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2053799/000121390026117540/0001213900-26-117540-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001213900-26-117540 <b>Size:</b> 266 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-09T21:28:58.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "95cb151933f7c906",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+  "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+  "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
+  "date": "2026-11-09T21:28:40.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "ffbf3e965da63f13",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+  "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+  "summary": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.",
+  "date": "2026-11-09T21:27:54.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "8071f0053d3d917e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Trevi Therapeutics, Inc. (0001563880) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1563880/000119312526453670/0001193125-26-453670-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001193125-26-453670 <b>Size:</b> 372 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-09T21:26:46.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "41af67f0dc1cd41c",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Babcock & Wilcox Enterprises, Inc. (0001630805) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000080/0001630805-26-000080-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001630805-26-000080 <b>Size:</b> 786 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-09T21:25:43.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "34e57571bd53cd97",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "General Purpose Acquisition Corp. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - marketscreener.com",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaDNKcUZuSzNua3E4bGxjU09UYnVKVEE4ZXNFU0RCMV93ZjY0RHg2YnN4YUZwVGFEUV9leHBKTjNHRXlibnNxQ1Zub2Y3aFZvcE1RUXNLbGhJeVdramNVSXh5VHlxak1lTmJxWXkxQm91c2lkT0FqVk9IdzhzcExOZ0pxWmI2TW5rZUNWLVZDVnlFWjVqSWNzc0lCZlhBeU4wYkJuclI3U01VUWNTZWx3NURueXpkX1BRd3ZjdFRCNnRrZDhnWENKNWZOa1hmZFVncHBhVC10QVdtTVZ0SEpiRS11akFFUHM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaDNKcUZuSzNua3E4bGxjU09UYnVKVEE4ZXNFU0RCMV93ZjY0RHg2YnN4YUZwVGFEUV9leHBKTjNHRXlibnNxQ1Zub2Y3aFZvcE1RUXNLbGhJeVdramNVSXh5VHlxak1lTmJxWXkxQm91c2lkT0FqVk9IdzhzcExOZ0pxWmI2TW5rZUNWLVZDVnlFWjVqSWNzc0lCZlhBeU4wYkJuclI3U01VUW",
+  "date": "2026-11-09T21:20:46.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "c14880da49319f88",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Canadian oil supplier to Oklahoma makes $2 billion acquisition - Oklahoma Energy Today",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUdTUEZiX2RBcW9lakx3Vzl5eUpob08wazdJdmtGQWlTVHNWX2JwVFBzQmUtcGJLakVKX0kzX1BnWWVKNVFSWjE1Z1dNUHNGRHRkZkpJMVRWaWROUVdua0FKdkxUYmpvWDc3RXpTQ0otM3BGb3F4Yko0cS0zcVdlS2VEdE5TLTlUVUNMLTU3QVZpcEFWZ1VCVzNJOHo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUdTUEZiX2RBcW9lakx3Vzl5eUpob08wazdJdmtGQWlTVHNWX2JwVFBzQmUtcGJLakVKX0kzX1BnWWVKNVFSWjE1Z1dNUHNGRHRkZkpJMVRWaWROUVdua0FKdkxUYmpvWDc3RXpTQ0otM3BGb3F4Yko0cS0zcVdlS2VEdE5TLTlUVUNMLTU3QVZpcEFWZ1VCVzNJOHo?oc=5\" target=\"_bla",
+  "date": "2026-11-09T21:10:05.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "4909824e3f6392f8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EOS Investors Makes First Boston Hotel Acquisition - Connect CRE",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkdqUEtwSWtxdWM3SEMxZjhfYnBIUWxhWlgtZmlhZXAtMEdpR2JWYUtsSlJjemctTFM2ZXBVZm8zUlhKZHctckN3WVkwWkRzNmFxSU1Rc2pXQzAxNXE2cHdFek9iNVgwZkpNWU5TdEFBNGVqcXlmNVY4MktQLTlOYy1ZMHRGeUxQNHgzUWNKYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkdqUEtwSWtxdWM3SEMxZjhfYnBIUWxhWlgtZmlhZXAtMEdpR2JWYUtsSlJjemctTFM2ZXBVZm8zUlhKZHctckN3WVkwWkRzNmFxSU1Rc2pXQzAxNXE2cHdFek9iNVgwZkpNWU5TdEFBNGVqcXlmNVY4MktQLTlOYy1ZMHRGeUxQNHgzUWNKYw?oc=5\" target=\"_blank\">EOS Investors",
+  "date": "2026-11-09T21:08:06.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "e3aae33632e2f462",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "REPAY Reports Third Quarter 2026 Financial Results - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2RnV2NqLUYwdGZwZ0FXb0FHMnBSVWRuZ19vM2NjQVFuZ2ZFT0lTWlNpWW95ZWJYR1lJQXFJOTBwT21RVUdyS2M4SVNMSnppS2UtU1ZPNmg3V3o2SkZ6NzlETjdOWWJzdU0xRU5nSzdZRE1td2JiR29aYU5wdU4xWU5PSWFxNzNQUUF4SzlKSzNDTDZiSUYxRw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2RnV2NqLUYwdGZwZ0FXb0FHMnBSVWRuZ19vM2NjQVFuZ2ZFT0lTWlNpWW95ZWJYR1lJQXFJOTBwT21RVUdyS2M4SVNMSnppS2UtU1ZPNmg3V3o2SkZ6NzlETjdOWWJzdU0xRU5nSzdZRE1td2JiR29aYU5wdU4xWU5PSWFxNzNQUUF4SzlKSzNDTDZiSUYxRw?oc=5\" target=\"_blank\">R",
+  "date": "2026-11-09T21:07:46.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
+  "id": "6272f51238c04a8c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Korea’s Paradise Co says no decision made on Jeju hotel acquisition with talks ongoing - IAG – Inside Asian Gaming",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGRUY3cxdDBuQVI0bGRwTkJvWE9XQzB4eDdweXZFemhxWnhUQkZ5RU1UbDZLOG5DMnZVc2tlY3Nma1pvcE9aVDVkMkpHaGZWY0lTc0lQdUFTRkFwRHhrRlN0MHE5bkdKMlRFa01BQmRCM2QzN2JUWmFPdDZsbzdlMndvTHAxRG1ONHB1dG9Cc094b1g5STUzTVAxWGt2ZEl5TVdIaWluTEZrMm1XZU5MOWZJM21xZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGRUY3cxdDBuQVI0bGRwTkJvWE9XQzB4eDdweXZFemhxWnhUQkZ5RU1UbDZLOG5DMnZVc2tlY3Nma1pvcE9aVDVkMkpHaGZWY0lTc0lQdUFTRkFwRHhrRlN0MHE5bkdKMlRFa01BQmRCM2QzN2JUWmFPdDZsbzdlMndvTHAxRG1ONHB1dG9Cc094b1g5STUzTVAxWGt2ZEl5TVdIaWluTEZrMm",
+  "date": "2026-11-09T21:03:16.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
   "id": "eb9838036ddbe8aa",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -97,6 +284,17 @@
   "date": "2026-11-09T20:57:00.000Z",
   "fetched": "2026-11-09T21:03:12.606Z",
   "fromCloud": "2026-11-09T2103.json"
+ },
+ {
+  "id": "aba204eddc914760",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Arab and Muslim leaders in push to stop Trump from reigniting Iran war",
+  "link": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
+  "summary": "Efforts to defuse tensions come amid fears that US president will resume hostilities",
+  "date": "2026-11-09T20:56:08.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
  },
  {
   "id": "65b7d9f1b9e1ca77",
@@ -407,6 +605,17 @@
   "fromCloud": "2026-11-09T2053.json"
  },
  {
+  "id": "a11715d47c15d5bc",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "טסלה מוסיפה עוד עיר לרובוטקסי - אבל עדיין רחוקה מאוד מההבטחה של מאסק - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJM3VqVy1NWFJEaUQyT1dueTZQbXJoYThnZlc4eXV6WDVRNnJTU2dmSU1xamRidEJXRDRscnNhVmR5R1NKX2pSaWtVZ25BUllJc3ZZeXk2NXk1SldKU3lhSzlLZV9rRjNDbXFNWA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBJM3VqVy1NWFJEaUQyT1dueTZQbXJoYThnZlc4eXV6WDVRNnJTU2dmSU1xamRidEJXRDRscnNhVmR5R1NKX2pSaWtVZ25BUllJc3ZZeXk2NXk1SldKU3lhSzlLZV9rRjNDbXFNWA?oc=5\" target=\"_blank\">טסלה מוסיפה עוד עיר לרובוטקסי - אבל עדיין רחוקה מאוד מההבטחה ",
+  "date": "2026-11-09T19:37:00.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
+ },
+ {
   "id": "b9a643b31ea758ed",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -603,6 +812,17 @@
   "date": "2026-11-09T19:02:57.000Z",
   "fetched": "2026-11-09T19:33:11.840Z",
   "fromCloud": "2026-11-09T1933.json"
+ },
+ {
+  "id": "39c909707041aa59",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "Trump signals openness to AI guardrails after ‘blue tsunami’",
+  "link": "https://www.cfodive.com/news/trump-signals-openness-ai-guardrails-blue-tsunami/874155/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/7BHMANhM4G3_Pq8WtgSCPg6s39IGGQVNrMN1ST40Hp4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU4OTU1NzI0LmpwZw==.webp\"/></div></figure><p>The shift in tone on AI comes in the wake of midterm e",
+  "date": "2026-11-09T19:02:25.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
  },
  {
   "id": "f708900f729c3a85",
@@ -2099,6 +2319,17 @@
   "date": "2026-11-09T15:33:00.000Z",
   "fetched": "2026-11-09T16:03:13.226Z",
   "fromCloud": "2026-11-09T1603.json"
+ },
+ {
+  "id": "d8d812737aea09b9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Hull Street Energy completes acquisition of FirstLight’s US generation fleet - Energy Global",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWdTUmtKRnh2cng4TEwwUXZXRWNMd0xIUzMta1duSEM5dllIV0ZwMV8zZTV3LXB0NDF5VFNIclc0SngzcFdKWlB4RDJqMUpMM2dlSkhxS2tKb1lwVGxac3U0WUkzdXFKMnZNN2dIdTExUlFab3kwMTFGRV9qUWw2RFRaLWI1NURLS0dLckpzQUhyVlZUaXVLcHBLb29ENVF1RXNweURnWklHM01PMFlkVm4zQlFONnJhSnZRZDRjdDdNM1gwTXhJZThfRQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWdTUmtKRnh2cng4TEwwUXZXRWNMd0xIUzMta1duSEM5dllIV0ZwMV8zZTV3LXB0NDF5VFNIclc0SngzcFdKWlB4RDJqMUpMM2dlSkhxS2tKb1lwVGxac3U0WUkzdXFKMnZNN2dIdTExUlFab3kwMTFGRV9qUWw2RFRaLWI1NURLS0dLckpzQUhyVlZUaXVLcHBLb29ENVF1RXNweURnWklHM0",
+  "date": "2026-11-09T15:31:57.000Z",
+  "fetched": "2026-11-09T21:33:13.175Z",
+  "fromCloud": "2026-11-09T2133.json"
  },
  {
   "id": "83a2380d9d8a576d",
