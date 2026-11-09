@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 141,
+  "ok": 147,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 112
+  "blocked": 114
  },
  "en.globes.co.il": {
   "ok": 31,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 154,
-  "blocked": 1
+  "ok": 163,
+  "blocked": 6
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 88
+  "blocked": 91
  },
  "13tv.co.il": {
   "ok": 0,
@@ -28,7 +28,7 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 34,
+  "ok": 37,
   "blocked": 1
  },
  "themarker.com": {
@@ -41,11 +41,11 @@
  },
  "pc.co.il": {
   "ok": 23,
-  "blocked": 10
+  "blocked": 11
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 75
+  "blocked": 77
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -65,14 +65,14 @@
  },
  "datacenterdynamics.com": {
   "ok": 18,
-  "blocked": 31
+  "blocked": 32
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 11
  },
  "calcalistech.com": {
-  "ok": 45,
+  "ok": 46,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -85,7 +85,7 @@
  },
  "bloomberg.com": {
   "ok": 1,
-  "blocked": 4
+  "blocked": 6
  },
  "fortworthinc.com": {
   "ok": 0,
@@ -149,7 +149,7 @@
  },
  "tradingview.com": {
   "ok": 4,
-  "blocked": 10
+  "blocked": 11
  },
  "govconwire.com": {
   "ok": 0,
@@ -536,7 +536,7 @@
   "blocked": 0
  },
  "pymnts.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "wtmj.com": {
@@ -552,11 +552,11 @@
   "blocked": 1
  },
  "tokenpost.com": {
-  "ok": 2,
+  "ok": 3,
   "blocked": 0
  },
  "tikr.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "simplywall.st": {
@@ -576,6 +576,22 @@
   "blocked": 0
  },
  "idnfinancials.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "foreignpolicyjournal.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "stocktitan.net": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "sharecafe.com.au": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "chosun.com": {
   "ok": 0,
   "blocked": 1
  }
