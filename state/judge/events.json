@@ -1,19 +1,5 @@
 [
  {
-  "key": "סוכני AI | סיכון פנים-ארגוני מסוכנים — פרסום ישראלי | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793009146088,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ת״א | עלייה למרות תוכנית קריפטו נתניהו — מניית בית בכפר זינקה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793009146088,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Node2Shell | פגיעות Brotli קריטית — עדכון דחוף ל-Node.js, .NET, Python | אוקטובר 2026",
   "level": "yellow",
   "first": 1793012579648,
@@ -3965,6 +3951,41 @@
   "key": "DeepMind | סוכני AI מוזילים תקיפות על מפתחות RSA-1024 | נובמבר 2026",
   "level": "yellow",
   "first": 1794215163428,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל–ארה״ב | סיוע צבאי נמשך עד 2033 — חמש שנים, הגנה אווירית עשויה לגדול | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794218848464,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | תשתית AI לאומית — 300,000 GPU | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794218848464,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוטונומוס | קריסת אג״ח ומניות — ניהול משבר מנכ״ל | נובמבר 2026",
+  "level": "learn",
+  "first": 1794218848464,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פרטנר | שיא רווחיות 14 שנים + דיבידנד מיוחד 500 מיליון שקל | Q3 2026",
+  "level": "yellow",
+  "first": 1794218848465,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | ראש ה-AI הלאומי — ללא עצמאות טכנולוגית נאבד שליטה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794218848465,
   "sentLive": false,
   "candidate": true
  }
