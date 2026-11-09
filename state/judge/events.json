@@ -1,12 +1,5 @@
 [
  {
-  "key": "ישראל | העלאת מיסים אחרי בחירות — דפוס היסטורי ומשמעות לבורסה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792994724565,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "אלביט | חוזים 200 מיליון דולר באסיה | אוקטובר 2026",
   "level": "yellow",
   "first": 1792998338251,
@@ -4000,6 +3993,13 @@
   "key": "2G Energy | החלפת CFO + הסכם AI לניהול מרכזי נתונים | נובמבר 2026",
   "level": "learn",
   "first": 1794200863805,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Cyera | גיוס 300 מיליון דולר בשווי 20 מיליארד דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794204356701,
   "sentLive": false,
   "candidate": true
  }

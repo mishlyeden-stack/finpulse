@@ -13,11 +13,11 @@
  },
  "bizportal.co.il": {
   "ok": 163,
-  "blocked": 7
+  "blocked": 8
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 92
+  "blocked": 93
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 78
+  "blocked": 80
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -72,7 +72,7 @@
   "blocked": 11
  },
  "calcalistech.com": {
-  "ok": 46,
+  "ok": 47,
   "blocked": 0
  },
  "ptnow.co.il": {
