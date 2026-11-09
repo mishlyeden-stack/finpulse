@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "numbers": [
     {
       "key": "cpi",
@@ -38,12 +38,12 @@
     {
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
-      "value": "4.84%",
-      "change": "-0.08",
-      "note": "5 נובמבר 2026",
+      "value": "4.86%",
+      "change": "+0.02",
+      "note": "6 נובמבר 2026",
       "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-11-05",
+      "asOf": "2026-11-06",
       "maxAgeDays": 3
     },
     {
@@ -62,10 +62,10 @@
       "label": "דירוג אשראי",
       "value": "A / Baa1",
       "change": "",
-      "note": "S&P יציב · Moody's יציב",
-      "source": "https://en.globes.co.il/en/article-1001542408",
-      "by": "Globes, לפי S&P ו-Moody׳s",
-      "asOf": "2026-05-10",
+      "note": "S&P יציב (8.11) · Moody's יציב",
+      "source": "https://en.globes.co.il/en/article-sp-leaves-israels-credit-rating-unchanged-1001562393",
+      "by": "Globes English, לפי S&P",
+      "asOf": "2026-11-08",
       "maxAgeDays": 365
     }
   ],
@@ -73,6 +73,10 @@
     {
       "date": "10.11",
       "what": "CPI אמריקאי לאוקטובר"
+    },
+    {
+      "date": "12.11",
+      "what": "Applied Materials + Cisco תוצאות רבעוניות (אחרי שוק)"
     },
     {
       "date": "15.11",
