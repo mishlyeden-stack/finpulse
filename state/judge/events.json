@@ -1,12 +1,5 @@
 [
  {
-  "key": "שווקים | שקל נחלש לקראת בחירות + גולדמן זאקס חותך תחזית קוספי | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792990986823,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל | העלאת מיסים אחרי בחירות — דפוס היסטורי ומשמעות לבורסה | אוקטובר 2026",
   "level": "yellow",
   "first": 1792994724565,
@@ -3993,6 +3986,20 @@
   "key": "SpaceX | תחזית CFO Q1 2027 — 33–37 מיליארד דולר הכנסות | נובמבר 2026",
   "level": "yellow",
   "first": 1794197999565,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "OpenAI | הכנסות Q3 צמחו 70% — CFO מאשרת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794200770036,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "2G Energy | החלפת CFO + הסכם AI לניהול מרכזי נתונים | נובמבר 2026",
+  "level": "learn",
+  "first": 1794200863805,
   "sentLive": false,
   "candidate": true
  }
