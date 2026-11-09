@@ -1,19 +1,5 @@
 [
  {
-  "key": "אלביט | חוזים 200 מיליון דולר באסיה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792998338251,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ישראל | תמחור תנודה חדה ערב בחירות — שבוע הכרעות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1792998338251,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Big Tech | תזרים חופשי שלילי של מטא + 800 מיליארד AI Capex תחת בחינה | אוקטובר 2026",
   "level": "learn",
   "first": 1793001961359,
@@ -4000,6 +3986,27 @@
   "key": "Cyera | גיוס 300 מיליון דולר בשווי 20 מיליארד דולר | נובמבר 2026",
   "level": "yellow",
   "first": 1794204356701,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מזרחי טפחות | רישום ADR בארה״ב — יוזמת סיטיבנק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794208019983,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט | סיום חוזה חכירת תשתיות AI מאורקל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794208019983,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות האכיפה והגבייה | פרויקטי AI ממשלתיים עם נס | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794208019983,
   "sentLive": false,
   "candidate": true
  }
