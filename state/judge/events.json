@@ -1,12 +1,5 @@
 [
  {
-  "key": "Node2Shell | פגיעות Brotli קריטית — עדכון דחוף ל-Node.js, .NET, Python | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793012579648,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "מאסק | אזהרה: 200+ חברות AI יקרסו בשל חוב לחוות שרתים | אוקטובר 2026",
   "level": "yellow",
   "first": 1793014605432,
@@ -3986,6 +3979,20 @@
   "key": "ישראל | ראש ה-AI הלאומי — ללא עצמאות טכנולוגית נאבד שליטה | נובמבר 2026",
   "level": "yellow",
   "first": 1794218848465,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נקסט ויז׳ן | רווח הוכפל + צבר הזמנות ירד 21% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794222409536,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CFO | מע״מ כסיכון ארגוני — למה CFO חייב לנהל את זה | נובמבר 2026",
+  "level": "learn",
+  "first": 1794222409537,
   "sentLive": false,
   "candidate": true
  }

@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 150,
+  "ok": 152,
   "blocked": 1
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 118
+  "blocked": 119
  },
  "en.globes.co.il": {
   "ok": 31,
@@ -41,11 +41,11 @@
  },
  "pc.co.il": {
   "ok": 25,
-  "blocked": 13
+  "blocked": 14
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 82
+  "blocked": 83
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -61,7 +61,7 @@
  },
  "ice.co.il": {
   "ok": 3,
-  "blocked": 5
+  "blocked": 6
  },
  "datacenterdynamics.com": {
   "ok": 18,
@@ -592,6 +592,14 @@
   "blocked": 0
  },
  "chosun.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "moonstone.co.za": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "dronedj.com": {
   "ok": 0,
   "blocked": 1
  }
