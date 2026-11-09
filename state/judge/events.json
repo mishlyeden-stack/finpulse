@@ -1,61 +1,5 @@
 [
  {
-  "key": "Big Tech | תזרים חופשי שלילי של מטא + 800 מיליארד AI Capex תחת בחינה | אוקטובר 2026",
-  "level": "learn",
-  "first": 1793001961359,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אואזיס | הסכם שיווק WEKA NeuralMesh לתשתיות AI בישראל | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793001961360,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רוסיה | רשת 150,000 פוסטים מזויפים נגד ישראל, ארה״ב וצרפת | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793001961360,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארה״ב | סוכנויות ממשל מוצפות בהצעות שנוצרו ב-AI | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793005556646,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ECB | תנאי אשראי הדוקים לעסקים קטנים — סקר SAFE | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793005556646,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שטראוס | אסטרטגיה 2027–2030: השקעה 2 מיליארד שקל + רווח חד-פעמי 630 מיליון | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793005556646,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "לי-בר | קרן סקיי רוכשת 50% ב-200 מיליון שקל — שווי 400 מיליון לחברת הסעדה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793005556647,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | אזהרת קטסטרופה כלכלית — YNET | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793005556647,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "סוכני AI | סיכון פנים-ארגוני מסוכנים — פרסום ישראלי | אוקטובר 2026",
   "level": "yellow",
   "first": 1793009146088,
@@ -4014,6 +3958,13 @@
   "key": "סופטבנק–ABB רובוטיקה | עסקת רכישה נתקלת במכשול סין | נובמבר 2026",
   "level": "learn",
   "first": 1794211545667,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "DeepMind | סוכני AI מוזילים תקיפות על מפתחות RSA-1024 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794215163428,
   "sentLive": false,
   "candidate": true
  }

@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 148,
+  "ok": 149,
   "blocked": 1
  },
  "calcalist.co.il": {
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 94
+  "blocked": 95
  },
  "13tv.co.il": {
   "ok": 0,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 41,
+  "ok": 42,
   "blocked": 0
  },
  "ice.co.il": {
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 18,
-  "blocked": 32
+  "blocked": 33
  },
  "funder.co.il": {
   "ok": 0,
