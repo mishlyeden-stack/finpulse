@@ -1,5 +1,60 @@
 [
  {
+  "id": "65b7d9f1b9e1ca77",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Blue Laser Fusion, Inc. (0001938570) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1938570/000119312526453478/0001193125-26-453478-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001193125-26-453478 <b>Size:</b> 5 MB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-09T20:45:39.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
+ },
+ {
+  "id": "4148c5070368ff6d",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+  "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+  "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+  "date": "2026-11-09T20:41:38.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
+ },
+ {
+  "id": "c888cbcf50aa0daf",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Northpoint Recovery Announces Acquisition of Brick House Recovery - Eagle-Tribune",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYjV6ZE1YMGx5MTlNU1kwejFNS2Z3b3BOM3ppRHNHQ2t4UWloSnVHLTVLcUpidzEyX2EtNDZ4eVVBWVV5ODMzNmdManM1QlB0Y3hFVzYzTGNtS1NfRnN0Rm8xSGpWcnhReDdJbk9weXNJMXFpYThPeTNRZWo4RHRjQTAxaV9CZDhLV1BsYUp1NXpuSEJCTGI4ZkFmTkpySC04clNYQ2xNcENVV1VXSUVpRDNZTjhzR0lHMW5WN2pFMGl2WkRrRnBjT09BMXk4VldFcTVIYWh2a0FCeE50VFpwT0stN0tJQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYjV6ZE1YMGx5MTlNU1kwejFNS2Z3b3BOM3ppRHNHQ2t4UWloSnVHLTVLcUpidzEyX2EtNDZ4eVVBWVV5ODMzNmdManM1QlB0Y3hFVzYzTGNtS1NfRnN0Rm8xSGpWcnhReDdJbk9weXNJMXFpYThPeTNRZWo4RHRjQTAxaV9CZDhLV1BsYUp1NXpuSEJCTGI4ZkFmTkpySC04clNYQ2xNcENVV1",
+  "date": "2026-11-09T20:36:48.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
+ },
+ {
+  "id": "539b9efd7adbe464",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Benchmark 2020-B20 Mortgage Trust (0001824482) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1824482/000188852426020475/0001888524-26-020475-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001888524-26-020475 <b>Size:</b> 16 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-09T20:35:56.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
+ },
+ {
+  "id": "84c572e9f94073a6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Air India Considers Departed Garuda CFO for Top Finance Position - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFNXdmJBOVloWlFlQ0hvVVhOVUlTMWVfamo3U0dmZGdXVkxFTTNzZi0zeWRLeHlTWmd0dEtncVI4Q25fdnk0MXBoaHVaYW9xM1FqQmNlcm16Z0lSZXZiTHdZdnI5NW9FbUhWZC15Q1Bnb0g0bVI0b1B4dExjb212REZETmVVRi1jQ3VkSE9oNVF1MHpucXRKbC1XSFdnQURUT2VWV3NlejFqSjFJT18tdE0wbmxMZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFNXdmJBOVloWlFlQ0hvVVhOVUlTMWVfamo3U0dmZGdXVkxFTTNzZi0zeWRLeHlTWmd0dEtncVI4Q25fdnk0MXBoaHVaYW9xM1FqQmNlcm16Z0lSZXZiTHdZdnI5NW9FbUhWZC15Q1Bnb0g0bVI0b1B4dExjb212REZETmVVRi1jQ3VkSE9oNVF1MHpucXRKbC1XSFdnQURUT2VWV3NlejFqSj",
+  "date": "2026-11-09T20:33:13.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
+ },
+ {
   "id": "d48a585b701eae54",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -20,6 +75,17 @@
   "date": "2026-11-09T20:30:00.000Z",
   "fetched": "2026-11-09T20:33:14.172Z",
   "fromCloud": "2026-11-09T2033.json"
+ },
+ {
+  "id": "b8963ebf92361f1e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מניית התרופות שצונחת ב-20% אחרי שחתכה ביותר ממחצית את תחזית המכירות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wdWZwWGtkMlA1VndtQ3JTVk5ENnptS3p2NktyVlp0VVJBOWZRWGRjTHdFWWF5QUhhRG1wMWRydkg5MWlQbElMaVF2SmxNRE5uVjhyQlV3enkzbDZVVDU5Y3VvYUFUS1JCcGNlT0drTjE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1wdWZwWGtkMlA1VndtQ3JTVk5ENnptS3p2NktyVlp0VVJBOWZRWGRjTHdFWWF5QUhhRG1wMWRydkg5MWlQbElMaVF2SmxNRE5uVjhyQlV3enkzbDZVVDU5Y3VvYUFUS1JCcGNlT0drTjE?oc=5\" target=\"_blank\">מניית התרופות שצונחת ב-20% אחרי שחתכה ביותר ממחצית את תח",
+  "date": "2026-11-09T20:25:00.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
  },
  {
   "id": "d8cdf78052662a54",
@@ -198,6 +264,17 @@
   "fromCloud": "2026-11-09T2003.json"
  },
  {
+  "id": "64b49a85f82d0a83",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "קבוצת דוד אזולאי מציעה כ-60 מיליון שקל על גינת התחדשות עירונית - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5MVBlMFRGU3hqR2lFYk9oWjJNa1dPeHF2eFd2U29IYldaSHQ0ZDZieUVwRUVnYnVNN0hYOXFuZmd3REFSYWt3YlVHZmJ6a0djNTRTeGQxN0JKWWwtV0R1dHhtMXFYNlJNbU9Eem53?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFA5MVBlMFRGU3hqR2lFYk9oWjJNa1dPeHF2eFd2U29IYldaSHQ0ZDZieUVwRUVnYnVNN0hYOXFuZmd3REFSYWt3YlVHZmJ6a0djNTRTeGQxN0JKWWwtV0R1dHhtMXFYNlJNbU9Eem53?oc=5\" target=\"_blank\">קבוצת דוד אזולאי מציעה כ-60 מיליון שקל על גינת התחדשות עירו",
+  "date": "2026-11-09T19:37:00.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
+ },
+ {
   "id": "b9a643b31ea758ed",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -229,6 +306,28 @@
   "date": "2026-11-09T19:33:00.000Z",
   "fetched": "2026-11-09T20:03:14.986Z",
   "fromCloud": "2026-11-09T2003.json"
+ },
+ {
+  "id": "449cfd712a6a85d1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Brad Jacobs Launches New $1B Acquisition Venture, Gives Update on QXO Performance - National Association of Wholesaler-Distributors",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1BPR1VRTXpNRnZWYmF3RG9tS3c0am82dmV4Vjk5aVpjWkl0RThGeWdnRTNieUNYVWN2MUJxdXlrbWRGc1VfdW12UWZ5VnRuYU56LVVoXzlMUnVEWUs5SUZZX05pdUJnOTVCSndSRE1pVldEQTVGaEozMFBmNFUzZTByLWdxNEp0THc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1BPR1VRTXpNRnZWYmF3RG9tS3c0am82dmV4Vjk5aVpjWkl0RThGeWdnRTNieUNYVWN2MUJxdXlrbWRGc1VfdW12UWZ5VnRuYU56LVVoXzlMUnVEWUs5SUZZX05pdUJnOTVCSndSRE1pVldEQTVGaEozMFBmNFUzZTByLWdxNEp0THc?oc=5\" target=\"_blank\">Brad Jacobs Launches",
+  "date": "2026-11-09T19:28:50.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
+ },
+ {
+  "id": "ac0d7e9ba15ef9a6",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "נפילה של 80% - ועדיין תשואה של פי 3: הפרדוקס הגדול של הקרנות הממונפות - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VcmhWQmJtal82RUlmWWpoYldxb1ViYUp2WVFlSFVpZDhBbVhyVHhHV3dWeXQ3TzJPMXN3NUxNR0QzeEcxclJvUmxEc0R0ZDlrTFRtVFpsOHJPckMwMnlrZzFmMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VcmhWQmJtal82RUlmWWpoYldxb1ViYUp2WVFlSFVpZDhBbVhyVHhHV3dWeXQ3TzJPMXN3NUxNR0QzeEcxclJvUmxEc0R0ZDlrTFRtVFpsOHJPckMwMnlrZzFmMA?oc=5\" target=\"_blank\">נפילה של 80% - ועדיין תשואה של פי 3: הפרדוקס הגדול של הקרנות הממונפות</a>",
+  "date": "2026-11-09T19:28:04.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
  },
  {
   "id": "7fccbdca4144f491",
@@ -383,6 +482,17 @@
   "date": "2026-11-09T19:02:12.000Z",
   "fetched": "2026-11-09T19:03:12.081Z",
   "fromCloud": "2026-11-09T1903.json"
+ },
+ {
+  "id": "72422337735d0748",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גוגל משיקה שני שבבי AI חדשים ופותחת חזית נוספת מול אנבידיה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSjBKendDTENucEQ4Vm95TFJXdk9TTUpBMEdjeHRjVnZBdTM2anhrMGdhY3dza3Y4QmtSTy1JY3ZtVFNQY1lJcXBkdnVoejBySnpGUUx6ZG56NjZFTnRZUV9HSG9ZckNL?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSjBKendDTENucEQ4Vm95TFJXdk9TTUpBMEdjeHRjVnZBdTM2anhrMGdhY3dza3Y4QmtSTy1JY3ZtVFNQY1lJcXBkdnVoejBySnpGUUx6ZG56NjZFTnRZUV9HSG9ZckNL?oc=5\" target=\"_blank\">גוגל משיקה שני שבבי AI חדשים ופותחת חזית נוספת מול אנבידיה</a>&nbsp",
+  "date": "2026-11-09T19:02:00.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
  },
  {
   "id": "c9e3cef283503847",
@@ -2913,6 +3023,17 @@
   "date": "2026-11-09T14:00:05.000Z",
   "fetched": "2026-11-09T14:33:16.806Z",
   "fromCloud": "2026-11-09T1433.json"
+ },
+ {
+  "id": "5651678902ea6c82",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Coop Pank AS own shares acquisition transactions - Yahoo Finance Australia",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa200QXF0YXVXOFNrQkdpRTNOeW5QWkhYVFI0aFVsQWRQN1pNX2MtS1d0QlcwQlZGejMzMU9tbVJ0T0tkRnlDTjc1ajduRVpXQU9IVWNmaHBHWTg3STh6ai1yOTBnV0xQR1JDNmlfazcxYmdrWlRrTUJmRWxDX21DMGNxcjRwZVpY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa200QXF0YXVXOFNrQkdpRTNOeW5QWkhYVFI0aFVsQWRQN1pNX2MtS1d0QlcwQlZGejMzMU9tbVJ0T0tkRnlDTjc1ajduRVpXQU9IVWNmaHBHWTg3STh6ai1yOTBnV0xQR1JDNmlfazcxYmdrWlRrTUJmRWxDX21DMGNxcjRwZVpY?oc=5\" target=\"_blank\">Coop Pank AS own shares",
+  "date": "2026-11-09T14:00:00.000Z",
+  "fetched": "2026-11-09T20:53:26.732Z",
+  "fromCloud": "2026-11-09T2053.json"
  },
  {
   "id": "8f5d9bca4955cb6d",
