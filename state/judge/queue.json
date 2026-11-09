@@ -1,5 +1,104 @@
 [
  {
+  "id": "eb9838036ddbe8aa",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - HighPeak Energy, Inc. (0001792849) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1792849/000143774926035874/0001437749-26-035874-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001437749-26-035874 <b>Size:</b> 919 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-09T21:02:35.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
+  "id": "967974c6266c509e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - OXBRIDGE RE HOLDINGS Ltd (0001584831) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1584831/000149315226050712/0001493152-26-050712-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001493152-26-050712 <b>Size:</b> 379 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-09T21:02:23.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
+  "id": "ac1074bb7741d031",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Aldeyra Therapeutics, Inc. (0001341235) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1341235/000119312526453537/0001193125-26-453537-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001193125-26-453537 <b>Size:</b> 175 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-09T21:02:19.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
+  "id": "1524dfe856258694",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Goosehead Insurance, Inc. (0001726978) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1726978/000172697826000072/0001726978-26-000072-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001726978-26-000072 <b>Size:</b> 321 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 4.02: Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review <br>Item 9.01: ",
+  "date": "2026-11-09T21:02:04.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
+  "id": "89577ced009acfa8",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Xenon Pharmaceuticals Inc. (0001582313) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1582313/000119312526453521/0001193125-26-453521-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-09 <b>AccNo:</b> 0001193125-26-453521 <b>Size:</b> 478 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-09T21:00:28.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
+  "id": "b8fe17c78fb7d6f5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Seneca Label and Packaging completes acquisition of General Press - Label and Narrow Web",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTVkzbWpuLTZRMjVyaGhXMnN5ZHZSdUF4dkZVZU5DbEdOOV8tVU9lbnctUWF6Z293bU4wMnBRV0lPTVc3VFBpUEZCT2N6MUxfQWY5b3RpNWxzU2RyeVpOTUxtamo3aWFWY2J1MnFKZllJMnRFR3NEZzlpdGNKSEEyWVVvdzVHamlyMnhUTU1YVmxla0Z3MTRVYklydjg4YjQ4MklycENoRFk1MHoxLXRnWlB5d1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTVkzbWpuLTZRMjVyaGhXMnN5ZHZSdUF4dkZVZU5DbEdOOV8tVU9lbnctUWF6Z293bU4wMnBRV0lPTVc3VFBpUEZCT2N6MUxfQWY5b3RpNWxzU2RyeVpOTUxtamo3aWFWY2J1MnFKZllJMnRFR3NEZzlpdGNKSEEyWVVvdzVHamlyMnhUTU1YVmxla0Z3MTRVYklydjg4YjQ4MklycENoRFk1MH",
+  "date": "2026-11-09T21:00:18.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
+  "id": "6e4cb5ab08bc01e5",
+  "source": "Federal Reserve",
+  "group": "global-official",
+  "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+  "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+  "date": "2026-11-09T21:00:00.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
+  "id": "f79a2376468d5328",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Children’s Place files for bankruptcy protection, seeks buyer",
+  "link": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
+  "summary": "The Children's Place has filed for chapter 11 bankruptcy protection and is seeking bids from potential new owners by Dec. 9.",
+  "date": "2026-11-09T20:57:46.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
+  "id": "832dc09c31c2f59d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הסיכוי שעסקת מארוול-לומנטום תושלם: בערך 50%, לפי סוחרי הארביטראז' - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGWWl5NWtyM3VlYldJZ1VxZEg4b2loSUlsdEZJblpZOXJkaFl6WVVEMks1WGhaTGRDNjNUUWJZaHBNNVhZVl9md0U2Q0xxYnFTWlNpTkhBbTU3U19QRlBPcUp5R3VEcHYy?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGWWl5NWtyM3VlYldJZ1VxZEg4b2loSUlsdEZJblpZOXJkaFl6WVVEMks1WGhaTGRDNjNUUWJZaHBNNVhZVl9md0U2Q0xxYnFTWlNpTkhBbTU3U19QRlBPcUp5R3VEcHYy?oc=5\" target=\"_blank\">הסיכוי שעסקת מארוול-לומנטום תושלם: בערך 50%, לפי סוחרי הארביטראז'</",
+  "date": "2026-11-09T20:57:00.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
   "id": "65b7d9f1b9e1ca77",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -22,6 +121,17 @@
   "fromCloud": "2026-11-09T2053.json"
  },
  {
+  "id": "f7eeb7c0405dce95",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Republican lawmaker moves to impeach US defence secretary Pete Hegseth",
+  "link": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1",
+  "summary": "Trump critic Thomas Massie cites abuse of power and flouting of US constitution",
+  "date": "2026-11-09T20:39:13.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
+ },
+ {
   "id": "c888cbcf50aa0daf",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -31,6 +141,17 @@
   "date": "2026-11-09T20:36:48.000Z",
   "fetched": "2026-11-09T20:53:26.732Z",
   "fromCloud": "2026-11-09T2053.json"
+ },
+ {
+  "id": "3bc83b8c859964b2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Northpoint Recovery Announces Acquisition of Brick House Recovery - The Batesville Daily Guard",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcUpLV3RfWWtDSXdsTWtFWERKbW1OX3djQ1dFU0xwTmNwWnBfQUh5RmJFVzFQd2Z0VmpDR25acm1BdldZNlR2VW5OdVZGbkFXWV9fSGlCMUxCS1Z2cFowaVgyS0lvazhoa3AzMHlQSWFTdDFSVW9PWXVWZ0JLRDJnY2c1VC1VcDdjdlk0Y1VRQzdhR0xwbzQtZ0tPUTJpMGlhc0VfRU9iZWp2MlZBbEh5aUxpd2g2b2daUzZMWWIxdVhielhUNzE2MzFadVMxeHJ0RHlucVJuTW1BZjg5Y3ozcFdJazJTeE1xUTV2Y0p3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcUpLV3RfWWtDSXdsTWtFWERKbW1OX3djQ1dFU0xwTmNwWnBfQUh5RmJFVzFQd2Z0VmpDR25acm1BdldZNlR2VW5OdVZGbkFXWV9fSGlCMUxCS1Z2cFowaVgyS0lvazhoa3AzMHlQSWFTdDFSVW9PWXVWZ0JLRDJnY2c1VC1VcDdjdlk0Y1VRQzdhR0xwbzQtZ0tPUTJpMGlhc0VfRU9iZWp2Ml",
+  "date": "2026-11-09T20:36:48.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
  },
  {
   "id": "539b9efd7adbe464",
@@ -152,6 +273,17 @@
   "date": "2026-11-09T20:12:00.000Z",
   "fetched": "2026-11-09T20:33:14.172Z",
   "fromCloud": "2026-11-09T2033.json"
+ },
+ {
+  "id": "8d410825a5ab595a",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "יוסי מנשה (אלטשולר שחם): יצוא ההייטק תומך בשקל, אך פערי הריבית מייקרים את הגידור - פאנדר",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40STFULWxuTzdqNEFhTkZudU5LaVVwT21ibnF6N2hoNEp1MUFXV0FRSmxkcmRGb3pfTkhTMXFVeTJ5ZUhEMFVoVzR1Nm4zTXc2?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE40STFULWxuTzdqNEFhTkZudU5LaVVwT21ibnF6N2hoNEp1MUFXV0FRSmxkcmRGb3pfTkhTMXFVeTJ5ZUhEMFVoVzR1Nm4zTXc2?oc=5\" target=\"_blank\">יוסי מנשה (אלטשולר שחם): יצוא ההייטק תומך בשקל, אך פערי הריבית מייקרים את הגידור</a>&nbsp;&nbsp;<fo",
+  "date": "2026-11-09T20:10:49.000Z",
+  "fetched": "2026-11-09T21:03:12.606Z",
+  "fromCloud": "2026-11-09T2103.json"
  },
  {
   "id": "af4d01b3c0b4e9e4",
