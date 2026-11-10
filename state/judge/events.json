@@ -1,117 +1,5 @@
 [
  {
-  "key": "Anthropic | תשקיף IPO — 16.3 מיליארד דולר הכנסות בחצי שנה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793025404248,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | חוזים 200 מיליון דולר באסיה — אירוע ידוע | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793025404248,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | משימות כלכליות לממשלה החדשה — מפת דרכים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793073950315,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סייבר | מתקפה על בית חולים בניו מקסיקו — סגירת מרפאות והסטת חולים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793073950315,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אינטל | רכישת קלאסיק הישראלית ב-2.3 מיליארד דולר — פלטפורמת קוונטום | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074133811,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Instacart | שיחות רכישה עם DoorDash מתחממות — עסקה אפשרית של 17 מיליארד | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074133811,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Lockheed Martin | השלמת רכישת Ultra Maritime — הרחבת מוצרי לוחמה ימית | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074133811,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | מכרז מתקן התפלה שני בגליל המערבי — 100 מיליון קוב | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074133811,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ג׳טבלו | שפל היסטורי במניה + ארגון נושים | אוקטובר 2026",
-  "level": "learn",
-  "first": 1793074289505,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אינטל | רכישת קלאסיק ב-2.3 מיליארד דולר — פלטפורמת קוונטום | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074289505,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנק אוף אמריקה | בחירת מנצחות בתוכנות תשתית לקראת דוחות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074289505,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בואינג | לקראת דוח Q3: תזרים — המבחן האמיתי אחרי שנת הפסדים | אוקטובר 2026",
-  "level": "learn",
-  "first": 1793074557572,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ג׳יי.פי מורגן | תחזית שקל לפי תוצאות הבחירות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074557572,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "SolarEdge | קיצוץ 200 משרות נוספים — ארגון מחדש נמשך | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074557573,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אאורה | רכישת בית בכפר ב-1.7 מיליארד שקל — אקזיט משפחת בלושטיין | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074557573,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מיזוג גז עולמי | עסקה של 50 מיליארד דולר בתחום הגז הטבעי | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793074557573,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "מיקרוסופט | פרישה מרצון ל-60 אלף עובדים — 27% מכוח האדם | אוקטובר 2026",
   "level": "yellow",
   "first": 1793075885192,
@@ -4028,6 +3916,146 @@
   "key": "QNAP NAS | שרשרת ניצול Plex2Shell — 4 חולשות בשימוש פעיל | נובמבר 2026",
   "level": "yellow",
   "first": 1794233166426,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רשות המסים | העלאת שיעור דיבידנד כפוי על רווחים כלואים ל-8% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794283627136,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פנטגון | אסטרטגיית רכש ארגונית ל-AI בסימולציה ומלחמה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794283627137,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Trade Desk | הכנסות Q3 עקפו ב-86 מיליון דולר — CFO מזהיר מרבעון חלש | נובמבר 2026",
+  "level": "learn",
+  "first": 1794283627137,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | הוראת שעה מבצעי קבלנים — הדדליין מתקרב, 45% מדירות ספטמבר עם הטבות מימון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794283627137,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סקיידאנס–פרמאונט | 6 מיליארד דולר חיסכון עלויות לאחר רכישה | נובמבר 2026",
+  "level": "learn",
+  "first": 1794283759586,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "לוסיד | החמצת תחזיות + הרחבת הלוואה סעודית + מבנה חוב | נובמבר 2026",
+  "level": "learn",
+  "first": 1794283759586,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קונסטליישן סופטוור | העלאת תחזית + זינוק 10% — מנכ״ל: תגובת השוק לבחירות מוגזמת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794283989217,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "The Children's Place | פשיטת רגל פרק 11 + חיפוש קונה — קמעונאות ביגוד | נובמבר 2026",
+  "level": "learn",
+  "first": 1794283989217,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פפפסיקו | קיצוץ 1,000 משרות בצפון אמריקה — פעילות מתקשה | נובמבר 2026",
+  "level": "learn",
+  "first": 1794283989217,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | מדד CPI אוקטובר יפורסם ללא נתון אינפלציה שנתית — השבתת 2025 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794283989217,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דיפלומט | כניסה למקסיקו ב-45 מיליון דולר — רכישת שני מפיצים מקומיים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794283989218,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביטוח | מנכ״לים תוקפים מודל תגמול סוכנים — ניוד יתר פוגע בחוסכים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794283989218,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ואנטה–פילאר | רכישת סטארטאפ ישראלי ב-150 מיליון דולר — פי 16 מהגיוס | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794284214994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בואינג | קיצוץ 5% מכוח אדם אזרחי — 737 לא עומד ביעדי ייצור | נובמבר 2026",
+  "level": "learn",
+  "first": 1794284214994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טריפאדוויזר | מנכ״ל ו-CFO עוזבים — ארגון מחדש רחב | נובמבר 2026",
+  "level": "learn",
+  "first": 1794284214994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פלאפון | רכישת ווקום ב-265 מיליון שקל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794284214994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אקסוניוס | קיצוץ 22% מכוח הפיתוח הישראלי — ארגון מחדש AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794284214994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "איירווירונמנט | חוזה רחפנים עד 940 מיליון דולר — זינוק 10% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794284214994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גולדמן זקס–סולומון | מימון AI נמשך למרות ירידת מניות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794284214994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ויקטורי–קרפור | תוכנית מיזוג מלא ו-210 סניפים — בקשה לרשות תחרות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794284214994,
   "sentLive": false,
   "candidate": true
  }
