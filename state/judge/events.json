@@ -1,47 +1,5 @@
 [
  {
-  "key": "אפולו | בכיר: AI ללא תשואה פיננסית מחוץ לטק | אוקטובר 2026",
-  "level": "learn",
-  "first": 1793108323346,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "HPE | עשרות פגיעויות קריטיות במוצרי רשת — עדכון אוקטובר 2026 | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793108323346,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שקל | התחזקות חדה ביום הבחירות — דולר מתחת ל-3.05 | אוקטובר 2026",
-  "level": "red",
-  "first": 1793111801955,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "סוכני AI | השפעה תפעולית ועלויות בלתי צפויות ב-77% מהחברות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793111801955,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | נשק ישראלי בביקוש — פוליטיקה תכתיב מי קונה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793111801956,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | עצירת רחפנים אזרחיים המונעים בסיב אופטי ו-SIM | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793111801956,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל | תקציב ביטחון — פער 25 מיליארד שקל ואתגר רב-שנתי | אוקטובר 2026",
   "level": "yellow",
   "first": 1793160402113,
@@ -4084,6 +4042,27 @@
   "key": "Mer Group | 46 מיליון אירו בחוזי ביטחון וסייבר באפריקה המערבית | נובמבר 2026",
   "level": "yellow",
   "first": 1794314283021,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CFO.com | סוכני AI בפיננסים — מה הם יכולים ומה לא | נובמבר 2026",
+  "level": "learn",
+  "first": 1794321523668,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | Bay ו-Daylight — גיוסי סייבר 50M ו-80M דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794321523668,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ECB | מירוץ לנשיאות — קנוט הנצי מול הרנאנדס דה קוס המתון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794321523668,
   "sentLive": false,
   "candidate": true
  }
