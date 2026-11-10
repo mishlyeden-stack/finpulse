@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 159,
-  "blocked": 1
+  "ok": 162,
+  "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
   "blocked": 127
  },
  "en.globes.co.il": {
-  "ok": 33,
+  "ok": 34,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 172,
+  "ok": 179,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 99
+  "blocked": 100
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 62
+  "blocked": 66
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -41,11 +41,11 @@
  },
  "pc.co.il": {
   "ok": 25,
-  "blocked": 15
+  "blocked": 18
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 87
+  "blocked": 89
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -60,16 +60,16 @@
   "blocked": 0
  },
  "ice.co.il": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 6
  },
  "datacenterdynamics.com": {
   "ok": 18,
-  "blocked": 35
+  "blocked": 38
  },
  "funder.co.il": {
   "ok": 0,
-  "blocked": 12
+  "blocked": 13
  },
  "calcalistech.com": {
   "ok": 51,
@@ -160,7 +160,7 @@
   "blocked": 1
  },
  "avnetwork.com": {
-  "ok": 5,
+  "ok": 6,
   "blocked": 0
  },
  "prnewswire.com": {
@@ -556,7 +556,7 @@
   "blocked": 0
  },
  "tikr.com": {
-  "ok": 2,
+  "ok": 3,
   "blocked": 0
  },
  "simplywall.st": {
@@ -622,5 +622,13 @@
  "bostonglobe.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "technology.org": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "qz.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
