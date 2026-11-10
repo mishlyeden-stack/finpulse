@@ -1,40 +1,5 @@
 [
  {
-  "key": "OpenAVC | פלטפורמת בקרה Pro AV קוד פתוח חדשה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793097461256,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Vertiv | השלמת רכישת UtilityInnovation Group | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793097461256,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מרכנתיל דיסקונט | גביית מע״מ באיחור של שש שנים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793097461256,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Citrix NetScaler | Zero-Day חדש — נורמה חדשה של ניהול טלאים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793097461256,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "זהב | שיא 4,014 דולר לאונקיה — תמחור העלאת ריבית בדצמבר | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793097461256,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "הודו | אישור רכש ביטחוני 22.2 מיליארד דולר | אוקטובר 2026",
   "level": "yellow",
   "first": 1793101039555,
@@ -4126,6 +4091,13 @@
   "key": "יפן | ביקוש לאג״ח 30 שנה נחלש — יחס כיסוי ל-3.36 | נובמבר 2026",
   "level": "yellow",
   "first": 1794305213149,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "WSJ | סנקציות בריטיות עלולות לפגוע בהייטק ישראלי דרך איי קיימן | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794308762815,
   "sentLive": false,
   "candidate": true
  }
