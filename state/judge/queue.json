@@ -1,5 +1,49 @@
 [
  {
+  "id": "65f9e5cc9945a283",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - National CineMedia, Inc. (0001377630) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1377630/000119312526455387/0001193125-26-455387-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001193125-26-455387 <b>Size:</b> 168 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-11-10T21:01:34.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
+ },
+ {
+  "id": "f79acac5b37305a3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - AMERICAN VANGUARD CORP (0000005981) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/5981/000119312526455384/0001193125-26-455384-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001193125-26-455384 <b>Size:</b> 415 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T21:01:01.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
+ },
+ {
+  "id": "9cb9f40473c36e55",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Borrowers Seek New Ways to Close the Refinancing Gap - Urban Land Magazine",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODZtSE81VVZVYWFRaXoyX3liMXZfYjRRZ2FNanFCR1JyakdEeFlIaDhzTG1XOFlCa0pIQnhUd1ZWQk5KVVkwUmRfSkUzcnZuU0JnbU42X0hRVzZ5WDNiQmpMUmlOMFpwVG1LZkQ2bjZCUGZqSUY4SHM3V2NITnZJQ1ZUbFU0T1lsZ05LYms0ajcyRFRQUURSaFJ4UjFjMFhMV0haR3FIOXBkUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODZtSE81VVZVYWFRaXoyX3liMXZfYjRRZ2FNanFCR1JyakdEeFlIaDhzTG1XOFlCa0pIQnhUd1ZWQk5KVVkwUmRfSkUzcnZuU0JnbU42X0hRVzZ5WDNiQmpMUmlOMFpwVG1LZkQ2bjZCUGZqSUY4SHM3V2NITnZJQ1ZUbFU0T1lsZ05LYms0ajcyRFRQUURSaFJ4UjFjMFhMV0haR3FIOXBkUQ",
+  "date": "2026-11-10T20:56:48.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
+ },
+ {
+  "id": "1f424eacf56c757b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אחרי יותר משש שנים ושתי גרסאות שנזרקו: רינג של אמזון משיקה רחפן אבטחה לבית - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56UHdlRHVOQUZQRVA4UGpRSHZjVHR4V1Uwb1pOZ1hqTVRxY0xBRGdOTnlvdlV5WG1nT1E2elh5dXFhRjduOTY1M1J1dnFza1kyUHQwQ1gxUUR5S3FnX2h4T1g4RHBaZzZJ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE56UHdlRHVOQUZQRVA4UGpRSHZjVHR4V1Uwb1pOZ1hqTVRxY0xBRGdOTnlvdlV5WG1nT1E2elh5dXFhRjduOTY1M1J1dnFza1kyUHQwQ1gxUUR5S3FnX2h4T1g4RHBaZzZJ?oc=5\" target=\"_blank\">אחרי יותר משש שנים ושתי גרסאות שנזרקו: רינג של אמזון משיקה רחפן אבט",
+  "date": "2026-11-10T20:49:00.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
+ },
+ {
   "id": "21304c2eb1e10622",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -9,6 +53,17 @@
   "date": "2026-11-10T20:30:00.000Z",
   "fetched": "2026-11-10T20:33:12.236Z",
   "fromCloud": "2026-11-10T2033.json"
+ },
+ {
+  "id": "2a2ccc8bfcb6a8db",
+  "source": "The Economist – Finance & economics",
+  "group": "global-press",
+  "title": "For boomers, economic boom times are over",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+  "summary": "Across the rich world, the geriatric share of income and wealth is ebbing",
+  "date": "2026-11-10T20:28:56.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
  },
  {
   "id": "8410204a4240e7a4",
@@ -31,6 +86,28 @@
   "date": "2026-11-10T20:18:29.000Z",
   "fetched": "2026-11-10T20:33:12.236Z",
   "fromCloud": "2026-11-10T2033.json"
+ },
+ {
+  "id": "6be36df228bae81d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Supporting Your CFO in the AI Era, 6th Palm Beach CorpGov Forum - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMC1EQkNWVDdONXVzMloyaVZ0dkIyTnNwZHZrYlFWZjN0WnRTaXBrdk8yOWFYV0NZbGdPTVBIX2xqUXJLWGM1dlpaTXZqVk5walRzRFhiQXNWdkhMamR5M2VCMHpoZFo3LWFYMlB1TFNKY2Y5Y3JWaXNhNXE0NWRYOUFHTEVLM05ucGVwbC04cjgwQms?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMC1EQkNWVDdONXVzMloyaVZ0dkIyTnNwZHZrYlFWZjN0WnRTaXBrdk8yOWFYV0NZbGdPTVBIX2xqUXJLWGM1dlpaTXZqVk5walRzRFhiQXNWdkhMamR5M2VCMHpoZFo3LWFYMlB1TFNKY2Y5Y3JWaXNhNXE0NWRYOUFHTEVLM05ucGVwbC04cjgwQms?oc=5\" target=\"_blank\">Supporti",
+  "date": "2026-11-10T20:14:30.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
+ },
+ {
+  "id": "7492ca1c8f83e31d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "המניה שמכפילה את עצמה בזכות טיפול למחלת שריר נדירה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZDhtRGJ2MUxabjYxekJ6RXN0dDdtQ2FrOGtKWGdLV0RNbmZURkUzaFpvcVFlZ2VONW03Mng3VExWdFFsbnBwX0o2TEFUOXJ6YkR0Nl9XWnYxQUFMS1lFV1RNZF9fZVZGX3BfSllpcDA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZDhtRGJ2MUxabjYxekJ6RXN0dDdtQ2FrOGtKWGdLV0RNbmZURkUzaFpvcVFlZ2VONW03Mng3VExWdFFsbnBwX0o2TEFUOXJ6YkR0Nl9XWnYxQUFMS1lFV1RNZF9fZVZGX3BfSllpcDA?oc=5\" target=\"_blank\">המניה שמכפילה את עצמה בזכות טיפול למחלת שריר נדירה</a>&n",
+  "date": "2026-11-10T20:11:00.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
  },
  {
   "id": "a8c7b35d67eac301",
@@ -64,6 +141,17 @@
   "date": "2026-11-10T20:02:00.000Z",
   "fetched": "2026-11-10T20:33:12.236Z",
   "fromCloud": "2026-11-10T2033.json"
+ },
+ {
+  "id": "54b1da93883e291c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Latham & Watkins Advises Diamondback Energy on Acquisition of Deep Blue Midland Basin - Latham & Watkins LLP",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzZYWS1kd2Vyck8zS2V4REJKYm5uLU5iLU5ZTi1Hd1lpYWoxOU5Uc2dxX1UtM0JNU0hyaG1sTkxrXzhMRWxRalI4cXpia29LY0dKU0txblhmWFphdGd6Wm95emJnUWxIb3RGRndhOHpGVVVuTnNYTWxkaXFaNHZFVnZnRUFINExEUkFHVW51cDZFMWFGYTFyaDdkTjAxb2xtalZ4R1BFTkxlcDNoc0Rv?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzZYWS1kd2Vyck8zS2V4REJKYm5uLU5iLU5ZTi1Hd1lpYWoxOU5Uc2dxX1UtM0JNU0hyaG1sTkxrXzhMRWxRalI4cXpia29LY0dKU0txblhmWFphdGd6Wm95emJnUWxIb3RGRndhOHpGVVVuTnNYTWxkaXFaNHZFVnZnRUFINExEUkFHVW51cDZFMWFGYTFyaDdkTjAxb2xtalZ4R1BFTkxlcD",
+  "date": "2026-11-10T20:00:05.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
  },
  {
   "id": "fb5e3d8fa411484c",
@@ -295,6 +383,17 @@
   "date": "2026-11-10T19:05:00.000Z",
   "fetched": "2026-11-10T19:33:12.754Z",
   "fromCloud": "2026-11-10T1933.json"
+ },
+ {
+  "id": "5d2086c6527d1cca",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Dreeze - calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CRWhuQmpMT1gybHVkSjRPLXJ4aW44YTFDYXJmbFdYSElfamVRVnhKYWtnVmxhYWJ6RTQzQjNNTEJ6SHRvQXhKLXN4SlJKRHZyRVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CRWhuQmpMT1gybHVkSjRPLXJ4aW44YTFDYXJmbFdYSElfamVRVnhKYWtnVmxhYWJ6RTQzQjNNTEJ6SHRvQXhKLXN4SlJKRHZyRVE?oc=5\" target=\"_blank\">Dreeze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+  "date": "2026-11-10T19:04:48.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
  },
  {
   "id": "6b32d03a65a0bff5",
@@ -1815,6 +1914,17 @@
   "fromCloud": "2026-11-10T1803.json"
  },
  {
+  "id": "c3b6db5f59905bf1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Open Fiber plans €8B refinancing - Briefs Finance",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbU00RE5fMjRhbEIyYkE1bllTWHVNaTRMODlLRjZjOExjZExqLUJmLXdzVUR0eWtaRGVxV29aYXYxeEVxTGlHd01YUXU3TG1mRElsS1hKUmhicDc3NjQ4Z1ViOVBQc0JieEVVUVhRVjUtbHRfQ1ZaM1pDbko0VVpPSmtWREhCV2FpTVRVMUxsMEg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNbU00RE5fMjRhbEIyYkE1bllTWHVNaTRMODlLRjZjOExjZExqLUJmLXdzVUR0eWtaRGVxV29aYXYxeEVxTGlHd01YUXU3TG1mRElsS1hKUmhicDc3NjQ4Z1ViOVBQc0JieEVVUVhRVjUtbHRfQ1ZaM1pDbko0VVpPSmtWREhCV2FpTVRVMUxsMEg?oc=5\" target=\"_blank\">Open Fiber p",
+  "date": "2026-11-10T15:30:00.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
+ },
+ {
   "id": "66633ab9ba951291",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -2291,6 +2401,17 @@
   "date": "2026-11-10T14:46:00.000Z",
   "fetched": "2026-11-10T15:03:36.769Z",
   "fromCloud": "2026-11-10T1503.json"
+ },
+ {
+  "id": "280580d26278cce0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Multifamily’s Refinancing Crunch Is Raising the Stakes for AI - Commercial Observer",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qdFY4bkQtMXpTQ0N0MkdTckdKYXhwUW1lZkt2QXE2cjZvdkhSUjRIdmhEa3U2X0F3cE1RcnpnaTVIMTgtbDYzd2xmZzB3eTZkRjZkeE9sMlhiZ1cyQzljRk9LT0hpb2l6UXJhM3RuNEc4Y3ozWi1KbWNyTW9rdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9qdFY4bkQtMXpTQ0N0MkdTckdKYXhwUW1lZkt2QXE2cjZvdkhSUjRIdmhEa3U2X0F3cE1RcnpnaTVIMTgtbDYzd2xmZzB3eTZkRjZkeE9sMlhiZ1cyQzljRk9LT0hpb2l6UXJhM3RuNEc4Y3ozWi1KbWNyTW9rdw?oc=5\" target=\"_blank\">Multifamily’s Refinancing Crunch Is R",
+  "date": "2026-11-10T14:45:57.000Z",
+  "fetched": "2026-11-10T21:03:12.085Z",
+  "fromCloud": "2026-11-10T2103.json"
  },
  {
   "id": "8f6815b3b7290050",
