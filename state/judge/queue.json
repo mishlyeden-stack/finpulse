@@ -1,5 +1,159 @@
 [
  {
+  "id": "ffea7c51597feb64",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Spero Therapeutics, Inc. (0001701108) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1701108/000119312526455789/0001193125-26-455789-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001193125-26-455789 <b>Size:</b> 142 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-11-10T22:30:46.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "9acb1c69dac646a2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Sunrise Realty Trust, Inc. (0002012706) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2012706/000162828026072851/0001628280-26-072851-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001628280-26-072851 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T22:30:03.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "539b46324a5e6590",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426009668/0001654954-26-009668-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001654954-26-009668 <b>Size:</b> 150 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T22:26:29.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "1a2805a9799c9cf4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Albertsons taps outsider Andrew Murray as CFO amid business review By Reuters - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN1pyOW9fUkx4OGVsaWk3YmUzSnBtRnFZYmRGcEVKZHBRUFNhOW1uMEdnNm5mRFNweDVzaWk1NjZINFpBNVlfTE5nWHpaMjc3aXBvTFB0LVlHSHduX1lRR25ENkFDb25DYUlpdUhpdjMtWHlmTDJtZXNpVXFfaXptRXpTSElGQUd1Yk9NTy1YQ0hySXFTc3BKZWlReTJpVGJYeW9ORzdLaDdZSERxOFdFUHJFV1VCRmhjMW9fd0F2NHo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN1pyOW9fUkx4OGVsaWk3YmUzSnBtRnFZYmRGcEVKZHBRUFNhOW1uMEdnNm5mRFNweDVzaWk1NjZINFpBNVlfTE5nWHpaMjc3aXBvTFB0LVlHSHduX1lRR25ENkFDb25DYUlpdUhpdjMtWHlmTDJtZXNpVXFfaXptRXpTSElGQUd1Yk9NTy1YQ0hySXFTc3BKZWlReTJpVGJYeW9ORzdLaDdZSE",
+  "date": "2026-11-10T22:26:13.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "3589cb5771253883",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Iron Horse Acquisition II Corp. (0002051985) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026118137/0001213900-26-118137-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001213900-26-118137 <b>Size:</b> 292 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T22:25:34.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "8a9af228d371c4aa",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - REGENCY CENTERS CORP (0000910606) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/910606/000119312526455774/0001193125-26-455774-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001193125-26-455774 <b>Size:</b> 1 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01: ",
+  "date": "2026-11-10T22:24:58.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "c1f9c61fbc6c6030",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Albertsons Names Andrew Murray CFO - The Packer",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aaGdyMk1XbTdRSFJsbml5Y1VJMGMzQkVaYVpoME8wdE5hWkx2bkVKalE5N0pId09mTlN3TTRwdVBSelppb2drekJUMmctVEd6MU5WYzZnbDE0S0JESmlwMWhzd0h5WE51U0pSZS1kdXhjSTFrNExwb0xLSlo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1aaGdyMk1XbTdRSFJsbml5Y1VJMGMzQkVaYVpoME8wdE5hWkx2bkVKalE5N0pId09mTlN3TTRwdVBSelppb2drekJUMmctVEd6MU5WYzZnbDE0S0JESmlwMWhzd0h5WE51U0pSZS1kdXhjSTFrNExwb0xLSlo?oc=5\" target=\"_blank\">Albertsons Names Andrew Murray CFO</a>&n",
+  "date": "2026-11-10T22:24:00.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "b811ce8f5eb0fb58",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "OpenAI CFO Sarah Friar says China’s lead in model pricing is 'one of the myths of 2026' - Yahoo! Finance Canada",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEpoLU0yWWRVYnlUYVhIaG9xX0JTaThWRUhBdVhzd3hzbGtieDVGd2ZoMGhZdEJTMTc4S1ZfSlB1NWZEa09Jaktzb0h5OVFyVW1ObGtYb0JlX3VvX2F3blhIcWstbk9OMTJGMGJFM2JFVC0xLTM0U1Z4c3NHa213a2JTdEdtZjF0WFFMaTlWVXdqMmowNE1wUmdicU5FakR0bUlGSFh1LXkwelZFVlB5ZzNhU3VhLUlWNW9VTGl5NUVsSnVic2M1T0E1bXVoQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxObEpoLU0yWWRVYnlUYVhIaG9xX0JTaThWRUhBdVhzd3hzbGtieDVGd2ZoMGhZdEJTMTc4S1ZfSlB1NWZEa09Jaktzb0h5OVFyVW1ObGtYb0JlX3VvX2F3blhIcWstbk9OMTJGMGJFM2JFVC0xLTM0U1Z4c3NHa213a2JTdEdtZjF0WFFMaTlWVXdqMmowNE1wUmdicU5FakR0bUlGSFh1LXkwel",
+  "date": "2026-11-10T22:23:30.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "df998a438a5871d4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Albertsons Cos. names Andrew Murray CFO - Mass Market Retailers",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lRVR5NHFtX2pmQWU2SS04S1J3ZUUtTXhhSHZqSU9PMC1iTXhkcVdpeVZMWTE2M0hTTENLbE5INWtjZGEtYkpONXBSbl9OU1plMDN3Q0hzdEd5d3RBaFUzcWM4OVUyOEhpZE5kYkdDYkpOeFhRQ3luMVFfMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1lRVR5NHFtX2pmQWU2SS04S1J3ZUUtTXhhSHZqSU9PMC1iTXhkcVdpeVZMWTE2M0hTTENLbE5INWtjZGEtYkpONXBSbl9OU1plMDN3Q0hzdEd5d3RBaFUzcWM4OVUyOEhpZE5kYkdDYkpOeFhRQ3luMVFfMA?oc=5\" target=\"_blank\">Albertsons Cos. names Andrew Murray CFO</",
+  "date": "2026-11-10T22:19:04.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "0ae7597ac238ce05",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Live Oak Acquisition Corp. VI Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing November 13, 2026 - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOTGtuWHdLQ0FwcDBLWW9SN3REbzgyVVc1THlHWjF4Xzg2b3VqcUlCWWNLVmVIdDRSSUNnUGVOcXNEMkNKTWVMdkdZQjkzWTZiaUZhcEdmVlZfVi1IQy1fZmhLcmtRZ0ozRkY0S0gxUGJkaFVJQzdjM3hYVGJLb0xEOW9FNE1yd25Fb3MxTXJWZWg2RXdCQlZBVXF3OUY1akVURkZGZzdVSzZBdC1hYnBZUWthQXRzclk0TmptTjg2cE9oRnNjQk9HeEV4X3JZek8wcm8zTmJ3VW9ESEpfNVpERW9mUTRKZEdhZk11ZzRpT2ZhcWFCMzBrQ3owc0JqZ2dJQXB5Y1p3ZXRFZU5tQlliVFhLb01FNi0yYjVJWGdWZkJMSEU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxOTGtuWHdLQ0FwcDBLWW9SN3REbzgyVVc1THlHWjF4Xzg2b3VqcUlCWWNLVmVIdDRSSUNnUGVOcXNEMkNKTWVMdkdZQjkzWTZiaUZhcEdmVlZfVi1IQy1fZmhLcmtRZ0ozRkY0S0gxUGJkaFVJQzdjM3hYVGJLb0xEOW9FNE1yd25Fb3MxTXJWZWg2RXdCQlZBVXF3OUY1akVURkZGZzdVSzZBdC",
+  "date": "2026-11-10T22:17:38.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "882edaffbcbcb08a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Braemar Hotels & Resorts Announces $358 Million Refinancing Of Four Hotels - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdUdIMjc1bUxjWEt0NXdYOXNrUmVNT2IwMWxERWlnUXh4by1kVDZuTDhpR2d4Y2Nfa21NTUI2XzZlMUZ3NktrZkw5c3FNWDRJajRYQWZQc0Uxb1RlSmI4YV80U21ObTYzNXkxWnNGRmxiMXhhbFItWi1BZ3hGQzNjMzQ1a0tWUlNINUxEUjdhdlNGazYtcmUyUDh2djBVb1U1ZGpFWVpEQzBEazdKOEVZemp3NmpUM0MwVXJFMVExTER4dGFKcTh5MnJINS1mVGJqdlJxdTZzNTE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdUdIMjc1bUxjWEt0NXdYOXNrUmVNT2IwMWxERWlnUXh4by1kVDZuTDhpR2d4Y2Nfa21NTUI2XzZlMUZ3NktrZkw5c3FNWDRJajRYQWZQc0Uxb1RlSmI4YV80U21ObTYzNXkxWnNGRmxiMXhhbFItWi1BZ3hGQzNjMzQ1a0tWUlNINUxEUjdhdlNGazYtcmUyUDh2djBVb1U1ZGpFWVpEQzBEaz",
+  "date": "2026-11-10T22:12:44.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "5621c1834f6f6f57",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Albertsons taps outsider Andrew Murray as CFO amid business review - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ01VVlZzbWZvU2dMd0VfeEtsNG1Ickd1ZFBhVW9aVVQ1eElIWFZ0YmpCaWR0UUVSdTVTQm9qay12M2x0VHlHaG9kN1ExMmhmLWRNN1k2UUdqVTRWVzJTM0NpMTRlaXplc1JuckZOeGQzY2gwSFg4bW1CamJjNzFfTEM0WVNyT29jRXNVclVfZDZWUEZwU1NING8xeVFZVUpwTENmbkZWUjFSczNG?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ01VVlZzbWZvU2dMd0VfeEtsNG1Ickd1ZFBhVW9aVVQ1eElIWFZ0YmpCaWR0UUVSdTVTQm9qay12M2x0VHlHaG9kN1ExMmhmLWRNN1k2UUdqVTRWVzJTM0NpMTRlaXplc1JuckZOeGQzY2gwSFg4bW1CamJjNzFfTEM0WVNyT29jRXNVclVfZDZWUEZwU1NING8xeVFZVUpwTENmbkZWUjFScz",
+  "date": "2026-11-10T22:12:41.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "90da0199056f23d4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Oracle CFO praises Nvidia, says it remains a great partner - Fox Business",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NHJmNUw4aXBMSXR4aDQ4R0NFVlVSbnhWeEg5RnF3LTVPMVh4MVlQUi1La2JQWXowVW52UGoyNk95SE84N3lIU21laWZmZU1oQ3lzS05tX2FEUlU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NHJmNUw4aXBMSXR4aDQ4R0NFVlVSbnhWeEg5RnF3LTVPMVh4MVlQUi1La2JQWXowVW52UGoyNk95SE84N3lIU21laWZmZU1oQ3lzS05tX2FEUlU?oc=5\" target=\"_blank\">Oracle CFO praises Nvidia, says it remains a great partner</a>&nbsp;&nbsp;<font colo",
+  "date": "2026-11-10T22:07:56.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "b46b0c1eb7f8b88d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model - USNI News",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWpRQTV4VWJRZlNIUVFHVFhVZ1Z3TUd1azJTYVRkUnRYQm95SUcyWU9tQ3EtWXV4aTFfeXVkeHhoQWxHS05VUzRmQWFCU2RqMlpGMmNqVDRiNC1VckJMMk9qeXhjVDR2UFY0bG1WVFYtVElQZ1VYbkdFZnpFNkVCZ1E4a1BHbE55cUViZl8zck1ORmVTVXU2QW1ETEthZjk1MUpjZlRqM25FdG5o?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWpRQTV4VWJRZlNIUVFHVFhVZ1Z3TUd1azJTYVRkUnRYQm95SUcyWU9tQ3EtWXV4aTFfeXVkeHhoQWxHS05VUzRmQWFCU2RqMlpGMmNqVDRiNC1VckJMMk9qeXhjVDR2UFY0bG1WVFYtVElQZ1VYbkdFZnpFNkVCZ1E4a1BHbE55cUViZl8zck1ORmVTVXU2QW1ETEthZjk1MUpjZlRqM25FdG",
+  "date": "2026-11-10T22:07:00.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
   "id": "f1337bd9634ff424",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -31,6 +185,61 @@
   "date": "2026-11-10T22:00:56.000Z",
   "fetched": "2026-11-10T22:03:12.636Z",
   "fromCloud": "2026-11-10T2203.json"
+ },
+ {
+  "id": "c25e7c0e4691a96a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Braemar Hotels closes $358M refinancing for four properties - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXNyZEljeHdvZ29uenczbS1RcnRTUFpWaGpqb3ZYRTNZLXdvd1ZWTGVFTFZhTlZqR09aMmJ2VkxkbVZEN25oanZwU2dvaGFkYkRZVmN3TFl4WVRGYTV1U1k5dXhGamRwVWxtU0NzNWFPMFZCQVREV0pjZWE0X2w1X1ZKTWN1cGEwZW00VEJESEhwY1lrZWN6ZHA0c05OUFdHQWlvbEpXalNVWTB4bHpLSEk0SG9rZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXNyZEljeHdvZ29uenczbS1RcnRTUFpWaGpqb3ZYRTNZLXdvd1ZWTGVFTFZhTlZqR09aMmJ2VkxkbVZEN25oanZwU2dvaGFkYkRZVmN3TFl4WVRGYTV1U1k5dXhGamRwVWxtU0NzNWFPMFZCQVREV0pjZWE0X2w1X1ZKTWN1cGEwZW00VEJESEhwY1lrZWN6ZHA0c05OUFdHQWlvbEpXalNVWT",
+  "date": "2026-11-10T22:00:18.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "98e0ab77ebb5b426",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "\"בלאק פריידיי\" גם בדיור: הקיפאון במכירות הוביל למבצעים חריגים של הקבלנים",
+  "link": "https://www.ynet.co.il/economy/article/yokra14954415",
+  "summary": "כמחצית מהעסקאות של מכירת דירות חדשות הן כיום בהנחות והטבות מימון, שמסתירות מציאות לא פשוטה בשוק הנדל\"ן, וחלק מהחברות מציעות תנאים שלא נראו בעבר. אבל האם המבצעים האלו מביאים בשורה אמיתית לרוכשים וליזמים?",
+  "date": "2026-11-10T22:00:00.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "2c60185da01a467b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "עוסק או חברה בע״מ: עד רווח של כ-590 אלף שקל בשנה העוסק משאיר יותר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2NzZBUWFSa2RoM25KaE5MYnAzME1QV3BXZ21iWHphUkQ0UWVaYVdkdWUwOC1yVjhaVHBYaHpVSDgtZ09aRHNFTTJRSHpvZWV0Qnh4MENxMi0yTTVMQnpCLUthU1pJV2FuS0FGMkpn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFA2NzZBUWFSa2RoM25KaE5MYnAzME1QV3BXZ21iWHphUkQ0UWVaYVdkdWUwOC1yVjhaVHBYaHpVSDgtZ09aRHNFTTJRSHpvZWV0Qnh4MENxMi0yTTVMQnpCLUthU1pJV2FuS0FGMkpn?oc=5\" target=\"_blank\">עוסק או חברה בע״מ: עד רווח של כ-590 אלף שקל בשנה העוסק משאי",
+  "date": "2026-11-10T22:00:00.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "98a683a1573c485a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Vanta Holdings Inc. (VNTA) Appoints David Goertz as CFO and Corporate Secretary - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczgybGZqc1F4RkVXaFBUcUVSNXJFUEZFSU9CUEZEQXpiRHE4bHpHR19jazMtZzNuR3luOUdhZVNyblV1dU1iTU1nUVZ4LWRlODhIT0pVTkFnOGkwUHJ5LXFJbGxFTVN6WXdvbHduVlVLQ3dpQWF2Uk9GUXVBWEZmS0FZeHlxMUpnTHY0a3ZiMlRxbVpLOTJZN1lkdVZRTVRjMkxQdFZPeF9COWZ1aE9hMkd2NGxxVFZoWndIN1ZMV29CWXlHUE5JbFZBY2RXQjFveE1uRQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczgybGZqc1F4RkVXaFBUcUVSNXJFUEZFSU9CUEZEQXpiRHE4bHpHR19jazMtZzNuR3luOUdhZVNyblV1dU1iTU1nUVZ4LWRlODhIT0pVTkFnOGkwUHJ5LXFJbGxFTVN6WXdvbHduVlVLQ3dpQWF2Uk9GUXVBWEZmS0FZeHlxMUpnTHY0a3ZiMlRxbVpLOTJZN1lkdVZRTVRjMkxQdFZPeF9COW",
+  "date": "2026-11-10T22:00:00.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "bd0013085b7451b2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Battery X Metals Inc. (BATX) Appoints CFO; Predecessor Resigns From Board - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQjNaYVp4WXhhbUNiRlF4RUJHRTZfczNHTkdpbW9kck9lZEpmSHVKUVV3ZUZrRG9ONGlLZjBtemxPRlE0UnE4TEoycnFaNTFNYWlpdG9rTTQxVHdVTkFuQzlBNlhsTWxlVHJiYUdqMldvd1FGWWZvT1hqcmNEclNUT0xIRjdZM2cwd3NGT3VkdUdQRGdGTVM5SHp3VVBMMmFxblFIRkItLW8zeTcyTzZYLUh6UkVNSTA4d19lNUhqUnRWOWg1OU1Fd1R5M1hnX3ZSY2d5OWlvYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQjNaYVp4WXhhbUNiRlF4RUJHRTZfczNHTkdpbW9kck9lZEpmSHVKUVV3ZUZrRG9ONGlLZjBtemxPRlE0UnE4TEoycnFaNTFNYWlpdG9rTTQxVHdVTkFuQzlBNlhsTWxlVHJiYUdqMldvd1FGWWZvT1hqcmNEclNUT0xIRjdZM2cwd3NGT3VkdUdQRGdGTVM5SHp3VVBMMmFxblFIRkItLW8zeT",
+  "date": "2026-11-10T22:00:00.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
  },
  {
   "id": "859c565c32a309f8",
@@ -110,6 +319,28 @@
   "fromCloud": "2026-11-10T2203.json"
  },
  {
+  "id": "486133cc9aac3086",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "OpenAI CFO: Q3 was a ‘blockbuster quarter,’ as revenue jumped 50% - Yahoo Finance Singapore",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0V0QlVsLTl3UTI0TEo1Nk8zMXo5anFyMlFsaWQtU0gzX2pqWGNjNE1BV2pwMDFYTVlRV3Q2NzRHTEFHR1lCQ0NGZmZOQVNWR294eFUxT3hNbHRIUXZ5RUdYQ3lYei13S2VfS0tWUlMxNGY5Z3o4Nl8xWlAxLUk1ZTNBc0JZVFl6cEZDank1UFlaSnhXQkN4MURaejI5dDE0MEp3V2hpeWtNX2NEMUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0V0QlVsLTl3UTI0TEo1Nk8zMXo5anFyMlFsaWQtU0gzX2pqWGNjNE1BV2pwMDFYTVlRV3Q2NzRHTEFHR1lCQ0NGZmZOQVNWR294eFUxT3hNbHRIUXZ5RUdYQ3lYei13S2VfS0tWUlMxNGY5Z3o4Nl8xWlAxLUk1ZTNBc0JZVFl6cEZDank1UFlaSnhXQkN4MURaejI5dDE0MEp3V2hpeWtNX2",
+  "date": "2026-11-10T21:52:23.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
+  "id": "d104d8b63bbf8094",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "FedEx Interim CFO & Interim CAO Sold Shares Worth Over $5.3M - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNem9aUFhocWZua1k1c19PcFVEYkN1S09IWThBY1pqQWF1OWRDNzNuZlE2QkxHT2RfeWRKekFtcldHOUxMUUUwalk3b0U2SVJZNEtCMmdSQnhrSnZYNkNjZi1zS0ZncU5JbW9JN0VWRU81d09HX3FLckc5TXc3cUhvc2pXYjNIc2pCUUNFUVRrdHVIMjR3R1FMb1ZTNXVJdFZQaUU2SHdDR1ZQVVR2TzBuM0hmUnZ0eE9obU1n?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNem9aUFhocWZua1k1c19PcFVEYkN1S09IWThBY1pqQWF1OWRDNzNuZlE2QkxHT2RfeWRKekFtcldHOUxMUUUwalk3b0U2SVJZNEtCMmdSQnhrSnZYNkNjZi1zS0ZncU5JbW9JN0VWRU81d09HX3FLckc5TXc3cUhvc2pXYjNIc2pCUUNFUVRrdHVIMjR3R1FMb1ZTNXVJdFZQaUU2SHdDR1ZQVV",
+  "date": "2026-11-10T21:50:01.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
+ },
+ {
   "id": "e57f9b6c01db9d39",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -119,6 +350,17 @@
   "date": "2026-11-10T21:49:44.000Z",
   "fetched": "2026-11-10T22:03:12.636Z",
   "fromCloud": "2026-11-10T2203.json"
+ },
+ {
+  "id": "e510e0b010938837",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "StubHub appoints new CFO - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWhBVVg4WlpkOEU1TWVyd2loU3JOb01IYmg1TzRMLUFYQ1RnbWlEZlJpMk5ZUkJUY3lZZzZpQ2hpbC1DcnB2QXZEdjlwQjFpVS1NS2FZZENTaWZiOWlTREwzY2M1Tk9zWHFlZXlhTHdxREpYdzJtbDZFb1ZhZmtLQjBWUkkweFM3M3NfX193UjE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWhBVVg4WlpkOEU1TWVyd2loU3JOb01IYmg1TzRMLUFYQ1RnbWlEZlJpMk5ZUkJUY3lZZzZpQ2hpbC1DcnB2QXZEdjlwQjFpVS1NS2FZZENTaWZiOWlTREwzY2M1Tk9zWHFlZXlhTHdxREpYdzJtbDZFb1ZhZmtLQjBWUkkweFM3M3NfX193UjE?oc=5\" target=\"_blank\">StubHub appo",
+  "date": "2026-11-10T21:35:59.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
  },
  {
   "id": "fb1b7df47e1a2575",
@@ -284,6 +526,17 @@
   "date": "2026-11-10T21:30:15.000Z",
   "fetched": "2026-11-10T21:33:13.128Z",
   "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "9416460178c850e9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Albertsons® Companies appoints Andrew Murray CFO - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnlUOC0xWGlCWDJMZEp1SDlST0E4QVNtQ0VQYjZfZVFRcGlJcEN1OFJvcjJwTFdzRVFpWGNHTk80S0J1QkRvX1F0aFhJYzZNcmtyNVBjZjZ3Z1ZPUWpDQXBpQjYySmZjbGVvSDBsRWdzcGFHQWxFU0FSdndpR3RtejZ1UWVqXzA5NlVPY254dVBNWUI1MERBM2had1MyVHJXRUtWdkNvdUR5bUp5Tlg0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnlUOC0xWGlCWDJMZEp1SDlST0E4QVNtQ0VQYjZfZVFRcGlJcEN1OFJvcjJwTFdzRVFpWGNHTk80S0J1QkRvX1F0aFhJYzZNcmtyNVBjZjZ3Z1ZPUWpDQXBpQjYySmZjbGVvSDBsRWdzcGFHQWxFU0FSdndpR3RtejZ1UWVqXzA5NlVPY254dVBNWUI1MERBM2had1MyVHJXRUtWdkNvdUR5bU",
+  "date": "2026-11-10T21:30:07.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
  },
  {
   "id": "cf4401b30f80c42c",
@@ -537,6 +790,17 @@
   "date": "2026-11-10T20:30:00.000Z",
   "fetched": "2026-11-10T20:33:12.236Z",
   "fromCloud": "2026-11-10T2033.json"
+ },
+ {
+  "id": "dd16101479731ab4",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "דחייה של 5 שנים בחיסכון של 1,000 שקל בחודש עולה כ-290 אלף שקל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51S3o0X2tqYlc5Mm1NYmRuMXp2LTBlVGF5WHVqUUZCdHhRekxpb1NNcXQ4X3M0bURNZzRZRXpxUWJIZnptSlFRVkphQmlFMFlRU3k4TGItTHBKbTlMVnEtMnBWNE0tRnBmN3FsZ0FB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE51S3o0X2tqYlc5Mm1NYmRuMXp2LTBlVGF5WHVqUUZCdHhRekxpb1NNcXQ4X3M0bURNZzRZRXpxUWJIZnptSlFRVkphQmlFMFlRU3k4TGItTHBKbTlMVnEtMnBWNE0tRnBmN3FsZ0FB?oc=5\" target=\"_blank\">דחייה של 5 שנים בחיסכון של 1,000 שקל בחודש עולה כ-290 אלף ש",
+  "date": "2026-11-10T20:30:00.000Z",
+  "fetched": "2026-11-10T22:33:13.007Z",
+  "fromCloud": "2026-11-10T2233.json"
  },
  {
   "id": "2a2ccc8bfcb6a8db",
