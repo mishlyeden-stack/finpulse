@@ -1,18 +1,18 @@
 {
  "globes.co.il": {
-  "ok": 162,
+  "ok": 164,
   "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 127
+  "blocked": 128
  },
  "en.globes.co.il": {
   "ok": 34,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 179,
+  "ok": 180,
   "blocked": 9
  },
  "news.google.com": {
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 89
+  "blocked": 90
  },
  "ecb.europa.eu": {
   "ok": 5,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 31,
+  "ok": 32,
   "blocked": 0
  },
  "securityweek.com": {
@@ -69,7 +69,7 @@
  },
  "funder.co.il": {
   "ok": 0,
-  "blocked": 13
+  "blocked": 15
  },
  "calcalistech.com": {
   "ok": 51,
@@ -630,5 +630,9 @@
  "qz.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "nadlan.walla.co.il": {
+  "ok": 1,
+  "blocked": 0
  }
 }
