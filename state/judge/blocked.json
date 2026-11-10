@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 128
+  "blocked": 129
  },
  "en.globes.co.il": {
   "ok": 34,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 100
+  "blocked": 101
  },
  "13tv.co.il": {
   "ok": 0,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 46,
+  "ok": 47,
   "blocked": 0
  },
  "ice.co.il": {
