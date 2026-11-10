@@ -1,5 +1,49 @@
 [
  {
+  "id": "12c7b66271f9c090",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Japan can tell the world what really matters when prepping",
+  "link": "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1",
+  "summary": "Telling people to stock up is one thing but the Japanese know that building a stockpile of civil credibility requires greater effort",
+  "date": "2026-11-10T00:47:30.000Z",
+  "fetched": "2026-11-10T01:03:11.469Z",
+  "fromCloud": "2026-11-10T0103.json"
+ },
+ {
+  "id": "fad00be7393ef4a8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Trillions in Debt Meet High-Interest Refinancing! Is AI Infrastructure About to Face an “Interest Rate Shockwave”? - Moomoo",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFdJeHVqRXIzeHFZOXFBVEFsNXRka0pVSGNiVWNGQlgxM1pnZmNMX1FxMm52a2kxVVNMME9JWVlpQjZZUFF5S1pJSkhQbHJETmpmREE4ZlJlcDNwU2JJRjJIYzBZQzJfZ053aW54S0J5NV8zY0lZMFViZ2w2VDhjek8zbnkwMkcxV3lRa1p4bEdwQThYQkdCbEN3Q1BDb01EWVltc3RmeWhlN1hLQWx1bXhEOA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFdJeHVqRXIzeHFZOXFBVEFsNXRka0pVSGNiVWNGQlgxM1pnZmNMX1FxMm52a2kxVVNMME9JWVlpQjZZUFF5S1pJSkhQbHJETmpmREE4ZlJlcDNwU2JJRjJIYzBZQzJfZ053aW54S0J5NV8zY0lZMFViZ2w2VDhjek8zbnkwMkcxV3lRa1p4bEdwQThYQkdCbEN3Q1BDb01EWVltc3RmeWhlN1",
+  "date": "2026-11-10T00:37:26.000Z",
+  "fetched": "2026-11-10T01:03:11.469Z",
+  "fromCloud": "2026-11-10T0103.json"
+ },
+ {
+  "id": "1d4bb46959fa42e7",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "ExxonMobil explores return to Venezuela after calling nation ‘uninvestable’",
+  "link": "https://www.ft.com/content/cd3b2969-9c58-404a-a80a-c823754899ef?syn-25a6b1a6=1",
+  "summary": "US oil major says it has signed a memorandum of understanding with Caracas",
+  "date": "2026-11-10T00:34:45.000Z",
+  "fetched": "2026-11-10T01:03:11.469Z",
+  "fromCloud": "2026-11-10T0103.json"
+ },
+ {
+  "id": "f1bef0a6af3ea328",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Ecopetrol refinances acquisition debt - LatinFinance",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbV85aHZoZVBJSFFBUHB0ak1UTnkySTBvaXpKUnJTV3RsaG9sNmYyWGdqLWFsY0U2RG1sdXpyS280azA0aXFWcVhlM0NISFB5ZHQxMXgtN0RlclRpREphQl9JYngtNXBvMFFnRHdDVzdxX0hkTUVfMDFLa29wR0t0UDlQSFJvUE5pMlZsX2lnQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbV85aHZoZVBJSFFBUHB0ak1UTnkySTBvaXpKUnJTV3RsaG9sNmYyWGdqLWFsY0U2RG1sdXpyS280azA0aXFWcVhlM0NISFB5ZHQxMXgtN0RlclRpREphQl9JYngtNXBvMFFnRHdDVzdxX0hkTUVfMDFLa29wR0t0UDlQSFJvUE5pMlZsX2lnQQ?oc=5\" target=\"_blank\">Ecopetrol ref",
+  "date": "2026-11-10T00:29:27.000Z",
+  "fetched": "2026-11-10T01:03:11.469Z",
+  "fromCloud": "2026-11-10T0103.json"
+ },
+ {
   "id": "92667ced437bb515",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -77,6 +121,17 @@
   "fromCloud": "2026-11-10T0003.json"
  },
  {
+  "id": "2f03db4b2846d86b",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Trump’s Board of Peace warns of ‘immediate humanitarian emergency’ in Gaza",
+  "link": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9?syn-25a6b1a6=1",
+  "summary": "The organisation says flooding has left Palestinians in unsafe conditions, with Israel allowing insufficient aid into the territory",
+  "date": "2026-11-09T23:51:16.000Z",
+  "fetched": "2026-11-10T01:03:11.469Z",
+  "fromCloud": "2026-11-10T0103.json"
+ },
+ {
   "id": "6e4450de8ebb2b11",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -86,6 +141,17 @@
   "date": "2026-11-09T23:26:20.000Z",
   "fetched": "2026-11-09T23:33:12.211Z",
   "fromCloud": "2026-11-09T2333.json"
+ },
+ {
+  "id": "8a79a8620037cca9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "JBS Enters Personal Care Market With Flora Acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWFDM0tnQjYteThXZUZ5NHhSWWtfck96VFhWczAxbXdTeDg3UGkzMUk0TmhNXzFVaXlVc0Q2cEtSalNKNzVXQk9Gb3h2TGhMejAtVlh5MjgycWdHY2tMUUdUSmdHV3hsNmY5ZzNNbmltZXhOYzBnSDJVX1RaMnM5R3oyMXJuOEJ0My1oQ0FlOFM0cF91SExQcXBnWHdjd25OemMtaHpIY2RFei04TmxGOFotMmFrUDhLdVhSdGRaUjJoUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWFDM0tnQjYteThXZUZ5NHhSWWtfck96VFhWczAxbXdTeDg3UGkzMUk0TmhNXzFVaXlVc0Q2cEtSalNKNzVXQk9Gb3h2TGhMejAtVlh5MjgycWdHY2tMUUdUSmdHV3hsNmY5ZzNNbmltZXhOYzBnSDJVX1RaMnM5R3oyMXJuOEJ0My1oQ0FlOFM0cF91SExQcXBnWHdjd25OemMtaHpIY2RFei",
+  "date": "2026-11-09T23:25:30.000Z",
+  "fetched": "2026-11-10T01:03:11.469Z",
+  "fromCloud": "2026-11-10T0103.json"
  },
  {
   "id": "900a410ffcfc6fb8",
@@ -108,6 +174,17 @@
   "date": "2026-11-09T23:06:32.000Z",
   "fetched": "2026-11-09T23:33:12.211Z",
   "fromCloud": "2026-11-09T2333.json"
+ },
+ {
+  "id": "fcf1bf68ca20f731",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Morita Holdings Corp - Notice Regarding Acquisition Of Equity Interests In Magirus GmbH (Making It A Subsidiary) - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQM0tuTnd5X29PenRBeDZONDJYYm5mWFdHT2FFQW5rTmh6VnFpcF9PS1FaRXUzQXQ4cXJpUElNZFNvY2c1XzFDZEU1X0ZNVjhXUHpVU0x3RTZtZWhxcld3N0drdXE3amp5em1hSDhjMUQzX1lWSnlkT1VlVzY1eEt6b0t2NE9JMWMySUoyWXktWV9jZW1OR25nVVg1WlBYYnVXNVBId21pZHVOVG4tckFoMW5mclAybXB5dlN0MVBFSWdzMXp3bW5EQUowVkdNSGRhRXRqVDZlRHc2RE52VnI2MUdSMGlYQTRlMWw3YTVRR1YzOHlMNzlxTHNwQ29fNUlRWVg0Vk43LWJDZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQM0tuTnd5X29PenRBeDZONDJYYm5mWFdHT2FFQW5rTmh6VnFpcF9PS1FaRXUzQXQ4cXJpUElNZFNvY2c1XzFDZEU1X0ZNVjhXUHpVU0x3RTZtZWhxcld3N0drdXE3amp5em1hSDhjMUQzX1lWSnlkT1VlVzY1eEt6b0t2NE9JMWMySUoyWXktWV9jZW1OR25nVVg1WlBYYnVXNVBId21pZHVOVG",
+  "date": "2026-11-09T23:02:48.000Z",
+  "fetched": "2026-11-10T01:03:11.469Z",
+  "fromCloud": "2026-11-10T0103.json"
  },
  {
   "id": "6cc89e92f2527eab",
@@ -4389,6 +4466,17 @@
   "fromCloud": "2026-11-09T2053.json"
  },
  {
+  "id": "8ca7eca97b746956",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Newmark Arranges Refinancing for The Clark, a 170-Unit Class A Multifamily Property in Brooklyn - Newmark",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOEpXRTJjWFlSal8yM2ltZ25VanA2Skt5X0NEdFhTaU5nekc5RzFYZDg0eWVZYlR6dGRPYTk0OENhVkxCdUozX3hzY0RvZHJEWkNmcXJ0ZjYzYTlrSU5USFhGRGhRci02VzNzTkJvT193RU5jb2J1WFVKQ25CQ0NLVmNFRF9oVDFGVk4zY0cwNkdOMmdUNTRIc3JwTFZPblYtTWp2SHVfYUJrVjdwcmdOUEV3UFM5dThEYmlMSW1HLXZKbVRFZUM2aDFaWFp4S0FHeVhsNDZB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOEpXRTJjWFlSal8yM2ltZ25VanA2Skt5X0NEdFhTaU5nekc5RzFYZDg0eWVZYlR6dGRPYTk0OENhVkxCdUozX3hzY0RvZHJEWkNmcXJ0ZjYzYTlrSU5USFhGRGhRci02VzNzTkJvT193RU5jb2J1WFVKQ25CQ0NLVmNFRF9oVDFGVk4zY0cwNkdOMmdUNTRIc3JwTFZPblYtTWp2SHVfYUJrVj",
+  "date": "2026-11-09T14:00:00.000Z",
+  "fetched": "2026-11-10T01:03:11.469Z",
+  "fromCloud": "2026-11-10T0103.json"
+ },
+ {
   "id": "8f5d9bca4955cb6d",
   "source": "ynet כלכלה",
   "group": "israel-press",
@@ -4596,16 +4684,5 @@
   "date": "2026-11-09T05:30:18.000Z",
   "fetched": "2026-11-09T17:03:15.427Z",
   "fromCloud": "2026-11-09T1703.json"
- },
- {
-  "id": "35391abe5f29012f",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "בבורסה מסכמים שנה של עליות חדות, במיוחד בחברות הביטוח - אתר החדשות דבר",
-  "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE11TGFQVmU4YlRCRUxYSmJnZlR2UGpqb2VtdUhFSkRGclAzMmFzdkthdlZfbU5KUzJZT3hlUG5IcGk4TEQ3eE0w?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE11TGFQVmU4YlRCRUxYSmJnZlR2UGpqb2VtdUhFSkRGclAzMmFzdkthdlZfbU5KUzJZT3hlUG5IcGk4TEQ3eE0w?oc=5\" target=\"_blank\">בבורסה מסכמים שנה של עליות חדות, במיוחד בחברות הביטוח</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אתר החדשות דבר</font",
-  "date": "2026-11-09T00:45:20.000Z",
-  "fetched": "2026-11-09T17:33:13.868Z",
-  "fromCloud": "2026-11-09T1733.json"
  }
 ]
