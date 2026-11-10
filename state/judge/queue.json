@@ -1,5 +1,269 @@
 [
  {
+  "id": "22ff3cc7b48f2a57",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CNL Strategic Capital, LLC (0001684682) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1684682/000199937126025086/0001999371-26-025086-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001999371-26-025086 <b>Size:</b> 638 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T21:31:24.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "72eca7e9b0e7f45e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BRAEMAR HOTELS & RESORTS ANNOUNCES $358 MILLION REFINANCING OF FOUR... - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzVkYVAxYkdZTEJEa09iY0xuTlZqemhCUFdDM1pkVzhGMkR1cGt2MzdqU1lNVG4xQkR1RmZrNXpyaXAyVUpLYWU2aVlHR1JxSV9VdDE0aXc0OGtKSFNvRFZ6V2V0Y3FoN2o2OWotYVhNeTdvSVk0UEs4X010LXp3VnlUV0RRNXJlRTFBZmlzcFFOZFIteC05TTdHTHpzODhRV21lcmdXb01BUkUzNFpqZzItTWk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzVkYVAxYkdZTEJEa09iY0xuTlZqemhCUFdDM1pkVzhGMkR1cGt2MzdqU1lNVG4xQkR1RmZrNXpyaXAyVUpLYWU2aVlHR1JxSV9VdDE0aXc0OGtKSFNvRFZ6V2V0Y3FoN2o2OWotYVhNeTdvSVk0UEs4X010LXp3VnlUV0RRNXJlRTFBZmlzcFFOZFIteC05TTdHTHpzODhRV21lcmdXb01BUk",
+  "date": "2026-11-10T21:31:16.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "4da6021785ca60ee",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ASHFORD HOSPITALITY TRUST INC (0001232582) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1232582/000110465926125247/0001104659-26-125247-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001104659-26-125247 <b>Size:</b> 282 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-11-10T21:31:11.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "cad6591d2f540044",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Purdy grad joins CFO’s Ozarks Teacher Corps - Cassville Democrat",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkJJeTJqVUNTZk5aM0pibFJQajU2SzNWZVA1Q1VPTWNnUzV2dC1JWGZJUjZMaHBzOHI0YmRZWWViU2NRWXRmMEcyLWFuSUpueVlsVk1vTEJXRkh3T0dPUGFCMzcyYTBfR2xnaEhfUHN0TVRiMXNoTlBHLV9LWGd4bGNCbGI5dDlodUlFU1U0ak42TVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkJJeTJqVUNTZk5aM0pibFJQajU2SzNWZVA1Q1VPTWNnUzV2dC1JWGZJUjZMaHBzOHI0YmRZWWViU2NRWXRmMEcyLWFuSUpueVlsVk1vTEJXRkh3T0dPUGFCMzcyYTBfR2xnaEhfUHN0TVRiMXNoTlBHLV9LWGd4bGNCbGI5dDlodUlFU1U0ak42TVE?oc=5\" target=\"_blank\">Purdy gr",
+  "date": "2026-11-10T21:30:59.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "5a36bfa642d68af9",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Meridian Holdings Inc./NV (0001437925) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1437925/000147793226006816/0001477932-26-006816-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001477932-26-006816 <b>Size:</b> 5 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T21:30:51.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "85e04f3f8a91656b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Nordicus Partners Corp (0001011060) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1011060/000149315226050992/0001493152-26-050992-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001493152-26-050992 <b>Size:</b> 14 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 3.02:",
+  "date": "2026-11-10T21:30:51.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "fe7cc23a48475776",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - NORTH EUROPEAN OIL ROYALTY TRUST (0000072633) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/72633/000114036126043042/0001140361-26-043042-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001140361-26-043042 <b>Size:</b> 162 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T21:30:50.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "3ce553300b09e298",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K/A - Sino Green Land Corp. (0001433551) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1433551/000149315226050983/0001493152-26-050983-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001493152-26-050983 <b>Size:</b> 1 MB <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T21:30:41.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "e6bcd4188fdf5cfa",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1725430/000149315226050982/0001493152-26-050982-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001493152-26-050982 <b>Size:</b> 334 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T21:30:35.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "a2224f572475d8d5",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CHEESECAKE FACTORY INC (0000887596) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/887596/000110465926125244/0001104659-26-125244-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001104659-26-125244 <b>Size:</b> 187 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-11-10T21:30:29.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "3b20fed199c62654",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Elevance Health, Inc. (0001156039) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000074/0001156039-26-000074-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001156039-26-000074 <b>Size:</b> 175 KB <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-11-10T21:30:20.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "3bbd5aa1c2e9c023",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K/A - Alzamend Neuro, Inc. (0001677077) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1677077/000121465926013930/0001214659-26-013930-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001214659-26-013930 <b>Size:</b> 921 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year",
+  "date": "2026-11-10T21:30:18.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "59c92bf176008876",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Energy Vault Holdings, Inc. (0001828536) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000116/0001828536-26-000116-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-10 <b>AccNo:</b> 0001828536-26-000116 <b>Size:</b> 605 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-10T21:30:15.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "7b3a250ddffcbd28",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "The refinancing squeeze may be spreading to multifamily properties - Scotsman Guide",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmhCZDlLQmgzNl9Rd2VhT1k1ZlprYnRoenNFd3VYNUdqLU5VTUpLUGdPNHB2SWRFdnZTdEg5OE9vOFh0OElsMldiRkhLYUhPYzlOYzZQTjltS3J4ZU0xNVk0V1hsMlVvVzI2UWFvbG1qby0wNFlfQUhKV1Z2dDQ0Y1cxaE1KaGtzYnJNaWRaaTVGM3ZoLWJRYVYycU1pMDQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmhCZDlLQmgzNl9Rd2VhT1k1ZlprYnRoenNFd3VYNUdqLU5VTUpLUGdPNHB2SWRFdnZTdEg5OE9vOFh0OElsMldiRkhLYUhPYzlOYzZQTjltS3J4ZU0xNVk0V1hsMlVvVzI2UWFvbG1qby0wNFlfQUhKV1Z2dDQ0Y1cxaE1KaGtzYnJNaWRaaTVGM3ZoLWJRYVYycU1pMDQ?oc=5\" target=\"",
+  "date": "2026-11-10T21:29:07.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "fd427b0a31505ad1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Why CFOs should prepare for high SPAC redemptions - CFO Brew",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGl4bEJYQzdpMWJodmpDaWVUSmRZT09CaHlMQnF0aTdoNzNCNnVFR3VhY1RuNU5XT0UtbDBLdHpERld1NDhqWi1QRmtTamZPbjRVX3NkdEpCUVFXeVBQZnV1ZldDWE12N09ZTS1oUkszb2hrbW02VWxzSHpxOE9aVkdoRUg5YS11?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGl4bEJYQzdpMWJodmpDaWVUSmRZT09CaHlMQnF0aTdoNzNCNnVFR3VhY1RuNU5XT0UtbDBLdHpERld1NDhqWi1QRmtTamZPbjRVX3NkdEpCUVFXeVBQZnV1ZldDWE12N09ZTS1oUkszb2hrbW02VWxzSHpxOE9aVkdoRUg5YS11?oc=5\" target=\"_blank\">Why CFOs should prepare",
+  "date": "2026-11-10T21:27:57.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "cbce0c36ddc5961c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bluepeak completes acquisition of Oklahoma-based ISP - Broadband Communities",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sRG02bXptbTQxbjJrUTh1a1RnM1U3NHdKd0R3T3NqaEo3WTlGZTlwYnFTSlRiMEczckZacDFNRW9KeHFFc2pEQVR6X19Vc3ZkR3JjOVphemtUZWFiR0N6emxHcGdqMlczUVVWeTA3ZS1mTG1UbVpTOE1KTEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5sRG02bXptbTQxbjJrUTh1a1RnM1U3NHdKd0R3T3NqaEo3WTlGZTlwYnFTSlRiMEczckZacDFNRW9KeHFFc2pEQVR6X19Vc3ZkR3JjOVphemtUZWFiR0N6emxHcGdqMlczUVVWeTA3ZS1mTG1UbVpTOE1KTEE?oc=5\" target=\"_blank\">Bluepeak completes acquisition of Oklaho",
+  "date": "2026-11-10T21:22:55.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "d5d552974a848276",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+  "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+  "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
+  "date": "2026-11-10T21:22:44.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "0b30439e4dc79333",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Destiny mall mortgage balance slashed from $300 m. to $15 m. to refinance and stay open - WSTM",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2dtQTY5eG1PQ0NacVhlU1pUYXZ1QzNPOEFCRDZGWmlsRGRQS3lYYkZoRFcwNjhLaktHYm9TaWEyVmZXWWpzcUw2ak84MmxRb1dtbmRjakk5TnpaY2o1bmd0cWtBdmFqTld4VTJOOTZWNUhwUWZNeExDc04wTkV1R2JETlF6dzNyQUNoSmwwNlZVYXFBNkJrQW12UFpUVnEySDNuYl92d0oyR1ZveERiOFN1VFNTSF9s?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2dtQTY5eG1PQ0NacVhlU1pUYXZ1QzNPOEFCRDZGWmlsRGRQS3lYYkZoRFcwNjhLaktHYm9TaWEyVmZXWWpzcUw2ak84MmxRb1dtbmRjakk5TnpaY2o1bmd0cWtBdmFqTld4VTJOOTZWNUhwUWZNeExDc04wTkV1R2JETlF6dzNyQUNoSmwwNlZVYXFBNkJrQW12UFpUVnEySDNuYl92d0oyR1",
+  "date": "2026-11-10T21:19:50.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "007c705453aa8438",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "NCMI: Captivate broadened the ad platform, while acquisition costs and debt weighed on Q3 results - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQakJoRE1QYzRzWVVxRGNzMDFfYjd0WHpTOU01RDBGNnJTNUtnMUhEMTFheGJVUDJwYkVWOHE4ZzdBVXc3TkV0a1k4bDAzVDg1Y1NvQ2NXMG1IeHJ1cmwxb3pJYmxIaVNZamVDYXlyQ21QSl9veEIxTTVzWGpKbkFqcDdBTjdJT0xjWjVlemxqajVIVHNaTlh4QldGekFkeE03NFFJWG1vc1hYd0VKckhqRlBvcnRKclpuN3kxMm9pQXFxTFFBMl84a0l2X0haUmh3NUxaRkNUTDBMMWxfS1JaOFZ1aHlTakZxM3ZBb0ZNelFzdGh1cjltcWZvVWdWUzlEd3ZzMjNSVW5LUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQakJoRE1QYzRzWVVxRGNzMDFfYjd0WHpTOU01RDBGNnJTNUtnMUhEMTFheGJVUDJwYkVWOHE4ZzdBVXc3TkV0a1k4bDAzVDg1Y1NvQ2NXMG1IeHJ1cmwxb3pJYmxIaVNZamVDYXlyQ21QSl9veEIxTTVzWGpKbkFqcDdBTjdJT0xjWjVlemxqajVIVHNaTlh4QldGekFkeE03NFFJWG1vc1hYd0",
+  "date": "2026-11-10T21:12:29.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "20afb01556039286",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BEEP: Higher parking revenue and NOI contrast with significant near-term refinancing needs - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOGV5LW15aV90Y2NOdW94ZGs1TmNSRTdVaFpScXlKeU11dHdhUXQ5U0xOMFlCV1hzanh0cFd4NWF1SVhwYlpsR3Y4X21hbTB6d2hwX0xKakxXSzNVeEJNdm1RRURCTnlqQ2ZPMTNwYjQtaWxkRk1OS0xkbk1IVUg3RFhNRXRpX3dSNV9EZW5GZlE2UmpHWVU5bnRSelp1THVlTVo4Tl9JaWYtUEhCZTdjWEV4SFpUN05UTkQ5ZFRnWW1ERVlIUC0zdXVybkZpektmMlNPWkNqU1BiaDBWa3k2ek5heUhrc1NucUZtTGVFZWJORW1pZHJuM09nbUNSWVRxWEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPOGV5LW15aV90Y2NOdW94ZGs1TmNSRTdVaFpScXlKeU11dHdhUXQ5U0xOMFlCV1hzanh0cFd4NWF1SVhwYlpsR3Y4X21hbTB6d2hwX0xKakxXSzNVeEJNdm1RRURCTnlqQ2ZPMTNwYjQtaWxkRk1OS0xkbk1IVUg3RFhNRXRpX3dSNV9EZW5GZlE2UmpHWVU5bnRSelp1THVlTVo4Tl9JaWYtUE",
+  "date": "2026-11-10T21:11:43.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "3dd080b48bddebda",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "STXS: Revenue grew 20%, but supply constraints and acquisition costs weighed on results - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLXR1WVMzeEpvTGx0TzZmbE9tS05xd0xuUi1aVUtsSGJ2S0E0aFhObWc4RDBQU3JGNVR5d3RjVXlBQXgxRUx4MC11d0Q0Rm5SeVRpcDBVQ0lHMENXQnprbGs2a3hXTHRtQ3FFd3lDaTlEM0ZMS2VUZ3p3ODNZV3lGSDU1dUNrV25rZ2JHRVhmSmNmOThSTEhYLTF2dzJhNEVDNkx0QjY3V1lnTnRMNzAyR2RHY2xkcW9iLUZnamxKMkEzakZ1TUp4ZlhxRTRoaDR6THlRQUhWOXQyTkd1cFd1alpHWS0zcWFUVkNGODFwclNCR1BfbG1wMTZZMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLXR1WVMzeEpvTGx0TzZmbE9tS05xd0xuUi1aVUtsSGJ2S0E0aFhObWc4RDBQU3JGNVR5d3RjVXlBQXgxRUx4MC11d0Q0Rm5SeVRpcDBVQ0lHMENXQnprbGs2a3hXTHRtQ3FFd3lDaTlEM0ZMS2VUZ3p3ODNZV3lGSDU1dUNrV25rZ2JHRVhmSmNmOThSTEhYLTF2dzJhNEVDNkx0QjY3V1lnTn",
+  "date": "2026-11-10T21:08:51.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "808f73a07b2ad109",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Strathcona’s $2B Greenfire Deal Leaves Few Oil Sands Targets Standing - Hart Energy",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDBncHRILXZld2w2VFdMUlB0M01kcERrZXFuY0JsVEtMTFhBTjVMMjNsaUlDUnVjYUZma3J6UU44d3lpQm83akF3QTlBaV9wZi1rbGZTdXlpbmg1QlVaODg1WmFzMW9lYkJQNlFNN0F3NUZ6UWhqUHI3SXUzX2lwSTZoSnYzUDI0dWR1Sk5QdERpQjNGVFNZN3hJQVhid3VTbENVdXpZaHNnUUFYdjdzaExDSUFKS2lKWmpuMlEtY2xWOGEwRkRFSnFn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDBncHRILXZld2w2VFdMUlB0M01kcERrZXFuY0JsVEtMTFhBTjVMMjNsaUlDUnVjYUZma3J6UU44d3lpQm83akF3QTlBaV9wZi1rbGZTdXlpbmg1QlVaODg1WmFzMW9lYkJQNlFNN0F3NUZ6UWhqUHI3SXUzX2lwSTZoSnYzUDI0dWR1Sk5QdERpQjNGVFNZN3hJQVhid3VTbENVdXpZaHNnUU",
+  "date": "2026-11-10T21:05:45.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "520db78b1d55fac8",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Republicans choose Jim Jordan as House minority leader",
+  "link": "https://www.ft.com/content/438a36a5-a711-4fe1-b3d8-83020197a0ed?syn-25a6b1a6=1",
+  "summary": "Pugnacious lawmaker signals uncompromising stance despite party’s poor US midterms performance",
+  "date": "2026-11-10T21:03:20.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "2b8bc704d6284cb0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "SND: Tons sold rose 21% YoY as Q3 free cash flow reached $17.3 million - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXU0MHRTdXdzbGlBTDBGNUFrOEtBSkI4MzQ2TDZWVzl6ekI4eDZMQ3hoRVNLUHNDVndVOUNNX2FnNy13NllLRkFrTjlUSFlZZm9WUEZLYjdMUWlfZFNtd244bW0wSkZmOHdXcFgyVS00U1JPdVE4NE43UGYyTi1rUmp6RHY1UGtoM09sVEVwR0VuWDJqb2E2OVZqUTBNSkRmZUpTdzRnOGkxVkJmN1loMGRNcDh1N21USWxoQkFHTHo1cFhjQzJCdjRVcnVPS2t5VHpkenZ5VTd4TEJmSG1rdmlZWDY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXU0MHRTdXdzbGlBTDBGNUFrOEtBSkI4MzQ2TDZWVzl6ekI4eDZMQ3hoRVNLUHNDVndVOUNNX2FnNy13NllLRkFrTjlUSFlZZm9WUEZLYjdMUWlfZFNtd244bW0wSkZmOHdXcFgyVS00U1JPdVE4NE43UGYyTi1rUmp6RHY1UGtoM09sVEVwR0VuWDJqb2E2OVZqUTBNSkRmZUpTdzRnOGkxVk",
+  "date": "2026-11-10T21:03:08.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
   "id": "65f9e5cc9945a283",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -11,6 +275,17 @@
   "fromCloud": "2026-11-10T2103.json"
  },
  {
+  "id": "f88a2c065e9bc7e5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Andersen Group further expands globally with five acquisition agreements - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUS0zbzlQQ1BmWlFRcmhqMEUxeFo3SGxIRGY3OXhyZXlYZFpXV2h6bTVNOHA5OG9tWnFxZk1JLUxpdHJHRVR5QkNRM3Juazh5V2xjTERPRVV6cTBabjJRbUxSV3FIUTJUcjhNT1RXMHc2UlBxeFR0NHVya1dDeGZYZE56c2YwUjgyRVNjYkd4OFg3cDMtVmUyOFFPUWU3b21NNVhRb0VzMkl2MXJwa3B4cVB3OWtBUUZIVlQ0djhlTU5UVVFWUmo0cFZLVVQ2Z2tF?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUS0zbzlQQ1BmWlFRcmhqMEUxeFo3SGxIRGY3OXhyZXlYZFpXV2h6bTVNOHA5OG9tWnFxZk1JLUxpdHJHRVR5QkNRM3Juazh5V2xjTERPRVV6cTBabjJRbUxSV3FIUTJUcjhNT1RXMHc2UlBxeFR0NHVya1dDeGZYZE56c2YwUjgyRVNjYkd4OFg3cDMtVmUyOFFPUWU3b21NNVhRb0VzMkl2MX",
+  "date": "2026-11-10T21:01:28.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
   "id": "f79acac5b37305a3",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -20,6 +295,17 @@
   "date": "2026-11-10T21:01:01.000Z",
   "fetched": "2026-11-10T21:03:12.085Z",
   "fromCloud": "2026-11-10T2103.json"
+ },
+ {
+  "id": "cf7cf93031e906ae",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "VFLO Adds Micron: How a Free Cash Flow Screen Led to AI Memory - ETF Database",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWNsOXBTZDdVd25FTUFZSkI3YnhKcUJQazdxNGFxNjV5aGQ1QlVITHpZRmNiTDVSbllaalNkbC1CcV9oU1RadG5qX3JyWDA2eVJvUW9oSk10Mng0djVxYmV2YnUxdnpJNUdCTTVfMnBWbWE5X1NkdWNFdGYxY3ZWNDdoMURuTDBPekhVTWdoR1dVMk1I?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWNsOXBTZDdVd25FTUFZSkI3YnhKcUJQazdxNGFxNjV5aGQ1QlVITHpZRmNiTDVSbllaalNkbC1CcV9oU1RadG5qX3JyWDA2eVJvUW9oSk10Mng0djVxYmV2YnUxdnpJNUdCTTVfMnBWbWE5X1NkdWNFdGYxY3ZWNDdoMURuTDBPekhVTWdoR1dVMk1I?oc=5\" target=\"_blank\">VFLO Ad",
+  "date": "2026-11-10T21:00:00.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
  },
  {
   "id": "9cb9f40473c36e55",
@@ -42,6 +328,39 @@
   "date": "2026-11-10T20:49:00.000Z",
   "fetched": "2026-11-10T21:03:12.085Z",
   "fromCloud": "2026-11-10T2103.json"
+ },
+ {
+  "id": "a20ff58f7ff7b7e9",
+  "source": "The Economist – Finance & economics",
+  "group": "global-press",
+  "title": "Lessons from a miserable month for hedge funds",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+  "summary": "The struggle to invest in anything other than AI",
+  "date": "2026-11-10T20:47:39.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "02a9beb564d1aea1",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "Nike retiree returns as CAO",
+  "link": "https://www.cfodive.com/news/nike-retiree-returns-cao/874311/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ILe8fOH86tCEOdjBUYPs7Bi6JNZhvESD-aQkvkwrAI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyOTc4NTM1LmpwZ19yZXNpemUuanBn.webp\"/></div></figure><p>The Beaverton, Oregon-based sports apparel",
+  "date": "2026-11-10T20:42:47.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
+  "id": "8f3a1f3a78610e59",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הפד מתלבט: חצי אחוז בדצמבר, או שתי העלאות של רבע אחוז - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBROHV4QUNLM2xzeHB6NV9aNGNCRUdJZU42NjVlTUZaWlFGeV9DNW1lXzQtdjZ0WjlyUkxOS2ptU2ZsLTh0S0l0VXlucFNjX1FhamU0MDA1QUF4NEgzQTQ3ZmZiWjdNenhncUxMeUZnZnY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBROHV4QUNLM2xzeHB6NV9aNGNCRUdJZU42NjVlTUZaWlFGeV9DNW1lXzQtdjZ0WjlyUkxOS2ptU2ZsLTh0S0l0VXlucFNjX1FhamU0MDA1QUF4NEgzQTQ3ZmZiWjdNenhncUxMeUZnZnY?oc=5\" target=\"_blank\">הפד מתלבט: חצי אחוז בדצמבר, או שתי העלאות של רבע אחוז</a",
+  "date": "2026-11-10T20:32:00.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
  },
  {
   "id": "21304c2eb1e10622",
@@ -130,6 +449,17 @@
   "date": "2026-11-10T20:03:00.000Z",
   "fetched": "2026-11-10T20:33:12.236Z",
   "fromCloud": "2026-11-10T2033.json"
+ },
+ {
+  "id": "40757b850ee5f4ea",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Andersen Group Expands Global Platform with Five New Acquisition Agreements Across the U.S., India and Europe - Yahoo Finance Australia",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOHV6c29OeXVGRDFzcDhUaUtwS25YNDJ2aEtGcExSdFlNQk80Mk9hYmlaTGxPMU9WQk5ONlFkOFVfMmdTajV0SU1QcFBHLThLTEtCWVk4SVljTng4Nkp2aUhibUhyT01xZlNIOXVPMTRzRldYdEJ2Ykw4SWZER25xMktRMXpVZW5OVU5TNzU3OVc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOOHV6c29OeXVGRDFzcDhUaUtwS25YNDJ2aEtGcExSdFlNQk80Mk9hYmlaTGxPMU9WQk5ONlFkOFVfMmdTajV0SU1QcFBHLThLTEtCWVk4SVljTng4Nkp2aUhibUhyT01xZlNIOXVPMTRzRldYdEJ2Ykw4SWZER25xMktRMXpVZW5OVU5TNzU3OVc?oc=5\" target=\"_blank\">Andersen Gro",
+  "date": "2026-11-10T20:03:00.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
  },
  {
   "id": "3b8bd8a92ed1eafd",
@@ -2238,6 +2568,17 @@
   "fromCloud": "2026-11-10T1533.json"
  },
  {
+  "id": "e047e2339363191a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "To Implement Acquisition Transformation, Empower Military Mavericks - War on the Rocks",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUhCcmZLZG9CV3lWdm5uZ2FndFhncEVrVDlNSEUzNXpmUzhzMkNzU2ZlTEdzQ2t0V3ZnbWg1RG03XzNzdmdpSE9Fai1BQnpCZmhyemZQdzJVS3JmWmdldER0emo2UXN6NEs4QU5hSTlqWXBpQ3BxUFdRU1JqeG9BZXYtSlZHcmI5NHhqTzFwdUZyeE5DT2I1UTNMcV9xSnZJWlVwajl0UHk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUhCcmZLZG9CV3lWdm5uZ2FndFhncEVrVDlNSEUzNXpmUzhzMkNzU2ZlTEdzQ2t0V3ZnbWg1RG03XzNzdmdpSE9Fai1BQnpCZmhyemZQdzJVS3JmWmdldER0emo2UXN6NEs4QU5hSTlqWXBpQ3BxUFdRU1JqeG9BZXYtSlZHcmI5NHhqTzFwdUZyeE5DT2I1UTNMcV9xSnZJWlVwajl0UHk?oc",
+  "date": "2026-11-10T14:59:03.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
+ },
+ {
   "id": "52df6d763bd3363e",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -2863,6 +3204,17 @@
   "date": "2026-11-10T11:09:22.000Z",
   "fetched": "2026-11-10T17:33:16.267Z",
   "fromCloud": "2026-11-10T1733.json"
+ },
+ {
+  "id": "f7d5d6bff8cdbc77",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PEAK Event Services Expands Maine Presence Through Acquisition of Portland-Based Party with Confetti - Morningstar",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXVEVmlXQm1WeFVxRklrTkdoQ0EwOUZ4MUJYQ3NFV3RlYm5oNjNXSUhPTFNSSHE3ZUljUkZzVVMxOGNNVnpYRGRsYjlXVzJwUEN6R3RWZVdPT055dERXTE1GVlF6Y0VIQW1Xb2ptUC1rS21SbW9WR0Z0aHozUUVVZy1odkJrNnJLQnUzZ29RRm9YQjNZd3YwVjdFXzFvR0hOOWdMSHZmUTZiX1dkVHdiU0YwdjBHN0hOYWpoZTNkdWtxaEJYZC1DYW9sbkxaSGM2T3RwaXRaWkhMZ2VTR1lpWG1fUW1FN2o3NnFmbnNXYWUzVlk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXVEVmlXQm1WeFVxRklrTkdoQ0EwOUZ4MUJYQ3NFV3RlYm5oNjNXSUhPTFNSSHE3ZUljUkZzVVMxOGNNVnpYRGRsYjlXVzJwUEN6R3RWZVdPT055dERXTE1GVlF6Y0VIQW1Xb2ptUC1rS21SbW9WR0Z0aHozUUVVZy1odkJrNnJLQnUzZ29RRm9YQjNZd3YwVjdFXzFvR0hOOWdMSHZmUTZiX1",
+  "date": "2026-11-10T11:00:00.000Z",
+  "fetched": "2026-11-10T21:33:13.128Z",
+  "fromCloud": "2026-11-10T2133.json"
  },
  {
   "id": "712b0fc7ed646a71",
