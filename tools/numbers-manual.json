@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "numbers": [
     {
       "key": "cpi",
@@ -16,12 +16,12 @@
     {
       "key": "ta35",
       "label": "מדד ת״א 35",
-      "value": "3,941",
-      "change": "-0.7%",
-      "note": "נעילת 6 נובמבר 2026",
-      "source": "https://www.bizportal.co.il/capitalmarket/news/article/20047498",
-      "by": "ביזפורטל",
-      "asOf": "2026-11-06",
+      "value": "4,013",
+      "change": "+1.84%",
+      "note": "נעילת 9 נובמבר 2026",
+      "source": "https://market.tase.co.il/en/market_data/index/142/major_data",
+      "by": "TASE",
+      "asOf": "2026-11-09",
       "maxAgeDays": 3
     },
     {
@@ -32,18 +32,18 @@
       "note": "נובמבר 2026",
       "source": "https://www.investing.com/rates-bonds/israel-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-11-04",
+      "asOf": "2026-11-09",
       "maxAgeDays": 5
     },
     {
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
-      "value": "4.86%",
+      "value": "4.88%",
       "change": "+0.02",
-      "note": "6 נובמבר 2026",
+      "note": "9 נובמבר 2026",
       "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-11-06",
+      "asOf": "2026-11-09",
       "maxAgeDays": 3
     },
     {
@@ -71,16 +71,16 @@
   ],
   "events": [
     {
-      "date": "10.11",
-      "what": "CPI אמריקאי לאוקטובר"
-    },
-    {
       "date": "12.11",
       "what": "Applied Materials + Cisco תוצאות רבעוניות (אחרי שוק)"
     },
     {
       "date": "15.11",
-      "what": "מדד המחירים לאוקטובר"
+      "what": "מדד המחירים לאוקטובר (ישראל)"
+    },
+    {
+      "date": "07.12",
+      "what": "סיום מנדט אייזנקוט לגיבוש קואליציה (28 יום)"
     },
     {
       "date": "09.12",
