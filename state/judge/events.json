@@ -1,12 +1,5 @@
 [
  {
-  "key": "אנבידיה | השקעה 3 מיליארד דולר במטא סביב Muse | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793093762868,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "OpenAVC | פלטפורמת בקרה Pro AV קוד פתוח חדשה | אוקטובר 2026",
   "level": "yellow",
   "first": 1793097461256,
@@ -4084,6 +4077,55 @@
   "key": "סונול–אפקון–פנטלייט | תחנת כוח + חוות שרתים 4 מיליארד שקל מפרץ חיפה | נובמבר 2026",
   "level": "yellow",
   "first": 1794301614207,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "S&P | תחזית צמיחה ישראל עולה בזכות אנבידיה — לחץ תקציבי נשאר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794305213148,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "N-able N-central | 30+ חולשות zero-day — מערכת ניהול IT offline | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794305213149,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "IBM Aspera + SignalWire | חולשות מנוצלות פעילות — CISA KEV | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794305213149,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | אזהרה: איראן מפתחת יכולות סייבר מבוססות AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794305213149,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נורבגיה | הקפאת חיבורי מרכזי נתונים — עזריאלי מגיבה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794305213149,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "כנסת | ח״כ אבישר בן-חורין — יו״ר ועדת הכספים הראשונה מאישה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794305213149,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יפן | ביקוש לאג״ח 30 שנה נחלש — יחס כיסוי ל-3.36 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794305213149,
   "sentLive": false,
   "candidate": true
  }
