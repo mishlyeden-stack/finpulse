@@ -1,82 +1,5 @@
 [
  {
-  "key": "שקל | היחלשות חדה בספירת הקולות — דולר חוזר ל-3.08 | אוקטובר 2026",
-  "level": "red",
-  "first": 1793162251952,
-  "sentLive": true,
-  "candidate": true
- },
- {
-  "key": "ישראל | 400 מיליארד שקל — ההכרעות הכלכליות של הממשלה החדשה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162251952,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "דיסרפטיב | קרן 10 מיליארד דולר לסטארט-אפים של AI וביטחון | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162251952,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Veeam | רכישת Alcion — הרחבה ל-as-a-service ו-AI בגיבוי נתונים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162251952,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Pro AV | הכלכלה החדשה של חדר הישיבות — AI, ענן ותמחור | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162251952,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AirTrunk | הלוואה ירוקה 4.25 מיליארד דולר אוסטרלי למרכז נתונים סידני | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162426867,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | תוכנית לאומית קוונטום 1.5 מיליארד שקל — בעקבות רכישת קלאסיק | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162426867,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Tailscale | פגיעויות Tailworm ב-SSH — פאץ׳ טרם שוחרר | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162426867,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Nidec | CDU קירור 3.2MW בשורה — ייצור המוני 2027 | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162426867,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שקל | התחזקות ביום הבחירות — דולר מתחת ל-3.05 | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162548983,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רגולציית AI | לחץ חקיקתי בארה״ב אחרי דיווחי סוכני AI על גישה לחשבונות בנק | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793162548983,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "שקל | היחלשות חדה בספירת הקולות — דולר חוזר ל-3.09 | אוקטובר 2026",
   "level": "red",
   "first": 1793165770169,
@@ -4098,6 +4021,125 @@
   "key": "אנתרופיק–מיקרוסופט | כלי משרד AI מתחרים — מיקרוסופט נפלה 3.5% | נובמבר 2026",
   "level": "yellow",
   "first": 1794370723457,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ריבית ישראל | הורדה מתרחקת — ההחלטה האמריקאית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794371925892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוקסידנטל | הפחתת חוב 10 מיליארד דולר תוך ירידת נפט | נובמבר 2026",
+  "level": "learn",
+  "first": 1794371925892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "די-ווייב | מוכרת יותר, מרוויחה פחות — משקיעים מאבדים סבלנות | נובמבר 2026",
+  "level": "learn",
+  "first": 1794371925892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רבולוט | רישיון בנק חדש בישראל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794371925892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ת״א | רווח נקי +37% Q3 2026 — גאות מסחר והנפקות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794371925892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קרנות גידור | חיתוך סיכון בקצב המהיר מזה עשור — מורגן סטנלי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794371925892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רפאל | טיל שיוט חדש ראש קרב חצי טון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794371925892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אדובי | עדכון אבטחה 110 חולשות ב-9 מוצרים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794371925892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מותג ישראל בכנס Web Summit — חרם וסין | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794371925892,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פד–לוגן | העלאת ריבית לפחות פעמיים נוספות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794372138493,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | CFO כמנכ״ל ביניים פוטנציאלי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794372138493,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "SBOM ו-AI BOM | שקיפות שרשרת אספקת תוכנה בעידן AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794372138493,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | CPI אוקטובר מאכזב — השלכות על ריבית ישראל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794372379672,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | אנליסט מזהיר ממחיקה 1.3 טריליון דולר אם ג׳נסן יפרוש | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794372379672,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רפאל | עסקת שכירות 32 מיליון שקל — הרחבה לפארק המדע חיפה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794372379672,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | ראש המנהל הדיגיטלי — מערכות ממשלתיות כיעד סייבר עיקרי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794372379672,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסה ת״א | רווח נקי זינק 74% ל-224.7 מיליון שקל | Q3 2026",
+  "level": "yellow",
+  "first": 1794372379672,
   "sentLive": false,
   "candidate": true
  }
