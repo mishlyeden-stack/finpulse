@@ -1,40 +1,5 @@
 [
  {
-  "key": "בורסה ישראל | ירידות חדות + שקל נחלש — בוקר אחרי הבחירות, 28 אוקטובר 2026",
-  "level": "red",
-  "first": 1793178310229,
-  "sentLive": true,
-  "candidate": true
- },
- {
-  "key": "Node2Shell | פגיעות Brotli קריטית — עדכון דחוף ל-Node.js, .NET, Python",
-  "level": "yellow",
-  "first": 1793178310229,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "SETTRA | מתקפת כופרה על יבואן הרכב הגדול בישראל | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793180157553,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Oracle EBS | פגיעות SQL injection קריטית CVE-2026-101767 — האקרים כבר בודקים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793180157554,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנק הפועלים | בקשת חדלות פרעון לסרטפלאסט | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793180157554,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Infisical | גיוס 40 מיליון דולר לאבטחת סוכני AI — שווי 600 מיליון | אוקטובר 2026",
   "level": "yellow",
   "first": 1793183798309,
@@ -4119,6 +4084,27 @@
   "key": "ישראל | בלי תקציב וריבית 3.25% — סיכון לבורסה ולמשק | נובמבר 2026",
   "level": "yellow",
   "first": 1794386124128,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פאלו אלטו–סייברארק | עסקה ב-25 מיליארד שהפכה ל-37 מיליארד בסגירה | נובמבר 2026",
+  "level": "learn",
+  "first": 1794389759795,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוטונומוס | קריסת מניה 50% + תשואות אג״ח מזנקות — מנכ״ל מכחיש שינוי עסקי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794389759796,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Cisco BroadWorks + Openwave | חולשות מנוצלות פעילות — דליפת מידע קונפיגורציה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794389759796,
   "sentLive": false,
   "candidate": true
  }

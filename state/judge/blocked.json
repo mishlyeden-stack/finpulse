@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 182,
+  "ok": 183,
   "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 133
+  "blocked": 134
  },
  "en.globes.co.il": {
   "ok": 36,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 53,
+  "ok": 54,
   "blocked": 0
  },
  "ice.co.il": {
@@ -72,7 +72,7 @@
   "blocked": 15
  },
  "calcalistech.com": {
-  "ok": 54,
+  "ok": 55,
   "blocked": 0
  },
  "ptnow.co.il": {
