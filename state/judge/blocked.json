@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 180,
+  "ok": 181,
   "blocked": 2
  },
  "calcalist.co.il": {
@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 204,
+  "ok": 205,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 108
+  "blocked": 109
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 68
+  "blocked": 69
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 35,
+  "ok": 36,
   "blocked": 0
  },
  "securityweek.com": {
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 18
+  "blocked": 19
  },
  "techtarget.com": {
   "ok": 1,
