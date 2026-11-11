@@ -1,0 +1,316 @@
+{
+ "batch": "2026-11-11T1403",
+ "created": "2026-11-11T14:03:12.106Z",
+ "items": [
+  {
+   "id": "41dc821a09a02f54",
+   "source": "גלובס – ראשי",
+   "group": "israel-press",
+   "title": "בישיבת ממשלה אחת: אושרו 3 תחנות כוח ושני שדות סולאריים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563006#utm_source=RSS",
+   "summary": "הממשלה אישרה קידום מואץ של 3 תחנות כוח גזיות ושני מיזמים סולאריים ענקיים בפריפריה דרך הות\"ל &#8226; המטרה: מענה לצריכת החשמל הגואה עקב זינוק בחוות שרתים ל-AI, מעבר לרכב חשמלי וגידול באוכלוסייה &#8226; תחנות הכוח צפויות לפעול בתחילת העשור הבא, והמתקנים הסולאריים ישלבו חקלאות וייצו",
+   "date": "2026-11-11T13:35:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "036fbe4f946734de",
+   "source": "גלובס – ראשי",
+   "group": "israel-press",
+   "title": "עזבו את מיקרוסופט אחרי שני עשורים וגייסו 70 מיליון דולר כדי להתחרות בענקיות הדאטה",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563004#utm_source=RSS",
+   "summary": "ארבעה מהנדסים שהיו שותפים לפיתוח תשתיות הנתונים של מיקרוסופט הקימו את Edelbyte &#8226; החברה נחשפת היום, כשנה לאחר הקמתה, עם גיוס של 70 מיליון דולר בהובלת סקויה ו-Quiet Capital - לפי שווי של 500 מיליון דולר",
+   "date": "2026-11-11T14:00:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "5e630b213111ec65",
+   "source": "גלובס – ראשי",
+   "group": "israel-press",
+   "title": "היקף המשכנתאות באוקטובר: 9.3 מיליארד שקל",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563005#utm_source=RSS",
+   "summary": "מתחילת השנה, נלקחו משכנתאות בהיקף של 97.5 מיליארד שקל, זינוק של כ-14% לעומת התקופה המקבילה &#8226; מדובר בהיקף דומה לשנת השיא בנדל\"ן ב-2021, אך קצב העסקאות נמוך בכ-40%",
+   "date": "2026-11-11T13:38:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "13f0a60ca20f8d98",
+   "source": "Globes English",
+   "group": "israel-press",
+   "title": "Israeli data infrastructure co Edelbyte raises $70m",
+   "link": "https://en.globes.co.il/en/article-1001563008#utm_source=RSS",
+   "summary": "The company has developed a search and analytics platform built to handle AI-driven demand at a much smaller cost than legacy systems.",
+   "date": "2026-11-11T14:00:05.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "af62013919d311a9",
+   "source": "כלכליסט (Google News)",
+   "group": "israel-press",
+   "title": "המניה התרסקה, הפרויקטים נתקעו: החברה שאיזנקוט עמד בראשה בצרות - Calcalist",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tR1RWWm5CZ2FnbGxWY2o2RXIxaWNWUjNTN0xBOTRCa2Z3SWRtODFaTUF3YXZqU293RDNDanVnWFVDekQtWlJicnVqWkZ5TWFaTThXdkJOVkZjMU1YeHk0UVRYUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tR1RWWm5CZ2FnbGxWY2o2RXIxaWNWUjNTN0xBOTRCa2Z3SWRtODFaTUF3YXZqU293RDNDanVnWFVDekQtWlJicnVqWkZ5TWFaTThXdkJOVkZjMU1YeHk0UVRYUQ?oc=5\" target=\"_blank\">המניה התרסקה, הפרויקטים נתקעו: החברה שאיזנקוט עמד בראשה בצרות</a>&nbsp;&n",
+   "date": "2026-11-11T13:58:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "8245dbb8bc9b85eb",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "הממשלה אישרה לקדם הקמה של שלוש תחנות כוח - אנרגיה ותשתיות - TheMarker - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUlSNjBkLWFvZGx4YjJtRk5QbjlZTGVQcmMzeGxybHFfN2ZnWTg1eGd0VF9qTTZueHVIaTliakw5RTRkaTliNEk2YUN5SHA5UGwxOU1TVHJiT3l3eE9OdGRONjQ3eUlxWXY2RWE1TzVISVo2czVqamFCcmVFMTlRUktEV003OU5fbWotWmRZQnJjakRYLXEzRjFkX1JFSG1uWEN6SmYzQ3I?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUlSNjBkLWFvZGx4YjJtRk5QbjlZTGVQcmMzeGxybHFfN2ZnWTg1eGd0VF9qTTZueHVIaTliakw5RTRkaTliNEk2YUN5SHA5UGwxOU1TVHJiT3l3eE9OdGRONjQ3eUlxWXY2RWE1TzVISVo2czVqamFCcmVFMTlRUktEV003OU5fbWotWmRZQnJjakRYLXEzRjFkX1JFSG1uWEN6SmYzQ3I?oc",
+   "date": "2026-11-11T13:51:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "f52de5e2f3dfc389",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "האם רבולוט תביא את התחרות בבנקאות לה ממתינים עשרות שנים? - פודקאסטים - TheMarker - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEQ5NldiVFExVlNzdmJnbzFvV1daYUVVa2dPZVlRaVEzbnhTb2x5WENMMDBzRzB3YWUxQVF5alVDRk5zNVRuZEMyYkdtUlBLeDhHd25CaDFSXzlCZW1BbmZjenFFMUFQVzc1bWd1dXR4QWZZQkllQ1RYdVhrTFZWT1p1dnl2NmVzX2FjT1o1QVhtY3ZjWm50bmJSNHJoalh5QnRJ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEQ5NldiVFExVlNzdmJnbzFvV1daYUVVa2dPZVlRaVEzbnhTb2x5WENMMDBzRzB3YWUxQVF5alVDRk5zNVRuZEMyYkdtUlBLeDhHd25CaDFSXzlCZW1BbmZjenFFMUFQVzc1bWd1dXR4QWZZQkllQ1RYdVhrTFZWT1p1dnl2NmVzX2FjT1o1QVhtY3ZjWm50bmJSNHJoalh5QnRJ?oc=5\" tar",
+   "date": "2026-11-11T13:47:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "489aa70f1e6f9ab9",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "מצטרף לטרנד: בנק דיסקונט יאפשר ללקוחותיו לסחור בקריפטו - שוק ההון - TheMarker - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPampUYnpCbVJHS1lCNVhZeU5aZmJmVXg5cWZqbTZzcDdPeFh3cW5OeVpRWnhlbVotVE5Hd3JqZ0Jfd0R5R2ZvT29PVmYxWTV3MUtzT2JTOE8telNJNlpzUnM0Rk1BM1U1V1hIS3dMWm5XTEVIOFlvZ0JlcG93d194U2ZhYTNiQ05NOUNoS1lUTTFGTkJ5UkVNQTQ4U2xoOUF0bDg0?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPampUYnpCbVJHS1lCNVhZeU5aZmJmVXg5cWZqbTZzcDdPeFh3cW5OeVpRWnhlbVotVE5Hd3JqZ0Jfd0R5R2ZvT29PVmYxWTV3MUtzT2JTOE8telNJNlpzUnM0Rk1BM1U1V1hIS3dMWm5XTEVIOFlvZ0JlcG93d194U2ZhYTNiQ05NOUNoS1lUTTFGTkJ5UkVNQTQ4U2xoOUF0bDg0?oc=5\" tar",
+   "date": "2026-11-11T13:53:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "9372a0a9650d9a99",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "אבן קיסר עברה להפסד בעקבות תביעה בארה\"ב; הערת \"עסק חי\" צורפה לדו\"חות - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORVpkX0c4WnN4aWZwRUVib000Q3hmazJYZWQ0amZuaVJKdF9TRUM4NGNydVM2N2tzMXhxYjM5a2pqSHNiZ0JMb0lFWHRjUlprdjI3V1lWUm1hdF9HeEpDcFNjVjFaVTlqbEw0di1WWjVFaHcwY3ItV2ZYSDJ6cHU3bm9BcnlSTzNEMGhfaVZxZ3JkX01GSTh3RFVtX1RqOTNuWFJz?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORVpkX0c4WnN4aWZwRUVib000Q3hmazJYZWQ0amZuaVJKdF9TRUM4NGNydVM2N2tzMXhxYjM5a2pqSHNiZ0JMb0lFWHRjUlprdjI3V1lWUm1hdF9HeEpDcFNjVjFaVTlqbEw0di1WWjVFaHcwY3ItV2ZYSDJ6cHU3bm9BcnlSTzNEMGhfaVZxZ3JkX01GSTh3RFVtX1RqOTNuWFJz?oc=5\" tar",
+   "date": "2026-11-11T13:58:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "ad1f0e82694877f0",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "תיאוריית קונספירציה על יותר מ-200 עמודים: יאיר נתניהו מפרסם ספר על \"המוסדות שפוגעים בישראל מבפנים\" - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUhDcnFlY0ZOLXVaaWVRejZSbFJKekJRU2VuUURJMS0ybWFKalQySnJQbnNoT285N2x6QXVsT2NpT180UDdJQUhVajlhWUpmWmFxblJJdEF1ekVMYTlQaU04R1EtWGxFdy1zSG9vUGRJRnZ3OC1pNy0xUHNSdk1BcEtXWWZnaHhqNHZMeWhZTVZrR21TTjBubjFJYWw4MUhSTEE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUhDcnFlY0ZOLXVaaWVRejZSbFJKekJRU2VuUURJMS0ybWFKalQySnJQbnNoT285N2x6QXVsT2NpT180UDdJQUhVajlhWUpmWmFxblJJdEF1ekVMYTlQaU04R1EtWGxFdy1zSG9vUGRJRnZ3OC1pNy0xUHNSdk1BcEtXWWZnaHhqNHZMeWhZTVZrR21TTjBubjFJYWw4MUhSTEE?oc=5\" targ",
+   "date": "2026-11-11T13:54:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "ceecafb0fed66358",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "פרופימקס הפסידה בתביעה של 15 מיליון שקל נגד שותפים למוצר נדל\"ן טכנולוגי - נדל\"ן - TheMarker - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUxJZ29lemFYWjRzM20yZ2lyWXhzTnNuQTRrMlRqbTBlTlJFWFpHNnl0QlZOSVRpWmVoWEJLOVJzNGlVLUduemVhV3ZaVWg1SDlFRnVDcERQQ2F0VjJVRjRWLTM1eGFwN3d1cVZhTWFNalZfS0VHTlRVclVndnVsYVVpLWhYREp2ck1lYVZROVRmaFgyVmtBMEpWaFNIMUQtU1JvR25TVQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUxJZ29lemFYWjRzM20yZ2lyWXhzTnNuQTRrMlRqbTBlTlJFWFpHNnl0QlZOSVRpWmVoWEJLOVJzNGlVLUduemVhV3ZaVWg1SDlFRnVDcERQQ2F0VjJVRjRWLTM1eGFwN3d1cVZhTWFNalZfS0VHTlRVclVndnVsYVVpLWhYREp2ck1lYVZROVRmaFgyVmtBMEpWaFNIMUQtU1JvR25TVQ?oc=",
+   "date": "2026-11-11T13:46:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "e2461720c2eef4cd",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "קורוויב מזנקת 15%, נביוס 14%, מיקרון 6.5% - ומה קורה בנאסד\"ק? - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhdGVlSnZ0RU1ISmoxVWFkUzhIRVlFdV9LTVhRUmhLNjZWeUhOQWxzUW1BOWd3YlFoRFJ1VFJ3enZaYUZ6b3ZUT2M0MWRFRmVwcWxKWklIcDlMR0dPWUFfQUFkTlNIMVJ1ME5KNXlsQjY?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBhdGVlSnZ0RU1ISmoxVWFkUzhIRVlFdV9LTVhRUmhLNjZWeUhOQWxzUW1BOWd3YlFoRFJ1VFJ3enZaYUZ6b3ZUT2M0MWRFRmVwcWxKWklIcDlMR0dPWUFfQUFkTlNIMVJ1ME5KNXlsQjY?oc=5\" target=\"_blank\">קורוויב מזנקת 15%, נביוס 14%, מיקרון 6.5% - ומה קורה בנא",
+   "date": "2026-11-11T13:02:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "e5b58101f3df5a89",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "פרמיית ביטוח הבריאות המשפחתי בארה\"ב הגיעה ל-28 אלף דולר בשנה - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pZjI1aXFuOGNRQVBTU1BJZkdTQXcxU2tFdUc2YlBoVHBHQjRNdEZMeGV0b3FvTHNXS21fZ0NLUkRVV3hEUUdKQjhYb29PSEduLWU4UHlSQTNtYmR1bHJEdWZ2TmszZ0pfUTJn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5pZjI1aXFuOGNRQVBTU1BJZkdTQXcxU2tFdUc2YlBoVHBHQjRNdEZMeGV0b3FvTHNXS21fZ0NLUkRVV3hEUUdKQjhYb29PSEduLWU4UHlSQTNtYmR1bHJEdWZ2TmszZ0pfUTJn?oc=5\" target=\"_blank\">פרמיית ביטוח הבריאות המשפחתי בארה\"ב הגיעה ל-28 אלף דולר בשנה</a",
+   "date": "2026-11-11T13:40:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "82c45b492fee9bd7",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "עיריית אשדוד דורשת מבית הזיקוק ארנונה ב-266 מיליון שקל תוך חודש - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nWUdRb2t5bmZ1X1pPTEwxdzk4NjJKUGluUHJVVDBFNExtZEFiR0k0RURNMUx2UWhNX0c2dXNXV18wRTE0eTRRem9yRlFXUWFsSFFOclFyc2VSVTIyVXN2N1VDQ2dRMnM?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nWUdRb2t5bmZ1X1pPTEwxdzk4NjJKUGluUHJVVDBFNExtZEFiR0k0RURNMUx2UWhNX0c2dXNXV18wRTE0eTRRem9yRlFXUWFsSFFOclFyc2VSVTIyVXN2N1VDQ2dRMnM?oc=5\" target=\"_blank\">עיריית אשדוד דורשת מבית הזיקוק ארנונה ב-266 מיליון שקל תוך חודש</a>&",
+   "date": "2026-11-11T12:03:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "b9f629a036ee14bb",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "המלדיביים סגורים לישראלים: אלה היעדים שיכולים להחליף אותם - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1aTRwallleS16cVZ3UFo1YTE1dUxhek9QY3BvUHZzNWdWeE1DQXFvWjRHbkItQ3JNcnR0Q0VOSkliSlpHQnY0MGZ1M1ktS0FQMEh3bWF4eGxvU3RvRlJ3UERmcGpOSzFqejNZWGZ1YWE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB1aTRwallleS16cVZ3UFo1YTE1dUxhek9QY3BvUHZzNWdWeE1DQXFvWjRHbkItQ3JNcnR0Q0VOSkliSlpHQnY0MGZ1M1ktS0FQMEh3bWF4eGxvU3RvRlJ3UERmcGpOSzFqejNZWGZ1YWE?oc=5\" target=\"_blank\">המלדיביים סגורים לישראלים: אלה היעדים שיכולים להחליף אות",
+   "date": "2026-11-11T13:49:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "418c58338fe64e4f",
+   "source": "בנק ישראל ומשק (Google News)",
+   "group": "israel-official",
+   "title": "97.5 מיליארד שקלים במשכנתאות מתחילת השנה: 2026 מתקרבת לשנת השיא - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VRzlScmY0dUQxZGxSQ3JaaG5FZFpnOXdnenZKUGJWaTlkUzQtTGtKbDRkS21UZjFfd1pqam5ad1M0M2tnX2RhUENpb2NSMDZTRTZ3MTlnY1VXbWVzMFhsczd6dkZBa01WVTc1Ujdn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9VRzlScmY0dUQxZGxSQ3JaaG5FZFpnOXdnenZKUGJWaTlkUzQtTGtKbDRkS21UZjFfd1pqam5ad1M0M2tnX2RhUENpb2NSMDZTRTZ3MTlnY1VXbWVzMFhsczd6dkZBa01WVTc1Ujdn?oc=5\" target=\"_blank\">97.5 מיליארד שקלים במשכנתאות מתחילת השנה: 2026 מתקרבת לשנת ",
+   "date": "2026-11-11T13:36:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "64b1979e50f260dd",
+   "source": "אנשים ומחשבים",
+   "group": "industry",
+   "title": "שנוי במחלוקת ובאיחור רב: טראמפ מינה את מנמ&#034;ר פלנטיר לראש CISA",
+   "link": "https://www.pc.co.il/featured/461294/",
+   "summary": "נשיא ארצות הברית, דונלד טראמפ , החליט סוף סוף למנות ל- CISA , סוכנות הגנת הסייבר והתשתיות של ארצות הברית, מנהל קבוע, לאחר כשנתיים שבהן היא מתנהלת עם ממלא מקום בראשה. המינוי החדש הוא מייקל לוסאפיו , מנמ\"ר פלנטיר . אנליסטים כינו את CISA \"הסוכנות המוכה\", וציינו כי \"לוסאפיו יורש ארגו",
+   "date": "2026-11-11T13:52:32.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "d0d2f0cbcc7f7ad1",
+   "source": "אנשים ומחשבים",
+   "group": "industry",
+   "title": "OpenAI גייסה 11 מיליארד דולר ודוחה את ההנפקה",
+   "link": "https://www.pc.co.il/news/money/461293/",
+   "summary": "OpenAI השלימה בימים אלה העברה של 11 מיליארד דולר לחשבונותיה, שלב ראשון מתוך סבב גיוס רחב יותר שנעשה לפי שווי של 1.25 טריליון דולר, וצפוי להגיע לכ-20 מיליארד דולר בשבועות הקרובים. כפי שדיווחנו מוקדם יותר החודש, ענקית הבינה המלאכותית נאלצה לעדכן כלפי מטה את שאיפותיה ולקצץ שליש מיעד",
+   "date": "2026-11-11T13:51:25.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "8cf6ed96d07142e0",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "RWE's role in Uniper deal would be 'narrow in scope', CFO says - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3Z0eHJ6TG4tRkViVUlaWW83NWU4dlBXZFF1RTJMZGRsekdCVVV1NDR5M0gyMVUzdmQ5eWJHdmV2MXpreXR0Q0lENGxQSGM1cklVZHRnOWUzZmdZTHBnUHVoWkozR1g5dXVBYXYxVDZPUTl5Qlo0cC1lTnBuYWMtdnBaWTcyOGN0RUdyNTVyc215S181NlpBeTZ1YlB5QQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOa3Z0eHJ6TG4tRkViVUlaWW83NWU4dlBXZFF1RTJMZGRsekdCVVV1NDR5M0gyMVUzdmQ5eWJHdmV2MXpreXR0Q0lENGxQSGM1cklVZHRnOWUzZmdZTHBnUHVoWkozR1g5dXVBYXYxVDZPUTl5Qlo0cC1lTnBuYWMtdnBaWTcyOGN0RUdyNTVyc215S181NlpBeTZ1YlB5QQ?oc=5\" target=\"_",
+   "date": "2026-11-11T13:25:44.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "4d165d2e8c1069a0",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "‘My salary looks more like the mail assistant’s’: Pitt faculty union rallies for fair pay... - The Pitt News",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLXh1eFBvNnQ5MWxiQnNITmNBaWVZVlVxT2JfRTB6QlRwd0w0NlJuZ0hhWlc1V1M4V2NyZEQ5U295ZV9tYnlZbHJYR2ZkNDU0X2M1b3JxQ0tLMkJ1RG83M2VIc0dERzJuVmpvR0FyVHNxNzNLa1FIV2tqb3hSSlF1ZmRKTkllamVjZDBvWkxLMjZ2RHBrZW16UndNN2FzSmdWSGhnVGdFcDRRY0cwQmRrNHpVcDRFb3RDRkJMRVZoR2JBMUF0bWJRVUU2Q2NBem5YZDhwN3RzYXhjOGk5RjZIZkI1UHjSAeoBQVVfeXFMTmk5TjhTN2dueXp1bXhWaXl6TUFlR2dWTTdOdnh4aXQ0UDJxRUZGM0tPMkhTbGYyWUtxU1BESmJYVVZ0dlRSRHRkWGRLN0RGMkxVSkNYOTZwTmZYTUNBWU5naHF0UjdDVWRZSHBLOW5OeUV1TEdRZkFoME1rVGQ1YzZzdTJsbkRCUUZpRmdPUDNqQTZzS0ROU2M1NE1tdnBkNFJoM1NTSXUwVmFwbm8wam1UcFhoUUZvUkZxanBiMHJfUFpaNjRVWDIzZHB1MGcxdjBSWi1MemphY3hBWFN5a192VDdxdVZLQk13?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLXh1eFBvNnQ5MWxiQnNITmNBaWVZVlVxT2JfRTB6QlRwd0w0NlJuZ0hhWlc1V1M4V2NyZEQ5U295ZV9tYnlZbHJYR2ZkNDU0X2M1b3JxQ0tLMkJ1RG83M2VIc0dERzJuVmpvR0FyVHNxNzNLa1FIV2tqb3hSSlF1ZmRKTkllamVjZDBvWkxLMjZ2RHBrZW16UndNN2FzSmdWSGhnVGdFcDRRY0",
+   "date": "2026-11-11T11:59:37.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "80b934d04a95c509",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Anthropic sets a $1.4 trillion IPO target, but bankers may already be aiming higher - Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2tMZUJ2b3k0ZVNZd09tVmU3RDY5bzdKUnNXd0hkU0JLN3JmcG83dkJET05oU0xvV0dodV95a3MyT0NUM0RmcS1fbDUtRGRTUGJpZjJhVXE3VnlVUTUyV0twLTJpRG1KODkwVWpXZFZKMzloWEVSZmRyQk1LUXZyQ2ZTSERGcDRHb3ZYQXpsVHdfd3kzcFR6OGxOcVlfQ3dMV0pBSEh5bkFPMUlTSWx3MmU3dk50ak9y?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2tMZUJ2b3k0ZVNZd09tVmU3RDY5bzdKUnNXd0hkU0JLN3JmcG83dkJET05oU0xvV0dodV95a3MyT0NUM0RmcS1fbDUtRGRTUGJpZjJhVXE3VnlVUTUyV0twLTJpRG1KODkwVWpXZFZKMzloWEVSZmRyQk1LUXZyQ2ZTSERGcDRHb3ZYQXpsVHdfd3kzcFR6OGxOcVlfQ3dMV0pBSEh5bkFPMU",
+   "date": "2026-11-11T13:59:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "c3e49101ceea4181",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "FTC filing reveals Wind Point Partners’ plan to acquire Chroma Color - Plastics News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWpja2dkQUtESVBGQ1VkYW9XYXYwWmtVU2lCMThwX1k5ZWNiVG9VNmxOYVpSX01LN3FnbE5tQnBQNzZ6X1hZdldOdVFGc0ZIY2FHRGhDaVNBMGZsXzhuY2R6OTFjcFVsQWhyNVBiQ1ZJWUFsczhDNnJTZTZSMlVTWEY5Zkt2VUdIdXFFQ3lrbjVTNmg1bHhlN0xFY3FVcjg?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWpja2dkQUtESVBGQ1VkYW9XYXYwWmtVU2lCMThwX1k5ZWNiVG9VNmxOYVpSX01LN3FnbE5tQnBQNzZ6X1hZdldOdVFGc0ZIY2FHRGhDaVNBMGZsXzhuY2R6OTFjcFVsQWhyNVBiQ1ZJWUFsczhDNnJTZTZSMlVTWEY5Zkt2VUdIdXFFQ3lrbjVTNmg1bHhlN0xFY3FVcjg?oc=5\" target=\"",
+   "date": "2026-11-11T13:47:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "75b70323c7571005",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Sampson Regional Medical Center honors Jerry Heinzman’s leadership and welcomes Mike Ostrander as CFO - Greater Fayetteville Business Journal",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNR09BRElpTGFIOTZJQVJ2Ry1OTnB5LVNsVG1CTkxrZXpBdEx2QnRrNXBjRFpIVU5adUV1MkJsQ1E0OWNpZUEwaXhpa0Q5VTdIdVJPTTVlR0JRQUFVQmRBMGN4VEYwYUtkb0kyXzM1SmhiM1dYdTNIT3duZkIxaXpyb1oxWUZna01iQWxuTzFmamVlTzFjNFh6LV92bTAxR1M5WVp0ODEzUUZqd2xUb2N3VFdjVXhfR0tNcUhWT2JESUd0MWFVTXZLT09pWlo4emJhSGFJaExnS0pJdGxNb0tTdHQzU3BfTHVsdFk1ODdhUUJKcXBwS3ZJXw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNR09BRElpTGFIOTZJQVJ2Ry1OTnB5LVNsVG1CTkxrZXpBdEx2QnRrNXBjRFpIVU5adUV1MkJsQ1E0OWNpZUEwaXhpa0Q5VTdIdVJPTTVlR0JRQUFVQmRBMGN4VEYwYUtkb0kyXzM1SmhiM1dYdTNIT3duZkIxaXpyb1oxWUZna01iQWxuTzFmamVlTzFjNFh6LV92bTAxR1M5WVp0ODEzUUZqd2",
+   "date": "2026-11-11T13:32:56.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "e6ef3229f20df9e5",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Meren Energy raises 2026 guidance as free cash flow reduces net debt - Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLVVRZDM2VnRROG1od3NUNTR2WjJLUjNhTlVGamgtWEZ0Q1U2U19YZzUySVQ2bXcwV01seUc3cHNaRXk1b3lmVkFZaDR4bDNlVzhHTU9SSXBKWC1vM2dLYlVEcERpQXN2TkM4aWxuUERhZTNmQzBBN1JkdXFEWmdhandJVEhCZjVaMGI4SVVIRDY1NDBwY1FkWWdBUEtFN2s2Qk9heXFIbFpNMl9pRVpJUnE3NE9BU2JOM2NGRm5iZ2VLbFd3N004c2xqR1A2ZmttV3hLZ2V3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLVVRZDM2VnRROG1od3NUNTR2WjJLUjNhTlVGamgtWEZ0Q1U2U19YZzUySVQ2bXcwV01seUc3cHNaRXk1b3lmVkFZaDR4bDNlVzhHTU9SSXBKWC1vM2dLYlVEcERpQXN2TkM4aWxuUERhZTNmQzBBN1JkdXFEWmdhandJVEhCZjVaMGI4SVVIRDY1NDBwY1FkWWdBUEtFN2s2Qk9heXFIbFpNMl",
+   "date": "2026-11-11T13:48:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "4a83885215929109",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Sangoma schedules shareholder vote on BRC acquisition deal - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQODhJY1E3RVBNMS0yb1lxQ0RzdXFPS05BZENXLXpLbFFQNGxTdjNRLTBFVkVYQmIxWXFSNmM2ajBxamE3M2lLWkJwY0FMcFp0c2V4YzlJZUxvQ2lNTVl1dnd1UnVIWkd0eUR2UkJtQVBsYlItQ1dWenZiMkhOSXlFMXpIcmZDMkFhbUtKTjFaWjhWT095VXpVS2Q5UVAxcVA1anVzX0hlYmUxTlNtcW93c3BjUUtrZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQODhJY1E3RVBNMS0yb1lxQ0RzdXFPS05BZENXLXpLbFFQNGxTdjNRLTBFVkVYQmIxWXFSNmM2ajBxamE3M2lLWkJwY0FMcFp0c2V4YzlJZUxvQ2lNTVl1dnd1UnVIWkd0eUR2UkJtQVBsYlItQ1dWenZiMkhOSXlFMXpIcmZDMkFhbUtKTjFaWjhWT095VXpVS2Q5UVAxcVA1anVzX0hlYmUxTl",
+   "date": "2026-11-11T13:39:30.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "4985ffb0a6d025ba",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "4 Dividend Stocks That Can Thrive Under a Democratic Congress - 24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVk1Y0EweGxIUGE0UXFucjdWaDBkdVVJLXRidGp3RzlEeDRreWZsSzVWWGFlQXNDVEtaUDh5OEp6WVpFRG45bXR1S1pOcktqY1FLTExoVlZUSDdUTEFxRk94VHF0Snp2Vm1ab0pDVHRieTFWYjE5OURDN19rZWU3SFR2Rkdxa3RyR2pJb2Z6V2pDTEVsbXFKa2s4VEV4aW9sMVliQmowYlo?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVk1Y0EweGxIUGE0UXFucjdWaDBkdVVJLXRidGp3RzlEeDRreWZsSzVWWGFlQXNDVEtaUDh5OEp6WVpFRG45bXR1S1pOcktqY1FLTExoVlZUSDdUTEFxRk94VHF0Snp2Vm1ab0pDVHRieTFWYjE5OURDN19rZWU3SFR2Rkdxa3RyR2pJb2Z6V2pDTEVsbXFKa2s4VEV4aW9sMVliQmowYlo?oc",
+   "date": "2026-11-11T13:11:00.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "53db6319293f4542",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "GreenDot and Reclay Share Ownership of Valorie | Leko Acquisition - News and Statistics - IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHhVZU9CczZMc0hOOEt0elJJMktYXzFnUXdrdGsxUU9PMTNhZGZueVcxZzd6d25STjExczhQa1Y4MHFQTDc5UHJJd2VGNzVZUG5jbkxQb0ZydllId2xJU3pPWGtBQ3FUNTY5UnQzc2tMRUdMRlRjQ3h1R3VZdDJNcnd0aWJFUQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHhVZU9CczZMc0hOOEt0elJJMktYXzFnUXdrdGsxUU9PMTNhZGZueVcxZzd6d25STjExczhQa1Y4MHFQTDc5UHJJd2VGNzVZUG5jbkxQb0ZydllId2xJU3pPWGtBQ3FUNTY5UnQzc2tMRUdMRlRjQ3h1R3VZdDJNcnd0aWJFUQ?oc=5\" target=\"_blank\">GreenDot and Reclay Share",
+   "date": "2026-11-11T13:31:13.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "0af73bd143ea65ef",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Microsoft Alone Had Positive Free Cash Flow; Meta Was -$1.2B - FourWeekMBA",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmFBZmN0dDBORS1WcHZ1QnNVTE1JbkFFdkRpOUlvM0VfRXFMN254TlhqV2ZuWFd6b0h3TmxTY3lYeW5LZ2JHbmlXSzRobFhEX3A1bmswYkVubjFZMnZWYUtHZXBQTWxiRzB2bGlYdDRxZElaSXhRV2kxNkpUWU41ZzI0LW9XUF9FQTV3c1l3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONmFBZmN0dDBORS1WcHZ1QnNVTE1JbkFFdkRpOUlvM0VfRXFMN254TlhqV2ZuWFd6b0h3TmxTY3lYeW5LZ2JHbmlXSzRobFhEX3A1bmswYkVubjFZMnZWYUtHZXBQTWxiRzB2bGlYdDRxZElaSXhRV2kxNkpUWU41ZzI0LW9XUF9FQTV3c1l3?oc=5\" target=\"_blank\">Microsoft Alone",
+   "date": "2026-11-11T13:56:53.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "cc13326c129e7555",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Altius Minerals agrees to C$122M TNR Gold acquisition - Mugglehead Investment Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUcxREU4QW5oU2dXZ3d2blJjS2tnSFVpeFpzRVV5ZnZJSUliWnd0UmdNYkFDVVBMY2NHU3RqenVEQVFYN2h3VS1uWjNHNTB6SDBOc08xbkM3STdUUGN2bkZvVVk4LUVOaDdLNHNVX01sRnlwOUxTeTFCcjZDb2dWcXhn?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUcxREU4QW5oU2dXZ3d2blJjS2tnSFVpeFpzRVV5ZnZJSUliWnd0UmdNYkFDVVBMY2NHU3RqenVEQVFYN2h3VS1uWjNHNTB6SDBOc08xbkM3STdUUGN2bkZvVVk4LUVOaDdLNHNVX01sRnlwOUxTeTFCcjZDb2dWcXhn?oc=5\" target=\"_blank\">Altius Minerals agrees to C$122",
+   "date": "2026-11-11T13:28:28.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "f67bb17e2e9a5eef",
+   "source": "DCD – Data Center Dynamics",
+   "group": "industry",
+   "title": "10-year data center moratorium approved in Ottawa, Kansas",
+   "link": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
+   "summary": "<p data-block-key=\"hl4z0\">... but the hyperscale project that sparked protests had already been canned</p>",
+   "date": "2026-11-11T13:35:34.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  },
+  {
+   "id": "60ccd3ca4d451df2",
+   "source": "SecurityWeek",
+   "group": "industry",
+   "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+   "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+   "summary": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .",
+   "date": "2026-11-11T13:37:19.000Z",
+   "fetched": "2026-11-11T14:03:12.106Z"
+  }
+ ]
+}
