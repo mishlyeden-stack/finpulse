@@ -11,6 +11,17 @@
   "fromCloud": "2026-11-10T2359.json"
  },
  {
+  "id": "71660a1d7095b880",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "SandRidge Energy: Oil Production Boosted By Cherokee Acquisition And Development (NYSE:SD) - Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWVyWnZDNm5fV3dTSXBzcm1jNFpXQ3dOSk1vYXE5d240OF9yZ3IwNk40WkdQRS1xVE5VUUdCYTBMc3dKUm1kQnluc1hKTGI2LXZRSmFpSm1qUzZvSV9HUW1mVW5FLU43c2R1REd2ZzNOeHBtTHNoX3BRSzF6NXVBbW1sbzhlQkZnREFJbzl5Um9OUWJtLUVLd0xOVkhOMjlNbHZJOTE4VWV2REstRnhaNXNhZVIxYW5KT29sVg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWVyWnZDNm5fV3dTSXBzcm1jNFpXQ3dOSk1vYXE5d240OF9yZ3IwNk40WkdQRS1xVE5VUUdCYTBMc3dKUm1kQnluc1hKTGI2LXZRSmFpSm1qUzZvSV9HUW1mVW5FLU43c2R1REd2ZzNOeHBtTHNoX3BRSzF6NXVBbW1sbzhlQkZnREFJbzl5Um9OUWJtLUVLd0xOVkhOMjlNbHZJOTE4VWV2RE",
+  "date": "2026-11-10T23:50:00.000Z",
+  "fetched": "2026-11-11T00:03:11.041Z",
+  "fromCloud": "2026-11-11T0003.json"
+ },
+ {
   "id": "7a41c51af1e3d79b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1681,6 +1692,17 @@
   "date": "2026-11-10T18:01:27.000Z",
   "fetched": "2026-11-10T18:03:13.638Z",
   "fromCloud": "2026-11-10T1803.json"
+ },
+ {
+  "id": "387f87d2d17171a1",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הנפט נחלש, החוב מתכווץ: אוקסידנטל עקפה את הציפיות ומגיעה ליעד של 10 מיליארד דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LTWFrajdDcWZFTHJrSGxxeWZQWEJnVGNCLUp6aEtuOExiY0JJTmJMM3FPSFA2MnpIYUN6enctQU1wNUdoMmJhSFNSWnE3QXZDb0hPLTU2LUdTVndSYkRETUk1YjBubElRdlIwRFVZV2Y?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9LTWFrajdDcWZFTHJrSGxxeWZQWEJnVGNCLUp6aEtuOExiY0JJTmJMM3FPSFA2MnpIYUN6enctQU1wNUdoMmJhSFNSWnE3QXZDb0hPLTU2LUdTVndSYkRETUk1YjBubElRdlIwRFVZV2Y?oc=5\" target=\"_blank\">הנפט נחלש, החוב מתכווץ: אוקסידנטל עקפה את הציפיות ומגיעה",
+  "date": "2026-11-10T18:01:00.000Z",
+  "fetched": "2026-11-11T00:03:11.041Z",
+  "fromCloud": "2026-11-11T0003.json"
  },
  {
   "id": "b737f4acf80f3f4b",
@@ -3919,38 +3941,5 @@
   "date": "2026-11-10T04:36:57.000Z",
   "fetched": "2026-11-10T15:33:25.237Z",
   "fromCloud": "2026-11-10T1533.json"
- },
- {
-  "id": "4dc2f9e0e8aea928",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "System advantage: The new source of value in chemicals",
-  "link": "https://www.mckinsey.com/industries/chemicals/our-insights/system-advantage-the-new-source-of-value-in-chemicals",
-  "summary": "As the favorable conditions that long supported the chemicals industry fade, advantage is being redefined around where companies compete and how they operate, innovate, and deploy their cash.",
-  "date": "2026-11-10T00:00:00.000Z",
-  "fetched": "2026-11-10T15:33:25.237Z",
-  "fromCloud": "2026-11-10T1533.json"
- },
- {
-  "id": "0e39b9f32bbf6c48",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Reinventing business planning with agentic AI",
-  "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai",
-  "summary": "Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce the manual work required to turn forecasts into action.",
-  "date": "2026-11-10T00:00:00.000Z",
-  "fetched": "2026-11-10T16:03:15.514Z",
-  "fromCloud": "2026-11-10T1603.json"
- },
- {
-  "id": "e5c374d40dc51519",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun",
-  "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun",
-  "summary": "The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps moving forward, and why staying constructively discontented may be the secret to staying relevant.",
-  "date": "2026-11-10T00:00:00.000Z",
-  "fetched": "2026-11-10T20:33:12.236Z",
-  "fromCloud": "2026-11-10T2033.json"
  }
 ]
