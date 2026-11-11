@@ -1,1 +1,46 @@
-[]
+[
+ {
+  "id": "210430f963848ba8",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "אחרי 20 שנה במיקרוסופט: המהנדסים שמנסים להתחרות בענקיות הדאטה - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczBHN3ZEVmRTcE5iVVo0LTgxLXZsRW1kUjZzU0xqa0xGU3pzdmVzdkZXTS02VFg1WTVheEVabVZUQVY2S2RRYkNLbVp0OUtyQkc4QlpSUktrMVh4QzhjVkFOUVBaRnE0V2FleXZ4QjU3VmJTdS1XUW1yR1pQVU5oYkRRMGZkMWxyYUpIOER1SW5uMWFWcVdleS02aVpEaW1XZG5iVVNtSDVmUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczBHN3ZEVmRTcE5iVVo0LTgxLXZsRW1kUjZzU0xqa0xGU3pzdmVzdkZXTS02VFg1WTVheEVabVZUQVY2S2RRYkNLbVp0OUtyQkc4QlpSUktrMVh4QzhjVkFOUVBaRnE0V2FleXZ4QjU3VmJTdS1XUW1yR1pQVU5oYkRRMGZkMWxyYUpIOER1SW5uMWFWcVdleS02aVpEaW1XZG5iVVNtSDVmUQ",
+  "date": "2026-11-11T14:01:00.000Z",
+  "fetched": "2026-11-11T14:06:10.000Z",
+  "fromCloud": "2026-11-11T1406.json"
+ },
+ {
+  "id": "d66e759410c7245a",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "עומרי כספי וסקויה משקיעים בחברת תשתיות הדאטה של יוצאי מיקרוסופט - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Qd0NzOWxtVE5kdFNweC12RnJibFNvdjktZVZJQXZLRjJUTE5NaVNwQ2FxcnM4QzItMU5xam0wd3dwaVV5dFJNcjRxQ1BPdXZqZExrbElsUHF6MGR4aDJselBCcm9OVkcwTzZj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1Qd0NzOWxtVE5kdFNweC12RnJibFNvdjktZVZJQXZLRjJUTE5NaVNwQ2FxcnM4QzItMU5xam0wd3dwaVV5dFJNcjRxQ1BPdXZqZExrbElsUHF6MGR4aDJselBCcm9OVkcwTzZj?oc=5\" target=\"_blank\">עומרי כספי וסקויה משקיעים בחברת תשתיות הדאטה של יוצאי מיקרוסופט",
+  "date": "2026-11-11T14:00:00.000Z",
+  "fetched": "2026-11-11T14:06:10.000Z",
+  "fromCloud": "2026-11-11T1406.json"
+ },
+ {
+  "id": "248501b36d9f5e19",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Friedrich Merz urged to curb German defence borrowing",
+  "link": "https://www.ft.com/content/ba2b73ed-7762-4c3f-bd04-753885e20116?syn-25a6b1a6=1",
+  "summary": "Country’s Council of Economic Experts says military spending should be gradually funded by the regular budget to prevent debt hitting 98% of GDP by 2040",
+  "date": "2026-11-11T13:40:39.000Z",
+  "fetched": "2026-11-11T14:06:10.000Z",
+  "fromCloud": "2026-11-11T1406.json"
+ },
+ {
+  "id": "3cebbe43a8b03fdc",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Saudi oil production rebounds close to prewar levels",
+  "link": "https://www.ft.com/content/c844b957-3c98-43a3-b02e-2d0f5368bd49?syn-25a6b1a6=1",
+  "summary": "Output higher than average before Iran conflict as kingdom keeps exports flowing despite attacks on shipping and energy infrastructure",
+  "date": "2026-11-11T13:29:33.000Z",
+  "fetched": "2026-11-11T14:06:10.000Z",
+  "fromCloud": "2026-11-11T1406.json"
+ }
+]
