@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 171,
+  "ok": 176,
   "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 130
+  "blocked": 132
  },
  "en.globes.co.il": {
   "ok": 36,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 186,
+  "ok": 198,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 101
+  "blocked": 106
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,18 +45,18 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 94
+  "blocked": 99
  },
  "ecb.europa.eu": {
   "ok": 5,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 33,
+  "ok": 34,
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 49,
+  "ok": 50,
   "blocked": 0
  },
  "ice.co.il": {
@@ -72,7 +72,7 @@
   "blocked": 15
  },
  "calcalistech.com": {
-  "ok": 52,
+  "ok": 53,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 17,
+  "ok": 18,
   "blocked": 1
  },
  "businesswire.com": {
@@ -148,7 +148,7 @@
   "blocked": 1
  },
  "tradingview.com": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 12
  },
  "govconwire.com": {
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 15,
+  "ok": 16,
   "blocked": 1
  },
  "inquirer.com": {
@@ -196,7 +196,7 @@
   "blocked": 2
  },
  "cfobrew.com": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 0
  },
  "federalnewsnetwork.com": {
@@ -261,7 +261,7 @@
  },
  "reuters.com": {
   "ok": 0,
-  "blocked": 4
+  "blocked": 5
  },
  "globalbankingandfinance.com": {
   "ok": 0,
@@ -505,7 +505,7 @@
  },
  "sg.finance.yahoo.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "lightwaveonline.com": {
   "ok": 1,
@@ -536,7 +536,7 @@
   "blocked": 0
  },
  "pymnts.com": {
-  "ok": 2,
+  "ok": 3,
   "blocked": 0
  },
  "wtmj.com": {
@@ -634,5 +634,29 @@
  "nadlan.walla.co.il": {
   "ok": 1,
   "blocked": 0
+ },
+ "mercedsunstar.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "app.dealroom.co": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "ticketnews.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "foxbusiness.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "news.usni.org": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "scotsmanguide.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
