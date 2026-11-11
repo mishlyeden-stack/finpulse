@@ -1,5 +1,38 @@
 [
  {
+  "id": "39fccb91e5d68aeb",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
+  "link": "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/",
+  "summary": "<p data-block-key=\"21l49\">The central figure of the AI boom could be set to lose his job</p>",
+  "date": "2026-11-11T23:27:37.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
+ },
+ {
+  "id": "7fe0c7498cc395fb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Xero launches $1 billion stock buyback plan as CFO exits - Forbes Australia",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWNIOW0zOUpZajBXLUxab1U3R0dKa1F1V1JZQVpIYXIyaUxlT1lod1lpMjc3VXBPX055Z2hNRDdKVDdtNTkyVGY3Qk5vRDJ2VEtRRUVtc3FTb0M4TzI3RExXMGxpR0djS2tWWUdMcEtNWE56S0xjYmxkZk0tMHlUVUpMRXYtR0RSTi1xNk9BVUlsNlJwdGtoYmVuLTZWdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTWNIOW0zOUpZajBXLUxab1U3R0dKa1F1V1JZQVpIYXIyaUxlT1lod1lpMjc3VXBPX055Z2hNRDdKVDdtNTkyVGY3Qk5vRDJ2VEtRRUVtc3FTb0M4TzI3RExXMGxpR0djS2tWWUdMcEtNWE56S0xjYmxkZk0tMHlUVUpMRXYtR0RSTi1xNk9BVUlsNlJwdGtoYmVuLTZWdw?oc=5\" target=\"_",
+  "date": "2026-11-11T22:57:05.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
+ },
+ {
+  "id": "ead8afff0c24d576",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Nvidia board set to meet after revelations Huang had affair with top company executive",
+  "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
+  "summary": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy",
+  "date": "2026-11-11T22:56:26.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
+ },
+ {
   "id": "2b4b1ecca96f1fd8",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +42,17 @@
   "date": "2026-11-11T22:40:06.000Z",
   "fetched": "2026-11-11T23:03:11.775Z",
   "fromCloud": "2026-11-11T2303.json"
+ },
+ {
+  "id": "5ad009be89aaeb2b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BHP Group Names Adrian Wood as CFO - marketscreener.com",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFNXYnM3TG9xVWN6emV2czZlcGdWM2dEaDU5QlNMODBwOUdLWDZoY2lBdTJNOEJTaFNmSmtuSU8zbWxlS01kNTZfTlhuQmZLenZxZHBaSHl4NVRPenJOQjd0ejZHa253TWNhazctTm9UQ29BVU5FRWwzZWNwUi1NTHdpWVhCZGpQRnY2cVk4ZFQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFNXYnM3TG9xVWN6emV2czZlcGdWM2dEaDU5QlNMODBwOUdLWDZoY2lBdTJNOEJTaFNmSmtuSU8zbWxlS01kNTZfTlhuQmZLenZxZHBaSHl4NVRPenJOQjd0ejZHa253TWNhazctTm9UQ29BVU5FRWwzZWNwUi1NTHdpWVhCZGpQRnY2cVk4ZFQ?oc=5\" target=\"_blank\">BHP Group Na",
+  "date": "2026-11-11T22:37:15.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
  },
  {
   "id": "8037cb3588e1dd72",
@@ -53,6 +97,17 @@
   "date": "2026-11-11T22:01:31.000Z",
   "fetched": "2026-11-11T23:03:11.775Z",
   "fromCloud": "2026-11-11T2303.json"
+ },
+ {
+  "id": "78d98378cf1e8e3d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CSLM Acquisition Corp. (SPWR) Stock Dips While Market Gains: Key Facts - Yahoo Finance Australia",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWFfWFNGaHR1eHJSekhaQ1FvMGpWS3QybDVZT0IzakFObWRuZWFZVmpPZEFHNTYwN2pmUTZVRG9VMzJOclR1dURKMXR0V3RNdVN3T3I3ZjNaaTY5SXZwMTRFS2ViV2NJUkZFSVRFbVd3LXRhdU9XZlktdWRuMkhRV1gzMjgwNm9H?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWFfWFNGaHR1eHJSekhaQ1FvMGpWS3QybDVZT0IzakFObWRuZWFZVmpPZEFHNTYwN2pmUTZVRG9VMzJOclR1dURKMXR0V3RNdVN3T3I3ZjNaaTY5SXZwMTRFS2ViV2NJUkZFSVRFbVd3LXRhdU9XZlktdWRuMkhRV1gzMjgwNm9H?oc=5\" target=\"_blank\">CSLM Acquisition Corp. ",
+  "date": "2026-11-11T22:00:02.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
  },
  {
   "id": "dcf8859f5b930fd9",
@@ -231,6 +286,17 @@
   "fromCloud": "2026-11-11T2203.json"
  },
  {
+  "id": "d18384cab97e3539",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "רוסטיק בייקרי בדוח חלש - המניה כבר כ-36% מתחת למחיר ההנפקה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fdlo5VndFZTN5Vy0xZlF2ZEZEVEoxNWYxOW03SHlrRDFqOXRaYUlvdVlmRE5sRzc0Vk9mczU3WFVlenZjbzV2eF94NzJwazFjSmFyTGlYSzhwa0ZnMGFvZUR6MGJacmdSbUlrMW9NeUc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5fdlo5VndFZTN5Vy0xZlF2ZEZEVEoxNWYxOW03SHlrRDFqOXRaYUlvdVlmRE5sRzc0Vk9mczU3WFVlenZjbzV2eF94NzJwazFjSmFyTGlYSzhwa0ZnMGFvZUR6MGJacmdSbUlrMW9NeUc?oc=5\" target=\"_blank\">רוסטיק בייקרי בדוח חלש - המניה כבר כ-36% מתחת למחיר ההנפ",
+  "date": "2026-11-11T20:40:00.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
+ },
+ {
   "id": "67ea39d5c8610dfb",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -374,6 +440,17 @@
   "fromCloud": "2026-11-11T2003.json"
  },
  {
+  "id": "dbf13c374ec22436",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מנכ\"ל פורשה על הרודסטר של טסלה: \"רוצים להתרחק מכל סוג של אפקטים ומופעים\" - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpeFd4dzhfWTBmWHYzM0NDa0tMdFc1bjNZOVBmejViX24xbEZSVzhnVEVzWmdJQ3V3LV8tZldEOVRIV2xhWkthSS1FZTh3NFBLZE43ZGJxVWhVNXNLZVhJY1FfSQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpeFd4dzhfWTBmWHYzM0NDa0tMdFc1bjNZOVBmejViX24xbEZSVzhnVEVzWmdJQ3V3LV8tZldEOVRIV2xhWkthSS1FZTh3NFBLZE43ZGJxVWhVNXNLZVhJY1FfSQ?oc=5\" target=\"_blank\">מנכ\"ל פורשה על הרודסטר של טסלה: \"רוצים להתרחק מכל סוג של אפקטים ומופעים\"<",
+  "date": "2026-11-11T19:36:00.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
+ },
+ {
   "id": "201905d0c0c777ce",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -394,6 +471,17 @@
   "date": "2026-11-11T19:35:00.000Z",
   "fetched": "2026-11-11T20:03:15.614Z",
   "fromCloud": "2026-11-11T2003.json"
+ },
+ {
+  "id": "06905c81165ced38",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AM Best Comments on Credit Ratings of Samsung Fire & Marine Insurance Co., Ltd. Following Announced Acquisition of a Controlling Stake in Canopius Group Limited - InsuranceNewsNet",
+  "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaWZvTGxYZXhPcnJuZEd6TGdXeXBDQkdZTUJrZjE1SThJMzdVR1JoS0hpbk1TRWI4bHJobTBWWkw1TTRkM3NraUVCc19NMTE3RmdYLVpIdGJubW9ZVDhzdGNRN0hPNlgxaC1RZ2hOZm1CMGlHZVNlYUlpZUJmejFGdEpxVDhvQ0lzUTdHcFZmWFRVaWRLajRCdWxLTFJIR3N0cEEzN2I1anQ3Y1c4ZUhURzBGZnl3ZFRqUDMxVkhTOVdlSGNSUXF5VVJsRVRTSzNzaWlwTHF1YnU4RTBDYWlabk1mdkZsNEVkZHhPVlE0dnQ1dUNnRmZxekppX2oxVGhmZm50MmtXMjNlV29jdnJ4ZGZJUW1UdzhXdjJYUk93?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOaWZvTGxYZXhPcnJuZEd6TGdXeXBDQkdZTUJrZjE1SThJMzdVR1JoS0hpbk1TRWI4bHJobTBWWkw1TTRkM3NraUVCc19NMTE3RmdYLVpIdGJubW9ZVDhzdGNRN0hPNlgxaC1RZ2hOZm1CMGlHZVNlYUlpZUJmejFGdEpxVDhvQ0lzUTdHcFZmWFRVaWRLajRCdWxLTFJIR3N0cEEzN2I1anQ3Y1",
+  "date": "2026-11-11T19:26:20.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
  },
  {
   "id": "f2041ca9039977ff",
@@ -559,6 +647,17 @@
   "date": "2026-11-11T18:25:00.000Z",
   "fetched": "2026-11-11T18:33:12.997Z",
   "fromCloud": "2026-11-11T1833.json"
+ },
+ {
+  "id": "fa79af22d5b6f236",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מיקרוסופט מזהירה: איסור על רכיבים סיניים עלול לעכב את מרוץ ה-AI בארה\"ב - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pOTgySDZJOS1veU1wX3AzYlN4R1owRVlSM0d2UDJYbWFrVUFCVG9pQWJXdmFmNnBFOHJPOVlUUU4zZTZDOEpJaWtueXViMDZzdDFvbnJuRk9pallteVFLRkJ3V3JiYkEtWmZWVUYyd0g?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1pOTgySDZJOS1veU1wX3AzYlN4R1owRVlSM0d2UDJYbWFrVUFCVG9pQWJXdmFmNnBFOHJPOVlUUU4zZTZDOEpJaWtueXViMDZzdDFvbnJuRk9pallteVFLRkJ3V3JiYkEtWmZWVUYyd0g?oc=5\" target=\"_blank\">מיקרוסופט מזהירה: איסור על רכיבים סיניים עלול לעכב את מר",
+  "date": "2026-11-11T18:15:00.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
  },
  {
   "id": "bce69993e53250fd",
@@ -801,6 +900,17 @@
   "date": "2026-11-11T17:21:19.000Z",
   "fetched": "2026-11-11T17:33:13.643Z",
   "fromCloud": "2026-11-11T1733.json"
+ },
+ {
+  "id": "d41d22d6d2e338f2",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "IBM מתכננת לחבר שני מעבדים קוונטיים למערכת של 1,040 קיוביטים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DZjk0X0tsZFNNeHczNUlZVm9RcVRvYjRjUTFneEdGTlo5LWFiNWJXSEttV2FHcjZqMDVBX3gwdldJaVI0Z3NDa1o3Z3ZLbDUyeDVJa1RSZ01ESzJvZkxYN3o1NFl5ZHlm?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DZjk0X0tsZFNNeHczNUlZVm9RcVRvYjRjUTFneEdGTlo5LWFiNWJXSEttV2FHcjZqMDVBX3gwdldJaVI0Z3NDa1o3Z3ZLbDUyeDVJa1RSZ01ESzJvZkxYN3o1NFl5ZHlm?oc=5\" target=\"_blank\">IBM מתכננת לחבר שני מעבדים קוונטיים למערכת של 1,040 קיוביטים</a>&nb",
+  "date": "2026-11-11T17:18:00.000Z",
+  "fetched": "2026-11-11T23:33:14.054Z",
+  "fromCloud": "2026-11-11T2333.json"
  },
  {
   "id": "8c457964779641df",
