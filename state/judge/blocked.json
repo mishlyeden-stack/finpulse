@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 186,
+  "ok": 191,
   "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 135
+  "blocked": 140
  },
  "en.globes.co.il": {
   "ok": 38,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 206,
+  "ok": 221,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 111
+  "blocked": 112
  },
  "13tv.co.il": {
   "ok": 0,
@@ -40,12 +40,12 @@
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 28,
-  "blocked": 23
+  "ok": 29,
+  "blocked": 24
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 100
+  "blocked": 101
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -64,15 +64,15 @@
   "blocked": 6
  },
  "datacenterdynamics.com": {
-  "ok": 18,
-  "blocked": 40
+  "ok": 19,
+  "blocked": 41
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 15
  },
  "calcalistech.com": {
-  "ok": 55,
+  "ok": 57,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 16,
+  "ok": 17,
   "blocked": 1
  },
  "inquirer.com": {
@@ -189,11 +189,11 @@
  },
  "mckinsey.com": {
   "ok": 0,
-  "blocked": 4
+  "blocked": 5
  },
  "wsj.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "cfobrew.com": {
   "ok": 5,
@@ -658,5 +658,17 @@
  "scotsmanguide.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "forbes.com.au": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "jdn.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "futurumgroup.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }

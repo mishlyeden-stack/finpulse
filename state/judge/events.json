@@ -1,89 +1,5 @@
 [
  {
-  "key": "אפווינד | גיוס 400 מיליון דולר — שווי 3.8 מיליארד | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793197892591,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אפווינד | גיוס 400 מיליון דולר אחרי ויתור על רכישת Datadog — שווי 3.8 מיליארד | אוקטובר 2026",
-  "level": "learn",
-  "first": 1793246904991,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "CFO Brew | CFO בנקים: ביטחון במאזנים למרות אי-וודאות | אוקטובר 2026",
-  "level": "learn",
-  "first": 1793246904991,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ישראל | המלצות השקעה אחרי בחירות — אג״ח קצרות, ביטחון, יצוא; נדל״ן פגיע | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793246904991,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סין | צמיחה מפתיעה בעקבות AI ויצוא — אך שוק פנימי בקריסה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793246904991,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קליפורניה | מס SaaS מ-2027 — השפעה על חברות תוכנה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793246904991,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Space Force | עיכוב לוויין מעקב טילים ל-2027 — שינוי גישת הרכש | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793246904991,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Anthropic IPO | סנאטורית וורן חוקרת סיכוני AI ושוק לפני הנפקה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793247192269,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אורקל | שילוב תוכנות עסקיות ב-ChatGPT — שותפות אסטרטגית עם OpenAI | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793247192269,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סייבר | מגנים שנים מאחורי תוקפים — ניתוח CTech | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793247408652,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "FedEx | עקפה תחזיות Q3 + העלאת תחזית שנתית | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793247408652,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | חברות תעופה ישראליות מעכבות טיסות לדובאי ומרוקו בגלל מחלוקות ביטחוניות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793247408652,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "בוסטון סיינטיפיק | מתקפת סייבר גורמת לירידה צפויה במכירות Q4 | אוקטובר 2026",
   "level": "learn",
   "first": 1793248674866,
@@ -4063,6 +3979,174 @@
   "key": "אנבידיה–סין | משרד המסחר האמריקאי עיכב סנקציות חרף אזהרות — פרשת הואנג | נובמבר 2026",
   "level": "yellow",
   "first": 1794406175936,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Xero | רכישה עצמית מיליארד דולר + עזיבת CFO | נובמבר 2026",
+  "level": "learn",
+  "first": 1794456453266,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנתרופיק | הנפקה צפויה עד 1.4 טריליון דולר — מבחן שוק AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456453267,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מאינד CTI | מכירת חברת תקשורת ישראלית 25 מיליון דולר — משבר השקעות בתחום | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456453267,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רבולוט ישראל | בליץ גיוסים לקראת הקמת הבנק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456453267,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלפאבית | גיוס 3 מיליארד דולר באסיה — פיזור מימון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456453267,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פולימרקט | קיצוץ עובדים לפני הנפקה — ניקוי שורות | נובמבר 2026",
+  "level": "learn",
+  "first": 1794456915379,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קוסטקו | דיבידנד מיוחד 13.3 מיליארד דולר — הגדול בתולדות החברה | נובמבר 2026",
+  "level": "learn",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פאלו אלטו–סייברארק | עלות פיטורי עובדים 60 מיליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט | אזהרה מאיסור רכיבים סיניים — עיכוב מרוץ AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | הסמכת תחנות כוח 2,700 מגה-וואט בגז — שמיר, פאוורג׳ן, פלמחים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה–ישראל | תביעה ייצוגית נגד הואנג + חוקר מונה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביטחון | מניית ביטחון עם אפסייד 22% — וול סטריט | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יונייטד | חסימת סוכני AI מהזמנת טיסות — השלכות על OTA | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טבע | העלאת יעד הכנסות ל-6–7 מיליארד דולר עד 2030 + שקלול רכישות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI חשמל | מניות מתאוששות — שאלת מימון הבנייה נפתחת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ריסקיפייד | זינוק 22% — AI מהפך מניעת הונאות למנוע צמיחה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נמל חיפה | סכסוך עבודה מלחיץ את אדאני | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794456915380,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "PwC | מחצית מהחברות פגיעות למתקפות AI — דו״ח אמון דיגיטלי 2027 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794457141043,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "FIS | מינוי CFO ביניים בחברת פינטק ענק לפני שלב אסטרטגי | נובמבר 2026",
+  "level": "learn",
+  "first": 1794457141043,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אפלייד אינטואישן | גיוס 1.5 מיליארד דולר בשווי 30 מיליארד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794457141044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טאלן אנרג׳י | חוזה הספק חשמל 100 מיליון דולר בשנה עם מרכז נתונים — זינוק 6% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794457141044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | חקירת משרד עורכי דין בפרשת הואנג + מניה קופצת 5% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794457141044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ויקטורי–קרפור | שאלת השליטה — האם רביד יכול להשתלט? | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794457141044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שוק הגמל | חצה טריליון שקל — הכשרה ביטוח נכנסת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794457141044,
   "sentLive": false,
   "candidate": true
  }
