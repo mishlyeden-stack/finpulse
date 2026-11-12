@@ -118,3 +118,5 @@ Signal חוזר נשלח רק בהתפתחות מהותית שמשנה את הה
 | S-20261109-05 | ServiceNow \| Q3 AI ACV $1.7B +70%, ניצחון ציפיות — מניה -27% ביום \| 29.10.2026 | https://finance.yahoo.com/markets/stocks/articles/servicenow-cfo-calls-ai-disruption-111850103.html | Daily 09.11 (כדאי לחשוב) | — | 🎓 |
 | S-20261110-Reecf | פד–וולר \| העלאת ריבית דצמבר — אולי חצי אחוז \| נובמבר 2026 | https://www.bizportal.co.il/wallstreet/news/article/20047861 | Live RSS 2026-11-10 14:45 | — | 🔴 |
 | S-20261112-Reaed | אנבידיה–הואנג \| ירידה 8% + דירקטוריון שוקל הדחה + CFO כמועמדת ביניים \| נובמבר 2026 | https://www.globes.co.il/news/article.aspx?did=1001563101#utm_source=RSS | Live RSS 2026-11-12 08:59 | התפתחות | 🔴 |
+| S-20261112-Rdf23 | אנבידיה \| ג׳נסן הואנג מתפטר — CFO קרס כמנכ״לית ביניים \| נובמבר 2026 | https://www.globes.co.il/news/article.aspx?did=1001563140#utm_source=RSS | Live RSS 2026-11-12 16:22 | התפתחות | 🔴 |
+| S-20261112-Rb424 | דולר–שקל \| זינוק + נפט ל-94 דולר אחרי צייץ טראמפ \| נובמבר 2026 | https://www.ynet.co.il/economy/article/s1m8er7cfx | Live RSS 2026-11-12 16:22 | התפתחות | 🔴 |
