@@ -1,26 +1,5 @@
 [
  {
-  "key": "בוסטון סיינטיפיק | מתקפת סייבר גורמת לירידה צפויה במכירות Q4 | אוקטובר 2026",
-  "level": "learn",
-  "first": 1793248674866,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "IAI / אלתא | מיזוג לתוך ת״א בלב תעשייה אווירית לקראת הנפקה 2027 | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793248674867,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Parsons | פרופיל חוזי OTA + מעבר CFO | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793248674867,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "בורסה ישראל | ירידות חדות מוחקות תשואות אוקטובר — בוקר אחרי בחירות 28.10 | אוקטובר 2026",
   "level": "red",
   "first": 1793249173862,
@@ -4147,6 +4126,34 @@
   "key": "שוק הגמל | חצה טריליון שקל — הכשרה ביטוח נכנסת | נובמבר 2026",
   "level": "yellow",
   "first": 1794457141044,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | ריבית יורדת — קרנות כספיות עוקפות אג״ח, איפה עוד תשואה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794458261839,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מדד נובמבר — אינפלציה צפויה לרדת אך יש מלכוד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794458261839,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Xen Orchestra | חולשות קריטיות מנוצלות — השתלטות על XCP-ng nodes | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794458261839,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פולין–קטאר | ביטול חוזה גז מיליארדי בגלל חסימת הורמוז | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794458421112,
   "sentLive": false,
   "candidate": true
  }

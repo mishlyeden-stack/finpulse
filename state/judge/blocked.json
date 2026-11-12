@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 191,
+  "ok": 193,
   "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 140
+  "blocked": 142
  },
  "en.globes.co.il": {
   "ok": 38,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 112
+  "blocked": 113
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 69
+  "blocked": 73
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -41,11 +41,11 @@
  },
  "pc.co.il": {
   "ok": 29,
-  "blocked": 24
+  "blocked": 25
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 101
+  "blocked": 104
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 56,
+  "ok": 57,
   "blocked": 0
  },
  "ice.co.il": {
@@ -120,7 +120,7 @@
   "blocked": 1
  },
  "maariv.co.il": {
-  "ok": 6,
+  "ok": 7,
   "blocked": 0
  },
  "visionmonday.com": {
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 19
+  "blocked": 20
  },
  "techtarget.com": {
   "ok": 1,
