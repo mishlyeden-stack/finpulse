@@ -1,89 +1,5 @@
 [
  {
-  "key": "צרפת | הגבלת ישראל בתערוכת SOFINS — רק הגנה ויירוט, ללא נציגי ממשלה | 29 אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793264881289,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Anthropic | כלים למדידת ROI על הוצאות AI | 29 אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793264881290,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סין | האקרים מנצלים פגיעות ESXi כ-Zero-Day — ללא לוגים | 29 אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793264881290,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ישראל | מהפך לעליות — בנקים וביטוח מובילים, טכנולוגיה נחלשת | 29 אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793264881290,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שקל | נסיגה קלה — דולר חוזר מעל 3.12 | 29 אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793265109382,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "גוגל | פתיחת ג'מיני וחיפוש לאפליקציות חיצוניות — מלחמת סוכני AI | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793265498105,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מיקרוסופט | דוח Q3 — הכנסות ענן Azure זינקו 48%, מניה +5% | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793266671575,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פורטינט | צניחה 25% למרות עקיפת תחזיות — שוק הסייבר מתמחר מחדש | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793266671575,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה | עסקת Hugging Face 12.9 מיליארד דולר תחת בדיקת DOJ | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793266671576,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בוסטון סיינטיפיק | מתקפת סייבר — ירידה צפויה במכירות Q4 | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793266671576,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ישראל | ת״א 90 צונח 4.4%, ת״א בנייה — היום החלש מאז 7 אוקטובר | 28 אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793267098847,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שקל | ציפיות שוק לאחר בחירות — ממשלה תקבע כיוון | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793267384726,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ECB | לגארד פורשת פברואר 2027 — תשעה חודשים מוקדם | אוקטובר 2026",
   "level": "yellow",
   "first": 1793270205495,
@@ -4015,7 +3931,7 @@
   "level": "red",
   "first": 1794461881083,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "Naver | תזרים חופשי שלילי כשהוצאות הון קפצו 45% — מחיר הצמיחה | נובמבר 2026",
