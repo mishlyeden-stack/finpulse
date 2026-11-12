@@ -5,19 +5,19 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 145
+  "blocked": 148
  },
  "en.globes.co.il": {
   "ok": 40,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 226,
+  "ok": 227,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 114
+  "blocked": 115
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 73
+  "blocked": 76
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -72,7 +72,7 @@
   "blocked": 16
  },
  "calcalistech.com": {
-  "ok": 57,
+  "ok": 58,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -120,7 +120,7 @@
   "blocked": 1
  },
  "maariv.co.il": {
-  "ok": 7,
+  "ok": 8,
   "blocked": 0
  },
  "visionmonday.com": {
@@ -176,8 +176,8 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 17,
-  "blocked": 2
+  "ok": 18,
+  "blocked": 3
  },
  "inquirer.com": {
   "ok": 1,
@@ -261,7 +261,7 @@
  },
  "reuters.com": {
   "ok": 0,
-  "blocked": 6
+  "blocked": 7
  },
  "globalbankingandfinance.com": {
   "ok": 0,
