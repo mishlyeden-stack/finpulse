@@ -1,5 +1,38 @@
 [
  {
+  "id": "d144ba3217a01d70",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "Programmatic M&A in Australia: The most reliable way to unlock value",
+  "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/programmatic-m-and-a-in-australia-the-most-reliable-way-to-unlock-value",
+  "summary": "Fewer than one in 20 Australian-listed companies pursued programmatic M&A over the past decade, but they delivered the highest excess shareholder returns of any cohort.",
+  "date": "2026-11-12T00:00:00.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
+ },
+ {
+  "id": "9c4064dadcc8414d",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Scott Colom wins historic Senate race in Mississippi",
+  "link": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1",
+  "summary": "Democrat becomes the first Black man to represent the state since Reconstruction era",
+  "date": "2026-11-11T23:49:57.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
+ },
+ {
+  "id": "ecfa0df6b6982602",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EU clears acquisition of security firm by investment giants - Howl.Link",
+  "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE45YVdtWEhsYk9zUk15VlVRQktRLTdRLWlaZ2w0ODA5eElVelZLLTRVQmk4aEZ6RE9xSEtr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE45YVdtWEhsYk9zUk15VlVRQktRLTdRLWlaZ2w0ODA5eElVelZLLTRVQmk4aEZ6RE9xSEtr?oc=5\" target=\"_blank\">EU clears acquisition of security firm by investment giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>",
+  "date": "2026-11-11T23:40:36.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
+ },
+ {
   "id": "39fccb91e5d68aeb",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -9,6 +42,61 @@
   "date": "2026-11-11T23:27:37.000Z",
   "fetched": "2026-11-11T23:33:14.054Z",
   "fromCloud": "2026-11-11T2333.json"
+ },
+ {
+  "id": "03027bbf6f67e68e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Vitru Educação: Record free cash flow and lower leverage supported a first R$79.7m distribution - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRldqd2pqWDhOcFE0dDRTaW5SOVE3VEs3Sm9hSlVGRGZNSmJXa3hOaG9EMXd6bk1yNEZGbE5TQ0RoeWVncUlGM0VacTc5TnZGZG8wTDFBNV9XUTJSaTJhaXV6VWwyZGREaEZUM3hCMFRVcXFnT2tFMnY0RVgxQ3NwQlB6QmJURmhKQWFDSXFSdENnYmxkS2RLNC1LcmRRVVUtdkU4X2dON0lSNGlvTlNiMEc3QzI4STRsY2lJQUpPbVpSOGJfUzMwd3doQi1OSTBOZTVORUxYZG5mVnB1UXhHNUI5cFB3NVZEUDk5SjJsZ0dFNTNFNGFldDd4OUtXR0g4NG9SWGItWQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPRldqd2pqWDhOcFE0dDRTaW5SOVE3VEs3Sm9hSlVGRGZNSmJXa3hOaG9EMXd6bk1yNEZGbE5TQ0RoeWVncUlGM0VacTc5TnZGZG8wTDFBNV9XUTJSaTJhaXV6VWwyZGREaEZUM3hCMFRVcXFnT2tFMnY0RVgxQ3NwQlB6QmJURmhKQWFDSXFSdENnYmxkS2RLNC1LcmRRVVUtdkU4X2dON0lSNG",
+  "date": "2026-11-11T23:25:05.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
+ },
+ {
+  "id": "6f46e754e192e7bc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Refinancing wall looms for software comapanies - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWHl0Z210VFVOQzh3VU44MUdrVGdOY2hTZW9ZcW5EUzgtWUJYd09zTXJIOHQ1cldDWl9GNXdfSjIxVTMzeEU4dlJ6OXBGOUFiSzUtRkRpeTFTQ0tzdGtkaUQ1LWVIRlFwLWU3T0pTM2ZESkdUTHZ2T3pYV2d0RGN2WlJCaDNVak1CUjl0ZWFtd1pETDg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPWHl0Z210VFVOQzh3VU44MUdrVGdOY2hTZW9ZcW5EUzgtWUJYd09zTXJIOHQ1cldDWl9GNXdfSjIxVTMzeEU4dlJ6OXBGOUFiSzUtRkRpeTFTQ0tzdGtkaUQ1LWVIRlFwLWU3T0pTM2ZESkdUTHZ2T3pYV2d0RGN2WlJCaDNVak1CUjl0ZWFtd1pETDg?oc=5\" target=\"_blank\">Refinanc",
+  "date": "2026-11-11T23:19:06.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
+ },
+ {
+  "id": "7f5c0baf78421dcf",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Yoma Strategic: Higher core EBITDA and a narrower loss, with bond refinancing secured - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb1YzMVRrb0k1SU9OdDlNeWdFWDBtWWJoMDdkc0l4NWJVSGQ4bWdVVGVoamZmX2p3SDVtejZCa1hNYlZieGdoNVN0R29NZFllMlpLVU9zal9QS2pmZDNMcl84dmJzblkyMExQN0RCT3JXbnhubTU1VVZPREd2aEZMOG1CUHpFaVlFeFc0clZmSU9BREZZSklMVEZqSEdxS3kzanBXNlNVMGx0SkZaOURmVk9iaXpBMjZ3Zk96akUxR0lXMHRmNXZJN0pGY3M3ZzN4ZHFNWmdIQkRpNHk5R1hmZktfTUlJU211QXRJSXRrZ1ZhOFhYOV9TZXpB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb1YzMVRrb0k1SU9OdDlNeWdFWDBtWWJoMDdkc0l4NWJVSGQ4bWdVVGVoamZmX2p3SDVtejZCa1hNYlZieGdoNVN0R29NZFllMlpLVU9zal9QS2pmZDNMcl84dmJzblkyMExQN0RCT3JXbnhubTU1VVZPREd2aEZMOG1CUHpFaVlFeFc0clZmSU9BREZZSklMVEZqSEdxS3kzanBXNlNVMGx0Sk",
+  "date": "2026-11-11T23:17:32.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
+ },
+ {
+  "id": "a4cf81c4088e44bb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Kimberly Clark (KMB) Completes Kenvue Acquisition - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzRRTVgzd3ZyZ2RqUUxIdVhUTWhxYVNtb1JteTE4VlJHZzZGVzZ1ZHhRdHNfUEpyUGVYbi04VFhtNEdBLXlHX2JOQ2RyNFktLUtZYlRCcXkyWVVuNzRMR1AyRGpOZGw1X011Y0Jxb19IT0hIYlNiTFZ6UGlHMHR1OVZESXFQaEJRMHg4eHp3S2RGOGJja1R2R2xtTEpuQVJndmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzRRTVgzd3ZyZ2RqUUxIdVhUTWhxYVNtb1JteTE4VlJHZzZGVzZ1ZHhRdHNfUEpyUGVYbi04VFhtNEdBLXlHX2JOQ2RyNFktLUtZYlRCcXkyWVVuNzRMR1AyRGpOZGw1X011Y0Jxb19IT0hIYlNiTFZ6UGlHMHR1OVZESXFQaEJRMHg4eHp3S2RGOGJja1R2R2xtTEpuQVJndmc?oc=5\" targ",
+  "date": "2026-11-11T23:14:12.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
+ },
+ {
+  "id": "e40558a8729eabf0",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מחקר על 2,495 אירים: מים עם פלואוריד לא פגעו בזיכרון גם אחרי עשרות שנים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56U21sWXBPaUlyWTg3QlJwX254UzJUTDhQRjJqTXliOHYxaHF1QnRXeFN4WlNtejd3cVk0WVozWTBydWV3UVVCUVl1M2xyRlItZ3JncEdDbUhwTEZVTG9qa0NzNTA3OTdH?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE56U21sWXBPaUlyWTg3QlJwX254UzJUTDhQRjJqTXliOHYxaHF1QnRXeFN4WlNtejd3cVk0WVozWTBydWV3UVVCUVl1M2xyRlItZ3JncEdDbUhwTEZVTG9qa0NzNTA3OTdH?oc=5\" target=\"_blank\">מחקר על 2,495 אירים: מים עם פלואוריד לא פגעו בזיכרון גם אחרי עשרות ",
+  "date": "2026-11-11T22:59:00.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
  },
  {
   "id": "7fe0c7498cc395fb",
@@ -31,6 +119,17 @@
   "date": "2026-11-11T22:56:26.000Z",
   "fetched": "2026-11-11T23:33:14.054Z",
   "fromCloud": "2026-11-11T2333.json"
+ },
+ {
+  "id": "810375508bd3e5e0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BHP Group Appoints Adrian Wood As CFO Effective 17 February 2027 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTEwOFJnMXhTV2hYM0RONlJnMVBaZHdXU25jSkZRWE4xMmJTWGxzZGhFenhjRU9ieDUtemEwMzdzY3ZCYzlkMGJfeElGWmdrUWg2U2pyRi10Ri1tZ1lEOEp1LWJLLTZNTHVUa3RyUFlTOWxHYnhqZnEyclhkNEFTdjY2UHU5S25YZ3AtcUowdHN0a3BQWmM4bHF4cnEyTlY1N2FvdUdJUHJYWEtlSlFPaWs4eGQ4cnU5VDktWWhsclJoakV1YUYwWU8zMklCQzA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTEwOFJnMXhTV2hYM0RONlJnMVBaZHdXU25jSkZRWE4xMmJTWGxzZGhFenhjRU9ieDUtemEwMzdzY3ZCYzlkMGJfeElGWmdrUWg2U2pyRi10Ri1tZ1lEOEp1LWJLLTZNTHVUa3RyUFlTOWxHYnhqZnEyclhkNEFTdjY2UHU5S25YZ3AtcUowdHN0a3BQWmM4bHF4cnEyTlY1N2FvdUdJUHJYWE",
+  "date": "2026-11-11T22:49:06.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
  },
  {
   "id": "2b4b1ecca96f1fd8",
@@ -152,6 +251,17 @@
   "date": "2026-11-11T21:49:24.000Z",
   "fetched": "2026-11-11T23:03:11.775Z",
   "fromCloud": "2026-11-11T2303.json"
+ },
+ {
+  "id": "d920bb97fe14b68e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שנת לימודים נוספת שווה כ-550 אלף שקל ברוטו לאורך הקריירה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FQWdjQzhBMzNOTVJ4Smdmbm1JWlhlQ1YwTDQ5Rk9VSENnQTFId0IzNmNFSWE3VlVJMWdBZThKVHRuZ3JRNlVOMThmcGlWcWFNQVM4RzJ4b1YtZ3RpdXl5TmdlNzNBZlhaRGI5WnV3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1FQWdjQzhBMzNOTVJ4Smdmbm1JWlhlQ1YwTDQ5Rk9VSENnQTFId0IzNmNFSWE3VlVJMWdBZThKVHRuZ3JRNlVOMThmcGlWcWFNQVM4RzJ4b1YtZ3RpdXl5TmdlNzNBZlhaRGI5WnV3?oc=5\" target=\"_blank\">שנת לימודים נוספת שווה כ-550 אלף שקל ברוטו לאורך הקריירה</a",
+  "date": "2026-11-11T21:43:00.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
  },
  {
   "id": "fcde5530f890bb0b",
@@ -416,6 +526,17 @@
   "date": "2026-11-11T19:51:00.000Z",
   "fetched": "2026-11-11T21:03:15.091Z",
   "fromCloud": "2026-11-11T2103.json"
+ },
+ {
+  "id": "54cad6141337beff",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ריסקיפייד מזנקת 22% אחרי הדוחות - וה-AI הופך את ההונאות למנוע צמיחה חדש - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqbW9LMnZzaW1aRmFRcXVkbUNPd05ZQnhqS1RvSUVSVWtBYTF0ZXQ0SnNPdVVvRmJoajNwVUpWME5VSlVRZzlDUkZFTDNHM0I1NTBlOEI5YWJOTERsNG9ZdWRQNHRweFFqcXpNNjIzSks?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBqbW9LMnZzaW1aRmFRcXVkbUNPd05ZQnhqS1RvSUVSVWtBYTF0ZXQ0SnNPdVVvRmJoajNwVUpWME5VSlVRZzlDUkZFTDNHM0I1NTBlOEI5YWJOTERsNG9ZdWRQNHRweFFqcXpNNjIzSks?oc=5\" target=\"_blank\">ריסקיפייד מזנקת 22% אחרי הדוחות - וה-AI הופך את ההונאות ",
+  "date": "2026-11-11T19:48:00.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
  },
  {
   "id": "c5822cf0ff107845",
@@ -748,6 +869,17 @@
   "fromCloud": "2026-11-11T2003.json"
  },
  {
+  "id": "e18553fe5d5c651d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "איראן דורשת בוועידת האקלים פיצוי על 1.5 מיליון טון פחמן מהתקיפות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNTduOHlkZ3IxTlB4Sngza3ctUUJydXJBaHpaNWJjc1BtdkhvVW91UGp3SUdnS1RKWFF1UE9MLWYySnRQTW1YeUVlNzNkNi0tUC1MQnRqdTVsWEdjd0l5bDMtSGU3QzA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CNTduOHlkZ3IxTlB4Sngza3ctUUJydXJBaHpaNWJjc1BtdkhvVW91UGp3SUdnS1RKWFF1UE9MLWYySnRQTW1YeUVlNzNkNi0tUC1MQnRqdTVsWEdjd0l5bDMtSGU3QzA?oc=5\" target=\"_blank\">איראן דורשת בוועידת האקלים פיצוי על 1.5 מיליון טון פחמן מהתקיפות</a>",
+  "date": "2026-11-11T17:59:00.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
+ },
+ {
   "id": "b841dbd3c78e1795",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -790,6 +922,17 @@
   "date": "2026-11-11T17:47:00.000Z",
   "fetched": "2026-11-11T18:33:12.997Z",
   "fromCloud": "2026-11-11T1833.json"
+ },
+ {
+  "id": "38cddd5cdac6eed9",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "CME מקדמת חוזה עתידי על אורניום פיזי, כשהמחיר נע סביב 92 דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rQ2Z0NzYzdVhwSFBtd1pyOC1VNy1aUmdYUlZ4U1NfTDlhWjdZY2QtWFVBZ3JnWnUyYlAybW43bEZJYVlvSTA0NVRBVlFXSXA5VEFiMHRvRzZjeTR4dkhuZE1Sd1Y4WDQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rQ2Z0NzYzdVhwSFBtd1pyOC1VNy1aUmdYUlZ4U1NfTDlhWjdZY2QtWFVBZ3JnWnUyYlAybW43bEZJYVlvSTA0NVRBVlFXSXA5VEFiMHRvRzZjeTR4dkhuZE1Sd1Y4WDQ?oc=5\" target=\"_blank\">CME מקדמת חוזה עתידי על אורניום פיזי, כשהמחיר נע סביב 92 דולר</a>&nb",
+  "date": "2026-11-11T17:46:00.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
  },
  {
   "id": "baf7615a3fe5454d",
@@ -878,6 +1021,17 @@
   "date": "2026-11-11T17:27:00.000Z",
   "fetched": "2026-11-11T18:03:12.595Z",
   "fromCloud": "2026-11-11T1803.json"
+ },
+ {
+  "id": "98e9fbb5a126b47b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פער של 23% בשכר מצטבר לכ-1.8 מיליון שקל לאורך הקריירה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rSzN2QXBmelBXal9RQ3VKMklWRFh0S1YtN0VkWlhfc0pwNndtcXZ6eEdzbGpXcjRUYzdJeE9hc18wZFBzeTZxNVZFcnkzeWJpZGRNYzhRYnY2dHZzcy1XdGtsbEFsN3Z3QWliVHNR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1rSzN2QXBmelBXal9RQ3VKMklWRFh0S1YtN0VkWlhfc0pwNndtcXZ6eEdzbGpXcjRUYzdJeE9hc18wZFBzeTZxNVZFcnkzeWJpZGRNYzhRYnY2dHZzcy1XdGtsbEFsN3Z3QWliVHNR?oc=5\" target=\"_blank\">פער של 23% בשכר מצטבר לכ-1.8 מיליון שקל לאורך הקריירה</a>&n",
+  "date": "2026-11-11T17:27:00.000Z",
+  "fetched": "2026-11-12T00:03:11.680Z",
+  "fromCloud": "2026-11-12T0003.json"
  },
  {
   "id": "2a761489d70da2a5",
