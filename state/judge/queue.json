@@ -1,5 +1,214 @@
 [
  {
+  "id": "94f16c521431ac36",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - LifeStance Health Group, Inc. (0001845257) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1845257/000119312526458585/0001193125-26-458585-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458585 <b>Size:</b> 432 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T21:32:42.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "f337c1652d2e97a8",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - USA Compression Partners, LP (0001522727) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1522727/000152272726000114/0001522727-26-000114-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001522727-26-000114 <b>Size:</b> 175 KB <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-11-12T21:32:14.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "1f95531798bcd0d4",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Virgin Galactic Holdings, Inc (0001706946) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1706946/000119312526458580/0001193125-26-458580-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458580 <b>Size:</b> 570 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T21:31:39.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "ceaf9ad1ed0988bb",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Olema Oncology, Inc. (0001750284) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1750284/000119312526458572/0001193125-26-458572-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458572 <b>Size:</b> 751 KB <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhi",
+  "date": "2026-11-12T21:30:48.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "d67460e9edbc0507",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1162896/000116289626000013/0001162896-26-000013-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001162896-26-000013 <b>Size:</b> 585 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T21:30:40.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "84988d3848dfb91b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - NEW JERSEY RESOURCES CORP (0000356309) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/356309/000114036126043446/0001140361-26-043446-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001140361-26-043446 <b>Size:</b> 623 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-11-12T21:30:37.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "d549acbf34315c36",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Legacy Education Inc. (0001836754) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1836754/000149315226051430/0001493152-26-051430-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001493152-26-051430 <b>Size:</b> 341 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T21:30:30.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "b4b1b2092fd559f5",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - NATIONAL BANKSHARES INC (0000796534) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/796534/000119312526458542/0001193125-26-458542-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458542 <b>Size:</b> 387 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T21:30:17.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "4282f9277ae01c5e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Planet 13 Holdings Inc. (0001813452) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1813452/000143774926036591/0001437749-26-036591-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001437749-26-036591 <b>Size:</b> 440 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T21:28:25.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "9a67594299705772",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Verrica Pharmaceuticals Inc. (0001660334) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1660334/000119312526458527/0001193125-26-458527-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458527 <b>Size:</b> 294 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T21:27:54.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "a72750e3ba0f2609",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Meta Platforms, Inc. (0001326801) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/0001193125-26-458525-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458525 <b>Size:</b> 769 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T21:27:49.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "9e71d0e3f4c6646c",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Candel Therapeutics, Inc. (0001841387) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526458522/0001193125-26-458522-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458522 <b>Size:</b> 423 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T21:26:57.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "eb251bd91eb58bfc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Danone Completes Acquisition of Australia’s Made Group - Food Processing",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlY3ektQVHdhOEQxSGpTWk9HbWt2bFRqTkc1UWdNUllQYUFobnpEMEx2RW4xSTBRQ3UxQktjdHViSnN2bWxRcDRCdEY2YzdYREdMUUUwRHFFTV9rd1d6UUlpMWZuNHBEQXdxSTBUNGpXTEdjRVpQUGl2NE9ZaHhmUktod3RicFAwYUk4Wl91dzZOVVVTcXJyTTU1d3g4N0RDNjM4WFFGdEF3Si1oajNRYkM2d3BBWHVzam1ndk5Rd2huc1ROdHNPVG1lWkE5Q2lJc0pzbw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlY3ektQVHdhOEQxSGpTWk9HbWt2bFRqTkc1UWdNUllQYUFobnpEMEx2RW4xSTBRQ3UxQktjdHViSnN2bWxRcDRCdEY2YzdYREdMUUUwRHFFTV9rd1d6UUlpMWZuNHBEQXdxSTBUNGpXTEdjRVpQUGl2NE9ZaHhmUktod3RicFAwYUk4Wl91dzZOVVVTcXJyTTU1d3g4N0RDNjM4WFFGdEF3Si",
+  "date": "2026-11-12T21:25:11.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "ebbf8f846915b0d8",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סיסקו מעלה את תחזית ההכנסות ל-75 מיליארד דולר, והמניה עולה 4% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LVWhuRDVvQ2pzQmFSRHo5MXMyZWFfVzFqTnJDNEJQOGZ0MDhYSnVCLTlCWmlwaS13VWxzdWFCaHVsMFlDbENsX2VCckcwd3RRb255OHJzVmFoaDFRNUJaV18xZVJGT2Z6bmZhZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5LVWhuRDVvQ2pzQmFSRHo5MXMyZWFfVzFqTnJDNEJQOGZ0MDhYSnVCLTlCWmlwaS13VWxzdWFCaHVsMFlDbENsX2VCckcwd3RRb255OHJzVmFoaDFRNUJaV18xZVJGT2Z6bmZhZw?oc=5\" target=\"_blank\">סיסקו מעלה את תחזית ההכנסות ל-75 מיליארד דולר, והמניה עולה 4%",
+  "date": "2026-11-12T21:24:00.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "6bd2db3336ce9b22",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "YSS: York Space Systems names interim CFO Brian D. Frantz permanent... - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEtUaGZURVZKam1lMVBJd0toMWxRM2FtakFKUTU5Vi1zLVplUU52bGZFamxoNmtNUEd6MGRpYzFkRDM5RlVVbk1XT21oZ3VBVzFFNEVEMkdneUZWM3ZDT0tKVUhhOGRaaC1mbVN6cU01VHJqYzgzZWhBcEtSeEk0cGxuTlBJNDY4VnNXV3ctWHUwbXdHeUtMLWhYTl9lSGlZSmFjaw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEtUaGZURVZKam1lMVBJd0toMWxRM2FtakFKUTU5Vi1zLVplUU52bGZFamxoNmtNUEd6MGRpYzFkRDM5RlVVbk1XT21oZ3VBVzFFNEVEMkdneUZWM3ZDT0tKVUhhOGRaaC1mbVN6cU01VHJqYzgzZWhBcEtSeEk0cGxuTlBJNDY4VnNXV3ctWHUwbXdHeUtMLWhYTl9lSGlZSmFjaw?oc=5\" t",
+  "date": "2026-11-12T21:21:54.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "07264b0188ff9322",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Klarna Picks Robinhood Vet Chris Koegel as New CFO - PYMNTS.com",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNazM5NElFY1djMVR0QUNtNUF0WE1hdk83dUxBbnRKd3MzaTFxSENaNjB6dWc3Vkd3aWxLT0ZnU1lwY0E1SVljY25rODhPa0dya181VE9JSG96RWdRRjlIOXBiSTNDM1h0OU90SVJyei0zSjdTM2tOOHVEYTc3bnBlYzNZV0NoS2tKNi1xQ2FKOXNqYnc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNazM5NElFY1djMVR0QUNtNUF0WE1hdk83dUxBbnRKd3MzaTFxSENaNjB6dWc3Vkd3aWxLT0ZnU1lwY0E1SVljY25rODhPa0dya181VE9JSG96RWdRRjlIOXBiSTNDM1h0OU90SVJyei0zSjdTM2tOOHVEYTc3bnBlYzNZV0NoS2tKNi1xQ2FKOXNqYnc?oc=5\" target=\"_blank\">Klarna P",
+  "date": "2026-11-12T21:19:49.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "26e7f386a1900428",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Nvidia turned to CFO Colette Kress to steady ship after Huang exit - Quartz",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kTFduaXV4REs4U0o2REluRnAycnVjaTVsNkxjZVRBN2dZQngtR3pSZEtON1JxZDhyWGN3UmNFd1ZVNTFGd1JVV3hpRnN2Y1VJemg2X2FCdlB5OXE3SE02a21CR05xbm93YmhlNmhOamVGNy1WSjhyaEV0YTc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9kTFduaXV4REs4U0o2REluRnAycnVjaTVsNkxjZVRBN2dZQngtR3pSZEtON1JxZDhyWGN3UmNFd1ZVNTFGd1JVV3hpRnN2Y1VJemg2X2FCdlB5OXE3SE02a21CR05xbm93YmhlNmhOamVGNy1WSjhyaEV0YTc?oc=5\" target=\"_blank\">Nvidia turned to CFO Colette Kress to st",
+  "date": "2026-11-12T21:08:56.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "b2091a5bb23fd87b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Thoma Bravo-Backed BlueMatrix Completes Acquisition of AI Financial Research Platform Aiera - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzRqY1JvTGJXdmVxc1RoSUEybTVtQ1gtN09KbldVR2swNlpXdkxabi1ZSmlrZ0d2QlVTZnQ4ZWZFQUhnelhGODc0NzhBWkVFLWR5ZG1xbmg3Sk91VEZiMzVkWEFWNTNGSDJYTFBSUHpJZnctRVcxU0g4UG9IX2FWanhJY1ZNVXQ4Sks5X1FSc1BlcnpoZEtQcXFTSDBSM1NXMW9zS0tCdnZvdDFzbllSRDh2NkFPQlNmTEl3M2t0bTB0c2psZnhMUXhR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzRqY1JvTGJXdmVxc1RoSUEybTVtQ1gtN09KbldVR2swNlpXdkxabi1ZSmlrZ0d2QlVTZnQ4ZWZFQUhnelhGODc0NzhBWkVFLWR5ZG1xbmg3Sk91VEZiMzVkWEFWNTNGSDJYTFBSUHpJZnctRVcxU0g4UG9IX2FWanhJY1ZNVXQ4Sks5X1FSc1BlcnpoZEtQcXFTSDBSM1NXMW9zS0tCdnZvdD",
+  "date": "2026-11-12T21:06:57.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
+  "id": "a5eeec4101e61e57",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "קלשי במגעים לגיוס לפי שווי 65 מיליארד דולר, שבועות אחרי סבב ב-40 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wM2I3QWtnaS1JVndwZ3F1MUhxenlWcUY2VFRsTDRoMUFGeVJhdTNSZ2tzYnp4UkZ5NWtZSVU5WHhiZzF6MVRwWkdGaXU1ZldlNVZZblFwc1dQVXFET3pSMHhnY3lQbHZERGJ5UWhtLVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8wM2I3QWtnaS1JVndwZ3F1MUhxenlWcUY2VFRsTDRoMUFGeVJhdTNSZ2tzYnp4UkZ5NWtZSVU5WHhiZzF6MVRwWkdGaXU1ZldlNVZZblFwc1dQVXFET3pSMHhnY3lQbHZERGJ5UWhtLVQ?oc=5\" target=\"_blank\">קלשי במגעים לגיוס לפי שווי 65 מיליארד דולר, שבועות אחרי ",
+  "date": "2026-11-12T21:05:00.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
   "id": "5c108fed3834a909",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -9,6 +218,17 @@
   "date": "2026-11-12T21:02:07.000Z",
   "fetched": "2026-11-12T21:03:12.657Z",
   "fromCloud": "2026-11-12T2103.json"
+ },
+ {
+  "id": "38de89e319bdfe5e",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Ousted Nvidia CEO Jensen Huang accused of third affair, with another staffer",
+  "link": "https://www.datacenterdynamics.com/en/news/ousted-nvidia-ceo-jensen-huang-accused-of-third-affair-with-another-staffer/",
+  "summary": "<p data-block-key=\"rhvjr\">He's departed Nvidia, but the revelations won't stop coming</p>",
+  "date": "2026-11-12T21:02:00.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
  },
  {
   "id": "a4725cd05b4ede8a",
@@ -99,6 +319,17 @@
   "fromCloud": "2026-11-12T2103.json"
  },
  {
+  "id": "05a042932645e503",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Trump signals end to vice-president’s Iran peace deal push",
+  "link": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
+  "summary": "President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns",
+  "date": "2026-11-12T20:32:43.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
   "id": "b4c86f43c0f86e96",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -132,6 +363,17 @@
   "fromCloud": "2026-11-12T2033.json"
  },
  {
+  "id": "3c9c81b0358ff7df",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "CFOs confront cash-flow risks as AI costs rise",
+  "link": "https://www.cfodive.com/news/cfos-confront-cash-flow-risks-ai-costs-rise/874554/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/88pXye_BonuI47zwYTyHKjgCMOWHWUSGp6wV3s7CPdU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwLmpwZw==.webp\"/></div></figure><p>AI spending averaged 24% above expectations at organiz",
+  "date": "2026-11-12T20:20:58.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
+ },
+ {
   "id": "cff54d7dd312e1d6",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -163,6 +405,17 @@
   "date": "2026-11-12T20:06:00.000Z",
   "fetched": "2026-11-12T20:33:12.400Z",
   "fromCloud": "2026-11-12T2033.json"
+ },
+ {
+  "id": "758ca3dfe6fef22e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הואנג ניהל רומן עם עובדת נוספת באנבידיה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZM1FmclI1ZFU5eThmUGZiUk54VXU2UXNmX0NBVTVxNVVPVDNWcGxRRC1oSURVV2trcGU1NnJwbkJRaHpUWlFQMjdnTWhRS0JmVXJmMjh2Qkd4bmdSVXFseFlRM3Q5QjNoaWxvbTBESS0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBZM1FmclI1ZFU5eThmUGZiUk54VXU2UXNmX0NBVTVxNVVPVDNWcGxRRC1oSURVV2trcGU1NnJwbkJRaHpUWlFQMjdnTWhRS0JmVXJmMjh2Qkd4bmdSVXFseFlRM3Q5QjNoaWxvbTBESS0?oc=5\" target=\"_blank\">הואנג ניהל רומן עם עובדת נוספת באנבידיה</a>&nbsp;&nbsp;<",
+  "date": "2026-11-12T20:05:00.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
  },
  {
   "id": "6ba6e0b6ca537703",
@@ -526,6 +779,17 @@
   "date": "2026-11-12T18:26:26.000Z",
   "fetched": "2026-11-12T18:33:12.877Z",
   "fromCloud": "2026-11-12T1833.json"
+ },
+ {
+  "id": "534dde9f548938bb",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הטלטלה באנבידיה מגיעה לזיכרון: סנדיסק ירדה עד 7%, מיקרון 3% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaDFJN2Vnem9YdmpseXlxUDNIZW9NYXhFMnlWenVobDhhYUtnaXp1aDFNWHhCWmRrMjN1TmVUNG00eDMxOFZkYUs2QldBRk41cThvUzI3bnhqM0lCel9SZDNOeDJoWDNEVW9tcg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaDFJN2Vnem9YdmpseXlxUDNIZW9NYXhFMnlWenVobDhhYUtnaXp1aDFNWHhCWmRrMjN1TmVUNG00eDMxOFZkYUs2QldBRk41cThvUzI3bnhqM0lCel9SZDNOeDJoWDNEVW9tcg?oc=5\" target=\"_blank\">הטלטלה באנבידיה מגיעה לזיכרון: סנדיסק ירדה עד 7%, מיקרון 3%</",
+  "date": "2026-11-12T18:23:00.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
  },
  {
   "id": "31550b14ef9d6381",
@@ -3615,5 +3879,16 @@
   "date": "2026-11-12T00:00:00.000Z",
   "fetched": "2026-11-12T16:33:15.576Z",
   "fromCloud": "2026-11-12T1633.json"
+ },
+ {
+  "id": "96258e401452bfd7",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "Shaping the intelligent age: How Europe can thrive",
+  "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/shaping-the-intelligent-age-how-europe-can-thrive",
+  "summary": "Europe has been one of the winners of the industrial age, but it cannot win the intelligent age on cost alone; it must win on innovation and scale.",
+  "date": "2026-11-12T00:00:00.000Z",
+  "fetched": "2026-11-12T21:33:13.341Z",
+  "fromCloud": "2026-11-12T2133.json"
  }
 ]
