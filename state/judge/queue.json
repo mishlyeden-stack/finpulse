@@ -1,5 +1,38 @@
 [
  {
+  "id": "352a286379b0a854",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "DNR eyes future Rails-to-Trails acquisition - Upper Michigan's Source",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQam5jb0JrOU9NZ2R1Tlh6dGU3TzlldFduV3YzQjBnNHpsWkJhQTZ6bDM2MGlBczFMNnhpWlB6NjNhdkloX3hJQnlTZjFrNkZTa1BZQ2k1WHRfOUp4R2V6ZEJFWTdIQVR3TWZKVk01YzNIS3FPU2doSDNOTE9PMm5pa1RhMFBPbXBtZFhFQ242Y29YVW1jLU800gGrAUFVX3lxTE94dTR1RzRBUlhjekZfYVl6dXZ5M1VEdElLTWwyTm5ma0FwWUZmdUpvRVdaSl9fYUJIRXh1VENXcTItN3ZxTXpVNUNEZ0NiQ1IxX0tYU1BmM3pvRTNmWnkya2w2akhSdF8tTmFlLUdGeEpTTjRXbEpvZHZIM1lhbF9QUDhHSkxIRjBmUGRfeXRQeVJrMTRsSEtmSEo5RFZOenc1MDVOakQ0SlM2RQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQam5jb0JrOU9NZ2R1Tlh6dGU3TzlldFduV3YzQjBnNHpsWkJhQTZ6bDM2MGlBczFMNnhpWlB6NjNhdkloX3hJQnlTZjFrNkZTa1BZQ2k1WHRfOUp4R2V6ZEJFWTdIQVR3TWZKVk01YzNIS3FPU2doSDNOTE9PMm5pa1RhMFBPbXBtZFhFQ242Y29YVW1jLU800gGrAUFVX3lxTE94dTR1RzRBUl",
+  "date": "2026-11-12T01:23:00.000Z",
+  "fetched": "2026-11-12T01:33:12.516Z",
+  "fromCloud": "2026-11-12T0133.json"
+ },
+ {
+  "id": "7c4e2abd2c10c6c1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BHP Names Australian Projects Boss as Next CFO - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUdMdXlfb1NwLU9sRHoxRlJXaDlHMXhjMEJhd0FsSFpmTUYxcFBFV3pXVWhhVTVzTmVUNm5EVU1JWENuV1ZGQV93R0VXTFZHWUE5VDBCRVRBdXJKb3hFQV9CT2lEMVhBQVJVV0NkWDF0aW8xUnFRVVRlNHRTaWdfMm9DNTVZUEJUX0c3ZjBPREZBLUtxNUow?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUdMdXlfb1NwLU9sRHoxRlJXaDlHMXhjMEJhd0FsSFpmTUYxcFBFV3pXVWhhVTVzTmVUNm5EVU1JWENuV1ZGQV93R0VXTFZHWUE5VDBCRVRBdXJKb3hFQV9CT2lEMVhBQVJVV0NkWDF0aW8xUnFRVVRlNHRTaWdfMm9DNTVZUEJUX0c3ZjBPREZBLUtxNUow?oc=5\" target=\"_blank\">BHP",
+  "date": "2026-11-12T01:03:00.000Z",
+  "fetched": "2026-11-12T01:33:12.516Z",
+  "fromCloud": "2026-11-12T0133.json"
+ },
+ {
+  "id": "c1585958891ca261",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מגוריט אגח יג -אג\"ח - אגרות חוב - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01OWxUWnhyN3lvZXRxOWtVanRRYVBxQXlmNDBxMXljdE5jY0N4RHFCSWhEUVU4ZGF5eE50TlkxUHhuVm9tbEhidWxaWGhEQVVBUmVwTw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE01OWxUWnhyN3lvZXRxOWtVanRRYVBxQXlmNDBxMXljdE5jY0N4RHFCSWhEUVU4ZGF5eE50TlkxUHhuVm9tbEhidWxaWGhEQVVBUmVwTw?oc=5\" target=\"_blank\">מגוריט אגח יג -אג\"ח - אגרות חוב</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheMarker Finance</font>",
+  "date": "2026-11-12T00:25:09.000Z",
+  "fetched": "2026-11-12T01:33:12.516Z",
+  "fromCloud": "2026-11-12T0133.json"
+ },
+ {
   "id": "032d47fc6f84bee6",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -735,6 +768,17 @@
   "date": "2026-11-11T19:02:00.000Z",
   "fetched": "2026-11-11T20:03:15.614Z",
   "fromCloud": "2026-11-11T2003.json"
+ },
+ {
+  "id": "98cd8bcb55a708b5",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "יונייטד חוסמת סוכני AI מהזמנת טיסות, ומניית אקספדיה עלתה 3% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pOERJOHVDVzJxQTRGRUJFdWpKUC1jOVZVbHdBd0N2OXFjVTNnVHZWcHNTVWFoNGNEdDdKaHlXRllRa1h0RmlGTW94amxMS3VNMG1vVEVWZXk3RnVXbUMwZWRQdUhoMmZhWFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5pOERJOHVDVzJxQTRGRUJFdWpKUC1jOVZVbHdBd0N2OXFjVTNnVHZWcHNTVWFoNGNEdDdKaHlXRllRa1h0RmlGTW94amxMS3VNMG1vVEVWZXk3RnVXbUMwZWRQdUhoMmZhWFE?oc=5\" target=\"_blank\">יונייטד חוסמת סוכני AI מהזמנת טיסות, ומניית אקספדיה עלתה 3%</a>&",
+  "date": "2026-11-11T19:01:00.000Z",
+  "fetched": "2026-11-12T01:33:12.516Z",
+  "fromCloud": "2026-11-12T0133.json"
  },
  {
   "id": "d34a5020cb27275b",
