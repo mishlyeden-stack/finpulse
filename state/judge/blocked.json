@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 198,
+  "ok": 199,
   "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 148
+  "blocked": 151
  },
  "en.globes.co.il": {
   "ok": 40,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 115
+  "blocked": 116
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 76
+  "blocked": 77
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -65,11 +65,11 @@
  },
  "datacenterdynamics.com": {
   "ok": 19,
-  "blocked": 43
+  "blocked": 44
  },
  "funder.co.il": {
   "ok": 0,
-  "blocked": 16
+  "blocked": 17
  },
  "calcalistech.com": {
   "ok": 58,
