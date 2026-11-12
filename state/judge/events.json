@@ -1,40 +1,5 @@
 [
  {
-  "key": "ברן | ביטול פרויקט ענק באפריקה ימים אחרי פרישת מנכ״ל | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793263108479,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סין | האקרים מנצלים פגיעות ESXi כ-Zero-Day ללא רישום לוגים | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793263108480,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בית הלבן | סיכוני סייבר ברובוטים תעשייתיים מיצור זר | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793263108480,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תעשייה אווירית | מינוי שלומי סודרי לראש חטיבת מערכות, טילים וחלל | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793263108480,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארה״ב | אישור ייצור סדרתי של טיל היפרסוני ARRW של לוקהיד מרטין | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793263108480,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "צרפת | הגבלת ישראל בתערוכת SOFINS — רק הגנה ויירוט, ללא נציגי ממשלה | 29 אוקטובר 2026",
   "level": "yellow",
   "first": 1793264881289,
@@ -4133,6 +4098,41 @@
   "key": "אלביט | חוזה מערכות רקטיות PULS נאט״ו 260 מיליון דולר | נובמבר 2026",
   "level": "yellow",
   "first": 1794470780534,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Maersk | גניבת נתונים 100GB + סחיטה 5 מיליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794474418382,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "חלל תקשורת | הכנסות יורדות למרות צמצום חוב | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794474418383,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | חוזה PULS נאט״ו +800 מיליון שקל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794474418383,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ברזאני | הנפקה בת״א — מיליארד שקל, שווי 2.25 מיליארד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794474418383,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | בית הדין הארצי — מכתב פיטורים כתאונת עבודה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794474418383,
   "sentLive": false,
   "candidate": true
  }
