@@ -1,5 +1,159 @@
 [
  {
+  "id": "d517487fde46779c",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - TRIO-TECH INTERNATIONAL (0000732026) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/732026/000143774926036467/0001437749-26-036467-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001437749-26-036467 <b>Size:</b> 461 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T17:28:23.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "9ce0b81ae7ab8be2",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "באושר עד מבינים איך עובד טירוף צרכני",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563278#utm_source=RSS",
+  "summary": "הבכירה מרשות המסים עונה ברשתות החברתיות &#8226; הרשת שיודעת להרוויח מטרנד לוהט &#8226; וההשקעה שהתכווצה ומסכנת את ההובלה &#8226; זרקור על כמה עניינים שעל הפרק",
+  "date": "2026-11-12T17:25:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "e4333a20ecb08728",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אינדקס תשתיות טכנולוגיה גלובלי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNV09aSDY5dWxXVnJBYkMwQ29TQ1dkenRPaG9ORFRjLTEyTWJFTzY2OEx1czNmVXNVSFZNTHJtUGMwUmtTdjVBYU1oYWlhX2hKYnNLaHJoZXpGMFdKYTFpRkVaNTdQRl9fOEFVbm5ONGNPQ2FD?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBNV09aSDY5dWxXVnJBYkMwQ29TQ1dkenRPaG9ORFRjLTEyTWJFTzY2OEx1czNmVXNVSFZNTHJtUGMwUmtTdjVBYU1oYWlhX2hKYnNLaHJoZXpGMFdKYTFpRkVaNTdQRl9fOEFVbm5ONGNPQ2FD?oc=5\" target=\"_blank\">אינדקס תשתיות טכנולוגיה גלובלי</a>&nbsp;&nbsp;<font",
+  "date": "2026-11-12T17:24:57.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "7224c88ed20e871c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Hospice an M&A Priority for Aveanna - Hospice News",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GZHhVSHFZOEZGRmhieFFEMWJxTzJ0a1ZfejFIYTFINTM0S1NEMFZJclI5TWs0RUIzaG1BU1ZfTjlIbVBSd3k5bmNJWU1xS1BTbmVUOF9XYjZFSjhpQjJEYmNBS09mOG9VdlJkQ2c1bHQtZnZkbkl4Y193?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9GZHhVSHFZOEZGRmhieFFEMWJxTzJ0a1ZfejFIYTFINTM0S1NEMFZJclI5TWs0RUIzaG1BU1ZfTjlIbVBSd3k5bmNJWU1xS1BTbmVUOF9XYjZFSjhpQjJEYmNBS09mOG9VdlJkQ2c1bHQtZnZkbkl4Y193?oc=5\" target=\"_blank\">Hospice an M&A Priority for Aveanna</a>&nbs",
+  "date": "2026-11-12T17:22:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "2d32eb032c59f988",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "המועמד של טראמפ לתפקיד מנכ&#034;ל אנבידיה: טים קוק",
+  "link": "https://www.pc.co.il/featured/461420/",
+  "summary": "ל דונלד טראמפ יש מועמד להחליף את מנכ\"ל אנבידיה , ג'נסן הואנג , שהתפטר היום (ה') מתפקידו : טים קוק , ש פרש ב-1 בספטמבר מתפקיד מנכ\"ל אפל אחרי 15 שנים. הנשיא האמריקני כתב בפוסט ברשת החברתית שלו, Truth Social: \"עכשיו, כשמנכ\"ל אנבידיה, ג'נסן הואנג, שעשה עבודה פנטסטית, התפטר, יש רק אדם",
+  "date": "2026-11-12T17:21:47.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "f3618c1657f6d073",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Sabey signs 43.5MW PPA in Texas",
+  "link": "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/",
+  "summary": "<p data-block-key=\"l4389\">Company to offtake from CIP’s Greasewood solar farm</p>",
+  "date": "2026-11-12T17:20:39.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "1794ee0fa80f97c3",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "אפי נכסים סיימה את הרבעון השלישי עם גידול של 15.4% ברווח הנקי - שוק ההון - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlVqNEdsMzdQeURCclRTc2xhTzFhdGF2NjV0bmhweDV2MWhxakZaSWQ2VUFKODlpckJBZnpjUE1zRlFmeFJlU1RGYjkwaTduTDExZndyMFg0WHRPTDJLOXNRQXdEMzZ5QjBMT3pyaTd2MDY4SHlUaEhpUHlHSjJORmkwQzQtU1RMVHNpOGxIWFBLejNIZUFj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlVqNEdsMzdQeURCclRTc2xhTzFhdGF2NjV0bmhweDV2MWhxakZaSWQ2VUFKODlpckJBZnpjUE1zRlFmeFJlU1RGYjkwaTduTDExZndyMFg0WHRPTDJLOXNRQXdEMzZ5QjBMT3pyaTd2MDY4SHlUaEhpUHlHSjJORmkwQzQtU1RMVHNpOGxIWFBLejNIZUFj?oc=5\" target=\"_blank\">אפי",
+  "date": "2026-11-12T17:20:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "8de48751eeb175d4",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "דיווח: ג'נסן הואנג עשוי להעיד בקונגרס כבר בשבוע הבא - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91OFAwUzNkek9WS1lCYXRLdl8yUnlIV3hPa2k3QXdkdGZCVEVFOXpjTmZ5dXJvd2R4SXlPT09Fbk9NWHB6U3hxSTVnV3hBNklWcS1vSnN1Ym5UOWxxT0VVak92aWZBbUh6OUIw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE91OFAwUzNkek9WS1lCYXRLdl8yUnlIV3hPa2k3QXdkdGZCVEVFOXpjTmZ5dXJvd2R4SXlPT09Fbk9NWHB6U3hxSTVnV3hBNklWcS1vSnN1Ym5UOWxxT0VVak92aWZBbUh6OUIw?oc=5\" target=\"_blank\">דיווח: ג'נסן הואנג עשוי להעיד בקונגרס כבר בשבוע הבא</a>&nbsp;&n",
+  "date": "2026-11-12T17:13:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "f6bfce6f2d594e81",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Forest County Potawatomi Community seeks to expand Milwaukee data center",
+  "link": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/",
+  "summary": "<p data-block-key=\"7di8v\">Challenges Milwaukee's data center moratorium</p>",
+  "date": "2026-11-12T17:10:30.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "39d1f253961f0d55",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Nvidia CEO resigns amid scandal; CFO named interim - ESG Dive",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMi1iZFNsUVlnc3hXY3dydUtYVTNzM2JBZXQtQmdXZFdiV05oamd1a0NFSnl3Q3NiSFNrRHdFSUxHVkJjdWxReElDMU9UM1BoanhrZ25FU0dXZVh4Z2FKbjFrV3BscUt4SjFMY3ltZjNYZTN2eWYtM3A5anJINFpRMUNhLVFfM0NjLVZDd2IwV0NJdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMi1iZFNsUVlnc3hXY3dydUtYVTNzM2JBZXQtQmdXZFdiV05oamd1a0NFSnl3Q3NiSFNrRHdFSUxHVkJjdWxReElDMU9UM1BoanhrZ25FU0dXZVh4Z2FKbjFrV3BscUt4SjFMY3ltZjNYZTN2eWYtM3A5anJINFpRMUNhLVFfM0NjLVZDd2IwV0NJdw?oc=5\" target=\"_blank\">Nvidia CE",
+  "date": "2026-11-12T17:10:26.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "279467c036e9e2b2",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "אסוס ואנבידיה דוחפות את ה-AI לקצה: סקירת ה-ProArt P14",
+  "link": "https://www.pc.co.il/featured/461413/",
+  "summary": "יש כיום שתי מגמות מאוד ברורות לגבי השימוש ב-AI, שהפוכות לגמרי בכיוונן: מצד אחד, אליבא ד סם אלטמן , לדוגמה, ההתמקדות צריכה להיות בדאטה סנטרים שמשרתים את צורכי אימון המודלים וההיסק מרחוק, או בארגונים גדולים בשרתים מקומיים. מהצד השני יש את המגמה של יצרניות המחשוב האישי, אבל לא רק, ל",
+  "date": "2026-11-12T17:10:01.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "c5f6b4ecee4633fd",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "חלל תקשורת בדרך לבעל שליטה חדש: חברת אומגה של לירון קרסין - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fa0lQM3dDeVVtSTEwamN4NTl6S0thLW1tMU5RVmRsV3pjM0k1TzJzR3VpUVViS3kwMkZuYkZhTHRrM2pzek9DLTdBRnMyWG1rcWRvQXF6aGJ0QWRKZEtNODc3aU4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fa0lQM3dDeVVtSTEwamN4NTl6S0thLW1tMU5RVmRsV3pjM0k1TzJzR3VpUVViS3kwMkZuYkZhTHRrM2pzek9DLTdBRnMyWG1rcWRvQXF6aGJ0QWRKZEtNODc3aU4?oc=5\" target=\"_blank\">חלל תקשורת בדרך לבעל שליטה חדש: חברת אומגה של לירון קרסין</a>&nbsp;&nbsp",
+  "date": "2026-11-12T17:08:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "70f02394f20f8ec5",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "באצטדיון כדורגל: ההשקה החדשה של זיקר",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563236#utm_source=RSS",
+  "summary": "מותג הרכב ZEEKR ערך אירוע מסירות ראשון מסוגו באצטדיון בלומפילד &#8226; משלחת של כ-30 ראשי ערים מ-19 מדינות ביקרה בבורסה בתל אביב &#8226; ופורום תגלית אקסל כינס מאות מנהיגים, יזמים ומשקיעים לדיונים על עתיד ההייטק, השקעות, בינה מלאכותית וטכנולוגיות ביטחוניות &#8226; אירועים ומינויי",
+  "date": "2026-11-12T17:05:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "621db001d48b9c7a",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "הסוף למלחמת המחירים? יבואני מכוניות סיניות הודיעו לחברות הליסינג על התייקרות ב־2027",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563249#utm_source=RSS",
+  "summary": "הפחתת הטבות המס ליצרניות הרכב החשמלי בסין צפויה לייקר את היבוא לישראל, לאחר שנים של תחרות מחירים אגרסיבית. ההתייקרות עשויה להגיע למחירונים כבר ב-2027 &#8226; במקביל, כלמוביל מרחיבה את פעילותה באירופה עם זיכיון GAC בצ'כיה ובסלובקיה, וב.מ.וו משיקה בישראל דגמים חדשים עם טווח נסיעה ש",
+  "date": "2026-11-12T17:03:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
   "id": "9c033e2e44cb9b4a",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -86,6 +240,17 @@
   "date": "2026-11-12T16:55:00.000Z",
   "fetched": "2026-11-12T17:03:11.839Z",
   "fromCloud": "2026-11-12T1703.json"
+ },
+ {
+  "id": "eefe69609e0a9758",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Who Is Colette Kress? Nvidia’s CFO Is Now Interim CEO - The Profile | Polina Pompliano",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzMEtPU3hiRWdMRWJvTzVyeTdLQ3hITTg4TE9jTFdpV0p6MnFwTFVqRjJGaUUtdkEwSlFLNXVpYlZXeU52N2FDUHRieUVYQXRZN0F5VVJEcVVhcTFfc3FyZGdUYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzMEtPU3hiRWdMRWJvTzVyeTdLQ3hITTg4TE9jTFdpV0p6MnFwTFVqRjJGaUUtdkEwSlFLNXVpYlZXeU52N2FDUHRieUVYQXRZN0F5VVJEcVVhcTFfc3FyZGdUYw?oc=5\" target=\"_blank\">Who Is Colette Kress? Nvidia’s CFO Is Now Interim CEO</a>&nbsp;&nbsp;<fon",
+  "date": "2026-11-12T16:54:27.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
  },
  {
   "id": "6770d57766aeef4c",
@@ -308,6 +473,17 @@
   "fromCloud": "2026-11-12T1633.json"
  },
  {
+  "id": "c68d71620fb22682",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "- Acquisition would expand Komatsu’s equipment portfolio with new products and specialized expertise - Komatsu announces intent to acquire Roadtec and Carlson road construction equipment brands - www.komatsu.jp",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EZ09jLW5oT0RaNVJYaVdGcnlIenVneXZraFlQYUlFcEVDV1NkZnczdGJGY21pZjBiZUlwdXBsUTBaRWkyeWJFSHg2ZEVfQXhjSThMYjEwT0VYRzRr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EZ09jLW5oT0RaNVJYaVdGcnlIenVneXZraFlQYUlFcEVDV1NkZnczdGJGY21pZjBiZUlwdXBsUTBaRWkyeWJFSHg2ZEVfQXhjSThMYjEwT0VYRzRr?oc=5\" target=\"_blank\">- Acquisition would expand Komatsu’s equipment portfolio with new products and spec",
+  "date": "2026-11-12T16:18:47.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
   "id": "11d3a8955aa08d84",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -328,6 +504,17 @@
   "date": "2026-11-12T16:16:04.000Z",
   "fetched": "2026-11-12T17:03:11.839Z",
   "fromCloud": "2026-11-12T1703.json"
+ },
+ {
+  "id": "1c460fa43064987a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "האם אנבידיה היא הזדמנות? סקר גולשים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15MlU2aG9nMC15Nmo2cmlZZWl0SHhlZExvQjVSOHo0bEJ2dnhZNUJMd3hPdHMtTE9LVTFiTFF5amR1M0dFYWUxZjQyUGVkTWt0d3NFRWRRekFXVmtRWU5Hc2k3TnhKbVpfeFRwRQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE15MlU2aG9nMC15Nmo2cmlZZWl0SHhlZExvQjVSOHo0bEJ2dnhZNUJMd3hPdHMtTE9LVTFiTFF5amR1M0dFYWUxZjQyUGVkTWt0d3NFRWRRekFXVmtRWU5Hc2k3TnhKbVpfeFRwRQ?oc=5\" target=\"_blank\">האם אנבידיה היא הזדמנות? סקר גולשים</a>&nbsp;&nbsp;<font colo",
+  "date": "2026-11-12T16:16:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
  },
  {
   "id": "11873c3e2419a096",
@@ -746,6 +933,17 @@
   "date": "2026-11-12T15:29:00.000Z",
   "fetched": "2026-11-12T16:03:31.740Z",
   "fromCloud": "2026-11-12T1603.json"
+ },
+ {
+  "id": "71fab8cf111eae0b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Law Firm COO & CFO Forum 2026: Firm leaders grapple with emerging AI progress and fears - Thomson Reuters",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTdSalg4UVBwVjZwdDNOLUVFT3dBcmJlQy1NWlZEYV9kc0g0dWxSQjBReHktZTZCaVZLWnRBOVZSdjRaSUlIbHpVbzRGRko4OWhQNjJrOEZxbGRqLXFFMGgwY1l4LVZRelJtMERxeTBEQ2JZNmxhV1Rmc1c5X3NKZ2hvN1NkdV90MVNrQ2NHeXpCbE0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTdSalg4UVBwVjZwdDNOLUVFT3dBcmJlQy1NWlZEYV9kc0g0dWxSQjBReHktZTZCaVZLWnRBOVZSdjRaSUlIbHpVbzRGRko4OWhQNjJrOEZxbGRqLXFFMGgwY1l4LVZRelJtMERxeTBEQ2JZNmxhV1Rmc1c5X3NKZ2hvN1NkdV90MVNrQ2NHeXpCbE0?oc=5\" target=\"_blank\">Law Firm",
+  "date": "2026-11-12T15:26:51.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
  },
  {
   "id": "4ef03d4c77c5ff27",
@@ -1415,6 +1613,17 @@
   "date": "2026-11-12T14:21:00.000Z",
   "fetched": "2026-11-12T14:33:12.406Z",
   "fromCloud": "2026-11-12T1433.json"
+ },
+ {
+  "id": "21c8d45fd10785fe",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "האם הרפואה תייצר חלקי חילוף לגוף האדם? - הסוכנים - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWElJMUhPRnE0TDBYOFZLQVN1MmlRWThSYk5scXhMT0tQSUUxS2JZa1hLUHdacnFrOGlxVDZEX2NLT3BMWVQtQjB6TTdoNXU5YkVqa1lhdHBDYjY0TU1ZYWdsWDZZR3N6NHVGd0piZzNZVmxBSFJINml2Q2oxTDNhYWt3eWo5YnpRT3NXeWJVWm9ETXFkc0dZT2ptLS1MSDdzUk43UkxnYkI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWElJMUhPRnE0TDBYOFZLQVN1MmlRWThSYk5scXhMT0tQSUUxS2JZa1hLUHdacnFrOGlxVDZEX2NLT3BMWVQtQjB6TTdoNXU5YkVqa1lhdHBDYjY0TU1ZYWdsWDZZR3N6NHVGd0piZzNZVmxBSFJINml2Q2oxTDNhYWt3eWo5YnpRT3NXeWJVWm9ETXFkc0dZT2ptLS1MSDdzUk43UkxnYkI?oc",
+  "date": "2026-11-12T14:21:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
  },
  {
   "id": "2b053e93e65d4bfc",
@@ -2110,6 +2319,17 @@
   "fromCloud": "2026-11-12T1703.json"
  },
  {
+  "id": "0de910901e4aaf27",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סופית: יזם הביו-טק ציקי פוקס יפצה חברת צ'כית ב-17.3 מיליון שקל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wUjBEUWhJYnhZSzZrSHVEc2QyWUFUMER4TDRIY1ctQjl0UjFzQjRkYmtqd3d5OEVUSEJxeHhWV0cwa3BDUHY2WmNsLTQzWUEyVW45V1puY0g2WTFDRWlJYUZIVFNvdTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wUjBEUWhJYnhZSzZrSHVEc2QyWUFUMER4TDRIY1ctQjl0UjFzQjRkYmtqd3d5OEVUSEJxeHhWV0cwa3BDUHY2WmNsLTQzWUEyVW45V1puY0g2WTFDRWlJYUZIVFNvdTQ?oc=5\" target=\"_blank\">סופית: יזם הביו-טק ציקי פוקס יפצה חברת צ'כית ב-17.3 מיליון שקל</a>&n",
+  "date": "2026-11-12T10:54:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
+ },
+ {
   "id": "42dc0abe17b20bff",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -2119,6 +2339,17 @@
   "date": "2026-11-12T10:49:00.000Z",
   "fetched": "2026-11-12T15:33:14.736Z",
   "fromCloud": "2026-11-12T1533.json"
+ },
+ {
+  "id": "d02bbd8d8b70459f",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הביטוח הלאומי ישלם 5,000 שקל בשל מידע מטעה באתרו בנוגע לדמי אבטלה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbURHQXpmQ2NwTFlRdjUySzg3WFl0OUtYUjA2M2NZSzZORUxVQmQ1Tmh5eDdXVFJ6UlBoQWhTMGRPdXpxcVlHRjhQU0JlTXRpczBtUVBCblcxeWpVR0FjTVQ3QWpqdTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbURHQXpmQ2NwTFlRdjUySzg3WFl0OUtYUjA2M2NZSzZORUxVQmQ1Tmh5eDdXVFJ6UlBoQWhTMGRPdXpxcVlHRjhQU0JlTXRpczBtUVBCblcxeWpVR0FjTVQ3QWpqdTQ?oc=5\" target=\"_blank\">הביטוח הלאומי ישלם 5,000 שקל בשל מידע מטעה באתרו בנוגע לדמי אבטלה</a",
+  "date": "2026-11-12T10:43:00.000Z",
+  "fetched": "2026-11-12T17:33:12.469Z",
+  "fromCloud": "2026-11-12T1733.json"
  },
  {
   "id": "3a07c01c3f9a22f7",
