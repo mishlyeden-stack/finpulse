@@ -1,18 +1,18 @@
 {
  "globes.co.il": {
-  "ok": 193,
+  "ok": 194,
   "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 142
+  "blocked": 143
  },
  "en.globes.co.il": {
-  "ok": 38,
+  "ok": 39,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 221,
+  "ok": 223,
   "blocked": 9
  },
  "news.google.com": {
@@ -189,7 +189,7 @@
  },
  "mckinsey.com": {
   "ok": 0,
-  "blocked": 5
+  "blocked": 6
  },
  "wsj.com": {
   "ok": 0,
@@ -284,7 +284,7 @@
   "blocked": 0
  },
  "fourweekmba.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 2
  },
  "citybiz.co": {
@@ -465,7 +465,7 @@
  },
  "thedailyupside.com": {
   "ok": 1,
-  "blocked": 0
+  "blocked": 1
  },
  "nadlancenter.co.il": {
   "ok": 0,
@@ -668,6 +668,10 @@
   "blocked": 1
  },
  "futurumgroup.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "defense.info": {
   "ok": 1,
   "blocked": 0
  }
