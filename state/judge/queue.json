@@ -1,5 +1,27 @@
 [
  {
+  "id": "82ba770a292c7512",
+  "source": "Federal Reserve",
+  "group": "global-official",
+  "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+  "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+  "date": "2026-11-12T18:30:00.000Z",
+  "fetched": "2026-11-12T18:33:12.877Z",
+  "fromCloud": "2026-11-12T1833.json"
+ },
+ {
+  "id": "4d0550a0f6862f65",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Ex-CFO alleges cash-strapped Realtors shorted him half a million dollars at retirement - Crain's Chicago Business",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGJoREU3a2lwOFFVVnBzTVVBR0luWmQ1ZDJMbWFUN3RZc0E5T1NlQ01PV1ViOGlSa2plb3I3bnVnT3Ezc1ptZWtDNHNtUWxLYm1TdDhkS3BSZVYweHFsRzg5Z2V0Z01aVDlMM3FoRjQ3OTF6YmNsWG0xeWNGMm1Pc1NxdXUxazJwTklTTW0tc3dyVnRSMXAydjZPd1ZmSTdwSnVISE9yUzR6X1Vmc3NZVXdHdHFGRU1H?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGJoREU3a2lwOFFVVnBzTVVBR0luWmQ1ZDJMbWFUN3RZc0E5T1NlQ01PV1ViOGlSa2plb3I3bnVnT3Ezc1ptZWtDNHNtUWxLYm1TdDhkS3BSZVYweHFsRzg5Z2V0Z01aVDlMM3FoRjQ3OTF6YmNsWG0xeWNGMm1Pc1NxdXUxazJwTklTTW0tc3dyVnRSMXAydjZPd1ZmSTdwSnVISE9yUzR6X1",
+  "date": "2026-11-12T18:26:26.000Z",
+  "fetched": "2026-11-12T18:33:12.877Z",
+  "fromCloud": "2026-11-12T1833.json"
+ },
+ {
   "id": "31550b14ef9d6381",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -64,6 +86,28 @@
   "date": "2026-11-12T18:08:00.000Z",
   "fetched": "2026-11-12T18:25:59.490Z",
   "fromCloud": "2026-11-12T1825.json"
+ },
+ {
+  "id": "dac2ec88691c4717",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+  "link": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+  "summary": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
+  "date": "2026-11-12T18:03:44.000Z",
+  "fetched": "2026-11-12T18:33:12.877Z",
+  "fromCloud": "2026-11-12T1833.json"
+ },
+ {
+  "id": "59e2902a4e36c52b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Vizrt Acquires Chyron - TVTechnology",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rakpZbExYNS16WUFQNVdmcTVWRHc4NG1kclB3Q2VRZUVMMHFuZUJMWURrWnVBYzBKSm5zaHFIY09yVnZ2alVFeDJDcnZVRUprWFo4azE4S1F2UjMyekZydVRpekNtWXFFMVo4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9rakpZbExYNS16WUFQNVdmcTVWRHc4NG1kclB3Q2VRZUVMMHFuZUJMWURrWnVBYzBKSm5zaHFIY09yVnZ2alVFeDJDcnZVRUprWFo4azE4S1F2UjMyekZydVRpekNtWXFFMVo4?oc=5\" target=\"_blank\">Vizrt Acquires Chyron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TVTe",
+  "date": "2026-11-12T18:01:55.000Z",
+  "fetched": "2026-11-12T18:33:12.877Z",
+  "fromCloud": "2026-11-12T1833.json"
  },
  {
   "id": "7f6f6ca8dce1c278",
@@ -317,6 +361,17 @@
   "date": "2026-11-12T17:24:56.000Z",
   "fetched": "2026-11-12T18:03:12.615Z",
   "fromCloud": "2026-11-12T1803.json"
+ },
+ {
+  "id": "c3e744c021ee1ca6",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אנל P 024500 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GZHgwcG04QmtRLWpwcXUyLVV4VndLMENIaXJ5TTZvdHdLbndZYVpJUUVlVm9NZ1ZPMTFqb0RaQlVlbUlCSEN0ZGxONXJKX1p4UDQ1aVR2ejB0ckppS19yUjV3d25HMFAzZ24xcUpvSXk1ZGoy?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9GZHgwcG04QmtRLWpwcXUyLVV4VndLMENIaXJ5TTZvdHdLbndZYVpJUUVlVm9NZ1ZPMTFqb0RaQlVlbUlCSEN0ZGxONXJKX1p4UDQ1aVR2ejB0ckppS19yUjV3d25HMFAzZ24xcUpvSXk1ZGoy?oc=5\" target=\"_blank\">אנל P 024500 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-12T17:24:56.000Z",
+  "fetched": "2026-11-12T18:33:12.877Z",
+  "fromCloud": "2026-11-12T1833.json"
  },
  {
   "id": "21b2303c71d92874",
@@ -944,6 +999,17 @@
   "date": "2026-11-12T16:06:00.000Z",
   "fetched": "2026-11-12T16:33:15.576Z",
   "fromCloud": "2026-11-12T1633.json"
+ },
+ {
+  "id": "e03bc8c670ed4a93",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CFO of the Year: CHS Inc. finance chief Nelligan transforms organization - Minneapolis / St. Paul Business Journal - The Business Journals",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE9rMjl5ZTUzdTgxV2tIWFk3aF9YSXhLb1Rpcjloc0pHaFowaXcxU0hnZ0F6SmFnUFhpZ1ZEMEJCVEg5T0VIYmtZOVJHLWVsQjhzcERBVnA3anVlY1BCRFJkMXZJYkJEUVVaZ3ZvQkNMZ3g4ZHNsTDB1MVNqbFd3U2FaXy00ZEhJNXRlTEMxbWNMX3U4YjA1cXhvbWphVUNHenc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE9rMjl5ZTUzdTgxV2tIWFk3aF9YSXhLb1Rpcjloc0pHaFowaXcxU0hnZ0F6SmFnUFhpZ1ZEMEJCVEg5T0VIYmtZOVJHLWVsQjhzcERBVnA3anVlY1BCRFJkMXZJYkJEUVVaZ3ZvQkNMZ3g4ZHNsTDB1MVNqbFd3U2FaXy00ZEhJNXRlTEMxbWNMX3U4YjA1cXhvbWphVUNHenc?oc=5\" targ",
+  "date": "2026-11-12T16:05:00.000Z",
+  "fetched": "2026-11-12T18:33:12.877Z",
+  "fromCloud": "2026-11-12T1833.json"
  },
  {
   "id": "73b6e905d39d5ee5",
