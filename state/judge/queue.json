@@ -1,5 +1,27 @@
 [
  {
+  "id": "8ebe3b35f00075e2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Ameresco evp, cfo Chiplock sells $10,690 in stock - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXBhZTNZRkVDcS1USGVZV1lHODJwSFV1ZEdpUEkza25kUXVNbEJ3UWJxNGJOcWdSVVRtNFc5S0JxWWowbHJWNXd0OXNLeUJJdVd2NkFFdzdjUF9GQ1RDSG84X3FpdjdxX3p5dFo5SVRGQUtjMHZ0NTYzRU1pMHd1Z0pPVmR4cDhUODR5VElNQlg0UWNtcTdDYW5vNEpTSkxHcmJmVm1GYWE3RnVBdWNBRg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXBhZTNZRkVDcS1USGVZV1lHODJwSFV1ZEdpUEkza25kUXVNbEJ3UWJxNGJOcWdSVVRtNFc5S0JxWWowbHJWNXd0OXNLeUJJdVd2NkFFdzdjUF9GQ1RDSG84X3FpdjdxX3p5dFo5SVRGQUtjMHZ0NTYzRU1pMHd1Z0pPVmR4cDhUODR5VElNQlg0UWNtcTdDYW5vNEpTSkxHcmJmVm1GYWE3Rn",
+  "date": "2026-11-12T02:20:07.000Z",
+  "fetched": "2026-11-12T02:29:27.810Z",
+  "fromCloud": "2026-11-12T0229.json"
+ },
+ {
+  "id": "14ba3f01adcdaa18",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלפאבית מגייסת כ-3 מיליארד דולר בהונג קונג ובסינגפור, לראשונה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0Q0xwa1JkRFp4WEw3S3ZKT3RXbDl2Tm9IWTZDMi1iajBGZ3B3UFR5eDVpMXNuTVltYzIwNGNBWGlWQ2dZYU5HUTZaaVpfWE9SOGJBZTlxZzNrVHRLbG9zSjlNTmtVRTY0Z01keFN6Z1A?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB0Q0xwa1JkRFp4WEw3S3ZKT3RXbDl2Tm9IWTZDMi1iajBGZ3B3UFR5eDVpMXNuTVltYzIwNGNBWGlWQ2dZYU5HUTZaaVpfWE9SOGJBZTlxZzNrVHRLbG9zSjlNTmtVRTY0Z01keFN6Z1A?oc=5\" target=\"_blank\">אלפאבית מגייסת כ-3 מיליארד דולר בהונג קונג ובסינגפור, לר",
+  "date": "2026-11-12T02:04:00.000Z",
+  "fetched": "2026-11-12T02:29:27.810Z",
+  "fromCloud": "2026-11-12T0229.json"
+ },
+ {
   "id": "01c61f3b645313a3",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -319,6 +341,17 @@
   "fromCloud": "2026-11-11T2233.json"
  },
  {
+  "id": "b3f027d3fdacd4f3",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שווי של עד 1.4 טריליון דולר: הנפקת אנתרופיק היא המבחן של מניות ה-AI - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HbmlxeXNJUWUtd2V2LUEzTEkxc0R3Z1hyQ2JvNDFJQmRKRUhqVE9uQ2dTd2lYUHZOY09wamdkOFNadElhMVF5UkRibnJGeFlhUmZ5TlJEZ01Ia2VPeDRscm1SNUFzcFR2czduQw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5HbmlxeXNJUWUtd2V2LUEzTEkxc0R3Z1hyQ2JvNDFJQmRKRUhqVE9uQ2dTd2lYUHZOY09wamdkOFNadElhMVF5UkRibnJGeFlhUmZ5TlJEZ01Ia2VPeDRscm1SNUFzcFR2czduQw?oc=5\" target=\"_blank\">שווי של עד 1.4 טריליון דולר: הנפקת אנתרופיק היא המבחן של מניו",
+  "date": "2026-11-11T21:58:00.000Z",
+  "fetched": "2026-11-12T02:29:27.810Z",
+  "fromCloud": "2026-11-12T0229.json"
+ },
+ {
   "id": "570e18d63f3118c9",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -350,6 +383,17 @@
   "date": "2026-11-11T21:49:24.000Z",
   "fetched": "2026-11-11T23:03:11.775Z",
   "fromCloud": "2026-11-11T2303.json"
+ },
+ {
+  "id": "16addae95b514f6e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BHP Chief Financial Officer - BHP",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNjlpeWlVZlhPQkp2clQ3WnExc0NQd1ZBcF9EYnIxNDVGZnJyZzlvVHFZYUNLdW5BZDlrWjRoeUtNaEptTGE3c1NnS2twYnRsTHN5Y0VtVWtrTkJpRF96YjY2eU04elVKaHFOTGVXWWF6VkgyTnZQb2FVNGoxSHFSWlo4TFE4SHQ0Y3c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNjlpeWlVZlhPQkp2clQ3WnExc0NQd1ZBcF9EYnIxNDVGZnJyZzlvVHFZYUNLdW5BZDlrWjRoeUtNaEptTGE3c1NnS2twYnRsTHN5Y0VtVWtrTkJpRF96YjY2eU04elVKaHFOTGVXWWF6VkgyTnZQb2FVNGoxSHFSWlo4TFE4SHQ0Y3c?oc=5\" target=\"_blank\">BHP Chief Financial ",
+  "date": "2026-11-11T21:45:27.000Z",
+  "fetched": "2026-11-12T02:29:27.810Z",
+  "fromCloud": "2026-11-12T0229.json"
  },
  {
   "id": "d920bb97fe14b68e",
