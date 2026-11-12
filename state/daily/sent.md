@@ -117,3 +117,4 @@ Signal חוזר נשלח רק בהתפתחות מהותית שמשנה את הה
 | S-20261109-04 | שוק \| רוטציה: דאו עקף נאסד"ק ב-5+ נק' — AI long duration vs FCF מוכח \| 10-11.2026 | https://www.fool.com/investing/2026/11/06/after-the-midterm-rally-the-dow-is-on-track-to-bea/ | Daily 09.11 (כדאי להבין) | — | 🧠 |
 | S-20261109-05 | ServiceNow \| Q3 AI ACV $1.7B +70%, ניצחון ציפיות — מניה -27% ביום \| 29.10.2026 | https://finance.yahoo.com/markets/stocks/articles/servicenow-cfo-calls-ai-disruption-111850103.html | Daily 09.11 (כדאי לחשוב) | — | 🎓 |
 | S-20261110-Reecf | פד–וולר \| העלאת ריבית דצמבר — אולי חצי אחוז \| נובמבר 2026 | https://www.bizportal.co.il/wallstreet/news/article/20047861 | Live RSS 2026-11-10 14:45 | — | 🔴 |
+| S-20261112-Reaed | אנבידיה–הואנג \| ירידה 8% + דירקטוריון שוקל הדחה + CFO כמועמדת ביניים \| נובמבר 2026 | https://www.globes.co.il/news/article.aspx?did=1001563101#utm_source=RSS | Live RSS 2026-11-12 08:59 | התפתחות | 🔴 |
