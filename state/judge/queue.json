@@ -1,5 +1,49 @@
 [
  {
+  "id": "00ac770ec7c11d97",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Microsoft 365 hit by major global outage, impacts Outlook, Teams, OpenAI and more",
+  "link": "https://www.datacenterdynamics.com/en/news/microsoft-hit-by-major-global-outage-impacts-outlook-teams-openai-and-more/",
+  "summary": "<p data-block-key=\"5zja1\">Fixes not going as expected</p>",
+  "date": "2026-11-13T08:57:00.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
+ },
+ {
+  "id": "0b5efb819342c6c9",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;SignDrop&#8217;",
+  "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+  "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;SignDrop&#8217; appeared first on SecurityWeek .",
+  "date": "2026-11-13T08:50:36.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
+ },
+ {
+  "id": "d756d8e1f4da9f3b",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Getting in shouldn’t mean taking over - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RN0Z4WTJfYmZfb3FTWlpoLXlBNkVqcnRiVHc1dWx4RmlXRE9acjYzamRxMDdWMWp5NWhhaFN5NEF6MHJoZEdLNXVIY1BlbjR4SU5Ocng4bjNfMW5yRUg4d2ZQSGxVMTA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RN0Z4WTJfYmZfb3FTWlpoLXlBNkVqcnRiVHc1dWx4RmlXRE9acjYzamRxMDdWMWp5NWhhaFN5NEF6MHJoZEdLNXVIY1BlbjR4SU5Ocng4bjNfMW5yRUg4d2ZQSGxVMTA?oc=5\" target=\"_blank\">Getting in shouldn’t mean taking over</a>&nbsp;&nbsp;<font color=\"#6",
+  "date": "2026-11-13T08:41:00.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
+ },
+ {
+  "id": "ac3d69e8e0631388",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "לא שמות נוצצים אבל עם רקורד בהבראת חברות: הדמויות מאחורי קבוצת המשקיעים בארקיע",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563327#utm_source=RSS",
+  "summary": "קבוצת המשקיעים החדשה בחברת התעופה מביאה עמה ניסיון רב בשיקום חברות שנקלעו למשבר &#8226; האם רוכשי נכסי הנדל\"ן של פישמן שנדחו על ידי חיים כצמן יצילו את ארקיע יחד עם מי שחתום על הבראת שורה חברות &#8226; וגם - מה מביאה לשולחן ה\"כרישה לשעבר\" שעשתה את הונה בתחום החיתולים?",
+  "date": "2026-11-13T08:30:00.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
+ },
+ {
   "id": "def8dcd7a004123f",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -9,6 +53,17 @@
   "date": "2026-11-13T08:24:00.000Z",
   "fetched": "2026-11-13T08:33:13.763Z",
   "fromCloud": "2026-11-13T0833.json"
+ },
+ {
+  "id": "7195b9ce4506f1fc",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "\"נתון חריג מאוד\": הישראלים מסתערים על מניית אנבידיה",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563334#utm_source=RSS",
+  "summary": "איך הגיבו המשקיעים העצמאיים לנפילה במניית אנבידיה? נראה שמשקיעי הריטייל הישראלים אופטימיים יותר מכמה אנליסטים שמסקרים את אנבידיה בוול סטריט &#8226; \"הלקוחות שלנו מאמינים שהמניה תתאושש מהירידות\"",
+  "date": "2026-11-13T08:18:00.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
  },
  {
   "id": "22b06387377e4f29",
@@ -31,6 +86,50 @@
   "date": "2026-11-13T08:12:00.000Z",
   "fetched": "2026-11-13T08:33:13.763Z",
   "fromCloud": "2026-11-13T0833.json"
+ },
+ {
+  "id": "2621f0b89f8e3a34",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Matsukiyococokara & Co Announces Acquisition And Cancellation Of Treasury Shares Via Tostnet-3 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNajMzbTE2ZmJDWVVwQ0dwM25JZWlKbFlVQVFLanRQZmlxdm92ZDVEWUpWMDhlRFEycnltdEdscDQ2TzBIcHRSRGFiVlpsb3l2bG9uYWdjcmNLR0xwQ0VuREVfX1hqU1ZaLUM2c0U1bFYtSTFRblE1YmtvN001NTEyZnlxY0RtMGdqR1VYRHdXX0J2b1prSnhiMTNNQWY2cXRreDJHNGd1Y0w2UllDeVJmUVZNcjlNSUFWQ1R2Zkp5TjI3ci1INk14R0ZUMlFvcDc1R3E5eWhkYlMwQWJ0YnAzQXZieGUzTTdOaEtfczlIY2xSeVVN?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNajMzbTE2ZmJDWVVwQ0dwM25JZWlKbFlVQVFLanRQZmlxdm92ZDVEWUpWMDhlRFEycnltdEdscDQ2TzBIcHRSRGFiVlpsb3l2bG9uYWdjcmNLR0xwQ0VuREVfX1hqU1ZaLUM2c0U1bFYtSTFRblE1YmtvN001NTEyZnlxY0RtMGdqR1VYRHdXX0J2b1prSnhiMTNNQWY2cXRreDJHNGd1Y0w2Ul",
+  "date": "2026-11-13T08:08:20.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
+ },
+ {
+  "id": "b7a36fd5453273ac",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PNC Financial Services Group (PNC) Sets Its CFO Succession Plan, Is The 12% Discount Still There? - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVVR1anFoYndsQ1dZWnR3ZnlWcDVWQk9GeHF6bWNaOWhMQ28tdUFsbEtCcVRwVVlzSlNCaVFPc1RKWmVNc1JjcmVlWmJ2TUpSTVlQMy1pdTFXQXkxVjFVVkhIYzFkaHYwNzBmaUtKRUVBZ3R4MFBncmEzR3RmdEdfV0VoQTREUEFPaHZoZ0IyaWtNcDlld282OGk4OVdHdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVVR1anFoYndsQ1dZWnR3ZnlWcDVWQk9GeHF6bWNaOWhMQ28tdUFsbEtCcVRwVVlzSlNCaVFPc1RKWmVNc1JjcmVlWmJ2TUpSTVlQMy1pdTFXQXkxVjFVVkhIYzFkaHYwNzBmaUtKRUVBZ3R4MFBncmEzR3RmdEdfV0VoQTREUEFPaHZoZ0IyaWtNcDlld282OGk4OVdHdw?oc=5\" target=\"_",
+  "date": "2026-11-13T08:08:19.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
+ },
+ {
+  "id": "d383efe6beea057f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Amigo Resources Submits Draft Prospectus to FCA for Kamiesberg Mineral Project Acquisition - Yahoo Finance UK",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSG5TWk1qN2lDdTJHYlJLcnBON2hBV2JtUlZjdXJkdl84QVI4VlRHa3Z2dVFYVjZmMWswOXhZOHd4ckVuQnlXWXljUjJjdk1ST1d6TDhHZFRJa09DVngyY1hEUlM1ejlmc1U2ZWM4YmFMYkp1bWR0V2NFS2ZwMC1INTVGWHpRSnlnUk9rWG1tdGUtN0U?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSG5TWk1qN2lDdTJHYlJLcnBON2hBV2JtUlZjdXJkdl84QVI4VlRHa3Z2dVFYVjZmMWswOXhZOHd4ckVuQnlXWXljUjJjdk1ST1d6TDhHZFRJa09DVngyY1hEUlM1ejlmc1U2ZWM4YmFMYkp1bWR0V2NFS2ZwMC1INTVGWHpRSnlnUk9rWG1tdGUtN0U?oc=5\" target=\"_blank\">Amigo Re",
+  "date": "2026-11-13T08:03:44.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
+ },
+ {
+  "id": "0f3c1434c010f794",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Key facts: Acquisition gains; $200M Boone investment; Buy consensus - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEoyLTdibkZTSDFUb3dsNzRidWVMZExpZ1BDQVBCbWY0UGpoOEN5VFVLNDFvNEs4clBzbjZydlpHbFJsNmljSl9PcXhuWXV3NmNJc1pDamJseHR4V2ctdGRpd21oMEc1U2FyTmlsZEhpUzNqUl83SmVuemZxc2E3UjBtN2FvTUkzMW94WFBWcmMwRDQtSUNVYmFjWHdCNDNpV1BrQTB3SWR3U3dscVRxTUhNR2ZnaTBaU2NPZXUxQTBjUTA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEoyLTdibkZTSDFUb3dsNzRidWVMZExpZ1BDQVBCbWY0UGpoOEN5VFVLNDFvNEs4clBzbjZydlpHbFJsNmljSl9PcXhuWXV3NmNJc1pDamJseHR4V2ctdGRpd21oMEc1U2FyTmlsZEhpUzNqUl83SmVuemZxc2E3UjBtN2FvTUkzMW94WFBWcmMwRDQtSUNVYmFjWHdCNDNpV1BrQTB3SWR3U3",
+  "date": "2026-11-13T08:00:00.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
  },
  {
   "id": "0ec1d8651c876de7",
@@ -275,6 +374,17 @@
   "fromCloud": "2026-11-13T0733.json"
  },
  {
+  "id": "4fad4fce9c8fc01b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הנחה ומתנה בקנייה מחו\"ל: המכס עשוי לגבות מע\"מ לפי המחיר המלא - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLUjcydnFNM0VWV0N2OFFTdk5tWF9XNTloRWZWdjF4aTRRaUtMRF8wQjFvUEFIcVVmaF9MOGVPTTRHOFFJWk85RFdySWc0MVJVQk5zTG8yc2xQSXcyUWRvUmJGMHR1V01tNnFWTzRmS3pSUnp4ME5rLVVB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBLUjcydnFNM0VWV0N2OFFTdk5tWF9XNTloRWZWdjF4aTRRaUtMRF8wQjFvUEFIcVVmaF9MOGVPTTRHOFFJWk85RFdySWc0MVJVQk5zTG8yc2xQSXcyUWRvUmJGMHR1V01tNnFWTzRmS3pSUnp4ME5rLVVB?oc=5\" target=\"_blank\">הנחה ומתנה בקנייה מחו\"ל: המכס עשוי לגבות מע",
+  "date": "2026-11-13T07:28:00.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
+ },
+ {
   "id": "50d9e849872ef0d4",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -339,6 +449,17 @@
   "date": "2026-11-13T07:12:00.000Z",
   "fetched": "2026-11-13T08:03:12.688Z",
   "fromCloud": "2026-11-13T0803.json"
+ },
+ {
+  "id": "a29b2ddf0636c3c8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CredAg plots expansion in 'priority market' Germany after acquisition, relaunch - S&P Global",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNVlYN3RjYzV3aUhsd1QyNUZ0ZHZzbGRVdTF4NEh3dVZWa2dxZGJabXVjeFo3VVdLSFlnT1RPeUtaRnlTS2FhLXNtRWdNZmtrR3paS2s2bWdNZ204MjcyM3VaTVg2MjN2SFFGLXNfbFNQVEkwX3ZNMnhJT2NBdHBZbkFKMi14dVh0MzJXbUR0Y0hjbVdqQ3dub21wNWo4NzFQQVE5eWppR0t4WG5MZ2t6bkcyVEY0RUNYbzNRbko0OGlJU0U3S1V1ZmE5Y3A2QmZ0UGJNV2l0MXh3SlRkSzBobWdJWTdKWlVRdkdWN1Z5SEYxWjRaVDNiMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNVlYN3RjYzV3aUhsd1QyNUZ0ZHZzbGRVdTF4NEh3dVZWa2dxZGJabXVjeFo3VVdLSFlnT1RPeUtaRnlTS2FhLXNtRWdNZmtrR3paS2s2bWdNZ204MjcyM3VaTVg2MjN2SFFGLXNfbFNQVEkwX3ZNMnhJT2NBdHBZbkFKMi14dVh0MzJXbUR0Y0hjbVdqQ3dub21wNWo4NzFQQVE5eWppR0t4WG",
+  "date": "2026-11-13T07:11:46.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
  },
  {
   "id": "f65ee1baeb04bd09",
@@ -801,6 +922,17 @@
   "date": "2026-11-13T05:08:05.000Z",
   "fetched": "2026-11-13T05:33:11.514Z",
   "fromCloud": "2026-11-13T0533.json"
+ },
+ {
+  "id": "7d818678a692861e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הרלב\"ד דורשת מהמשטרה לחקור את וולט ואת המנכ\"ל, ובחברה מדברים על מסע יחסי ציבור - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmbWppMUpMWVBISmtILUctbVVsVC1VNllDTkFOY3RKS1ZfdG5oQ05yYVExcHRGOTBkaFFrNDZ2amVIeUhBTlZkMmFRNUhwQi1BTUlaVGJrbjZyczdaVUxOWkF0eFl1WnkwMGRma05RSjROR25BNWwwc0dB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBmbWppMUpMWVBISmtILUctbVVsVC1VNllDTkFOY3RKS1ZfdG5oQ05yYVExcHRGOTBkaFFrNDZ2amVIeUhBTlZkMmFRNUhwQi1BTUlaVGJrbjZyczdaVUxOWkF0eFl1WnkwMGRma05RSjROR25BNWwwc0dB?oc=5\" target=\"_blank\">הרלב\"ד דורשת מהמשטרה לחקור את וולט ואת המנכ",
+  "date": "2026-11-13T05:08:00.000Z",
+  "fetched": "2026-11-13T09:03:12.878Z",
+  "fromCloud": "2026-11-13T0903.json"
  },
  {
   "id": "8270efa4595b1265",
