@@ -1,5 +1,170 @@
 [
  {
+  "id": "aa09e423d622e2f6",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Polar DC secures new financing from Palistar Capital",
+  "link": "https://www.datacenterdynamics.com/en/news/polar-dc-secures-new-financing-from-palistar-capital/",
+  "summary": "<p data-block-key=\"wld56\">New funds to fuel European build-out</p>",
+  "date": "2026-11-13T09:59:44.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "d5a43d79b03a01b1",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "IBM unveils Quantum Nighthawk r3 processor, slated for deployment in 2027",
+  "link": "https://www.datacenterdynamics.com/en/news/ibm-unveils-quantum-nighthawk-r3-processor-slated-for-deployment-in-2027/",
+  "summary": "<p data-block-key=\"n30iw\">Company is also furthering support for hybrid quantum-classical workloads via its IBM Quantum Platform</p>",
+  "date": "2026-11-13T09:58:26.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "2af7d1bb2b9c3a9b",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "AirTrunk signs 1GW energy deal with European Energy Australia",
+  "link": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-1gw-energy-deal-with-european-energy-australia/",
+  "summary": "<p data-block-key=\"esyep\">Company to offtake from upcoming solar, wind, and BESS projects</p>",
+  "date": "2026-11-13T09:58:23.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "c52202bf7939d0f7",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "הטלטלה באנבידיה מגיעה לתוצר הישראלי: כ-40% מהצמיחה השנה תלויים בייצור בחו\"ל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JcWxvNGRFS3lXM0ZnR3hrOGYwcXE5OXdTZ0dfVmloZ19SLWh0b1l4RnVIWVpJb09ueTg4cU5OZGRZalI0cUZ4M3AtYXI4bW8zeXRWamxxdW5NcGM2SHFtcHU2U0FoZF9Q?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JcWxvNGRFS3lXM0ZnR3hrOGYwcXE5OXdTZ0dfVmloZ19SLWh0b1l4RnVIWVpJb09ueTg4cU5OZGRZalI0cUZ4M3AtYXI4bW8zeXRWamxxdW5NcGM2SHFtcHU2U0FoZF9Q?oc=5\" target=\"_blank\">הטלטלה באנבידיה מגיעה לתוצר הישראלי: כ-40% מהצמיחה השנה תלויים בייצ",
+  "date": "2026-11-13T09:57:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "fcbbe6d2a0e12a79",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "OwlO Cloud emerges from stealth promising European scalable orbital compute & AI",
+  "link": "https://www.datacenterdynamics.com/en/news/owlo-cloud-emerges-from-stealth-promising-european-scalable-orbital-compute-ai/",
+  "summary": "<p data-block-key=\"409s5\">Luxembourg ODC startup strikes pragmatic tone, committing to an initial ten satellites</p>",
+  "date": "2026-11-13T09:55:55.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "fcee413aeee4fafd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Judge slashes ex-Brockton CFO's 'inflated' salary by $61K amid lawsuits - Enterprise News",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcnF0c1padEc0aU9sb056Y2xpdkZTbHVISTBJcnlmNF90OUl6ZlJtaEFET3FjbHZ6Tjk4ZENEQlRNVTYwMFFKRjNmU3dTN1JDdFFnay0yZ01GdDFmeGhfOG10ZHphTEV3OVpNb1QtZ1VEUXJfdlFpYXhrV1BBUkI5NUVjRlR6LXBxQ2NZNGhpNDFUMkY1TGtETVVHelRLN3FLXzV0R0tGNTBHNmVaZzVsR3FULUtSM2lTX2lPUHMxSnBVVVdwT1h1YnV3OFhxNmdZbEFadEhSR3J6dmtxeHNhbktaSDJCMUJCdUZQNklJYVRodTZuaGpqMmtVcGROajA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcnF0c1padEc0aU9sb056Y2xpdkZTbHVISTBJcnlmNF90OUl6ZlJtaEFET3FjbHZ6Tjk4ZENEQlRNVTYwMFFKRjNmU3dTN1JDdFFnay0yZ01GdDFmeGhfOG10ZHphTEV3OVpNb1QtZ1VEUXJfdlFpYXhrV1BBUkI5NUVjRlR6LXBxQ2NZNGhpNDFUMkY1TGtETVVHelRLN3FLXzV0R0tGNTBHNm",
+  "date": "2026-11-13T09:55:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "0bb90300ee68bdc1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "GA_P advises Oaktree on €74M acquisition of Guascor Energy - Iberian Lawyer",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZlJiQ2FXVU9ham5ySkh5c3FVck04QkZjSWF1ZXQxOHBOOGRCTFhfUnY1M0FCeGlzSU1mWHBjTDFrclM5MDZEQXNNNGx1OFo2QjBhSWFiRXZoeFRIeEx4blR2SWpObzVxSWVkNW5wdmJ1bF9qN1I4NTVZY0ZCS0J0amg5emFPUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZlJiQ2FXVU9ham5ySkh5c3FVck04QkZjSWF1ZXQxOHBOOGRCTFhfUnY1M0FCeGlzSU1mWHBjTDFrclM5MDZEQXNNNGx1OFo2QjBhSWFiRXZoeFRIeEx4blR2SWpObzVxSWVkNW5wdmJ1bF9qN1I4NTVZY0ZCS0J0amg5emFPUQ?oc=5\" target=\"_blank\">GA_P advises Oaktree on €",
+  "date": "2026-11-13T09:54:47.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "e20960bacd1bf6b4",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "National Stock Exchange of India deploys direct-to-chip liquid cooling at data center",
+  "link": "https://www.datacenterdynamics.com/en/news/national-stock-exchange-of-india-deploys-direct-to-chip-liquid-cooling-at-data-center/",
+  "summary": "<p data-block-key=\"3257d\">NSE aims to deploy 80 GPUs this quarter</p>",
+  "date": "2026-11-13T09:53:44.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "89f4628dac23ffb1",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Fermi does 600MW power deal with hyperscaler, but TensorWave lease is officially dead",
+  "link": "https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/",
+  "summary": "<p data-block-key=\"mr0ak\">You win some, you lose some</p>",
+  "date": "2026-11-13T09:53:30.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "0abea29614398c79",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "העסקה לשליטה בארקיע: תאגיד העובדים מחפש משקיע חלופי \"שיחבק את העובדים\" - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGdyX1gwNUJQYzhkd2JSMmJHN2xuMmxrYVV2Q3JmN3l6ZUxZU2duSmtCUTA5aW41X0RTd3JnMmkyY1ZPUVY2aGtaaEFoVkRMcVlYVkpjYXc2NzlPQnVad1F0OU5xR1dOYmtEUlhKNWk4MFJNRmc1N0I0aGtHN3pYU0Z2SEF4TlNUMjgxT21DTlRCMzJjdjF6WmtOWGxJOUVyNG9VcnlIQkcwV2c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGdyX1gwNUJQYzhkd2JSMmJHN2xuMmxrYVV2Q3JmN3l6ZUxZU2duSmtCUTA5aW41X0RTd3JnMmkyY1ZPUVY2aGtaaEFoVkRMcVlYVkpjYXc2NzlPQnVad1F0OU5xR1dOYmtEUlhKNWk4MFJNRmc1N0I0aGtHN3pYU0Z2SEF4TlNUMjgxT21DTlRCMzJjdjF6WmtOWGxJOUVyNG9VcnlIQkcwV2",
+  "date": "2026-11-13T09:47:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "f796d4cfed69132e",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "הדולר סביב 3.20 שקל: התשואות בארה\"ב והטלטלה באנבידיה מחלישות את השקל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83cHk3bmJrUDhVN3ZRWThBdzVlTHVpX2N1X2tqVG9kLTFSLV9wdDVReXlieTlEeW11UjZWRXJrR0V1Q3JDSkpkUV9wU3czdVMzODFlSUNkM29kVHpQRnFJVXk3eGN4Zw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE83cHk3bmJrUDhVN3ZRWThBdzVlTHVpX2N1X2tqVG9kLTFSLV9wdDVReXlieTlEeW11UjZWRXJrR0V1Q3JDSkpkUV9wU3czdVMzODFlSUNkM29kVHpQRnFJVXk3eGN4Zw?oc=5\" target=\"_blank\">הדולר סביב 3.20 שקל: התשואות בארה\"ב והטלטלה באנבידיה מחלישות את השקל<",
+  "date": "2026-11-13T09:40:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "d20b2da13e92f664",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+  "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+  "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek .",
+  "date": "2026-11-13T09:36:56.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "dad52a809763a8d6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Amkor Technology CFO Megan Faust sells $35,000 in common stock - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORlhlQV9OSFdtRk1MMDNsbkNBNUY3dURlajVrbkNCdUJBdUppUTl2SzRYYWdmc0lKWUZ4ZWdaYmVvdEszbGlJcXNLTWxJZXpLTl9NTVJqOU52dnR3Z1pYcXJzQ1RRSTZ0UXd4dHhFcno1R210TlZKY1cwS0p5cWE3QzdTN0VqNjdUbllkYkQ1OTk2SExpcnMwdkcxUERLeVFYb3liNGlPejBnSmNDY21qQVFBcDdrR0dES0hJU04zYWxSZW8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxORlhlQV9OSFdtRk1MMDNsbkNBNUY3dURlajVrbkNCdUJBdUppUTl2SzRYYWdmc0lKWUZ4ZWdaYmVvdEszbGlJcXNLTWxJZXpLTl9NTVJqOU52dnR3Z1pYcXJzQ1RRSTZ0UXd4dHhFcno1R210TlZKY1cwS0p5cWE3QzdTN0VqNjdUbllkYkQ1OTk2SExpcnMwdkcxUERLeVFYb3liNGlPejBnSm",
+  "date": "2026-11-13T09:35:09.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "70823548b23e144f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say - STAT",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVNJY0tiRHFLRU9QTzVTbmtXUWgxWmNnMFp2TE1tckREV3dWYXZBT3F5ODFWOVFfdkoxV04xVnozWFh6Q2E5UmdKZnRKOWxoeWJQcWdoS3lLMllpcC1pcXc1T0lkYnhOeG9pXzJiQm5EX0FSQVFVNVVWQ0ZXWFhLSnEyNUc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVNJY0tiRHFLRU9QTzVTbmtXUWgxWmNnMFp2TE1tckREV3dWYXZBT3F5ODFWOVFfdkoxV04xVnozWFh6Q2E5UmdKZnRKOWxoeWJQcWdoS3lLMllpcC1pcXc1T0lkYnhOeG9pXzJiQm5EX0FSQVFVNVVWQ0ZXWFhLSnEyNUc?oc=5\" target=\"_blank\">Oura’s acquisition of health",
+  "date": "2026-11-13T09:35:06.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
+  "id": "64eed75b6b0666ba",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Avanade to expand AI and automation capabilities with Robiquity acquisition - IT Pro",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGM5QlpVWHhFS2VFY1RQUGRLamx5THVwa1pwN2gtQXV0NWtwekVZbGx3OXZRaWgzR3VYVEVCNTRYRVZNTmV6VXlQc3l1YUxWaHNKTU52U2ZVRWt5dEtPVTZHbnpCTnhBR0czb01JSXlDQkMwZVo5enVnTHJTRTdKeTdvNW50Zm1EUllzN2xyc1dnN3ZsQWtGalVTLTJ3b1pSUDFlYXVJbzhSZVg3QzF1bXZYVVl3bUFwbVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGM5QlpVWHhFS2VFY1RQUGRLamx5THVwa1pwN2gtQXV0NWtwekVZbGx3OXZRaWgzR3VYVEVCNTRYRVZNTmV6VXlQc3l1YUxWaHNKTU52U2ZVRWt5dEtPVTZHbnpCTnhBR0czb01JSXlDQkMwZVo5enVnTHJTRTdKeTdvNW50Zm1EUllzN2xyc1dnN3ZsQWtGalVTLTJ3b1pSUDFlYXVJbzhSZV",
+  "date": "2026-11-13T09:30:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
   "id": "4c9a9b4ca38e5ab7",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -44,6 +209,17 @@
   "fromCloud": "2026-11-13T0933.json"
  },
  {
+  "id": "2effc1e0a223ab9e",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "אין צפי לתיקון: למה התקלה במיקרוסופט עדיין לא נפתרה",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563336#utm_source=RSS",
+  "summary": "התקלה שהחלה אמש בשעה שמונה וחצי בערב שעון ישראל לא נפתרה עד עתה, ולפי העדכונים השופטים של מיקרוסופט גם אין צפי לפתרון בקרוב &#8226; מספר הדיווחים על תקלות בעולם בשעה שמונה וחצי בערב אמש, על פי מד הקריאות של אתר Downdetector - הגיע לשיא של 13 אלף קריאות של משתמשי אאוטלוק, ו-47 אלף",
+  "date": "2026-11-13T08:58:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
   "id": "00ac770ec7c11d97",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -53,6 +229,17 @@
   "date": "2026-11-13T08:57:00.000Z",
   "fetched": "2026-11-13T09:03:12.878Z",
   "fromCloud": "2026-11-13T0903.json"
+ },
+ {
+  "id": "383a57a2cfd78e40",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מי תחליף את ג'נסן הואנג באנבידיה? טריוויה שבועית של ביזפורטל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qZkxXUDNDUjJaTE4wbVpQOV9Lbl8xQWpfRDk1cEtoUXk2c0FNZTJBdDZVVF9LLS1RajdDcF8xRlRhUkRhX2pLQ0VhSjVwTEo5YVdXQk9sTDlnM2tZU2lvQ0tTb3RyaVJXbkNhNHBiakw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9qZkxXUDNDUjJaTE4wbVpQOV9Lbl8xQWpfRDk1cEtoUXk2c0FNZTJBdDZVVF9LLS1RajdDcF8xRlRhUkRhX2pLQ0VhSjVwTEo5YVdXQk9sTDlnM2tZU2lvQ0tTb3RyaVJXbkNhNHBiakw?oc=5\" target=\"_blank\">מי תחליף את ג'נסן הואנג באנבידיה? טריוויה שבועית של ביזפ",
+  "date": "2026-11-13T08:56:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
  },
  {
   "id": "8a2c14ea08e83096",
@@ -1485,6 +1672,17 @@
   "fromCloud": "2026-11-13T0403.json"
  },
  {
+  "id": "f3ab75790442e2ba",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Peak 10 Energy Secures $500MM Acquisition Finance Facility with U.S. Bank - ABF Journal",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNGVkNRTDFOWFFYRmEzakY2bl9fN0d5LVRFR0ptdTNMZzhZM0ZKX0FMS2htLW8tMjZNWmhOUlpGVjhUVU5sYnZJVThCZ0dtOUx6MkxSWEpkZnRsU29aVmhuaXhkejl1SjROdHZpYk0zQ2JuaXJBM2hhY1h5bUhwVU9RandaUlN1OUVQeWU5WXhYOFlmS3RIZkplS0VROXZ6?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNGVkNRTDFOWFFYRmEzakY2bl9fN0d5LVRFR0ptdTNMZzhZM0ZKX0FMS2htLW8tMjZNWmhOUlpGVjhUVU5sYnZJVThCZ0dtOUx6MkxSWEpkZnRsU29aVmhuaXhkejl1SjROdHZpYk0zQ2JuaXJBM2hhY1h5bUhwVU9RandaUlN1OUVQeWU5WXhYOFlmS3RIZkplS0VROXZ6?oc=5\" target=",
+  "date": "2026-11-13T03:50:08.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
   "id": "adda4b497c1c647c",
   "source": "Financial Times",
   "group": "global-press",
@@ -2011,6 +2209,17 @@
   "date": "2026-11-12T22:50:00.000Z",
   "fetched": "2026-11-12T23:33:24.556Z",
   "fromCloud": "2026-11-12T2333.json"
+ },
+ {
+  "id": "56abc39dfeb41a30",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פליטות הפחמן מנפט, גז ופחם יירדו השנה ב-0.4%, בעזרת המלחמה באיראן - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QVjhZTkJ4b3Jacl96MTQtckRUb0x4ZWhTRVhwek1aMmpWYjdBZUx0dFFjc2lZYTFjMDFXNVV1MzRITFZsVGNXeTQ4ZFN5T05ZRS1rbUhOUV81TU1lb0hZTTJaRTZ2Z2Yy?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QVjhZTkJ4b3Jacl96MTQtckRUb0x4ZWhTRVhwek1aMmpWYjdBZUx0dFFjc2lZYTFjMDFXNVV1MzRITFZsVGNXeTQ4ZFN5T05ZRS1rbUhOUV81TU1lb0hZTTJaRTZ2Z2Yy?oc=5\" target=\"_blank\">פליטות הפחמן מנפט, גז ופחם יירדו השנה ב-0.4%, בעזרת המלחמה באיראן</",
+  "date": "2026-11-12T22:49:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
  },
  {
   "id": "da76655e8b01562e",
@@ -2948,6 +3157,17 @@
   "fromCloud": "2026-11-12T2033.json"
  },
  {
+  "id": "99fb0a2edfb1984a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מניות היוקרה איבדו כ-30% השנה, ובעלת קרטייה מחזיקה מעמד בזכות העשירים מאוד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IR2pVOTJNLTNqUEhZaktVclluQmVSZDRfeG53ZDdNOWd1eFZyd1JoeGxidGEwYzZKWGZlc2RFNmZTTDBJV2ZocHJneHNybml5WmhFOWpDS0JGR0dFZE1UQklJblVfSndwd0ZPdnpSc0M?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9IR2pVOTJNLTNqUEhZaktVclluQmVSZDRfeG53ZDdNOWd1eFZyd1JoeGxidGEwYzZKWGZlc2RFNmZTTDBJV2ZocHJneHNybml5WmhFOWpDS0JGR0dFZE1UQklJblVfSndwd0ZPdnpSc0M?oc=5\" target=\"_blank\">מניות היוקרה איבדו כ-30% השנה, ובעלת קרטייה מחזיקה מעמד ",
+  "date": "2026-11-12T20:28:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
   "id": "a4ca3f5326a82485",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -2990,6 +3210,17 @@
   "date": "2026-11-12T20:20:57.000Z",
   "fetched": "2026-11-12T20:33:12.400Z",
   "fromCloud": "2026-11-12T2033.json"
+ },
+ {
+  "id": "bc6ef1c5c6b787bc",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הפד מצמצם את החלטות הריבית: באוקטובר 2027 תתקיים ישיבת אסטרטגיה בלבד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnY3RYb1RJZVBmZ3dmNnR0ZzQ5VDk5a1FYU2p0anBmWFZyZEZlYVNKREI3WnFDRVU2SkZaZlZFcXdqQ1pFY1FWX19BTVJDU3RVS1JFYVNuMktmcnZhOTRUclNVT1pseVplcHhnZFR2VXg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnY3RYb1RJZVBmZ3dmNnR0ZzQ5VDk5a1FYU2p0anBmWFZyZEZlYVNKREI3WnFDRVU2SkZaZlZFcXdqQ1pFY1FWX19BTVJDU3RVS1JFYVNuMktmcnZhOTRUclNVT1pseVplcHhnZFR2VXg?oc=5\" target=\"_blank\">הפד מצמצם את החלטות הריבית: באוקטובר 2027 תתקיים ישיבת א",
+  "date": "2026-11-12T20:19:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
  },
  {
   "id": "a2447db5ba758acf",
@@ -3553,6 +3784,17 @@
   "fromCloud": "2026-11-12T1825.json"
  },
  {
+  "id": "e17360b0e9ff3f6e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סוכנות האנרגיה הבינלאומית - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hVFV6dTJwNmdzaWZoRFRpUDRmWHVndGRjMUlzbzFhX3NVRmtLbFZjTkFoLWJhdlBobEFBeFpuU1h2WjNIV3FvSnUyNHVCRFRJVXNzTTBB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hVFV6dTJwNmdzaWZoRFRpUDRmWHVndGRjMUlzbzFhX3NVRmtLbFZjTkFoLWJhdlBobEFBeFpuU1h2WjNIV3FvSnUyNHVCRFRJVXNzTTBB?oc=5\" target=\"_blank\">סוכנות האנרגיה הבינלאומית</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-12T18:10:06.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
   "id": "50b0fcf986e3e2b4",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -3751,6 +3993,17 @@
   "fromCloud": "2026-11-12T1803.json"
  },
  {
+  "id": "ab44c75351ceeaa3",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "התאחדות יועצי המשכנתאות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUSDZYaksxNlNnSWZhZUIwazFuVGdVUU1yZEhXY1UwaWR2bkppQlIyVEpidlYzdzVtVVkyVm5Ia0o5ekp3ZlpmZ0tmOWpKUHMtR3prUEd3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUSDZYaksxNlNnSWZhZUIwazFuVGdVUU1yZEhXY1UwaWR2bkppQlIyVEpidlYzdzVtVVkyVm5Ia0o5ekp3ZlpmZ0tmOWpKUHMtR3prUEd3?oc=5\" target=\"_blank\">התאחדות יועצי המשכנתאות</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-12T17:44:36.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
+ },
+ {
   "id": "e07a983275c1f5fc",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -3848,6 +4101,17 @@
   "date": "2026-11-12T17:28:23.000Z",
   "fetched": "2026-11-12T17:33:12.469Z",
   "fromCloud": "2026-11-12T1733.json"
+ },
+ {
+  "id": "9c9416e79c7317fc",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בריסל ולונדון בוחנות דחייה נוספת של מכס ה-10% על רכב חשמלי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1c3QzOGxub193OENMeVR6aFZYRmVnRl82SVBJU1pFaGV2WkxKY3lWX1FzXzlGbFhNZHAwR3pkQ1dyMWxCSm9GLUxGTnE3Mm5jSkxzWXpNS1dTWmhNQ3pmbDlESkxCNk1RWkZCOGhoVVY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB1c3QzOGxub193OENMeVR6aFZYRmVnRl82SVBJU1pFaGV2WkxKY3lWX1FzXzlGbFhNZHAwR3pkQ1dyMWxCSm9GLUxGTnE3Mm5jSkxzWXpNS1dTWmhNQ3pmbDlESkxCNk1RWkZCOGhoVVY?oc=5\" target=\"_blank\">בריסל ולונדון בוחנות דחייה נוספת של מכס ה-10% על רכב חשמ",
+  "date": "2026-11-12T17:26:00.000Z",
+  "fetched": "2026-11-13T10:03:12.814Z",
+  "fromCloud": "2026-11-13T1003.json"
  },
  {
   "id": "9ce0b81ae7ab8be2",
@@ -6728,27 +6992,5 @@
   "date": "2026-11-12T10:21:00.000Z",
   "fetched": "2026-11-12T16:33:15.576Z",
   "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "29d58e3a5d77012b",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "ריביות הפיקדונות בנובמבר 2026 – הדוח החודשי - Supermarker",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2o2ZEswQjVlRFAyQWpjNUlmdXhjaTFEdTZZenRLU1pGTENVd2VVZDdpc1hzMEN1QlRSTVFwaHhWbm5DU2xGQVl5RTR0Y0JJcTRid09KSEQwanhTY3pzT2VuQmZZUXJkZno4M213V2xUdjgzTVBtdmtHR1JJTTZiN3BVRQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2o2ZEswQjVlRFAyQWpjNUlmdXhjaTFEdTZZenRLU1pGTENVd2VVZDdpc1hzMEN1QlRSTVFwaHhWbm5DU2xGQVl5RTR0Y0JJcTRid09KSEQwanhTY3pzT2VuQmZZUXJkZno4M213V2xUdjgzTVBtdmtHR1JJTTZiN3BVRQ?oc=5\" target=\"_blank\">ריביות הפיקדונות בנובמבר 2026",
-  "date": "2026-11-12T10:00:00.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "3e477e238a9511b5",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "איך עובד כרטיס אשראי – דמי כרטיס, קאשבק ועמלת מט\"ח, עם דוגמאות - Supermarker",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjR1l5c0lOempkZk1sZEdVSGlJZlhlRTNuSjdzTmU3MkhJNmw0Q09CZVYzTmNBUjFpUDBVNWRkYmx5OHRoVm4wYm5HMzcwVUZfQmswX1d4STFyU2c4cFJ1WFk4cUtfZnk5YmhkTThXbGVCQWNiQXprSEM4cmRKdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBjR1l5c0lOempkZk1sZEdVSGlJZlhlRTNuSjdzTmU3MkhJNmw0Q09CZVYzTmNBUjFpUDBVNWRkYmx5OHRoVm4wYm5HMzcwVUZfQmswX1d4STFyU2c4cFJ1WFk4cUtfZnk5YmhkTThXbGVCQWNiQXprSEM4cmRKdw?oc=5\" target=\"_blank\">איך עובד כרטיס אשראי – דמי כרטיס, קאש",
-  "date": "2026-11-12T10:00:00.000Z",
-  "fetched": "2026-11-13T05:03:11.473Z",
-  "fromCloud": "2026-11-13T0503.json"
  }
 ]
