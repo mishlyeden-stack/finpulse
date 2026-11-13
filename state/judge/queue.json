@@ -1,5 +1,49 @@
 [
  {
+  "id": "45011aba014f6a82",
+  "source": "AV Network",
+  "group": "industry",
+  "title": "BREAKING: Yamaha Corporation to Acquire Disguise",
+  "link": "https://www.avnetwork.com/news/breaking-yamaha-corporation-to-acquire-disguise",
+  "summary": "The strategic move looks to 'transform how the world experiences live events.'",
+  "date": "2026-11-13T10:58:35.000Z",
+  "fetched": "2026-11-13T11:03:12.469Z",
+  "fromCloud": "2026-11-13T1103.json"
+ },
+ {
+  "id": "e4df5d0ce341c2b5",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
+  "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
+  "summary": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure appeared first on SecurityWeek .",
+  "date": "2026-11-13T10:48:40.000Z",
+  "fetched": "2026-11-13T11:03:12.469Z",
+  "fromCloud": "2026-11-13T1103.json"
+ },
+ {
+  "id": "5911f4666d837a5a",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "עובדי ארקיע מנסים לבלום את העסקה: ינסו להביא משקיע חדש בתוך שלושה ימים",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563337#utm_source=RSS",
+  "summary": "אחרי שהאחים נקש חתמו על עסקה למכירת השליטה בארקיע, תאגיד העובדים מנסה לאתר משקיעים שיגישו הצעה מתחרה &bull; המטרה: להבטיח את אחזקות העובדים ואת מעמדם בחברה &bull; הדדליין: יום שני אחר הצהריים",
+  "date": "2026-11-13T10:33:00.000Z",
+  "fetched": "2026-11-13T11:03:12.469Z",
+  "fromCloud": "2026-11-13T1103.json"
+ },
+ {
+  "id": "a049b6baff122bab",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "התשואה נמחקה: המס שהרס את החלום של קוני המשרדים",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563204#utm_source=RSS",
+  "summary": "הדיבורים על העלאת מס הרווחים הכלואים הם מסמר אחרון בארון הקבורה של יזמי המשרדים הקטנים &#8226; כבר היום רבים מהם לא עומדים בדרישות ההון של הבנקים שמימנו אותם, בגלל שהמדינה שינתה את הכללים באמצע",
+  "date": "2026-11-13T10:31:00.000Z",
+  "fetched": "2026-11-13T11:03:12.469Z",
+  "fromCloud": "2026-11-13T1103.json"
+ },
+ {
   "id": "1a4040541fd6e979",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -2352,6 +2396,17 @@
   "date": "2026-11-12T22:45:07.000Z",
   "fetched": "2026-11-12T23:33:24.556Z",
   "fromCloud": "2026-11-12T2333.json"
+ },
+ {
+  "id": "b435cf2c170e87da",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Grown Rogue International Inc. (0001463000) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1463000/000127956926001068/0001279569-26-001068-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001279569-26-001068 <b>Size:</b> 516 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-12T22:42:29.000Z",
+  "fetched": "2026-11-13T11:03:12.469Z",
+  "fromCloud": "2026-11-13T1103.json"
  },
  {
   "id": "9f45ca31c9a34db6",
@@ -7047,49 +7102,5 @@
   "date": "2026-11-12T11:04:00.000Z",
   "fetched": "2026-11-12T15:33:14.736Z",
   "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "b159b5a61609ee2e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Latham & Watkins guides biotech industry acquisition - ICLG",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14V3o3d2tpTDF6NjIwVkctSUJJdXVjWUpMeERvampyMWNGcE5pWW12N2o1V0p2SU1TalZHaWtlUExwOE4xS0QwYXZQYzZRRUNmZUxiWkVzNmdjOTgzeFpIMElYY3B6ckd5OEt3THNtNUhfZ2VhTERqeXlfd2hEdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE14V3o3d2tpTDF6NjIwVkctSUJJdXVjWUpMeERvampyMWNGcE5pWW12N2o1V0p2SU1TalZHaWtlUExwOE4xS0QwYXZQYzZRRUNmZUxiWkVzNmdjOTgzeFpIMElYY3B6ckd5OEt3THNtNUhfZ2VhTERqeXlfd2hEdw?oc=5\" target=\"_blank\">Latham & Watkins guides biotech indus",
-  "date": "2026-11-12T10:54:43.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "0de910901e4aaf27",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "סופית: יזם הביו-טק ציקי פוקס יפצה חברת צ'כית ב-17.3 מיליון שקל - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wUjBEUWhJYnhZSzZrSHVEc2QyWUFUMER4TDRIY1ctQjl0UjFzQjRkYmtqd3d5OEVUSEJxeHhWV0cwa3BDUHY2WmNsLTQzWUEyVW45V1puY0g2WTFDRWlJYUZIVFNvdTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wUjBEUWhJYnhZSzZrSHVEc2QyWUFUMER4TDRIY1ctQjl0UjFzQjRkYmtqd3d5OEVUSEJxeHhWV0cwa3BDUHY2WmNsLTQzWUEyVW45V1puY0g2WTFDRWlJYUZIVFNvdTQ?oc=5\" target=\"_blank\">סופית: יזם הביו-טק ציקי פוקס יפצה חברת צ'כית ב-17.3 מיליון שקל</a>&n",
-  "date": "2026-11-12T10:54:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "42dc0abe17b20bff",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "שיין עקפה את עלי אקספרס: הישראלים הגדילו קניות ביום הרווקים הסיני - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQR3VJdzNmQUx3NUZlTDQ1NWdvSmZwbEV4eTViUW5JS19nSE96NzQ2Y1cwYk1SWXRwNFRvWk8yRkYyTHVrb2VHUW1hSkxQZDNVQmREYzBuN1BGSGk5Y2k2M2NwRlFxZFpwTnB3UFVZWWhfRGpZdFVzTTNn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBQR3VJdzNmQUx3NUZlTDQ1NWdvSmZwbEV4eTViUW5JS19nSE96NzQ2Y1cwYk1SWXRwNFRvWk8yRkYyTHVrb2VHUW1hSkxQZDNVQmREYzBuN1BGSGk5Y2k2M2NwRlFxZFpwTnB3UFVZWWhfRGpZdFVzTTNn?oc=5\" target=\"_blank\">שיין עקפה את עלי אקספרס: הישראלים הגדילו קנ",
-  "date": "2026-11-12T10:49:00.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "d02bbd8d8b70459f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הביטוח הלאומי ישלם 5,000 שקל בשל מידע מטעה באתרו בנוגע לדמי אבטלה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbURHQXpmQ2NwTFlRdjUySzg3WFl0OUtYUjA2M2NZSzZORUxVQmQ1Tmh5eDdXVFJ6UlBoQWhTMGRPdXpxcVlHRjhQU0JlTXRpczBtUVBCblcxeWpVR0FjTVQ3QWpqdTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbURHQXpmQ2NwTFlRdjUySzg3WFl0OUtYUjA2M2NZSzZORUxVQmQ1Tmh5eDdXVFJ6UlBoQWhTMGRPdXpxcVlHRjhQU0JlTXRpczBtUVBCblcxeWpVR0FjTVQ3QWpqdTQ?oc=5\" target=\"_blank\">הביטוח הלאומי ישלם 5,000 שקל בשל מידע מטעה באתרו בנוגע לדמי אבטלה</a",
-  "date": "2026-11-12T10:43:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
  }
 ]
