@@ -1,5 +1,115 @@
 [
  {
+  "id": "3fd059e5129ee8c0",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - PGIM Private Credit Fund (0001923622) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1923622/000119312526459747/0001193125-26-459747-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001193125-26-459747 <b>Size:</b> 354 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01",
+  "date": "2026-11-13T16:30:13.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "b611ee8c63e6320c",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+  "link": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
+  "summary": "<p data-block-key=\"hqbxr\">Company has already acquired FläktGroup</p>",
+  "date": "2026-11-13T16:23:26.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "4ac5d2b21e9bbcef",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BACC: Blue Acquisition Corp. filed SEC Form 8-K: Other Events, Financial Statements and Exhibits - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONnJIMjdfcVVCODJCdHdVQ2xFUXgyZmYxUFZJQjJnSjJER090Y3F5UFgyWlYzTEZndVQ1QTVydjJPX21PTGdqdS1uak4yRXFLYjNsSWQ0U1cyXzB6WEpDQ1F3ZHBILTFsU1gyUGNnT0YxU0JqbXY1MkplRVZFY0RTMi1iQm1OSmNEVm9haUFOQmVobDhxcG4zMXBGeEdiWTJmaU81QkdFVWpEUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONnJIMjdfcVVCODJCdHdVQ2xFUXgyZmYxUFZJQjJnSjJER090Y3F5UFgyWlYzTEZndVQ1QTVydjJPX21PTGdqdS1uak4yRXFLYjNsSWQ0U1cyXzB6WEpDQ1F3ZHBILTFsU1gyUGNnT0YxU0JqbXY1MkplRVZFY0RTMi1iQm1OSmNEVm9haUFOQmVobDhxcG4zMXBGeEdiWTJmaU81QkdFVWpEUQ",
+  "date": "2026-11-13T16:17:34.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "fdc25cb67a4195ce",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Blue Acquisition Corp/Cayman (0002059654) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2059654/000118518526005351/0001185185-26-005351-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001185185-26-005351 <b>Size:</b> 319 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T16:11:32.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "2c0d3a8f3b226401",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bavarian Nordic C-suite stability in question as CFO steps down amid Q3 beat - Fierce Pharma",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1VvRGJUMXdLRjB3ajNTTi01R29idVVXY1F2YlpCN3pyRmgxVXNWVDFBYk10cWJPZ1ppM3A0cDhJX1ZtVFIzbHBrMGxZY2F0QnpEeUdaRFpIYzk5cUlGcFdRa2JLVHdsamdKWlcxa0NsUUMyQkhIQ0VOYzB5YWtibEFqZ3dVN211cVBkN3Q3Zm5CbDVLaUZvdWhlem56cDdIUFJRcUdMX3FNUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1VvRGJUMXdLRjB3ajNTTi01R29idVVXY1F2YlpCN3pyRmgxVXNWVDFBYk10cWJPZ1ppM3A0cDhJX1ZtVFIzbHBrMGxZY2F0QnpEeUdaRFpIYzk5cUlGcFdRa2JLVHdsamdKWlcxa0NsUUMyQkhIQ0VOYzB5YWtibEFqZ3dVN211cVBkN3Q3Zm5CbDVLaUZvdWhlem56cDdIUFJRcUdMX3FNUQ",
+  "date": "2026-11-13T16:10:49.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "0e3a028d8866808f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Mayor Johnson's chief financial officer abruptly resigns, third CFO to quit in a year - Chicago Sun-Times",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblQ4b00wUkhZQWpXR2k5b1J3bG02dDVsQUp5d0g3OWZGUmtCZER6UXNZb1Fkc3RocW05QkVKVnFvRU9oaTFGZjBkbUpBX3hUbGlPQnh4T3pKMnRjcVBmQmFlZGZzQS1WNklJdTNheVdtckFKNGlpdGg2ZzdheEt3aWdBeWJFbWF1T09UUW5zMGpYLV81eVJyQlV1eVRVWjZWRC1VbXdYVnUzOUd0TEhWdGlCNnhkMUFhY3p4djNYVk42YU5qZ0E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNblQ4b00wUkhZQWpXR2k5b1J3bG02dDVsQUp5d0g3OWZGUmtCZER6UXNZb1Fkc3RocW05QkVKVnFvRU9oaTFGZjBkbUpBX3hUbGlPQnh4T3pKMnRjcVBmQmFlZGZzQS1WNklJdTNheVdtckFKNGlpdGg2ZzdheEt3aWdBeWJFbWF1T09UUW5zMGpYLV81eVJyQlV1eVRVWjZWRC1VbXdYVnUzOU",
+  "date": "2026-11-13T16:10:00.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "2d4cdef4e4ced949",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "מחשש לשריפה: BMW קוראת לבעלי יותר מ-720 אלף מכוניות בארה\"ב לחנות מחוץ למבנים - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11NS10OWN6bkR6SjdxVUwtU080Snk5U1RBNEtvZ0ZJdm9yd0NqWG8zcTdOdmFwZFF2amNZS2ZFcFVsVi1wZTFLbjU1Z3Qta0FCZGJEbTVKVzJUZjVlTE1PdW1nbWo4QURfTUI2U05B?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE11NS10OWN6bkR6SjdxVUwtU080Snk5U1RBNEtvZ0ZJdm9yd0NqWG8zcTdOdmFwZFF2amNZS2ZFcFVsVi1wZTFLbjU1Z3Qta0FCZGJEbTVKVzJUZjVlTE1PdW1nbWo4QURfTUI2U05B?oc=5\" target=\"_blank\">מחשש לשריפה: BMW קוראת לבעלי יותר מ-720 אלף מכוניות בארה\"ב ",
+  "date": "2026-11-13T16:06:00.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "4420a6f7ae1971b1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AmEx closed its latest reservations acquisition - Expedite | Kristen Hawley",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBma0wzYVUwVFREdm80VFU0WFRrTUpTbDUwdzh6SVQ5VlBXaVFWVjdkQnZLYVIzc3pvenZPaHNHd0FXLUdYYWhVNEtMY0NDcEZFRHY0VmtyNmozczFjdmdEVElfaGJWUnVOemJGc2tDelk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBma0wzYVUwVFREdm80VFU0WFRrTUpTbDUwdzh6SVQ5VlBXaVFWVjdkQnZLYVIzc3pvenZPaHNHd0FXLUdYYWhVNEtMY0NDcEZFRHY0VmtyNmozczFjdmdEVElfaGJWUnVOemJGc2tDelk?oc=5\" target=\"_blank\">AmEx closed its latest reservations acquisition</a>&nbsp",
+  "date": "2026-11-13T16:05:36.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "e46475954ee2a407",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "What Changes When The CFO Becomes The CEO Overnight - Forbes",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWVUNmM4WkluMGJ1NlBScTFIREJwa0JhbkYxd3JGY3MtQ2pwdW14a0ZKa0ZvQ3JZQjJ2VFlteG95Ym5lRHE2Wi1xOUZYRm9Mb0VSeENBeWFfbEFwVDlQdkFvR0JVTDY1S2dhUi11QV83bHd0Z0VBOXA3N01kZ3lnQ0E1MjdoRmY2Y2R3NTRmYkV3RjJ1X1pHbmVwWXdndTZ4cWtGSHFMQm1CQUtPRWFBNVdB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWVUNmM4WkluMGJ1NlBScTFIREJwa0JhbkYxd3JGY3MtQ2pwdW14a0ZKa0ZvQ3JZQjJ2VFlteG95Ym5lRHE2Wi1xOUZYRm9Mb0VSeENBeWFfbEFwVDlQdkFvR0JVTDY1S2dhUi11QV83bHd0Z0VBOXA3N01kZ3lnQ0E1MjdoRmY2Y2R3NTRmYkV3RjJ1X1pHbmVwWXdndTZ4cWtGSHFMQm1CQU",
+  "date": "2026-11-13T16:04:26.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "f90aa6d9cd941ce5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Third Chicago CFO Resigns From Johnson Administration This Year - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlNMdkw0bW4xUF9keG5YZlAwTmhLVmFELW5LWVFXWkRLZlFkSm9TTmpHc3dZczBQOUE2NklLMGlUaHNCM2RuM1NtTWxBRnlMdzdEMGdrNUxFcklyVTBKUkpSa3QweU5ZYWpOX0txUndSTzlPZFlxQTRzSVVGSUUzX25wY1dRcFhseDNSVl9veG1LTFNxZ1RCWE41T0ktYTg2YVlRYTNiWGpkaS1NdkxtZm5FaEFvMHpWVGUtUXNXNnM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlNMdkw0bW4xUF9keG5YZlAwTmhLVmFELW5LWVFXWkRLZlFkSm9TTmpHc3dZczBQOUE2NklLMGlUaHNCM2RuM1NtTWxBRnlMdzdEMGdrNUxFcklyVTBKUkpSa3QweU5ZYWpOX0txUndSTzlPZFlxQTRzSVVGSUUzX25wY1dRcFhseDNSVl9veG1LTFNxZ1RCWE41T0ktYTg2YVlRYTNiWGpkaS",
+  "date": "2026-11-13T16:04:20.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
   "id": "015cb7ad626ad4e6",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -31,6 +141,17 @@
   "date": "2026-11-13T15:56:36.000Z",
   "fetched": "2026-11-13T16:03:11.685Z",
   "fromCloud": "2026-11-13T1603.json"
+ },
+ {
+  "id": "fe3857189deb1780",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CFO Colette Kress to serve as interim leader after Nvidia CEO Jensen Huang resignation - WSVN",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ma3Rjcjg2MDVueGRNNGxvUFlscFAzZmtmNWViUkRKRk9sMFdtZ1ZsWXZjeG5vZ1pFU19jQVZOVVdFU00xMU1iTGtsY3dZX2F0VzNrel83N1U0bFZoRjJPSWhfaDVfdExwbHpjS3lsQ3ZkQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5ma3Rjcjg2MDVueGRNNGxvUFlscFAzZmtmNWViUkRKRk9sMFdtZ1ZsWXZjeG5vZ1pFU19jQVZOVVdFU00xMU1iTGtsY3dZX2F0VzNrel83N1U0bFZoRjJPSWhfaDVfdExwbHpjS3lsQ3ZkQQ?oc=5\" target=\"_blank\">CFO Colette Kress to serve as interim leader after Nv",
+  "date": "2026-11-13T15:55:33.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
  },
  {
   "id": "2566a7868eea0feb",
@@ -207,6 +328,17 @@
   "date": "2026-11-13T15:12:13.000Z",
   "fetched": "2026-11-13T15:33:13.043Z",
   "fromCloud": "2026-11-13T1533.json"
+ },
+ {
+  "id": "847611dba29af741",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "FTC sues to block veterinary supplies distributor Covetrus’s $3.5 billion acquisition of rival MWI -statement - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZU9xb3hjb0tfT1lJY3FkZjFieG8ya3JrN0tuU0U2eEs5aHNTSHJwa0Rad2NfYjZGWC1US25KT3J1Mno4bk1KM1BhZmdnRDAwUVBzODdpcmxpYXZ5NC1hOGhyZWZQaXJkR0xSTVY3Z3lOaWo3SGFhb0lwaXdSSWVaWlJ0MGRtQlR0cU9vU1VsZUgwUzRlYTRvcmxGZkFaeWZlWUdabFgyWkwwaFhuZC1TdzB1bS1ETWE1ZS1zZWdsOVUwTXhkaEdMbkRsU1ZCYk1MSmViNDZrcW00bDg5eVhkOWJDQWl5V0NwMEt4OEhqNXJjZEpndHRRRER0T3NmdHF1c1hLMURDc0g?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZU9xb3hjb0tfT1lJY3FkZjFieG8ya3JrN0tuU0U2eEs5aHNTSHJwa0Rad2NfYjZGWC1US25KT3J1Mno4bk1KM1BhZmdnRDAwUVBzODdpcmxpYXZ5NC1hOGhyZWZQaXJkR0xSTVY3Z3lOaWo3SGFhb0lwaXdSSWVaWlJ0MGRtQlR0cU9vU1VsZUgwUzRlYTRvcmxGZkFaeWZlWUdabFgyWkwwaF",
+  "date": "2026-11-13T15:06:00.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
  },
  {
   "id": "79ff50cfefd8a2b1",
@@ -539,6 +671,17 @@
   "fromCloud": "2026-11-13T1433.json"
  },
  {
+  "id": "418cc6534c881215",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Lila Global said to enter VLGC market with BW LPG vessel acquisition - Riviera Maritime Media",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDdQNXFVWEdEQ2JoUFhFc3EySzlsanlxMGRBWk5qOTh5cDFNV1BKWkp6MWF1YnJhcF9rblpUX05STmVMc2l4cXpRYTlOZjFfMjZYd0NvM0RPMk9GYXEtelQzUFBwQU45TTZ4YWY5aFJxNWtUQ1NNMXcybWhpbm8wb1hhTTV0elB3eml0Znh6ZEwyTzUzSGxkd2tVVWZOdTg2Y01NdV9ZRE12NjBlYjZkYkxsVVg0dFFo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDdQNXFVWEdEQ2JoUFhFc3EySzlsanlxMGRBWk5qOTh5cDFNV1BKWkp6MWF1YnJhcF9rblpUX05STmVMc2l4cXpRYTlOZjFfMjZYd0NvM0RPMk9GYXEtelQzUFBwQU45TTZ4YWY5aFJxNWtUQ1NNMXcybWhpbm8wb1hhTTV0elB3eml0Znh6ZEwyTzUzSGxkd2tVVWZOdTg2Y01NdV9ZRE12Nj",
+  "date": "2026-11-13T14:02:57.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
   "id": "6e82191986f006c7",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -625,6 +768,17 @@
   "date": "2026-11-13T13:53:28.000Z",
   "fetched": "2026-11-13T14:33:14.324Z",
   "fromCloud": "2026-11-13T1433.json"
+ },
+ {
+  "id": "d2da8b2ec7162529",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "מניות Bio-key צונחות 11% לאחר החמצת הכנסות והרחבת ההפסד מאת Investing.com - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aTlpYYWRyNUhZYWZmMXBfMm5QYWpRcThfWkZLNkFqVjZGRFJEV1VfVkljVnZ6T1dRdEN0cnpvRF9LTkh5Nk9Pd3dUTlI2VnVHd3pBRFhNQlNBZjZpQlg2XzVYZmxwak4yLXJ2YmZVdnlsQ01X?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5aTlpYYWRyNUhZYWZmMXBfMm5QYWpRcThfWkZLNkFqVjZGRFJEV1VfVkljVnZ6T1dRdEN0cnpvRF9LTkh5Nk9Pd3dUTlI2VnVHd3pBRFhNQlNBZjZpQlg2XzVYZmxwak4yLXJ2YmZVdnlsQ01X?oc=5\" target=\"_blank\">מניות Bio-key צונחות 11% לאחר החמצת הכנסות והרחבת ה",
+  "date": "2026-11-13T13:50:16.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
  },
  {
   "id": "6372e5d3d28d8cb3",
@@ -1241,6 +1395,17 @@
   "date": "2026-11-13T12:11:00.000Z",
   "fetched": "2026-11-13T13:03:11.458Z",
   "fromCloud": "2026-11-13T1303.json"
+ },
+ {
+  "id": "bbd484aa03c878a6",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "עמלה של 3% גם על עמלת הכספומט בחו\"ל: התביעה נמחקה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtcWp3dEI3N3VGWlQwb3NaaDJqS3ROa0FiUFVrWmxaUkZidDJTcTJleTdoWGE2UGJocmotQkhEQ0lONUs4Y3Q4ek5rZHhhbTMxcXZMOVRSUXo3NUoyczNSN01QUEJSQW8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtcWp3dEI3N3VGWlQwb3NaaDJqS3ROa0FiUFVrWmxaUkZidDJTcTJleTdoWGE2UGJocmotQkhEQ0lONUs4Y3Q4ek5rZHhhbTMxcXZMOVRSUXo3NUoyczNSN01QUEJSQW8?oc=5\" target=\"_blank\">עמלה של 3% גם על עמלת הכספומט בחו\"ל: התביעה נמחקה</a>&nbsp;&nbsp;<fo",
+  "date": "2026-11-13T12:06:00.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
  },
  {
   "id": "e43f553bf29a364e",
@@ -1892,6 +2057,28 @@
   "fromCloud": "2026-11-13T1403.json"
  },
  {
+  "id": "7bec42316ac0e9e8",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע C 1750.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zUVREZDIyLVViTlBla2RzNEpnZTExRDNzc04xbjRDOGlFdXNHWEpjOG45Z2JDeXhGUXV0QlIweUdPeEdWam0xS18wZmVOaldZam41Z2prRG9Wc09oM2Q4eDloTlRQT1c5X01udFhPWVpIX1Vo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1zUVREZDIyLVViTlBla2RzNEpnZTExRDNzc04xbjRDOGlFdXNHWEpjOG45Z2JDeXhGUXV0QlIweUdPeEdWam0xS18wZmVOaldZam41Z2prRG9Wc09oM2Q4eDloTlRQT1c5X01udFhPWVpIX1Vo?oc=5\" target=\"_blank\">אלע C 1750.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:22.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "47e395362ee62dc9",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע P 3300.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xb1o1VTRIS2VaZjlwUEhnWTYtQ3R0b0pleEVmc3FnbWdiWWNyX1RJa19IclVkaU1pNkRyMWVRX0p3ME5NLXNjbFFNX3VYal9mOVFkdzdRczZIZGRQQlJ3VjhsZ0x0SVA2WDFtWVp1YVpST2Z4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0xb1o1VTRIS2VaZjlwUEhnWTYtQ3R0b0pleEVmc3FnbWdiWWNyX1RJa19IclVkaU1pNkRyMWVRX0p3ME5NLXNjbFFNX3VYal9mOVFkdzdRczZIZGRQQlJ3VjhsZ0x0SVA2WDFtWVp1YVpST2Z4?oc=5\" target=\"_blank\">אלע P 3300.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:19.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
+ },
+ {
   "id": "15e0cc5916799397",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -1912,6 +2099,17 @@
   "date": "2026-11-13T09:59:18.000Z",
   "fetched": "2026-11-13T14:03:13.033Z",
   "fromCloud": "2026-11-13T1403.json"
+ },
+ {
+  "id": "cc4749829aea0a31",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע P 1650.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xQ3NzTW1pNTZyVVlOS1E4d1o1R3ZGSWFxRFpuSFcxd0VSamlUWjJkZTNnNEVUUWVsZzZSX0pyWmpKcUR5MHd6X3pFd3VqcmVsbmhQcHEyVUM1YXNiZ1A0NV9WUWJjZVNhZHlnU2llM1V2YXFP?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0xQ3NzTW1pNTZyVVlOS1E4d1o1R3ZGSWFxRFpuSFcxd0VSamlUWjJkZTNnNEVUUWVsZzZSX0pyWmpKcUR5MHd6X3pFd3VqcmVsbmhQcHEyVUM1YXNiZ1A0NV9WUWJjZVNhZHlnU2llM1V2YXFP?oc=5\" target=\"_blank\">אלע P 1650.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:18.000Z",
+  "fetched": "2026-11-13T16:33:40.160Z",
+  "fromCloud": "2026-11-13T1633.json"
  },
  {
   "id": "72a399192b55ff74",
@@ -6829,368 +7027,5 @@
   "date": "2026-11-12T16:36:00.000Z",
   "fetched": "2026-11-12T17:03:11.839Z",
   "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "a3e048bdabf138b0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Robert Walters names Oliver Callaghan as group CFO and board member - Staffing Industry Analysts",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODZ0UGNfR1lSUVdPZUZieFBiRGNheHE2ZkVqa2RWZUt0aVdHTmpKT0JsLVJpNEdIdVd1V1FMZzV5aEo0QURISS1rcTRGNXFUY3gtM1J1RmM4UXdDcTlKaWxKaC1DQWx3aUY4SFdFS2VhbFp4ckVEckRKYm1aWlk2YVl5TGN5a2lxeXdidi05M281SmpqZF8xUmRTTE9MTl8zU2JzWVU1aWNUSmIzZHA3TFotRlIyQTlhYmxSdTNnMGs?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODZ0UGNfR1lSUVdPZUZieFBiRGNheHE2ZkVqa2RWZUt0aVdHTmpKT0JsLVJpNEdIdVd1V1FMZzV5aEo0QURISS1rcTRGNXFUY3gtM1J1RmM4UXdDcTlKaWxKaC1DQWx3aUY4SFdFS2VhbFp4ckVEckRKYm1aWlk2YVl5TGN5a2lxeXdidi05M281SmpqZF8xUmRTTE9MTl8zU2JzWVU1aWNUSm",
-  "date": "2026-11-12T16:32:49.000Z",
-  "fetched": "2026-11-12T20:03:13.527Z",
-  "fromCloud": "2026-11-12T2003.json"
- },
- {
-  "id": "d87a194321541a85",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Serco prioritizes defense, space in $292M QinetiQ US acquisition - Washington Technology",
-  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3ptMGVMMUlyN0FxSlNyb003bEJMUnk3VnRVNXRWNVZDVVlBbmFycS0wNFBWUGFENHJwU1J1WFFhR3BPQkdVVzF5elc2bVNyd2QzaEE4d3Z6V3VOZGFOTmxhSmUwLTZpRmdFZHlBTklnYmxZMHNfbTE2QTdGVDdCeVFBSXN5Vk9vTHFHZXpvbUdWcjg2V0s1dXJTbXhPVUNTY0tycVdUMWZQVlR3NWhCVWFxNmNyTkYxYVowOXBkV0c1OHRzRU9zR1hiS083TVg2ckdwMWYxVjl5aG9ZZXc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3ptMGVMMUlyN0FxSlNyb003bEJMUnk3VnRVNXRWNVZDVVlBbmFycS0wNFBWUGFENHJwU1J1WFFhR3BPQkdVVzF5elc2bVNyd2QzaEE4d3Z6V3VOZGFOTmxhSmUwLTZpRmdFZHlBTklnYmxZMHNfbTE2QTdGVDdCeVFBSXN5Vk9vTHFHZXpvbUdWcjg2V0s1dXJTbXhPVUNTY0tycVdUMWZQVl",
-  "date": "2026-11-12T16:32:30.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "62f69cd9b6a0a368",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "SWTX board to consider appointing CFO - Uvalde Leader News",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcVk5cFlPdVk5OExkR0tvTWpFVEdPR3NMeEtxTWtyRWpsckt4V2p6TFl5UUhiM3JYb1o2UWZTQ0k5cXFNclRaRW1rVmVadERYaWlYcGlLT3FDWDVvQVpQQW1KUzNhbWJDLVN0czd6X1NRWEpyNEdoN1pRSExVeVU1MHJLNE5WZlk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNcVk5cFlPdVk5OExkR0tvTWpFVEdPR3NMeEtxTWtyRWpsckt4V2p6TFl5UUhiM3JYb1o2UWZTQ0k5cXFNclRaRW1rVmVadERYaWlYcGlLT3FDWDVvQVpQQW1KUzNhbWJDLVN0czd6X1NRWEpyNEdoN1pRSExVeVU1MHJLNE5WZlk?oc=5\" target=\"_blank\">SWTX board to consider a",
-  "date": "2026-11-12T16:32:23.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "b34f27cb7498ab74",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "QXO Making CFO Succession - National Association of Wholesaler-Distributors",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CUFRCeDR5UldfV19Pc2RXS0d4aDR0bnFlS19jWGY2NFVrNzhkTGlEbk1UYXZkSmpBSlpZeFJSOTFNZHdadXJQOWtudkI0dU1aN0M1d2kzbDc2dWR5Z0lyYTFEbTA1dw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CUFRCeDR5UldfV19Pc2RXS0d4aDR0bnFlS19jWGY2NFVrNzhkTGlEbk1UYXZkSmpBSlpZeFJSOTFNZHdadXJQOWtudkI0dU1aN0M1d2kzbDc2dWR5Z0lyYTFEbTA1dw?oc=5\" target=\"_blank\">QXO Making CFO Succession</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation",
-  "date": "2026-11-12T16:30:54.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "b24e75e4e1171281",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Greater Philadelphia Life Sciences News: INOVIO's $75M Offering, Waters' MOBILion Acquisition & More - BioBuzz",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHZVbGZnNjNhSGxLcFZDYTlmaGN2OUhoQmJzT2NmUHdJWUkzLXhhSWtDYTd0R0RYSl93dWgzZjB4NFd5M01vLTdmdmdXMHdzdmktdExNMm4zSjhadUxmX0NDMDB4SzZUWDVHNEVUX1N6aWotODdoUWtfZEdycU9GY2Y0TG9kRHhHWENPSm9ab2RvYlBDTG53Q2VFdE1RRDJGYWFtcnp5al9mVm94VE0wREFJcVk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHZVbGZnNjNhSGxLcFZDYTlmaGN2OUhoQmJzT2NmUHdJWUkzLXhhSWtDYTd0R0RYSl93dWgzZjB4NFd5M01vLTdmdmdXMHdzdmktdExNMm4zSjhadUxmX0NDMDB4SzZUWDVHNEVUX1N6aWotODdoUWtfZEdycU9GY2Y0TG9kRHhHWENPSm9ab2RvYlBDTG53Q2VFdE1RRDJGYWFtcnp5al9mVm",
-  "date": "2026-11-12T16:30:38.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "447173ebfbb02c33",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "חצי מיליארד דולר וחשבונות מזויפים: שלוש מדינות בלב פרשת הונאה",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563183#utm_source=RSS",
-  "summary": "פסק דין בלונדון קובע שחברות־בנות של ענקית קרנות הגידור מאן מעורבות בפרשת שוחד &bull; בהודו ובסינגפור הקפיאו נכסים בסך כ־243 מיליון דולר בעקבות זיוף הונאת מלווים &bull; בטסמניה משרד התיירות יוצא בקמפיין שיווקי יוצא דופן &bull; והעונש החריג על מנהיג הכת בקניה &#8226; זום גלובלי",
-  "date": "2026-11-12T16:30:00.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "fcc370bcc9e8b8f3",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "מו\"מ עם ההסתדרות ובור תזרימי: מה צפוי לרוכשים החדשים של ארקיע?",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563310#utm_source=RSS",
-  "summary": "קבוצת הרוכשים של ארקיע, שכוללת את בעלי קבוצת ישפרו-תנופורט כידן דהרי וירון אדיב, צפויה לקבל לידיה חברה שזקוקה לתיקון עמוק, וצפויה לסיים את השנה בהפסד של 50-60 מיליון דולר &#8226; מגעים מתנהלים כעת בין ההסתדרות, תאגיד העובדים והרוכשים הפוטנציאליים, והצדדים נכנסים ללילה של משא ומתן",
-  "date": "2026-11-12T16:30:00.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "b7ca2554775a6e49",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "מניית (ניוז קורפ A) null - TheMarker Finance",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84LUVQY2M2ejlDbWhaN3VGbGxWZU81R1pYSEpxMVVJTDJtVkhRYUlGakdFQmVMeDdZdHZILXlLdmdOVXV3bzZsb1VRaHR1aUhiN2VMdGlfellBRW9BV3Jna0ZEZ3NNZGt1Q2N2aVVzeGsyQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE84LUVQY2M2ejlDbWhaN3VGbGxWZU81R1pYSEpxMVVJTDJtVkhRYUlGakdFQmVMeDdZdHZILXlLdmdOVXV3bzZsb1VRaHR1aUhiN2VMdGlfellBRW9BV3Jna0ZEZ3NNZGt1Q2N2aVVzeGsyQQ?oc=5\" target=\"_blank\">מניית (ניוז קורפ A) null</a>&nbsp;&nbsp;<font color=\"",
-  "date": "2026-11-12T16:29:04.000Z",
-  "fetched": "2026-11-13T05:33:11.514Z",
-  "fromCloud": "2026-11-13T0533.json"
- },
- {
-  "id": "8335fa74d4001a2e",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - AMERICAN SHARED HOSPITAL SERVICES (0000744825) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/744825/000143774926036445/0001437749-26-036445-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001437749-26-036445 <b>Size:</b> 313 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T16:27:58.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "f80bd3be70ce23cf",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Advancing thermal management for the AI era",
-  "link": "https://www.datacenterdynamics.com/en/magazines/advancing-thermal-management-for-the-ai-era/",
-  "summary": "<p data-block-key=\"sb1tq\">Taking a direct approach to liquid cooling in high-density data centers</p>",
-  "date": "2026-11-12T16:25:14.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "cf6980d3e7853d98",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "טראמפ ממליץ לאנבידיה: זה צריך להיות המנכ\"ל הבא",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563309#utm_source=RSS",
-  "summary": "נשיא ארה\"ב המליץ למנות את מנכ\"ל אפל לשעבר לתפקיד, זמן קצר לאחר התפטרותו של הואנג בעקבות חשיפת שתי מערכות יחסים שניהל מחוץ לנישואים &#8226; בינתיים מינתה אנבידיה מנכ\"לית זמנית לראשונה בתולדותיה וגם יו\"ר דירקטוריון ראשון",
-  "date": "2026-11-12T16:25:00.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "5b80ea82bd8d5768",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report",
-  "link": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
-  "summary": "<p data-block-key=\"v3j6m\">Research firms says while underlying configuration will remain the same, AI company is switching up the PCB</p>",
-  "date": "2026-11-12T16:24:12.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "d85f99f89b9bce74",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "York Space Systems enters unmanned ground vehicle market with acquisition - Washington Technology",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFlaUERxMEJLc1JZSzJYVGcya21QaVVuc1hCNVNTX1p1MmNaTFVsUkUxLV9FWkkzOWlCNjNEOGNkalRIOUhNaWdWUGR1NW5tRldHZWcwb1ctR0dnWjNzQmdLZUVOcnBDU2d6d0pqeHBWT1ExT3BhLTV6cjhPbi1tN2pvX0hfb25sYWJ5WWlUdlVIWEpfM19TTGhZak14clpPSk44WTFvcndRVFhXWGFWUnJ6VTBQZi1yTGFHNFBkUl9XblZOVGFBdUtzaw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFlaUERxMEJLc1JZSzJYVGcya21QaVVuc1hCNVNTX1p1MmNaTFVsUkUxLV9FWkkzOWlCNjNEOGNkalRIOUhNaWdWUGR1NW5tRldHZWcwb1ctR0dnWjNzQmdLZUVOcnBDU2d6d0pqeHBWT1ExT3BhLTV6cjhPbi1tN2pvX0hfb25sYWJ5WWlUdlVIWEpfM19TTGhZak14clpPSk44WTFvcndRVF",
-  "date": "2026-11-12T16:24:11.000Z",
-  "fetched": "2026-11-13T13:03:11.458Z",
-  "fromCloud": "2026-11-13T1303.json"
- },
- {
-  "id": "782b024e745df600",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "עסקת ארקיע: הרוכשים יזרימו 30 מיליון דולר, נקש 8.5 מיליון והמדינה 7.8 מיליון - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrT0R1T1Ewc1FhZ2ZydlBUN25vX3pKVUk0VHRJcXFjeS1RZ1hLZURNckh5aWJMRlpMbW9ic2tPVi1ROUE4eDVQSTQ1STE2TS03Szl3b0FwWDdIbHotb2VrMjlCSQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrT0R1T1Ewc1FhZ2ZydlBUN25vX3pKVUk0VHRJcXFjeS1RZ1hLZURNckh5aWJMRlpMbW9ic2tPVi1ROUE4eDVQSTQ1STE2TS03Szl3b0FwWDdIbHotb2VrMjlCSQ?oc=5\" target=\"_blank\">עסקת ארקיע: הרוכשים יזרימו 30 מיליון דולר, נקש 8.5 מיליון והמדינה 7.8 מיל",
-  "date": "2026-11-12T16:24:00.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "0166cf615f751cb1",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "SYS-DAT 9M 2026 slides: margins expand to 21% on acquisition gains - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2pmSVh5b3M3cEE1ZWd5TGFiQlQwa3AxeTEtaDJ6Z0h2dTBvZXRObGFzRWdMWExSLXl1UHcxRldMOGgwQkdFb01tQ2JDMUZHM0xaTjQ1OEtIUzdNUnZiQTZNX1Y1dUZKQlBZNHN6Ujdma3JHVE9XNFZBMmVLbExDUHVxeFJIdWpTZlRZRU9FYzM5eGJpblBteFFKR2dpMjdrQUxWVksxUUgxandZWGZzZXNCZndONWRtZk9YdA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2pmSVh5b3M3cEE1ZWd5TGFiQlQwa3AxeTEtaDJ6Z0h2dTBvZXRObGFzRWdMWExSLXl1UHcxRldMOGgwQkdFb01tQ2JDMUZHM0xaTjQ1OEtIUzdNUnZiQTZNX1Y1dUZKQlBZNHN6Ujdma3JHVE9XNFZBMmVLbExDUHVxeFJIdWpTZlRZRU9FYzM5eGJpblBteFFKR2dpMjdrQUxWVksxUUgxan",
-  "date": "2026-11-12T16:23:32.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "7f1864e400a83372",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "טראמפ מציע את טים קוק כמחליף של ג'נסן הואנג באנבידיה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UYmJKV2hIWjZaY1ROdnd6Q25NSHFyc0lXUnRiTlhXWUVQekI1ZzFhemNvXzh2RkZvc2s2OUNKcHJZTGt0U0lYODJEdnpOMXpnbUJyQzhCYnJSVF9vSHVSM01qcXNlN0x0NWhuTw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5UYmJKV2hIWjZaY1ROdnd6Q25NSHFyc0lXUnRiTlhXWUVQekI1ZzFhemNvXzh2RkZvc2s2OUNKcHJZTGt0U0lYODJEdnpOMXpnbUJyQzhCYnJSVF9vSHVSM01qcXNlN0x0NWhuTw?oc=5\" target=\"_blank\">טראמפ מציע את טים קוק כמחליף של ג'נסן הואנג באנבידיה</a>&nbsp",
-  "date": "2026-11-12T16:22:00.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "1970be88cccd80c4",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Telefónica Germany expands fiber net through network-sharing agreement with Deutsche Glasfaser",
-  "link": "https://www.datacenterdynamics.com/en/news/telef%C3%B3nica-germany-expands-fiber-net-through-network-sharing-agreement-with-deutsche-glasfaser/",
-  "summary": "<p data-block-key=\"u9sbb\">Will enable Telefónica to market its fiber to three million more locations</p>",
-  "date": "2026-11-12T16:21:28.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "12bd59a27c8760ab",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "ŌURA expands healthcare presence with $625m Counsel Health acquisition - Medical Device Network",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzhEakEyQjV2aFdfZGp3emtQSHVkeWFZQmptbnNva1N3VS1oTEJ6ZUhnSUNYYlAtNmtlMUZfWDFoNHY1RUFTTzVQajFsbWNMa29yQUVxcjZ0bDlQR2VaX1FaY19OU3NUal9vYURLMHVJa0pPTmNNeU9KSjdGdjZRWXNKaHNORDJYRzNqM09MZjE0eFFYOXdhb3FfWV9ac2Nkd3pjTm1FSmdINDhzQ1NwSm1fSQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzhEakEyQjV2aFdfZGp3emtQSHVkeWFZQmptbnNva1N3VS1oTEJ6ZUhnSUNYYlAtNmtlMUZfWDFoNHY1RUFTTzVQajFsbWNMa29yQUVxcjZ0bDlQR2VaX1FaY19OU3NUal9vYURLMHVJa0pPTmNNeU9KSjdGdjZRWXNKaHNORDJYRzNqM09MZjE0eFFYOXdhb3FfWV9ac2Nkd3pjTm1FSmdIND",
-  "date": "2026-11-12T16:21:25.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "2096dc6771d73208",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אייווקס מעלה את התחזית ב-120 מיליון דולר והמניה קופצת ביותר מ-20%; התלות באוקראינה מתחילה להתפוגג - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1M2IwVlZKTmx6ZGVTZHVzR2FuU3AwRjlWUUNvWEEzY21CYVU0VS1rbHZkNHFPcVpobXR1LTRqSUlhUE9QVnJJSE9xODNFVjlPVGtBblVYaE96ZVZHLWdwOGZRc09mbmhyUElkQzVHSzA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA1M2IwVlZKTmx6ZGVTZHVzR2FuU3AwRjlWUUNvWEEzY21CYVU0VS1rbHZkNHFPcVpobXR1LTRqSUlhUE9QVnJJSE9xODNFVjlPVGtBblVYaE96ZVZHLWdwOGZRc09mbmhyUElkQzVHSzA?oc=5\" target=\"_blank\">אייווקס מעלה את התחזית ב-120 מיליון דולר והמניה קופצת בי",
-  "date": "2026-11-12T16:21:00.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "bf6e21c8d2e8e428",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Nvidia CEO Jensen Huang resigns amid alleged affair with reported spy - ABC7 Los Angeles",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbms4MUVpbW1rSkE2RkhQQ1lud0h6ODJkTGZpUmpfbzNOQXczMUR0a3FGTmEzUHBnNDdnRlRUMllyQ094ZjViU0JZZUY2UWNmRGZveXg5MVhiQVFqRjJZX1RvaVc2SG5FSmh4RjJkbzlQN2pBVklTZ1o2NkI1SEp4QklSSWp1ZHhZRmJpeEhXbENVZnZIYUhYMTJwT0hZX3V4NGw0b3VyUDJBNVBzZndPd3Y3Z3hDcnhFMHAwOGVwbGNWazFuSkZRT1h6U0g?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbms4MUVpbW1rSkE2RkhQQ1lud0h6ODJkTGZpUmpfbzNOQXczMUR0a3FGTmEzUHBnNDdnRlRUMllyQ094ZjViU0JZZUY2UWNmRGZveXg5MVhiQVFqRjJZX1RvaVc2SG5FSmh4RjJkbzlQN2pBVklTZ1o2NkI1SEp4QklSSWp1ZHhZRmJpeEhXbENVZnZIYUhYMTJwT0hZX3V4NGw0b3VyUDJBNV",
-  "date": "2026-11-12T16:19:01.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "c68d71620fb22682",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "- Acquisition would expand Komatsu’s equipment portfolio with new products and specialized expertise - Komatsu announces intent to acquire Roadtec and Carlson road construction equipment brands - www.komatsu.jp",
-  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EZ09jLW5oT0RaNVJYaVdGcnlIenVneXZraFlQYUlFcEVDV1NkZnczdGJGY21pZjBiZUlwdXBsUTBaRWkyeWJFSHg2ZEVfQXhjSThMYjEwT0VYRzRr?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EZ09jLW5oT0RaNVJYaVdGcnlIenVneXZraFlQYUlFcEVDV1NkZnczdGJGY21pZjBiZUlwdXBsUTBaRWkyeWJFSHg2ZEVfQXhjSThMYjEwT0VYRzRr?oc=5\" target=\"_blank\">- Acquisition would expand Komatsu’s equipment portfolio with new products and spec",
-  "date": "2026-11-12T16:18:47.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "11d3a8955aa08d84",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "One-year moratorium could be implemented in Indiantown, Florida",
-  "link": "https://www.datacenterdynamics.com/en/news/one-year-moratorium-could-be-implemented-in-indiantown-florida/",
-  "summary": "<p data-block-key=\"49t57\">Existing projects will not be effected</p>",
-  "date": "2026-11-12T16:17:29.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "fbd4a410c083c79c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Alcon (SWX:ALC) Stock Could Be 47% Undervalued After Neurotech Acquisition - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG1LVDNXamhEbUh6NGc2YmtkbzBLQXJIWHdHNkxVOWZwNHFvbjBieGxjbVVEbEZPQTdBdGpfbzNGS25IalhtSUFQc3hkU19YaGtrT3RieS1CMy1FcUVhZ2xnWlQ4UGdzOEFodjFseV9QWjFXWTlweGljSmhrdFFHeDBvU0hGSlM5UnBKYU5oMUx2YS1x?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG1LVDNXamhEbUh6NGc2YmtkbzBLQXJIWHdHNkxVOWZwNHFvbjBieGxjbVVEbEZPQTdBdGpfbzNGS25IalhtSUFQc3hkU19YaGtrT3RieS1CMy1FcUVhZ2xnWlQ4UGdzOEFodjFseV9QWjFXWTlweGljSmhrdFFHeDBvU0hGSlM5UnBKYU5oMUx2YS1x?oc=5\" target=\"_blank\">Alcon (",
-  "date": "2026-11-12T16:16:04.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "1c460fa43064987a",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "האם אנבידיה היא הזדמנות? סקר גולשים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15MlU2aG9nMC15Nmo2cmlZZWl0SHhlZExvQjVSOHo0bEJ2dnhZNUJMd3hPdHMtTE9LVTFiTFF5amR1M0dFYWUxZjQyUGVkTWt0d3NFRWRRekFXVmtRWU5Hc2k3TnhKbVpfeFRwRQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE15MlU2aG9nMC15Nmo2cmlZZWl0SHhlZExvQjVSOHo0bEJ2dnhZNUJMd3hPdHMtTE9LVTFiTFF5amR1M0dFYWUxZjQyUGVkTWt0d3NFRWRRekFXVmtRWU5Hc2k3TnhKbVpfeFRwRQ?oc=5\" target=\"_blank\">האם אנבידיה היא הזדמנות? סקר גולשים</a>&nbsp;&nbsp;<font colo",
-  "date": "2026-11-12T16:16:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "11873c3e2419a096",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Developers propose “inference point facility” in Swansea, Massachusetts",
-  "link": "https://www.datacenterdynamics.com/en/news/developers-propose-inference-point-facility-in-swansea-massachusetts/",
-  "summary": "<p data-block-key=\"7sn7h\">A rebranding of Edge for the AI era</p>",
-  "date": "2026-11-12T16:14:52.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "3da4ddd5dbb900ab",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1756761/000175676126000150/0001756761-26-000150-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001756761-26-000150 <b>Size:</b> 146 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
-  "date": "2026-11-12T16:14:01.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "21836f981e311df5",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Japan's NTT Docomo apologizes after second 5G SA network outage in five days",
-  "link": "https://www.datacenterdynamics.com/en/news/japans-ntt-docomo-apologizes-after-second-5g-sa-network-outage-in-five-days/",
-  "summary": "<p data-block-key=\"9w0c8\">A nine-hour outage yesterday followed a 14-hour one last Friday</p>",
-  "date": "2026-11-12T16:13:48.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "7f1e0fce5f5180f5",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "חבר מועצת עיריית ירושלים לשעבר, יורם קארשי, התחמק מארנונה 15 שנים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kMEl3Tm9NZkdkWE1aczJwazhDTHp6bnpYNVQwRVpqbmhUZHpERUZ2UjRadlJwTDc1RHUzVTNGMk9OWWVWamM3SE10cnVpX21tWVN4YjJDSnM4cVh6NzJ2Q25STXF2U3M?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kMEl3Tm9NZkdkWE1aczJwazhDTHp6bnpYNVQwRVpqbmhUZHpERUZ2UjRadlJwTDc1RHUzVTNGMk9OWWVWamM3SE10cnVpX21tWVN4YjJDSnM4cVh6NzJ2Q25STXF2U3M?oc=5\" target=\"_blank\">חבר מועצת עיריית ירושלים לשעבר, יורם קארשי, התחמק מארנונה 15 שנים</a",
-  "date": "2026-11-12T16:12:00.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "e26bc907b976ff25",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K/A - FIRST COMMUNITY BANKSHARES INC /VA/ (0000859070) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/859070/000143774926036441/0001437749-26-036441-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001437749-26-036441 <b>Size:</b> 205 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
-  "date": "2026-11-12T16:10:31.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "831cc7ccd5329af5",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "\"היא הרבה יותר מסמנכ\"לית כספים\": מיהי קולט קרס, המנכ\"לית הזמנית של אנבידיה? - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wLUdoRzJiT0NZVVBwV3JaNS15TXR1cDdsWExwSmlQWEhXMlgxdDJ2YVVOVTdOUndMNVRoclhRdnY1SHBoU0tWVi1SMjJlblk1TFlkT3pRRU1YSHBsYlN1eXlEWndzS2YxVlNV?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9wLUdoRzJiT0NZVVBwV3JaNS15TXR1cDdsWExwSmlQWEhXMlgxdDJ2YVVOVTdOUndMNVRoclhRdnY1SHBoU0tWVi1SMjJlblk1TFlkT3pRRU1YSHBsYlN1eXlEWndzS2YxVlNV?oc=5\" target=\"_blank\">\"היא הרבה יותר מסמנכ\"לית כספים\": מיהי קולט קרס, המנכ\"לית הזמנית",
-  "date": "2026-11-12T16:09:00.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "7409dcfdc9944217",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "בשל איחור במסירה נקבע: היזמית תשלם לרוכשי דירות פיצוי מדי חודש עד למסירה - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PaVNZbWpXQUFTb00zVl94Z3BmdU9weTFnLXdEVi12dTR6OWpkejd6WjRLZlVLeUU4V3VOZHJERHBfNmtWTWx3cjhESjNkNWdlWXBwUW9mWWZSNjgtZFJNWTZZS2h2X2o5?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PaVNZbWpXQUFTb00zVl94Z3BmdU9weTFnLXdEVi12dTR6OWpkejd6WjRLZlVLeUU4V3VOZHJERHBfNmtWTWx3cjhESjNkNWdlWXBwUW9mWWZSNjgtZFJNWTZZS2h2X2o5?oc=5\" target=\"_blank\">בשל איחור במסירה נקבע: היזמית תשלם לרוכשי דירות פיצוי מדי חודש עד ל",
-  "date": "2026-11-12T16:07:00.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "d2b27b49c73f0740",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הפרישה של הואנג מטלטלת את מניות החשמל של ה-AI: בלום נופלת, סולאריס מתהפכת לעלייה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ITmJ4a2d3SFN4V3hyaUhSUTljMlo0NkRrMjNkX0NMZzVqZnpDbThXYkFGejhQeWxsWGVOcjhMRXZpc1N0TTBzNFRCVklfM3BRUXByM3d6OGcyb293c2VsQTJNSUItUU9MWkNDcks3X1Y?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5ITmJ4a2d3SFN4V3hyaUhSUTljMlo0NkRrMjNkX0NMZzVqZnpDbThXYkFGejhQeWxsWGVOcjhMRXZpc1N0TTBzNFRCVklfM3BRUXByM3d6OGcyb293c2VsQTJNSUItUU9MWkNDcks3X1Y?oc=5\" target=\"_blank\">הפרישה של הואנג מטלטלת את מניות החשמל של ה-AI: בלום נופל",
-  "date": "2026-11-12T16:06:00.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "e03bc8c670ed4a93",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "CFO of the Year: CHS Inc. finance chief Nelligan transforms organization - Minneapolis / St. Paul Business Journal - The Business Journals",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE9rMjl5ZTUzdTgxV2tIWFk3aF9YSXhLb1Rpcjloc0pHaFowaXcxU0hnZ0F6SmFnUFhpZ1ZEMEJCVEg5T0VIYmtZOVJHLWVsQjhzcERBVnA3anVlY1BCRFJkMXZJYkJEUVVaZ3ZvQkNMZ3g4ZHNsTDB1MVNqbFd3U2FaXy00ZEhJNXRlTEMxbWNMX3U4YjA1cXhvbWphVUNHenc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE9rMjl5ZTUzdTgxV2tIWFk3aF9YSXhLb1Rpcjloc0pHaFowaXcxU0hnZ0F6SmFnUFhpZ1ZEMEJCVEg5T0VIYmtZOVJHLWVsQjhzcERBVnA3anVlY1BCRFJkMXZJYkJEUVVaZ3ZvQkNMZ3g4ZHNsTDB1MVNqbFd3U2FaXy00ZEhJNXRlTEMxbWNMX3U4YjA1cXhvbWphVUNHenc?oc=5\" targ",
-  "date": "2026-11-12T16:05:00.000Z",
-  "fetched": "2026-11-12T18:33:12.877Z",
-  "fromCloud": "2026-11-12T1833.json"
  }
 ]
