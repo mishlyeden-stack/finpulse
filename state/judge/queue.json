@@ -1,5 +1,82 @@
 [
  {
+  "id": "c86cf651ea635b8c",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - C & F FINANCIAL CORP (0000913341) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/913341/000091334126000054/0000913341-26-000054-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0000913341-26-000054 <b>Size:</b> 162 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T17:31:35.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
+  "id": "33c7dee9e816c7d0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Nvidia CFO Colette Kress pushed back on Jensen Huang’s riskiest AI bets - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85Z3kyYTdUSl94VjZnSDNwUndZY1g4Yk5zTHNsb3ZheEpST3FGMkFteGdDS19FeDJXbXdtUzVGN3NFYlc0LTJIU1N5czBOUW9qSXBIbFpYcFdBM1NpSXBwRHotemc5MTBiazFnand6ZUpBOTdta2lGNw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE85Z3kyYTdUSl94VjZnSDNwUndZY1g4Yk5zTHNsb3ZheEpST3FGMkFteGdDS19FeDJXbXdtUzVGN3NFYlc0LTJIU1N5czBOUW9qSXBIbFpYcFdBM1NpSXBwRHotemc5MTBiazFnand6ZUpBOTdta2lGNw?oc=5\" target=\"_blank\">Nvidia CFO Colette Kress pushed back on Jense",
+  "date": "2026-11-13T17:24:40.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
+  "id": "daa122730b9b4c2f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Executive Turntable: Drew Wilson Named PRG CFO, TuneCore Elevates Tash Shah - Billboard",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHRnaDlseC1OSm1MdmUxdDhkSVB1Z1k3R3o4YXpmYnJYQVJXVnB6MTJSVURiWUdlTTdvOWJ6NU52TXFrRzd2Q3lHWVR3S0E4Z3l2cmh0UzVPeHV5cFhYNjlfNVFTOVpKOVZLVEljT0FYQVU4Si1jYXpBeENqYllJalRwSjdqU2xzb29YdFhoSDU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHRnaDlseC1OSm1MdmUxdDhkSVB1Z1k3R3o4YXpmYnJYQVJXVnB6MTJSVURiWUdlTTdvOWJ6NU52TXFrRzd2Q3lHWVR3S0E4Z3l2cmh0UzVPeHV5cFhYNjlfNVFTOVpKOVZLVEljT0FYQVU4Si1jYXpBeENqYllJalRwSjdqU2xzb29YdFhoSDU?oc=5\" target=\"_blank\">Executive Tu",
+  "date": "2026-11-13T17:24:34.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
+  "id": "691b7282c8ac6b68",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Integrated data center infrastructure",
+  "link": "https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/",
+  "summary": "<p data-block-key=\"ltwo1\">A unified lifecycle framework for cooling, critical power, power generation and building management systems</p>",
+  "date": "2026-11-13T17:23:09.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
+  "id": "a698e9e175eb9ed8",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - INTEGRATED BIOPHARMA INC (0001016504) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1016504/000143774926036730/0001437749-26-036730-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001437749-26-036730 <b>Size:</b> 226 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T17:12:02.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
+  "id": "243845a008032b4f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Wolter says its latest acquisition creates one of nation’s largest material handling companies - BizTimes - Milwaukee Business News",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV0ZRekpub0RzSDZsQlQ0elM4b0NmUWYzT1ZxYlEzdVo4clhoN2ZyVjNaMDVjMUdNMjkzc0NzZGd4YjF6MWdwX0lpMXZoT2tXbWFTSk9KOHptb3VKVDY1cndaRHdFbGNhaGF1NlJ2Nk0wbWplaVZQYmNDSmZmRlZvVV9MOUFOOGNaN19mR3BRYjZ5Ty1CVi1ONEN0b2ZYUG1SYWNDODhacUw0OG8tWUJmV1BHRU1IZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOV0ZRekpub0RzSDZsQlQ0elM4b0NmUWYzT1ZxYlEzdVo4clhoN2ZyVjNaMDVjMUdNMjkzc0NzZGd4YjF6MWdwX0lpMXZoT2tXbWFTSk9KOHptb3VKVDY1cndaRHdFbGNhaGF1NlJ2Nk0wbWplaVZQYmNDSmZmRlZvVV9MOUFOOGNaN19mR3BRYjZ5Ty1CVi1ONEN0b2ZYUG1SYWNDODhacUw0OG",
+  "date": "2026-11-13T17:10:47.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
+  "id": "9a7b4d42d945ba30",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - TransparentBusiness, Inc. (0001740742) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1740742/000182912626012367/0001829126-26-012367-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001829126-26-012367 <b>Size:</b> 253 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-11-13T17:04:22.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
   "id": "fae39d57a04e63b7",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -31,6 +108,28 @@
   "date": "2026-11-13T16:57:16.000Z",
   "fetched": "2026-11-13T17:03:12.371Z",
   "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "2b40cb3e224fa452",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "AI believers hold the line after Nvidia ructions",
+  "link": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
+  "summary": "Stock market bulls largely shrug off concerns about the concentration of risk",
+  "date": "2026-11-13T16:55:39.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
+  "id": "70be99cd333fb782",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+  "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
+  "summary": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
+  "date": "2026-11-13T16:53:17.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
  },
  {
   "id": "abfc28a81a2373d8",
@@ -460,6 +559,17 @@
   "date": "2026-11-13T15:18:09.000Z",
   "fetched": "2026-11-13T16:03:11.685Z",
   "fromCloud": "2026-11-13T1603.json"
+ },
+ {
+  "id": "295248ca21fab3bb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Chicago Mayor Brandon Johnson’s CFO resigns, citing refusal to ‘compromise my integrity’ - Yahoo",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmxxcWhLNGNMT3dpYWwydUZPcnRTQVpkMzV4RTFHLTg5UG9rN2JJb2lUQ2JoTm9NSnIzMjJLWTAySVhRdUF0UTBrazhYVzNJS1FzQVZ5RFlGUmN5TzV3R1VLS1BwNXcwbGxKenQzVDBvNG51eUNLX2NHdTdBZlZZZG03SlJvYl9vYTFyd2V1ZnZLWDFCOGxUUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmxxcWhLNGNMT3dpYWwydUZPcnRTQVpkMzV4RTFHLTg5UG9rN2JJb2lUQ2JoTm9NSnIzMjJLWTAySVhRdUF0UTBrazhYVzNJS1FzQVZ5RFlGUmN5TzV3R1VLS1BwNXcwbGxKenQzVDBvNG51eUNLX2NHdTdBZlZZZG03SlJvYl9vYTFyd2V1ZnZLWDFCOGxUUQ?oc=5\" target=\"_blank\">C",
+  "date": "2026-11-13T15:18:00.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
  },
  {
   "id": "c80b6aaca7493455",
@@ -2255,6 +2365,17 @@
   "fromCloud": "2026-11-13T1703.json"
  },
  {
+  "id": "6956b48879fbc4a3",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע C 2400.0 DEC מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOZHJTdnIxRkY3YUR0bmJVYkJqNEtLY0xqR0VPV0ZnS1VWOU9IREVncVZOVjg0NU5nZmpvalZNZExZSlpzSUlkb0kwb2NQLTQ3dzkzQ2FWSDRwVVlQMUdOZ3dNQ3hvTUk2b2pPLUw1X21JOUVo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBOZHJTdnIxRkY3YUR0bmJVYkJqNEtLY0xqR0VPV0ZnS1VWOU9IREVncVZOVjg0NU5nZmpvalZNZExZSlpzSUlkb0kwb2NQLTQ3dzkzQ2FWSDRwVVlQMUdOZ3dNQ3hvTUk2b2pPLUw1X21JOUVo?oc=5\" target=\"_blank\">אלע C 2400.0 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:19.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
   "id": "15e0cc5916799397",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -2286,6 +2407,28 @@
   "date": "2026-11-13T09:59:18.000Z",
   "fetched": "2026-11-13T16:33:40.160Z",
   "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "2d92e871dce5a38e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע C 1800.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52UEJwaWhpNkNTYzl1d3NEb3BoQXlrS3JXOUZDZkRBOG05bDhueV82SlVERjgzQ2IyQ3c3VnlvYmFpQ1ZsazE1c1lDTFJxOGdVU1UtM3BqYmE5LWVWX1o2X2U1U210VURQdmZrdFp6QUxNMy1a?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE52UEJwaWhpNkNTYzl1d3NEb3BoQXlrS3JXOUZDZkRBOG05bDhueV82SlVERjgzQ2IyQ3c3VnlvYmFpQ1ZsazE1c1lDTFJxOGdVU1UtM3BqYmE5LWVWX1o2X2U1U210VURQdmZrdFp6QUxNMy1a?oc=5\" target=\"_blank\">אלע C 1800.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:15.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
+ },
+ {
+  "id": "2b5ddc497ec47837",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע P 3300.0 DEC מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCczJUYXhrcU5Ec3phMnlKU2xmbFVDREpxdElCV2ZjQkNQY25iRmVEbkh6TmZRcWhSQTlsZDVQMWlNdDl3M19ZSWh6OHY5VnBDT3BlMzdzYUNkR0xDajNUN1UzZWNCZnR2akFUQWJsRmxfS191?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBCczJUYXhrcU5Ec3phMnlKU2xmbFVDREpxdElCV2ZjQkNQY25iRmVEbkh6TmZRcWhSQTlsZDVQMWlNdDl3M19ZSWh6OHY5VnBDT3BlMzdzYUNkR0xDajNUN1UzZWNCZnR2akFUQWJsRmxfS191?oc=5\" target=\"_blank\">אלע P 3300.0 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:14.000Z",
+  "fetched": "2026-11-13T17:33:14.446Z",
+  "fromCloud": "2026-11-13T1733.json"
  },
  {
   "id": "72a399192b55ff74",
@@ -6642,313 +6785,5 @@
   "date": "2026-11-12T17:34:23.000Z",
   "fetched": "2026-11-12T18:25:59.490Z",
   "fromCloud": "2026-11-12T1825.json"
- },
- {
-  "id": "a0397106f786f8ec",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Enel to include data centres in updated business plan in February, CFO says - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSERvRXpEdkdwdzh6ajZpS3h1WHVUcF95Zk1JY2FERFBTWlVjazE3VVI5UTRXRFBiTDRjVmU2dzI4dkVLTDdJMmNYUzVlbHQwU013WFBfdElaaEJHM1hxYzcxUm5RWHBtemZCUmtkc203UEllNENUenJ0bUREU2wzVnBDUTllMFRGMzVyZkszdkt3V1A1ZW9BUUU0bmhsUXhVZmx1MWJ1X2M5TzU2bGxjdWdzbGU1dGxucUdWS2pwRS1RVXpzU29RZHdOMm4yTkJGbnhXbXFRX2ZpSHFF?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSERvRXpEdkdwdzh6ajZpS3h1WHVUcF95Zk1JY2FERFBTWlVjazE3VVI5UTRXRFBiTDRjVmU2dzI4dkVLTDdJMmNYUzVlbHQwU013WFBfdElaaEJHM1hxYzcxUm5RWHBtemZCUmtkc203UEllNENUenJ0bUREU2wzVnBDUTllMFRGMzVyZkszdkt3V1A1ZW9BUUU0bmhsUXhVZmx1MWJ1X2M5Tz",
-  "date": "2026-11-12T17:33:34.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "1f91ff92de3f0640",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Quantum Systems drones grounded by German military after cyber attack",
-  "link": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8?syn-25a6b1a6=1",
-  "summary": "Start-up with €7bn valuation and operations in Ukraine is latest European arms group to be targeted",
-  "date": "2026-11-12T17:32:13.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "d517487fde46779c",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - TRIO-TECH INTERNATIONAL (0000732026) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/732026/000143774926036467/0001437749-26-036467-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001437749-26-036467 <b>Size:</b> 461 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T17:28:23.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "9c9416e79c7317fc",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "בריסל ולונדון בוחנות דחייה נוספת של מכס ה-10% על רכב חשמלי - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1c3QzOGxub193OENMeVR6aFZYRmVnRl82SVBJU1pFaGV2WkxKY3lWX1FzXzlGbFhNZHAwR3pkQ1dyMWxCSm9GLUxGTnE3Mm5jSkxzWXpNS1dTWmhNQ3pmbDlESkxCNk1RWkZCOGhoVVY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB1c3QzOGxub193OENMeVR6aFZYRmVnRl82SVBJU1pFaGV2WkxKY3lWX1FzXzlGbFhNZHAwR3pkQ1dyMWxCSm9GLUxGTnE3Mm5jSkxzWXpNS1dTWmhNQ3pmbDlESkxCNk1RWkZCOGhoVVY?oc=5\" target=\"_blank\">בריסל ולונדון בוחנות דחייה נוספת של מכס ה-10% על רכב חשמ",
-  "date": "2026-11-12T17:26:00.000Z",
-  "fetched": "2026-11-13T10:03:12.814Z",
-  "fromCloud": "2026-11-13T1003.json"
- },
- {
-  "id": "9ce0b81ae7ab8be2",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "באושר עד מבינים איך עובד טירוף צרכני",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563278#utm_source=RSS",
-  "summary": "הבכירה מרשות המסים עונה ברשתות החברתיות &#8226; הרשת שיודעת להרוויח מטרנד לוהט &#8226; וההשקעה שהתכווצה ומסכנת את ההובלה &#8226; זרקור על כמה עניינים שעל הפרק",
-  "date": "2026-11-12T17:25:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "e4333a20ecb08728",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אינדקס תשתיות טכנולוגיה גלובלי - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNV09aSDY5dWxXVnJBYkMwQ29TQ1dkenRPaG9ORFRjLTEyTWJFTzY2OEx1czNmVXNVSFZNTHJtUGMwUmtTdjVBYU1oYWlhX2hKYnNLaHJoZXpGMFdKYTFpRkVaNTdQRl9fOEFVbm5ONGNPQ2FD?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBNV09aSDY5dWxXVnJBYkMwQ29TQ1dkenRPaG9ORFRjLTEyTWJFTzY2OEx1czNmVXNVSFZNTHJtUGMwUmtTdjVBYU1oYWlhX2hKYnNLaHJoZXpGMFdKYTFpRkVaNTdQRl9fOEFVbm5ONGNPQ2FD?oc=5\" target=\"_blank\">אינדקס תשתיות טכנולוגיה גלובלי</a>&nbsp;&nbsp;<font",
-  "date": "2026-11-12T17:24:57.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "43b8b68bcd47f046",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אנל P 027000 DEC מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WM2RHWkdYRzRHU2dMQ3B5eGhTT05fdlNYbDdyeTFKejdTQ0JDalE2WUtlMG5xakc0Zlc0djMzS2gzNldGd3AxQXdrcThiSGtqY2FJQl9RWmpaQTNFdUM3SThzSGJsOVhjZ1lvTE1jeUNCT1ln?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1WM2RHWkdYRzRHU2dMQ3B5eGhTT05fdlNYbDdyeTFKejdTQ0JDalE2WUtlMG5xakc0Zlc0djMzS2gzNldGd3AxQXdrcThiSGtqY2FJQl9RWmpaQTNFdUM3SThzSGJsOVhjZ1lvTE1jeUNCT1ln?oc=5\" target=\"_blank\">אנל P 027000 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-11-12T17:24:56.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "f66f02c4bfede0c4",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אנל C 027000 DEC מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12ZzZFX0FNNVE2R01qT0dKVVdJc0p1SC1MNzVlbWdfWnloVWVLODhXZFNTeUk1dkVGaE40ZkpQYTduMnA3QkVSOHhOWnBoc0xlM2duT3FJOVcwSTFvN2hLb3JRUzZEcWhHVkZaVl90QWVtUjFO?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE12ZzZFX0FNNVE2R01qT0dKVVdJc0p1SC1MNzVlbWdfWnloVWVLODhXZFNTeUk1dkVGaE40ZkpQYTduMnA3QkVSOHhOWnBoc0xlM2duT3FJOVcwSTFvN2hLb3JRUzZEcWhHVkZaVl90QWVtUjFO?oc=5\" target=\"_blank\">אנל C 027000 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-11-12T17:24:56.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "08c4f12e3b0d896f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אנל C 024500 NOV מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQazN4QmJtM0dVOVZLblRNVUZEUkFqdVBYa1hoc1N3bDZXVmdhVXNtRXpKTjZZbWxvS2JCcDlOYVQzcy1xOFByazVNaDBoOWYzWlZIRjJyZXZOTnktWC1sR3NGOThrYlJZNHA5Mm1USHZPeTFL?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBQazN4QmJtM0dVOVZLblRNVUZEUkFqdVBYa1hoc1N3bDZXVmdhVXNtRXpKTjZZbWxvS2JCcDlOYVQzcy1xOFByazVNaDBoOWYzWlZIRjJyZXZOTnktWC1sR3NGOThrYlJZNHA5Mm1USHZPeTFL?oc=5\" target=\"_blank\">אנל C 024500 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-11-12T17:24:56.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "c3e744c021ee1ca6",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אנל P 024500 NOV מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GZHgwcG04QmtRLWpwcXUyLVV4VndLMENIaXJ5TTZvdHdLbndZYVpJUUVlVm9NZ1ZPMTFqb0RaQlVlbUlCSEN0ZGxONXJKX1p4UDQ1aVR2ejB0ckppS19yUjV3d25HMFAzZ24xcUpvSXk1ZGoy?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9GZHgwcG04QmtRLWpwcXUyLVV4VndLMENIaXJ5TTZvdHdLbndZYVpJUUVlVm9NZ1ZPMTFqb0RaQlVlbUlCSEN0ZGxONXJKX1p4UDQ1aVR2ejB0ckppS19yUjV3d25HMFAzZ24xcUpvSXk1ZGoy?oc=5\" target=\"_blank\">אנל P 024500 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-11-12T17:24:56.000Z",
-  "fetched": "2026-11-12T18:33:12.877Z",
-  "fromCloud": "2026-11-12T1833.json"
- },
- {
-  "id": "dd26161226eba157",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אנל P 024500 DEC מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WVWJJSHFhWnV2eGxwcG5RYkVCbFNkRzBLZ1h0QnZtMnZVY2NOUDMwTnlnRkxWTXA2NHBTQTY5QWhoajd3SW54dzExeldhQ19UZTFtRE9hcjVrYzRzbDZHdUdEVmh5OC1FdzFGRE5iZG1fZEJH?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1WVWJJSHFhWnV2eGxwcG5RYkVCbFNkRzBLZ1h0QnZtMnZVY2NOUDMwTnlnRkxWTXA2NHBTQTY5QWhoajd3SW54dzExeldhQ19UZTFtRE9hcjVrYzRzbDZHdUdEVmh5OC1FdzFGRE5iZG1fZEJH?oc=5\" target=\"_blank\">אנל P 024500 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-11-12T17:24:56.000Z",
-  "fetched": "2026-11-12T19:03:13.367Z",
-  "fromCloud": "2026-11-12T1903.json"
- },
- {
-  "id": "d6876eec0e0afade",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אנל C 024500 DEC מדור אופציות/נגזרים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTdTRZaWZ5UjZtaDJQUHluRzJ0RTdLRmhsdFU3RDN5c05MaU1IQnRmbk1VX0JHY0lxOWh0TWtjR2NfRnNMclM2Smt2VlZxUHdZWUNlWnlMRXMtUkFvbExhbF9VUXlmYm1kYm1zYU5pLXJUaENG?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBTdTRZaWZ5UjZtaDJQUHluRzJ0RTdLRmhsdFU3RDN5c05MaU1IQnRmbk1VX0JHY0lxOWh0TWtjR2NfRnNMclM2Smt2VlZxUHdZWUNlWnlMRXMtUkFvbExhbF9VUXlmYm1kYm1zYU5pLXJUaENG?oc=5\" target=\"_blank\">אנל C 024500 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
-  "date": "2026-11-12T17:24:56.000Z",
-  "fetched": "2026-11-12T19:33:14.509Z",
-  "fromCloud": "2026-11-12T1933.json"
- },
- {
-  "id": "21b2303c71d92874",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Meet the contenders to succeed Jensen Huang",
-  "link": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909",
-  "summary": "From chief executives of rival companies to the former CEO’s own children, the race to lead Nvidia has begun",
-  "date": "2026-11-12T17:24:08.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "b2e75b05b7fd7621",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אחרי איום בזימון: ג'נסן הואנג יעיד בקונגרס על הקשר לחשודה בריגול - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mRDRhWWFFQzVZNnlhLUNrM0JRWVkxakhVaFBIQ3F2RGVhdjFxUENWelFKNGQyY3V0RWJTbTdiSkdXUVh4WE1rcm9Ba0Y2RG1XdUlNenluU2xWajdhUzVxNE1CR1Rta0Jsd05NbA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5mRDRhWWFFQzVZNnlhLUNrM0JRWVkxakhVaFBIQ3F2RGVhdjFxUENWelFKNGQyY3V0RWJTbTdiSkdXUVh4WE1rcm9Ba0Y2RG1XdUlNenluU2xWajdhUzVxNE1CR1Rta0Jsd05NbA?oc=5\" target=\"_blank\">אחרי איום בזימון: ג'נסן הואנג יעיד בקונגרס על הקשר לחשודה ברי",
-  "date": "2026-11-12T17:23:00.000Z",
-  "fetched": "2026-11-12T18:25:59.490Z",
-  "fromCloud": "2026-11-12T1825.json"
- },
- {
-  "id": "7224c88ed20e871c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Hospice an M&A Priority for Aveanna - Hospice News",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GZHhVSHFZOEZGRmhieFFEMWJxTzJ0a1ZfejFIYTFINTM0S1NEMFZJclI5TWs0RUIzaG1BU1ZfTjlIbVBSd3k5bmNJWU1xS1BTbmVUOF9XYjZFSjhpQjJEYmNBS09mOG9VdlJkQ2c1bHQtZnZkbkl4Y193?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9GZHhVSHFZOEZGRmhieFFEMWJxTzJ0a1ZfejFIYTFINTM0S1NEMFZJclI5TWs0RUIzaG1BU1ZfTjlIbVBSd3k5bmNJWU1xS1BTbmVUOF9XYjZFSjhpQjJEYmNBS09mOG9VdlJkQ2c1bHQtZnZkbkl4Y193?oc=5\" target=\"_blank\">Hospice an M&A Priority for Aveanna</a>&nbs",
-  "date": "2026-11-12T17:22:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "c4ac4aae8fe60511",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "עופרה שטראוס נכנסת לדירקטוריון טופ גאם, שמניתה ירדה 35% השנה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zY0oteHFjamk1RWxBMXBMdjd4WEFjbmg2b2tzb0tEWWQtcVg0SWhVcVNaMThtWE5Mb0NJM1RJUVRnd3dIa2hsN2FxTE5nRUxJYzJJU0xqSmZBaGhFSzhOLWpfclVyaktqckhmUVdEeDRTRnIyWjdfU2ln?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8zY0oteHFjamk1RWxBMXBMdjd4WEFjbmg2b2tzb0tEWWQtcVg0SWhVcVNaMThtWE5Mb0NJM1RJUVRnd3dIa2hsN2FxTE5nRUxJYzJJU0xqSmZBaGhFSzhOLWpfclVyaktqckhmUVdEeDRTRnIyWjdfU2ln?oc=5\" target=\"_blank\">עופרה שטראוס נכנסת לדירקטוריון טופ גאם, שמנ",
-  "date": "2026-11-12T17:22:00.000Z",
-  "fetched": "2026-11-12T23:33:24.556Z",
-  "fromCloud": "2026-11-12T2333.json"
- },
- {
-  "id": "2d32eb032c59f988",
-  "source": "אנשים ומחשבים",
-  "group": "industry",
-  "title": "המועמד של טראמפ לתפקיד מנכ&#034;ל אנבידיה: טים קוק",
-  "link": "https://www.pc.co.il/featured/461420/",
-  "summary": "ל דונלד טראמפ יש מועמד להחליף את מנכ\"ל אנבידיה , ג'נסן הואנג , שהתפטר היום (ה') מתפקידו : טים קוק , ש פרש ב-1 בספטמבר מתפקיד מנכ\"ל אפל אחרי 15 שנים. הנשיא האמריקני כתב בפוסט ברשת החברתית שלו, Truth Social: \"עכשיו, כשמנכ\"ל אנבידיה, ג'נסן הואנג, שעשה עבודה פנטסטית, התפטר, יש רק אדם",
-  "date": "2026-11-12T17:21:47.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "f3618c1657f6d073",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Sabey signs 43.5MW PPA in Texas",
-  "link": "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/",
-  "summary": "<p data-block-key=\"l4389\">Company to offtake from CIP’s Greasewood solar farm</p>",
-  "date": "2026-11-12T17:20:39.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "1794ee0fa80f97c3",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "אפי נכסים סיימה את הרבעון השלישי עם גידול של 15.4% ברווח הנקי - שוק ההון - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlVqNEdsMzdQeURCclRTc2xhTzFhdGF2NjV0bmhweDV2MWhxakZaSWQ2VUFKODlpckJBZnpjUE1zRlFmeFJlU1RGYjkwaTduTDExZndyMFg0WHRPTDJLOXNRQXdEMzZ5QjBMT3pyaTd2MDY4SHlUaEhpUHlHSjJORmkwQzQtU1RMVHNpOGxIWFBLejNIZUFj?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlVqNEdsMzdQeURCclRTc2xhTzFhdGF2NjV0bmhweDV2MWhxakZaSWQ2VUFKODlpckJBZnpjUE1zRlFmeFJlU1RGYjkwaTduTDExZndyMFg0WHRPTDJLOXNRQXdEMzZ5QjBMT3pyaTd2MDY4SHlUaEhpUHlHSjJORmkwQzQtU1RMVHNpOGxIWFBLejNIZUFj?oc=5\" target=\"_blank\">אפי",
-  "date": "2026-11-12T17:20:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "8de48751eeb175d4",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "דיווח: ג'נסן הואנג עשוי להעיד בקונגרס כבר בשבוע הבא - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91OFAwUzNkek9WS1lCYXRLdl8yUnlIV3hPa2k3QXdkdGZCVEVFOXpjTmZ5dXJvd2R4SXlPT09Fbk9NWHB6U3hxSTVnV3hBNklWcS1vSnN1Ym5UOWxxT0VVak92aWZBbUh6OUIw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE91OFAwUzNkek9WS1lCYXRLdl8yUnlIV3hPa2k3QXdkdGZCVEVFOXpjTmZ5dXJvd2R4SXlPT09Fbk9NWHB6U3hxSTVnV3hBNklWcS1vSnN1Ym5UOWxxT0VVak92aWZBbUh6OUIw?oc=5\" target=\"_blank\">דיווח: ג'נסן הואנג עשוי להעיד בקונגרס כבר בשבוע הבא</a>&nbsp;&n",
-  "date": "2026-11-12T17:13:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "f6bfce6f2d594e81",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Forest County Potawatomi Community seeks to expand Milwaukee data center",
-  "link": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/",
-  "summary": "<p data-block-key=\"7di8v\">Challenges Milwaukee's data center moratorium</p>",
-  "date": "2026-11-12T17:10:30.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "39d1f253961f0d55",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Nvidia CEO resigns amid scandal; CFO named interim - ESG Dive",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMi1iZFNsUVlnc3hXY3dydUtYVTNzM2JBZXQtQmdXZFdiV05oamd1a0NFSnl3Q3NiSFNrRHdFSUxHVkJjdWxReElDMU9UM1BoanhrZ25FU0dXZVh4Z2FKbjFrV3BscUt4SjFMY3ltZjNYZTN2eWYtM3A5anJINFpRMUNhLVFfM0NjLVZDd2IwV0NJdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMi1iZFNsUVlnc3hXY3dydUtYVTNzM2JBZXQtQmdXZFdiV05oamd1a0NFSnl3Q3NiSFNrRHdFSUxHVkJjdWxReElDMU9UM1BoanhrZ25FU0dXZVh4Z2FKbjFrV3BscUt4SjFMY3ltZjNYZTN2eWYtM3A5anJINFpRMUNhLVFfM0NjLVZDd2IwV0NJdw?oc=5\" target=\"_blank\">Nvidia CE",
-  "date": "2026-11-12T17:10:26.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "279467c036e9e2b2",
-  "source": "אנשים ומחשבים",
-  "group": "industry",
-  "title": "אסוס ואנבידיה דוחפות את ה-AI לקצה: סקירת ה-ProArt P14",
-  "link": "https://www.pc.co.il/featured/461413/",
-  "summary": "יש כיום שתי מגמות מאוד ברורות לגבי השימוש ב-AI, שהפוכות לגמרי בכיוונן: מצד אחד, אליבא ד סם אלטמן , לדוגמה, ההתמקדות צריכה להיות בדאטה סנטרים שמשרתים את צורכי אימון המודלים וההיסק מרחוק, או בארגונים גדולים בשרתים מקומיים. מהצד השני יש את המגמה של יצרניות המחשוב האישי, אבל לא רק, ל",
-  "date": "2026-11-12T17:10:01.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "c5f6b4ecee4633fd",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "חלל תקשורת בדרך לבעל שליטה חדש: חברת אומגה של לירון קרסין - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fa0lQM3dDeVVtSTEwamN4NTl6S0thLW1tMU5RVmRsV3pjM0k1TzJzR3VpUVViS3kwMkZuYkZhTHRrM2pzek9DLTdBRnMyWG1rcWRvQXF6aGJ0QWRKZEtNODc3aU4?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fa0lQM3dDeVVtSTEwamN4NTl6S0thLW1tMU5RVmRsV3pjM0k1TzJzR3VpUVViS3kwMkZuYkZhTHRrM2pzek9DLTdBRnMyWG1rcWRvQXF6aGJ0QWRKZEtNODc3aU4?oc=5\" target=\"_blank\">חלל תקשורת בדרך לבעל שליטה חדש: חברת אומגה של לירון קרסין</a>&nbsp;&nbsp",
-  "date": "2026-11-12T17:08:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "ba090dcbc2718209",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ספייס X תשקיע 74 מיליארד דולר בשני קמפוסים של AI בטקסס ובאריזונה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RdmdJS2paNGEyYWdvX2p0NjdRN3NGUkJyYUd6T2tsbFYzclFQVm9LX09XUURtSzdHUnk3ajk0MnVaTVlQN2xZSjdrZ3A1eURkVGZKaXc1aXFuSlJwS1pqMFhZS3FZcnBtemJLNQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1RdmdJS2paNGEyYWdvX2p0NjdRN3NGUkJyYUd6T2tsbFYzclFQVm9LX09XUURtSzdHUnk3ajk0MnVaTVlQN2xZSjdrZ3A1eURkVGZKaXc1aXFuSlJwS1pqMFhZS3FZcnBtemJLNQ?oc=5\" target=\"_blank\">ספייס X תשקיע 74 מיליארד דולר בשני קמפוסים של AI בטקסס ובאריז",
-  "date": "2026-11-12T17:06:00.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "70f02394f20f8ec5",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "באצטדיון כדורגל: ההשקה החדשה של זיקר",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563236#utm_source=RSS",
-  "summary": "מותג הרכב ZEEKR ערך אירוע מסירות ראשון מסוגו באצטדיון בלומפילד &#8226; משלחת של כ-30 ראשי ערים מ-19 מדינות ביקרה בבורסה בתל אביב &#8226; ופורום תגלית אקסל כינס מאות מנהיגים, יזמים ומשקיעים לדיונים על עתיד ההייטק, השקעות, בינה מלאכותית וטכנולוגיות ביטחוניות &#8226; אירועים ומינויי",
-  "date": "2026-11-12T17:05:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "198e1d6038ae0468",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Danone Completes Its Acquisition Of MADE Group - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHROYlJSNjc3SUdfdkdrSHJ1VUxiemVRVC1pdjVqOWIxeW5tMExaZkNXdnBpelRQVjQ2RzVZLWhXc3UxNU5vaktxaDBXSWtYaTBMZzRGYWhwM28ydmZYdG1WMm1hR3FpbmtyYzdZVHJNODVpUEFoWFpaTmw3LUg4Uk4zWlpNQmZqeDhMb1p5OEhPVmVLQzZQaUd3YzBHSkdmNHFHcV9LZEdBeGZraXpSdTZWc3BLTTg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHROYlJSNjc3SUdfdkdrSHJ1VUxiemVRVC1pdjVqOWIxeW5tMExaZkNXdnBpelRQVjQ2RzVZLWhXc3UxNU5vaktxaDBXSWtYaTBMZzRGYWhwM28ydmZYdG1WMm1hR3FpbmtyYzdZVHJNODVpUEFoWFpaTmw3LUg4Uk4zWlpNQmZqeDhMb1p5OEhPVmVLQzZQaUd3YzBHSkdmNHFHcV9LZEdBeG",
-  "date": "2026-11-12T17:03:45.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "c2644aac01993095",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "בשל איחור במסירה: היזם ישלם לרוכשי הדירות פיצוי מדי חודש - עד למסירה",
-  "link": "https://www.ynet.co.il/economy/article/ryr7kuqczl",
-  "summary": "בצעד יוצא דופן, יזמית חויבה על ידי בית משפט בהרצליה לשלם לרוכשים - שחל עיכוב ניכר במסירת הדירות שרכשו - לשלם פיצוי חודשי שוטף שנע בין 6,250 ל-7,500 שקל, ממועד הגשת הבקשה ועד למסירה בפועל של הדירות",
-  "date": "2026-11-12T17:03:36.000Z",
-  "fetched": "2026-11-12T19:33:14.509Z",
-  "fromCloud": "2026-11-12T1933.json"
  }
 ]
