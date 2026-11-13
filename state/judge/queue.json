@@ -1,5 +1,126 @@
 [
  {
+  "id": "fae39d57a04e63b7",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "ASIC ambition",
+  "link": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+  "summary": "<p data-block-key=\"r6zzf\">Startups and hyperscalers alike are making the case for custom silicon</p>",
+  "date": "2026-11-13T17:00:43.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "cac56f06f7981e9f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Rare Earths Americas, Inc. (0002095743) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2095743/000119312526459820/0001193125-26-459820-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001193125-26-459820 <b>Size:</b> 173 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
+  "date": "2026-11-13T17:00:14.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "2619881b5cc55516",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - DYADIC INTERNATIONAL INC (0001213809) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051601/0001493152-26-051601-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001493152-26-051601 <b>Size:</b> 399 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T16:57:16.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "abfc28a81a2373d8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Finance chief Pat Dowell calls for ‘independent audit’ after abrupt exit of Chicago’s CFO - Crain's Chicago Business",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTFJUEdFbE83VlBZLUUtOXdoNFFGdDdhbWd2WWRDejc0WTZuS25IX2VIa29URHgtSE51YkZlc2hzeHZQWGtiLWdkMEVad2ljY0dMUkdQOVJIUmpJOUtyQ0JDZHRUc05uZm5LbDZJalQ3eXFFbXY3b3lKQ1VwZVZYUk51Rlh5dG9HSnZ4ZktFM2VpZEFvUm5wS2huRFFqY1htNEVPQw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTFJUEdFbE83VlBZLUUtOXdoNFFGdDdhbWd2WWRDejc0WTZuS25IX2VIa29URHgtSE51YkZlc2hzeHZQWGtiLWdkMEVad2ljY0dMUkdQOVJIUmpJOUtyQ0JDZHRUc05uZm5LbDZJalQ3eXFFbXY3b3lKQ1VwZVZYUk51Rlh5dG9HSnZ4ZktFM2VpZEFvUm5wS2huRFFqY1htNEVPQw?oc=5\" t",
+  "date": "2026-11-13T16:52:53.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "c1be087d7d155751",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - PILLARSTONE CAPITAL REIT (0000928953) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/928953/000143774926036721/0001437749-26-036721-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001437749-26-036721 <b>Size:</b> 179 KB <br>Item 4.01: Changes in Registrant's Certifying Accountant <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T16:46:17.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "470a41dc9cdc991f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K/A - NATIONAL BANKSHARES INC (0000796534) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/796534/000119312526459783/0001193125-26-459783-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001193125-26-459783 <b>Size:</b> 392 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T16:42:44.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "37a630f3c9646da2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Feby’s acquisition solidifies SoDel’s northern foothold - Delaware Business Times",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDcEk0TW1ULXcwQVJyQzhfQUduTEJOVmNRRHdDcEtlQlk5WXFOY1BiTS1LcXRqY0JKVHcxSWNTTHBYNkdZMEVhdUtJNTNoN1l5YkROVmhYa2kxY0pTMDdGeHdpdFozUHJPZjFrQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBDcEk0TW1ULXcwQVJyQzhfQUduTEJOVmNRRHdDcEtlQlk5WXFOY1BiTS1LcXRqY0JKVHcxSWNTTHBYNkdZMEVhdUtJNTNoN1l5YkROVmhYa2kxY0pTMDdGeHdpdFozUHJPZjFrQQ?oc=5\" target=\"_blank\">Feby’s acquisition solidifies SoDel’s northern foothold</a>&n",
+  "date": "2026-11-13T16:40:05.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "ade899d022a611e8",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שוק האג\"ח האמריקאי סופג את המכה הקשה ביותר זה שנה וחצי - והפד בדרך להעלאות ריבית נוספות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83M3dYc1hWZGFvRkV0R2pVc3o2eXpiaUJnamNqQkQyQTlKUkRldFRpRUhjbWxxVm1xSUlZS3V1RTVMYUxSbFhmQ2lEcWJHRk4yVlZXYzlOQklrTEVacUZGVVlMMmhMTmk4Zy0zWTNmQk8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE83M3dYc1hWZGFvRkV0R2pVc3o2eXpiaUJnamNqQkQyQTlKUkRldFRpRUhjbWxxVm1xSUlZS3V1RTVMYUxSbFhmQ2lEcWJHRk4yVlZXYzlOQklrTEVacUZGVVlMMmhMTmk4Zy0zWTNmQk8?oc=5\" target=\"_blank\">שוק האג\"ח האמריקאי סופג את המכה הקשה ביותר זה שנה וחצי -",
+  "date": "2026-11-13T16:40:00.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "472171e67adafe75",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - VOLKSWAGEN AUTO LEASE TRUST 2026-C (0002161311) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2161311/000110465926126761/0001104659-26-126761-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001104659-26-126761 <b>Size:</b> 77 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T16:37:46.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "f626862cdef9a8b0",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC (0001182534) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1182534/000110465926126761/0001104659-26-126761-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001104659-26-126761 <b>Size:</b> 77 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T16:37:46.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
+  "id": "58700d8c393896c8",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Blue Chip Capital Group Inc. (0001932213) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1932213/000149315226051593/0001493152-26-051593-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001493152-26-051593 <b>Size:</b> 226 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T16:34:56.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
   "id": "3fd059e5129ee8c0",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -66,6 +187,17 @@
   "fromCloud": "2026-11-13T1633.json"
  },
  {
+  "id": "ae1855576eff4ffc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Boluda Towage expands its presence in Latin America with Cititug acquisition - www.rivieramm.com",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNG1JNVItaFd0XzdYeGhHVUNaMWFRdVJYZVhLQXhuMmk4RFVjQmVxb18zTmtxQTgzS2FwOG9uNkFxWGRnYmZheW0wbGtiNVBmVE9ZckNfdUhQeHdnaWVCQ1RJNGprUzJjME1LV1RUZUV0TGFfbmIwbFQ3TW91b3lQeURlZjBQcG9xRFpRXzlDLThsdXRqUUEzaDRsYVpzUmdzd2JyWE9kczNrSk1KY2dvdHhIdGlYd0hhSGJyYTBvS2E4bFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNG1JNVItaFd0XzdYeGhHVUNaMWFRdVJYZVhLQXhuMmk4RFVjQmVxb18zTmtxQTgzS2FwOG9uNkFxWGRnYmZheW0wbGtiNVBmVE9ZckNfdUhQeHdnaWVCQ1RJNGprUzJjME1LV1RUZUV0TGFfbmIwbFQ3TW91b3lQeURlZjBQcG9xRFpRXzlDLThsdXRqUUEzaDRsYVpzUmdzd2JyWE9kczNrSk",
+  "date": "2026-11-13T16:07:51.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
   "id": "2d4cdef4e4ced949",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -108,6 +240,17 @@
   "date": "2026-11-13T16:04:20.000Z",
   "fetched": "2026-11-13T16:33:40.160Z",
   "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "bbfae60f8d6bcd47",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "REEcycle Holdings, Inc. and Hall Chadwick Acquisition Corp. Announce SEC Effectiveness of Registration Statement, Advancing Proposed Nasdaq Listing - The Daily Tribune News",
+  "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQNERkR2pabGtFR2N2YmZpRU5XM3RDSFFJSTVfTDdqMS1fMElDVUlOQkpremwyT1hraUdHc1RyVGVqaHhfN3BpTDlyX3dhRDlSb2JCaGJ6Q0JHVEYyc1ZoR2hLQ3lhRjhzcU96YTlRVmNvYnROMDVoT3lvSm5oak1QdVF0WnNnMXA2MDNXbV83b3hrYnJjLVE3OUhfQXVmbUlZMnRJWXR0VWZPX0pMbU1RZEsxY3FuWEhaRUhpY19WUlkwUjhGemlDeC1QYjVBcTg0Mk0yMmRiZHc1cVFFTWZoa01oX01MY3ZOSzVPQzlPR2V6eHc1VzlCOVNxR2NMYnRTWlY3SUZMczBSTS16ZmFnRl9ZYXVvaGxXb3JzUnk4ZmhqNW02Zlk3X2tfYVhXMmkzekdjUko4dTJvd2kyMjJlbHg3bVNwYjZZd0VaZTBIcw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxQNERkR2pabGtFR2N2YmZpRU5XM3RDSFFJSTVfTDdqMS1fMElDVUlOQkpremwyT1hraUdHc1RyVGVqaHhfN3BpTDlyX3dhRDlSb2JCaGJ6Q0JHVEYyc1ZoR2hLQ3lhRjhzcU96YTlRVmNvYnROMDVoT3lvSm5oak1QdVF0WnNnMXA2MDNXbV83b3hrYnJjLVE3OUhfQXVmbUlZMnRJWXR0VWZPX0",
+  "date": "2026-11-13T16:02:07.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
  },
  {
   "id": "015cb7ad626ad4e6",
@@ -163,6 +306,17 @@
   "date": "2026-11-13T15:55:00.000Z",
   "fetched": "2026-11-13T16:03:11.685Z",
   "fromCloud": "2026-11-13T1603.json"
+ },
+ {
+  "id": "d69921f88b14976c",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Colette Kress - calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVXJHOXh1Q044U3ExT0NBNjN6YU85R3NhZU9HTHhyT000QlZmRDVuVXFWS3pBNDRuT0U0b3Y0TU9jeVhlY1BhWGpUQy1KdTREb0FmUDk4N3NNUnc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVXJHOXh1Q044U3ExT0NBNjN6YU85R3NhZU9HTHhyT000QlZmRDVuVXFWS3pBNDRuT0U0b3Y0TU9jeVhlY1BhWGpUQy1KdTREb0FmUDk4N3NNUnc?oc=5\" target=\"_blank\">Colette Kress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+  "date": "2026-11-13T15:52:05.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
  },
  {
   "id": "5e836ab96888ec35",
@@ -2046,6 +2200,17 @@
   "fromCloud": "2026-11-13T1503.json"
  },
  {
+  "id": "561b530cf7014bea",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע P 1550.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aTDFBaXlLTE1UVUF2bmlFQXQta1hGa0lDQnMzeDRWV2Q3YjNSNkZ3UjVIM1lwZkJYaHpvSU40X1FoSG1uVlpRVVlSMF9oUHRGekNtQVRiVFdLZDZUZjFGTVhDSndjREV1cDRXeG8wdm0zQ0hX?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5aTDFBaXlLTE1UVUF2bmlFQXQta1hGa0lDQnMzeDRWV2Q3YjNSNkZ3UjVIM1lwZkJYaHpvSU40X1FoSG1uVlpRVVlSMF9oUHRGekNtQVRiVFdLZDZUZjFGTVhDSndjREV1cDRXeG8wdm0zQ0hX?oc=5\" target=\"_blank\">אלע P 1550.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:24.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
   "id": "fb41f84e0955c09f",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -2077,6 +2242,17 @@
   "date": "2026-11-13T09:59:19.000Z",
   "fetched": "2026-11-13T16:33:40.160Z",
   "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "d18eae9aeecd7847",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע C 1000.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUmJKM19kZ0YyZVhJTVNpOXA0eGhDanJrNG5KT01OTUpMVmViTjJ1cnF4aGZMU1I3MlZ5Z3dqSG4wNTJlaTBya0FTY2hCM2FjdkMtVFpza18tUHpoVzJqdG9qMlFmdGNyM2Mzc3ZQRGJVQjJM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUmJKM19kZ0YyZVhJTVNpOXA0eGhDanJrNG5KT01OTUpMVmViTjJ1cnF4aGZMU1I3MlZ5Z3dqSG4wNTJlaTBya0FTY2hCM2FjdkMtVFpza18tUHpoVzJqdG9qMlFmdGNyM2Mzc3ZQRGJVQjJM?oc=5\" target=\"_blank\">אלע C 1000.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:19.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
  },
  {
   "id": "15e0cc5916799397",
@@ -3938,6 +4114,17 @@
   "fromCloud": "2026-11-13T0403.json"
  },
  {
+  "id": "6373bc8155ba87f2",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (יואמאיץ') 1184282 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xT0gxZEVOZm9UaEcyc0pUUjJnTl9JZ3NPSUZDYVRuSklWLXIycmJpX25yekhsREZhUVFlaTFlYjdiZFB6bXZ4N0dzUm4xMTRhcjBIbENWVmxXZUo3dlZRVzBSTU9qQ214RlBUbHlGdTdjQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9xT0gxZEVOZm9UaEcyc0pUUjJnTl9JZ3NPSUZDYVRuSklWLXIycmJpX25yekhsREZhUVFlaTFlYjdiZFB6bXZ4N0dzUm4xMTRhcjBIbENWVmxXZUo3dlZRVzBSTU9qQ214RlBUbHlGdTdjQQ?oc=5\" target=\"_blank\">מניית (יואמאיץ') 1184282</a>&nbsp;&nbsp;<font color=\"",
+  "date": "2026-11-13T03:31:17.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
+ },
+ {
   "id": "9f24dee7207c5854",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -3947,6 +4134,17 @@
   "date": "2026-11-13T03:27:55.000Z",
   "fetched": "2026-11-13T03:33:13.999Z",
   "fromCloud": "2026-11-13T0333.json"
+ },
+ {
+  "id": "ccb8eefe564d1040",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (מגוריט) 1139195 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UVGRrdC1pSjBEMllRbzJpeG5LRzY4QXdwc0xfWVdXWlhtdHFsczFHM2VDcGwxV0FDaFYwSDk5QlZpZjMxV2FiZVQzczV6ODluU1dzZkRaaGhocmNNMmt1Y0hybjhYanhGTjZjVmhGaDExdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5UVGRrdC1pSjBEMllRbzJpeG5LRzY4QXdwc0xfWVdXWlhtdHFsczFHM2VDcGwxV0FDaFYwSDk5QlZpZjMxV2FiZVQzczV6ODluU1dzZkRaaGhocmNNMmt1Y0hybjhYanhGTjZjVmhGaDExdw?oc=5\" target=\"_blank\">מניית (מגוריט) 1139195</a>&nbsp;&nbsp;<font color=\"#6",
+  "date": "2026-11-13T03:22:45.000Z",
+  "fetched": "2026-11-13T17:03:12.371Z",
+  "fromCloud": "2026-11-13T1703.json"
  },
  {
   "id": "b1d6472a19cc0f4e",
@@ -6752,280 +6950,5 @@
   "date": "2026-11-12T17:03:36.000Z",
   "fetched": "2026-11-12T19:33:14.509Z",
   "fromCloud": "2026-11-12T1933.json"
- },
- {
-  "id": "621db001d48b9c7a",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "הסוף למלחמת המחירים? יבואני מכוניות סיניות הודיעו לחברות הליסינג על התייקרות ב־2027",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563249#utm_source=RSS",
-  "summary": "הפחתת הטבות המס ליצרניות הרכב החשמלי בסין צפויה לייקר את היבוא לישראל, לאחר שנים של תחרות מחירים אגרסיבית. ההתייקרות עשויה להגיע למחירונים כבר ב-2027 &#8226; במקביל, כלמוביל מרחיבה את פעילותה באירופה עם זיכיון GAC בצ'כיה ובסלובקיה, וב.מ.וו משיקה בישראל דגמים חדשים עם טווח נסיעה ש",
-  "date": "2026-11-12T17:03:00.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "092665025d826b9a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Arch Lending Launches Bitcoin Loan Refinancing, Targeting Lower Rates - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2U3YWRhOHJ1REgycjlwRHNrSExGc2h4NWxZZ2hQUDN6Wl9pUEpKN2xXWWJSWUdWdDlERHhDVm5aeVA0amRzYlZid05jM3Jod29TT2RnV3pFb202aTRaa25ESy1wMVdTSFpCa3dmNWtPNjJ3N3lFeHE5SVJSMVFJektWVWhYRWI2bHJWM3lPdDZXczRoc1dwcG9wc0gxS2RnTlh2LUxHcThqYXlmTDlj?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2U3YWRhOHJ1REgycjlwRHNrSExGc2h4NWxZZ2hQUDN6Wl9pUEpKN2xXWWJSWUdWdDlERHhDVm5aeVA0amRzYlZid05jM3Jod29TT2RnV3pFb202aTRaa25ESy1wMVdTSFpCa3dmNWtPNjJ3N3lFeHE5SVJSMVFJektWVWhYRWI2bHJWM3lPdDZXczRoc1dwcG9wc0gxS2RnTlh2LUxHcThqYX",
-  "date": "2026-11-12T17:01:20.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "9c033e2e44cb9b4a",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "זו עשויה להיות המרוויחה הגדולה מפרשת אנבידיה",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563251#utm_source=RSS",
-  "summary": "המשבר באנבידיה והתפטרותו של ג'נסן הואנג משחקים לכאורה לידי סין, היריבה בשוק השבבים &#8226; יש מי שסבורים שלמנכ\"ל היוצא אין תחליף כמוביל העולמי הלא רשמי של הסקטור &#8226; מנגד, יש הרואים באירוע \"פגיעה במוניטין האמריקאי, אך לא באנבידיה כמעצמת AI\"",
-  "date": "2026-11-12T17:00:00.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "7c817beeb5d7535c",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "רק בנק אחד מתברג השבוע בדירוג הפרסומות, והוא גם כובש את פסגת הזכירות",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563263#utm_source=RSS",
-  "summary": "הפרסומת הזכורה ביותר שייכת לבנק מזרחי טפחות והאהובה ביותר שייכת לביטוח 9, כך עולה מדירוג הפרסומות הזכורות והאהובות של גלובס וגיאוקרטוגרפיה &#8226; ההשקעה הגבוהה ביותר, לפי נתוני יפעת בקרת פרסום, שייכת לשני גופים שעומדים למכירה: כאל ו&ndash;וואן זירו",
-  "date": "2026-11-12T17:00:00.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "84de232fa0fa82b5",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Arch Lending launches Bitcoin refinancing with 1-point rate target - Crypto News",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lclhHR3JkbnJSUDFHZVNNWmR1MXJZcTA0RkFGcmgydmZKYWtPRWg2cTk1S0RlR1NhTFIwajczeUlFZjY5VHhaSnJaX2tpSlNaSExSMmUzM29DS0NJRXZXQ2N2VGdtM1FWOVE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9lclhHR3JkbnJSUDFHZVNNWmR1MXJZcTA0RkFGcmgydmZKYWtPRWg2cTk1S0RlR1NhTFIwajczeUlFZjY5VHhaSnJaX2tpSlNaSExSMmUzM29DS0NJRXZXQ2N2VGdtM1FWOVE?oc=5\" target=\"_blank\">Arch Lending launches Bitcoin refinancing with 1-point rate targ",
-  "date": "2026-11-12T17:00:00.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "3fa8c268842aced9",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Danone completes its acquisition of MADE Group, expanding its presence in the fast-growing healthy nutrition space in Asia Pacific - Yahoo Finance UK",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW1BUGUxcFJfZmdmeGllYnVSTlZ5d3hBdUZYLWU4ZG9NRjMzd3RVYWRjOWtPMFB5ejZRb3p1TTNGMHk3dGZ4Q2RhcjRiS3gwVnJSTzBxd1JCY1llTnZKZi1kRElhbTdhNTc4WjNoSG11VThGOWhnZTd6Y1d1Z3FkaG9Fa3hWdTBBWWhpUlpnQlV3UQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW1BUGUxcFJfZmdmeGllYnVSTlZ5d3hBdUZYLWU4ZG9NRjMzd3RVYWRjOWtPMFB5ejZRb3p1TTNGMHk3dGZ4Q2RhcjRiS3gwVnJSTzBxd1JCY1llTnZKZi1kRElhbTdhNTc4WjNoSG11VThGOWhnZTd6Y1d1Z3FkaG9Fa3hWdTBBWWhpUlpnQlV3UQ?oc=5\" target=\"_blank\">Danone co",
-  "date": "2026-11-12T17:00:00.000Z",
-  "fetched": "2026-11-12T19:03:13.367Z",
-  "fromCloud": "2026-11-12T1903.json"
- },
- {
-  "id": "de402d64d679224f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הנחושת בשפל של שלושה חודשים, האלומיניום בפרמיה שלא נראתה 36 שנה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ONUhfVFVtTnFkZ1pORGw3d2lld2VGMjUzWkxaUzFkSEtldjBZQUR3QUhMUTVyN2RQbjdLODNvekZXY1NXMGM1SElpVF8ya2lRZkVqaFYxUHRqNG80RGxMcjJyQ2JkUmhseGt6eUdqSEQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ONUhfVFVtTnFkZ1pORGw3d2lld2VGMjUzWkxaUzFkSEtldjBZQUR3QUhMUTVyN2RQbjdLODNvekZXY1NXMGM1SElpVF8ya2lRZkVqaFYxUHRqNG80RGxMcjJyQ2JkUmhseGt6eUdqSEQ?oc=5\" target=\"_blank\">הנחושת בשפל של שלושה חודשים, האלומיניום בפרמיה שלא נראתה",
-  "date": "2026-11-12T17:00:00.000Z",
-  "fetched": "2026-11-12T23:03:16.571Z",
-  "fromCloud": "2026-11-12T2303.json"
- },
- {
-  "id": "48271d5459f4d367",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000208/0001331465-26-000208-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001331465-26-000208 <b>Size:</b> 167 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
-  "date": "2026-11-12T16:58:28.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "47cb2440e4889d4f",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "ג׳נסן הואנג התפטר מאנבידיה בתום 33 שנות הנהגה - עד כמה חשיפה יש לישראל לאנבידיה ? - פאנדר",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RNUhrSjI3a2ZzbnRfMUtoLVlZa0JoRWZ6bERubGoydWhCUnZiRC1CLUw2Y2tGWEhWU2R2LWJUTkE1aDRzRHhEUU00VVZJNURU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RNUhrSjI3a2ZzbnRfMUtoLVlZa0JoRWZ6bERubGoydWhCUnZiRC1CLUw2Y2tGWEhWU2R2LWJUTkE1aDRzRHhEUU00VVZJNURU?oc=5\" target=\"_blank\">ג׳נסן הואנג התפטר מאנבידיה בתום 33 שנות הנהגה - עד כמה חשיפה יש לישראל לאנבידיה ?</a>&nbsp;&nbsp;<f",
-  "date": "2026-11-12T16:57:50.000Z",
-  "fetched": "2026-11-12T18:25:59.490Z",
-  "fromCloud": "2026-11-12T1825.json"
- },
- {
-  "id": "46de016ab0b61b17",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "אנבידיה נבנתה סביב אדם אחד - עכשיו היא תצטרך להשתנות - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tczFSU2dfbHVfMmVQcDljeUM4Mzdhc1JiSkNlRkpGY2NJTEJQNTJwYV90c2FIQ25Pb2ZCTXhHUWM1NzJTMzJYQzk1Y2xlQmNiN2paTjJwUDdmcDdiZWI5RUFSLURIQWtlWllz?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9tczFSU2dfbHVfMmVQcDljeUM4Mzdhc1JiSkNlRkpGY2NJTEJQNTJwYV90c2FIQ25Pb2ZCTXhHUWM1NzJTMzJYQzk1Y2xlQmNiN2paTjJwUDdmcDdiZWI5RUFSLURIQWtlWllz?oc=5\" target=\"_blank\">אנבידיה נבנתה סביב אדם אחד - עכשיו היא תצטרך להשתנות</a>&nbsp;&",
-  "date": "2026-11-12T16:56:00.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "ca1d92c58d29bef8",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "CDC files to develop 1.4GW data center campus in Kemps Creek, Australia",
-  "link": "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/",
-  "summary": "<p data-block-key=\"btdou\">Company refiles plans at latest Sydney development</p>",
-  "date": "2026-11-12T16:55:33.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "ad680f7521b26080",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "הציבור מאמין שהריבית תרד - משקל הפריים במשכנתאות מזנק פי 4.5 - ice (אייס)",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTWVKTVlPQ05xYXpBOGZDY1MxTTdnQ2FHLUpjZXBPTTZ0ZUk1UHJIalA1WlhXV3N2OGFJRGt6TUFqdVdVQkJmNzhMcUNieDhxYTNrZE0yaWRpTUEtdEFv?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTWVKTVlPQ05xYXpBOGZDY1MxTTdnQ2FHLUpjZXBPTTZ0ZUk1UHJIalA1WlhXV3N2OGFJRGt6TUFqdVdVQkJmNzhMcUNieDhxYTNrZE0yaWRpTUEtdEFv?oc=5\" target=\"_blank\">הציבור מאמין שהריבית תרד - משקל הפריים במשכנתאות מזנק פי 4.5</a>&nbsp;&nbsp;<fo",
-  "date": "2026-11-12T16:55:14.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "3aaa626cf96b494f",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "שערוריית ג'נסן הואנג מציפה את המחיר של הערצת היזמים - מידע פנים - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUx6N2J5VzlQMDdlUkRHUTFISlR6bkJVVDNMeGE5TkNvLUxmUTg4QWo2Rnd2ZFFUeEJiMmF1SktUNXo3OW12TlczLU5PdFlZWFlFbVJuXzlRT1lhSmZuNzZScDRGSmVQalI4UDdNZ0F3aFRzUFRnUGVhc2hfUzRXU1V2cXB6ZldERzE4NXBTcnJ1QzZKbU9jTXVDajUxNGpLRlBtUjFn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUx6N2J5VzlQMDdlUkRHUTFISlR6bkJVVDNMeGE5TkNvLUxmUTg4QWo2Rnd2ZFFUeEJiMmF1SktUNXo3OW12TlczLU5PdFlZWFlFbVJuXzlRT1lhSmZuNzZScDRGSmVQalI4UDdNZ0F3aFRzUFRnUGVhc2hfUzRXU1V2cXB6ZldERzE4NXBTcnJ1QzZKbU9jTXVDajUxNGpLRlBtUjFn?oc=5\"",
-  "date": "2026-11-12T16:55:00.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "eefe69609e0a9758",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Who Is Colette Kress? Nvidia’s CFO Is Now Interim CEO - The Profile | Polina Pompliano",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzMEtPU3hiRWdMRWJvTzVyeTdLQ3hITTg4TE9jTFdpV0p6MnFwTFVqRjJGaUUtdkEwSlFLNXVpYlZXeU52N2FDUHRieUVYQXRZN0F5VVJEcVVhcTFfc3FyZGdUYw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzMEtPU3hiRWdMRWJvTzVyeTdLQ3hITTg4TE9jTFdpV0p6MnFwTFVqRjJGaUUtdkEwSlFLNXVpYlZXeU52N2FDUHRieUVYQXRZN0F5VVJEcVVhcTFfc3FyZGdUYw?oc=5\" target=\"_blank\">Who Is Colette Kress? Nvidia’s CFO Is Now Interim CEO</a>&nbsp;&nbsp;<fon",
-  "date": "2026-11-12T16:54:27.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "928f39982da954bc",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "היין צנח לסביבות 160 לדולר, ויפן שוב מאותתת שתתערב בשוק - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iNjk2a0VHanFZMHlfNUduSjVZVTlhVEpsLUREM1FUTXNsaDZWa2JVa19tNzBnREhNYVdHZ0pKVldVQjhSbzktRDlEeUJKTDVud2ttWVRQZzEtNGtHcWU2VUtkSDFaUUZRb0pKNEJKTlg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9iNjk2a0VHanFZMHlfNUduSjVZVTlhVEpsLUREM1FUTXNsaDZWa2JVa19tNzBnREhNYVdHZ0pKVldVQjhSbzktRDlEeUJKTDVud2ttWVRQZzEtNGtHcWU2VUtkSDFaUUZRb0pKNEJKTlg?oc=5\" target=\"_blank\">היין צנח לסביבות 160 לדולר, ויפן שוב מאותתת שתתערב בשוק<",
-  "date": "2026-11-12T16:53:00.000Z",
-  "fetched": "2026-11-12T23:03:16.571Z",
-  "fromCloud": "2026-11-12T2303.json"
- },
- {
-  "id": "134e38af3376fe45",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אנרגיה ירוקה, אנבידיה וה-S&P 500: איפה מסתתרות הזדמנויות הקנייה? - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SQUFTN3ppRHRpNjBHNWM4ZEswZzhyV0E0cGlKd2dXZnY3TWRBOW44NUU1aU1RWE5fUUFrTFgzRnI1UWVDekhMSF80QUt0ZDNxeUs0eEYtc1ktTmZpU09iMjhTeUNiZ3FuUHZjSEJsejJGbV9iamc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1SQUFTN3ppRHRpNjBHNWM4ZEswZzhyV0E0cGlKd2dXZnY3TWRBOW44NUU1aU1RWE5fUUFrTFgzRnI1UWVDekhMSF80QUt0ZDNxeUs0eEYtc1ktTmZpU09iMjhTeUNiZ3FuUHZjSEJsejJGbV9iamc?oc=5\" target=\"_blank\">אנרגיה ירוקה, אנבידיה וה-S&P 500: איפה מסתתרות ה",
-  "date": "2026-11-12T16:52:00.000Z",
-  "fetched": "2026-11-12T22:03:13.206Z",
-  "fromCloud": "2026-11-12T2203.json"
- },
- {
-  "id": "0c9dc9aa97f80a7d",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "זאבי שינוע - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE52N1UwOU11Y2Y5aS1nV3NkbDBCWThiNnJhbkQ1M0ZzQzA4eGJyTVI1UkZ3TkF1am5FbFVXeEFtdXlsUUFBOUpJa2lUYVo1djI5emNhYUpKcWdQTzJhM3F3bTRYaDI2UnZMcmowRTVJc0ZGNEV3S2VHdy1hZko0UUo4R3JTdWx1T2FoRGFac2RNdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE52N1UwOU11Y2Y5aS1nV3NkbDBCWThiNnJhbkQ1M0ZzQzA4eGJyTVI1UkZ3TkF1am5FbFVXeEFtdXlsUUFBOUpJa2lUYVo1djI5emNhYUpKcWdQTzJhM3F3bTRYaDI2UnZMcmowRTVJc0ZGNEV3S2VHdy1hZko0UUo4R3JTdWx1T2FoRGFac2RNdw?oc=5\" target=\"_blank\">זאבי שינו",
-  "date": "2026-11-12T16:46:15.000Z",
-  "fetched": "2026-11-13T14:03:13.033Z",
-  "fromCloud": "2026-11-13T1403.json"
- },
- {
-  "id": "6770d57766aeef4c",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "אפי נכסים עם שיפור בביצועים התפעוליים, אך קצב מכירת הדירות בלנדמרק מדשדש - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydGVpREk0cF9JbC14elVUa0ljM2tmOVZhYzFhaUdBdTI1eEthYzZSR2U2NDk4dEctMVNXdG91MDQwamlITEpSTzZBazhSb2cwcUNxSXdXUWtEQXROQjRKZ0ZUWQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydGVpREk0cF9JbC14elVUa0ljM2tmOVZhYzFhaUdBdTI1eEthYzZSR2U2NDk4dEctMVNXdG91MDQwamlITEpSTzZBazhSb2cwcUNxSXdXUWtEQXROQjRKZ0ZUWQ?oc=5\" target=\"_blank\">אפי נכסים עם שיפור בביצועים התפעוליים, אך קצב מכירת הדירות בלנדמרק מדשדש<",
-  "date": "2026-11-12T16:46:00.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "ba065bd4cc1448c9",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex",
-  "link": "https://www.datacenterdynamics.com/en/news/nebius-signs-12bn-in-deals-for-q3-all-deals-reportedly-cover-its-capex/",
-  "summary": "<p data-block-key=\"8giim\">Company also notes delays to Microsoft data center project</p>",
-  "date": "2026-11-12T16:45:54.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "a4b88e89518a3e60",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "2027 CFO forecast: Mergers and acquisitions on the rise - Financial Management magazine",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1JmZVhlREdRT1BOdWFhRmNPYlZiS1BwTFNKdWZYZVA3TklNYXk5QXE3VFkwUHV0bmotVEs5a09iUWl0Qy1PZ1pEUGw5UnJxcjkzaGVmdVMzLU1ETTNIRU1xc3BMck9vNl9QZlplamRPMGYwMEh2WFNLWmNnOVNtbXljVXBUbnc2aDZfSFZfd0hVWWRHeF9TVmNIWXZqdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQb1JmZVhlREdRT1BOdWFhRmNPYlZiS1BwTFNKdWZYZVA3TklNYXk5QXE3VFkwUHV0bmotVEs5a09iUWl0Qy1PZ1pEUGw5UnJxcjkzaGVmdVMzLU1ETTNIRU1xc3BMck9vNl9QZlplamRPMGYwMEh2WFNLWmNnOVNtbXljVXBUbnc2aDZfSFZfd0hVWWRHeF9TVmNIWXZqdw?oc=5\" target=\"_",
-  "date": "2026-11-12T16:44:41.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "c330532a58e7c6d8",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Army Completes Key FY2026 Contract Writing Modernization Milestones - Army.mil",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTZTUThReWxPemZJLUVFekdMdzNvYkU4QzY2SVhnUUJCMnRDR1N2MzM3Z1oxLW1iZUtvekI5VnBCeEJ2ZzBvcm1NYVA2NjI5TEZDRkN4NlVsZExrbk13bWphWWRDakdWZTNVVHV0SGNSeFhTYjJZc2Eyd1VhMVJoa3lhMnN0M21SODBBYmtPQU9qRVhPZ2tsYkFHOWR3V1RNVmdXbU9n0gGrAUFVX3lxTE5oUTBhMFRZMjRzaElPTlhoWUEwbkZQN0dsa29FSXJwdlhZQzh6eFcxbzY0aTRiTFNuQ3ptTVZnbUJPRmlsMkt6N0dteFZsZTkyNzNXUjQ3RTJqOVB6N05LUjFrMFhfT0dCTFlBWmVMZGJSTFktLXdwYzhhcHpINVgxS1dZR2h5VVlYMG8tU3NlY0Z2NzVfT2xaM2NKcVlwUWVtUG95b3dKbEs5WQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTZTUThReWxPemZJLUVFekdMdzNvYkU4QzY2SVhnUUJCMnRDR1N2MzM3Z1oxLW1iZUtvekI5VnBCeEJ2ZzBvcm1NYVA2NjI5TEZDRkN4NlVsZExrbk13bWphWWRDakdWZTNVVHV0SGNSeFhTYjJZc2Eyd1VhMVJoa3lhMnN0M21SODBBYmtPQU9qRVhPZ2tsYkFHOWR3V1RNVmdXbU9n0gGrAU",
-  "date": "2026-11-12T16:44:10.000Z",
-  "fetched": "2026-11-12T19:03:13.367Z",
-  "fromCloud": "2026-11-12T1903.json"
- },
- {
-  "id": "07a489314c997cba",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Presurance Holdings, Inc. (0001502292) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1502292/000119312526457601/0001193125-26-457601-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-457601 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T16:43:53.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "7de433cc523a9b7e",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - EXPEDITORS INTERNATIONAL OF WASHINGTON INC (0000746515) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/746515/000119312526457594/0001193125-26-457594-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-457594 <b>Size:</b> 204 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T16:42:36.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "ad157bb1eff65da9",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "סולברג: אין ראיות של ממש בחקירת החשדות להשפעה על הבחירות",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563312#utm_source=RSS",
-  "summary": "יו\"ר ועדת הבחירות מסר כי החקירה נמשכת וכי המצב הראייתי לא השתנה מאז העדכון שנמסר לאחר הבחירות &#8226; לצד זאת, הוא מתח ביקורת חריפה על ההדלפות מהחקירה, שלדבריו פוגעות בה, והבהיר כי לא מצא שהייעוץ המשפטי לממשלה סירב לבקשות חקירה של השב\"כ",
-  "date": "2026-11-12T16:41:00.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "6c8dfb57ac84b029",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "לא הרומן הפיל את ג'נסן הואנג, אלא אובדן האמון - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51djgxcjJPTnpraXFrN0VyQlV4ZnVVczVxUUhJR2xvbzlJT3VMRjdjekRGYVpUaEc5Q3FGOFVTUmlKWUVhYjVhZUFfU295c1VSTDNvWG95WGlVc1NTdFBPMlc3VnpGTVM4MGtr?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE51djgxcjJPTnpraXFrN0VyQlV4ZnVVczVxUUhJR2xvbzlJT3VMRjdjekRGYVpUaEc5Q3FGOFVTUmlKWUVhYjVhZUFfU295c1VSTDNvWG95WGlVc1NTdFBPMlc3VnpGTVM4MGtr?oc=5\" target=\"_blank\">לא הרומן הפיל את ג'נסן הואנג, אלא אובדן האמון</a>&nbsp;&nbsp;<f",
-  "date": "2026-11-12T16:36:00.000Z",
-  "fetched": "2026-11-12T17:03:11.839Z",
-  "fromCloud": "2026-11-12T1703.json"
  }
 ]
