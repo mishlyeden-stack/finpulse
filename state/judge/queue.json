@@ -1,5 +1,115 @@
 [
  {
+  "id": "2450f35651aea8ad",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - StratCap Digital Infrastructure REIT, Inc. (0001868516) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1868516/000110465926126975/0001104659-26-126975-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001104659-26-126975 <b>Size:</b> 141 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-13T20:29:53.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "c4f8df5b799521c1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Nvidia’s CEO Shakeup Reveals Why CFOs Are Corporate America’s Contingency Plan - PYMNTS.com",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNDRlRWdWVEY2OHVWaXFaQUpvRlBkSnZtdE1FcURYdDlGMkZ6bUJIaUVCa0hNeGxBekdnbWRPeFJNTnlwZmVxXzhKM0xDeTRXcTVyZXZqSU1vdDZOWlJ6RWs1ckxxS0FwUXc2OTh6eXhWRkN1QW5xWGluTDR5SlhtV1hFZlYxUGhvb3VyR0hUYjhKc2JpX3VkbzljLWVLbUhHajAyWjZ0LVU2WUh6V0VfLTVHdGRidmlRZmVLaTQwTUdVeDF3VkZMTWJmUElJUmlkVldNU01n?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNDRlRWdWVEY2OHVWaXFaQUpvRlBkSnZtdE1FcURYdDlGMkZ6bUJIaUVCa0hNeGxBekdnbWRPeFJNTnlwZmVxXzhKM0xDeTRXcTVyZXZqSU1vdDZOWlJ6RWs1ckxxS0FwUXc2OTh6eXhWRkN1QW5xWGluTDR5SlhtV1hFZlYxUGhvb3VyR0hUYjhKc2JpX3VkbzljLWVLbUhHajAyWjZ0LVU2WU",
+  "date": "2026-11-13T20:25:07.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "4cf631284fd00183",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MOD Stock Jumps 30% as Samsung Reportedly Explores Acquisition of Modine - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYktNMUhKN2szZ09GYy1lY05uamZSNkdua1dCa3ZrejdyVEpPLVZkOE54R2syazdsc290N2Rsc2xHeTlpVzlWYWNpcVZfTG83c19La2JnQ0NPY2dfcDU1NnZrbWJyUnpVbmI3Y1ZIbm84Q2szRWxpcDRzQWpEMXh3d2xNU0FtR0hodllZMGFWYUQ2dXdPLVQzNU5uTHh3MmNjVHBQRzhlYzNwX0RkaGdiNGhHR2FmZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOYktNMUhKN2szZ09GYy1lY05uamZSNkdua1dCa3ZrejdyVEpPLVZkOE54R2syazdsc290N2Rsc2xHeTlpVzlWYWNpcVZfTG83c19La2JnQ0NPY2dfcDU1NnZrbWJyUnpVbmI3Y1ZIbm84Q2szRWxpcDRzQWpEMXh3d2xNU0FtR0hodllZMGFWYUQ2dXdPLVQzNU5uTHh3MmNjVHBQRzhlYzNwX0",
+  "date": "2026-11-13T20:14:20.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "a5d76748ec700576",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CONSUMER PORTFOLIO SERVICES, INC. (0000889609) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/889609/000168316826008688/0001683168-26-008688-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001683168-26-008688 <b>Size:</b> 4 MB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T20:12:09.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "09ebadf7302bd435",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CATERPILLAR FINANCIAL SERVICES CORP (0000764764) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/764764/000110465926126947/0001104659-26-126947-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001104659-26-126947 <b>Size:</b> 221 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T20:11:14.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "6b0d14a400e70558",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - HINES GLOBAL INCOME TRUST, INC. (0001585101) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1585101/000162828026073751/0001628280-26-073751-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001628280-26-073751 <b>Size:</b> 220 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T20:05:09.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "7299037180cefc77",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Imricor Medical Systems, Inc. (0002121708) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2121708/000143774926036809/0001437749-26-036809-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001437749-26-036809 <b>Size:</b> 327 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T20:04:53.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "8ddd031f25c5fc9a",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K/A - Park Dental Partners, Inc. (0002069604) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2069604/000110465926126935/0001104659-26-126935-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001104659-26-126935 <b>Size:</b> 820 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T20:04:29.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "c243377b445bddb2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - FIRST MERCHANTS CORP (0000712534) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/712534/000071253426000079/0000712534-26-000079-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0000712534-26-000079 <b>Size:</b> 193 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T20:03:17.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "737fa29231b9f034",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Deep Isolation Nuclear, Inc. (0001918080) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026119583/0001213900-26-119583-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001213900-26-119583 <b>Size:</b> 635 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T20:03:16.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
   "id": "0389951b84644c9d",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -31,6 +141,17 @@
   "date": "2026-11-13T19:41:26.000Z",
   "fetched": "2026-11-13T20:03:12.296Z",
   "fromCloud": "2026-11-13T2003.json"
+ },
+ {
+  "id": "20ac34c616e4b96c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "City’s CFO Resigns Rather Than ‘Compromise My Integrity,’ Sparking Calls For Investigation - Block Club Chicago",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSFBKRE40V1B1dEVJZzZuUmJRMldVMFU5eWxFVC1TNHVwT1dPRllmbGVZYnIzUUlCR200OTU4ZzNmQTZmVWRWdFNUdE1GZWxmZFd3SldmSjdMSjhCUnZQZi1kc3RoSURFcWlMZzhsQ3g3WkFPdl9oRmhqNXZlUmowaEFXRFZFWWp5TG1nVUhrVmhYYTZCNUFjVTB4b0NGd0pRb29kUmZBRkY4V2Y5QXR3aU8xUHFpUUwwb3V0b0JjQjNVWGF4WUs0Mk1ibFZQX2lPQ1hOeFJOTC14QQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSFBKRE40V1B1dEVJZzZuUmJRMldVMFU5eWxFVC1TNHVwT1dPRllmbGVZYnIzUUlCR200OTU4ZzNmQTZmVWRWdFNUdE1GZWxmZFd3SldmSjdMSjhCUnZQZi1kc3RoSURFcWlMZzhsQ3g3WkFPdl9oRmhqNXZlUmowaEFXRFZFWWp5TG1nVUhrVmhYYTZCNUFjVTB4b0NGd0pRb29kUmZBRkY4V2",
+  "date": "2026-11-13T19:39:42.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
  },
  {
   "id": "c59fbe63e3c07a2b",
@@ -1353,6 +1474,28 @@
   "fromCloud": "2026-11-13T1503.json"
  },
  {
+  "id": "22c0f0e0c930cb70",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "IonQ Names Gary Merrill CFO and Thomas Austin Chief Accounting Officer as Inder Singh Departs - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWxiTDlLOWJwMkJsZFdldnd3RzVhT0NfbmxCSlFkWVdEVGd0VlFKUk45ZkU5VzE5NEc1NTBRbm1zRS1NTERmT2ZJWnh6VUFyVWRrMDQ3cEVDLWx2bmdOTWk0cVNkN2haWWZXSnFzMXh6ZW96elJJdmh6aTdtUENyd0h6WXc2YTJrR1JzS1I3Vk0yc0F5ZERzWV9zdGV0WUtlSng0XzhOd0lILXFSY1Ytb1RxSC1YbkxTc3BsbWQ0eUdDWHBERzIwOHU3R3k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWxiTDlLOWJwMkJsZFdldnd3RzVhT0NfbmxCSlFkWVdEVGd0VlFKUk45ZkU5VzE5NEc1NTBRbm1zRS1NTERmT2ZJWnh6VUFyVWRrMDQ3cEVDLWx2bmdOTWk0cVNkN2haWWZXSnFzMXh6ZW96elJJdmh6aTdtUENyd0h6WXc2YTJrR1JzS1I3Vk0yc0F5ZERzWV9zdGV0WUtlSng0XzhOd0lILX",
+  "date": "2026-11-13T14:32:06.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "772bcc3fac992d6b",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (אלביט מערכות) 1081124 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnB1MzFSSnF1LTNnNkpQblJ0STNxZDRGRS16eElRTi16Z0hPX1IwYjlTMUpxclh5TVJNQ3pnZWhSVDE2cDdnM1NKTk8yai1FLXFBOHRxRjJLbTlHZHBLY2FyWFVUQW5nWVhmRVpCY0prdHR2RTNQaHQxMzFkM0tLZzdfQnF1ZnRZUGgyRVJvNWxJZlhWc0dPU0Y1SmNNVjB0VHM5TXJXc2tDdW00YVl4RzZFSHc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnB1MzFSSnF1LTNnNkpQblJ0STNxZDRGRS16eElRTi16Z0hPX1IwYjlTMUpxclh5TVJNQ3pnZWhSVDE2cDdnM1NKTk8yai1FLXFBOHRxRjJLbTlHZHBLY2FyWFVUQW5nWVhmRVpCY0prdHR2RTNQaHQxMzFkM0tLZzdfQnF1ZnRZUGgyRVJvNWxJZlhWc0dPU0Y1SmNNVjB0VHM5TXJXc2tDdW",
+  "date": "2026-11-13T14:30:08.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
   "id": "4a2703affdcd5f69",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -2607,6 +2750,17 @@
   "fromCloud": "2026-11-13T1133.json"
  },
  {
+  "id": "ae05705737a6eec4",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (פריים אנרג'י) 1174457 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oQnFsWDR4cTVRMjJYUGcyWEhuZ0JPV2ZRVmVha1g2QzBPQmVHZGZldE1oX1A0YkJseE1KYWg2aXZvaGxGWUpBSThyNDJSeWhhUUhTenRCTVhUUl94eGNJZzAwVVZVdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oQnFsWDR4cTVRMjJYUGcyWEhuZ0JPV2ZRVmVha1g2QzBPQmVHZGZldE1oX1A0YkJseE1KYWg2aXZvaGxGWUpBSThyNDJSeWhhUUhTenRCTVhUUl94eGNJZzAwVVZVdw?oc=5\" target=\"_blank\">מניית (פריים אנרג'י) 1174457</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The",
+  "date": "2026-11-13T10:55:50.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
   "id": "e4df5d0ce341c2b5",
   "source": "SecurityWeek",
   "group": "industry",
@@ -2893,6 +3047,17 @@
   "fromCloud": "2026-11-13T1133.json"
  },
  {
+  "id": "1d2551b324be9024",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע P 1400.0 DEC מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wX19abEh4aWhPQVBHQU95eU5pS0N0ejlhOFRDcTRadTB6eWpkamotYjNNc0VGZ3gzdHJhSVNkX0NhZWJLeXpTMjlLSW1OZ045a0xvTTJBekV4RC1vaWxmUVM3R000OUhnR0lRVUh5NWJER0tK?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4wX19abEh4aWhPQVBHQU95eU5pS0N0ejlhOFRDcTRadTB6eWpkamotYjNNc0VGZ3gzdHJhSVNkX0NhZWJLeXpTMjlLSW1OZ045a0xvTTJBekV4RC1vaWxmUVM3R000OUhnR0lRVUh5NWJER0tK?oc=5\" target=\"_blank\">אלע P 1400.0 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:32.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
   "id": "0382a4164b43ed7c",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -2913,6 +3078,17 @@
   "date": "2026-11-13T09:59:30.000Z",
   "fetched": "2026-11-13T19:03:19.048Z",
   "fromCloud": "2026-11-13T1903.json"
+ },
+ {
+  "id": "bb200bfa79163a38",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע P 1975.0 DEC מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4MWZxMkZHX1NjVF9pU19QZDhLTFlxc1hpbVdrbDVsWGJHcXFING45Y2tXZEFZQy1xNFluUWVjLTRDR2NXbmpSSTZkSk9qS2dwOUJxUTBVckpYRFlaN1RweS02LXkwNEhlLXhSSGRKY0JabVV2?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA4MWZxMkZHX1NjVF9pU19QZDhLTFlxc1hpbVdrbDVsWGJHcXFING45Y2tXZEFZQy1xNFluUWVjLTRDR2NXbmpSSTZkSk9qS2dwOUJxUTBVckpYRFlaN1RweS02LXkwNEhlLXhSSGRKY0JabVV2?oc=5\" target=\"_blank\">אלע P 1975.0 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:30.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
  },
  {
   "id": "da2f692ff6e5691a",
@@ -3003,6 +3179,17 @@
   "fromCloud": "2026-11-13T1633.json"
  },
  {
+  "id": "7a3b85bfcf02bf9a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע C 1875.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41TXUxTHJaSjNhY19pa0p0TTh2WjYyekU1emhsbElENWJLTENqUmNwcTRSLVFQSzBrVVBoZUVOZWdFN1RYbEg1WW1PUFRQcmNTTFRUU1l1YW9wSlRGSE5obzQzT3RFWkdWU2FISUE0Mll0X1Zn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE41TXUxTHJaSjNhY19pa0p0TTh2WjYyekU1emhsbElENWJLTENqUmNwcTRSLVFQSzBrVVBoZUVOZWdFN1RYbEg1WW1PUFRQcmNTTFRUU1l1YW9wSlRGSE5obzQzT3RFWkdWU2FISUE0Mll0X1Zn?oc=5\" target=\"_blank\">אלע C 1875.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:22.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
   "id": "786228657dcb6aac",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -3012,6 +3199,17 @@
   "date": "2026-11-13T09:59:21.000Z",
   "fetched": "2026-11-13T18:33:13.536Z",
   "fromCloud": "2026-11-13T1833.json"
+ },
+ {
+  "id": "c8aee2ea51d88789",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע C 1500.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5QnRMajhVakZraFZQanoxLVdpSkFhanJ1RVpoWHM0RXJrb21IbWZXQUZVUFZKbkRVbjlqNWdaYXJnVW43MW9ORUE0RjhnTWZZcVpicHdKanktU2U3Um9jLVZlRWhRQVJiTWZHWHB2VjBKeFNh?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA5QnRMajhVakZraFZQanoxLVdpSkFhanJ1RVpoWHM0RXJrb21IbWZXQUZVUFZKbkRVbjlqNWdaYXJnVW43MW9ORUE0RjhnTWZZcVpicHdKanktU2U3Um9jLVZlRWhRQVJiTWZHWHB2VjBKeFNh?oc=5\" target=\"_blank\">אלע C 1500.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:20.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
  },
  {
   "id": "47e395362ee62dc9",
@@ -3113,6 +3311,17 @@
   "fromCloud": "2026-11-13T1733.json"
  },
  {
+  "id": "e0189b2f586e74dd",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע P 1850.0 DEC מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aNkpBcEZJd0VPNFRvLUp6c1FmQzNOOVJ4bmdoZkNiQ2ItcWZlNkxqSW1ZNmhGcV8xZUxoN1ZjVHl1WW95UHJRRWJnclJ4UVpVTkpqRXBhTU0tU2hkNHFITWJzR1NCYUthcWFyYVpjT2NjNEtM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5aNkpBcEZJd0VPNFRvLUp6c1FmQzNOOVJ4bmdoZkNiQ2ItcWZlNkxqSW1ZNmhGcV8xZUxoN1ZjVHl1WW95UHJRRWJnclJ4UVpVTkpqRXBhTU0tU2hkNHFITWJzR1NCYUthcWFyYVpjT2NjNEtM?oc=5\" target=\"_blank\">אלע P 1850.0 DEC מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:15.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
+ },
+ {
   "id": "2b5ddc497ec47837",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -3144,6 +3353,17 @@
   "date": "2026-11-13T09:59:14.000Z",
   "fetched": "2026-11-13T20:00:11.742Z",
   "fromCloud": "2026-11-13T2000.json"
+ },
+ {
+  "id": "29b4443d1f97ff49",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע P 1975.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FZ1JzRWxwZ3c0Z0ZTZzM0MGpRcUZfNG9PTlNzenY4Njl3QVpGNzE4SldGRFhZNlBPU0lESnlCTV9JVTR5bHZQNGI3TDdwbEVvODRBVnlLXzZqRTdYUEROU3ZGZ2RHMXhMb254RVpleDRJOGdU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1FZ1JzRWxwZ3c0Z0ZTZzM0MGpRcUZfNG9PTlNzenY4Njl3QVpGNzE4SldGRFhZNlBPU0lESnlCTV9JVTR5bHZQNGI3TDdwbEVvODRBVnlLXzZqRTdYUEROU3ZGZ2RHMXhMb254RVpleDRJOGdU?oc=5\" target=\"_blank\">אלע P 1975.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:14.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
  },
  {
   "id": "72a399192b55ff74",
@@ -3617,6 +3837,17 @@
   "date": "2026-11-13T08:00:00.000Z",
   "fetched": "2026-11-13T09:03:12.878Z",
   "fromCloud": "2026-11-13T0903.json"
+ },
+ {
+  "id": "09213a684fdb18f0",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (כיל (ניו יורק)) 281014 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15UDR6VDltejNWeGRpbExkSUJzTGdXWnB0SjdxQnQ3MHhWSmw2UlV0bkNFT1c0Nk5DMkFwOGJtN1hWY29xOVU3cF94a2F4YkxQaUduZ3YwUkk0eFhUck5vc3RqU1FDTFJqVzhOYUpNSGo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE15UDR6VDltejNWeGRpbExkSUJzTGdXWnB0SjdxQnQ3MHhWSmw2UlV0bkNFT1c0Nk5DMkFwOGJtN1hWY29xOVU3cF94a2F4YkxQaUduZ3YwUkk0eFhUck5vc3RqU1FDTFJqVzhOYUpNSGo?oc=5\" target=\"_blank\">מניית (כיל (ניו יורק)) 281014</a>&nbsp;&nbsp;<font color",
+  "date": "2026-11-13T07:59:02.000Z",
+  "fetched": "2026-11-13T20:33:12.173Z",
+  "fromCloud": "2026-11-13T2033.json"
  },
  {
   "id": "0ec1d8651c876de7",
@@ -6565,148 +6796,5 @@
   "date": "2026-11-12T20:43:07.000Z",
   "fetched": "2026-11-12T21:03:12.657Z",
   "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "05a042932645e503",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Trump signals end to vice-president’s Iran peace deal push",
-  "link": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
-  "summary": "President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns",
-  "date": "2026-11-12T20:32:43.000Z",
-  "fetched": "2026-11-12T21:33:13.341Z",
-  "fromCloud": "2026-11-12T2133.json"
- },
- {
-  "id": "d9cf4f58d274bac3",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מלאי הנפט בארה\"ב קפץ ב-4.7 מיליון חביות, והמחיר עלה בכל זאת - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SekRkRDNUaGhra0hqbWI3YTU4U2NDc1plcDhzUkk2MmdiU0E3VVJDbTNZdjBSa0ZBUWhnS0h6UXVWLUo5X2k4ek5JaWJrWkdZam1aYzBhclpWMkdpY1FrOV9CWnVHUEU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SekRkRDNUaGhra0hqbWI3YTU4U2NDc1plcDhzUkk2MmdiU0E3VVJDbTNZdjBSa0ZBUWhnS0h6UXVWLUo5X2k4ek5JaWJrWkdZam1aYzBhclpWMkdpY1FrOV9CWnVHUEU?oc=5\" target=\"_blank\">מלאי הנפט בארה\"ב קפץ ב-4.7 מיליון חביות, והמחיר עלה בכל זאת</a>&nbsp",
-  "date": "2026-11-12T20:32:00.000Z",
-  "fetched": "2026-11-13T03:03:13.727Z",
-  "fromCloud": "2026-11-13T0303.json"
- },
- {
-  "id": "b4c86f43c0f86e96",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - ATLANTIC AMERICAN CORP (0000008177) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/8177/000114036126043410/0001140361-26-043410-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001140361-26-043410 <b>Size:</b> 168 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
-  "date": "2026-11-12T20:28:46.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "e7c69e29f58c92be",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הרצליה: בגליל ים ארבעה חדרים עולים 4 מיליון, בהרצליה הצעירה המחיר ירד ב-12% - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RUG1jR2ZwX1hNSm5NR2lyUW9tY1hyUExtb3AxeUZxTTZSZk05eFNud0dMTlp1VjNHZkNWanNWZm9OSmpIVjFzZURDWXdCeUt3N3diZWRqZkY2MUl0SjFiSm5aMmxId3hWUzR5Rkp3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9RUG1jR2ZwX1hNSm5NR2lyUW9tY1hyUExtb3AxeUZxTTZSZk05eFNud0dMTlp1VjNHZkNWanNWZm9OSmpIVjFzZURDWXdCeUt3N3diZWRqZkY2MUl0SjFiSm5aMmxId3hWUzR5Rkp3?oc=5\" target=\"_blank\">הרצליה: בגליל ים ארבעה חדרים עולים 4 מיליון, בהרצליה הצעירה",
-  "date": "2026-11-12T20:28:00.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "99fb0a2edfb1984a",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מניות היוקרה איבדו כ-30% השנה, ובעלת קרטייה מחזיקה מעמד בזכות העשירים מאוד - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IR2pVOTJNLTNqUEhZaktVclluQmVSZDRfeG53ZDdNOWd1eFZyd1JoeGxidGEwYzZKWGZlc2RFNmZTTDBJV2ZocHJneHNybml5WmhFOWpDS0JGR0dFZE1UQklJblVfSndwd0ZPdnpSc0M?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9IR2pVOTJNLTNqUEhZaktVclluQmVSZDRfeG53ZDdNOWd1eFZyd1JoeGxidGEwYzZKWGZlc2RFNmZTTDBJV2ZocHJneHNybml5WmhFOWpDS0JGR0dFZE1UQklJblVfSndwd0ZPdnpSc0M?oc=5\" target=\"_blank\">מניות היוקרה איבדו כ-30% השנה, ובעלת קרטייה מחזיקה מעמד ",
-  "date": "2026-11-12T20:28:00.000Z",
-  "fetched": "2026-11-13T10:03:12.814Z",
-  "fromCloud": "2026-11-13T1003.json"
- },
- {
-  "id": "a4ca3f5326a82485",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "טראמפ ג'וניור עוזב את קלשי, ונשאר יועץ של המתחרה פולימרקט - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByZmhtMmwzNGsxNy1JbnE0TF9UaVZhMUw4UzhhUkhydWl2X3BwRndadkVlZkM2MmtFV01JbkpTLXhTTkIzSGZ3SVJZcHE4WS10MExXbXJJcGxmQ3pNOWZoaXpBVDV5Nkx1SzNENlg4YTc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFByZmhtMmwzNGsxNy1JbnE0TF9UaVZhMUw4UzhhUkhydWl2X3BwRndadkVlZkM2MmtFV01JbkpTLXhTTkIzSGZ3SVJZcHE4WS10MExXbXJJcGxmQ3pNOWZoaXpBVDV5Nkx1SzNENlg4YTc?oc=5\" target=\"_blank\">טראמפ ג'וניור עוזב את קלשי, ונשאר יועץ של המתחרה פולימרק",
-  "date": "2026-11-12T20:26:00.000Z",
-  "fetched": "2026-11-13T02:33:23.355Z",
-  "fromCloud": "2026-11-13T0233.json"
- },
- {
-  "id": "06f5f1e57a2b179d",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Craveworthy Plans Co-branding Push After Acquisition of Papa Gino’s - franchisetimes.com",
-  "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOHhLM29YcnBkX2U0QXFmUElKSFk3aTBOVnR3d2F4SmZTX0tiWFlCTFgyai1sUXlyemVMMXRrVjhMbl9uMkRMbF82ZUJnLWJTOFJVWGFfSFZWd0VEUGk2N1NTbzI4OGI0TFd4Ynh5ZXZVZk1WaC1EU2FaVVgxSmh0S0F6bUZ5Wk9LdDEwTlRPYllkaktjYW1lZEVjdmgySTB1ZlJtTjdRaVc1ZFBmcHltaGhKenlzNlhqZDV2QW9OTld2eFBOUlVwSFp5dEVOMTlMa3dFc2NzclV6SnNQSTRNTi16TGNRSmtLeTNTdEE5RXV5SldRSjgtODZfRHlvVVF6RnlWWGtzUXFWdTFvN0RSVg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOOHhLM29YcnBkX2U0QXFmUElKSFk3aTBOVnR3d2F4SmZTX0tiWFlCTFgyai1sUXlyemVMMXRrVjhMbl9uMkRMbF82ZUJnLWJTOFJVWGFfSFZWd0VEUGk2N1NTbzI4OGI0TFd4Ynh5ZXZVZk1WaC1EU2FaVVgxSmh0S0F6bUZ5Wk9LdDEwTlRPYllkaktjYW1lZEVjdmgySTB1ZlJtTjdRaVc1ZF",
-  "date": "2026-11-12T20:21:36.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "3c9c81b0358ff7df",
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "CFOs confront cash-flow risks as AI costs rise",
-  "link": "https://www.cfodive.com/news/cfos-confront-cash-flow-risks-ai-costs-rise/874554/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/88pXye_BonuI47zwYTyHKjgCMOWHWUSGp6wV3s7CPdU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwLmpwZw==.webp\"/></div></figure><p>AI spending averaged 24% above expectations at organiz",
-  "date": "2026-11-12T20:20:58.000Z",
-  "fetched": "2026-11-12T21:33:13.341Z",
-  "fromCloud": "2026-11-12T2133.json"
- },
- {
-  "id": "cff54d7dd312e1d6",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Security 101 Adds Mid-Atlantic Presence With LVSI Acquisition - Security Info Watch",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmVHYTVlSmVVS2ZQNGVfVU1LTWtVaGZmcFBiWEdhRGNxeUY5d0w0Ym9GNlVPYXRyUy1ZWjB1eXdFdk11WEVZTXFvcURqRVUwempwNE5HNHhzQVRJQUVBZFZYaUQzcU9nblVSNVFYRTlxNVlENGFweW5uS3hEM1JUQWZqSERJNjkxTnhoMEVzNXhXd0xQbUtqV2xSMTA3QmJXbDBKRF9XOUhYcjBRNjA0YzRhbjA3VjQ0NGJvRERMOUF4ZHl0Qi1oQ2pVMzZDU0k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmVHYTVlSmVVS2ZQNGVfVU1LTWtVaGZmcFBiWEdhRGNxeUY5d0w0Ym9GNlVPYXRyUy1ZWjB1eXdFdk11WEVZTXFvcURqRVUwempwNE5HNHhzQVRJQUVBZFZYaUQzcU9nblVSNVFYRTlxNVlENGFweW5uS3hEM1JUQWZqSERJNjkxTnhoMEVzNXhXd0xQbUtqV2xSMTA3QmJXbDBKRF9XOUhYcj",
-  "date": "2026-11-12T20:20:57.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "bc6ef1c5c6b787bc",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הפד מצמצם את החלטות הריבית: באוקטובר 2027 תתקיים ישיבת אסטרטגיה בלבד - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnY3RYb1RJZVBmZ3dmNnR0ZzQ5VDk5a1FYU2p0anBmWFZyZEZlYVNKREI3WnFDRVU2SkZaZlZFcXdqQ1pFY1FWX19BTVJDU3RVS1JFYVNuMktmcnZhOTRUclNVT1pseVplcHhnZFR2VXg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnY3RYb1RJZVBmZ3dmNnR0ZzQ5VDk5a1FYU2p0anBmWFZyZEZlYVNKREI3WnFDRVU2SkZaZlZFcXdqQ1pFY1FWX19BTVJDU3RVS1JFYVNuMktmcnZhOTRUclNVT1pseVplcHhnZFR2VXg?oc=5\" target=\"_blank\">הפד מצמצם את החלטות הריבית: באוקטובר 2027 תתקיים ישיבת א",
-  "date": "2026-11-12T20:19:00.000Z",
-  "fetched": "2026-11-13T10:03:12.814Z",
-  "fromCloud": "2026-11-13T1003.json"
- },
- {
-  "id": "a2447db5ba758acf",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Next Technology Holding Inc. (0001784970) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1784970/000121390026118848/0001213900-26-118848-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001213900-26-118848 <b>Size:</b> 248 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
-  "date": "2026-11-12T20:08:54.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "244f42deb92043f2",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הצרכן האמריקאי חזק, או פשוט משלם יותר על הדברים שאי אפשר לוותר עליהם? - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfSlg2OWlDVHJCcUNiYUFGV2JoMm5oODlDNTN4dTN5Z0NxeEMtNGtGWFRNLUlSTGlXZ3RGYWE2MHdiT3RBYlFzbEh6YnYxakpGWmVHa2Y2ZFJNbGpZU1NLZWtHMW02MmZwNTg0dXg1M2s?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBfSlg2OWlDVHJCcUNiYUFGV2JoMm5oODlDNTN4dTN5Z0NxeEMtNGtGWFRNLUlSTGlXZ3RGYWE2MHdiT3RBYlFzbEh6YnYxakpGWmVHa2Y2ZFJNbGpZU1NLZWtHMW02MmZwNTg0dXg1M2s?oc=5\" target=\"_blank\">הצרכן האמריקאי חזק, או פשוט משלם יותר על הדברים שאי אפשר",
-  "date": "2026-11-12T20:06:00.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "758ca3dfe6fef22e",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הואנג ניהל רומן עם עובדת נוספת באנבידיה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZM1FmclI1ZFU5eThmUGZiUk54VXU2UXNmX0NBVTVxNVVPVDNWcGxRRC1oSURVV2trcGU1NnJwbkJRaHpUWlFQMjdnTWhRS0JmVXJmMjh2Qkd4bmdSVXFseFlRM3Q5QjNoaWxvbTBESS0?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBZM1FmclI1ZFU5eThmUGZiUk54VXU2UXNmX0NBVTVxNVVPVDNWcGxRRC1oSURVV2trcGU1NnJwbkJRaHpUWlFQMjdnTWhRS0JmVXJmMjh2Qkd4bmdSVXFseFlRM3Q5QjNoaWxvbTBESS0?oc=5\" target=\"_blank\">הואנג ניהל רומן עם עובדת נוספת באנבידיה</a>&nbsp;&nbsp;<",
-  "date": "2026-11-12T20:05:00.000Z",
-  "fetched": "2026-11-12T21:33:13.341Z",
-  "fromCloud": "2026-11-12T2133.json"
  }
 ]
