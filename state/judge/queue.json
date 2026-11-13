@@ -1,5 +1,126 @@
 [
  {
+  "id": "abdc35ba86ed050b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CNO Financial Group, Inc. (0001224608) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1224608/000122460826000084/0001224608-26-000084-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001224608-26-000084 <b>Size:</b> 23 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 3.03: Material Modifications to Rights of Security Holders <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in",
+  "date": "2026-11-13T21:01:57.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "ca95eb34646be521",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K/A - Benchmark 2026-V24 Mortgage Trust (0002153060) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2153060/000153949726002963/0001539497-26-002963-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001539497-26-002963 <b>Size:</b> 5 MB <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T21:01:12.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "ac49f2212d78fb69",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Advasa Holdings, Inc. (0002084227) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2084227/000149315226051691/0001493152-26-051691-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001493152-26-051691 <b>Size:</b> 345 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-11-13T21:00:39.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "0a402c8ce84d4777",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Waterstone Financial, Inc. (0001569994) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1569994/000143774926036859/0001437749-26-036859-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001437749-26-036859 <b>Size:</b> 822 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T21:00:10.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "9ddeb1b8634089f9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Blackstone’s New Pipeline Deal Targets Northeast Gas Access - Hart Energy",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVVhMWJzb0VzVTE3V015RkxNZkt6eEJWbXZySUZ0aHJMaFdGQmM0enF5MHFhcFJtLUROenAtUENXN0h3ZFFQLTc1VmxqS1dnMEVNSDl0MWhaNXY0SXJWTXNNaHItaW9kNGljR0ZYNmZTc3NOdE9GWU5YalJCNHJKeEkxbEw3MTJrLXVTR1A1UVlMTUlhd0NWekxicWxOXzgtYVd3UFlzM1hpYVpVX055bnZ2SHZJZkk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVVhMWJzb0VzVTE3V015RkxNZkt6eEJWbXZySUZ0aHJMaFdGQmM0enF5MHFhcFJtLUROenAtUENXN0h3ZFFQLTc1VmxqS1dnMEVNSDl0MWhaNXY0SXJWTXNNaHItaW9kNGljR0ZYNmZTc3NOdE9GWU5YalJCNHJKeEkxbEw3MTJrLXVTR1A1UVlMTUlhd0NWekxicWxOXzgtYVd3UFlzM1hpYV",
+  "date": "2026-11-13T20:59:20.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "736e2d138952a2e7",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מחשבון תקציב משק בית - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uVm9ralJVNHBqU09CMENZZW96aGItT3VSbzZhb0lmYVVuR3FtZGg1eW5xVXVoQTUzTndsZ2EwQW9aV2Q2ZEdtbmFqRGFqVDNLLVpXM3hfeUZZX2w0NjBTQ2pNMUFoNzNwR0hnLUV3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5uVm9ralJVNHBqU09CMENZZW96aGItT3VSbzZhb0lmYVVuR3FtZGg1eW5xVXVoQTUzTndsZ2EwQW9aV2Q2ZEdtbmFqRGFqVDNLLVpXM3hfeUZZX2w0NjBTQ2pNMUFoNzNwR0hnLUV3?oc=5\" target=\"_blank\">מחשבון תקציב משק בית</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ב",
+  "date": "2026-11-13T20:58:00.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "2d9464f5422af614",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Andersen Group Signs Five Acquisition Agreements - Inside Public Accounting",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQlN3ZHV4ZzhVNGg5c2RWOTExemtnZjZCTWVTRXJ5VjN5a3p0OGJDVU1SNlVBQzJ6eGNyQl9ZOVV5MVJDSUdqUTNQYk54VGZiTUNmNDFQQ3lHc21DWlloTkNDQURqY1lKOVBSVURZRm9jck9tN1JDQWROMzVGQ2UybjVpSWhQcjg2OWY3SkN1WkJld2h4VWZKbWlSRndzdVBmUEMxSjJHOHZUR09hUk5OdHRkQnlEWDdJ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQlN3ZHV4ZzhVNGg5c2RWOTExemtnZjZCTWVTRXJ5VjN5a3p0OGJDVU1SNlVBQzJ6eGNyQl9ZOVV5MVJDSUdqUTNQYk54VGZiTUNmNDFQQ3lHc21DWlloTkNDQURqY1lKOVBSVURZRm9jck9tN1JDQWROMzVGQ2UybjVpSWhQcjg2OWY3SkN1WkJld2h4VWZKbWlSRndzdVBmUEMxSjJHOHZUR0",
+  "date": "2026-11-13T20:49:30.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "ff43645f3674f304",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פרופימקס תבעה 15 מיליון שקל על בלעדיות, ותשלם 530 אלף - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iRTNSLW5FVWdMdldpSldtQkg3NzVPRGU4LXl6cmJrSjZUQ1FVOTlYYzlwSm5KbUstUXVsR3RVU0xabVQ4c2xhNm9LQWk5WmZnRkQtTF9wcnJudG9SZkNidklySlktRW8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iRTNSLW5FVWdMdldpSldtQkg3NzVPRGU4LXl6cmJrSjZUQ1FVOTlYYzlwSm5KbUstUXVsR3RVU0xabVQ4c2xhNm9LQWk5WmZnRkQtTF9wcnJudG9SZkNidklySlktRW8?oc=5\" target=\"_blank\">פרופימקס תבעה 15 מיליון שקל על בלעדיות, ותשלם 530 אלף</a>&nbsp;&nbsp",
+  "date": "2026-11-13T20:49:00.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "0e0d78ce056e4a11",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Benchmark 2026-V24 Mortgage Trust (0002153060) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2153060/000153949726002960/0001539497-26-002960-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001539497-26-002960 <b>Size:</b> 66 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T20:45:10.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "c4ddd2d96f240956",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
+  "link": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1",
+  "summary": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south",
+  "date": "2026-11-13T20:40:40.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
+  "id": "de78ae67eaa44f02",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Core University Living Real Estate Income Trust (0002119505) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2119505/000119312526460457/0001193125-26-460457-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001193125-26-460457 <b>Size:</b> 171 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-13T20:35:02.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
+ },
+ {
   "id": "2450f35651aea8ad",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -295,6 +416,17 @@
   "date": "2026-11-13T19:01:01.000Z",
   "fetched": "2026-11-13T19:33:11.677Z",
   "fromCloud": "2026-11-13T1933.json"
+ },
+ {
+  "id": "3c3a5972ab8d5a19",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פאלו אלטו איבדה 20% בחודש - ובוול סטריט מזהים הזדמנות לקראת הדוחות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaLWt3T2lqd0g5eHhkdktHVzRlbzV1Y2h0bV9NNy1NWVBXZTc0NDBCLWdoZ2NxYWRRcjFZX2ZtSGdmUmJVcXM2TXVJdV8wTllCS29NVE00TXQzQjVkSjdfOVhVX0E2bXN1U0RQQ01kWVA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaLWt3T2lqd0g5eHhkdktHVzRlbzV1Y2h0bV9NNy1NWVBXZTc0NDBCLWdoZ2NxYWRRcjFZX2ZtSGdmUmJVcXM2TXVJdV8wTllCS29NVE00TXQzQjVkSjdfOVhVX0E2bXN1U0RQQ01kWVA?oc=5\" target=\"_blank\">פאלו אלטו איבדה 20% בחודש - ובוול סטריט מזהים הזדמנות לק",
+  "date": "2026-11-13T19:00:00.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
  },
  {
   "id": "6e4c15fbaeb7a40d",
@@ -735,6 +867,17 @@
   "date": "2026-11-13T17:10:47.000Z",
   "fetched": "2026-11-13T17:33:14.446Z",
   "fromCloud": "2026-11-13T1733.json"
+ },
+ {
+  "id": "cdc662ed20e31329",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Scott Colom: the Democrat who conquered the reddest of red states",
+  "link": "https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a?syn-25a6b1a6=1",
+  "summary": "High turnout and viral ads helped propel him to victory in a deeply conservative state that hasn’t had a Black senator since 1881",
+  "date": "2026-11-13T17:08:50.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
  },
  {
   "id": "9a7b4d42d945ba30",
@@ -1318,6 +1461,17 @@
   "date": "2026-11-13T15:01:57.000Z",
   "fetched": "2026-11-13T15:33:13.043Z",
   "fromCloud": "2026-11-13T1533.json"
+ },
+ {
+  "id": "10963523472ef987",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ה-IEA: שוק הנפט חוזר לעודף היצע, אבל המחסור בסולר עדיין לא נפתר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yenVmYlh2Nm9CczQ2THJPR2hyT252cnBsMGV0ekU1dW1lcnBvd2Z2NGdOMm1vbHpBY2phSnJ0a3NJQzhXekhNU0czOVpxZlVTeVhENFZYdUdveDZUaGZvSWZXYjFhU2M?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yenVmYlh2Nm9CczQ2THJPR2hyT252cnBsMGV0ekU1dW1lcnBvd2Z2NGdOMm1vbHpBY2phSnJ0a3NJQzhXekhNU0czOVpxZlVTeVhENFZYdUdveDZUaGZvSWZXYjFhU2M?oc=5\" target=\"_blank\">ה-IEA: שוק הנפט חוזר לעודף היצע, אבל המחסור בסולר עדיין לא נפתר</a>&",
+  "date": "2026-11-13T15:00:00.000Z",
+  "fetched": "2026-11-13T21:03:12.662Z",
+  "fromCloud": "2026-11-13T2103.json"
  },
  {
   "id": "7391341383f35c65",
@@ -6587,214 +6741,5 @@
   "date": "2026-11-12T21:04:00.000Z",
   "fetched": "2026-11-12T23:03:16.571Z",
   "fromCloud": "2026-11-12T2303.json"
- },
- {
-  "id": "5c108fed3834a909",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - SMITH MICRO SOFTWARE, INC. (0000948708) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/948708/000143774926036547/0001437749-26-036547-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001437749-26-036547 <b>Size:</b> 872 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T21:02:07.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "38de89e319bdfe5e",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Ousted Nvidia CEO Jensen Huang accused of third affair, with another staffer",
-  "link": "https://www.datacenterdynamics.com/en/news/ousted-nvidia-ceo-jensen-huang-accused-of-third-affair-with-another-staffer/",
-  "summary": "<p data-block-key=\"rhvjr\">He's departed Nvidia, but the revelations won't stop coming</p>",
-  "date": "2026-11-12T21:02:00.000Z",
-  "fetched": "2026-11-12T21:33:13.341Z",
-  "fromCloud": "2026-11-12T2133.json"
- },
- {
-  "id": "f8336105f4fa219f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פייפר סנדלר: הדיבידנד של ג'נרל מילס עלול להיחתך בכשליש - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuV2NlQjNtbGR1VGtJSHkxQ054YThEU0N0ajlPb1NPaFJSV3p0cmR6b0pNaFBDdktwSlB5OENlcUxtejliYlh5MnhkM1c4NXE3X25QekdJWFlpWFRyb3gtbmFWdmphcXNSN0daZA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBuV2NlQjNtbGR1VGtJSHkxQ054YThEU0N0ajlPb1NPaFJSV3p0cmR6b0pNaFBDdktwSlB5OENlcUxtejliYlh5MnhkM1c4NXE3X25QekdJWFlpWFRyb3gtbmFWdmphcXNSN0daZA?oc=5\" target=\"_blank\">פייפר סנדלר: הדיבידנד של ג'נרל מילס עלול להיחתך בכשליש</a>&nb",
-  "date": "2026-11-12T21:02:00.000Z",
-  "fetched": "2026-11-13T02:03:11.688Z",
-  "fromCloud": "2026-11-13T0203.json"
- },
- {
-  "id": "a4725cd05b4ede8a",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Atlantic Acquisition Corp I (0002128739) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2128739/000121390026118902/0001213900-26-118902-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001213900-26-118902 <b>Size:</b> 285 KB <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 5.07: Submission of Matters to a Vote of Security Holders <br>Item 9.01: Financial Statements and Exhib",
-  "date": "2026-11-12T21:01:40.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "4efcccbbaa8b46b7",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - ARROWHEAD PHARMACEUTICALS, INC. (0000879407) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000077/0000879407-26-000077-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0000879407-26-000077 <b>Size:</b> 329 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T21:01:16.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "74572e798141f5ae",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Kodiak Sciences Inc. (0001468748) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1468748/000119312526458248/0001193125-26-458248-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458248 <b>Size:</b> 321 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T21:00:14.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "a5ee8265b0802490",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "וול-סטריט ננעלה בירידות שערים; אנבידיה נפלה ב-4%, נביוס צנחה ב-16% - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92c2FaZnNwd2pQTW1ZbjJNV2lyaFlsX2RKZDRLdU96Z3dDZjdpLVppT2cyZWkwMnQzY3FzRmE4RUlHVmFfMXJNWTFNVDBNVXFwZUpzN0lrZEdUcHFwX3U4REtPQ1NaZ29JZno0SmlMU04?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE92c2FaZnNwd2pQTW1ZbjJNV2lyaFlsX2RKZDRLdU96Z3dDZjdpLVppT2cyZWkwMnQzY3FzRmE4RUlHVmFfMXJNWTFNVDBNVXFwZUpzN0lrZEdUcHFwX3U4REtPQ1NaZ29JZno0SmlMU04?oc=5\" target=\"_blank\">וול-סטריט ננעלה בירידות שערים; אנבידיה נפלה ב-4%, נביוס ",
-  "date": "2026-11-12T21:00:00.000Z",
-  "fetched": "2026-11-12T23:33:24.556Z",
-  "fromCloud": "2026-11-12T2333.json"
- },
- {
-  "id": "9c7c312bbab98a86",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "eSIM לחו\"ל: איך זה עובד, מתי מתקינים ומה המלכודות - Supermarker",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvRnl3TmliOWJ1cXBmSzVhYkNKMlBIbUJHUm1tcWVRZmdCUThmclNsV0NGUXNHOF9yMmV4Qm9Yd2FjemNrdWdxaEcyc1RqdTdKWWdpVDZQQ3JkWkJNY1F3Zi15R2Q3bS1ud3FqNWRmZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBvRnl3TmliOWJ1cXBmSzVhYkNKMlBIbUJHUm1tcWVRZmdCUThmclNsV0NGUXNHOF9yMmV4Qm9Yd2FjemNrdWdxaEcyc1RqdTdKWWdpVDZQQ3JkWkJNY1F3Zi15R2Q3bS1ud3FqNWRmZw?oc=5\" target=\"_blank\">eSIM לחו\"ל: איך זה עובד, מתי מתקינים ומה המלכודות</a>&nbs",
-  "date": "2026-11-12T21:00:00.000Z",
-  "fetched": "2026-11-13T18:03:19.062Z",
-  "fromCloud": "2026-11-13T1803.json"
- },
- {
-  "id": "32e85cc551cbde95",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "כמה עולה חבילת גלישה לחו\"ל בכל חברה - Supermarker",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZQWlfek1oUFNPVm1OLUlKNTh5ODBwSnpmUjdIcS12NUZNaHhFYVoydU5FaWZWa0FYd1JHaDVzTHFwU2l1OUVGSk9ZTkFGSy1VMEQ0TGdrbDhoaF9DdHo0RUduNGdzbnFtRUxfcHdkT1YzMEkybVhreFJ5UHg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBZQWlfek1oUFNPVm1OLUlKNTh5ODBwSnpmUjdIcS12NUZNaHhFYVoydU5FaWZWa0FYd1JHaDVzTHFwU2l1OUVGSk9ZTkFGSy1VMEQ0TGdrbDhoaF9DdHo0RUduNGdzbnFtRUxfcHdkT1YzMEkybVhreFJ5UHg?oc=5\" target=\"_blank\">כמה עולה חבילת גלישה לחו\"ל בכל חברה</a>&",
-  "date": "2026-11-12T21:00:00.000Z",
-  "fetched": "2026-11-13T18:03:19.062Z",
-  "fromCloud": "2026-11-13T1803.json"
- },
- {
-  "id": "6ba1a5be14027494",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "גלישה בחו\"ל בלי חבילה: כמה זה עולה ומה נחסם - Supermarker",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVklvV2RVNkFwZV9NUHR1bW95Z002UVhYZ05zZ3NWZXlQOFZ2QVU4RlpzdFZJSVl4d2RBcVBMN1YtWFhwNlh4bE9KVVExcHFKOVBncjhvSF84a09USng0NXMxUThSWVpsRG8yLUloNm0ybURGQTliWjVIeHozdnc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVklvV2RVNkFwZV9NUHR1bW95Z002UVhYZ05zZ3NWZXlQOFZ2QVU4RlpzdFZJSVl4d2RBcVBMN1YtWFhwNlh4bE9KVVExcHFKOVBncjhvSF84a09USng0NXMxUThSWVpsRG8yLUloNm0ybURGQTliWjVIeHozdnc?oc=5\" target=\"_blank\">גלישה בחו\"ל בלי חבילה: כמה זה עולה ו",
-  "date": "2026-11-12T21:00:00.000Z",
-  "fetched": "2026-11-13T19:33:11.677Z",
-  "fromCloud": "2026-11-13T1933.json"
- },
- {
-  "id": "9c862c9df78bd9b1",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אנתרופיק קבעה תאריך: תמחור ב-18 בנובמבר, מסחר בנאסד\"ק יום אחרי, ושעון החסימות כבר מתקתק - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KWEk5aUlNTHdWRElxekdMSzQwaGdad1Jrb013bmpZM05rQThHQmFPRDhWS1VWa3RkenFjb0wtZlJZWHI0VmdwVVF6SFRUcDBVazBfNTBxcW1oYng2clZ2MldhWEV6aDN3bGM0NTJRVW8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5KWEk5aUlNTHdWRElxekdMSzQwaGdad1Jrb013bmpZM05rQThHQmFPRDhWS1VWa3RkenFjb0wtZlJZWHI0VmdwVVF6SFRUcDBVazBfNTBxcW1oYng2clZ2MldhWEV6aDN3bGM0NTJRVW8?oc=5\" target=\"_blank\">אנתרופיק קבעה תאריך: תמחור ב-18 בנובמבר, מסחר בנאסד\"ק יו",
-  "date": "2026-11-12T20:57:00.000Z",
-  "fetched": "2026-11-13T03:03:13.727Z",
-  "fromCloud": "2026-11-13T0303.json"
- },
- {
-  "id": "09453517f419643b",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פרשת הואנג מגיעה להונג קונג: עליבאבא איבדה כמעט 7%, ויצרניות השבבים הסיניות עלו - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DQTU1LUtiODE4MzU2RUNPRkFZV25NQy0ybTVSbUFfOVMydUpaSDlEV0lyMkVvYVQzVVVFbUVkRkdUYUNGc293ZUIwYnhEN3p4cmY3S1g0TFVBRlRFSldSWjVnTDc5NTd2WEtqWVY3dUg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1DQTU1LUtiODE4MzU2RUNPRkFZV25NQy0ybTVSbUFfOVMydUpaSDlEV0lyMkVvYVQzVVVFbUVkRkdUYUNGc293ZUIwYnhEN3p4cmY3S1g0TFVBRlRFSldSWjVnTDc5NTd2WEtqWVY3dUg?oc=5\" target=\"_blank\">פרשת הואנג מגיעה להונג קונג: עליבאבא איבדה כמעט 7%, ויצר",
-  "date": "2026-11-12T20:57:00.000Z",
-  "fetched": "2026-11-13T03:03:13.727Z",
-  "fromCloud": "2026-11-13T0303.json"
- },
- {
-  "id": "1b982ae12ab5e1f0",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000237/0001325878-26-000237-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001325878-26-000237 <b>Size:</b> 175 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
-  "date": "2026-11-12T20:56:59.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "f394da5f2166ea82",
-  "source": "SecurityWeek",
-  "group": "industry",
-  "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-  "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-  "summary": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on ",
-  "date": "2026-11-12T20:55:30.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "c2bed9a2a87603ad",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "RIBB: Ribbon Acquisition Corp filed SEC Form 8-K: Other Events - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11cXRXMEJEXzhZQ0JlTFBoV0I3WUJxN0l5SmYyVUJETnRxbXBwMUtzc241XzJzR3lYcnA1M3c2RDI5NGNvclFPWW1zdTZJYlM0S3dhNEJxX1JqS3gzLW5rSEJhYVhUUVdrNUtkNDFwbHdybGpkMEZQTk9PR0Z4d2k0VWtlWUd1MFBFc0hobk5faHZtRVpzU212bW5EWFk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS11cXRXMEJEXzhZQ0JlTFBoV0I3WUJxN0l5SmYyVUJETnRxbXBwMUtzc241XzJzR3lYcnA1M3c2RDI5NGNvclFPWW1zdTZJYlM0S3dhNEJxX1JqS3gzLW5rSEJhYVhUUVdrNUtkNDFwbHdybGpkMEZQTk9PR0Z4d2k0VWtlWUd1MFBFc0hobk5faHZtRVpzU212bW5EWFk?oc=5\" target=\"",
-  "date": "2026-11-12T20:52:01.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "09dfd1203393cc2d",
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "Quote of the week: Jensen Huang",
-  "link": "https://www.cfodive.com/news/quote-the-week-jensen-huang-nvidia/874560/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/2QEzgIiey24pT-PN-32c3IpURgFcue-Kr6kicc7URtE/g:nowe:0:0/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2NDQ0ODY0LmpwZw==.webp\"/></div></figure><p>The 200-plus word message from Nvidia",
-  "date": "2026-11-12T20:47:49.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "d2be924ec4a882e7",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Ribbon Acquisition Corp. (0002035016) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2035016/000121390026118876/0001213900-26-118876-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001213900-26-118876 <b>Size:</b> 245 KB <br>Item 8.01: Other Events",
-  "date": "2026-11-12T20:47:22.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
- },
- {
-  "id": "1171ef556c83447b",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ארבע עמותות תבעו את ענקיות ה-AI בקליפורניה ומבקשות לעצור את פיתוח המודלים המתקדמים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ySldCLTdYYzRlTGFObEt4OU5aUy04VlE5RGJ4dzBoMGtaYVhUSTdaMDFpTEZUdHJVMTM3X29PaGNmZ3hhcEQ5ODZPSWxJeHpjWU9NVGttLTBIQmRXUlZEc1BtdHdjQ0drVGg3RElrbFE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4ySldCLTdYYzRlTGFObEt4OU5aUy04VlE5RGJ4dzBoMGtaYVhUSTdaMDFpTEZUdHJVMTM3X29PaGNmZ3hhcEQ5ODZPSWxJeHpjWU9NVGttLTBIQmRXUlZEc1BtdHdjQ0drVGg3RElrbFE?oc=5\" target=\"_blank\">ארבע עמותות תבעו את ענקיות ה-AI בקליפורניה ומבקשות לעצור",
-  "date": "2026-11-12T20:46:00.000Z",
-  "fetched": "2026-11-12T23:03:16.571Z",
-  "fromCloud": "2026-11-12T2303.json"
- },
- {
-  "id": "d11593ebbb0da5cc",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - INTEGRAL TECHNOLOGIES INC (0001018281) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1018281/000143774926036527/0001437749-26-036527-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001437749-26-036527 <b>Size:</b> 30 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 3.03: Materia",
-  "date": "2026-11-12T20:43:07.000Z",
-  "fetched": "2026-11-12T21:03:12.657Z",
-  "fromCloud": "2026-11-12T2103.json"
  }
 ]
