@@ -44,6 +44,17 @@
   "fromCloud": "2026-11-12T2333.json"
  },
  {
+  "id": "23e61d189f1d03fb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "LCTX: HUNT1 acquisition expands the pipeline as cash runway extends into Q2 2028 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnhhYk9WWVRuQ1JJaE9TTzNGVjBIblJDTkFQR2xvUEJ4Zms4YU1JVVRQN2FvSGYyQTNHdUNPRlpDbXpoOGNLS2h4SFZacXFmNmNIVExGUUxKTE9fak9wVmhuam90dEk4Q1B3MV9wcWd3Q1ByMkRmcjdrUzMwTDVkZ3RsOWlhNHEzdU9vRnN0bmx3YmZKZmZNb0pQMEJPdWRPNVdlWHlPMndfX0FQaWlqWDcxOVdkR1VhbkhRQ2R4MmtXaEZNV295V0RyY0JNNHV0RFZMLXRGRVhMUEN1YVFXUndiejAtaXB2aVVPdjM3MkNObzB6czFMSzVB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnhhYk9WWVRuQ1JJaE9TTzNGVjBIblJDTkFQR2xvUEJ4Zms4YU1JVVRQN2FvSGYyQTNHdUNPRlpDbXpoOGNLS2h4SFZacXFmNmNIVExGUUxKTE9fak9wVmhuam90dEk4Q1B3MV9wcWd3Q1ByMkRmcjdrUzMwTDVkZ3RsOWlhNHEzdU9vRnN0bmx3YmZKZmZNb0pQMEJPdWRPNVdlWHlPMndfX0",
+  "date": "2026-11-12T23:22:30.000Z",
+  "fetched": "2026-11-13T00:03:12.364Z",
+  "fromCloud": "2026-11-13T0003.json"
+ },
+ {
   "id": "7c52dc2c9167daab",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -4638,38 +4649,5 @@
   "date": "2026-11-12T04:57:29.000Z",
   "fetched": "2026-11-12T17:03:11.839Z",
   "fromCloud": "2026-11-12T1703.json"
- },
- {
-  "id": "a106a1a1b5a5fd7e",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Proving AI’s business value: Views from PayPal Ads SVP and GM Mark Grether",
-  "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/proving-ais-business-value-views-from-paypal-ads-svp-and-gm-mark-grether",
-  "summary": "PayPal Ads’ Mark Grether describes how marketers connect technology investment to measurable outcomes by using proprietary transaction data, CMO–CFO alignment, and changes to customer journeys.",
-  "date": "2026-11-12T00:00:00.000Z",
-  "fetched": "2026-11-12T14:33:12.406Z",
-  "fromCloud": "2026-11-12T1433.json"
- },
- {
-  "id": "8e2014b0d483bdbe",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Beyond delivery: The human and economic toll of preeclampsia in the US",
-  "link": "https://www.mckinsey.com/mhi/our-insights/beyond-delivery-the-human-and-economic-toll-of-preeclampsia-in-the-us",
-  "summary": "Preeclampsia affects about one in 11 births a year in the United States, causing complications for mothers and babies and contributing to $28 billion in costs. More innovation and investment could help.",
-  "date": "2026-11-12T00:00:00.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "96258e401452bfd7",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Shaping the intelligent age: How Europe can thrive",
-  "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/shaping-the-intelligent-age-how-europe-can-thrive",
-  "summary": "Europe has been one of the winners of the industrial age, but it cannot win the intelligent age on cost alone; it must win on innovation and scale.",
-  "date": "2026-11-12T00:00:00.000Z",
-  "fetched": "2026-11-12T21:33:13.341Z",
-  "fromCloud": "2026-11-12T2133.json"
  }
 ]
