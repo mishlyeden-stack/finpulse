@@ -1,5 +1,170 @@
 [
  {
+  "id": "f1f6189b9e6f761b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Tempest Therapeutics, Inc. (0001544227) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1544227/000121390026119916/0001213900-26-119916-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001213900-26-119916 <b>Size:</b> 339 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T22:27:38.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "fa38a7bf5e18dca7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "TVAI: SEC Form 10-Q filed by Thayer Ventures Acquisition Corporation II - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcGVENjBTR3NQeW5EYmk4NWlicTRaTnFZZ1ZONG9rdW5oOW01Q3RlRGladVJ2YkNHMHh2UUVtME9oQURpT0pfVkdzdnN4ZzlsT3dtakV0ckpGVzhOSHo0amwta3FndjlkSkJDbjNsby1GRk5qTEJiQlRzdHRzcnRDcmswa3U1X1BhNjBGNGpScTYtM2ZLYVoxeTZBSjE2aWRUSmFEYV82a2RWczhG?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcGVENjBTR3NQeW5EYmk4NWlicTRaTnFZZ1ZONG9rdW5oOW01Q3RlRGladVJ2YkNHMHh2UUVtME9oQURpT0pfVkdzdnN4ZzlsT3dtakV0ckpGVzhOSHo0amwta3FndjlkSkJDbjNsby1GRk5qTEJiQlRzdHRzcnRDcmswa3U1X1BhNjBGNGpScTYtM2ZLYVoxeTZBSjE2aWRUSmFEYV82a2RWcz",
+  "date": "2026-11-13T22:27:06.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "4fba31b288e0d4a4",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CareTrust REIT, Inc. (0001590717) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1590717/000114036126043831/0001140361-26-043831-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001140361-26-043831 <b>Size:</b> 1 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-13T22:25:32.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "22a1e458a0cfeae7",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Navient Holdings, Inc. (0002152623) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2152623/000114036126043829/0001140361-26-043829-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001140361-26-043829 <b>Size:</b> 154 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-11-13T22:21:46.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "687994a20368e43d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Polomar Health Services, Inc. (0001265521) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1265521/000149315226051849/0001493152-26-051849-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001493152-26-051849 <b>Size:</b> 252 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01",
+  "date": "2026-11-13T22:21:31.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "a2c8110b140e1570",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Dolby Laboratories, Inc. (0001308547) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1308547/000119312526461010/0001193125-26-461010-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001193125-26-461010 <b>Size:</b> 143 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-11-13T22:19:51.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "446239eb85b781cb",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Panamera Holdings Corp (0001620749) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1620749/000164033426001797/0001640334-26-001797-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001640334-26-001797 <b>Size:</b> 124 KB <br>Item 4.02: Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review",
+  "date": "2026-11-13T22:19:18.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "bfc02fca52dac7c3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PCSA: Vidya expands the pipeline, but acquisition accounting drove a $183.2M Q3 loss - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY0lFOWdBUVZPR2FWdDZ3RnZlRFVYcGJmZUoyX0ZFZ0wtTHBOTkt5dFhBcHcwSEZ1SnE2eVdHT1JYUmRzZ01UbEdJSTM1cVAyTzl0N1NjTEFVblV6b1ROaVVhMzBYeVptTjdRcnBZdmJtT0ZrQzA2N25RY3pzc1JJOHVfZmkyc0JyZDBkM3FncllwRWZTcnVYNkI4d3JCUUtUZzFuX2JESG85VTNUWGFDYkt4UXpYTmFsRUQ3WV9TSE5CV3NabjlPNW9iWmpHWGZoWllNbEpEaC1nYTFWZWtMd1RvZGdoX3VsazZiR2VlX1V3RkxPeU9z?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY0lFOWdBUVZPR2FWdDZ3RnZlRFVYcGJmZUoyX0ZFZ0wtTHBOTkt5dFhBcHcwSEZ1SnE2eVdHT1JYUmRzZ01UbEdJSTM1cVAyTzl0N1NjTEFVblV6b1ROaVVhMzBYeVptTjdRcnBZdmJtT0ZrQzA2N25RY3pzc1JJOHVfZmkyc0JyZDBkM3FncllwRWZTcnVYNkI4d3JCUUtUZzFuX2JESG85VT",
+  "date": "2026-11-13T22:11:31.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "b76a8a161bc24aa7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "McKinley Acquisition 3Q 2026: Net income $422.67K — 10-Q Summary - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWNLSkVmT0VUVWdlQUFEWWM4R3lGZ0ZvY2xLczk0WnFhUlFpNTl5TTBiWTlKVjFlUTNRNnVaV0l4bTZLNkJVMFdIVzk2MzlCTWd2em9NWFZwbXI5TWtfZWF1SnZhdjZYRkcwNEx0UUctNUJkUHVreDZzQkFVTjJoaU54amktZmYyRTJ2S1JUZWVCbnRuZE1OdldSQmttMW8ycHNySFBZRzNwbWVfaVpaZTJuWHdUNnlUWjNRR3VqRQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONWNLSkVmT0VUVWdlQUFEWWM4R3lGZ0ZvY2xLczk0WnFhUlFpNTl5TTBiWTlKVjFlUTNRNnVaV0l4bTZLNkJVMFdIVzk2MzlCTWd2em9NWFZwbXI5TWtfZWF1SnZhdjZYRkcwNEx0UUctNUJkUHVreDZzQkFVTjJoaU54amktZmYyRTJ2S1JUZWVCbnRuZE1OdldSQmttMW8ycHNySFBZRzNwbW",
+  "date": "2026-11-13T22:11:00.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "8cb19023b2abf567",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "ITHAX Acquisition Corp. III 3Q 2026: Net income $1.97M — 10-Q Summary - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ18yWTl1c3NTVnRGaFloQnd4bTlyOFFtanl0VFJSaE4ySjhUem1GU0E2eXFyQmdmOTBZREQ4SUJBQ3lHeElmOU5UclhoSkdyZzdHeXlUdkpMcjlWa2tvM1RSdmpPbWVqLVdRVHVXd3RZc0szSnV2YVJCUHJhZHN1alFlTXA1bFlfMzRTSFpUc2FvSmw3V2RWbWl3bVgtamY1V1ItTGlXcDFEUW5Qb2VMX3MwTk82djRhcVBPSEJURVpPNkFG?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ18yWTl1c3NTVnRGaFloQnd4bTlyOFFtanl0VFJSaE4ySjhUem1GU0E2eXFyQmdmOTBZREQ4SUJBQ3lHeElmOU5UclhoSkdyZzdHeXlUdkpMcjlWa2tvM1RSdmpPbWVqLVdRVHVXd3RZc0szSnV2YVJCUHJhZHN1alFlTXA1bFlfMzRTSFpUc2FvSmw3V2RWbWl3bVgtamY1V1ItTGlXcDFEUW",
+  "date": "2026-11-13T22:11:00.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "757b14e5d6a7f1a8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "NMP Acquisition 3Q 2026: Net income $633.5K — 10-Q Summary - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcndmS3UzZlZ3ZmVYVC1KS0o0Ym0zRk1MRHBScFFUUW82OEdLa1ZrczhqVVNZbGIxdy0tdlJNWVRDWHJuQ19CVWtWamtlUkNpeEQ1LWN6U3duY1JiMkhDdnIweGJ1N3NoRUt3T0VydXlYbG1pS3h3YXNBQ2tUT3V0ZzFlUnZXOHRiX2pad0ZZUTBKUmtDZnpGNlE1alRvd2p5VVVoV3ZyZEpwcGdsb3ZLY2hFQ0w5eVk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcndmS3UzZlZ3ZmVYVC1KS0o0Ym0zRk1MRHBScFFUUW82OEdLa1ZrczhqVVNZbGIxdy0tdlJNWVRDWHJuQ19CVWtWamtlUkNpeEQ1LWN6U3duY1JiMkhDdnIweGJ1N3NoRUt3T0VydXlYbG1pS3h3YXNBQ2tUT3V0ZzFlUnZXOHRiX2pad0ZZUTBKUmtDZnpGNlE1alRvd2p5VVVoV3ZyZEpwcG",
+  "date": "2026-11-13T22:11:00.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "599b55d3a0f4c96c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Keen Vision Acquisition 3Q 2026: Net loss ($145.23K) — 10-Q Summary - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDNNZEViTzMxMFhTQUdKMkpVQVE0alRIUFgwR0N0LVJBYjRiZXQxRlFvcHVZbVBTMlRCY0tVdzFvRW9ybWxJN3h6SmdnN1VXem81SEhJSUZTN3NLa2NoMW9Wd0xNMU5hWWhCYU9SV1N5LXVPN19pdVNLVGtmRG5NUTBOUzdXakhaQUs5WERkOE5pQXI0Q2o2VlQtdUl4ZkFjX1RSNWlLaXdLb3RQMGhUeEh5ckllVlEzV2NkTjJWWEk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDNNZEViTzMxMFhTQUdKMkpVQVE0alRIUFgwR0N0LVJBYjRiZXQxRlFvcHVZbVBTMlRCY0tVdzFvRW9ybWxJN3h6SmdnN1VXem81SEhJSUZTN3NLa2NoMW9Wd0xNMU5hWWhCYU9SV1N5LXVPN19pdVNLVGtmRG5NUTBOUzdXakhaQUs5WERkOE5pQXI0Q2o2VlQtdUl4ZkFjX1RSNWlLaXdLb3",
+  "date": "2026-11-13T22:11:00.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "c851dbce28ca6103",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Vendome Acquisition 3Q 2026: Net income $1.68M — 10-Q Summary - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3FibTgwNk1PbVllWmhQamROci1Bck1vSlY0NV9SZ1czUkZkZUdlMWJ2OWt4VGNpSXhZSnlxamtISnNFMndXc1R5dVJkcGFBZEV3RTVlMFFNaksxa1VGUG1leXRfSlNvd1JMc0ZsSU1OcEp3V1ZROE9ZcXpMLWVoU2tDcTdXRXlrWDVxdmtKdDJWcjRqMmppdzd1dFZzTHp1Rkk3S1VkQl9RU3lVVVJMSTRWTzdhSGp3WExJ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3FibTgwNk1PbVllWmhQamROci1Bck1vSlY0NV9SZ1czUkZkZUdlMWJ2OWt4VGNpSXhZSnlxamtISnNFMndXc1R5dVJkcGFBZEV3RTVlMFFNaksxa1VGUG1leXRfSlNvd1JMc0ZsSU1OcEp3V1ZROE9ZcXpMLWVoU2tDcTdXRXlrWDVxdmtKdDJWcjRqMmppdzd1dFZzTHp1Rkk3S1VkQl9RU3",
+  "date": "2026-11-13T22:11:00.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "701e93d0c7218691",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MKLY: McKinley Acquisition reports $422,668 net income for the quarter - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekxGMDRrTUR4d3NmOG9aQV9MTU9JZGFHdUEyY1ZNTTlWbkhMd2xTSUVoMUt0ZHM1a1d2VU1KX3p0TFhiSFVQcW1Dc0RKV1FiZ0k0STItZG1qYnFzMTRiaVc0UnJDS0d2MGlFeE40dzhKdnhVeXo0R19OaU55UmVIME4xYUVqR25PN2x6SnFsU3MzaWszNVcyZ2x3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQekxGMDRrTUR4d3NmOG9aQV9MTU9JZGFHdUEyY1ZNTTlWbkhMd2xTSUVoMUt0ZHM1a1d2VU1KX3p0TFhiSFVQcW1Dc0RKV1FiZ0k0STItZG1qYnFzMTRiaVc0UnJDS0d2MGlFeE40dzhKdnhVeXo0R19OaU55UmVIME4xYUVqR25PN2x6SnFsU3MzaWszNVcyZ2x3?oc=5\" target=\"_blank\"",
+  "date": "2026-11-13T22:07:35.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "41ea96a0e92a6ad5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "VNME: SEC Form 10-Q filed by Vendome Acquisition Corporation I - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTA1bFpjNkdYeU1YNTVoSjZGZHlERnpHdEt2TzJGLVdSaWlGZWhoZFh3dmdaQ2VNZDJRQmZzRmhyM1JUbGItQ3B6ZzRFZlFmOXVxNXlHLWJBZTY5aEYycnJKTThmaDBDcmZKMG9sR1J1QWdraFdfSk0yM2IwSkpqQXpzMUtTaUtObGpwTTk0Yzl3SEthb0JUTDdINW5wYmtP?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTA1bFpjNkdYeU1YNTVoSjZGZHlERnpHdEt2TzJGLVdSaWlGZWhoZFh3dmdaQ2VNZDJRQmZzRmhyM1JUbGItQ3B6ZzRFZlFmOXVxNXlHLWJBZTY5aEYycnJKTThmaDBDcmZKMG9sR1J1QWdraFdfSk0yM2IwSkpqQXpzMUtTaUtObGpwTTk0Yzl3SEthb0JUTDdINW5wYmtP?oc=5\" target=",
+  "date": "2026-11-13T22:07:06.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
   "id": "eb41de52350de3d6",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -66,6 +231,17 @@
   "fromCloud": "2026-11-13T2203.json"
  },
  {
+  "id": "6c6b05f58dc18caa",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bri-Chem Corp. (BRY) Appoints CFO Tony Pagnucco COO - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYU5GOTNxcFdLNWlHb25GOXJKLVpUNXFkN2toT0RQQnkwamxoNUt5TDM1RThMTUI4dVcyc3JrLXotMjBIWHc4S3M5X253OWs5bVBNWTh2MVM5Wm5rZVgxZlpBTmxmU0JfejBvc3laalNHU1F0bHJybDY4RmNpaXRfYkg5Ymk1UWNMbnlxMEtiaE96aWRhaXdLUHpsZG9CNkI3T2pnWGNYOUJ6em1vbEU4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYU5GOTNxcFdLNWlHb25GOXJKLVpUNXFkN2toT0RQQnkwamxoNUt5TDM1RThMTUI4dVcyc3JrLXotMjBIWHc4S3M5X253OWs5bVBNWTh2MVM5Wm5rZVgxZlpBTmxmU0JfejBvc3laalNHU1F0bHJybDY4RmNpaXRfYkg5Ymk1UWNMbnlxMEtiaE96aWRhaXdLUHpsZG9CNkI3T2pnWGNYOUJ6em",
+  "date": "2026-11-13T21:53:00.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
   "id": "d08c4af9482eb735",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -119,6 +295,28 @@
   "date": "2026-11-13T21:41:05.000Z",
   "fetched": "2026-11-13T22:03:13.779Z",
   "fromCloud": "2026-11-13T2203.json"
+ },
+ {
+  "id": "54ad513ab8784689",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "NXDT: Investment losses and Cityplace refinancing risk overshadowed improved 9M operating income - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ3pieXNrVTUtUTBfY1pqT3doR3dMM2h6Tm9laTc2YXJXaE1rMEF3bWlZRHVmV1dnalFwa3p1cnBfRHZDMkFJOE9Hd0x3S2FkUTlKR2tVcTV5RVFUYzY4X3RlLUJ5aUl6TksxX1htVmlJVl9objQ3UjdNblBjbFdUX1p5QWhwN2xRc3IycVNKS0xYTFJySnF0NEZlMnRUSFdxRWxxSm9QYTNPYURacXphSXhfZGRkbG9XWmhLNkxJQzB3WHUtRmpZZC1zVVJNRWtUUlVuYU9KaWFuS2dLa0pLQkxXeW1PSWVEQ2NpTlM0ZXFJX2Y0N1dvOG51UmduTFlyMjlZTGtpVTh2Zw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ3pieXNrVTUtUTBfY1pqT3doR3dMM2h6Tm9laTc2YXJXaE1rMEF3bWlZRHVmV1dnalFwa3p1cnBfRHZDMkFJOE9Hd0x3S2FkUTlKR2tVcTV5RVFUYzY4X3RlLUJ5aUl6TksxX1htVmlJVl9objQ3UjdNblBjbFdUX1p5QWhwN2xRc3IycVNKS0xYTFJySnF0NEZlMnRUSFdxRWxxSm9QYTNPYU",
+  "date": "2026-11-13T21:35:02.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
+  "id": "b691d427427222c4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "AIRTP: Revenue grew 68%, but acquisition-related costs and operating pressures drove a $20.0M stockholder loss - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORlVDbDgyWXJGbENnaHkzQXhralRXUF9rRklXV0RHWFFsRTZ4c081MFk2WEgwQnJsVTZINnVTemRIQ0JfNW1BTkhzV1QtaS11LW5Wc2VocEdxSTV2OGFMOVJsRndSUlBGMHRwQ3VWeXFjVnRaN0Z0OVNwbUFYeDlfY09KUEtUT2NoTF9ablBvSXdIdUNNVldmdEZkeHo5Y3lJdjE2YkpHRzJGRjd4YUE5enJaNms4dW83SzJ0akJ5VzZFOWFma1NmSndoVVU2YndPM3pKQV83bDU1QXR2RGhGSENJRHVpanhHdGdvNThMZTBSdnhVazN3Q1BZZWc4WGZVd3N4QUlHWVZIQUFKaWNJLWlrZDBycDFj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxORlVDbDgyWXJGbENnaHkzQXhralRXUF9rRklXV0RHWFFsRTZ4c081MFk2WEgwQnJsVTZINnVTemRIQ0JfNW1BTkhzV1QtaS11LW5Wc2VocEdxSTV2OGFMOVJsRndSUlBGMHRwQ3VWeXFjVnRaN0Z0OVNwbUFYeDlfY09KUEtUT2NoTF9ablBvSXdIdUNNVldmdEZkeHo5Y3lJdjE2YkpHRzJGRj",
+  "date": "2026-11-13T21:34:55.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
  },
  {
   "id": "11d7cc16194db7a1",
@@ -275,6 +473,17 @@
   "fromCloud": "2026-11-13T2133.json"
  },
  {
+  "id": "86bcc5f313bd86c8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Compute AI Acquisition Corp - Announces $75 Million IPO Of 7,500,000 Units - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWUFtb0VWS2dXak91RFhzWUNZQmxKdmxjdTdXZEJOMkMteTZkeUtPUVJaM3ItNW41SE1EQnp5a2JvX1dpWXhaeUZLaFdPMkw0MEtqc2RkQmVQSFlUM1luczlhT2w5T191aWV1SC04TnJvUHVsS2FwaEVheG9PSFlKTWpzLUtwOTRyaXM2bnU3RVp2dWI5RjdjVTVDeXp0TV93VnR6UU5teEs1c1NvQ0hVWjA0R0QwMG5oVTBiTy15ZjExRFBPUG1XNWF5d2F5WmJ0bzhUWXBUdWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWUFtb0VWS2dXak91RFhzWUNZQmxKdmxjdTdXZEJOMkMteTZkeUtPUVJaM3ItNW41SE1EQnp5a2JvX1dpWXhaeUZLaFdPMkw0MEtqc2RkQmVQSFlUM1luczlhT2w5T191aWV1SC04TnJvUHVsS2FwaEVheG9PSFlKTWpzLUtwOTRyaXM2bnU3RVp2dWI5RjdjVTVDeXp0TV93VnR6UU5teEs1c1",
+  "date": "2026-11-13T21:29:36.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
   "id": "122e3ef5d75381b9",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -341,6 +550,17 @@
   "fromCloud": "2026-11-13T2133.json"
  },
  {
+  "id": "6f50924b436aeb94",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Waste Connections Executive Vice President & CFO Sold Shares Worth Over $1M - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1NDbHozQkw3dVktNlhrRDJqU00xQVVKbDZqYUpWTVNqQy1kZDd5NWd3WU10VTlUWm9TQWZEN01YS3AtZ3ZIU0d0clZpTTJoY3lZdE1odjRDRzdBa0tyOUhVSmd1eEJnNHcwMXNtT0xUcEhrQlE5Ulc4akU0bG5sN0w2MlhTVjQzQXUzSlFuc194d0dLYkM4R0F1OEYzZUlOZ3pyMU1PTGNQNTlyRVF4SjJaNW5fSkZlQ01yQ015VldwSVB0TFpmZ0VsZjhOdUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1NDbHozQkw3dVktNlhrRDJqU00xQVVKbDZqYUpWTVNqQy1kZDd5NWd3WU10VTlUWm9TQWZEN01YS3AtZ3ZIU0d0clZpTTJoY3lZdE1odjRDRzdBa0tyOUhVSmd1eEJnNHcwMXNtT0xUcEhrQlE5Ulc4akU0bG5sN0w2MlhTVjQzQXUzSlFuc194d0dLYkM4R0F1OEYzZUlOZ3pyMU1PTGNQNT",
+  "date": "2026-11-13T21:20:01.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
   "id": "78f89cc1c99f308b",
   "source": "Financial Times",
   "group": "global-press",
@@ -350,6 +570,17 @@
   "date": "2026-11-13T21:18:48.000Z",
   "fetched": "2026-11-13T21:33:18.651Z",
   "fromCloud": "2026-11-13T2133.json"
+ },
+ {
+  "id": "4a539e297cf30cc7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Cohere announces acquisition of cubic, aimed at boosting AI cyber defense - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTk3VG1UMTZnOFUtSUVIaHZMblFWal85aEg3aGN3dHdkclQ5MzVtam1rTkh2Ykk2SzVsRlNHRkVJZWI1Z3dUNkVDZ0V4bGZSLTZJeWVwNkt0N1A0YmpXbm9MTEswT2V5V2RkdmloOHIwSGxUdTFUVWx3bUpMeDhVREQ1b2hwVlJhSExDU0ttVzd0Zks3eUJYMmRnYzhsdkJESDR2T2RvY0RodkJYYURreC1MNzZITTZXWUlMS1BzY0FjczNxZE94cjdZNEJWQXQz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTk3VG1UMTZnOFUtSUVIaHZMblFWal85aEg3aGN3dHdkclQ5MzVtam1rTkh2Ykk2SzVsRlNHRkVJZWI1Z3dUNkVDZ0V4bGZSLTZJeWVwNkt0N1A0YmpXbm9MTEswT2V5V2RkdmloOHIwSGxUdTFUVWx3bUpMeDhVREQ1b2hwVlJhSExDU0ttVzd0Zks3eUJYMmRnYzhsdkJESDR2T2RvY0Rodk",
+  "date": "2026-11-13T21:16:39.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
  },
  {
   "id": "4532bcae0da2463f",
@@ -1364,6 +1595,17 @@
   "fromCloud": "2026-11-13T2103.json"
  },
  {
+  "id": "bfaa55d06d18b985",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Mayor Johnson's chief financial officer abruptly resigns, third CFO to quit in a year - WBEZ Chicago",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQloxR2RuaEt6RVNTMWJiSzcwX2JDRmJfZ0Ixbm8xSmhnT0QtYm9aQkdkdDF0alUwU05xVWxfR29rZzZLWTBEVGZpVWZLTUtnRG9GNXhjbHUwTmwxTTNEOEhZTFdGNHU0eGNQVnJRS2hxM2NQTDhZN085aFdlV1BFRlFvelRKQ0VxYzVJQ0lwWi1Vd3J1alhFSkkwXzRwdklRVDBmSGx2YUEwRVo4YmdrbEVjb1p6SnZsMDNR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQloxR2RuaEt6RVNTMWJiSzcwX2JDRmJfZ0Ixbm8xSmhnT0QtYm9aQkdkdDF0alUwU05xVWxfR29rZzZLWTBEVGZpVWZLTUtnRG9GNXhjbHUwTmwxTTNEOEhZTFdGNHU0eGNQVnJRS2hxM2NQTDhZN085aFdlV1BFRlFvelRKQ0VxYzVJQ0lwWi1Vd3J1alhFSkkwXzRwdklRVDBmSGx2YUEwRV",
+  "date": "2026-11-13T17:07:00.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
   "id": "9a7b4d42d945ba30",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -1562,6 +1804,17 @@
   "fromCloud": "2026-11-13T1633.json"
  },
  {
+  "id": "6e01a125cfbcfc0c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Trace3 completes acquisition of Calian Group U.S. IT business - MSSP Alert",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeURMc2tPRUpsRG5QVjA4UHMxaTlKbjlwRm02ZDJJOENmYl90Z0pFbVVCUy1WTTZDMWFHT2xFS2pLT3ZSQlpWa3N5UmZCYWh0U3NLYlpCdURlLW9WT2RNSWdQdkREMWNwMTNNYlJ4OWltQ010NG5BLWhqMEJCYzNaQVpJenJ4T3h4VDhpNmhGYXhtaGdnUE1F?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOeURMc2tPRUpsRG5QVjA4UHMxaTlKbjlwRm02ZDJJOENmYl90Z0pFbVVCUy1WTTZDMWFHT2xFS2pLT3ZSQlpWa3N5UmZCYWh0U3NLYlpCdURlLW9WT2RNSWdQdkREMWNwMTNNYlJ4OWltQ010NG5BLWhqMEJCYzNaQVpJenJ4T3h4VDhpNmhGYXhtaGdnUE1F?oc=5\" target=\"_blank\">Tra",
+  "date": "2026-11-13T16:19:34.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
   "id": "4ac5d2b21e9bbcef",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1628,6 +1881,17 @@
   "fromCloud": "2026-11-13T2000.json"
  },
  {
+  "id": "226145df60155a2e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אנסקייל בדרך להנפקה עם חוב של 5.5 מיליארד דולר - ותלות גוברת באנבידיה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jWlR2Z0lrbmJUTHpOandLN3pITWpqV2xZUkRoSWo5dUhaRXV3Y1Bubmp1ZFB3aEE4cW1qb3JmN2N4RkRIci1xdlFIUnFwTXgwcHY4aXVkbUFEX29DWjI4ekFJNld2WGZVVGZ4cnNDT2M?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1jWlR2Z0lrbmJUTHpOandLN3pITWpqV2xZUkRoSWo5dUhaRXV3Y1Bubmp1ZFB3aEE4cW1qb3JmN2N4RkRIci1xdlFIUnFwTXgwcHY4aXVkbUFEX29DWjI4ekFJNld2WGZVVGZ4cnNDT2M?oc=5\" target=\"_blank\">אנסקייל בדרך להנפקה עם חוב של 5.5 מיליארד דולר - ותלות ג",
+  "date": "2026-11-13T16:07:00.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
+ },
+ {
   "id": "2d4cdef4e4ced949",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -1637,6 +1901,17 @@
   "date": "2026-11-13T16:06:00.000Z",
   "fetched": "2026-11-13T16:33:40.160Z",
   "fromCloud": "2026-11-13T1633.json"
+ },
+ {
+  "id": "fbf0cd895cf3076c",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "OpenAI משיקה ארנק ל-ChatGPT: הסוכן קונה, ויזה ומאסטרקארד סולקות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qVTRuelk4UWdYTDFTMkdtLWxVX0NSNk1fUm55WHhrTjdMWC1FOUJnNjhqUGdKbTFJcnhQanBvS0hVc1pQUTkwclRtTDJGUW01bk5Eb3Qxb3BYT1JfR1ZGb1g3U3djd2ZM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qVTRuelk4UWdYTDFTMkdtLWxVX0NSNk1fUm55WHhrTjdMWC1FOUJnNjhqUGdKbTFJcnhQanBvS0hVc1pQUTkwclRtTDJGUW01bk5Eb3Qxb3BYT1JfR1ZGb1g3U3djd2ZM?oc=5\" target=\"_blank\">OpenAI משיקה ארנק ל-ChatGPT: הסוכן קונה, ויזה ומאסטרקארד סולקות</a>",
+  "date": "2026-11-13T16:06:00.000Z",
+  "fetched": "2026-11-13T22:33:11.635Z",
+  "fromCloud": "2026-11-13T2233.json"
  },
  {
   "id": "4420a6f7ae1971b1",
@@ -6543,214 +6818,5 @@
   "date": "2026-11-12T22:42:29.000Z",
   "fetched": "2026-11-13T11:03:12.469Z",
   "fromCloud": "2026-11-13T1103.json"
- },
- {
-  "id": "9f45ca31c9a34db6",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Western Union’s $500M acquisition of Miami firm falls through - The Business Journals",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1dnMHplSG1VMzk3OUhWNGNyNF9PTGdJd1M2ckhyTVhucHloMVo0M1FjOEZVYnltelJRWnNackVFeGF6OTZPalNwYWF2TEZIaTZKNUtmbHhRaGRKSk1JQ1RYUnJuLThXWG9SWi1LVmp4ZExNWVF0dGpkTzlNMm15Wk51YXROeHVrTlJrUUJOa2Noa0Z6anZuLTJBdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1dnMHplSG1VMzk3OUhWNGNyNF9PTGdJd1M2ckhyTVhucHloMVo0M1FjOEZVYnltelJRWnNackVFeGF6OTZPalNwYWF2TEZIaTZKNUtmbHhRaGRKSk1JQ1RYUnJuLThXWG9SWi1LVmp4ZExNWVF0dGpkTzlNMm15Wk51YXROeHVrTlJrUUJOa2Noa0Z6anZuLTJBdw?oc=5\" target=\"_blan",
-  "date": "2026-11-12T22:32:00.000Z",
-  "fetched": "2026-11-12T23:03:16.571Z",
-  "fromCloud": "2026-11-12T2303.json"
- },
- {
-  "id": "ec5e4efcaa7d5845",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מחסור במכליות-על מאט את יצוא הנפט האמריקאי, והמטענים עוברים לאירופה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZi1heERXSGp2TkZRb3hnM2JjeHdVUnhHaHRpU2NkclJmUEh0dDU2OE12dUpMSWF0dUJsNDlKdHpQd19wa1EyOW41VEc3VmRBX2hvck95akJjcDJ3b3hBZ0pRWWd4U01RV3k2WDVUTks?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZi1heERXSGp2TkZRb3hnM2JjeHdVUnhHaHRpU2NkclJmUEh0dDU2OE12dUpMSWF0dUJsNDlKdHpQd19wa1EyOW41VEc3VmRBX2hvck95akJjcDJ3b3hBZ0pRWWd4U01RV3k2WDVUTks?oc=5\" target=\"_blank\">מחסור במכליות-על מאט את יצוא הנפט האמריקאי, והמטענים עוב",
-  "date": "2026-11-12T22:29:00.000Z",
-  "fetched": "2026-11-12T23:33:24.556Z",
-  "fromCloud": "2026-11-12T2333.json"
- },
- {
-  "id": "75c5ccde58ab60a4",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - HOST HOTELS & RESORTS, INC. (0001070750) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1070750/000162828026073508/0001628280-26-073508-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001628280-26-073508 <b>Size:</b> 943 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T22:27:59.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "ce6b7b7c908e0a0d",
-  "source": "אנשים ומחשבים",
-  "group": "industry",
-  "title": "האם אנבידיה תמשיך להוביל את השוק גם אחרי עידן הואנג?",
-  "link": "https://www.pc.co.il/featured/461430/",
-  "summary": "ג'נסן הואנג, מנכ\"ל אנבידיה, התפטר אתמול (ה') מתפקידו ומדירקטוריון החברה עקב פרשה שעירבה רומנים שניהל עם שתי נשים, אליס הואנג ו קימברלי פאוול , ריגול (במקרה של הואנג &#8211; ואגב, אין ביניהם קשר משפחתי), יחסי מרות (במקרה של פאוול, סמנכ\"לית תחום הבריאות באנבידיה), חקירות של החברה ע",
-  "date": "2026-11-12T22:27:38.000Z",
-  "fetched": "2026-11-12T23:03:16.571Z",
-  "fromCloud": "2026-11-12T2303.json"
- },
- {
-  "id": "2a003ab7bac673ac",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Bright Mountain Media, Inc. (0001568385) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1568385/000119312526458757/0001193125-26-458757-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458757 <b>Size:</b> 633 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T22:27:02.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "a92a0ca319d18b3d",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Aptevo Therapeutics Inc. (0001671584) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526458751/0001193125-26-458751-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458751 <b>Size:</b> 642 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T22:25:33.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "a40442e05156758a",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Rank One Computing Corp (0002077709) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/0001193125-26-458738-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458738 <b>Size:</b> 737 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T22:21:47.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "0c561c89a4039424",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Akari Therapeutics Plc (0001541157) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1541157/000149315226051486/0001493152-26-051486-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001493152-26-051486 <b>Size:</b> 326 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T22:21:46.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "e5302da3dceb978c",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - iANTHUS CAPITAL HOLDINGS, INC. (0001643154) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1643154/000119312526458735/0001193125-26-458735-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-458735 <b>Size:</b> 513 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 4.01: Changes in Registrant's Certifying Accountant <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T22:21:29.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "1256beda05d10ea6",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - ELITE PHARMACEUTICALS INC /NV/ (0001053369) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1053369/000149315226051484/0001493152-26-051484-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001493152-26-051484 <b>Size:</b> 240 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T22:20:33.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "34117ac4a508889a",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Beeline Holdings, Inc. (0001534708) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1534708/000149315226051482/0001493152-26-051482-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001493152-26-051482 <b>Size:</b> 201 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
-  "date": "2026-11-12T22:20:13.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "2e94861e1d4b429e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Earnings call transcript: Spruce Power posts q3 2026 profit as refinancing advances - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa3NxWm02N3ZVVG9SQ0toSjRTUnVFWU5XMEVZY29BeVhjVjZvYWEtOU5TTGlwRW0zTDMtRnh1MTRDakhLamVHTDVvT3RrLUk3SU1YZHM3MU5yOWdlcXROUmJOQlRvTHEyVEdaQUlVMVpFcFB2ci1BZmJmUDJTcUlmM3ZyV2toOG1wcG40NlQxMlJBWHlXeFhNa3pDYURUbExELVVDVlhhcy1mZ0dOcHBtdW1hSEVKaTVkdS1wLVd3ekNUV1lpXzAzbVZtZzVGTmpEWVhBMA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa3NxWm02N3ZVVG9SQ0toSjRTUnVFWU5XMEVZY29BeVhjVjZvYWEtOU5TTGlwRW0zTDMtRnh1MTRDakhLamVHTDVvT3RrLUk3SU1YZHM3MU5yOWdlcXROUmJOQlRvTHEyVEdaQUlVMVpFcFB2ci1BZmJmUDJTcUlmM3ZyV2toOG1wcG40NlQxMlJBWHlXeFhNa3pDYURUbExELVVDVlhhcy1mZ0",
-  "date": "2026-11-12T22:18:35.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "d7de5b07013b0433",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "GTERA: Globa Terra Acquisition Corporation filed SEC Form 8-K... - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHAwMzRIWXFPSWw3d1FybkNaelk4ZjEzOXgxd1dVMUx4N2U5WFVWTDdqWlVKY1hOZFpkZ1B3UzJYcEtyY0lUTXdLQ1U2T1pDUC11dXlucTdtTnVnVkhsUTAxMkd6cDlXMWQyYXFUUUlweTZhUENIT0tWWGhwMHBFcEJhR0J3c3ZSdkVFUGdlYjNHTjBRd0sybmo4dlozUnNVY21PYmFQWEdYN0Ji?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHAwMzRIWXFPSWw3d1FybkNaelk4ZjEzOXgxd1dVMUx4N2U5WFVWTDdqWlVKY1hOZFpkZ1B3UzJYcEtyY0lUTXdLQ1U2T1pDUC11dXlucTdtTnVnVkhsUTAxMkd6cDlXMWQyYXFUUUlweTZhUENIT0tWWGhwMHBFcEJhR0J3c3ZSdkVFUGdlYjNHTjBRd0sybmo4dlozUnNVY21PYmFQWEdYN0",
-  "date": "2026-11-12T22:16:54.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "ac3f95c31b13b836",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Agnico Eagle Mines (AEM) Is Showing Strong Free Cash Flow Leverage To Gold - Yahoo Finance Singapore",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNel9NMWpfMkNNLU1TYkJSbXJJa3hsNzl6ZnQwM3dvVjI3MEo4V3pzOElfVXdRQjhYOGJneTF5bGNsbnhpb0Jlam5CR2c3WV9lV0hmejU1QVdqcUdWbjF3UDVMYV9iMXV5N3JhLUhhVXZqbnQ3eVpDYlZ4UFJqZTRhaTNhaUk0Zw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNel9NMWpfMkNNLU1TYkJSbXJJa3hsNzl6ZnQwM3dvVjI3MEo4V3pzOElfVXdRQjhYOGJneTF5bGNsbnhpb0Jlam5CR2c3WV9lV0hmejU1QVdqcUdWbjF3UDVMYV9iMXV5N3JhLUhhVXZqbnQ3eVpDYlZ4UFJqZTRhaTNhaUk0Zw?oc=5\" target=\"_blank\">Agnico Eagle Mines (AEM) ",
-  "date": "2026-11-12T22:11:25.000Z",
-  "fetched": "2026-11-12T23:03:16.571Z",
-  "fromCloud": "2026-11-12T2303.json"
- },
- {
-  "id": "113ae07b18d51ce6",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "נשיונל ביף: השפל במחזור הבקר בארה\"ב מאחורינו, והמרווח בשיא של שנתיים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52ZGkxUWZTVm5UNGxlc1dFbXdfSXo0Rkg1S1NtcjAwS3F0V1A0UUVHekZkam5iWlRLNFA3VGowNkl3amtxQ2lCSFNWX0haZXU0N3huZ0VVNHJVckYyYlFPVzNzSEFDSjdlU3FRY1B5ZUE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE52ZGkxUWZTVm5UNGxlc1dFbXdfSXo0Rkg1S1NtcjAwS3F0V1A0UUVHekZkam5iWlRLNFA3VGowNkl3amtxQ2lCSFNWX0haZXU0N3huZ0VVNHJVckYyYlFPVzNzSEFDSjdlU3FRY1B5ZUE?oc=5\" target=\"_blank\">נשיונל ביף: השפל במחזור הבקר בארה\"ב מאחורינו, והמרווח בש",
-  "date": "2026-11-12T22:11:00.000Z",
-  "fetched": "2026-11-13T04:03:11.736Z",
-  "fromCloud": "2026-11-13T0403.json"
- },
- {
-  "id": "da45e1bd5bf80c0f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Skydance Targets Major Sports Media Position After $110 Billion Warner Bros. Discovery Acquisition - Ministry of Sport",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzB3YlpRcEdmWmI2Z0psOFI4X1RsdHNieTJsWXFXUVhPNlVRNGFHNGswa3NhbkppakQ0cjRrNjQ5OFdMNzh2VmdvajBDZUF6MUZfN2RucGVUV0diZ2VCdUljUng4ak9RWWh3WEJKb0FwdXZJUnpwSWVNYklrbDM5WHpNWjJHcVlrNVdSWG1GdFpaSWpjUk5QcXVnX3picnZRa3lnSXhTdkdreDZsaWdic0hEOUZ6b2dLSTR4dHQxRXREVTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzB3YlpRcEdmWmI2Z0psOFI4X1RsdHNieTJsWXFXUVhPNlVRNGFHNGswa3NhbkppakQ0cjRrNjQ5OFdMNzh2VmdvajBDZUF6MUZfN2RucGVUV0diZ2VCdUljUng4ak9RWWh3WEJKb0FwdXZJUnpwSWVNYklrbDM5WHpNWjJHcVlrNVdSWG1GdFpaSWpjUk5QcXVnX3picnZRa3lnSXhTdkdreD",
-  "date": "2026-11-12T22:08:53.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "ea51c366431f1181",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "IMPALA Responds To WMG’s Acquisition Of Zebralution - CelebrityAccess",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVcxTXpDTE9qZXRHVUI5ZjBQTGJqbExtMkV5cm8wUnFkWnVWWVJ3eWZsX0lCdXhzWF9sYllWT1NXOWlKTGtjUjR0T1lQX2lVVDZlcEt0LUtxdlBXa2ExSzFZa0FlNTd3b21meVYxV3NCbVVUVWloRzlDMk9nVmN0U1VZN2pKRjRJUnBQRmFnMzJMSkZL?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVcxTXpDTE9qZXRHVUI5ZjBQTGJqbExtMkV5cm8wUnFkWnVWWVJ3eWZsX0lCdXhzWF9sYllWT1NXOWlKTGtjUjR0T1lQX2lVVDZlcEt0LUtxdlBXa2ExSzFZa0FlNTd3b21meVYxV3NCbVVUVWloRzlDMk9nVmN0U1VZN2pKRjRJUnBQRmFnMzJMSkZL?oc=5\" target=\"_blank\">IMPALA ",
-  "date": "2026-11-12T22:08:18.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
- },
- {
-  "id": "83e6294d4126f9e0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "SPRU: Cash generation improved, but near-term refinancing remains critical amid weaker solar production - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZmlSa01ILWczWUU1ZktiT3lQYmwtVXo5N0gzSm1heFlBSll5MHVSNVA1VWxCVDJzNnVSN01kWnUtYWJMLW5Ja1NneUgyTWxGUXpXUG0yaV80bTVRcjR2T3VoV2lSZ2FzVTFKbEpqSENaU1FNbzl6VEU3UU5LM2NVRkpheEpqNG1TVGx2emRrOGd2MVVIb29pVFlrWkc5YXBCUWxTRDNoaVh5ajNDVHpOdDFjZWlYZGZsRk1WMmRUN2kzLUIyUkNlWjI0WXFwRmYxYzl0bFFidV9Pczl2b2g5YnQ4UjBTT2Q4MnFYMWZsTHEzdl9KSG1DOVJHNEhtX1MwcEw3YXo3TFJxdldCZmp5dmNITWRpMGc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQZmlSa01ILWczWUU1ZktiT3lQYmwtVXo5N0gzSm1heFlBSll5MHVSNVA1VWxCVDJzNnVSN01kWnUtYWJMLW5Ja1NneUgyTWxGUXpXUG0yaV80bTVRcjR2T3VoV2lSZ2FzVTFKbEpqSENaU1FNbzl6VEU3UU5LM2NVRkpheEpqNG1TVGx2emRrOGd2MVVIb29pVFlrWkc5YXBCUWxTRDNoaVh5aj",
-  "date": "2026-11-12T22:07:48.000Z",
-  "fetched": "2026-11-12T23:03:16.571Z",
-  "fromCloud": "2026-11-12T2303.json"
- },
- {
-  "id": "ca25e796707aa95a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Pinnacle Acquisition 3Q 2026: Net loss ($4.27M) — 10-Q Summary - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlhiejF4S1VpaEUzVVVqR1VUMGk0UUUzZ0h5OUVjbjJHNHY2N0szNlhySmM1T2E4dnY2aWlYWHZEeWtkRmF0d1l0ZTZrS2xTM2RSOGlaclowYUZ1Q0lNYWFxaHM4R1g1c2FBVzJ0eEVWUzdwdXF5blhCel9MYVhMalVnWFZGWmtFX0hYTTEzeTdWV05kNFhtZ3Z3UU1YQ004WDMxZXJOcWh4aGFJRExYMUZBdl9MLWRxZEE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlhiejF4S1VpaEUzVVVqR1VUMGk0UUUzZ0h5OUVjbjJHNHY2N0szNlhySmM1T2E4dnY2aWlYWHZEeWtkRmF0d1l0ZTZrS2xTM2RSOGlaclowYUZ1Q0lNYWFxaHM4R1g1c2FBVzJ0eEVWUzdwdXF5blhCel9MYVhMalVnWFZGWmtFX0hYTTEzeTdWV05kNFhtZ3Z3UU1YQ004WDMxZXJOcWh4aG",
-  "date": "2026-11-12T22:04:34.000Z",
-  "fetched": "2026-11-12T22:33:12.417Z",
-  "fromCloud": "2026-11-12T2233.json"
  }
 ]
