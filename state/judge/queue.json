@@ -1,5 +1,71 @@
 [
  {
+  "id": "20c6ba8ac4a7a31c",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Beyond data location: why the control plane is Europe’s real sovereignty challenge",
+  "link": "https://www.datacenterdynamics.com/en/opinions/beyond-data-location-why-the-control-plane-is-europes-real-sovereignty-challenge/",
+  "summary": "<p data-block-key=\"s1evp\">And it won't be cheap</p>",
+  "date": "2026-11-13T15:30:39.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
+ },
+ {
+  "id": "e03289802aa518f5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Chicago Mayor Brandon Johnson's chief financial officer Ashlee Gabrysch resigns, sources say - CBS News",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUt3TUFUQ0FXdlhldlF2M0hndFVPY194emFlaFAyNVNKSGRmY19UQlFFQkF0MUx5ZzlfdjNEYXVQM1hyWUp1d2lrVG1WMzZHSWtMbzYwR2JHcEF6dXRvdjJmMDA0bXMtU2FlV1dtS3pIak9uZ1BEVkYyMGdOLUVnNXR2dkwzU1d5VlFYTG05ZF8wc0xuZUxraUxHUXNXVFAx?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUt3TUFUQ0FXdlhldlF2M0hndFVPY194emFlaFAyNVNKSGRmY19UQlFFQkF0MUx5ZzlfdjNEYXVQM1hyWUp1d2lrVG1WMzZHSWtMbzYwR2JHcEF6dXRvdjJmMDA0bXMtU2FlV1dtS3pIak9uZ1BEVkYyMGdOLUVnNXR2dkwzU1d5VlFYTG05ZF8wc0xuZUxraUxHUXNXVFAx?oc=5\" target=",
+  "date": "2026-11-13T15:26:00.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
+ },
+ {
+  "id": "39671800d11c2ce3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Broe Group Makes 1st Dallas Acquisition - Multifamily Housing News",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hZVF5akRsY2hucnJiM285ZTgzMGwwakpRdTYxRGo1RmF6Z1JOV1gyczhadjhyUVRnWTB2ZVk3UHVfOEpwV1FRYWk3cEh0dmVnQ2FjbFg3d3A4QXd1d0hadXlONEhxa3M2eDdzYVpFS3JSQWRjODRxYmIzWnZidw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9hZVF5akRsY2hucnJiM285ZTgzMGwwakpRdTYxRGo1RmF6Z1JOV1gyczhadjhyUVRnWTB2ZVk3UHVfOEpwV1FRYWk3cEh0dmVnQ2FjbFg3d3A4QXd1d0hadXlONEhxa3M2eDdzYVpFS3JSQWRjODRxYmIzWnZidw?oc=5\" target=\"_blank\">Broe Group Makes 1st Dallas Acquisiti",
+  "date": "2026-11-13T15:24:35.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
+ },
+ {
+  "id": "0d865470316d7d71",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+  "link": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+  "summary": "<p data-block-key=\"0271v\">The largest number of publicly traded quantum computing companies</p>",
+  "date": "2026-11-13T15:22:52.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
+ },
+ {
+  "id": "c3cb9f9906170c50",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+  "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+  "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach appeared ",
+  "date": "2026-11-13T15:20:00.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
+ },
+ {
+  "id": "216a6e7d0f49327f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Commvault Systems falls 7% on CFO transition (CVLT:NASDAQ) - Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTc1SUhWaS1CcU0tbXFTSXBScmJ2bFNoUnk1R0xaY1BnMXhXZG5DQ09uOHk0eXdSN2pFUnZra1J1dlhJM2hkakR3d2xyMFc5dXdkMlR5a2ZqVWtob2otWWNqekk4Y0RsZ21kUjB2ejd4bGYzczZqZXpVNW9WdkNxNjc3RVNQUGtVUm00dDdFMVpVSUk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTc1SUhWaS1CcU0tbXFTSXBScmJ2bFNoUnk1R0xaY1BnMXhXZG5DQ09uOHk0eXdSN2pFUnZra1J1dlhJM2hkakR3d2xyMFc5dXdkMlR5a2ZqVWtob2otWWNqekk4Y0RsZ21kUjB2ejd4bGYzczZqZXpVNW9WdkNxNjc3RVNQUGtVUm00dDdFMVpVSUk?oc=5\" target=\"_blank\">Commvaul",
+  "date": "2026-11-13T15:12:13.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
+ },
+ {
   "id": "79ff50cfefd8a2b1",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -11,6 +77,17 @@
   "fromCloud": "2026-11-13T1503.json"
  },
  {
+  "id": "b7392e4e12da7c4a",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+  "link": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+  "summary": "<p data-block-key=\"ez8j8\">First 300MW due live in 2027, ready for others to build on</p>",
+  "date": "2026-11-13T15:01:57.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
+ },
+ {
   "id": "7391341383f35c65",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -20,6 +97,17 @@
   "date": "2026-11-13T14:54:00.000Z",
   "fetched": "2026-11-13T15:03:14.373Z",
   "fromCloud": "2026-11-13T1503.json"
+ },
+ {
+  "id": "2d3c8e8ccf4786a2",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "5 בתי השקעות הורידו המלצה לדראפטקינגס, המניה ירדה 45% השנה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BY2VjN0p5U3RzZms1ZTFjMTRHeWlZYmgwb1g0bnBScEFYS0VsZXlpaVhBVG0xQi1Yek1iWWNaaHNJakR6ZDdvNjhDZUp5cjVJQ3BHa2pseDFzX1RNNGcySTVRSlhCWll3X1hWSw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9BY2VjN0p5U3RzZms1ZTFjMTRHeWlZYmgwb1g0bnBScEFYS0VsZXlpaVhBVG0xQi1Yek1iWWNaaHNJakR6ZDdvNjhDZUp5cjVJQ3BHa2pseDFzX1RNNGcySTVRSlhCWll3X1hWSw?oc=5\" target=\"_blank\">5 בתי השקעות הורידו המלצה לדראפטקינגס, המניה ירדה 45% השנה</a",
+  "date": "2026-11-13T14:52:00.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
  },
  {
   "id": "607ce435a5b899e3",
@@ -53,6 +141,17 @@
   "date": "2026-11-13T14:47:01.000Z",
   "fetched": "2026-11-13T15:03:14.373Z",
   "fromCloud": "2026-11-13T1503.json"
+ },
+ {
+  "id": "4aac100e8e55bae6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PROP: Production and adjusted EBITDA surged, with cost inflation and refinancing still in focus - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMnhSV2luWHpySlBrbUlPb2hsT25ldnJxVTc1NmF5cERBV0NCQnNWMG54bHFrUG90d0NxeERJUC1XclVtYkpyaGdDYVR6Z1ozS2NRa1FQRkNkd2oyWmhzcUJpOHBzTVBiWXFVM09XMlRJME5MeG5XNUFocUpJVkItNkdXZTZKaExHWE1JZDY1c0l6WF9WbWRFeXRyTGJyenJNVzNTcU1OQS1VRzZRek12MzRWZUNibGhsS2d6SElZSUM1M0dsNUFrT245bDdhQXExRUFoQzR6WDFTRmJ4ZDd3a2hKZUdpZEh5aFpuNlFXZ25iaDM2ZUxCSFRyYmVQajVDSGg1V2d0NlppdFVq?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNMnhSV2luWHpySlBrbUlPb2hsT25ldnJxVTc1NmF5cERBV0NCQnNWMG54bHFrUG90d0NxeERJUC1XclVtYkpyaGdDYVR6Z1ozS2NRa1FQRkNkd2oyWmhzcUJpOHBzTVBiWXFVM09XMlRJME5MeG5XNUFocUpJVkItNkdXZTZKaExHWE1JZDY1c0l6WF9WbWRFeXRyTGJyenJNVzNTcU1OQS1VRz",
+  "date": "2026-11-13T14:44:26.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
  },
  {
   "id": "21ec638045d3235b",
@@ -119,6 +218,17 @@
   "date": "2026-11-13T14:34:38.000Z",
   "fetched": "2026-11-13T15:03:14.373Z",
   "fromCloud": "2026-11-13T1503.json"
+ },
+ {
+  "id": "9680f5effa5755bd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Greenland Energy Agrees Recommended All-Share Acquisition of 80 Mile - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmdhM1NxQjZSOGFnVzFJU0F2cnJheGZRN3dMV2NYSHM3Q1ZLMmswd1hsbGlwS3B0N3pvRVpiTmJQYWNkbVZzOXd1WUtrc1h0eVVQR0Y4WTNrMHJjNXEyeTFtdEVEN20taFBLSXBXMmd5STExWGxDM0xRRzk1Yy11Q1hTamdOT0RIZ09pVzJrajhuY3VpYnh0ZkhzU2xQZ0l3Y3lhR1NiYV94aHM3NElINHk5RUd3M1RqdW9oWnRXd2R1NEo0cnFKT2Vn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmdhM1NxQjZSOGFnVzFJU0F2cnJheGZRN3dMV2NYSHM3Q1ZLMmswd1hsbGlwS3B0N3pvRVpiTmJQYWNkbVZzOXd1WUtrc1h0eVVQR0Y4WTNrMHJjNXEyeTFtdEVEN20taFBLSXBXMmd5STExWGxDM0xRRzk1Yy11Q1hTamdOT0RIZ09pVzJrajhuY3VpYnh0ZkhzU2xQZ0l3Y3lhR1NiYV94aH",
+  "date": "2026-11-13T14:33:01.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
  },
  {
   "id": "7f6e700121570ce2",
@@ -339,6 +449,17 @@
   "date": "2026-11-13T13:56:06.000Z",
   "fetched": "2026-11-13T14:03:13.033Z",
   "fromCloud": "2026-11-13T1403.json"
+ },
+ {
+  "id": "bb2e928182a126c8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Anjani Foods Says D Venu Gopal Resigns As CFO Of Anjani Foods Effective November 13, 2026 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUWtrVkpsRk95TmE4dkFYeHVsTG5ZaTM5cElXdm00Mlp2RXFxRjlxaXFTd1lENUhCVHBZOTRDSklZVV9jU2JFSzhhQktlQjFKSlJ3ZnJncUZZSDdmOGFJdEdpQ0Z0cEYyTXFfMWpxNFlSZ29oYTc4TVdHR181SlFQYXFGc2ZnMng2dnR5blFXeUhra09tZUstMWhXRkNJZWtFVlYzU3R3aEVIYzJGZ3pJaWVCbktMdUxOMk5fUmVaRnFfc2szOUpsaGdoYmZOcWVKeHhWTkNHZl9xX0l3RTNkbGplYUpGZ0gwa0F0Mmp6aw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUWtrVkpsRk95TmE4dkFYeHVsTG5ZaTM5cElXdm00Mlp2RXFxRjlxaXFTd1lENUhCVHBZOTRDSklZVV9jU2JFSzhhQktlQjFKSlJ3ZnJncUZZSDdmOGFJdEdpQ0Z0cEYyTXFfMWpxNFlSZ29oYTc4TVdHR181SlFQYXFGc2ZnMng2dnR5blFXeUhra09tZUstMWhXRkNJZWtFVlYzU3R3aEVIYz",
+  "date": "2026-11-13T13:55:13.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
  },
  {
   "id": "13fc79e45ecec3e7",
@@ -1078,6 +1199,17 @@
   "fromCloud": "2026-11-13T1203.json"
  },
  {
+  "id": "c16a314bb2b1220d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סרינה וויליאמס שווה 400 מיליון דולר. מאיפה הגיע הכסף? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15ME90cldadVgwUWloem9aOW45Zkdfb3p0VkdaTDhDdXJPdFZXN2tGS0ZQZGlQV1N0VVhmam16aEk5YzUyU1BydU91a19WTi1MNE93NDF3YVJZeEZjT2RsVHJjUlM3QQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE15ME90cldadVgwUWloem9aOW45Zkdfb3p0VkdaTDhDdXJPdFZXN2tGS0ZQZGlQV1N0VVhmam16aEk5YzUyU1BydU91a19WTi1MNE93NDF3YVJZeEZjT2RsVHJjUlM3QQ?oc=5\" target=\"_blank\">סרינה וויליאמס שווה 400 מיליון דולר. מאיפה הגיע הכסף?</a>&nbsp;&nbsp;",
+  "date": "2026-11-13T11:48:00.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
+ },
+ {
   "id": "bf7edab2dfe88182",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1507,6 +1639,17 @@
   "fromCloud": "2026-11-13T1003.json"
  },
  {
+  "id": "bfa75f6a2b20eb91",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע C 1550.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1STlFDcVJCZHM5OVlxaGkxbzEwNXNMQUMzc2xpY1JrZ1Z1VWFJZXRMWXJiM1ZHN2x5VVdRVm5sRkYzM2poQUVoV21XMWkxY2JtX0VYZ3BFUUwtOEtHYS1wVzFxbHg2VWVSd1I3b25NNDRCVnk5?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1STlFDcVJCZHM5OVlxaGkxbzEwNXNMQUMzc2xpY1JrZ1Z1VWFJZXRMWXJiM1ZHN2x5VVdRVm5sRkYzM2poQUVoV21XMWkxY2JtX0VYZ3BFUUwtOEtHYS1wVzFxbHg2VWVSd1I3b25NNDRCVnk5?oc=5\" target=\"_blank\">אלע C 1550.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:33.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
+ },
+ {
   "id": "beccf69873ed0b06",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -1593,6 +1736,17 @@
   "date": "2026-11-13T09:59:18.000Z",
   "fetched": "2026-11-13T14:03:13.033Z",
   "fromCloud": "2026-11-13T1403.json"
+ },
+ {
+  "id": "72a399192b55ff74",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אלע C 1925.0 NOV מדור אופציות/נגזרים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4UTlfQW91eXpjODRUOTJEV3JPdEtiZGR0RUd5RUZLYmdKWnVieVNRWUhFLW5lWE54T0ctVFhjTEJQXzdMb0N2OXpLU1o4TC1HbTlSblZ4WVMyN3dldFhsUkZmWnh0T3QwUkdQVERtNXVLcGNI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB4UTlfQW91eXpjODRUOTJEV3JPdEtiZGR0RUd5RUZLYmdKWnVieVNRWUhFLW5lWE54T0ctVFhjTEJQXzdMb0N2OXpLU1o4TC1HbTlSblZ4WVMyN3dldFhsUkZmWnh0T3QwUkdQVERtNXVLcGNI?oc=5\" target=\"_blank\">אלע C 1925.0 NOV מדור אופציות/נגזרים</a>&nbsp;&nbsp",
+  "date": "2026-11-13T09:59:13.000Z",
+  "fetched": "2026-11-13T15:33:13.043Z",
+  "fromCloud": "2026-11-13T1533.json"
  },
  {
   "id": "d5a43d79b03a01b1",
@@ -7192,368 +7346,5 @@
   "date": "2026-11-12T15:38:00.000Z",
   "fetched": "2026-11-12T23:33:24.556Z",
   "fromCloud": "2026-11-12T2333.json"
- },
- {
-  "id": "9b0a3c459e3691e7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "America’s Group promotes CFO to president - Auto Remarketing",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON082OUMzdHVvblZZMDhkUmdjOGM0SUVOMHNUaUdlTVBDYWxBenFWX0ppSy1wYkpBY2hFWFNGNjZPNkxDck9TOXpzbW1qMmdYZWJQYm1mWmhNM3llamttSnhWdUx6VGxCY2k1YjFyUG8tVHEtb2RGYzJsT25XWGp4M2R0amtfc29YRlh0SkJtSQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON082OUMzdHVvblZZMDhkUmdjOGM0SUVOMHNUaUdlTVBDYWxBenFWX0ppSy1wYkpBY2hFWFNGNjZPNkxDck9TOXpzbW1qMmdYZWJQYm1mWmhNM3llamttSnhWdUx6VGxCY2k1YjFyUG8tVHEtb2RGYzJsT25XWGp4M2R0amtfc29YRlh0SkJtSQ?oc=5\" target=\"_blank\">America’s Gro",
-  "date": "2026-11-12T15:33:10.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "60aef5a4d00f0af8",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "KOYN: CSLM Digital Asset Acquisition Corp III filed SEC Form 8-K... - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWVLdjRpNEZMU0x2MjZFLVg4WFloQUVWT29nQkVCSW1YRUpkSFc3Unh6Zm9KbnRrZjVKelJWNTNFa19fLXdRc09kd0s3OTB4cC1hS004U1V4TDJIUW1qM3RfNnVtUXRxb1hSNGN0MjJPVEVIZlEzeERYODFFeGpZUGpXRldmRGFQc1dpTHYyZ0Jyc3NaclNYaXc3X29QQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRWVLdjRpNEZMU0x2MjZFLVg4WFloQUVWT29nQkVCSW1YRUpkSFc3Unh6Zm9KbnRrZjVKelJWNTNFa19fLXdRc09kd0s3OTB4cC1hS004U1V4TDJIUW1qM3RfNnVtUXRxb1hSNGN0MjJPVEVIZlEzeERYODFFeGpZUGpXRldmRGFQc1dpTHYyZ0Jyc3NaclNYaXc3X29QQQ?oc=5\" target=\"_",
-  "date": "2026-11-12T15:32:20.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "b18f80d5c178161d",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "שוק הנדל\"ן ממשיך להיחלש: ירידה של 10% ברכישת דירות בישראל - ביזנעס",
-  "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOT1N3ZE5KYmdtLWc0Z2ZDb3RvRC10dEFhY3JpcG1yUmdmUVRjdEJnWFE5QTFrcHZIVUstWDNBLXdRSmdlLWJra3U0b0Z6QTU0LW4xMGVoRG4xMHM3azRnX1g5MXprT3NYMmNGLWJKM1Vtajl1THhtbS1vUWg1b1p6X1M0cnNGZmdldHE2WXF2d1A0UUZJbVlmRHpBWnA1WHVsWHg2ejFpOC0tdWxDVS1JckZhYlZ0eVZWazUydGJzMjdFT1hZRHQ3cG5DRUtlM3E4d1dXRmZJMzNLY1FPVGRCYWhrN1BLRDRpVXNBT3lwOXY0REdmVTVyVnlJWlNZQzdFSEJKVGI4cnQxY0w0OVZHNTFOVUxQeWNyQjhoNEVKQV9BZGlhODhHQV9FdVdKdjJETHZJUVhBMVhWZ2k3bUE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxOT1N3ZE5KYmdtLWc0Z2ZDb3RvRC10dEFhY3JpcG1yUmdmUVRjdEJnWFE5QTFrcHZIVUstWDNBLXdRSmdlLWJra3U0b0Z6QTU0LW4xMGVoRG4xMHM3azRnX1g5MXprT3NYMmNGLWJKM1Vtajl1THhtbS1vUWg1b1p6X1M0cnNGZmdldHE2WXF2d1A0UUZJbVlmRHpBWnA1WHVsWHg2ejFpOC0tdW",
-  "date": "2026-11-12T15:31:08.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "a66df5c93f9d95a0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Commission greenlights acquisition of Discovery Education by Blackstone and Clearlake - INSIGHT EU MONITORING",
-  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTXd5aFdlejdBNUltX2dCMzNiWWc0bTRtZGt3YTdXWEYzNldSSWQ4ZFRIck1oV0JSRUwtc0pMWmxibWtULU9wNjdXV21MV0VMME5xSEJwUVBtNzVONndZN0xGRzRSLU0xekpZbGpZd2tpYWVDT3RJVnBweTB1Y1h3X1hsNkw1cURKQVA4aXpDLTM3NkhRR052Y3FKZ0VzTDM5N0kxNHY0V2g0bFVGdGxoSFZwUEJMbHk1TWhyV194ZVNENVVVZGhXb2lZLVdwZ0dGTjhWNmpMM3Q3TnhGaXNWYTEyVGhza2s?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTXd5aFdlejdBNUltX2dCMzNiWWc0bTRtZGt3YTdXWEYzNldSSWQ4ZFRIck1oV0JSRUwtc0pMWmxibWtULU9wNjdXV21MV0VMME5xSEJwUVBtNzVONndZN0xGRzRSLU0xekpZbGpZd2tpYWVDT3RJVnBweTB1Y1h3X1hsNkw1cURKQVA4aXpDLTM3NkhRR052Y3FKZ0VzTDM5N0kxNHY0V2g0bF",
-  "date": "2026-11-12T15:30:58.000Z",
-  "fetched": "2026-11-12T16:03:31.740Z",
-  "fromCloud": "2026-11-12T1603.json"
- },
- {
-  "id": "4f42e11427531323",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "European leaders reject Russian push to overhaul continent’s security",
-  "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
-  "summary": "‘Europe needs to pay attention’, warns Zelenskyy after Abu Dhabi talks",
-  "date": "2026-11-12T15:30:49.000Z",
-  "fetched": "2026-11-12T16:03:31.740Z",
-  "fromCloud": "2026-11-12T1603.json"
- },
- {
-  "id": "e1df3dca363051b4",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "GrayMar completes Hull’s Environmental Services acquisition - Waste Today -",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2loODJUZFdSanFQTEItN0NLQUc4bndyZ0RZcEx2elFHQ0lob2VSNjk5c0o1NlJhelYtaWp0cFdnZVpkLXhpNjltM3AxbXF4SkR2R0J3TGNnS05IVnJXS0V0R2pzR0g4YURXZ05zWkN0YjFGN1pfZVktVDZBOUNEZFI5Ym44ZUg2T3hyX3ZtSjAwdUhQZk1sa1lvUWNxT2Jf?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2loODJUZFdSanFQTEItN0NLQUc4bndyZ0RZcEx2elFHQ0lob2VSNjk5c0o1NlJhelYtaWp0cFdnZVpkLXhpNjltM3AxbXF4SkR2R0J3TGNnS05IVnJXS0V0R2pzR0g4YURXZ05zWkN0YjFGN1pfZVktVDZBOUNEZFI5Ym44ZUg2T3hyX3ZtSjAwdUhQZk1sa1lvUWNxT2Jf?oc=5\" target=",
-  "date": "2026-11-12T15:30:00.000Z",
-  "fetched": "2026-11-12T16:03:31.740Z",
-  "fromCloud": "2026-11-12T1603.json"
- },
- {
-  "id": "16aeba9905888980",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "GrayMar completes Hull’s Environmental Services acquisition - Construction & Demolition Recycling",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQk1CM0pGa2gzNW1HNjk5QjBGU2FDbG92akhmckN1N0dxSm5jQUQ3YlZtUEhMaU5OYzhYdVJoRFdQS3hDZW5vWEFuYUxFWGhQVDNpQjlMT29scEpaWkNvdzVLbnZHeDhFc2VPbVpjRmVaSmJhOFM4SHBhOXVTR2h3UmZHR0FKTTIwWGZKQy04V0xOdVJWVEE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQk1CM0pGa2gzNW1HNjk5QjBGU2FDbG92akhmckN1N0dxSm5jQUQ3YlZtUEhMaU5OYzhYdVJoRFdQS3hDZW5vWEFuYUxFWGhQVDNpQjlMT29scEpaWkNvdzVLbnZHeDhFc2VPbVpjRmVaSmJhOFM4SHBhOXVTR2h3UmZHR0FKTTIwWGZKQy04V0xOdVJWVEE?oc=5\" target=\"_blank\">Gray",
-  "date": "2026-11-12T15:30:00.000Z",
-  "fetched": "2026-11-12T22:03:13.206Z",
-  "fromCloud": "2026-11-12T2203.json"
- },
- {
-  "id": "99a7994ff65f2518",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "איך בוחרים ספק ענן בישראל? ההחלטה שיכולה לחסוך לעסקים כסף ולמנוע השבתה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ed09KUnB2d0dveWZvQkxCQVBZX1NBbGtBUC1PZXhuR3YtcndzYV9wX3kyZnBoNXpZX1FlRUNMcWZUYlRhYlhCVUg0V0JyRjRkSVhYWWE2VUQtMDd4czBtMm1pNXpscGNRdnp3NU1SemJUanl3anZB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ed09KUnB2d0dveWZvQkxCQVBZX1NBbGtBUC1PZXhuR3YtcndzYV9wX3kyZnBoNXpZX1FlRUNMcWZUYlRhYlhCVUg0V0JyRjRkSVhYWWE2VUQtMDd4czBtMm1pNXpscGNRdnp3NU1SemJUanl3anZB?oc=5\" target=\"_blank\">איך בוחרים ספק ענן בישראל? ההחלטה שיכולה לחסוך ",
-  "date": "2026-11-12T15:30:00.000Z",
-  "fetched": "2026-11-12T23:33:24.556Z",
-  "fromCloud": "2026-11-12T2333.json"
- },
- {
-  "id": "2d8ed8f63aa3ba99",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - First Digital Acquisition Corp Ltd. (0002068454) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2068454/000182912626012293/0001829126-26-012293-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001829126-26-012293 <b>Size:</b> 541 KB <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 5.07: Submission of Matters to a Vote of Security Holders <br>Item 8.01: Other Events <br>Item 9.01: Fi",
-  "date": "2026-11-12T15:29:04.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "b04691f022b03564",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "יבנה: אותה דירה, פער של 800 אלף שקל בין השכונות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDWk5jRFJuTkNTWGhQSUVKU2ZIVkdOVmJjUEEyaER4OUhpVnVoRmZ5Sl9wTVZZcmJUWXpyR2ZuTGVsQUlxSkF3Sy1fbGxwM2ptcVlBSWZoQXNlTmVfdmJ5WTctekQzZnlQNFJqSndn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBDWk5jRFJuTkNTWGhQSUVKU2ZIVkdOVmJjUEEyaER4OUhpVnVoRmZ5Sl9wTVZZcmJUWXpyR2ZuTGVsQUlxSkF3Sy1fbGxwM2ptcVlBSWZoQXNlTmVfdmJ5WTctekQzZnlQNFJqSndn?oc=5\" target=\"_blank\">יבנה: אותה דירה, פער של 800 אלף שקל בין השכונות</a>&nbsp;&n",
-  "date": "2026-11-12T15:29:00.000Z",
-  "fetched": "2026-11-12T16:03:31.740Z",
-  "fromCloud": "2026-11-12T1603.json"
- },
- {
-  "id": "71fab8cf111eae0b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Law Firm COO & CFO Forum 2026: Firm leaders grapple with emerging AI progress and fears - Thomson Reuters",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTdSalg4UVBwVjZwdDNOLUVFT3dBcmJlQy1NWlZEYV9kc0g0dWxSQjBReHktZTZCaVZLWnRBOVZSdjRaSUlIbHpVbzRGRko4OWhQNjJrOEZxbGRqLXFFMGgwY1l4LVZRelJtMERxeTBEQ2JZNmxhV1Rmc1c5X3NKZ2hvN1NkdV90MVNrQ2NHeXpCbE0?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTdSalg4UVBwVjZwdDNOLUVFT3dBcmJlQy1NWlZEYV9kc0g0dWxSQjBReHktZTZCaVZLWnRBOVZSdjRaSUlIbHpVbzRGRko4OWhQNjJrOEZxbGRqLXFFMGgwY1l4LVZRelJtMERxeTBEQ2JZNmxhV1Rmc1c5X3NKZ2hvN1NkdV90MVNrQ2NHeXpCbE0?oc=5\" target=\"_blank\">Law Firm",
-  "date": "2026-11-12T15:26:51.000Z",
-  "fetched": "2026-11-12T17:33:12.469Z",
-  "fromCloud": "2026-11-12T1733.json"
- },
- {
-  "id": "4ef03d4c77c5ff27",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "מה פרשת אנבידיה תעשה לשווקים ולכלכלה - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fMGJwcEFYeF9DeEFLOFRhaW9MblZIYUZITkx1bFhGU1c0Z3RpN3VHbWRiTktxQWlEVW5VSTVRbzdXNUFmRHhRWndOMmxfWjVIcmFPQ3RkbmRMX3QxdWdKTmR3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fMGJwcEFYeF9DeEFLOFRhaW9MblZIYUZITkx1bFhGU1c0Z3RpN3VHbWRiTktxQWlEVW5VSTVRbzdXNUFmRHhRWndOMmxfWjVIcmFPQ3RkbmRMX3QxdWdKTmR3?oc=5\" target=\"_blank\">מה פרשת אנבידיה תעשה לשווקים ולכלכלה</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C",
-  "date": "2026-11-12T15:26:00.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "652a2ccfa827c4da",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Deloitte Announces Acquisition of Flipside Crypto's AI Business and Launches Edisyl to Help Close the Context Gap in Enterprise AI – Press Release - Deloitte",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONEV0TThqcWV5OXVhNUFPWGRMb3RYbzZ4MmkzaVl6MGJ1c2hqZVRrUEtvSExOMHgwa3d5NTlRM1ZCdFVEdWlLenJkYXYwZGNfRHNjZEREa05xUWdjTnZJdW83Njkzcmt1T1NMdUJCZmtseXBwZ0JQdjVLcGxnazRrYlhScnB0STg2Um5iNlhCLVE4ZExld1VYZnB4UTBIRkNVdUcydXVfRlYxa25ZZUlqSEIxeUx2bWRXYkR1S3hPS2Q3UnA2ZHVzTmVtaWlsUGhR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxONEV0TThqcWV5OXVhNUFPWGRMb3RYbzZ4MmkzaVl6MGJ1c2hqZVRrUEtvSExOMHgwa3d5NTlRM1ZCdFVEdWlLenJkYXYwZGNfRHNjZEREa05xUWdjTnZJdW83Njkzcmt1T1NMdUJCZmtseXBwZ0JQdjVLcGxnazRrYlhScnB0STg2Um5iNlhCLVE4ZExld1VYZnB4UTBIRkNVdUcydXVfRlYxa2",
-  "date": "2026-11-12T15:25:16.000Z",
-  "fetched": "2026-11-13T11:33:12.305Z",
-  "fromCloud": "2026-11-13T1133.json"
- },
- {
-  "id": "0084205e964296d3",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Why Nvidia turned to ‘strategic’ CFO Colette Kress to clean up Jensen Huang’s mess - Fortune",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEVLQnMyRU1OYnNhWmVhZXo4V21nMlVtMGlSTldDREIyZl8yQl9uS29LMDZ6MThrVmFUS0ZaaGRLSU54NFV1TWtjMVVmSXE0aE9DN2JfOGtCVE5VaHE0a0xhcnFheFBhQ0xxNWFnME1VbjVnRTlobnhhUDM0LXhIeUdISDRQU1V5ZlhZOExaRmR5bHhrc0tzSTI0TzMxQTZ2Yjdr?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEVLQnMyRU1OYnNhWmVhZXo4V21nMlVtMGlSTldDREIyZl8yQl9uS29LMDZ6MThrVmFUS0ZaaGRLSU54NFV1TWtjMVVmSXE0aE9DN2JfOGtCVE5VaHE0a0xhcnFheFBhQ0xxNWFnME1VbjVnRTlobnhhUDM0LXhIeUdISDRQU1V5ZlhZOExaRmR5bHhrc0tzSTI0TzMxQTZ2Yjdr?oc=5\" tar",
-  "date": "2026-11-12T15:24:00.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "857524b8b337b139",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"ג'נסן לא עשה דבר בלעדיה\": מיהי המנכ\"לית הזמנית של אנבידיה? - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVUE2NFVhWDhnUzZyVjlGZXVCZEdTbVBQN2wyQTZwdXp2QWNsZ2U0a3RsWl84czBEWkJiOTR5UC1jTF9VREhzUUF2OWh5VFJPekswb19qSmRaNGFVaWluMTVNQXdBdXRueEFQQWtEdTJXRFRWdnktczBpWU1STlA0ZmZ3UmdESkx5djN1Q1NKbFFtYmpjS3o0a2swQ0h0YUU2R1ZLSHBTbw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVUE2NFVhWDhnUzZyVjlGZXVCZEdTbVBQN2wyQTZwdXp2QWNsZ2U0a3RsWl84czBEWkJiOTR5UC1jTF9VREhzUUF2OWh5VFJPekswb19qSmRaNGFVaWluMTVNQXdBdXRueEFQQWtEdTJXRFRWdnktczBpWU1STlA0ZmZ3UmdESkx5djN1Q1NKbFFtYmpjS3o0a2swQ0h0YUU2R1ZLSHBTbw?oc=",
-  "date": "2026-11-12T15:24:00.000Z",
-  "fetched": "2026-11-12T16:03:31.740Z",
-  "fromCloud": "2026-11-12T1603.json"
- },
- {
-  "id": "c06be0ca5b4dacaf",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - OLD NATIONAL BANCORP /IN/ (0000707179) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/707179/000162828026073206/0001628280-26-073206-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001628280-26-073206 <b>Size:</b> 357 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T15:20:57.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "a8f767b43fbef3ac",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Albertsons names Andrew Murray as CFO - Supermarket Perimeter",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGE4WWg0aVM5Rl9CNXBYT0g5YV8zbWR6djZIVzd3MkcySzRwZXJsbWVjd2hteG9xekUxNDR6TERFb2wxcnBkSnhzVlR2VXZPZlBYY1E0SUdOVjg1RlZpT2E3cURwVVZGWEFUbGpGZXJ3LV9ncnJjOVJOMHRIZUhiU0FFQm5lQ3RDaHN4YXZQanRsT1k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGE4WWg0aVM5Rl9CNXBYT0g5YV8zbWR6djZIVzd3MkcySzRwZXJsbWVjd2hteG9xekUxNDR6TERFb2wxcnBkSnhzVlR2VXZPZlBYY1E0SUdOVjg1RlZpT2E3cURwVVZGWEFUbGpGZXJ3LV9ncnJjOVJOMHRIZUhiU0FFQm5lQ3RDaHN4YXZQanRsT1k?oc=5\" target=\"_blank\">Albertso",
-  "date": "2026-11-12T15:20:19.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "f7f13d72c01ebae2",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פיטר את עורכת הדין, ועדיין ישלם לה 41 אלף שקל - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhOVIzLUVOVmFpVWJnN2VqYncxZ1N2TVNHOVdDMWVhYlRQWTdubU1HeE9OQUxjbkR3TU92ckRQVFZQZzBWWllsR3Jzbk5vS0pUX1oxbDNTaFMtNVV4dVlaY3kweFdRSVk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhOVIzLUVOVmFpVWJnN2VqYncxZ1N2TVNHOVdDMWVhYlRQWTdubU1HeE9OQUxjbkR3TU92ckRQVFZQZzBWWllsR3Jzbk5vS0pUX1oxbDNTaFMtNVV4dVlaY3kweFdRSVk?oc=5\" target=\"_blank\">פיטר את עורכת הדין, ועדיין ישלם לה 41 אלף שקל</a>&nbsp;&nbsp;<font c",
-  "date": "2026-11-12T15:19:00.000Z",
-  "fetched": "2026-11-12T20:33:12.400Z",
-  "fromCloud": "2026-11-12T2033.json"
- },
- {
-  "id": "6a4f3b6ff33c2230",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Cretex Medical Expands Tooling Design Capabilities with Acquisition - Medical Product Outsourcing",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlZTSDJ3U2dUZWsxeWhUOGI2R0QtdWpFZFR5S2p3R0VDbEpDYnZvZWJhMXBDV2FuOFJXbWpmNEdkc1RNZ290SVdtZEwwSmgteVhleG1RWHlyWEZ4Ti0xVWpQUEQxbDhQMlhNMTZDeXpMRkdXZHVvTDczMjdOd1d2YjkyVHpva05FQkVLV2dwQ2tiWHYxaDNtak9LS2ZOeGMwMkNUQWdYemt4UQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlZTSDJ3U2dUZWsxeWhUOGI2R0QtdWpFZFR5S2p3R0VDbEpDYnZvZWJhMXBDV2FuOFJXbWpmNEdkc1RNZ290SVdtZEwwSmgteVhleG1RWHlyWEZ4Ti0xVWpQUEQxbDhQMlhNMTZDeXpMRkdXZHVvTDczMjdOd1d2YjkyVHpva05FQkVLV2dwQ2tiWHYxaDNtak9LS2ZOeGMwMkNUQWdYemt4UQ",
-  "date": "2026-11-12T15:18:33.000Z",
-  "fetched": "2026-11-12T18:03:12.615Z",
-  "fromCloud": "2026-11-12T1803.json"
- },
- {
-  "id": "121731aa6c7214e6",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Nvidia CEO Jensen Huang Resigns, CFO Named Interim Leader - Dailyfly News",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdDVqMXB6UnNtMkVIQnRlRnVwMHp0Um0tX1M3aTc5R21Cc2NOU3RxamxiUktvVDZ5bTRCZUdkeHlFTm0zanhNUUZ2MHozSlpzby1hMjZJVjFVWWtjWGx0SnZTVWpDNkNKZVhxaV83bTFISTN0WDU2NDlqS1MtY0IzN25mcTA1amxMZnFrTmtBOVMtY0lPblkydA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdDVqMXB6UnNtMkVIQnRlRnVwMHp0Um0tX1M3aTc5R21Cc2NOU3RxamxiUktvVDZ5bTRCZUdkeHlFTm0zanhNUUZ2MHozSlpzby1hMjZJVjFVWWtjWGx0SnZTVWpDNkNKZVhxaV83bTFISTN0WDU2NDlqS1MtY0IzN25mcTA1amxMZnFrTmtBOVMtY0lPblkydA?oc=5\" target=\"_blank\">N",
-  "date": "2026-11-12T15:17:48.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "250ced5f08792254",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "BlueMatrix Completes Acquisition of Aiera - PR Newswire",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYTd1ZU9ZVUYyRGs3UUR0MV9IaFQxeVUzU0ppZU5xbXhJUWVRVzQ5dFJhSnVocXdfeVNYak9VTjgzSnhXQVpGZDRwRk5VMTlqbzFBQlFOM2JZQnNWQ253TzFZaXNUbWN6aVNGb2kyaTVqUWNkNHdIMng2Y0F2WEYxZnNYTlc3VFJ3RGl1NkhHTmMzQi05QkFyaVZwQjk5dw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYTd1ZU9ZVUYyRGs3UUR0MV9IaFQxeVUzU0ppZU5xbXhJUWVRVzQ5dFJhSnVocXdfeVNYak9VTjgzSnhXQVpGZDRwRk5VMTlqbzFBQlFOM2JZQnNWQ253TzFZaXNUbWN6aVNGb2kyaTVqUWNkNHdIMng2Y0F2WEYxZnNYTlc3VFJ3RGl1NkhHTmMzQi05QkFyaVZwQjk5dw?oc=5\" target=\"_",
-  "date": "2026-11-12T15:15:00.000Z",
-  "fetched": "2026-11-12T16:03:31.740Z",
-  "fromCloud": "2026-11-12T1603.json"
- },
- {
-  "id": "e4589f8a281174da",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Amdocs moves into InsurTech with $340m EIS acquisition - FinTech Global",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1pDYkNzem9NTV82QTV1ZW9MODE2bGZhVDdFVi1HWU42c0FoeUJSQ3d0SlBKbzBDdmZIamt5clRxQmFzdnhfd1V0RDE3V2FYNk0yZWJiUkl5aV84ZTFtb3p1Q1ZfMDZBYnZXUkVDREo2V2F4VEVZWnNuSUI1OTM4QjhsSWYwTUpKMTZ6LVkyRkdHQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1pDYkNzem9NTV82QTV1ZW9MODE2bGZhVDdFVi1HWU42c0FoeUJSQ3d0SlBKbzBDdmZIamt5clRxQmFzdnhfd1V0RDE3V2FYNk0yZWJiUkl5aV84ZTFtb3p1Q1ZfMDZBYnZXUkVDREo2V2F4VEVZWnNuSUI1OTM4QjhsSWYwTUpKMTZ6LVkyRkdHQQ?oc=5\" target=\"_blank\">Amdocs mo",
-  "date": "2026-11-12T15:12:49.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "cbf663859385c8cb",
-  "source": "אנשים ומחשבים",
-  "group": "industry",
-  "title": "לפני שיודח: ג&#039;נסן הואנג, מנכ&#034;ל אנבידיה, התפטר מתפקידו",
-  "link": "https://www.pc.co.il/featured/461402/",
-  "summary": "מנכ\"ל אנבידיה , ג'נסן הואנג , הודיע היום (ה') על התפטרותו מהתפקיד, לאחר 33 שנים. מועצת המנהלים של החברה דנה היום בהדחתו של הואנג בעקבות הרומן שלו עם מי שנחשדה כמרגלת סינית, ושלל הגילויים בנושא מהימים האחרונים &#8211; אולם הוא החליט להתפטר בעצמו, לפני קבלת החלטה. ההתפטרות נכנסה לת",
-  "date": "2026-11-12T15:12:26.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "3f488892cef89f9a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Klarna Appoints Robinhood Executive Chris Koegel as CFO, Succeeding Niclas Neglén - citybiz",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFdUcUowMkRGYlVXeGJ5TzkzeDVNMXhNaVlBYW9sV1dFa2hTODdfVHAwWkpGY2VXdU9JTG82RU9nWllSNHRrWHdFY0U4UC1uV1RleG1SSENNQ0VFSXpsNmI4QVJRYi1VTlRhNUpFUTN4dFZ1cmtVZnRXdVlhLTV1MnMyX1NLTUZ5S3htaUY3aDZYcmt6OHQzM2xMMUZvc2VxZWlUOU02bHBFVTdMM1dsT0s1eWRaVTA3NThF?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFdUcUowMkRGYlVXeGJ5TzkzeDVNMXhNaVlBYW9sV1dFa2hTODdfVHAwWkpGY2VXdU9JTG82RU9nWllSNHRrWHdFY0U4UC1uV1RleG1SSENNQ0VFSXpsNmI4QVJRYi1VTlRhNUpFUTN4dFZ1cmtVZnRXdVlhLTV1MnMyX1NLTUZ5S3htaUY3aDZYcmt6OHQzM2xMMUZvc2VxZWlUOU02bHBFVT",
-  "date": "2026-11-12T15:11:43.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "4c9d263e97123af8",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Nvidia Turns to CFO Kress to Steady Ship After Jensen Huang Exit - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0FkdmhlbmNwcVViclZOMXg3X0lEdjVnNmxibFJ6ZWUwSk5CZzBQUWZKMmd4eFgzTVFiV0hYNlRfMmFOLWZkMEkwZzJaSHlkY3VfcWFzcDJOa1h3ZmtmMDVtVzlSbDlwcWNVOU43c3k0WVpnRnJ0dDM2M01hcTl4MUFqRHFZdmQwSHlNM0hBMTVnWWR2emdDX0hreElDR0NZQS0xUHpxNW0wb3FxdTRYS3A5SlpXZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0FkdmhlbmNwcVViclZOMXg3X0lEdjVnNmxibFJ6ZWUwSk5CZzBQUWZKMmd4eFgzTVFiV0hYNlRfMmFOLWZkMEkwZzJaSHlkY3VfcWFzcDJOa1h3ZmtmMDVtVzlSbDlwcWNVOU43c3k0WVpnRnJ0dDM2M01hcTl4MUFqRHFZdmQwSHlNM0hBMTVnWWR2emdDX0hreElDR0NZQS0xUHpxNW0wb3",
-  "date": "2026-11-12T15:11:36.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "8d23b4a0f2bf43ba",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Elektros To Meet with Highly Influential Individual Today to Explore Potential Acquisition of Multi-Port Ev Charging Patent - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWg0YzNHVHNMT2VkVnlfN0JfZnp1eVVBQVppVlM4WnhjbG4wVnJGb3RoeTBBUlJnczZqaEdydDBFdGdRVmNnNWdZenBVblJkUWpUdzNGdWxJQ2ZkaHh3cE9kNDc4QVlGNVVWUmVBTzVubDFuZklZX0Zjbk9zdWxDSVhVdXlfS3dhZFRabEJXOXpGMWdSSm5PZWIwbGJ5QkdTWlNUYWlzVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWg0YzNHVHNMT2VkVnlfN0JfZnp1eVVBQVppVlM4WnhjbG4wVnJGb3RoeTBBUlJnczZqaEdydDBFdGdRVmNnNWdZenBVblJkUWpUdzNGdWxJQ2ZkaHh3cE9kNDc4QVlGNVVWUmVBTzVubDFuZklZX0Zjbk9zdWxDSVhVdXlfS3dhZFRabEJXOXpGMWdSSm5PZWIwbGJ5QkdTWlNUYWlzVQ?oc=",
-  "date": "2026-11-12T15:10:00.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "d8e78c6ae8f9eaec",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "טראמפ מוותר על הסכם עם איראן, והנפט חוזר לטפס - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUa2VvUUJjYmsyc2EzUHI4U1lMb1hTSFNCVDBISTlVdTYyaU5DeDl1eDBIb2ttMkxDOFhxQTh2ZnBQa3QycVdlUWdBLWVJcmtuMW1ZRXpFLVlCZkdSWDZ3ZVVoeE5GQXNwOFBUS1VKVE8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBUa2VvUUJjYmsyc2EzUHI4U1lMb1hTSFNCVDBISTlVdTYyaU5DeDl1eDBIb2ttMkxDOFhxQTh2ZnBQa3QycVdlUWdBLWVJcmtuMW1ZRXpFLVlCZkdSWDZ3ZVVoeE5GQXNwOFBUS1VKVE8?oc=5\" target=\"_blank\">טראמפ מוותר על הסכם עם איראן, והנפט חוזר לטפס</a>&nbsp;&",
-  "date": "2026-11-12T15:10:00.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "470290cb54b478e2",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - REGIONAL HEALTH PROPERTIES, INC (0001004724) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1004724/000119312526457289/0001193125-26-457289-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001193125-26-457289 <b>Size:</b> 185 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
-  "date": "2026-11-12T15:09:01.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "e51fd0f364e87a3b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Who is Colette Kress, Nvidia’s new interim CEO? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOam1Fa2FEMkp1LUdjVWdIdk9NelMwNTViblc0MDBySUZEUEhvU0I4SjNudkJCdHJBUjJReWxfU0ozZ0NBeWZ5ZFZDZWZJXzNraGtSeVQ4aHhrck9VV3JXV2s3NlVpT0llMUtUZXl4TlBwOFI4LVliRjZsX09XVXlCc0lxUlBkZGk4T2dlZHZJbzhMeHlVaDR2eGdqTHF4c2RyUW5zZHhndw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOam1Fa2FEMkp1LUdjVWdIdk9NelMwNTViblc0MDBySUZEUEhvU0I4SjNudkJCdHJBUjJReWxfU0ozZ0NBeWZ5ZFZDZWZJXzNraGtSeVQ4aHhrck9VV3JXV2s3NlVpT0llMUtUZXl4TlBwOFI4LVliRjZsX09XVXlCc0lxUlBkZGk4T2dlZHZJbzhMeHlVaDR2eGdqTHF4c2RyUW5zZHhndw?oc=",
-  "date": "2026-11-12T15:08:56.000Z",
-  "fetched": "2026-11-12T16:03:31.740Z",
-  "fromCloud": "2026-11-12T1603.json"
- },
- {
-  "id": "c030f954afd47633",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "50 שנה לתקווה חדשה: דיסני מעבירה את מלחמת הכוכבים למסכי כיפה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xcVRLb05STVN0dHJQU016X0VzTmI3UHJ5c3lob3E2SkE0d2wxQVlzSG1ZcG9NZTl1OVV0eEpEaTBkQWJmVWF5eFpsYXNWcFVZdnpmbGN6eXNYaVhCcGd6dXRQNEZ2OTlnV2xybzhJeFY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4xcVRLb05STVN0dHJQU016X0VzTmI3UHJ5c3lob3E2SkE0d2wxQVlzSG1ZcG9NZTl1OVV0eEpEaTBkQWJmVWF5eFpsYXNWcFVZdnpmbGN6eXNYaVhCcGd6dXRQNEZ2OTlnV2xybzhJeFY?oc=5\" target=\"_blank\">50 שנה לתקווה חדשה: דיסני מעבירה את מלחמת הכוכבים למסכי ",
-  "date": "2026-11-12T15:08:00.000Z",
-  "fetched": "2026-11-12T16:33:15.576Z",
-  "fromCloud": "2026-11-12T1633.json"
- },
- {
-  "id": "b058f58967746979",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Bitwise Avalanche ETF (0002086017) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2086017/000121390026118592/0001213900-26-118592-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-12 <b>AccNo:</b> 0001213900-26-118592 <b>Size:</b> 462 KB <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-12T15:06:43.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "a5f2b600d7fe1a00",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "\"מתחילה את היום עם ישראל\": הכירו את מנכ\"לית אנבידיה הזמנית",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001563217#utm_source=RSS",
-  "summary": "סמנכ\"לית הכספים הוותיקה של אנבידיה קולט קרס מונתה היום למנכ\"לית הזמנית אחרי התפטרות ג'נסן הואנג &#8226; היא עובדת באנבידיה כבר 13 שנים ועם הון שמוערך בכ-1.2 מיליארד דולר היא אחת מסמנכ\"ליות הכספים המתוגמלות ביותר בעמק הסיליקון &#8226; בראיון שנתנה לפני שלוש שנים לגלובס, אמרה קולט ",
-  "date": "2026-11-12T15:06:00.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
- },
- {
-  "id": "25ef7f8dc1ef779b",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "הזוכים בהגרלות באופקים הרוויחו 800 אלף שקל כבר ברגע החתימה - נדל\"ן - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0dZNHo4V3BzVnp3Rk00TGVLc1k3UVZydXpWc3R4dV8yTWJxeDROczVwaDBLZ0NiRTJ5R2hGTEVLREhlYldNQTF6bkxoUHNSbnZ1b3NZUTBIa0sydnFNVnFUUUVRd0RpSk1LY2EwanpOeWdzRzFzSHUxem5BTFZDZEFHcEh0eGhzbmpJVUZpZGQ3VC1NeXNmVkZzNTFsNFFIV2trLTh1RE5KQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0dZNHo4V3BzVnp3Rk00TGVLc1k3UVZydXpWc3R4dV8yTWJxeDROczVwaDBLZ0NiRTJ5R2hGTEVLREhlYldNQTF6bkxoUHNSbnZ1b3NZUTBIa0sydnFNVnFUUUVRd0RpSk1LY2EwanpOeWdzRzFzSHUxem5BTFZDZEFHcEh0eGhzbmpJVUZpZGQ3VC1NeXNmVkZzNTFsNFFIV2trLTh1RE5KQQ",
-  "date": "2026-11-12T15:05:00.000Z",
-  "fetched": "2026-11-12T15:33:14.736Z",
-  "fromCloud": "2026-11-12T1533.json"
  }
 ]
