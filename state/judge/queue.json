@@ -1,5 +1,49 @@
 [
  {
+  "id": "4fab702ff1a67629",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "הפיצה המוצלחת מלוינסקי באה למלא את החלל של רחוב שינקין",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563202#utm_source=RSS",
+  "summary": "הביסטרו \"לילה שינקין\" מחדיר רוח חדשה לרחוב האייקוני, עם אוכל טוב ולא מתחכם, שכיף לחזור אליו ומחירים שמאפשרים ביקורים חוזרים",
+  "date": "2026-11-14T09:30:00.000Z",
+  "fetched": "2026-11-14T09:33:10.934Z",
+  "fromCloud": "2026-11-14T0933.json"
+ },
+ {
+  "id": "cfed8065e1b9de3c",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "הזכיינות על אייס עוברת ידיים – הדרישה למספר הסניפים צומצמה - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTeXQySnpPaVNwalRQWl9VMkVjSDhCdnF4N00tcVVISmZ3bm1WNDZFYWlLWkdoN0JhRzNWeFl3SE01ckp6Z0F2Mm8wajFEcTk5eDhYRDlFRnRtYVpnc05DZDFrakpXUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTeXQySnpPaVNwalRQWl9VMkVjSDhCdnF4N00tcVVISmZ3bm1WNDZFYWlLWkdoN0JhRzNWeFl3SE01ckp6Z0F2Mm8wajFEcTk5eDhYRDlFRnRtYVpnc05DZDFrakpXUQ?oc=5\" target=\"_blank\">הזכיינות על אייס עוברת ידיים – הדרישה למספר הסניפים צומצמה</a>&nbsp;&",
+  "date": "2026-11-14T09:27:00.000Z",
+  "fetched": "2026-11-14T09:33:10.934Z",
+  "fromCloud": "2026-11-14T0933.json"
+ },
+ {
+  "id": "797bcfc4347a8435",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Natera CFO Defends CEO Switch, Calls $6 Billion Revenue Target a “Way Station” - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFRFRXlGR05Ma0hRQU9kbXE3QTd1QUlNdXhIbElJcXVtQzk0MHNfcDFRRkdFQVJYVm9IZ2Z3T2M4ZkthelZEOHdCVTAwNFEya2V3VnM0M2RKWEc4UDRIUFNPOTZ6VmUxVi1Pd1FHWnR5VWtXdU1OSkM3S3pBaGdibHhaRzNpMXVsM2V6d1FpcnN1UGhH?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFRFRXlGR05Ma0hRQU9kbXE3QTd1QUlNdXhIbElJcXVtQzk0MHNfcDFRRkdFQVJYVm9IZ2Z3T2M4ZkthelZEOHdCVTAwNFEya2V3VnM0M2RKWEc4UDRIUFNPOTZ6VmUxVi1Pd1FHWnR5VWtXdU1OSkM3S3pBaGdibHhaRzNpMXVsM2V6d1FpcnN1UGhH?oc=5\" target=\"_blank\">Natera ",
+  "date": "2026-11-14T09:12:05.000Z",
+  "fetched": "2026-11-14T09:33:10.934Z",
+  "fromCloud": "2026-11-14T0933.json"
+ },
+ {
+  "id": "f44a769410605abb",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "US flights resume after \"telecommunications outage\" causes nationwide ground stop, new tech rollout blamed",
+  "link": "https://www.datacenterdynamics.com/en/news/us-flights-resume-after-telecommunications-outage-causes-nationwide-ground-stop/",
+  "summary": "<p data-block-key=\"abyi6\">Routers \"overloaded with data\"</p>",
+  "date": "2026-11-14T09:07:00.000Z",
+  "fetched": "2026-11-14T09:33:10.934Z",
+  "fromCloud": "2026-11-14T0933.json"
+ },
+ {
   "id": "d062ddcd531b7c17",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -823,6 +867,17 @@
   "date": "2026-11-14T01:28:36.000Z",
   "fetched": "2026-11-14T02:03:11.058Z",
   "fromCloud": "2026-11-14T0203.json"
+ },
+ {
+  "id": "021f24e0e2f88524",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (רותם אנרגיה יהש) 1147750 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkppcmY2RVJ6VFJJOFZIYjJYSThLdk1JWUlpSnk4eDU1WEJZN1hibktLMGdVaWswMGhHSlU3d3RQNUhWMTY0U3U2bTh4RVc1bWdQY0l3SVNvSTREMFdDVHNGVHpyTmlhNHc2TkRMVHFmS2VVVEV4UjQ0OGYyeFdkbVZ4MnNGMTZOQU4zWlFGS3NSNHM0eTNJVVB2aENKVzk1by0tbk1iLXM2QXFVbEU5OEFsSFBzTnM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkppcmY2RVJ6VFJJOFZIYjJYSThLdk1JWUlpSnk4eDU1WEJZN1hibktLMGdVaWswMGhHSlU3d3RQNUhWMTY0U3U2bTh4RVc1bWdQY0l3SVNvSTREMFdDVHNGVHpyTmlhNHc2TkRMVHFmS2VVVEV4UjQ0OGYyeFdkbVZ4MnNGMTZOQU4zWlFGS3NSNHM0eTNJVVB2aENKVzk1by0tbk1iLXM2QX",
+  "date": "2026-11-14T01:27:59.000Z",
+  "fetched": "2026-11-14T09:33:10.934Z",
+  "fromCloud": "2026-11-14T0933.json"
  },
  {
   "id": "435a4fe79fe92d0a",
@@ -6015,71 +6070,5 @@
   "date": "2026-11-13T09:35:06.000Z",
   "fetched": "2026-11-13T10:03:12.814Z",
   "fromCloud": "2026-11-13T1003.json"
- },
- {
-  "id": "64eed75b6b0666ba",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Avanade to expand AI and automation capabilities with Robiquity acquisition - IT Pro",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGM5QlpVWHhFS2VFY1RQUGRLamx5THVwa1pwN2gtQXV0NWtwekVZbGx3OXZRaWgzR3VYVEVCNTRYRVZNTmV6VXlQc3l1YUxWaHNKTU52U2ZVRWt5dEtPVTZHbnpCTnhBR0czb01JSXlDQkMwZVo5enVnTHJTRTdKeTdvNW50Zm1EUllzN2xyc1dnN3ZsQWtGalVTLTJ3b1pSUDFlYXVJbzhSZVg3QzF1bXZYVVl3bUFwbVE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGM5QlpVWHhFS2VFY1RQUGRLamx5THVwa1pwN2gtQXV0NWtwekVZbGx3OXZRaWgzR3VYVEVCNTRYRVZNTmV6VXlQc3l1YUxWaHNKTU52U2ZVRWt5dEtPVTZHbnpCTnhBR0czb01JSXlDQkMwZVo5enVnTHJTRTdKeTdvNW50Zm1EUllzN2xyc1dnN3ZsQWtGalVTLTJ3b1pSUDFlYXVJbzhSZV",
-  "date": "2026-11-13T09:30:00.000Z",
-  "fetched": "2026-11-13T10:03:12.814Z",
-  "fromCloud": "2026-11-13T1003.json"
- },
- {
-  "id": "4c9a9b4ca38e5ab7",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "מתקדמות: המיזוג בין SpaceX וטסלה עשוי להתרחש בדצמבר - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPQkl1aVlwbUFKTE82ZTB2bHFCRkJhcjFtRkFlUHpqc1FyM3o4VUlFQVVLNWlXemRUclFnZkZqTXZoMUVsVEJCM2ppbTA0dUlvZUMtLVNheVhrc1psSjUxSzJFMA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPQkl1aVlwbUFKTE82ZTB2bHFCRkJhcjFtRkFlUHpqc1FyM3o4VUlFQVVLNWlXemRUclFnZkZqTXZoMUVsVEJCM2ppbTA0dUlvZUMtLVNheVhrc1psSjUxSzJFMA?oc=5\" target=\"_blank\">מתקדמות: המיזוג בין SpaceX וטסלה עשוי להתרחש בדצמבר</a>&nbsp;&nbsp;<font ",
-  "date": "2026-11-13T09:28:00.000Z",
-  "fetched": "2026-11-13T09:33:11.757Z",
-  "fromCloud": "2026-11-13T0933.json"
- },
- {
-  "id": "3223d1b0867c7fc2",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "פולין הגיעה ל-700 טון זהב, לישראל אין אפילו גרם: כך נראים מלאי החירום של המדינות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zT25GNkk1U05QTXZyUjJBRTFSNHJlZm9sNnZEa2V4bFg3dUszc1B2OHdfM3phZlJLdERDbU9HZWJ2eFFyc0l3azZmREtJRFVBS3BMVks4S0ZSQUV6RTU2Zzk2MWo0RUNG?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zT25GNkk1U05QTXZyUjJBRTFSNHJlZm9sNnZEa2V4bFg3dUszc1B2OHdfM3phZlJLdERDbU9HZWJ2eFFyc0l3azZmREtJRFVBS3BMVks4S0ZSQUV6RTU2Zzk2MWo0RUNG?oc=5\" target=\"_blank\">פולין הגיעה ל-700 טון זהב, לישראל אין אפילו גרם: כך נראים מלאי החיר",
-  "date": "2026-11-13T09:27:00.000Z",
-  "fetched": "2026-11-13T09:33:11.757Z",
-  "fromCloud": "2026-11-13T0933.json"
- },
- {
-  "id": "e4b47e3b9b3e94f4",
-  "source": "SecurityWeek",
-  "group": "industry",
-  "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-  "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-  "summary": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek .",
-  "date": "2026-11-13T09:21:01.000Z",
-  "fetched": "2026-11-13T09:33:11.757Z",
-  "fromCloud": "2026-11-13T0933.json"
- },
- {
-  "id": "4a57cebd95f03efd",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "ניב מג'ר - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aSkZ4VWhRWW0zWFAybmhqNDN2cHlMRHdhTVNFdWZSVVhoOWxJMkxaX1dVOWlkZGoyVEpNZWhWWUFkWjlJMXFqcC1ncGFuX1JDNzZkZUo3WjVNOHdJZFFacDIzUlVOQ2l1MWZWMnM0QmFEczFOR09SdElvaw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5aSkZ4VWhRWW0zWFAybmhqNDN2cHlMRHdhTVNFdWZSVVhoOWxJMkxaX1dVOWlkZGoyVEpNZWhWWUFkWjlJMXFqcC1ncGFuX1JDNzZkZUo3WjVNOHdJZFFacDIzUlVOQ2l1MWZWMnM0QmFEczFOR09SdElvaw?oc=5\" target=\"_blank\">ניב מג'ר</a>&nbsp;&nbsp;<font color=\"#6f6",
-  "date": "2026-11-13T09:06:21.000Z",
-  "fetched": "2026-11-13T12:03:11.505Z",
-  "fromCloud": "2026-11-13T1203.json"
- },
- {
-  "id": "d25249c5dde1f614",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Global oil markets swing to surplus as Gulf shipments rebound",
-  "link": "https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1",
-  "summary": "IEA analysts warn it will take months to rebuild stockpiles depleted by conflict",
-  "date": "2026-11-13T09:04:06.000Z",
-  "fetched": "2026-11-13T09:33:11.757Z",
-  "fromCloud": "2026-11-13T0933.json"
  }
 ]
