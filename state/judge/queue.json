@@ -1,5 +1,16 @@
 [
  {
+  "id": "0d014eb3ef8b0090",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "JD eyes Europe with Ceconomy acquisition - China Daily",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zcUdIQWNxMHRtT0VIalFydklhRkM0RTRzcVd2YUtqVW9FX3R1cXFJVWhOR2FOMkh4MWg3RXhLTDlwQWJuRWlHNklzNldtQzhTYjdoSjFGY1pPNWxacDA1V1hWUTdJT1ZkSnVzNUQwa0lKbi1RbTBlTzFaQnlLZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0zcUdIQWNxMHRtT0VIalFydklhRkM0RTRzcVd2YUtqVW9FX3R1cXFJVWhOR2FOMkh4MWg3RXhLTDlwQWJuRWlHNklzNldtQzhTYjdoSjFGY1pPNWxacDA1V1hWUTdJT1ZkSnVzNUQwa0lKbi1RbTBlTzFaQnlLZw?oc=5\" target=\"_blank\">JD eyes Europe with Ceconomy acquisit",
+  "date": "2026-11-14T00:38:59.000Z",
+  "fetched": "2026-11-14T00:51:00.216Z",
+  "fromCloud": "2026-11-14T0051.json"
+ },
+ {
   "id": "2ef491bb73d29849",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -33,6 +44,17 @@
   "fromCloud": "2026-11-14T0033.json"
  },
  {
+  "id": "b0b2cb1c5096c81f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Peak 10 Energy Secures $500MM Facility to Fuel Oil and Gas Acquisitions - Hart Energy",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXNTbEpCcU9ma0g4VjJRTXpOOEdSZS1EekdMRVFUekFuSGtqb3laT2l0eGVXb2JTMkFjSWpQUkRTMENnODRZclhNSS12WGFLOWYyN1VqU0dvVy1VY0t2U3gxWTlGazc1Q2E4N1J4WC1xamtvY1lJenN2M3M1WmVYVENicERJd2dIdllvR2NId01SLXM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXNTbEpCcU9ma0g4VjJRTXpOOEdSZS1EekdMRVFUekFuSGtqb3laT2l0eGVXb2JTMkFjSWpQUkRTMENnODRZclhNSS12WGFLOWYyN1VqU0dvVy1VY0t2U3gxWTlGazc1Q2E4N1J4WC1xamtvY1lJenN2M3M1WmVYVENicERJd2dIdllvR2NId01SLXM?oc=5\" target=\"_blank\">Peak 10 ",
+  "date": "2026-11-13T23:54:41.000Z",
+  "fetched": "2026-11-14T00:51:00.216Z",
+  "fromCloud": "2026-11-14T0051.json"
+ },
+ {
   "id": "71df0d0e0426b9d6",
   "source": "Financial Times",
   "group": "global-press",
@@ -42,6 +64,17 @@
   "date": "2026-11-13T23:43:09.000Z",
   "fetched": "2026-11-14T00:03:12.797Z",
   "fromCloud": "2026-11-14T0003.json"
+ },
+ {
+  "id": "9a9ec022ad1a0e0b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Represented GenNx360 Capital Partners in its acquisition of DRT Aerospace - Winston Taylor",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWFXNnpOclJ5dUJDWVBpRmFvdDU2TUxSLWY2a1BnWmV1RWJxNjlXSTQzMEpLbl9DQ2haTlNkTnpGRWZkY0Z2LXJxNFJUYk84VU9rRkhLYjZTNTlBT1YwRGZiVDBuOWFOTVBkX2RTZUJ0bGRUSjJuRkhqWEdTMjJoRVNWMXhJU3hZR1NhOUxkZ240dUhyeUJzdG1XOUtKemlvRUZDenBMblJTTEYzbE1YeGJ3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWFXNnpOclJ5dUJDWVBpRmFvdDU2TUxSLWY2a1BnWmV1RWJxNjlXSTQzMEpLbl9DQ2haTlNkTnpGRWZkY0Z2LXJxNFJUYk84VU9rRkhLYjZTNTlBT1YwRGZiVDBuOWFOTVBkX2RTZUJ0bGRUSjJuRkhqWEdTMjJoRVNWMXhJU3hZR1NhOUxkZ240dUhyeUJzdG1XOUtKemlvRUZDenBMblJTTE",
+  "date": "2026-11-13T23:41:55.000Z",
+  "fetched": "2026-11-14T00:51:00.216Z",
+  "fromCloud": "2026-11-14T0051.json"
  },
  {
   "id": "9896210f0dd0968d",
@@ -6752,27 +6785,5 @@
   "date": "2026-11-13T00:53:00.000Z",
   "fetched": "2026-11-13T01:33:11.610Z",
   "fromCloud": "2026-11-13T0133.json"
- },
- {
-  "id": "11fb6802cfe27653",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - SKYX Platforms Corp. (0001598981) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226051512/0001493152-26-051512-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001493152-26-051512 <b>Size:</b> 430 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-13T00:41:21.000Z",
-  "fetched": "2026-11-13T11:33:12.305Z",
-  "fromCloud": "2026-11-13T1133.json"
- },
- {
-  "id": "3fe15d7728ea2459",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "סמסונג במגעים לרכוש את מודין, והקירור לחוות השרתים הופך לעסק - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRXVmdWJmVmJqeWFzTXgxTDVxdWhHeUx6UGhMTkl5NDBhYnpzWXhrMG41VzhuaVUzX2hYRFZWVDZOMndlZGdIQnBHNFdzUVRnRXVMZFB1REYzWTJDV1BxNng0b2hTTk43bC1OdTl0OGk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRXVmdWJmVmJqeWFzTXgxTDVxdWhHeUx6UGhMTkl5NDBhYnpzWXhrMG41VzhuaVUzX2hYRFZWVDZOMndlZGdIQnBHNFdzUVRnRXVMZFB1REYzWTJDV1BxNng0b2hTTk43bC1OdTl0OGk?oc=5\" target=\"_blank\">סמסונג במגעים לרכוש את מודין, והקירור לחוות השרתים הופך ",
-  "date": "2026-11-13T00:34:00.000Z",
-  "fetched": "2026-11-13T03:33:13.999Z",
-  "fromCloud": "2026-11-13T0333.json"
  }
 ]
