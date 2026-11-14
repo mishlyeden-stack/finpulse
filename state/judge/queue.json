@@ -1,5 +1,27 @@
 [
  {
+  "id": "403c334fcd1671b3",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "במסגרת החיפוש אחר מנכ\"ל חדש: אנבידיה פנתה למנכ\"ל Arm רנה האס - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRC1EX3Rtb2VIQndGUWR1aDRNdmM1eGM3RThEMDBLMFM3OERBQXlNdXlGTzdUd0hGSHY0TENZekFhWi1DUlV4c2NFV0tXT3lkMmhZNlpvRkZZWlBnYmJzQ2Y4bDgxZWZteGVzUjk4MzNHUHh0eTh3MHNHT2MtMkVQMU5veUp2eUFWUHZnR3JxSF9mN0RjSHZPUmFuOUlscU1WT3h4X2FIUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRC1EX3Rtb2VIQndGUWR1aDRNdmM1eGM3RThEMDBLMFM3OERBQXlNdXlGTzdUd0hGSHY0TENZekFhWi1DUlV4c2NFV0tXT3lkMmhZNlpvRkZZWlBnYmJzQ2Y4bDgxZWZteGVzUjk4MzNHUHh0eTh3MHNHT2MtMkVQMU5veUp2eUFWUHZnR3JxSF9mN0RjSHZPUmFuOUlscU1WT3h4X2FIUQ?oc=",
+  "date": "2026-11-14T14:27:00.000Z",
+  "fetched": "2026-11-14T14:33:12.755Z",
+  "fromCloud": "2026-11-14T1433.json"
+ },
+ {
+  "id": "05f60319448fe1c3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Chicago mayor CFO's resignation ignites calls for probe amid key budget talks - FOX 32 Chicago",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpR0t5QVFvYTB4TGhvd1Y0NHFFYUdMUXNWM2trMzBscGY1Q04tRkx3ckFZWTdTSlJYVk9CVGVIbVVnQnBNa3BQc09fbnNhZkYtZlpzZzM1YWp3YWNCd1p0WnFnUUtDQdIBa0FVX3lxTE9BMTljdElPNllZVEEyQmFMLVRGeEFERk1KZ29jenFFR2JUTkFjMlVWR2ZzUmRyY1hyWGlIQWxIMXl4ejNWY3lYaGdYVDl4cGFGa2sxUmlKam5KTXhJWHROMVNxU2RoQUQ5TU9Z?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpR0t5QVFvYTB4TGhvd1Y0NHFFYUdMUXNWM2trMzBscGY1Q04tRkx3ckFZWTdTSlJYVk9CVGVIbVVnQnBNa3BQc09fbnNhZkYtZlpzZzM1YWp3YWNCd1p0WnFnUUtDQdIBa0FVX3lxTE9BMTljdElPNllZVEEyQmFMLVRGeEFERk1KZ29jenFFR2JUTkFjMlVWR2ZzUmRyY1hyWGlIQWxIMXl4ej",
+  "date": "2026-11-14T14:19:22.000Z",
+  "fetched": "2026-11-14T14:33:12.755Z",
+  "fromCloud": "2026-11-14T1433.json"
+ },
+ {
   "id": "9e0fad035b916802",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -163,6 +185,17 @@
   "date": "2026-11-14T13:14:00.000Z",
   "fetched": "2026-11-14T13:33:12.124Z",
   "fromCloud": "2026-11-14T1333.json"
+ },
+ {
+  "id": "118ac1628853f890",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "קבוצת גנון - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG9VdnMwT2JWQkdSZS10V0Rod290TXd4MHY0Rm1CNmJ4NWozTUVkZ0x1cXNsMENSSWR4MWFPV1AtZHlQOGJzSDlobmRLWVVpQVYwR0FXUUVUckpBZi1RLU1xSUFfMkg0N3BWaElZRWtTakxqLW9MNGljV0YtTHktYmRyUWhmUFdoYTZyMlhqal9odw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG9VdnMwT2JWQkdSZS10V0Rod290TXd4MHY0Rm1CNmJ4NWozTUVkZ0x1cXNsMENSSWR4MWFPV1AtZHlQOGJzSDlobmRLWVVpQVYwR0FXUUVUckpBZi1RLU1xSUFfMkg0N3BWaElZRWtTakxqLW9MNGljV0YtTHktYmRyUWhmUFdoYTZyMlhqal9odw?oc=5\" target=\"_blank\">קבוצת גנו",
+  "date": "2026-11-14T13:04:18.000Z",
+  "fetched": "2026-11-14T14:33:12.755Z",
+  "fromCloud": "2026-11-14T1433.json"
  },
  {
   "id": "dd9806839fea7950",
@@ -4530,93 +4563,5 @@
   "date": "2026-11-13T14:34:38.000Z",
   "fetched": "2026-11-13T15:03:14.373Z",
   "fromCloud": "2026-11-13T1503.json"
- },
- {
-  "id": "9680f5effa5755bd",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Greenland Energy Agrees Recommended All-Share Acquisition of 80 Mile - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmdhM1NxQjZSOGFnVzFJU0F2cnJheGZRN3dMV2NYSHM3Q1ZLMmswd1hsbGlwS3B0N3pvRVpiTmJQYWNkbVZzOXd1WUtrc1h0eVVQR0Y4WTNrMHJjNXEyeTFtdEVEN20taFBLSXBXMmd5STExWGxDM0xRRzk1Yy11Q1hTamdOT0RIZ09pVzJrajhuY3VpYnh0ZkhzU2xQZ0l3Y3lhR1NiYV94aHM3NElINHk5RUd3M1RqdW9oWnRXd2R1NEo0cnFKT2Vn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmdhM1NxQjZSOGFnVzFJU0F2cnJheGZRN3dMV2NYSHM3Q1ZLMmswd1hsbGlwS3B0N3pvRVpiTmJQYWNkbVZzOXd1WUtrc1h0eVVQR0Y4WTNrMHJjNXEyeTFtdEVEN20taFBLSXBXMmd5STExWGxDM0xRRzk1Yy11Q1hTamdOT0RIZ09pVzJrajhuY3VpYnh0ZkhzU2xQZ0l3Y3lhR1NiYV94aH",
-  "date": "2026-11-13T14:33:01.000Z",
-  "fetched": "2026-11-13T15:33:13.043Z",
-  "fromCloud": "2026-11-13T1533.json"
- },
- {
-  "id": "c042335fd46aeacc",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "מניית (אינטל) null - TheMarker Finance",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEplOGVNLXktdnd2ZGlIMUtDWnZpdDBZZW1ZMFY4ODBkcC0wYjhpVzllSGcxcGl3UU9mZDUyeGZTVVVjMEdWN2owTXpuUVEyNFVfeGJkUFFfNm43SUc5OFAzTHlYLVl5V1pUbGVtREtWVG1lY1FHYldBRFZxUlFQQXd3RWsyMTNyOUN0R0lvX3NHV2h2UmhKNWJlbHNUOU1zS2l2MkRrSGticWpJQUN4R0Ftcml2MzQ3S3BN?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEplOGVNLXktdnd2ZGlIMUtDWnZpdDBZZW1ZMFY4ODBkcC0wYjhpVzllSGcxcGl3UU9mZDUyeGZTVVVjMEdWN2owTXpuUVEyNFVfeGJkUFFfNm43SUc5OFAzTHlYLVl5V1pUbGVtREtWVG1lY1FHYldBRFZxUlFQQXd3RWsyMTNyOUN0R0lvX3NHV2h2UmhKNWJlbHNUOU1zS2l2MkRrSGticW",
-  "date": "2026-11-13T14:32:16.000Z",
-  "fetched": "2026-11-14T05:03:11.332Z",
-  "fromCloud": "2026-11-14T0503.json"
- },
- {
-  "id": "7f6e700121570ce2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Commvault Names Danielle Abrahamsen Interim CFO, Stan Zlotsky SVP of Finance as Gary Merrill Departs - citybiz",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOG5lX095NElacTJCZUl0Z0xsc2xHVHZ0cEtRck1mZE5wTDBCaGdoeE1FdGxpamY1M2JOcTVHa3owZkE2ZmstN2g4RHlvbC00NmdYS0pWbDRRcm1nTWI1MzgtWHFfYk13Y2h3amRDXzNHNVlqeG16MVo0V01VWndmRWVQNElhZTlFTVJYUG5nOFJYcnhiRU0waWlqS3IwRFJNckgza3lxdlBkcmVHMGFYT09jd254VFB5bEk3OVhNbXRhNlpwcjZJRlZHdDgtTV9vOGotVA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOG5lX095NElacTJCZUl0Z0xsc2xHVHZ0cEtRck1mZE5wTDBCaGdoeE1FdGxpamY1M2JOcTVHa3owZkE2ZmstN2g4RHlvbC00NmdYS0pWbDRRcm1nTWI1MzgtWHFfYk13Y2h3amRDXzNHNVlqeG16MVo0V01VWndmRWVQNElhZTlFTVJYUG5nOFJYcnhiRU0waWlqS3IwRFJNckgza3lxdlBkcm",
-  "date": "2026-11-13T14:32:06.000Z",
-  "fetched": "2026-11-13T15:03:14.373Z",
-  "fromCloud": "2026-11-13T1503.json"
- },
- {
-  "id": "22c0f0e0c930cb70",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "IonQ Names Gary Merrill CFO and Thomas Austin Chief Accounting Officer as Inder Singh Departs - citybiz",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWxiTDlLOWJwMkJsZFdldnd3RzVhT0NfbmxCSlFkWVdEVGd0VlFKUk45ZkU5VzE5NEc1NTBRbm1zRS1NTERmT2ZJWnh6VUFyVWRrMDQ3cEVDLWx2bmdOTWk0cVNkN2haWWZXSnFzMXh6ZW96elJJdmh6aTdtUENyd0h6WXc2YTJrR1JzS1I3Vk0yc0F5ZERzWV9zdGV0WUtlSng0XzhOd0lILXFSY1Ytb1RxSC1YbkxTc3BsbWQ0eUdDWHBERzIwOHU3R3k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWxiTDlLOWJwMkJsZFdldnd3RzVhT0NfbmxCSlFkWVdEVGd0VlFKUk45ZkU5VzE5NEc1NTBRbm1zRS1NTERmT2ZJWnh6VUFyVWRrMDQ3cEVDLWx2bmdOTWk0cVNkN2haWWZXSnFzMXh6ZW96elJJdmh6aTdtUENyd0h6WXc2YTJrR1JzS1I3Vk0yc0F5ZERzWV9zdGV0WUtlSng0XzhOd0lILX",
-  "date": "2026-11-13T14:32:06.000Z",
-  "fetched": "2026-11-13T20:33:12.173Z",
-  "fromCloud": "2026-11-13T2033.json"
- },
- {
-  "id": "772bcc3fac992d6b",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "מניית (אלביט מערכות) 1081124 - TheMarker Finance",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnB1MzFSSnF1LTNnNkpQblJ0STNxZDRGRS16eElRTi16Z0hPX1IwYjlTMUpxclh5TVJNQ3pnZWhSVDE2cDdnM1NKTk8yai1FLXFBOHRxRjJLbTlHZHBLY2FyWFVUQW5nWVhmRVpCY0prdHR2RTNQaHQxMzFkM0tLZzdfQnF1ZnRZUGgyRVJvNWxJZlhWc0dPU0Y1SmNNVjB0VHM5TXJXc2tDdW00YVl4RzZFSHc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnB1MzFSSnF1LTNnNkpQblJ0STNxZDRGRS16eElRTi16Z0hPX1IwYjlTMUpxclh5TVJNQ3pnZWhSVDE2cDdnM1NKTk8yai1FLXFBOHRxRjJLbTlHZHBLY2FyWFVUQW5nWVhmRVpCY0prdHR2RTNQaHQxMzFkM0tLZzdfQnF1ZnRZUGgyRVJvNWxJZlhWc0dPU0Y1SmNNVjB0VHM5TXJXc2tDdW",
-  "date": "2026-11-13T14:30:08.000Z",
-  "fetched": "2026-11-13T20:33:12.173Z",
-  "fromCloud": "2026-11-13T2033.json"
- },
- {
-  "id": "4a2703affdcd5f69",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Mayor Brandon Johnson’s CFO resigns, citing refusal to ‘compromise my integrity’ - Chicago Tribune",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm8wcDd1bGtnTjcyYlVQOVNRUUdwRnhxU3BZdnhGaVFrR2VWM1NCS1ZTeDVnd0I1ZzE2NW5hOUpieUN6WW5Ja0xMVllpdVdJdWZXZTZWYVdmZVI4RkJseEVOVEhXV1A1TFNYdjFrZTVwSFp6MW5nNk01V1c2c0pndEtn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxONm8wcDd1bGtnTjcyYlVQOVNRUUdwRnhxU3BZdnhGaVFrR2VWM1NCS1ZTeDVnd0I1ZzE2NW5hOUpieUN6WW5Ja0xMVllpdVdJdWZXZTZWYVdmZVI4RkJseEVOVEhXV1A1TFNYdjFrZTVwSFp6MW5nNk01V1c2c0pndEtn?oc=5\" target=\"_blank\">Mayor Brandon Johnson’s CFO res",
-  "date": "2026-11-13T14:30:07.000Z",
-  "fetched": "2026-11-13T14:33:14.324Z",
-  "fromCloud": "2026-11-13T1433.json"
- },
- {
-  "id": "ee8fd4cb21e77e22",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Binah Capital Group, Inc. (0001953984) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1953984/000110465926126596/0001104659-26-126596-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001104659-26-126596 <b>Size:</b> 394 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-13T14:29:02.000Z",
-  "fetched": "2026-11-13T14:33:14.324Z",
-  "fromCloud": "2026-11-13T1433.json"
- },
- {
-  "id": "2bfb9e6ab8910d4d",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "GP-Act III Acquisition (GPAT): Sponsor non-redemption deals cover 93.69% of Class A shares - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFVsVGVlTDQzbTRHclNxcTh3clBsUkpBT250cktsWmZwaWlwM0ViUUZCczRhWldpVHVDZUpCeDdDYUJaXzdiQ0gwZU5ic1ZvUXRzRTBCLTRVd1ZPLTNDUlJOWUZmRXRsZmZxdzg3WHowSm5WbDEydnZTOERrWjIwaHE5R05JZlNJbE95VHhpc2Rkbkkta0tR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFVsVGVlTDQzbTRHclNxcTh3clBsUkpBT250cktsWmZwaWlwM0ViUUZCczRhWldpVHVDZUpCeDdDYUJaXzdiQ0gwZU5ic1ZvUXRzRTBCLTRVd1ZPLTNDUlJOWUZmRXRsZmZxdzg3WHowSm5WbDEydnZTOERrWjIwaHE5R05JZlNJbE95VHhpc2Rkbkkta0tR?oc=5\" target=\"_blank\">GP-",
-  "date": "2026-11-13T14:21:59.000Z",
-  "fetched": "2026-11-13T14:33:14.324Z",
-  "fromCloud": "2026-11-13T1433.json"
  }
 ]
