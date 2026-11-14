@@ -1,5 +1,38 @@
 [
  {
+  "id": "e4468d9828dc75e2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Box Inc. CFO Dylan Smith sells $710,942 in shares - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUl9yNTM0WjBSUTlWeFFIbW1FN3B6RENJTHhFd19PZDlhaFRrY1VlMm1uYXpIdUx3M3dTN2RDZThhRkV6RFJUUkc1SDIwZFN5VUlKT05zUDBSNGFBMHREb1hxa2RCd2Z4ME1YNWx6VTlibXFMUEZQV0t5dHZzV0c3WXhCNndUdzA4cWV6VmlMR19OUUtseDFnd2NraVRqdXg0UlNXdU1BRlVVWHFsdDNjbQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUl9yNTM0WjBSUTlWeFFIbW1FN3B6RENJTHhFd19PZDlhaFRrY1VlMm1uYXpIdUx3M3dTN2RDZThhRkV6RFJUUkc1SDIwZFN5VUlKT05zUDBSNGFBMHREb1hxa2RCd2Z4ME1YNWx6VTlibXFMUEZQV0t5dHZzV0c3WXhCNndUdzA4cWV6VmlMR19OUUtseDFnd2NraVRqdXg0UlNXdU1BRlVVWH",
+  "date": "2026-11-14T04:05:26.000Z",
+  "fetched": "2026-11-14T04:33:11.063Z",
+  "fromCloud": "2026-11-14T0433.json"
+ },
+ {
+  "id": "7d8cfb7b3c10a42d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Why 49ers' recent acquisition Keenan Allen fits Kyle Shanahan's offensive scheme - Yahoo Sports",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnhZT3Vic3FhVFg1eXRBeG4wSng5VktWaklDRi1sMU51XzFCN25EcGExdlF5Y0thVlJPZHV0RjZVYUU0eElwamdoZDJCSl9pMnZuczQzVlk0LVRoOEdwQzRDeERmUGJ2TEcyYmcyYkhnelhsSGdLY00xLXdDZjR1OVhVbVBUYlpZMkE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnhZT3Vic3FhVFg1eXRBeG4wSng5VktWaklDRi1sMU51XzFCN25EcGExdlF5Y0thVlJPZHV0RjZVYUU0eElwamdoZDJCSl9pMnZuczQzVlk0LVRoOEdwQzRDeERmUGJ2TEcyYmcyYkhnelhsSGdLY00xLXdDZjR1OVhVbVBUYlpZMkE?oc=5\" target=\"_blank\">Why 49ers' recent ac",
+  "date": "2026-11-14T03:58:00.000Z",
+  "fetched": "2026-11-14T04:33:11.063Z",
+  "fromCloud": "2026-11-14T0433.json"
+ },
+ {
+  "id": "eeedd3d1d5e97a10",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BYK Strengthens Its Portfolio of Measurement and Testing Instruments Through a Strategic Acquisition in the Autonomous Driving Market - AZoM",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jNndfS1prYnZqQ2VmcG54NGFrLWl6bGptWjF1QkpEWWdJUlEzWWw4NW9ISVRwZUZFbjVqMmRwQTJCejVUQmVfNjNoR0tEY1VzOWFCYUhR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jNndfS1prYnZqQ2VmcG54NGFrLWl6bGptWjF1QkpEWWdJUlEzWWw4NW9ISVRwZUZFbjVqMmRwQTJCejVUQmVfNjNoR0tEY1VzOWFCYUhR?oc=5\" target=\"_blank\">BYK Strengthens Its Portfolio of Measurement and Testing Instruments Through a Strategic Ac",
+  "date": "2026-11-14T03:53:00.000Z",
+  "fetched": "2026-11-14T04:33:11.063Z",
+  "fromCloud": "2026-11-14T0433.json"
+ },
+ {
   "id": "f86a7e28ccc81615",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -163,6 +196,17 @@
   "date": "2026-11-13T23:39:26.000Z",
   "fetched": "2026-11-14T00:03:12.797Z",
   "fromCloud": "2026-11-14T0003.json"
+ },
+ {
+  "id": "1cbb95ffd7b60ade",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (אפי קפיטל) 1181437 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjFSbW9DR2wySkNRTUdRXzZIZEpsbzUzampDT1NjbnR6TFUxWDk3VlItdE0tYmlnSE9ESXQyVER4UWpSc0laaWtyWkh4WmxUazFHT0FZUzNhUG9DOWwxUGJTYTFiQ3JhRlhjYlNkWXM5ZXROQTBRNHlKcE45UW9uZHA5bzYtNkJMd1JlMncyMWd1TjhYNFpiQzFwb24zTHQ4ZGJr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjFSbW9DR2wySkNRTUdRXzZIZEpsbzUzampDT1NjbnR6TFUxWDk3VlItdE0tYmlnSE9ESXQyVER4UWpSc0laaWtyWkh4WmxUazFHT0FZUzNhUG9DOWwxUGJTYTFiQ3JhRlhjYlNkWXM5ZXROQTBRNHlKcE45UW9uZHA5bzYtNkJMd1JlMncyMWd1TjhYNFpiQzFwb24zTHQ4ZGJr?oc=5\" tar",
+  "date": "2026-11-13T23:32:58.000Z",
+  "fetched": "2026-11-14T04:33:11.063Z",
+  "fromCloud": "2026-11-14T0433.json"
  },
  {
   "id": "a0e2e6fb1923abed",
@@ -6224,203 +6268,5 @@
   "date": "2026-11-13T04:35:00.000Z",
   "fetched": "2026-11-13T05:03:11.473Z",
   "fromCloud": "2026-11-13T0503.json"
- },
- {
-  "id": "8247d9deada93d05",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "למרות הכישלון המביך של זיני — אסור להדיח אותו מראשות השב\"כ - סופשבוע - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlpXVFFkcnQyMkY2anJVRXl6U2dIczlnXzVMVGVyakxSYWhjcnhCWXpTaVNJQW83LWVZaUxGUDdZZGdPdk9qV1VqV2x3UFB1VElHb1RnNWNYZmlqc0UtR3plREJaVjR0UFZIOGY5cV9DMFQ5MTdRQWhFRU9yMVFjcloxM2x0aE1Fak1qb1hjNTViYXJpLWJBOHQ4SExjWUthdkN2ZjhkQ09vODNVWGlv?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlpXVFFkcnQyMkY2anJVRXl6U2dIczlnXzVMVGVyakxSYWhjcnhCWXpTaVNJQW83LWVZaUxGUDdZZGdPdk9qV1VqV2x3UFB1VElHb1RnNWNYZmlqc0UtR3plREJaVjR0UFZIOGY5cV9DMFQ5MTdRQWhFRU9yMVFjcloxM2x0aE1Fak1qb1hjNTViYXJpLWJBOHQ4SExjWUthdkN2ZjhkQ09vOD",
-  "date": "2026-11-13T04:26:00.000Z",
-  "fetched": "2026-11-13T04:33:12.557Z",
-  "fromCloud": "2026-11-13T0433.json"
- },
- {
-  "id": "33de59a102122930",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "ת״א 35 - הודעות החברות - 12.11.2026 - פאנדר",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoVmpVb24wcWt2ZDYwanRMRUlwMXAzZHh6akdxcHRfRXFSR0kwWjFOOHB6Ym5scUdPWWFrVG9ncWZqdFNwajFLUWxRWXVyOW1V?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoVmpVb24wcWt2ZDYwanRMRUlwMXAzZHh6akdxcHRfRXFSR0kwWjFOOHB6Ym5scUdPWWFrVG9ncWZqdFNwajFLUWxRWXVyOW1V?oc=5\" target=\"_blank\">ת״א 35 - הודעות החברות - 12.11.2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">פאנדר</font>",
-  "date": "2026-11-13T04:25:12.000Z",
-  "fetched": "2026-11-13T06:03:12.469Z",
-  "fromCloud": "2026-11-13T0603.json"
- },
- {
-  "id": "15cfc05f56d22823",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "הצד שלו, הצד שלה והאמת: כשחסון וברקוביץ' מדברים, מי בודק את העובדות? - סופשבוע - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdE5ySFY2MkZFWWNtT2pvQjg4ODM4SXpOdVlIOTdnTmh2cnZKYnBnczgteExjLVRiZG5zWXN0MmN6YUdYZmNZUkVjS2IwTWxyUENuVmRTZFVSaTc3TkpDRW5zejJfdURfWU02bjUySG9JSGhJcGpGUzZ6Y010MXlSQTBsa1FfQTIzVGFXejI1VXFIZTM1cVZLbjBxalNKbnNycWluLXpaOGNkTDJ5MWQ0?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdE5ySFY2MkZFWWNtT2pvQjg4ODM4SXpOdVlIOTdnTmh2cnZKYnBnczgteExjLVRiZG5zWXN0MmN6YUdYZmNZUkVjS2IwTWxyUENuVmRTZFVSaTc3TkpDRW5zejJfdURfWU02bjUySG9JSGhJcGpGUzZ6Y010MXlSQTBsa1FfQTIzVGFXejI1VXFIZTM1cVZLbjBxalNKbnNycWluLXpaOGNkTD",
-  "date": "2026-11-13T04:25:00.000Z",
-  "fetched": "2026-11-13T04:33:12.557Z",
-  "fromCloud": "2026-11-13T0433.json"
- },
- {
-  "id": "7d18c0240b9e6f1c",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Chuck Schumer faces challenge for Senate leadership from rival Democrat",
-  "link": "https://www.ft.com/content/1f0996cf-1f84-42ca-a574-898f8578deb7?syn-25a6b1a6=1",
-  "summary": "Chris Van Hollen to run to be majority leader in upper house after sweeping party victory in midterm elections",
-  "date": "2026-11-13T04:24:51.000Z",
-  "fetched": "2026-11-13T05:03:11.473Z",
-  "fromCloud": "2026-11-13T0503.json"
- },
- {
-  "id": "239df103c1c33851",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"הלקוחות שלנו לא קיבלו משכנתא בבנק, זה לא אומר שהם גרועים\" - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeHAzNzM1U3ZxVkFmeV9qVDJxN1BfRlRFalJ5a2MzNk5MOVhVeng3ODZCdTJvZ0JWcGY1REZUSW1UQjZWSjMxeDU5M21nSmlXVjVWM0lBRWNXa1dYQjA2NUVaVktDOE9fLVBJazZId0ZQTmx0Vm9FUWF4SFdsRUlwNXlMMDQ1ZnJmbVdLcEVnZERaczVobTRTSzczdWtFMjhMRlJhRlVGenZCS09kR3gxTXZ3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeHAzNzM1U3ZxVkFmeV9qVDJxN1BfRlRFalJ5a2MzNk5MOVhVeng3ODZCdTJvZ0JWcGY1REZUSW1UQjZWSjMxeDU5M21nSmlXVjVWM0lBRWNXa1dYQjA2NUVaVktDOE9fLVBJazZId0ZQTmx0Vm9FUWF4SFdsRUlwNXlMMDQ1ZnJmbVdLcEVnZERaczVobTRTSzczdWtFMjhMRlJhRlVGenZCS0",
-  "date": "2026-11-13T04:23:00.000Z",
-  "fetched": "2026-11-13T04:33:12.557Z",
-  "fromCloud": "2026-11-13T0433.json"
- },
- {
-  "id": "4515da6657d19cf0",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"הוא היה סיפור הצלחה גדול. כל עשירי ישראל ישבו שם\": הצניחה של השף-כוכב - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWVET083NEh2YjA3NFpfU2xDTEhoRWVNRUkxa0FtVC1fdWd0eDI4ckJYdzUzeldsLVdvY1hpclY4R3JJS2p5NXFxQ1hJZkZyUnh1MVpuWTZPR0tkTWRHZzUwVDFCMXl0V0xwSlE5NGZoR21sQmw2Q2J0N3NONzFMMUZnVm1rUC00aFNjWFJOYkhBRndpZmkzMkFrOFpJaGJHWm1rX0NUU3psSWN1X0Q2LWxR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWVET083NEh2YjA3NFpfU2xDTEhoRWVNRUkxa0FtVC1fdWd0eDI4ckJYdzUzeldsLVdvY1hpclY4R3JJS2p5NXFxQ1hJZkZyUnh1MVpuWTZPR0tkTWRHZzUwVDFCMXl0V0xwSlE5NGZoR21sQmw2Q2J0N3NONzFMMUZnVm1rUC00aFNjWFJOYkhBRndpZmkzMkFrOFpJaGJHWm1rX0NUU3psSW",
-  "date": "2026-11-13T04:22:00.000Z",
-  "fetched": "2026-11-13T04:33:12.557Z",
-  "fromCloud": "2026-11-13T0433.json"
- },
- {
-  "id": "bec3580ae760f231",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"המסכה החדשה של שירות לקוחות גרוע\": ה-AI כאן, ואין עם מי לדבר - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0Z1bkpkTVRRUGRXSTBQSUE0MnpJT21JWFM5c1VwU1VBQVBNM1BlN29kMjg2WVRUOFRlMndEVEFDYWlvVVh2VWZsUUplYVZzNDVTdWx2ZUg1VU9PcWcxQ3FpNUNTZFM0Q202YlFJemlEb181SlVzaHVkN3B2T3FhNlJwYVBtMzR4TVE1eVRrQmdBbjJzXy1SNi1XMmtGUXhWaVFSdmpoalhZWnpwa3pWMg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0Z1bkpkTVRRUGRXSTBQSUE0MnpJT21JWFM5c1VwU1VBQVBNM1BlN29kMjg2WVRUOFRlMndEVEFDYWlvVVh2VWZsUUplYVZzNDVTdWx2ZUg1VU9PcWcxQ3FpNUNTZFM0Q202YlFJemlEb181SlVzaHVkN3B2T3FhNlJwYVBtMzR4TVE1eVRrQmdBbjJzXy1SNi1XMmtGUXhWaVFSdmpoalhZWn",
-  "date": "2026-11-13T04:21:00.000Z",
-  "fetched": "2026-11-13T04:33:12.557Z",
-  "fromCloud": "2026-11-13T0433.json"
- },
- {
-  "id": "96541066d689d254",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "בעיר היוקרתית גילו: להיות קרוב לים זה נהדר - עד שהוא אוכל לך את הבית - בעולם - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbC1iYU96YWE2QWl4U3lzdTVjZFlhSzZTdHI4cnZ4WDZlNG5FT2VlTnJCMGtoa1cyOUFUUmI4bGx0ZXdjNDlrVGlhbmZ3OVZwN1JhV0ZKSWt4R290ckVJWGpYUjhXb1N4OVBBemFickRxaVNDazA2b25ZcGpRQXdtWHg0YVdSdG5zTkJ3MUhSaFg4bHNyT0RWS3paQUIxeXJ1T1RGcnhPbw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbC1iYU96YWE2QWl4U3lzdTVjZFlhSzZTdHI4cnZ4WDZlNG5FT2VlTnJCMGtoa1cyOUFUUmI4bGx0ZXdjNDlrVGlhbmZ3OVZwN1JhV0ZKSWt4R290ckVJWGpYUjhXb1N4OVBBemFickRxaVNDazA2b25ZcGpRQXdtWHg0YVdSdG5zTkJ3MUhSaFg4bHNyT0RWS3paQUIxeXJ1T1RGcnhPbw?oc=",
-  "date": "2026-11-13T04:21:00.000Z",
-  "fetched": "2026-11-13T04:33:12.557Z",
-  "fromCloud": "2026-11-13T0433.json"
- },
- {
-  "id": "f1ea8e9a46541560",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "הואנג הולך הביתה — אבל מי ירסן את ברון הטכנולוגיה הבא? - סופשבוע - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVRDQktoQVlxNFNxb2pYcHBVeFVHS3lfS0lpMXBDMS1FbUtkVjB2YklieU9PSUdCbmR0T1dKN25HSDVtUTVDX0JDNEQ3dHJNWWZQNE55aXFKQjZJTVphTGNNN3ZCQUUzVk45clNITUthWGNFSS1mZ1dTWXRZOU1QX1ZGTkxYZV9JTnJjV2FZNjkwYlI4dUh4Qlg2dW9ZOWlhVlJyMWVkczRhYUxmeTF2SHFB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVRDQktoQVlxNFNxb2pYcHBVeFVHS3lfS0lpMXBDMS1FbUtkVjB2YklieU9PSUdCbmR0T1dKN25HSDVtUTVDX0JDNEQ3dHJNWWZQNE55aXFKQjZJTVphTGNNN3ZCQUUzVk45clNITUthWGNFSS1mZ1dTWXRZOU1QX1ZGTkxYZV9JTnJjV2FZNjkwYlI4dUh4Qlg2dW9ZOWlhVlJyMWVkczRhYU",
-  "date": "2026-11-13T04:20:00.000Z",
-  "fetched": "2026-11-13T04:23:31.365Z",
-  "fromCloud": "2026-11-13T0423.json"
- },
- {
-  "id": "6c7bb6cb2570cad2",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "טסלה וספייס־אקס צפויות להכריז על מיזוג — הגדול בהיסטוריה — כבר בדצמבר - בעולם - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVZCa2dobFhtSVJHWVh1eHdnY1NqNEROOWtjZmVKdGFpVHBsdmlaaVRETUp0MGdRbzhWVVBYcU5NM2pGNW5sUmtGR2tIYzhHOFVqNUVsN2ZGcHZVWkFTMDFLMTFRcWFJeTdEU2diRFN3NkxudldmdFJPN1ZFZm8wZ2R0YXkwUlY1STh0QktpX29ETlFIOVN4XzA2Y013S3lkQlQ3cVgtVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVZCa2dobFhtSVJHWVh1eHdnY1NqNEROOWtjZmVKdGFpVHBsdmlaaVRETUp0MGdRbzhWVVBYcU5NM2pGNW5sUmtGR2tIYzhHOFVqNUVsN2ZGcHZVWkFTMDFLMTFRcWFJeTdEU2diRFN3NkxudldmdFJPN1ZFZm8wZ2R0YXkwUlY1STh0QktpX29ETlFIOVN4XzA2Y013S3lkQlQ3cVgtVQ?oc=",
-  "date": "2026-11-13T04:17:00.000Z",
-  "fetched": "2026-11-13T04:23:31.365Z",
-  "fromCloud": "2026-11-13T0423.json"
- },
- {
-  "id": "56a705548442875c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Lineage Announces Acquisition of NeuroAirmid Therapeutics and Clinical Stage Program for the Treatment of Huntington's Disease - Investing News Network",
-  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORl9ySGJpOGhCZ1hZUlJVZ05kQ1dGU0tTNnBkOXNjTHdhT1BaVVE0VmhXa2dzanZabWhuLXA4cEpwNHFXZkVUVmFaM0VxUUdHOHQtQ3g0VklrcWVURi1wUmVsRkRaZWVXRkQ0aHc5TVduN1RxRGR6QUFJaWJ5WklnMWdXY3dEUDZLWEdSQjVCSHZlQTBMOG9QYlR2RjNjOEI0cHlqRDRhMXg1VGlXbnh1WmJvbHF2SVlyR09nYm9ZamlNSU9DSzlxbFFfbU5VT1E3SzZzTXZLMUhicGN3bEdVd2hBOWZIdVZC?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxORl9ySGJpOGhCZ1hZUlJVZ05kQ1dGU0tTNnBkOXNjTHdhT1BaVVE0VmhXa2dzanZabWhuLXA4cEpwNHFXZkVUVmFaM0VxUUdHOHQtQ3g0VklrcWVURi1wUmVsRkRaZWVXRkQ0aHc5TVduN1RxRGR6QUFJaWJ5WklnMWdXY3dEUDZLWEdSQjVCSHZlQTBMOG9QYlR2RjNjOEI0cHlqRDRhMXg1VG",
-  "date": "2026-11-13T04:16:38.000Z",
-  "fetched": "2026-11-13T04:23:31.365Z",
-  "fromCloud": "2026-11-13T0423.json"
- },
- {
-  "id": "58ae8c06972356b9",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הבוקר בת\"א: טאואר בפער חיובי של 3.3%, נובה בפער שלילי של 2.5% - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZRl9ZWlNiZlEtWmpaX09wSU5icVh1Ym9IM016WENGam5SQjUwNGc0eXJsYXZJX3REY2JnZXhIdUVUVUFFRjNqVTlpbzVzYjRzTVAyV2c4QnNxeTM5bzJ4SGMzaWxaTVpnRVR5YlZ3ZGM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZRl9ZWlNiZlEtWmpaX09wSU5icVh1Ym9IM016WENGam5SQjUwNGc0eXJsYXZJX3REY2JnZXhIdUVUVUFFRjNqVTlpbzVzYjRzTVAyV2c4QnNxeTM5bzJ4SGMzaWxaTVpnRVR5YlZ3ZGM?oc=5\" target=\"_blank\">הבוקר בת\"א: טאואר בפער חיובי של 3.3%, נובה בפער שלילי של",
-  "date": "2026-11-13T04:12:00.000Z",
-  "fetched": "2026-11-13T05:33:11.514Z",
-  "fromCloud": "2026-11-13T0533.json"
- },
- {
-  "id": "caaa35c99dce2b9b",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Nscale warns it needs more cash ahead of $35bn IPO",
-  "link": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47?syn-25a6b1a6=1",
-  "summary": "Nvidia-backed ‘neocloud’ tells investors it must obtain additional financing to fulfil Anthropic contracts",
-  "date": "2026-11-13T04:10:06.000Z",
-  "fetched": "2026-11-13T05:03:11.473Z",
-  "fromCloud": "2026-11-13T0503.json"
- },
- {
-  "id": "7304448b49c5fef3",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"לקח לי שלוש שנים לשכנע את בעלי לעבור לכאן. אתה פותח חלון ורואה ירוק\" - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlQ1ZW9hMWxtUXlEMWdsVVlwX1N2S0t4ekZWd2x1amE1dkd2NUlmbnYzOW1GY3lVUkJDaWFnU2RVQk1HQXdUMktYYmlubkhkbWVDM3FXRk93WXlxeVJVV3hGS3dUN2pZZ1N1OVQ2ZlpCVHN6dFRITWNPemp5UXZQWDlLY2hQQW5aTm51NEhMUlQyeU5teHRsdks2dVZvLVBTLWNWbDRQR21ZNWtGOVEtcEx2NXpjRnAwS3liSURnZm8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlQ1ZW9hMWxtUXlEMWdsVVlwX1N2S0t4ekZWd2x1amE1dkd2NUlmbnYzOW1GY3lVUkJDaWFnU2RVQk1HQXdUMktYYmlubkhkbWVDM3FXRk93WXlxeVJVV3hGS3dUN2pZZ1N1OVQ2ZlpCVHN6dFRITWNPemp5UXZQWDlLY2hQQW5aTm51NEhMUlQyeU5teHRsdks2dVZvLVBTLWNWbDRQR21ZNW",
-  "date": "2026-11-13T04:09:00.000Z",
-  "fetched": "2026-11-13T04:23:31.365Z",
-  "fromCloud": "2026-11-13T0423.json"
- },
- {
-  "id": "ced0f39db3fd1115",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "סטארט-אפ הבנייה שהיה שווה מיליארד ד' וקרס, מנסה לקום מחדש בקיבוץ בצפון - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkVIVl8wN0NWdTRWb2l6LUlqTjlFaTNPNFUtbU14c01qMXpwLUpOYmJXbXZ1WWJsNUVRVVlDY0kxcEhIUU51dS1VT2tVV0hxemI2Y2swa1d0alUyZGZ0aFZQWW1KajNYS0F4aGFKbTgyeGNMcGQyVXNzeU9XaWpYTHNXQmVLbkw1RFNEYUZMak80TTBYZF9xa2R5MmRlTzY5MU9rMk1jbHc4ODRqOFdfWlBn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkVIVl8wN0NWdTRWb2l6LUlqTjlFaTNPNFUtbU14c01qMXpwLUpOYmJXbXZ1WWJsNUVRVVlDY0kxcEhIUU51dS1VT2tVV0hxemI2Y2swa1d0alUyZGZ0aFZQWW1KajNYS0F4aGFKbTgyeGNMcGQyVXNzeU9XaWpYTHNXQmVLbkw1RFNEYUZMak80TTBYZF9xa2R5MmRlTzY5MU9rMk1jbHc4OD",
-  "date": "2026-11-13T04:06:00.000Z",
-  "fetched": "2026-11-13T04:23:31.365Z",
-  "fromCloud": "2026-11-13T0423.json"
- },
- {
-  "id": "680f7dfc946a9311",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"רון היה בנסיקה כשהכל התחיל. מיד עם תחילת החקירה הוא הוכתם\" - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3p3ckFoQUYtbUVRQjFwMlpEM0VPdU9KS1l6ZkZpZ1NoWi1rRzBtUjRFa242ZGlNTjRpUkNNR1hEVlBuMFBESmg0UnRiaTlqX0RqMzhMOE1kWEpyS1dicG1OeGJPVWlhQlJNSWhVelRZQWhkbURlcnNkLUNtalM4U3pZUDV3WEFUbGU4ZlFsX1RyYVdfWkxWV0Q5aHJia3JfWllZdGRLX2NRdWg3bVlVZnh3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3p3ckFoQUYtbUVRQjFwMlpEM0VPdU9KS1l6ZkZpZ1NoWi1rRzBtUjRFa242ZGlNTjRpUkNNR1hEVlBuMFBESmg0UnRiaTlqX0RqMzhMOE1kWEpyS1dicG1OeGJPVWlhQlJNSWhVelRZQWhkbURlcnNkLUNtalM4U3pZUDV3WEFUbGU4ZlFsX1RyYVdfWkxWV0Q5aHJia3JfWllZdGRLX2NRdW",
-  "date": "2026-11-13T04:06:00.000Z",
-  "fetched": "2026-11-13T04:23:31.365Z",
-  "fromCloud": "2026-11-13T0423.json"
- },
- {
-  "id": "190af0ff93226de2",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "חברים ומשפחה שעברו לחו\"ל קונים בתי קרקע בקלות. אני לא אגיע אפילו לדירה - סופשבוע - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUxVTXhUVlV1a1NWMjM1bGRGOE1hRFotZHN1cjR6T0xodUVicERpWXVWRHZEYkNOcFRrUlJ4RmF0TVBEMzlNQ1RCNnRjUGpLYllwZHNYSUR3SjM5b2pWU3JjY0l2bDFxaW9VNkgtSmF6eFJPaGpfa3MwaXhtRU5EeDBMVExXblhtLURLbnVySFFOTmhjZkw5c1ZMUFZjMDZyZU5v?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUxVTXhUVlV1a1NWMjM1bGRGOE1hRFotZHN1cjR6T0xodUVicERpWXVWRHZEYkNOcFRrUlJ4RmF0TVBEMzlNQ1RCNnRjUGpLYllwZHNYSUR3SjM5b2pWU3JjY0l2bDFxaW9VNkgtSmF6eFJPaGpfa3MwaXhtRU5EeDBMVExXblhtLURLbnVySFFOTmhjZkw5c1ZMUFZjMDZyZU5v?oc=5\" tar",
-  "date": "2026-11-13T04:04:00.000Z",
-  "fetched": "2026-11-13T04:23:31.365Z",
-  "fromCloud": "2026-11-13T0423.json"
- },
- {
-  "id": "0dd6cfa523aadbbf",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"ההידרדרות של המדינה הזאת תימשך - היא תהיה ענייה לעד\" - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeXo5YzcyTU5oVHBMLUI0RTFSdWk2NDBVUmQyakV2RXlORHRHd3IySmhHcTIxTkJ0dUJhQVFWOVN1Uk1qYkJWblpPcWJlNmZMNFdBbGRjbUhWcHRhWHBJMGdUbko4N0pSbzNCSURoQWlhdWttLWNINzdLaXQ5S3ZjbGJHcGFpcHBLeVhOY3VXNFYtTERZeTJjWk4wdFBZUXlsd0lQaFlfT3owdVgwQVRn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPeXo5YzcyTU5oVHBMLUI0RTFSdWk2NDBVUmQyakV2RXlORHRHd3IySmhHcTIxTkJ0dUJhQVFWOVN1Uk1qYkJWblpPcWJlNmZMNFdBbGRjbUhWcHRhWHBJMGdUbko4N0pSbzNCSURoQWlhdWttLWNINzdLaXQ5S3ZjbGJHcGFpcHBLeVhOY3VXNFYtTERZeTJjWk4wdFBZUXlsd0lQaFlfT3owdV",
-  "date": "2026-11-13T04:04:00.000Z",
-  "fetched": "2026-11-13T04:23:31.365Z",
-  "fromCloud": "2026-11-13T0423.json"
  }
 ]
