@@ -1,5 +1,16 @@
 [
  {
+  "id": "92a1dd1352ee16ef",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
+  "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
+  "summary": "US president will hold trilateral meeting with Chinese president and Russia’s Vladimir Putin next week",
+  "date": "2026-11-14T01:28:36.000Z",
+  "fetched": "2026-11-14T02:03:11.058Z",
+  "fromCloud": "2026-11-14T0203.json"
+ },
+ {
   "id": "435a4fe79fe92d0a",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -20,6 +31,17 @@
   "date": "2026-11-14T00:38:59.000Z",
   "fetched": "2026-11-14T00:51:00.216Z",
   "fromCloud": "2026-11-14T0051.json"
+ },
+ {
+  "id": "66dad660040325a0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Chicago mayor's CFO resigns after 3 months, leaves scathing resignation letter - NBC 5 Chicago",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVTJuRjNCUVJvTXhVUkVIM0xWQV9xazE3WnA5MWtlaFV4VkR4aWpuR2RfUEliY0JQVlZwQ0I0cXZlUGRpQTVBQXJyR2hxMFl0Vm5CUG12SmNRVXp2MlNwMWVTellGbExkNEZBNWNNcFJPT2Y2MXVmeXBGTUx3NmU5OGNONk5sS0hIMGhIazNNbkhib1FMQTdJT3Y3ajhfTDFqS3J4N0RmZTM2TGpZWHhRRzFQRGkzS3F2Q0hLNzRCVTlXODV0YWM0UFV1WFNWSk3SAdcBQVVfeXFMUGJqQ1pIckdPVjF5bElYZWl6NjV2SGxTaW9lWmp4YlB6Y1ZQbDJ5cTFXeV9xcHRTVldUZEJJNlFTQUtnb3plS1NFbWlvMlgwcUxaLU9NR1dkam1KZ19OUEExTjNydE5yR01UU2V6R2J0bUNwakZEWkkzZGpfVTd1OU5oUS1HWU5jaUJsR0JtcXFCS2s4VDA1RzBhYjlWUVA3QjZXRnlmb01UOUV3N3g5MU5QNFdleDJsQ2QxZWpQX1cyaW1zbUwxaEN4YXEyTkhZSmV4YmNzVnc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQVTJuRjNCUVJvTXhVUkVIM0xWQV9xazE3WnA5MWtlaFV4VkR4aWpuR2RfUEliY0JQVlZwQ0I0cXZlUGRpQTVBQXJyR2hxMFl0Vm5CUG12SmNRVXp2MlNwMWVTellGbExkNEZBNWNNcFJPT2Y2MXVmeXBGTUx3NmU5OGNONk5sS0hIMGhIazNNbkhib1FMQTdJT3Y3ajhfTDFqS3J4N0RmZTM2TG",
+  "date": "2026-11-14T00:29:39.000Z",
+  "fetched": "2026-11-14T02:03:11.058Z",
+  "fromCloud": "2026-11-14T0203.json"
  },
  {
   "id": "2ef491bb73d29849",
@@ -823,6 +845,17 @@
   "date": "2026-11-13T21:15:00.000Z",
   "fetched": "2026-11-13T21:33:18.651Z",
   "fromCloud": "2026-11-13T2133.json"
+ },
+ {
+  "id": "8bd984cbf67a3992",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Stratasys Scraps Nano Dimension Deal Amid Strong A&D Gains - PlasticsToday",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS3JsOUJ3UzJERW5VX056ZGpnX1Y5Q2FmSDNOdFVnV2hmNHBhZ2RHcWNnYlQta2dzSFliQnFiUEJ3NlZ1c1p6eDFKR0dBSVllYUhZQllOVXlsOTAtZ2NxUlYxMy1WV0UwWThKSVVSYUJpTGpyUW5zUkNiQVZxanhlR0tMdmt0ajNIcjZGWFFTWQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNS3JsOUJ3UzJERW5VX056ZGpnX1Y5Q2FmSDNOdFVnV2hmNHBhZ2RHcWNnYlQta2dzSFliQnFiUEJ3NlZ1c1p6eDFKR0dBSVllYUhZQllOVXlsOTAtZ2NxUlYxMy1WV0UwWThKSVVSYUJpTGpyUW5zUkNiQVZxanhlR0tMdmt0ajNIcjZGWFFTWQ?oc=5\" target=\"_blank\">Stratasys Scr",
+  "date": "2026-11-13T21:09:05.000Z",
+  "fetched": "2026-11-14T02:03:11.058Z",
+  "fromCloud": "2026-11-14T0203.json"
  },
  {
   "id": "9cc9ab65bee415a7",
@@ -6653,93 +6686,5 @@
   "date": "2026-11-13T02:08:00.000Z",
   "fetched": "2026-11-13T03:03:13.727Z",
   "fromCloud": "2026-11-13T0303.json"
- },
- {
-  "id": "38fcd007821b1522",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ברקשייר גייסה 1.1 מיליארד דולר ביפן, והפעם בריבית גבוהה יותר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kU0E0ZUFHcUxySGFFUG9RWndrX19LV3htbjN4Z3AzRHFGMGxUMTNZSk9TTjF0a1ZnTmFHYzFHcWdtZTRqaDh5ZDNHSEU2ZXlBZTcwYTQ1Y29IYmtlMnNGeUxHYVM0YVZxTnpaZDhodm0?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9kU0E0ZUFHcUxySGFFUG9RWndrX19LV3htbjN4Z3AzRHFGMGxUMTNZSk9TTjF0a1ZnTmFHYzFHcWdtZTRqaDh5ZDNHSEU2ZXlBZTcwYTQ1Y29IYmtlMnNGeUxHYVM0YVZxTnpaZDhodm0?oc=5\" target=\"_blank\">ברקשייר גייסה 1.1 מיליארד דולר ביפן, והפעם בריבית גבוהה ",
-  "date": "2026-11-13T02:03:00.000Z",
-  "fetched": "2026-11-13T04:03:11.736Z",
-  "fromCloud": "2026-11-13T0403.json"
- },
- {
-  "id": "cba97d6065670e71",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ניו וורלד עצרה את המסחר במניה, חודש אחרי הפסד של 3.6 מיליארד דולר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sLUNMRXhBMTBuRHhvb2JSMDJDekVwZF9JMjJDNW51TzFPb29tc0JPY3J4WjBCWDlCS1AwUFhwdnVXbHFZejNVN0pzZWI1M202T0JfZjRLZEtNbFd0b3JFSUJRNEJIalFsYzFJQUpB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9sLUNMRXhBMTBuRHhvb2JSMDJDekVwZF9JMjJDNW51TzFPb29tc0JPY3J4WjBCWDlCS1AwUFhwdnVXbHFZejNVN0pzZWI1M202T0JfZjRLZEtNbFd0b3JFSUJRNEJIalFsYzFJQUpB?oc=5\" target=\"_blank\">ניו וורלד עצרה את המסחר במניה, חודש אחרי הפסד של 3.6 מיליאר",
-  "date": "2026-11-13T02:02:00.000Z",
-  "fetched": "2026-11-13T03:33:13.999Z",
-  "fromCloud": "2026-11-13T0333.json"
- },
- {
-  "id": "58884c7848cdac49",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "GMIN: TZ generated $80.0M of Q3 free cash flow as Oko Gold advanced toward H2 2027 first gold - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT2lLOFd5QlBZd3dGcGpmbThacHNXTjNlaTkyc0dscURyTHZMenRDWWFTSThuTGZ0bkMtNmdxSENiM19ubjV4ZEF6elBNVmpselREdG5OT2lkbklJSnAxc0pYV0tqdllaTVJfN3hkWE1KNVBBTl9vT0poMW1xdkNnWXhxMVQzbUM0dnpXYkYzVWZXMVFJTDJEQWlmUmNsLUs2TWFEXzVmSTJkR1FMdFVJVm8wTnZ3ZG0xMGx1cXVheVdQTVZGZFpEdDdLSnBadVdqNy0td0Z6d1lKRDBUTTNyTXVZWklMclZJLXVVSGNERldvdW1DMVdVd295WWtsYVNXejlyNg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQT2lLOFd5QlBZd3dGcGpmbThacHNXTjNlaTkyc0dscURyTHZMenRDWWFTSThuTGZ0bkMtNmdxSENiM19ubjV4ZEF6elBNVmpselREdG5OT2lkbklJSnAxc0pYV0tqdllaTVJfN3hkWE1KNVBBTl9vT0poMW1xdkNnWXhxMVQzbUM0dnpXYkYzVWZXMVFJTDJEQWlmUmNsLUs2TWFEXzVmSTJkR1",
-  "date": "2026-11-13T02:00:55.000Z",
-  "fetched": "2026-11-13T03:03:13.727Z",
-  "fromCloud": "2026-11-13T0303.json"
- },
- {
-  "id": "82705d636be2612c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "SGH Appoints Stefan Camphausen As Group CFO Effective December 1 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYjQxWW1MZ2VteTRSbHg5VkdjWGZnblNGX3JITkRtWl9RYWlHZ0QwQVVPbVgwemF1cmhCX2pBaG1ZelJWV3owZ0ZBUjhsT3NLb3pZYlRfUTlEcW4tT0RWUGRHWk1sTUcwNm5reTl1RjltVFF5YTQ4WlZpNm1HTzVCa2NFeWNZeFBWZFlIWWdSeUthdXdrd29oYkYwMEFXYW1iSEotTVdCeE05UFBTRUg5WFNZMWpHaFItSGJaTHptS1lnNGF2c0YxanFnby1GLWs?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOYjQxWW1MZ2VteTRSbHg5VkdjWGZnblNGX3JITkRtWl9RYWlHZ0QwQVVPbVgwemF1cmhCX2pBaG1ZelJWV3owZ0ZBUjhsT3NLb3pZYlRfUTlEcW4tT0RWUGRHWk1sTUcwNm5reTl1RjltVFF5YTQ4WlZpNm1HTzVCa2NFeWNZeFBWZFlIWWdSeUthdXdrd29oYkYwMEFXYW1iSEotTVdCeE05UF",
-  "date": "2026-11-13T01:55:05.000Z",
-  "fetched": "2026-11-13T03:03:13.727Z",
-  "fromCloud": "2026-11-13T0303.json"
- },
- {
-  "id": "6095e9f33195c10b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "What Does PNC Financial Services Group (PNC) CFO Succession Mean For Investors? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR05GdXh3d3JVNzU3ODZBQlNRbkRISVVjMjE2clhYWEt2Z2hyempVZWozSlVvc1NuWUl3cGo4bGRmWVh2UkdHSXhmXzBZWHJPTFFpSnEwUExDOUVfdWtUQjFpWFRjWTlKTnp2bGNuMHV2R3hKTkJnOWNMTXl2YVhTdVlieWhkV0Y4YVA1N0ZpTElpaFhrZFVkb0ZlUV9CdEE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQR05GdXh3d3JVNzU3ODZBQlNRbkRISVVjMjE2clhYWEt2Z2hyempVZWozSlVvc1NuWUl3cGo4bGRmWVh2UkdHSXhmXzBZWHJPTFFpSnEwUExDOUVfdWtUQjFpWFRjWTlKTnp2bGNuMHV2R3hKTkJnOWNMTXl2YVhTdVlieWhkV0Y4YVA1N0ZpTElpaFhrZFVkb0ZlUV9CdEE?oc=5\" target=\"",
-  "date": "2026-11-13T01:55:04.000Z",
-  "fetched": "2026-11-13T02:03:11.688Z",
-  "fromCloud": "2026-11-13T0203.json"
- },
- {
-  "id": "8271d221203b1446",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - PRESIDIO PRODUCTION Co (0002083125) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2083125/000121390026119139/0001213900-26-119139-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001213900-26-119139 <b>Size:</b> 406 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-13T01:51:10.000Z",
-  "fetched": "2026-11-13T11:33:12.305Z",
-  "fromCloud": "2026-11-13T1133.json"
- },
- {
-  "id": "e82d1380f8b14fa9",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "The Silicon Valley veterans now steering Nvidia",
-  "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
-  "summary": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
-  "date": "2026-11-13T01:42:30.000Z",
-  "fetched": "2026-11-13T02:03:11.688Z",
-  "fromCloud": "2026-11-13T0203.json"
- },
- {
-  "id": "ce328c1e35f7e75f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "SGH Limited Reaffirm Our FY27 Guidance, Says CFO Richard Richards resigns - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQck00Q0syMjRxNmk5aFVwQ2JEZU43NmYzUE9MaXphOGJCZWxHcVdZOEZQMUp3c1Z4NTdDenFsT3JEeklzTVRBQ0tEYUcxaV81Zzc4VUt2TERVWGZrU0ZaMEdtM21qR1NDRURONUpndDRiV2F6WFRZWW9TaXRNRGxQVEVSUXY1Z2xrRlBvMFJha0tEbkJmVDhoS3d0NFhsVk5RbmlvM0lXRkswckwtQTg2Nk05enI3VWFRQjdKbHpEeVF3WUpzdnhqbmgzY1ZtVVZicWJyc1NQZ013dw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQck00Q0syMjRxNmk5aFVwQ2JEZU43NmYzUE9MaXphOGJCZWxHcVdZOEZQMUp3c1Z4NTdDenFsT3JEeklzTVRBQ0tEYUcxaV81Zzc4VUt2TERVWGZrU0ZaMEdtM21qR1NDRURONUpndDRiV2F6WFRZWW9TaXRNRGxQVEVSUXY1Z2xrRlBvMFJha0tEbkJmVDhoS3d0NFhsVk5RbmlvM0lXRkswck",
-  "date": "2026-11-13T01:38:00.000Z",
-  "fetched": "2026-11-13T02:03:11.688Z",
-  "fromCloud": "2026-11-13T0203.json"
  }
 ]
