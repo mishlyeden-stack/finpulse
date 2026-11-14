@@ -1,5 +1,27 @@
 [
  {
+  "id": "71df0d0e0426b9d6",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "SpaceX aborts attempt to catch Starship rocket after booster fails",
+  "link": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
+  "summary": "Elon Musk suffers setback in efforts to develop a completely reusable megarocket system",
+  "date": "2026-11-13T23:43:09.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
+ },
+ {
+  "id": "9896210f0dd0968d",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+  "link": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
+  "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
+  "date": "2026-11-13T23:39:26.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
+ },
+ {
   "id": "a0e2e6fb1923abed",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +31,17 @@
   "date": "2026-11-13T23:25:11.000Z",
   "fetched": "2026-11-13T23:33:13.207Z",
   "fromCloud": "2026-11-13T2333.json"
+ },
+ {
+  "id": "1e40962e3214f52f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Is CFO Succession Altering The Investment Case For PNC Financial Services Group (PNC)? - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjhnYmE5MmZQTmsyQmQ2c09QTG0yaVBQNENmNkxaZHktMG9fYWgyMFl0M2V0c2tJd1dBLWg0R0RuYjMtV0IwZnc2bHUwclFWQWJVWTAwQUE0c1dGdU80R1dlN3ZRTVpsU3ozSzJzdnE0cjktRy02VWstWkl3TDRNRkV1cVdEZHBTTDUwVS01N2xwNkxzUTAzdnl0S1drUWwtMGpVRFpoaw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjhnYmE5MmZQTmsyQmQ2c09QTG0yaVBQNENmNkxaZHktMG9fYWgyMFl0M2V0c2tJd1dBLWg0R0RuYjMtV0IwZnc2bHUwclFWQWJVWTAwQUE0c1dGdU80R1dlN3ZRTVpsU3ozSzJzdnE0cjktRy02VWstWkl3TDRNRkV1cVdEZHBTTDUwVS01N2xwNkxzUTAzdnl0S1drUWwtMGpVRFpoaw?oc=",
+  "date": "2026-11-13T23:18:55.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
  },
  {
   "id": "f24fa9c7f1491cae",
@@ -42,6 +75,17 @@
   "date": "2026-11-13T22:41:34.000Z",
   "fetched": "2026-11-13T23:03:12.403Z",
   "fromCloud": "2026-11-13T2303.json"
+ },
+ {
+  "id": "f77c43b91bc37fd0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "City of Liberty Hill pursuing acquisition of River Ranch Inn, $1 million in EDC funding proposed - KTEN",
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSUZpbmJDZzA5STdtR3pCa3RJVGNjYXdKbUxDNDRWdTF4WjdqNGx5bF8waFB3VVBYTDZya09DTFZ6clRobHAxREtqYWIxaGpscmpnVlZBSTNBRVpZeFBnbjlpUWVTd2FlYjhzTHJ1TGw5UGMwR0w2aEZQOHFwUVFMZjZ3djgxTUNHOEQ3d1hGWXVHd1JCM2cxOUlzRnpzSWNTYXh5SmhQaTdKWGdFckotM2hhMVNzV19BZ0EtX2lXeVhidFpfUzM2QnpIaW5qbHhFejF3SDZpU01yRWdpYU9kUWpTaGdPN05jWVc4a2NRZDYweXJBdjUyMFdDYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSUZpbmJDZzA5STdtR3pCa3RJVGNjYXdKbUxDNDRWdTF4WjdqNGx5bF8waFB3VVBYTDZya09DTFZ6clRobHAxREtqYWIxaGpscmpnVlZBSTNBRVpZeFBnbjlpUWVTd2FlYjhzTHJ1TGw5UGMwR0w2aEZQOHFwUVFMZjZ3djgxTUNHOEQ3d1hGWXVHd1JCM2cxOUlzRnpzSWNTYXh5SmhQaTdKWG",
+  "date": "2026-11-13T22:28:00.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
  },
  {
   "id": "f1f6189b9e6f761b",
@@ -704,6 +748,17 @@
   "fromCloud": "2026-11-13T2133.json"
  },
  {
+  "id": "a409636c845c5c4b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "GO Goes After H&R REIT After Shareholders Reject Acquisition - The Real Deal",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTFsa0JCSDBzMmU0ZnV6RUEwMFBTRWRzNVRNODBDdkJGRERHTVdXRUliVF8zeHFzZlc1YWlaR0dvQ21xcEsxVDJQV1FvYUhiVmVNbFJWYkJQVXlDYVp0X0xZZ2I5U2hBcXJhY09aa04zV1JKbEZUb3ZpcmF1Qk1HdmlzeGE3b2JoSHFn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTFsa0JCSDBzMmU0ZnV6RUEwMFBTRWRzNVRNODBDdkJGRERHTVdXRUliVF8zeHFzZlc1YWlaR0dvQ21xcEsxVDJQV1FvYUhiVmVNbFJWYkJQVXlDYVp0X0xZZ2I5U2hBcXJhY09aa04zV1JKbEZUb3ZpcmF1Qk1HdmlzeGE3b2JoSHFn?oc=5\" target=\"_blank\">GO Goes After H&R R",
+  "date": "2026-11-13T21:02:00.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
+ },
+ {
   "id": "abdc35ba86ed050b",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -913,6 +968,17 @@
   "fromCloud": "2026-11-13T2133.json"
  },
  {
+  "id": "1798b6793bae7e32",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "John A. Logan College CFO to resign in March - Southern Illinoisan",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUg2ekxRSFktQkI1Y2NJREhwVnZyTmRNM2RpY05rM3A2VllXSFBRUDc1NEdlTjZSTlhlR1p4Mk5mNXBpenlvVnBSRVlSNTVKckZxN3BTTnVwR0dDS0szZjNYRTBwUGxOMjlMUmpkS2t0cnl5S0ZpMFpocG1ualEtV3NVOWZUM29CZy1nbGZCNkxGUWYzbzZnVi1ORVdhdThaYU5HRGZYVVJvaF93ZFo5VU9mMkFtWkxIZllWNmZ4Yw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUg2ekxRSFktQkI1Y2NJREhwVnZyTmRNM2RpY05rM3A2VllXSFBRUDc1NEdlTjZSTlhlR1p4Mk5mNXBpenlvVnBSRVlSNTVKckZxN3BTTnVwR0dDS0szZjNYRTBwUGxOMjlMUmpkS2t0cnl5S0ZpMFpocG1ualEtV3NVOWZUM29CZy1nbGZCNkxGUWYzbzZnVi1ORVdhdThaYU5HRGZYVVJvaF",
+  "date": "2026-11-13T20:16:00.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
+ },
+ {
   "id": "4cf631284fd00183",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -944,6 +1010,17 @@
   "date": "2026-11-13T20:11:14.000Z",
   "fetched": "2026-11-13T20:33:12.173Z",
   "fromCloud": "2026-11-13T2033.json"
+ },
+ {
+  "id": "a51d465403ed8088",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "האם אפשר למנוע אלצהיימר? רוש מפתחת תרופה עם פוטנציאל מכירות של 3.7 מיליארד דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcDFFTnp5Zm9wMGk1d3ZMRGhXM2oyTTNwZjVuM1FjMUVHdmY4eEhBR2l0dU9PMG9leXRTdzM3M3dJaHhIMEhvWUMtVURwV2UyRm9sUGx2LXNITlVkcXBobnF5ZFZtMURWUUFod0pCRkY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcDFFTnp5Zm9wMGk1d3ZMRGhXM2oyTTNwZjVuM1FjMUVHdmY4eEhBR2l0dU9PMG9leXRTdzM3M3dJaHhIMEhvWUMtVURwV2UyRm9sUGx2LXNITlVkcXBobnF5ZFZtMURWUUFod0pCRkY?oc=5\" target=\"_blank\">האם אפשר למנוע אלצהיימר? רוש מפתחת תרופה עם פוטנציאל מכי",
+  "date": "2026-11-13T20:07:00.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
  },
  {
   "id": "6b0d14a400e70558",
@@ -1507,6 +1584,17 @@
   "fromCloud": "2026-11-13T1833.json"
  },
  {
+  "id": "f5b49bee6af257c5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Texas Credit Union Enters New Mexico Via Bank Acquisition - CUTimes",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkh6ZlBKemQ1c3FyRU9CdzUzRXNMSTVWLTlKWFJUb3NzZnNkMEo1YVVfSDlBRnFJX3l0VWNSUmtZdHB5UTN4UlNpYjVwY0ZISEY4cEczUy1xUldKcy1SZG9SbGZ3QUJxaXhyWEJoVlczQTNKTXNya1VFS0xfc1ZHYUEtOUpSWTV1ZkJYcFpyV3VIdzA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkh6ZlBKemQ1c3FyRU9CdzUzRXNMSTVWLTlKWFJUb3NzZnNkMEo1YVVfSDlBRnFJX3l0VWNSUmtZdHB5UTN4UlNpYjVwY0ZISEY4cEczUy1xUldKcy1SZG9SbGZ3QUJxaXhyWEJoVlczQTNKTXNya1VFS0xfc1ZHYUEtOUpSWTV1ZkJYcFpyV3VIdzA?oc=5\" target=\"_blank\">Texas Cr",
+  "date": "2026-11-13T18:00:22.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
+ },
+ {
   "id": "a7361fb8f21c203d",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -1615,6 +1703,28 @@
   "date": "2026-11-13T17:40:51.000Z",
   "fetched": "2026-11-13T18:33:13.536Z",
   "fromCloud": "2026-11-13T1833.json"
+ },
+ {
+  "id": "1fdc3f10599b6586",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ליפטאוף מזנקת 26%: הרווח יותר מכפול מהצפי וה-AI מאיץ את הצמיחה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04bm1adTE0bVY5ZVRWdFBDQ3FtT0U5UWdQZnRDUEh1SEZUMkQ0dFN6RVpVNzRTY2FhUk1saDdTb1gyeHljcGppc1A0TS1sNHVONm5NcjhpSmswLW5VNEdoYVRraFJUOUdGMTViNmtHcVg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE04bm1adTE0bVY5ZVRWdFBDQ3FtT0U5UWdQZnRDUEh1SEZUMkQ0dFN6RVpVNzRTY2FhUk1saDdTb1gyeHljcGppc1A0TS1sNHVONm5NcjhpSmswLW5VNEdoYVRraFJUOUdGMTViNmtHcVg?oc=5\" target=\"_blank\">ליפטאוף מזנקת 26%: הרווח יותר מכפול מהצפי וה-AI מאיץ את ",
+  "date": "2026-11-13T17:40:00.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
+ },
+ {
+  "id": "b26ef0bd27249c40",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "High Liner union contract ratified ahead of Umios acquisition vote - IntraFish",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS08xNFBsTEFJYW9RT3dlUUF1cDdmMkJOLV9vbUctenlEZVZZWF9rZWxEQ2pEcnRBMjZPbG9fMWZQVmR0YXowM1k0Q25fdlFLUS1fRHljSVVWSXZmY25PTjJCT1RVNHY2dElfczdsOEtkdVJTbDJ6UGNMV1Exdl9nb2J4UDcwcllhLTcyVjVqOEJNQ0RlVk9TRnVIQTV0RzBpcVZ1MWwzbW0xQm9fTmxnRg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPS08xNFBsTEFJYW9RT3dlUUF1cDdmMkJOLV9vbUctenlEZVZZWF9rZWxEQ2pEcnRBMjZPbG9fMWZQVmR0YXowM1k0Q25fdlFLUS1fRHljSVVWSXZmY25PTjJCT1RVNHY2dElfczdsOEtkdVJTbDJ6UGNMV1Exdl9nb2J4UDcwcllhLTcyVjVqOEJNQ0RlVk9TRnVIQTV0RzBpcVZ1MWwzbW0xQm",
+  "date": "2026-11-13T17:39:48.000Z",
+  "fetched": "2026-11-14T00:03:12.797Z",
+  "fromCloud": "2026-11-14T0003.json"
  },
  {
   "id": "c86cf651ea635b8c",
@@ -6664,93 +6774,5 @@
   "date": "2026-11-13T00:07:33.000Z",
   "fetched": "2026-11-13T00:33:12.399Z",
   "fromCloud": "2026-11-13T0033.json"
- },
- {
-  "id": "d45e903ab4934d7b",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "וינדוורד ביו גייסה 225 מיליון דולר בנאסד\"ק, וסאנופי שמה 50 מיליון - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sbWtyUFRZdW1OcUdMMU05X1NoT2lXZ2NzMFFNQlZKbXFFcGl4REJ2ZnYwZDB1V3hEYkRYcnJ2Y2NqQ2hBWnlra0lremZnMjF2UnBhbmJONXJ6QzlzbzdxcmlVcThNRGVvODNwc1Uwc08?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5sbWtyUFRZdW1OcUdMMU05X1NoT2lXZ2NzMFFNQlZKbXFFcGl4REJ2ZnYwZDB1V3hEYkRYcnJ2Y2NqQ2hBWnlra0lremZnMjF2UnBhbmJONXJ6QzlzbzdxcmlVcThNRGVvODNwc1Uwc08?oc=5\" target=\"_blank\">וינדוורד ביו גייסה 225 מיליון דולר בנאסד\"ק, וסאנופי שמה ",
-  "date": "2026-11-13T00:00:00.000Z",
-  "fetched": "2026-11-13T00:33:12.399Z",
-  "fromCloud": "2026-11-13T0033.json"
- },
- {
-  "id": "0077346f6b5d7780",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Watch Singtel CFO on 1H Earnings - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGpiNWcwcU1OWUZ1VEdoU1dibjhzUktjVmJPak5uckh6RS1WdlNTc2pwb1FBMTNkUHBZUFhWbkhQeXBRVm9HV2RJZ3ZCVUlIc3Rnd0t6QVMtMHk1SEJXNmlLZjAyaXdBV0xURUxzdExOSnpsNDVBaUhTcngzNmhBR2RLWm5Ib2xq?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGpiNWcwcU1OWUZ1VEdoU1dibjhzUktjVmJPak5uckh6RS1WdlNTc2pwb1FBMTNkUHBZUFhWbkhQeXBRVm9HV2RJZ3ZCVUlIc3Rnd0t6QVMtMHk1SEJXNmlLZjAyaXdBV0xURUxzdExOSnpsNDVBaUhTcngzNmhBR2RLWm5Ib2xq?oc=5\" target=\"_blank\">Watch Singtel CFO on 1H",
-  "date": "2026-11-13T00:00:00.000Z",
-  "fetched": "2026-11-13T03:33:13.999Z",
-  "fromCloud": "2026-11-13T0333.json"
- },
- {
-  "id": "035ad84c13c81c44",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Watch EGA CFO: Al Taweelah At Full Production by 1Q 2027 - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLTBRN3pBN3JhRFVQbFRWSlNlS2hpckJBSTJpOUJWV2VmVnEzc3BpTnBvOTg3VzJ5cG5raWNpdEhkSkdGbkxqWGR3TWZpMzdBd0xfQ2lnLXB1UkpJMWFXNXpLQWUydkIzYmlTOER6QnVLNUU0WUI5eTBFYzgwYjY2V3JzSnd3QzJuWGZCSVhzVVhtaTJiWV9KWUZ6LUdzUEFhaHlEWDR5TQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNLTBRN3pBN3JhRFVQbFRWSlNlS2hpckJBSTJpOUJWV2VmVnEzc3BpTnBvOTg3VzJ5cG5raWNpdEhkSkdGbkxqWGR3TWZpMzdBd0xfQ2lnLXB1UkpJMWFXNXpLQWUydkIzYmlTOER6QnVLNUU0WUI5eTBFYzgwYjY2V3JzSnd3QzJuWGZCSVhzVVhtaTJiWV9KWUZ6LUdzUEFhaHlEWDR5TQ?oc=",
-  "date": "2026-11-13T00:00:00.000Z",
-  "fetched": "2026-11-13T08:33:13.763Z",
-  "fromCloud": "2026-11-13T0833.json"
- },
- {
-  "id": "448359cebdc9c402",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Separating signal from noise: The always-on finance intelligence layer",
-  "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
-  "summary": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.",
-  "date": "2026-11-13T00:00:00.000Z",
-  "fetched": "2026-11-13T12:03:11.505Z",
-  "fromCloud": "2026-11-13T1203.json"
- },
- {
-  "id": "1ccaedd642a79000",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
-  "link": "https://www.mckinsey.com/industries/healthcare/our-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
-  "summary": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data and coaching can change a patient’s health trajectory.",
-  "date": "2026-11-13T00:00:00.000Z",
-  "fetched": "2026-11-13T14:33:14.324Z",
-  "fromCloud": "2026-11-13T1433.json"
- },
- {
-  "id": "1b881e7f96abe238",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "קלשי מסיימת את ההתקשרות עם דונלד טראמפ ג'וניור בשל ההשקעה בפולימרקט - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5UVQyTml6NzcwaDE0MG5faURoQmZTd0dHWjBEMUlWSEwtcVNHS0VIQWo2WHkxazV1RUpzY1VIRV9URmNFb0lWMDdpNlZlNUlpTGdIc3VDVnh2SWxIbnRweDRfd1ZONzZlNmRpZF8ySVg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB5UVQyTml6NzcwaDE0MG5faURoQmZTd0dHWjBEMUlWSEwtcVNHS0VIQWo2WHkxazV1RUpzY1VIRV9URmNFb0lWMDdpNlZlNUlpTGdIc3VDVnh2SWxIbnRweDRfd1ZONzZlNmRpZF8ySVg?oc=5\" target=\"_blank\">קלשי מסיימת את ההתקשרות עם דונלד טראמפ ג'וניור בשל ההשקע",
-  "date": "2026-11-12T23:44:00.000Z",
-  "fetched": "2026-11-13T00:33:12.399Z",
-  "fromCloud": "2026-11-13T0033.json"
- },
- {
-  "id": "6d49d6fc9a90b0f7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "TVA Interim CEO takes on permanent role, names CFO to dual role as President and CFO - rocketcitynow.com",
-  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUGRvMklvOUQ1NVZ3RDVFVVdReW1hTDI2ZWxMWnRJdUw3ZlZUb2hQYmxjNzVXZkp6YnZybzlhOFQzT2JDS0dsR1RvS3U1QjVlQmtISUF2V1Q0a0x2d3I1Q0VCa1NnQzlBbWtfMjVFVThNcEhYbnY0akxRellub2d6MkVGbEIta1F5bVRIZVBrVTktaUp0eVVhY083NUtpaEVBdFVKV1pmRXVfQ0xTQUxuM0ZmNUFibHA2UzFLU1o0Qks0TVlHUWJLTmVyX0FiNmlrYkFGbVlMcWZBdlFRWEVGWEFqQTVuenpBaXppbk9lRl9KbFlxNnRfVnl6OGRpNjVGQzY2VERUNGlYc0U?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUGRvMklvOUQ1NVZ3RDVFVVdReW1hTDI2ZWxMWnRJdUw3ZlZUb2hQYmxjNzVXZkp6YnZybzlhOFQzT2JDS0dsR1RvS3U1QjVlQmtISUF2V1Q0a0x2d3I1Q0VCa1NnQzlBbWtfMjVFVThNcEhYbnY0akxRellub2d6MkVGbEIta1F5bVRIZVBrVTktaUp0eVVhY083NUtpaEVBdFVKV1pmRXVfQ0",
-  "date": "2026-11-12T23:37:03.000Z",
-  "fetched": "2026-11-12T23:51:19.871Z",
-  "fromCloud": "2026-11-12T2351.json"
- },
- {
-  "id": "7e974c010eef03d3",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens",
-  "link": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
-  "summary": "Legislators demand Trump’s commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy",
-  "date": "2026-11-12T23:35:11.000Z",
-  "fetched": "2026-11-12T23:51:19.871Z",
-  "fromCloud": "2026-11-12T2351.json"
  }
 ]
