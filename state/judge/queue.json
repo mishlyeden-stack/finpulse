@@ -1,5 +1,38 @@
 [
  {
+  "id": "e4dfe4f27195beec",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+  "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+  "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+  "date": "2026-11-14T12:00:01.000Z",
+  "fetched": "2026-11-14T12:03:11.603Z",
+  "fromCloud": "2026-11-14T1203.json"
+ },
+ {
+  "id": "82fdc5a8fb74b23a",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+  "link": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
+  "summary": "President says he will take proposal to Ukrainian people as Washington explores terms for ending war",
+  "date": "2026-11-14T11:41:15.000Z",
+  "fetched": "2026-11-14T12:03:11.603Z",
+  "fromCloud": "2026-11-14T1203.json"
+ },
+ {
+  "id": "2be3f6bae7db42ce",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בלגן בלב תל אביב: המטרו נכנס למרכז העיר, והחשבון מתקרב ל-200 מיליארד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UR3VYUzFhRkktYl9hVVVsVHRSaDlaY1l5ZTVhTVVXY2wtTUdxWmZQMTVYb0lxSXpaaTdCYUJVZnBkM0ZZQ3FQRnkwMktFdWQ5eDRxX2t0MWU0MjBzR25rNHAyc3Rxa05aWFAwWUhR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9UR3VYUzFhRkktYl9hVVVsVHRSaDlaY1l5ZTVhTVVXY2wtTUdxWmZQMTVYb0lxSXpaaTdCYUJVZnBkM0ZZQ3FQRnkwMktFdWQ5eDRxX2t0MWU0MjBzR25rNHAyc3Rxa05aWFAwWUhR?oc=5\" target=\"_blank\">בלגן בלב תל אביב: המטרו נכנס למרכז העיר, והחשבון מתקרב ל-20",
+  "date": "2026-11-14T11:36:00.000Z",
+  "fetched": "2026-11-14T12:03:11.603Z",
+  "fromCloud": "2026-11-14T1203.json"
+ },
+ {
   "id": "3c5c92af5d5d5f93",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -9,6 +42,28 @@
   "date": "2026-11-14T11:30:00.000Z",
   "fetched": "2026-11-14T11:33:16.383Z",
   "fromCloud": "2026-11-14T1133.json"
+ },
+ {
+  "id": "97635738fa5b4ebe",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Advanta To Strengthen Market Presence In Africa With Strategic Acquisition Of Hytech - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGxNUTlXUzN5Tzh3SWJXUHN0YlBPcXdaa3AzOV9YUE5aNElNdWZxTkpnRlVNcFN1NXVZTldqUFNyS0lsVHlCLXBBS1BFRDJfZWFHaG13dlIyckhLWnNna1gyNEJyb0oxX2hoQ2ZLNXZYeFVBb2Z4d3R4bzV5Nl8wN0hWbWhjTkFTSF95anFTSkZnY19tQTJ5bExqRm1WSXZRdU9RSGxxZl95VTlrTW9ENk9aajk0MlZGaVdEaXRHSnF1VFIwXzBXZDQtSmhWTVNIeC03MkdPSXNUSWxONHVvczE1MnlURmRlTFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGxNUTlXUzN5Tzh3SWJXUHN0YlBPcXdaa3AzOV9YUE5aNElNdWZxTkpnRlVNcFN1NXVZTldqUFNyS0lsVHlCLXBBS1BFRDJfZWFHaG13dlIyckhLWnNna1gyNEJyb0oxX2hoQ2ZLNXZYeFVBb2Z4d3R4bzV5Nl8wN0hWbWhjTkFTSF95anFTSkZnY19tQTJ5bExqRm1WSXZRdU9RSGxxZl95VT",
+  "date": "2026-11-14T11:26:33.000Z",
+  "fetched": "2026-11-14T12:03:11.603Z",
+  "fromCloud": "2026-11-14T1203.json"
+ },
+ {
+  "id": "4d49d7d45e444181",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "UPL Limited (UPL) Acquisition of Misr Hytech Awaits Closing by January 31, 2027 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd3BCb2JzdVFtLTQ5V2YwLWJLcmUyWjlXWV9ZXzAtSUxBRDViZm14NnR0OWpPOXpaRXhZMzl3bmRURUJXd1RuMGMzcloxWjdRakZ2Y2NVRlotdWlMZ0pyNW1GS0NPc0dURVZlSWZiLUU1SDU4dTlRejF0RUVGZDM5S0pBMUU2bW5uYmhPTEo2ZkNyaHBnSXMyQlJTdE5kR2RKNGpHM2NDc0o3UnY0ODJOa21NY3Z3ZEZaMHhoWHpiXzlGX1JSRGFxdkZoczJhU2VZMmhWaQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd3BCb2JzdVFtLTQ5V2YwLWJLcmUyWjlXWV9ZXzAtSUxBRDViZm14NnR0OWpPOXpaRXhZMzl3bmRURUJXd1RuMGMzcloxWjdRakZ2Y2NVRlotdWlMZ0pyNW1GS0NPc0dURVZlSWZiLUU1SDU4dTlRejF0RUVGZDM5S0pBMUU2bW5uYmhPTEo2ZkNyaHBnSXMyQlJTdE5kR2RKNGpHM2NDc0o3Un",
+  "date": "2026-11-14T11:21:00.000Z",
+  "fetched": "2026-11-14T12:03:11.603Z",
+  "fromCloud": "2026-11-14T1203.json"
  },
  {
   "id": "ce7ed1aea35be133",
@@ -504,6 +559,17 @@
   "date": "2026-11-14T07:21:00.000Z",
   "fetched": "2026-11-14T08:03:12.135Z",
   "fromCloud": "2026-11-14T0803.json"
+ },
+ {
+  "id": "835e6cb502fd88ef",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "THE MOB MUSEUM EXPANDS DOWNTOWN LAS VEGAS FOOTPRINT WITH NEW LAND ACQUISITION - The Mob Museum",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1RXbGFPM2ltZHFPNzZmZ2ZITnJvdW5URVYwYUh6NXlMclpSX3IyNU9kWVdBcldOaE8tWHlGZUtSb2J0Uy1ySXkxakNnX21URTlMWE9yT0ViX1ZBMmEteE1mcW9xemRSQi1LZXlqbjdjYjduUy16ME9nTmplVkxlZHAwd3pZZm9OMXZCVzdFX2UySFpIbHpONk1yZEQxYVB3d1JHQVpVMElOazYtV1ZjN1NNOVVLR05DcEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1RXbGFPM2ltZHFPNzZmZ2ZITnJvdW5URVYwYUh6NXlMclpSX3IyNU9kWVdBcldOaE8tWHlGZUtSb2J0Uy1ySXkxakNnX21URTlMWE9yT0ViX1ZBMmEteE1mcW9xemRSQi1LZXlqbjdjYjduUy16ME9nTmplVkxlZHAwd3pZZm9OMXZCVzdFX2UySFpIbHpONk1yZEQxYVB3d1JHQVpVMElOaz",
+  "date": "2026-11-14T07:18:06.000Z",
+  "fetched": "2026-11-14T12:03:11.603Z",
+  "fromCloud": "2026-11-14T1203.json"
  },
  {
   "id": "f29100efc394e4f0",
@@ -2893,6 +2959,17 @@
   "fromCloud": "2026-11-13T1903.json"
  },
  {
+  "id": "5083559c62f20687",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Perennial Housing Group Launches Platform with Acquisition of 31 Affordable Housing Communities - Fidelity Investments",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjR6Q3JmWjlxc192VDJvTzR0MTAzYy1aTVk0dVhlUFJ6M0dNVXdtRE1MWE1STy1qWWk5Tm5vbWd0dkYybUNtaENvQjJta01vZWxNaHJfczgxenRKMHRkM1Q1NS0wNTRzN0twb0pCelNnUl81ZkZmcmxuTWc1S1BMZDdKaVNtOGl0eUVDYV9FVTQ1b0pGdEFCbXBTMDVLWHZO?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjR6Q3JmWjlxc192VDJvTzR0MTAzYy1aTVk0dVhlUFJ6M0dNVXdtRE1MWE1STy1qWWk5Tm5vbWd0dkYybUNtaENvQjJta01vZWxNaHJfczgxenRKMHRkM1Q1NS0wNTRzN0twb0pCelNnUl81ZkZmcmxuTWc1S1BMZDdKaVNtOGl0eUVDYV9FVTQ1b0pGdEFCbXBTMDVLWHZO?oc=5\" target=",
+  "date": "2026-11-13T18:30:22.000Z",
+  "fetched": "2026-11-14T12:03:11.603Z",
+  "fromCloud": "2026-11-14T1203.json"
+ },
+ {
   "id": "846124ea51e88252",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -5124,170 +5201,5 @@
   "date": "2026-11-13T12:04:12.000Z",
   "fetched": "2026-11-13T12:33:12.333Z",
   "fromCloud": "2026-11-13T1233.json"
- },
- {
-  "id": "021ba1d697105117",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Colette Kress helped bring Israel to the heart of Nvidia's AI business. Now she's in charge. - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtcVpnOXE4Sk9DN25tRFl0VDBSV3dCWUpZTFNpak5FTFhmVVRYWWppV3ZQYkxPSzVsSnJpN3Jwb2hrNmhFRGc2bFJxU3RUMklncm1KemFxai16WU5rNlMtSTZwblYxTC1Y?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtcVpnOXE4Sk9DN25tRFl0VDBSV3dCWUpZTFNpak5FTFhmVVRYWWppV3ZQYkxPSzVsSnJpN3Jwb2hrNmhFRGc2bFJxU3RUMklncm1KemFxai16WU5rNlMtSTZwblYxTC1Y?oc=5\" target=\"_blank\">Colette Kress helped bring Israel to the heart of Nvidia's AI busin",
-  "date": "2026-11-13T12:02:00.000Z",
-  "fetched": "2026-11-13T12:33:12.333Z",
-  "fromCloud": "2026-11-13T1233.json"
- },
- {
-  "id": "6fa30a0769a7ea09",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - MAMMOTH ENERGY SERVICES, INC. (0001679268) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1679268/000162828026073569/0001628280-26-073569-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001628280-26-073569 <b>Size:</b> 432 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-  "date": "2026-11-13T12:01:46.000Z",
-  "fetched": "2026-11-13T12:03:11.505Z",
-  "fromCloud": "2026-11-13T1203.json"
- },
- {
-  "id": "d2794be4d092d1bb",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "שוק הנפט חוזר לעודף: מה זה אומר על מחיר הבנזין בדצמבר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySllOdUdtUm8wNWduTWNCcDZxbFNoLXB0LUt6enBLdmdTcmt5SDNSdnpEZnpXc3RzUUhGZzFZUHdkNmZjejhrS0VFYThGSkZ5UGdXOTVBYmdrZVVrbm9HX0hxVnZYX1E?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySllOdUdtUm8wNWduTWNCcDZxbFNoLXB0LUt6enBLdmdTcmt5SDNSdnpEZnpXc3RzUUhGZzFZUHdkNmZjejhrS0VFYThGSkZ5UGdXOTVBYmdrZVVrbm9HX0hxVnZYX1E?oc=5\" target=\"_blank\">שוק הנפט חוזר לעודף: מה זה אומר על מחיר הבנזין בדצמבר</a>&nbsp;&nbsp",
-  "date": "2026-11-13T12:01:00.000Z",
-  "fetched": "2026-11-13T16:03:11.685Z",
-  "fromCloud": "2026-11-13T1603.json"
- },
- {
-  "id": "ac343cff4ebb1d82",
-  "source": "AV Network",
-  "group": "industry",
-  "title": "A 98-Foot Curved Video Wall Brings Catchphrase to Life",
-  "link": "https://www.avnetwork.com/installations/sports-entertainment/a-98-foot-curved-video-wall",
-  "summary": "Green Hippo is the magic behind the game show.",
-  "date": "2026-11-13T12:00:00.000Z",
-  "fetched": "2026-11-13T12:33:12.333Z",
-  "fromCloud": "2026-11-13T1233.json"
- },
- {
-  "id": "c2fe431e73945b9c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "REG - Gfinity PLC - Acquisition, Share Consolidation, General Meeting - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORXNxMFVfUkhvaVJ4MFVsYlRYXzcxV0p3emVPcUFldnVydkFxZDhNMGtnYTdTNzF0Ty1EVHZleUY3aTFZZVh4eUVROWpvYUNiaTgwVENlMXlrVGxfVmhkTnhBRjlPa3U0NHNtSjU1dUQxaFlENzM2Um0yczF5UEFOMTNWYl9uY0M0dUluRmtidGtrZTZCMElVdTRNQzcydFBJNUc2ajMwalpoVE9lOGlXcFVOQzNIVmJ6M042SWJPelFhZHVLc2dVd01yTld4VTVVYWRBUTFn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxORXNxMFVfUkhvaVJ4MFVsYlRYXzcxV0p3emVPcUFldnVydkFxZDhNMGtnYTdTNzF0Ty1EVHZleUY3aTFZZVh4eUVROWpvYUNiaTgwVENlMXlrVGxfVmhkTnhBRjlPa3U0NHNtSjU1dUQxaFlENzM2Um0yczF5UEFOMTNWYl9uY0M0dUluRmtidGtrZTZCMElVdTRNQzcydFBJNUc2ajMwalpoVE",
-  "date": "2026-11-13T12:00:00.000Z",
-  "fetched": "2026-11-13T13:33:11.557Z",
-  "fromCloud": "2026-11-13T1333.json"
- },
- {
-  "id": "e25b2e803ebe080f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מודין מזנקת ב-30%, אנבידיה 2.5%; ומה קורה בחוזים על הנאסד\"ק? - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1LUVRODVEYmM4SXllYTNIVFcyQ3NtVjhsV3FYUzRFRmFrN2NOQ1lxZXpCS1dleUIxNHFFQWYtMnM4YnVwQUJNRWljb3oyeWNSMDF4Z09LZ3JBZTl1ZmpOd2oxQWVFcVdmZTR6Q1ItZnQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB1LUVRODVEYmM4SXllYTNIVFcyQ3NtVjhsV3FYUzRFRmFrN2NOQ1lxZXpCS1dleUIxNHFFQWYtMnM4YnVwQUJNRWljb3oyeWNSMDF4Z09LZ3JBZTl1ZmpOd2oxQWVFcVdmZTR6Q1ItZnQ?oc=5\" target=\"_blank\">מודין מזנקת ב-30%, אנבידיה 2.5%; ומה קורה בחוזים על הנאס",
-  "date": "2026-11-13T11:59:00.000Z",
-  "fetched": "2026-11-13T12:33:12.333Z",
-  "fromCloud": "2026-11-13T1233.json"
- },
- {
-  "id": "edd00f07922c08de",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "12 שעות של שיבוש ב-74 מדינות: מיקרוסופט 365 חוזרת לפעול בהדרגה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qSG5WdjZ6RXlHYnpYc0w0VVRVdUlmb3A4aDhmOTR0c2RoRkFiZGNXZkZkSHNoTExaeUZ4anVKRVZaYXZuMWRvWTVocnhBY1JOWHNYa0xTZFRwS1hDZWFrckNHLTBFQTRX?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qSG5WdjZ6RXlHYnpYc0w0VVRVdUlmb3A4aDhmOTR0c2RoRkFiZGNXZkZkSHNoTExaeUZ4anVKRVZaYXZuMWRvWTVocnhBY1JOWHNYa0xTZFRwS1hDZWFrckNHLTBFQTRX?oc=5\" target=\"_blank\">12 שעות של שיבוש ב-74 מדינות: מיקרוסופט 365 חוזרת לפעול בהדרגה</a>&",
-  "date": "2026-11-13T11:58:00.000Z",
-  "fetched": "2026-11-13T18:03:19.062Z",
-  "fromCloud": "2026-11-13T1803.json"
- },
- {
-  "id": "bc6cda4f777671d4",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "קנדה לסטלנטיס: תעבירו מפעל לארה\"ב? נתבע אתכם - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KS3Ewb1dHdXdMWGtDUWJQM3dGWEh5UW9YRkpZWDc5eDFYSzg4RWhHRGxKVjhKMDZ2NWlrcDdTSFdudFNJUktjQ0N3SExuVG93VXhucEdmR2NPenVud2FDUU4tY1o2V0pSaUFYRHdn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1KS3Ewb1dHdXdMWGtDUWJQM3dGWEh5UW9YRkpZWDc5eDFYSzg4RWhHRGxKVjhKMDZ2NWlrcDdTSFdudFNJUktjQ0N3SExuVG93VXhucEdmR2NPenVud2FDUU4tY1o2V0pSaUFYRHdn?oc=5\" target=\"_blank\">קנדה לסטלנטיס: תעבירו מפעל לארה\"ב? נתבע אתכם</a>&nbsp;&nbsp",
-  "date": "2026-11-13T11:55:00.000Z",
-  "fetched": "2026-11-13T12:03:11.505Z",
-  "fromCloud": "2026-11-13T1203.json"
- },
- {
-  "id": "1fc7931e5c6baa89",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ארבע שנים בלי טיל אחד: רומניה חוזרת לרפאל כדי להציל את ייצור המיירטים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05MG9DblJkSkZiNzdYSmtxdkpWT25YUl9oZThxckFJUWFpdnpRdkpreVFoc1FsZmtmMlNFR0FoYUFON1JfbVJQTll1M2wzRk5rUk9CSGJndFZIS2J6WTR3WDBhNUpybzI4UHJwa0t3cFc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE05MG9DblJkSkZiNzdYSmtxdkpWT25YUl9oZThxckFJUWFpdnpRdkpreVFoc1FsZmtmMlNFR0FoYUFON1JfbVJQTll1M2wzRk5rUk9CSGJndFZIS2J6WTR3WDBhNUpybzI4UHJwa0t3cFc?oc=5\" target=\"_blank\">ארבע שנים בלי טיל אחד: רומניה חוזרת לרפאל כדי להציל את י",
-  "date": "2026-11-13T11:53:00.000Z",
-  "fetched": "2026-11-13T12:33:12.333Z",
-  "fromCloud": "2026-11-13T1233.json"
- },
- {
-  "id": "cba9183eb942956e",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - SBC Medical Group Holdings Inc (0001930313) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1930313/000119312526459242/0001193125-26-459242-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001193125-26-459242 <b>Size:</b> 1 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-13T11:50:13.000Z",
-  "fetched": "2026-11-13T12:03:11.505Z",
-  "fromCloud": "2026-11-13T1203.json"
- },
- {
-  "id": "55b91d77fe5a3f22",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Microsoft outage drags into a second day, disrupting businesses and governments worldwide - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2SjJIQVFJOThQSi1xdFE3NXhSSWJFdWpaYzBHX2IxNW1NaURLV3ZKX0xWU2JfdURaVkJ2RWlZSTNjS3pNQ2JncTlGWExWRVNFbm9BS19rNnhDRDJVZXh3RklrdjJkYkE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2SjJIQVFJOThQSi1xdFE3NXhSSWJFdWpaYzBHX2IxNW1NaURLV3ZKX0xWU2JfdURaVkJ2RWlZSTNjS3pNQ2JncTlGWExWRVNFbm9BS19rNnhDRDJVZXh3RklrdjJkYkE?oc=5\" target=\"_blank\">Microsoft outage drags into a second day, disrupting businesses and ",
-  "date": "2026-11-13T11:49:00.000Z",
-  "fetched": "2026-11-13T12:03:11.505Z",
-  "fromCloud": "2026-11-13T1203.json"
- },
- {
-  "id": "c16a314bb2b1220d",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "סרינה וויליאמס שווה 400 מיליון דולר. מאיפה הגיע הכסף? - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15ME90cldadVgwUWloem9aOW45Zkdfb3p0VkdaTDhDdXJPdFZXN2tGS0ZQZGlQV1N0VVhmam16aEk5YzUyU1BydU91a19WTi1MNE93NDF3YVJZeEZjT2RsVHJjUlM3QQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE15ME90cldadVgwUWloem9aOW45Zkdfb3p0VkdaTDhDdXJPdFZXN2tGS0ZQZGlQV1N0VVhmam16aEk5YzUyU1BydU91a19WTi1MNE93NDF3YVJZeEZjT2RsVHJjUlM3QQ?oc=5\" target=\"_blank\">סרינה וויליאמס שווה 400 מיליון דולר. מאיפה הגיע הכסף?</a>&nbsp;&nbsp;",
-  "date": "2026-11-13T11:48:00.000Z",
-  "fetched": "2026-11-13T15:33:13.043Z",
-  "fromCloud": "2026-11-13T1533.json"
- },
- {
-  "id": "8ddfb19cfaf9132c",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "סופרקום הגדילה הכנסות ב-21%, אבל הרווח הנקי כמעט נמחק - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WZEg1Mk5hd2hBaVk0RXpFWVdOM3VRNFFxTE42MGVkdEtqOTdjUGh3aURaLWtCTTVLczB1c0l4T2RkSVFMVWRTTC1mTmxLYnBiTlAxT2EtMldiMERDcVZJTkJqV3FMTV9mTkxpb0tuaXY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9WZEg1Mk5hd2hBaVk0RXpFWVdOM3VRNFFxTE42MGVkdEtqOTdjUGh3aURaLWtCTTVLczB1c0l4T2RkSVFMVWRTTC1mTmxLYnBiTlAxT2EtMldiMERDcVZJTkJqV3FMTV9mTkxpb0tuaXY?oc=5\" target=\"_blank\">סופרקום הגדילה הכנסות ב-21%, אבל הרווח הנקי כמעט נמחק</a",
-  "date": "2026-11-13T11:45:00.000Z",
-  "fetched": "2026-11-13T18:03:19.062Z",
-  "fromCloud": "2026-11-13T1803.json"
- },
- {
-  "id": "bf7edab2dfe88182",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Hancock Whitney agrees $3.2bn all-stock acquisition of Trustmark - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoT0pTOXNDUVU5QVF4cDR6WWNhc2VVeEZzcEY2Umh2SWhncUMxenhLNXNOWV9PdUxicUozLVlpaTlEVEZlREIxNTQxZGRSSHFuLVFhYmg4bmI1SVhxclNEdWU0ekVUQlE0OGYxeXgxT3ZNYm9zWEpGOFRXdkg3Q0k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBoT0pTOXNDUVU5QVF4cDR6WWNhc2VVeEZzcEY2Umh2SWhncUMxenhLNXNOWV9PdUxicUozLVlpaTlEVEZlREIxNTQxZGRSSHFuLVFhYmg4bmI1SVhxclNEdWU0ekVUQlE0OGYxeXgxT3ZNYm9zWEpGOFRXdkg3Q0k?oc=5\" target=\"_blank\">Hancock Whitney agrees $3.2bn all-st",
-  "date": "2026-11-13T11:38:21.000Z",
-  "fetched": "2026-11-13T12:33:12.333Z",
-  "fromCloud": "2026-11-13T1233.json"
- },
- {
-  "id": "89ee829f70073d45",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Santander CFO Cantera details the 'positive impact' AI is having on the bank's services - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85VnMzTS12OHRhYjVGNEF5SWg3TElzVXU2ZTRYN21IRGhmVDRpWVF0YlExelJRNmdLUlY3NEZHQWdibVZzV2NRR1QtMWRkQ25rRGpILU10Q1JmeVM4R1U0ZDdjODdjRERpbXRqYTBFMlc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE85VnMzTS12OHRhYjVGNEF5SWg3TElzVXU2ZTRYN21IRGhmVDRpWVF0YlExelJRNmdLUlY3NEZHQWdibVZzV2NRR1QtMWRkQ25rRGpILU10Q1JmeVM4R1U0ZDdjODdjRERpbXRqYTBFMlc?oc=5\" target=\"_blank\">Santander CFO Cantera details the 'positive impact' AI i",
-  "date": "2026-11-13T11:37:08.000Z",
-  "fetched": "2026-11-13T12:03:11.505Z",
-  "fromCloud": "2026-11-13T1203.json"
  }
 ]
