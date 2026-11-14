@@ -1,5 +1,49 @@
 [
  {
+  "id": "3c5c92af5d5d5f93",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "לאן נעלמו מוניות השירות?",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563302#utm_source=RSS",
+  "summary": "הן היו חלק בלתי נפרד מהנוף של תל אביב, נסעו בתדירות גבוהה, פעלו בשבתות והציעו אלטרנטיבה לאוטובוסים &#8226; אלא שרפורמה ממשלתית שנועדה להרחיב את פעילותן הסתיימה בקריסה של 93% במספר מוניות השירות בישראל &#8226; כך הפכה אחת החלופות הגמישות לתחבורה הציבורית לסיפור של כישלון רגולטורי",
+  "date": "2026-11-14T11:30:00.000Z",
+  "fetched": "2026-11-14T11:33:16.383Z",
+  "fromCloud": "2026-11-14T1133.json"
+ },
+ {
+  "id": "ce7ed1aea35be133",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Hertz to close all Hertz Car Sales locations + Dealer panel notes role of AI in used vehicle acquisition - Car Dealership Guy News",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJeXpOb3IybDVlLXRFVko0SGx3Ukh0aGNXVlZmaEdlZVh4YkM5eS1FbzBMUFJGclYyYlBqNDhUcl83NUxnOWRKOGhlcWc1dFdtN0JCOVRBRTF0ZHhTZHkxOTRKY1QwNVJtOHM0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBJeXpOb3IybDVlLXRFVko0SGx3Ukh0aGNXVlZmaEdlZVh4YkM5eS1FbzBMUFJGclYyYlBqNDhUcl83NUxnOWRKOGhlcWc1dFdtN0JCOVRBRTF0ZHhTZHkxOTRKY1QwNVJtOHM0?oc=5\" target=\"_blank\">Hertz to close all Hertz Car Sales locations + Dealer panel not",
+  "date": "2026-11-14T11:19:41.000Z",
+  "fetched": "2026-11-14T11:33:16.383Z",
+  "fromCloud": "2026-11-14T1133.json"
+ },
+ {
+  "id": "93ee5670551c40a6",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "הטאבלט הזה עולה כמו מחשב. אז למה לבחור בו?",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563239#utm_source=RSS",
+  "summary": "ה&ndash;Galaxy Tab S12 Ultra של סמסונג הוא טאבלט מסיבי, לטוב ולרע &#8226; גולת הכותרת היא המסך הגדול שמציע חוויה מרשימה וגם הסוללה מפתיעה, אבל החיבוריות אינה מספקת - ותג המחיר הופך את המכשיר לכזה שמתאים בעיקר לחובבי העטים",
+  "date": "2026-11-14T11:16:00.000Z",
+  "fetched": "2026-11-14T11:33:16.383Z",
+  "fromCloud": "2026-11-14T1133.json"
+ },
+ {
+  "id": "31797295fcac12a1",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בואינג מקצצת 5% מעובדי חטיבת המטוסים, וקצב ה-737 נדחה ל-2027 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3S0NNd0lyb3pINFpHRWVMeFpDWUxMdVAwWlBnbGNkQ2pLX29DUFhOdXVSWDBPbk9JencwcV9nRVhsWk9HSVB4NGtSa3MzMTBOQXk2QnEwM0h6VkxId0laQy0yNHlWQmh4NEh4ZTFtclA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB3S0NNd0lyb3pINFpHRWVMeFpDWUxMdVAwWlBnbGNkQ2pLX29DUFhOdXVSWDBPbk9JencwcV9nRVhsWk9HSVB4NGtSa3MzMTBOQXk2QnEwM0h6VkxId0laQy0yNHlWQmh4NEh4ZTFtclA?oc=5\" target=\"_blank\">בואינג מקצצת 5% מעובדי חטיבת המטוסים, וקצב ה-737 נדחה ל-",
+  "date": "2026-11-14T11:10:00.000Z",
+  "fetched": "2026-11-14T11:33:16.383Z",
+  "fromCloud": "2026-11-14T1133.json"
+ },
+ {
   "id": "aa98b86cc348af36",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -9,6 +53,39 @@
   "date": "2026-11-14T11:00:55.000Z",
   "fetched": "2026-11-14T11:03:12.124Z",
   "fromCloud": "2026-11-14T1103.json"
+ },
+ {
+  "id": "c9e9cd33b8822a0c",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+  "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+  "summary": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
+  "date": "2026-11-14T11:00:09.000Z",
+  "fetched": "2026-11-14T11:33:16.383Z",
+  "fromCloud": "2026-11-14T1133.json"
+ },
+ {
+  "id": "f694138aff43c168",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+  "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+  "summary": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .",
+  "date": "2026-11-14T11:00:00.000Z",
+  "fetched": "2026-11-14T11:33:16.383Z",
+  "fromCloud": "2026-11-14T1133.json"
+ },
+ {
+  "id": "587e45f477e3bf5d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Heineken posts double-digit Q3 growth in Vietnam, CFO warns of tax, margin pressures - Theinvestor",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcDJfQ19rLTVjM2h5R0k5TURNdzFQUmF0UkhvRklvZTlCQzhtb3M4eURBNTRCTUlzVmRETUNRcmRubFdmVUtDUENkUF9QdkNscXBLTzR0TFotVEU4MTQ4WXhPc2NUVzVhQkdabHYyM1V2eFJpY3otNDBIQzJ0b0R2c2RfVXpRSll5Q19xSkZvczJuR1lNN2lqa19wZ0haUDFSVjRGSk1nVnVIR1gwcS1DLWR3R2FkaUk1?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcDJfQ19rLTVjM2h5R0k5TURNdzFQUmF0UkhvRklvZTlCQzhtb3M4eURBNTRCTUlzVmRETUNRcmRubFdmVUtDUENkUF9QdkNscXBLTzR0TFotVEU4MTQ4WXhPc2NUVzVhQkdabHYyM1V2eFJpY3otNDBIQzJ0b0R2c2RfVXpRSll5Q19xSkZvczJuR1lNN2lqa19wZ0haUDFSVjRGSk1nVnVIR1",
+  "date": "2026-11-14T10:45:32.000Z",
+  "fetched": "2026-11-14T11:33:16.383Z",
+  "fromCloud": "2026-11-14T1133.json"
  },
  {
   "id": "4b863587fb757aa3",
@@ -1034,6 +1111,17 @@
   "fromCloud": "2026-11-14T0303.json"
  },
  {
+  "id": "859a6aebbe7333ba",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (רני צים) 1143619 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDWVl6enJpNW5nb2d0R3pOMWdkeTRYYjlfRy16RzFoVXdjRkNkTUUta1JES3JfcVcyUnBJVHZjU2s0WmY1aElPaDlqVGotRHlsVVYzZzF3Vm1mN2ZsYUxhVUI5VlljTTlkVjQzWmln?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBDWVl6enJpNW5nb2d0R3pOMWdkeTRYYjlfRy16RzFoVXdjRkNkTUUta1JES3JfcVcyUnBJVHZjU2s0WmY1aElPaDlqVGotRHlsVVYzZzF3Vm1mN2ZsYUxhVUI5VlljTTlkVjQzWmln?oc=5\" target=\"_blank\">מניית (רני צים) 1143619</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
+  "date": "2026-11-14T02:29:14.000Z",
+  "fetched": "2026-11-14T11:33:16.383Z",
+  "fromCloud": "2026-11-14T1133.json"
+ },
+ {
   "id": "4aa1206c40056c5f",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1219,6 +1307,17 @@
   "date": "2026-11-13T23:18:55.000Z",
   "fetched": "2026-11-14T00:03:12.797Z",
   "fromCloud": "2026-11-14T0003.json"
+ },
+ {
+  "id": "d9670ef2e1cec963",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (שטראוס) 746016 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzlFY293T25jNWNsT2ZHOUZCQUFsbGx4QjU5TzNhcGppUG9QYW1hYzliVVdibEEtOFRRbkVROXcySWZJUzFfYm9wUGwzclBzcVBZMEtIQUZZQ05HMlFpemFIODRLdTNiMnZYV3JWWmxBVElacnVSTHVnREZnNGRYcXRvQ296MlczNk1ZTmdnQVFFT2xUOEkzRDN1SnktT0pHUXlzYy1oTnZZOFB2Rm1oN19XUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzlFY293T25jNWNsT2ZHOUZCQUFsbGx4QjU5TzNhcGppUG9QYW1hYzliVVdibEEtOFRRbkVROXcySWZJUzFfYm9wUGwzclBzcVBZMEtIQUZZQ05HMlFpemFIODRLdTNiMnZYV3JWWmxBVElacnVSTHVnREZnNGRYcXRvQ296MlczNk1ZTmdnQVFFT2xUOEkzRDN1SnktT0pHUXlzYy1oTnZZOF",
+  "date": "2026-11-13T22:58:49.000Z",
+  "fetched": "2026-11-14T11:33:16.383Z",
+  "fromCloud": "2026-11-14T1133.json"
  },
  {
   "id": "f24fa9c7f1491cae",
@@ -5190,93 +5289,5 @@
   "date": "2026-11-13T11:37:08.000Z",
   "fetched": "2026-11-13T12:03:11.505Z",
   "fromCloud": "2026-11-13T1203.json"
- },
- {
-  "id": "fa53e58061bb042d",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "יותר מחצי יממה בלי מיילים: תקלת הענק במיקרוסופט 365 נמשכת, והחברה עדיין לא יודעת למה - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XRTRKc28wLTJ1YjRVeVlZRk1MaHBBSGkzd3F4a0VGanhraWRfT1RLY1h0NnVxYlZGRkFMLXNmSW8xRVhYd01jaXJNZDJTV05Bcml4STBIeDZpY1RFcnBmSDU4UkxfaW1uUVFn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5XRTRKc28wLTJ1YjRVeVlZRk1MaHBBSGkzd3F4a0VGanhraWRfT1RLY1h0NnVxYlZGRkFMLXNmSW8xRVhYd01jaXJNZDJTV05Bcml4STBIeDZpY1RFcnBmSDU4UkxfaW1uUVFn?oc=5\" target=\"_blank\">יותר מחצי יממה בלי מיילים: תקלת הענק במיקרוסופט 365 נמשכת, והחב",
-  "date": "2026-11-13T11:33:00.000Z",
-  "fetched": "2026-11-13T12:03:11.505Z",
-  "fromCloud": "2026-11-13T1203.json"
- },
- {
-  "id": "faa443ca4fa7b486",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Adani Energy Solutions Completes Rs 3,050 Cr IntelliSmart Acquisition - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdzVmUmhzLUNuU3V2bGx0cldweHdUT1NCbWRYNWZwWHdyU2RIWUc3T0NXa1pZMDZSdTdPbGFsVHFoSEVWUHE5X1pUVmVDN2tuLXlUdmI2NVlFVVdCN2NMTUZnLW1xN01kWk9jWmdER09UZ1VhRFNwLTMxMXVrd2dnaEVOSEM4TGVzWWVDVEFqcXJtOFU3SWtFRkcxT2VJUVBhbnJHMkk1bl9odHh2YmJNV2dwa0l6Y2lQbHA5MThxbDNOb0Rl?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNdzVmUmhzLUNuU3V2bGx0cldweHdUT1NCbWRYNWZwWHdyU2RIWUc3T0NXa1pZMDZSdTdPbGFsVHFoSEVWUHE5X1pUVmVDN2tuLXlUdmI2NVlFVVdCN2NMTUZnLW1xN01kWk9jWmdER09UZ1VhRFNwLTMxMXVrd2dnaEVOSEM4TGVzWWVDVEFqcXJtOFU3SWtFRkcxT2VJUVBhbnJHMkk1bl9odH",
-  "date": "2026-11-13T11:31:25.000Z",
-  "fetched": "2026-11-13T12:33:12.333Z",
-  "fromCloud": "2026-11-13T1233.json"
- },
- {
-  "id": "083109552448d720",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit?",
-  "link": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
-  "summary": "Someone is enjoying an early Christmas",
-  "date": "2026-11-13T11:29:14.000Z",
-  "fetched": "2026-11-13T12:33:12.333Z",
-  "fromCloud": "2026-11-13T1233.json"
- },
- {
-  "id": "259c22b342642277",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Herbert Smith Freehills Kramer advises on health technology company acquisition - ICLG",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlA3RG1tVXNHMFpBN1czM2lkN1lpclRwTzZ6UFFvZjIxM0FRUGFGbEp6ZDV2SW5zbFExMF81T0VUVEFNVHBYdkJBbVRZSVhTb2tzd0hzTFRfdW1CTG92c2NFOGt3cDk3aVlHNy1WODhCamlUU2ZwOXdtYWFNWXBDZXVQNTF6U0lTcHZQRFNzWW9XTjFzY09BeWhDb1VTalpDakZQOFF3dEVNT3B6YWNURg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlA3RG1tVXNHMFpBN1czM2lkN1lpclRwTzZ6UFFvZjIxM0FRUGFGbEp6ZDV2SW5zbFExMF81T0VUVEFNVHBYdkJBbVRZSVhTb2tzd0hzTFRfdW1CTG92c2NFOGt3cDk3aVlHNy1WODhCamlUU2ZwOXdtYWFNWXBDZXVQNTF6U0lTcHZQRFNzWW9XTjFzY09BeWhDb1VTalpDakZQOFF3dEVNT3",
-  "date": "2026-11-13T11:23:54.000Z",
-  "fetched": "2026-11-13T11:33:12.305Z",
-  "fromCloud": "2026-11-13T1133.json"
- },
- {
-  "id": "067f5dd42c0b0eb0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Price Forbes expands South African specialty with broker acquisition - Intelligent Insurer",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3FPd21jeHFKRFU1TGlpY3NxZTdoMllaWlViZGVjaDJjNnREanB1bnJNWkFFVl85aTdTMkdBejlMQlRjbFdVdzRzS2loYzNndGR6dVMxV1RzOEJGbmpJOFl6SEFTMWxUVTFSdGNzUzFodFlCSVVpMi1Xb19wTGRZdk44T3JRYVZ0OUNNUDdJaVZ6MDZSNXpYazdzcklIY2J1b3VLMHd3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3FPd21jeHFKRFU1TGlpY3NxZTdoMllaWlViZGVjaDJjNnREanB1bnJNWkFFVl85aTdTMkdBejlMQlRjbFdVdzRzS2loYzNndGR6dVMxV1RzOEJGbmpJOFl6SEFTMWxUVTFSdGNzUzFodFlCSVVpMi1Xb19wTGRZdk44T3JRYVZ0OUNNUDdJaVZ6MDZSNXpYazdzcklIY2J1b3VLMHd3?oc=5\"",
-  "date": "2026-11-13T11:20:30.000Z",
-  "fetched": "2026-11-13T11:33:12.305Z",
-  "fromCloud": "2026-11-13T1133.json"
- },
- {
-  "id": "62adacb824abb049",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Nokia to support One NZ's network automation goals",
-  "link": "https://www.datacenterdynamics.com/en/news/nokia-to-support-one-nzs-network-automation-goals/",
-  "summary": "<p data-block-key=\"67wnp\">Extends the long-standing partnership between the two companies</p>",
-  "date": "2026-11-13T11:16:32.000Z",
-  "fetched": "2026-11-13T11:33:12.305Z",
-  "fromCloud": "2026-11-13T1133.json"
- },
- {
-  "id": "b6986e2eae48d817",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Re-energised Atlantic grouping will be swifter than Nato, says UK",
-  "link": "https://www.ft.com/content/2500879f-9849-45e8-8e22-082e9fa53228?syn-25a6b1a6=1",
-  "summary": "The Joint Expeditionary Force is little known outside defence circles, but the mounting Russian threat to the High North and Baltic Sea regions has given it new purpose",
-  "date": "2026-11-13T11:05:03.000Z",
-  "fetched": "2026-11-13T11:33:12.305Z",
-  "fromCloud": "2026-11-13T1133.json"
- },
- {
-  "id": "4033fc42734ea0b9",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K12B - Weatherford International Corp (0001603923) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1603923/000160392326000135/0001603923-26-000135-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001603923-26-000135 <b>Size:</b> 1 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation unde",
-  "date": "2026-11-13T11:04:44.000Z",
-  "fetched": "2026-11-13T11:33:12.305Z",
-  "fromCloud": "2026-11-13T1133.json"
  }
 ]
