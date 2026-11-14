@@ -44,6 +44,17 @@
   "fromCloud": "2026-11-14T0033.json"
  },
  {
+  "id": "ac6ae774cb6c7903",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Is Mainstreet Equity (TSX:MEQ) Worth More After Its Acquisition Return? - Yahoo Finance Australia",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYl8tWVNBcEVZaHEtbC1yVURteFRiM0JDZmxvMVRIcTR2U0xqZElQcTZHM1d4ZmhLa2lsWFVjRHZpSExMbXlUZlgwTDUyX2pKTHRybWt0STFBa2QwcERaWVE5M3lsZnNxdTVWcjhpQy11Q2NDY2c2UTRtei1tcjFpRlh5ek5aS0k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYl8tWVNBcEVZaHEtbC1yVURteFRiM0JDZmxvMVRIcTR2U0xqZElQcTZHM1d4ZmhLa2lsWFVjRHZpSExMbXlUZlgwTDUyX2pKTHRybWt0STFBa2QwcERaWVE5M3lsZnNxdTVWcjhpQy11Q2NDY2c2UTRtei1tcjFpRlh5ek5aS0k?oc=5\" target=\"_blank\">Is Mainstreet Equity (TS",
+  "date": "2026-11-14T00:17:00.000Z",
+  "fetched": "2026-11-14T01:33:23.860Z",
+  "fromCloud": "2026-11-14T0133.json"
+ },
+ {
   "id": "18d335eb3d4e2f85",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -6730,49 +6741,5 @@
   "date": "2026-11-13T01:38:00.000Z",
   "fetched": "2026-11-13T02:03:11.688Z",
   "fromCloud": "2026-11-13T0203.json"
- },
- {
-  "id": "454d735bc01711b2",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - REVIVA PHARMACEUTICALS HOLDINGS, INC. (0001742927) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1742927/000143774926036647/0001437749-26-036647-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-13 <b>AccNo:</b> 0001437749-26-036647 <b>Size:</b> 335 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-13T01:30:40.000Z",
-  "fetched": "2026-11-13T11:33:12.305Z",
-  "fromCloud": "2026-11-13T1133.json"
- },
- {
-  "id": "4c551c3ecd1b9dbb",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "נילי בן-טובים - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWtoTG9aa3VVWHRHcS1uTGRTQ3J6eGZQb2ZndmtvcDdYV09WZU1qT0pnVkVEMHlMTGdpeDAtWWtYYnF6UTZ6MXQ4Wk5QWjJBNXp4WlNWTXV4by1pUDBQN0Fodlc3UjZTVWFQa1lUUngxNzU5UkE1UHNUbk9EWVhiQ3c3S1dSSEpoMXVvR1dOYXFKZXRpNXpvZnd4RXlzZFhmNlhZ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWtoTG9aa3VVWHRHcS1uTGRTQ3J6eGZQb2ZndmtvcDdYV09WZU1qT0pnVkVEMHlMTGdpeDAtWWtYYnF6UTZ6MXQ4Wk5QWjJBNXp4WlNWTXV4by1pUDBQN0Fodlc3UjZTVWFQa1lUUngxNzU5UkE1UHNUbk9EWVhiQ3c3S1dSSEpoMXVvR1dOYXFKZXRpNXpvZnd4RXlzZFhmNlhZ?oc=5\" tar",
-  "date": "2026-11-13T01:26:19.000Z",
-  "fetched": "2026-11-13T13:03:11.458Z",
-  "fromCloud": "2026-11-13T1303.json"
- },
- {
-  "id": "066087e175cd5957",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Digital Transformation Office hosts masterclass to accelerate culture change, digital acquisition - Air Force Materiel Command (.mil)",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SYU9PTWdGbUxxZzBkQWdlQ2I5dDRKOXhuR0lWNW5RNS1ERXB5WEtsUExnLW9sUGdiMkthQVZfVDF0YVFMMDlXOFdGRFU0ZFlVcW5VNzdFbEdEbmpxYXEwTjJGdTJ0UQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SYU9PTWdGbUxxZzBkQWdlQ2I5dDRKOXhuR0lWNW5RNS1ERXB5WEtsUExnLW9sUGdiMkthQVZfVDF0YVFMMDlXOFdGRFU0ZFlVcW5VNzdFbEdEbmpxYXEwTjJGdTJ0UQ?oc=5\" target=\"_blank\">Digital Transformation Office hosts masterclass to accelerate culture",
-  "date": "2026-11-13T01:14:28.000Z",
-  "fetched": "2026-11-13T03:03:13.727Z",
-  "fromCloud": "2026-11-13T0303.json"
- },
- {
-  "id": "aea56366a5f44447",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Watch Stocks Fall as Huang Resigns, Nvidia Turns to CFO - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS0NkX1gxMHMtNmYwakhhSVp4QnVzaVJxVk9wSUhEQ21hNnk1RlpqMm1IVWJIbWNKMEZkaGE1MXdnSEU5OTBmdzFTUnlxS3R4RHRaYUdGTmVpRllkWDdoY0RLLXlNVFlUc2lLaE00dWNWVUZNUi1qdzBhWG9FVThxUw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOS0NkX1gxMHMtNmYwakhhSVp4QnVzaVJxVk9wSUhEQ21hNnk1RlpqMm1IVWJIbWNKMEZkaGE1MXdnSEU5OTBmdzFTUnlxS3R4RHRaYUdGTmVpRllkWDdoY0RLLXlNVFlUc2lLaE00dWNWVUZNUi1qdzBhWG9FVThxUw?oc=5\" target=\"_blank\">Watch Stocks Fall as Huang Resign",
-  "date": "2026-11-13T01:04:43.000Z",
-  "fetched": "2026-11-13T01:33:11.610Z",
-  "fromCloud": "2026-11-13T0133.json"
  }
 ]
