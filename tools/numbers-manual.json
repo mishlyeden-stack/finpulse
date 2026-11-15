@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-11-12",
+  "updated": "2026-11-15",
   "numbers": [
     {
       "key": "cpi",
@@ -16,34 +16,34 @@
     {
       "key": "ta35",
       "label": "מדד ת״א 35",
-      "value": "4,013",
-      "change": "+1.84%",
-      "note": "נעילת 9 נובמבר 2026",
+      "value": "4,038",
+      "change": "+0.62%",
+      "note": "נעילת 13 נובמבר 2026",
       "source": "https://market.tase.co.il/en/market_data/index/142/major_data",
       "by": "TASE",
-      "asOf": "2026-11-09",
+      "asOf": "2026-11-13",
       "maxAgeDays": 3
     },
     {
       "key": "il10y",
       "label": "אג״ח ממשלתי 10ש׳ ישראל",
-      "value": "4.16%",
-      "change": "-0.00",
-      "note": "נובמבר 2026",
+      "value": "4.06%",
+      "change": "-0.10",
+      "note": "10 נובמבר 2026",
       "source": "https://www.investing.com/rates-bonds/israel-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-11-09",
+      "asOf": "2026-11-10",
       "maxAgeDays": 5
     },
     {
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
-      "value": "4.88%",
-      "change": "+0.02",
-      "note": "9 נובמבר 2026",
+      "value": "5.15%",
+      "change": "+0.27",
+      "note": "13 נובמבר 2026",
       "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
       "by": "Investing.com",
-      "asOf": "2026-11-09",
+      "asOf": "2026-11-13",
       "maxAgeDays": 3
     },
     {
@@ -71,20 +71,20 @@
   ],
   "events": [
     {
-      "date": "12.11",
-      "what": "Applied Materials + Cisco תוצאות רבעוניות (אחרי שוק)"
+      "date": "15.11",
+      "what": "מדד המחירים לאוקטובר (ישראל) — פרסום 18:30"
     },
     {
-      "date": "15.11",
-      "what": "מדד המחירים לאוקטובר (ישראל)"
+      "date": "23.11",
+      "what": "החלטת ריבית בנק ישראל"
     },
     {
       "date": "07.12",
-      "what": "סיום מנדט אייזנקוט לגיבוש קואליציה (28 יום)"
+      "what": "סיום מנדט אייזנקוט לגיבוש קואליציה"
     },
     {
       "date": "09.12",
-      "what": "החלטת ריבית הפד (FOMC)"
+      "what": "החלטת ריבית הפד (FOMC) — 90% להעלאה"
     },
     {
       "date": "17.12",
