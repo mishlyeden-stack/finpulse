@@ -1,33 +1,5 @@
 [
  {
-  "key": "Arini / דרהי | מכירת חובות 800 מיליון דולר אחרי צניחה 26% | נובמבר 2026",
-  "level": "learn",
-  "first": 1793514938332,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ServiceNow | AI כרוח גבית — המבחן האמיתי ב-cRPO | נובמבר 2026",
-  "level": "learn",
-  "first": 1793514938332,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "חפציבה | אג״ח קמים לתחייה — שווי עולה פי 14 אחרי אישור הסדר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793514938333,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Barracuda | מינוי CFO חדש | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793514938333,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "מודי'ס | שיפור תחזית צמיחה ישראל + אזהרה על ממשלה הבאה | נובמבר 2026",
   "level": "yellow",
   "first": 1793518537127,
@@ -4077,6 +4049,34 @@
   "key": "אנבידיה–הואנג | קריאות להחזרת מנכ״ל + מאסק מצטרף לעצומה | נובמבר 2026",
   "level": "yellow",
   "first": 1794724463637,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה–ישראל | הכפלת מס לכ-2.6 מיליארד דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794726306496,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | דוח ראשון ללא הואנג + הזדמנות מס | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794726306497,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק אש | גיוס 150 מיליון שקל + ניר צוק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794726306497,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב–תעופה | שיתוק מערכות + 50 מיליארד דולר לשדרוג | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794726306497,
   "sentLive": false,
   "candidate": true
  }
