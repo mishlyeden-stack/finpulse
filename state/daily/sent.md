@@ -120,3 +120,4 @@ Signal חוזר נשלח רק בהתפתחות מהותית שמשנה את הה
 | S-20261112-Reaed | אנבידיה–הואנג \| ירידה 8% + דירקטוריון שוקל הדחה + CFO כמועמדת ביניים \| נובמבר 2026 | https://www.globes.co.il/news/article.aspx?did=1001563101#utm_source=RSS | Live RSS 2026-11-12 08:59 | התפתחות | 🔴 |
 | S-20261112-Rdf23 | אנבידיה \| ג׳נסן הואנג מתפטר — CFO קרס כמנכ״לית ביניים \| נובמבר 2026 | https://www.globes.co.il/news/article.aspx?did=1001563140#utm_source=RSS | Live RSS 2026-11-12 16:22 | התפתחות | 🔴 |
 | S-20261112-Rb424 | דולר–שקל \| זינוק + נפט ל-94 דולר אחרי צייץ טראמפ \| נובמבר 2026 | https://www.ynet.co.il/economy/article/s1m8er7cfx | Live RSS 2026-11-12 16:22 | התפתחות | 🔴 |
+| S-20261115-R95e1 | איראן \| תקיפת בית הצי החמישי בבחריין — השלכות נפט ושווקים \| נובמבר 2026 | https://www.bizportal.co.il/globalmarkets/news/article/20048582 | Live RSS 2026-11-15 10:39 | — | 🔴 |
