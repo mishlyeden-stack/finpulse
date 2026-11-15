@@ -1,47 +1,5 @@
 [
  {
-  "key": "טאואר | ירידה 42% משיא — ערב דוחות Q3 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793531246335,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אינטל | פיצוץ קריית גת — השפעה 300 מיליון דולר על Q4 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793531246336,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פריון | נמכרת ל-Affle ב-420 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793531246336,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סוכני AI | ניהול הרשאות גישה — אתגר אבטחה חדש | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793531246336,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | רכש ביטחוני — טילי שיוט, הגנה אווירית, מל״טים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793531246336,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אפל | עקפה אנבידיה — שווי 5 טריליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793531246336,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Flex | רכישת EPC Power ב-4.4 מיליארד דולר — מימון שאיפות AI | נובמבר 2026",
   "level": "learn",
   "first": 1793534792190,
@@ -4147,6 +4105,13 @@
   "key": "אנתרופיק | הנפקה מחר בנאסד״ק — טווח 70–78 דולר | נובמבר 2026",
   "level": "yellow",
   "first": 1794737603999,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מובילאיי | הטבות מדינה 162 מיליון דולר — יותר מכל המס בשלוש שנים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794742535050,
   "sentLive": false,
   "candidate": true
  }
