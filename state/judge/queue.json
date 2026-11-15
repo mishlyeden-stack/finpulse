@@ -286,6 +286,17 @@
   "fromCloud": "2026-11-14T2003.json"
  },
  {
+  "id": "f01cf42c226ad0cf",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "גבר בן 71 נמצא מת בדירתו ברחוב רש\"י בחיפה, כשבוע אחרי הקשר האחרון עמו - HKN חיפה והקריות",
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Mems1RldNbUVDWEM3NHl4R19oQnhDZ2xNSFpnNWQ1cW9jZXlBWVlHVm5mR21vM1d6M3lzOENKdzVLZjVKLTczbA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Mems1RldNbUVDWEM3NHl4R19oQnhDZ2xNSFpnNWQ1cW9jZXlBWVlHVm5mR21vM1d6M3lzOENKdzVLZjVKLTczbA?oc=5\" target=\"_blank\">גבר בן 71 נמצא מת בדירתו ברחוב רש\"י בחיפה, כשבוע אחרי הקשר האחרון עמו</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HK",
+  "date": "2026-11-14T19:47:59.000Z",
+  "fetched": "2026-11-15T00:03:12.205Z",
+  "fromCloud": "2026-11-15T0003.json"
+ },
+ {
   "id": "ba73302219ef81e9",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1428,6 +1439,17 @@
   "date": "2026-11-14T11:16:00.000Z",
   "fetched": "2026-11-14T11:33:16.383Z",
   "fromCloud": "2026-11-14T1133.json"
+ },
+ {
+  "id": "936b208c0320c73a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ענת גלעד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jMU1fd0VXUzd0bFRYTlJ3OWJZb3lhd29oc09zTmd4MnE5WVA3NXljTEtKcUNWcVJuWWF1cm9odjJ2aFptcWJtSmYzT01tdmJZbGExb1Q2eDJwWFhJVEVlQnhWcmQzZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jMU1fd0VXUzd0bFRYTlJ3OWJZb3lhd29oc09zTmd4MnE5WVA3NXljTEtKcUNWcVJuWWF1cm9odjJ2aFptcWJtSmYzT01tdmJZbGExb1Q2eDJwWFhJVEVlQnhWcmQzZw?oc=5\" target=\"_blank\">ענת גלעד</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-14T11:13:04.000Z",
+  "fetched": "2026-11-15T00:03:12.205Z",
+  "fromCloud": "2026-11-15T0003.json"
  },
  {
   "id": "31797295fcac12a1",
@@ -2750,6 +2772,17 @@
   "fromCloud": "2026-11-14T0103.json"
  },
  {
+  "id": "763e7af06faf9722",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "IPXGW - Inflection Point Acquisition Corp. VII | News - OTC Markets",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMGMzaXNJQXlhOHF6elh3bzBiV3FxNDFOdlBSY05aQXdGY3AzS3VPaHRjbmVTaWZLS0J1SUlza1M0SjNNRG93cUZlZW5RMVdRTkhwZGFPWTFpUWFWNENEeENPNUVONERkeTdjTWgtZXR5VW5mcG01QkloRFNYX09GdnlFcnlJZ1J0RW9wcVNvYmlJbU1mWkVKOHl4Uk5NejBfMzJJYVFLazVCM1hqSU1BQUVfTzdPN1BWdFJjd1RyQU1YRVNWOXpUT1FabXZDaG5WQk1zcA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMGMzaXNJQXlhOHF6elh3bzBiV3FxNDFOdlBSY05aQXdGY3AzS3VPaHRjbmVTaWZLS0J1SUlza1M0SjNNRG93cUZlZW5RMVdRTkhwZGFPWTFpUWFWNENEeENPNUVONERkeTdjTWgtZXR5VW5mcG01QkloRFNYX09GdnlFcnlJZ1J0RW9wcVNvYmlJbU1mWkVKOHl4Uk5NejBfMzJJYVFLazVCM1",
+  "date": "2026-11-14T00:56:05.000Z",
+  "fetched": "2026-11-15T00:03:12.205Z",
+  "fromCloud": "2026-11-15T0003.json"
+ },
+ {
   "id": "0d014eb3ef8b0090",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -2836,49 +2869,5 @@
   "date": "2026-11-14T00:10:27.000Z",
   "fetched": "2026-11-14T00:33:10.898Z",
   "fromCloud": "2026-11-14T0033.json"
- },
- {
-  "id": "b0b2cb1c5096c81f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Peak 10 Energy Secures $500MM Facility to Fuel Oil and Gas Acquisitions - Hart Energy",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXNTbEpCcU9ma0g4VjJRTXpOOEdSZS1EekdMRVFUekFuSGtqb3laT2l0eGVXb2JTMkFjSWpQUkRTMENnODRZclhNSS12WGFLOWYyN1VqU0dvVy1VY0t2U3gxWTlGazc1Q2E4N1J4WC1xamtvY1lJenN2M3M1WmVYVENicERJd2dIdllvR2NId01SLXM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXNTbEpCcU9ma0g4VjJRTXpOOEdSZS1EekdMRVFUekFuSGtqb3laT2l0eGVXb2JTMkFjSWpQUkRTMENnODRZclhNSS12WGFLOWYyN1VqU0dvVy1VY0t2U3gxWTlGazc1Q2E4N1J4WC1xamtvY1lJenN2M3M1WmVYVENicERJd2dIdllvR2NId01SLXM?oc=5\" target=\"_blank\">Peak 10 ",
-  "date": "2026-11-13T23:54:41.000Z",
-  "fetched": "2026-11-14T00:51:00.216Z",
-  "fromCloud": "2026-11-14T0051.json"
- },
- {
-  "id": "71df0d0e0426b9d6",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "SpaceX aborts attempt to catch Starship rocket after booster fails",
-  "link": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
-  "summary": "Elon Musk suffers setback in efforts to develop a completely reusable megarocket system",
-  "date": "2026-11-13T23:43:09.000Z",
-  "fetched": "2026-11-14T00:03:12.797Z",
-  "fromCloud": "2026-11-14T0003.json"
- },
- {
-  "id": "9a9ec022ad1a0e0b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Represented GenNx360 Capital Partners in its acquisition of DRT Aerospace - Winston Taylor",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWFXNnpOclJ5dUJDWVBpRmFvdDU2TUxSLWY2a1BnWmV1RWJxNjlXSTQzMEpLbl9DQ2haTlNkTnpGRWZkY0Z2LXJxNFJUYk84VU9rRkhLYjZTNTlBT1YwRGZiVDBuOWFOTVBkX2RTZUJ0bGRUSjJuRkhqWEdTMjJoRVNWMXhJU3hZR1NhOUxkZ240dUhyeUJzdG1XOUtKemlvRUZDenBMblJTTEYzbE1YeGJ3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWFXNnpOclJ5dUJDWVBpRmFvdDU2TUxSLWY2a1BnWmV1RWJxNjlXSTQzMEpLbl9DQ2haTlNkTnpGRWZkY0Z2LXJxNFJUYk84VU9rRkhLYjZTNTlBT1YwRGZiVDBuOWFOTVBkX2RTZUJ0bGRUSjJuRkhqWEdTMjJoRVNWMXhJU3hZR1NhOUxkZ240dUhyeUJzdG1XOUtKemlvRUZDenBMblJTTE",
-  "date": "2026-11-13T23:41:55.000Z",
-  "fetched": "2026-11-14T00:51:00.216Z",
-  "fromCloud": "2026-11-14T0051.json"
- },
- {
-  "id": "9896210f0dd0968d",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-  "link": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
-  "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
-  "date": "2026-11-13T23:39:26.000Z",
-  "fetched": "2026-11-14T00:03:12.797Z",
-  "fromCloud": "2026-11-14T0003.json"
  }
 ]
