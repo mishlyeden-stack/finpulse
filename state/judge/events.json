@@ -1,33 +1,5 @@
 [
  {
-  "key": "סיליקום | צמיחה 71% עם הפסד בשורה תחתונה — Q3 2026 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793538442528,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | שרשרות אספקה תחת לחץ — ים סוף ונמלי ים תיכון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793538442528,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וול סטריט | שבוע דוחות — פלנטיר ולומנטום-מארוול | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793538442528,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מיכל מור | תעשייה ביטחונית — טרנד לצמיתות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793538442528,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל | מבחן הממשלה הבאה בהייטק — מס אופציות, AI, קוונטום, חרמות | נובמבר 2026",
   "level": "yellow",
   "first": 1793542053844,
@@ -4091,6 +4063,13 @@
   "key": "פנטגון | שינוי שם CDAO ל-Super Intelligence Office — טראמפ מחליף AI בסופר-אינטליג׳נס | נובמבר 2026",
   "level": "yellow",
   "first": 1794747982127,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | משרות פנויות מתכווצות — ייטק מוביל בירידה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794751568108,
   "sentLive": false,
   "candidate": true
  }
