@@ -1,5 +1,60 @@
 [
  {
+  "id": "31d8ce40da4bcf34",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "מרחק נגיעה מהגבול התחתון: מה הפיל את המדד רגע לפני החלטת הריבית?",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563501#utm_source=RSS",
+  "summary": "מדד המחירים ירד באוקטובר בניגוד לתחזיות למרות התחזקות הדולר ביותר מ־3.6% בתוך חודש, והאינפלציה השנתית התמתנה ל־1.1% בלבד &#8226; רונן מנחם ממזרחי טפחות מסביר מדוע הפיחות בשקל עדיין לא הגיע למדד, ומזכיר כי השפעתו עוד עשויה להופיע בחודשים הקרובים &#8226; לאחר הנתון המפתיע הוא אומר,",
+  "date": "2026-11-15T17:29:00.000Z",
+  "fetched": "2026-11-15T17:33:11.390Z",
+  "fromCloud": "2026-11-15T1733.json"
+ },
+ {
+  "id": "3386876956577358",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הדמוקרטים ניצחו, אבל יצרניות הרכב החשמלי לא בונות על חזרת הסובסידיות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qWjZSdk8yNE1kR2owRVFxX0EtSGgzRC1YY1o3MGZ0N2s5SXZRODctZ0pLdTNIX2p6U0h5d0xfSUwwOExGcWpaaHREVWFVWXdiY1V1bVhTdkNyZTlGSzdvblJlNnFZa1MyMWR5TDViLUI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1qWjZSdk8yNE1kR2owRVFxX0EtSGgzRC1YY1o3MGZ0N2s5SXZRODctZ0pLdTNIX2p6U0h5d0xfSUwwOExGcWpaaHREVWFVWXdiY1V1bVhTdkNyZTlGSzdvblJlNnFZa1MyMWR5TDViLUI?oc=5\" target=\"_blank\">הדמוקרטים ניצחו, אבל יצרניות הרכב החשמלי לא בונות על חזר",
+  "date": "2026-11-15T17:26:00.000Z",
+  "fetched": "2026-11-15T17:33:11.390Z",
+  "fromCloud": "2026-11-15T1733.json"
+ },
+ {
+  "id": "946d02a42e1a7af8",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO",
+  "link": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
+  "summary": "US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China",
+  "date": "2026-11-15T17:15:23.000Z",
+  "fetched": "2026-11-15T17:33:11.390Z",
+  "fromCloud": "2026-11-15T1733.json"
+ },
+ {
+  "id": "86cd42306acc016c",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "מי יכול להחליף את ג&#039;נסן הואנג כמנכ&#034;ל אנבידיה?",
+  "link": "https://www.pc.co.il/featured/461510/",
+  "summary": "התפטרותו של ג'נסן הואנג מתפקיד מנכ\"ל אנבידיה יצרה ואקום מנהיגותי בחברה שמובילה את התחום המוביל כיום בעולם הטכנולוגיה &#8211; בינה מלאכותית. הסיבה העיקרית לכך היא שיטת הניהול הריכוזית שלו: הואנג לא מינה יורש, \"מספר 2\", לא הכשיר אף אחד ליום שאחריו, 60 מנהלים דיווחו ישירות אליו ולמע",
+  "date": "2026-11-15T17:09:26.000Z",
+  "fetched": "2026-11-15T17:33:11.390Z",
+  "fromCloud": "2026-11-15T1733.json"
+ },
+ {
+  "id": "bde7a5314a926abc",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector",
+  "link": "https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99?syn-25a6b1a6=1",
+  "summary": "Summit’s Ivonescimab was seen as a test case for whether the country’s medicine could pass scrutiny in the US",
+  "date": "2026-11-15T17:07:06.000Z",
+  "fetched": "2026-11-15T17:33:11.390Z",
+  "fromCloud": "2026-11-15T1733.json"
+ },
+ {
   "id": "fbe3ce7c67f2bf9c",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -20,6 +75,17 @@
   "date": "2026-11-15T16:57:00.000Z",
   "fetched": "2026-11-15T17:03:11.622Z",
   "fromCloud": "2026-11-15T1703.json"
+ },
+ {
+  "id": "6f245e7f5dd37217",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "“Cooperation for 15 years”: The case for Europe as a long-term alternative to the US - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VVhUMk82dGYwbXpoaE15a2VVTmEzY1BxaUZ0aDRRNGxhOE9tSUFxMDl5T1IxTlhzeHpoODFEMXNGZEg5SVlEMzBtWm1rcWZTaG9sOHdTSXByT0dUamtYcU8wRjVBRk5p?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VVhUMk82dGYwbXpoaE15a2VVTmEzY1BxaUZ0aDRRNGxhOE9tSUFxMDl5T1IxTlhzeHpoODFEMXNGZEg5SVlEMzBtWm1rcWZTaG9sOHdTSXByT0dUamtYcU8wRjVBRk5p?oc=5\" target=\"_blank\">“Cooperation for 15 years”: The case for Europe as a long-term alte",
+  "date": "2026-11-15T16:55:00.000Z",
+  "fetched": "2026-11-15T17:33:11.390Z",
+  "fromCloud": "2026-11-15T1733.json"
  },
  {
   "id": "5b269cbc910c860b",
@@ -614,6 +680,17 @@
   "date": "2026-11-15T12:55:00.000Z",
   "fetched": "2026-11-15T15:03:14.513Z",
   "fromCloud": "2026-11-15T1503.json"
+ },
+ {
+  "id": "efe9b1c54e726042",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Form 4 Dynatrace Holdings LLC: James M. Benson (EVP, CFO and Treasurer) For: 15 September - Investing.com Australia",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSUtfVVA1ZnNMRUgzRklIZnotV3d1VmxoTmJCcDZ6d0dYSGhPRjZqREU2eS04RVVnQzluU01LcG5RejVIUHdFM2NfWjQwdjE4ZWdBb1E4bXF2QXV1aGVDR1N0WE4xSDFYcV9TelBOT0R0SkhhYUM0ZzJyX2NUNlhtcGE4dlJnTXdQRlVhUmJEMHJqeUgzaWxLdmp1anlzeGppSEUyZmRxR0RtbVROekVhVHozamQ4Yk1aWkEtQUZ2OUJDTlNsZ1gxaUMzc0lTWUJCNlhVWFU3RTZTVk1f?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSUtfVVA1ZnNMRUgzRklIZnotV3d1VmxoTmJCcDZ6d0dYSGhPRjZqREU2eS04RVVnQzluU01LcG5RejVIUHdFM2NfWjQwdjE4ZWdBb1E4bXF2QXV1aGVDR1N0WE4xSDFYcV9TelBOT0R0SkhhYUM0ZzJyX2NUNlhtcGE4dlJnTXdQRlVhUmJEMHJqeUgzaWxLdmp1anlzeGppSEUyZmRxR0RtbV",
+  "date": "2026-11-15T11:23:07.000Z",
+  "fetched": "2026-11-15T17:33:11.390Z",
+  "fromCloud": "2026-11-15T1733.json"
  },
  {
   "id": "e74b62c49c7aadbc",
