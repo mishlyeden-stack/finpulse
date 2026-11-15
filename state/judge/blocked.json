@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 107
+  "blocked": 110
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -686,5 +686,9 @@
  "briefs.co": {
   "ok": 1,
   "blocked": 0
+ },
+ "admiralmarkets.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
