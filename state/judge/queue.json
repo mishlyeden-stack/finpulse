@@ -264,6 +264,17 @@
   "fromCloud": "2026-11-15T1603.json"
  },
  {
+  "id": "3aa1ba95d106fa42",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "אוריון נכסים מסחריים - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUlBSUEFpSUlsS2MxQmhHYm1mbDc2djE5ZmlTbnR5bDJ5VUpFME1PT3RmSDVaUHB1VXFjT0JzVXNnWE1qT19aRHd4Q2ZkWXJjek95ckdpd2NEOFFRbms4YkJJMndXV0hkN1hIRzlGbWdOT2xpMXBKU1pxMFhjYWNYMXdDQkdlbzdkVE40a2duRElFMUpveGxadm9HZHcteVNtM0pTMHpuaDFDR2Jrd1ZMQ3FFVThjelhYdkJNT3Q0Z2ZCMkhwaUlST0RiMlgta0RpZ2UxTHNldDc3TEU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUlBSUEFpSUlsS2MxQmhHYm1mbDc2djE5ZmlTbnR5bDJ5VUpFME1PT3RmSDVaUHB1VXFjT0JzVXNnWE1qT19aRHd4Q2ZkWXJjek95ckdpd2NEOFFRbms4YkJJMndXV0hkN1hIRzlGbWdOT2xpMXBKU1pxMFhjYWNYMXdDQkdlbzdkVE40a2duRElFMUpveGxadm9HZHcteVNtM0pTMHpuaDFDR2",
+  "date": "2026-11-15T15:32:08.000Z",
+  "fetched": "2026-11-15T17:16:35.974Z",
+  "fromCloud": "2026-11-15T1716.json"
+ },
+ {
   "id": "6d1705ff835f91b6",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
