@@ -4065,5 +4065,33 @@
   "first": 1794742535050,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "ישראל | שקל נחלש + מבחן בנק ישראל הערב + קרנות גידור לונדון | נובמבר 2026",
+  "level": "red",
+  "first": 1794747982127,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "GFI | התחייבות פירעון חוב — ובקשת דחייה מלאה: מקרה נזילות | נובמבר 2026",
+  "level": "learn",
+  "first": 1794747982127,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "GFI | דחיית פירעון חוב 85 מיליון שקל — משבר נזילות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794747982127,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פנטגון | שינוי שם CDAO ל-Super Intelligence Office — טראמפ מחליף AI בסופר-אינטליג׳נס | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794747982127,
+  "sentLive": false,
+  "candidate": true
  }
 ]
