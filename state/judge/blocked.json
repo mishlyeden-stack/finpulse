@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 215,
+  "ok": 216,
   "blocked": 2
  },
  "calcalist.co.il": {
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 123
+  "blocked": 125
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 81
+  "blocked": 83
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -72,7 +72,7 @@
   "blocked": 17
  },
  "calcalistech.com": {
-  "ok": 64,
+  "ok": 66,
   "blocked": 0
  },
  "ptnow.co.il": {
