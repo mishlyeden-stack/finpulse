@@ -1,40 +1,5 @@
 [
  {
-  "key": "ישראל | מאזן כלכלי אחרי הבחירות — צעדים דחופים לחילוץ המשק | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793506791415,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וול סטריט | רוטציה מ-AI לתוכנה, נפט וביטחון — סיכום אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793506791415,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נאסד״ק | השוואה לבועת דוט-קום — מניות AI, נובמבר 2026",
-  "level": "yellow",
-  "first": 1793506791415,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AI ואנרגיה | מה קורה כשה-AI נגמר לו החשמל — CTech | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793506791415,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וואן ספאן | זינוק 27.3% אחרי דוח — מודל הכנסות חוזרות בסייבר | אוקטובר 2026",
-  "level": "learn",
-  "first": 1793506791415,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "תעשייה אווירית | עסקה קרובה להמרת מטוסים להודו — 900 מיליון דולר | נובמבר 2026",
   "level": "yellow",
   "first": 1793509674601,
@@ -4056,6 +4021,76 @@
   "key": "Westend Real Assets | רכישת שני מרכזי נתונים בהמבורג | נובמבר 2026",
   "level": "yellow",
   "first": 1794716228680,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | מחיקת 1.7 טריליון — שבוע שישי ברציפות ירידות + מחליפת הואנג | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794717708579,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פד | ריבית עולה בדצמבר — ויכוח עבר לינואר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794717708580,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ווסטרן יוניון | ביטול רכישה 500 מיליון דולר — לאן הלכה העסקה | נובמבר 2026",
+  "level": "learn",
+  "first": 1794717708580,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט | השבתה עולמית יממה שלמה — שדרוג רשת פגום | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794717708580,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | תאי דלק לכלים תת-ימיים — שהייה מורחבת מתחת למים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794717708580,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנתרופיק | ביקוש להנפקה פי 6 + גולדמן מובילה + פגישת אמודיי–דיימון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794717708580,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סין | מודלי AI אומנו על שבבי אנבידיה אסורים — ראיות בקוד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794717708580,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וויז אייר | 14 איומי פצצה בשבוע + רווח נקי צנח 67% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794717708580,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סין | כל תוספת החשמל עד 2030 מאנרגיה נקייה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794717708580,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שיקגו | התפטרות CFO על רקע גירעון 882 מיליון דולר | נובמבר 2026",
+  "level": "learn",
+  "first": 1794717753825,
   "sentLive": false,
   "candidate": true
  }

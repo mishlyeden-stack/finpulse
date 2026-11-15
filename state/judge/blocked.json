@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 205,
+  "ok": 208,
   "blocked": 2
  },
  "calcalist.co.il": {
@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 238,
+  "ok": 243,
   "blocked": 9
  },
  "news.google.com": {
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 106
+  "blocked": 107
  },
  "ecb.europa.eu": {
   "ok": 5,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 40,
+  "ok": 41,
   "blocked": 0
  },
  "securityweek.com": {
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 20,
-  "blocked": 45
+  "blocked": 46
  },
  "funder.co.il": {
   "ok": 0,
@@ -145,7 +145,7 @@
  },
  "hkn.co.il": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "tradingview.com": {
   "ok": 5,
@@ -560,7 +560,7 @@
   "blocked": 0
  },
  "simplywall.st": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "kucoin.com": {
@@ -682,5 +682,9 @@
  "tradersunion.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "briefs.co": {
+  "ok": 1,
+  "blocked": 0
  }
 }
