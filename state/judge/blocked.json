@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 210,
+  "ok": 211,
   "blocked": 2
  },
  "calcalist.co.il": {
@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 250,
+  "ok": 252,
   "blocked": 9
  },
  "news.google.com": {
@@ -41,7 +41,7 @@
  },
  "pc.co.il": {
   "ok": 30,
-  "blocked": 26
+  "blocked": 27
  },
  "ft.com": {
   "ok": 0,
@@ -72,7 +72,7 @@
   "blocked": 17
  },
  "calcalistech.com": {
-  "ok": 59,
+  "ok": 61,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -698,5 +698,9 @@
  "thehindubusinessline.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "tipranks.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }

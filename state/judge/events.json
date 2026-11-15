@@ -1,40 +1,5 @@
 [
  {
-  "key": "נייס | רכישה עצמית 1.46 מיליארד דולר — רבע מהמניות, מחיר עדיין למטה | נובמבר 2026",
-  "level": "learn",
-  "first": 1793520514073,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Strategy (MicroStrategy) | Q3 — רווח ביטקוין + החלפת CFO | נובמבר 2026",
-  "level": "learn",
-  "first": 1793520514074,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Iveco | רכישת Tata הופכת ללא-מותנית + החלפת CFO | נובמבר 2026",
-  "level": "learn",
-  "first": 1793520514074,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Canadian National Railway | החלפת CFO אחרי Q3 חזק | נובמבר 2026",
-  "level": "learn",
-  "first": 1793520514074,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רמי לוי | כלכלה חזקה וצריכה גדלה — אינדיקטור צריכה פנימית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793520514074,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "לאומי | יו״ר אלון: גירעון גבוה לא יכול להפוך לשגרה — נובמבר 2026",
   "level": "yellow",
   "first": 1793527606487,
@@ -4049,6 +4014,34 @@
   "key": "טאטא סטיל | מיזוג NINL — CFO מכוון לסיום לפני סוף שנת הכספים | נובמבר 2026",
   "level": "learn",
   "first": 1794728098421,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | ארבעה איומים מרכזיים לעידן שאחרי הואנג | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794731761160,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הייטק ישראל | מחפשי עבודה עוקפים פתחי משרות — היפוך שוק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794731761161,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אקסטל | ביטול גיוס אג״ח בת״א — חברות נדל״ן זרות מתקשות בשוק הישראלי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794731761161,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בזק | תוכנית אופציות 10 מיליון שקל ליו״ר ומנכ״ל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794731761161,
   "sentLive": false,
   "candidate": true
  }
