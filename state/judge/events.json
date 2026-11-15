@@ -1,110 +1,5 @@
 [
  {
-  "key": "빅테크 | תזרים חופשי שלילי — השקעות AI עולות על ייצור מזומנים | נובמבר 2026",
-  "level": "learn",
-  "first": 1793505997691,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נאסד״ק | אוקטובר שחור — ירידה 5.3%, אלפבית ואינטל מובילות נפילות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793505997692,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "FBI | צפון קוריאה אחראית לשוד הקריפטו הגדול בהיסטוריה — בינאנס | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793505997692,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנקים ישראל | מבחן החזר חדש במשכנתא — סיפור כל הלוואה רשומה על הדירה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793505997692,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ישראל | מדד הביטוח איבד 10% מאז הבחירות + ת״א 35 ירד 3.5% | 31 אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793506187342,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קרנות השתלמות | תשואה חודשית שלילית בגלל נפילות בורסה | 31 אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793506187342,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ADT | רכישה ב-7.6 מיליארד דולר על ידי קבוצת קושנר-OpenAI | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793506187342,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Salesforce | רכישת Rune — הרחבת AI צבאי מעבר למטה | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793506187342,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "S&P | אזהרת דירוג אשראי למטא בגלל השקעות AI | אוקטובר 2026",
-  "level": "learn",
-  "first": 1793506374686,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תעשייה אווירית | עסקת המרת מטוסים להודו 905 מיליון דולר | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793506374686,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קריפטוגרפיה קוונטית | מחשב קוונטי עלול לפרוץ הצפנה עד 2030 — מדריך מוכנות | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793506374686,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנתרופיק | הורדת יעד גיוס ב-10 מיליארד + התחייבויות מחוץ למאזן 800 מיליארד | נובמבר 2026",
-  "level": "learn",
-  "first": 1793506530815,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אינטל–קלאסיק | תזמון החתימה מול צניחת המניה — ניתוח | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793506530815,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "גילת | תוצאות Q2 — מומנטום ביטחון ו-IFC | אוקטובר 2026",
-  "level": "yellow",
-  "first": 1793506530815,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אירופה | הפגנות דור Z — ביזה ועסקים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793506530815,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל | מאזן כלכלי אחרי הבחירות — צעדים דחופים לחילוץ המשק | נובמבר 2026",
   "level": "yellow",
   "first": 1793506791415,
@@ -4042,6 +3937,125 @@
   "key": "טייוואן | כניסה למכרזי תחבורה ציבורית בישראל | נובמבר 2026",
   "level": "yellow",
   "first": 1794492646648,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מדד נובמבר ותחזית ריבית — למה בנק ישראל לא יוריד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794715921406,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פד–קולינס | תמיכה בהעלאות ריבית הדרגתיות — השוק מתמחר צעד דצמבר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794715921407,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | שבוע מכריע — דוחות אנבידיה ראשונים אחרי הואנג + הנפקת אנתרופיק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794715921407,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארקיע | הפסד 70–80 מיליון דולר + מאבק שליטה עובדים–נקש–לרנר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794715921407,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רבולוט ישראל | לקחים מהחדירה האירופאית — 80 מיליון לקוחות, 100 מיליארד אירו שווי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794715921407,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מאסק | מיזוג SpaceX–טסלה כדלת אחורית ל-S&P 500 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794715921407,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ת״א | שבוע הבנקים — דוחות Q3 ומניית שבבים ישראלית צפויה לצנוח | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794715921407,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ברקשייר | שיא רביעי ברציפות — מניה עלתה 19% ברבעון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794715921407,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פנטגון | קיצוץ מתון מהצפוי בכוחות באירופה — 80 אלף חיילים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794715921407,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Foundation Future Industries | מנכ״ל לקח הלוואה 4.6 מיליון מהחברה — עובדים ללא משכורת | נובמבר 2026",
+  "level": "learn",
+  "first": 1794716228680,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הרץ | סגירת כל סניפי מכירת רכב — כיווץ אסטרטגי לאחר פשיטת רגל | נובמבר 2026",
+  "level": "learn",
+  "first": 1794716228680,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "זהב | נפילה מתחת ל-3,900 דולר + גולדמן חתכה תחזית 2027 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794716228680,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מטרו ת״א | עלות מתקרבת ל-200 מיליארד שקל — השלכות תקציביות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794716228680,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בואינג | קיצוץ 5% בחטיבת המטוסים + דחיית ייצור 737 ל-2027 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794716228680,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ברנשטיין | הבהלה ממניות חוות שרתים מוגזמת — פגיעה 2%–4% בלבד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794716228680,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI וסייבר | האם AI פוגע בחשיבה הביקורתית של צוותי אבטחה? | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794716228680,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Westend Real Assets | רכישת שני מרכזי נתונים בהמבורג | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794716228680,
   "sentLive": false,
   "candidate": true
  }

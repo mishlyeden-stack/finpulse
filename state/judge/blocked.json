@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 201,
+  "ok": 205,
   "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 151
+  "blocked": 152
  },
  "en.globes.co.il": {
   "ok": 42,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 229,
+  "ok": 238,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 116
+  "blocked": 119
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 78
+  "blocked": 79
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,18 +45,18 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 104
+  "blocked": 106
  },
  "ecb.europa.eu": {
   "ok": 5,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 39,
+  "ok": 40,
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 61,
+  "ok": 62,
   "blocked": 0
  },
  "ice.co.il": {
@@ -64,15 +64,15 @@
   "blocked": 6
  },
  "datacenterdynamics.com": {
-  "ok": 19,
-  "blocked": 44
+  "ok": 20,
+  "blocked": 45
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 17
  },
  "calcalistech.com": {
-  "ok": 58,
+  "ok": 59,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 18,
+  "ok": 19,
   "blocked": 3
  },
  "inquirer.com": {
@@ -497,7 +497,7 @@
  },
  "fool.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "domainnamewire.com": {
   "ok": 1,
@@ -674,5 +674,13 @@
  "defense.info": {
   "ok": 1,
   "blocked": 0
+ },
+ "news.dealershipguy.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "tradersunion.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
