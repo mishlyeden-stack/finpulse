@@ -4058,5 +4058,33 @@
   "first": 1794717753825,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "איראן | תקיפת בית הצי החמישי בבחריין — השלכות נפט ושווקים | נובמבר 2026",
+  "level": "red",
+  "first": 1794722723076,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "Meritage Homes | CFO אופרטיבית משנה אסטרטגיית בנייה | נובמבר 2026",
+  "level": "learn",
+  "first": 1794722723076,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גרמניה | מחיר חשמל 650+ אירו למגה-וואט — שיא ערב | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794722723076,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | מנהל האבטחה פרש חודשיים לפני עזיבת הואנג | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794722723076,
+  "sentLive": false,
+  "candidate": true
  }
 ]
