@@ -1,47 +1,5 @@
 [
  {
-  "key": "לאומי | יו״ר אלון: גירעון גבוה לא יכול להפוך לשגרה — נובמבר 2026",
-  "level": "yellow",
-  "first": 1793527606487,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "UBS | תרחיש רפובליקני ואג״ח ארוכות — נובמבר 2026",
-  "level": "yellow",
-  "first": 1793527606487,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סיילספורס | שכירת 5 קומות במגדל תוהא 2 — 140 מיליון שקל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793527606487,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נורווגיה | העלאת רמת סיכון סייבר לאומי אחרי גל מתקפות — נובמבר 2026",
-  "level": "yellow",
-  "first": 1793527606488,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טאואר | ירידה 40% משיא — ערב דוחות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793527606488,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | חשיפת יכולות UUV ביורונבל — נובמבר 2026",
-  "level": "yellow",
-  "first": 1793527606488,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "טאואר | ירידה 42% משיא — ערב דוחות Q3 | נובמבר 2026",
   "level": "yellow",
   "first": 1793531246335,
@@ -4175,6 +4133,20 @@
   "key": "ישראל–דובאי | עצירת טיסות חברות ישראליות — סכסוך ביטחוני | נובמבר 2026",
   "level": "yellow",
   "first": 1794735361138,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנתרופיק | שריפת מזומנים 100 מיליארד דולר — מבחן שוק AI | נובמבר 2026",
+  "level": "learn",
+  "first": 1794737603999,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנתרופיק | הנפקה מחר בנאסד״ק — טווח 70–78 דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794737603999,
   "sentLive": false,
   "candidate": true
  }

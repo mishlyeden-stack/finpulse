@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 155
+  "blocked": 156
  },
  "en.globes.co.il": {
   "ok": 42,
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 43,
+  "ok": 45,
   "blocked": 0
  },
  "securityweek.com": {
@@ -708,6 +708,10 @@
   "blocked": 0
  },
  "casrai.org": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "kipa.co.il": {
   "ok": 1,
   "blocked": 0
  }
