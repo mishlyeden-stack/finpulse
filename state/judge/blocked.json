@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 119
+  "blocked": 121
  },
  "13tv.co.il": {
   "ok": 0,
@@ -60,7 +60,7 @@
   "blocked": 0
  },
  "ice.co.il": {
-  "ok": 6,
+  "ok": 7,
   "blocked": 6
  },
  "datacenterdynamics.com": {
@@ -692,6 +692,10 @@
   "blocked": 1
  },
  "housingwire.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "thehindubusinessline.com": {
   "ok": 1,
   "blocked": 0
  }
