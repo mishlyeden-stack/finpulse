@@ -1,19 +1,5 @@
 [
  {
-  "key": "Cursor | תוסף Claude זדוני — מתקפת שרשרת אספקה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793619335764,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אירופה | מתקפות סייבר על מערכות קירור סופרמרקטים — גל שני | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793619335765,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "טאואר | דוחות Q3 2026 — הכנסות 526 מיליון דולר, תחזית אופטימית | נובמבר 2026",
   "level": "yellow",
   "first": 1793623020584,
@@ -4042,6 +4028,34 @@
   "key": "אלרון | הצעת רכישה בפרמיה 100% — בלוגייט קפיטל ומיכה אבני | נובמבר 2026",
   "level": "yellow",
   "first": 1794827227249,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קורמה | יוניקורן סייבר ישראלי — מודל שפה הגנתי 125 מיליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794830846977,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל–עולם | מס חברות מינימלי גלובלי — ניסיון האוצר לקדם | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794830846977,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | גירעון מסחרי 50 מיליארד בשנה — מחזק דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794830846977,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Uber | פרצת נתונים — 150 אלף לקוחות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794830994155,
   "sentLive": false,
   "candidate": true
  }

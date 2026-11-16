@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 231,
+  "ok": 233,
   "blocked": 3
  },
  "calcalist.co.il": {
@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 278,
+  "ok": 279,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 141
+  "blocked": 142
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 92
+  "blocked": 93
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -41,22 +41,22 @@
  },
  "pc.co.il": {
   "ok": 32,
-  "blocked": 30
+  "blocked": 31
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 123
+  "blocked": 125
  },
  "ecb.europa.eu": {
   "ok": 5,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 48,
+  "ok": 49,
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 64,
+  "ok": 65,
   "blocked": 0
  },
  "ice.co.il": {
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 20,
-  "blocked": 48
+  "blocked": 49
  },
  "funder.co.il": {
   "ok": 0,
