@@ -1,5 +1,16 @@
 [
  {
+  "id": "3871cc67e0443490",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "United Airlines reports system outage affecting departing flights",
+  "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+  "summary": "United Airlines said Monday that a widespread system outage was affecting departing flights.",
+  "date": "2026-11-16T22:51:58.000Z",
+  "fetched": "2026-11-16T23:03:20.513Z",
+  "fromCloud": "2026-11-16T2303.json"
+ },
+ {
   "id": "bcd69d6e6ce18405",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
