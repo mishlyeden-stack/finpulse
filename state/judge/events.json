@@ -1,152 +1,5 @@
 [
  {
-  "key": "ישראל | מבחן הממשלה הבאה בהייטק — מס אופציות, AI, קוונטום, חרמות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793542053844,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אינטל | צניחה 29% — היום הגרוע מאז 1974 + מחיקת 12 מיליארד דולר ממחזיקים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793542053845,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AppLovin | נפילה 28% אחרי שעות — החטאת הכנסות + חקירת SEC נסגרה | נובמבר 2026",
-  "level": "learn",
-  "first": 1793542053845,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אמזון | רכישת Globalstar אושרה על ידי FCC | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793542053845,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל–שווייץ | מכרז הגנה אווירית 7 מיליארד דולר — ברק MX מול SAMP/T NG | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592391063,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וול סטריט | מעבר ממניות AI לדפנסיביות — גוגל ומטא בשוק דובי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592391063,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "לנובו | מימון מחדש זול פוגש אזהרת דילול — שוק ה-PC בצניחה | נובמבר 2026",
-  "level": "learn",
-  "first": 1793592391063,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קימברלי-קלארק | גיוס חוב 4.9 מיליארד דולר לרכישת Kenvue | נובמבר 2026",
-  "level": "learn",
-  "first": 1793592391064,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארה״ב | קונגרס 2026 — תרחיש ממשלה מפוצלת ושוק מניות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592391064,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סייבר | צוותי אבטחה מתקשים להתמודד עם איום ה-AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592615044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "היי-טק ישראלי | אקזיטים אוקטובר 2026 — 6.3 מיליארד דולר take-private | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592615044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מפרץ פרסי | חשש ממתקפה על אנרגיה ותשתיות — נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592615044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "הייטק ישראלי | גיוסים אוקטובר 2026 — 872 מיליון דולר, סייבר ו-AI מובילים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592615044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וול סטריט | ריכוזיות יתר — 5 חברות אחראיות ל-68% מצמיחת רווחים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592615044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וול סטריט | ביטוח על השקעות AI — שוק חדש לאופציות ותמחור שבבים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592615044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "לוקהיד מרטין | רכישת חברת לוחמה תת-ימית קנדית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592615044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | תקציב המשכי 2027 — ביטחון נשמר, משרדים אזרחיים נפגעים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592799305,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סייבר | האקרים איראניים חזרו לתקוף בישראל — עלייה בפעילות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592799305,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שווקים | תשואות חוב מסוכן מזנקות — לחץ עובר לקרנות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592799305,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנק ישראל | מהלך בינלאומי שעשוי להשפיע על לקוחות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592799305,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אירופה | הפגנות ענק מתפשטות — מיליארד אירו נזק בצרפת + חשש מעונת חג המולד | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793592799305,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "OpenAI | קיצוץ שליש מיעד גיוס — מ-30 ל-20 מיליארד דולר לקראת IPO | נובמבר 2026",
   "level": "learn",
   "first": 1793593068381,
@@ -4070,6 +3923,125 @@
   "key": "ישראל | משרות פנויות מתכווצות — ייטק מוביל בירידה | נובמבר 2026",
   "level": "yellow",
   "first": 1794751568108,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארקיע | טעות גידור דלק 107 מיליון דולר — שרשרת ההתרסקות | נובמבר 2026",
+  "level": "learn",
+  "first": 1794801945231,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה–ישראל | מסים עד 15 מיליארד שקל — פי 3 מאשתקד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794801945231,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | כניסה ל-25 כלכלות גדולות בעולם — IMF | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794801945231,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Beyeonics Surgical | חדלות פירעון אחרי גיוס עשרות מיליונים — ספין-אוף אלביט",
+  "level": "learn",
+  "first": 1794802335405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט–סרביה | מהפך פוליטי מאיים על חוזים של 2 מיליארד דולר",
+  "level": "yellow",
+  "first": 1794802335405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה–הואנג | מגהספיד חקירה פנימית — אליס הואנג עזבה אוגוסט 2025",
+  "level": "yellow",
+  "first": 1794802335405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | פס״ד רכב צמוד — מיסוי גם כשהרכב לא נוסע",
+  "level": "yellow",
+  "first": 1794802335405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אייזיק | כתב אישום 50 מיליון שקל + שימוע שלילת רישיון",
+  "level": "yellow",
+  "first": 1794802335405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה–ישראל | מסים עד 15 מיליארד שקל — פי 3 מאשתקד",
+  "level": "yellow",
+  "first": 1794802335405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארקיע | הפסד 70 מיליון דולר + מאבק שליטה עובדים–נקש–לרנר",
+  "level": "yellow",
+  "first": 1794802335405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביטקוין | נפילה ל-62 אלף + שוק מתמחר העלאת ריבית דצמבר",
+  "level": "yellow",
+  "first": 1794802335405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מניות אירופה | סטייט סטריט ופיקטה: הראלי קרוב לסוף",
+  "level": "yellow",
+  "first": 1794802335406,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דיימונדבק | רכישת Double Eagle V ב-5 מיליארד דולר — נפט שייל",
+  "level": "yellow",
+  "first": 1794802335406,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מדד אוקטובר — אינפלציה 1.1%, הנמוכה מזה 5.5 שנים | נובמבר 2026",
+  "level": "red",
+  "first": 1794802575950,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "אנבידיה | מנכ״לית חדשה שוקלת לקצץ מימון ל-Neoclouds — כמעט מחצית מהכנסות | נובמבר 2026",
+  "level": "learn",
+  "first": 1794802575950,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אשקלון | קומפלקס תעשייתי 470 מיליון דולר — שבבים וטכנולוגיה עמוקה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794802575950,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סמסונג | שאיפה לשליטה על שרשרת תשתיות AI — ובעיה בדרך | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794802575950,
   "sentLive": false,
   "candidate": true
  }
