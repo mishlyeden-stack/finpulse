@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 229,
+  "ok": 231,
   "blocked": 3
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 167
+  "blocked": 168
  },
  "en.globes.co.il": {
   "ok": 44,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 277,
+  "ok": 278,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 140
+  "blocked": 141
  },
  "13tv.co.il": {
   "ok": 0,
@@ -65,14 +65,14 @@
  },
  "datacenterdynamics.com": {
   "ok": 20,
-  "blocked": 47
+  "blocked": 48
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 17
  },
  "calcalistech.com": {
-  "ok": 70,
+  "ok": 71,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -189,7 +189,7 @@
  },
  "mckinsey.com": {
   "ok": 0,
-  "blocked": 6
+  "blocked": 7
  },
  "wsj.com": {
   "ok": 0,

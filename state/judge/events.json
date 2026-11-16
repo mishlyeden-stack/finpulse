@@ -1,40 +1,5 @@
 [
  {
-  "key": "צ׳ק פוינט | דוחות Q3 — ירידה בהכנסות, מניה צונחת 12% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793615849891,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Chainalysis | פרצת נתונים — מתקפת AI אג׳נטית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793615849891,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | שיתוק ביטחוני — חודשים של עצירה בגלל אנדרלמוסיה פוליטית ותקציבית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793615849892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נת״ע | 11 מכרזים ב-65 מיליארד שקל בשנה וחצי — מטרו ת״א | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793615849892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רפאל | אוסטרליה מתעניינת במיירטי כיפת ברזל — עסקה פוטנציאלית גדולה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793615849892,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Cursor | תוסף Claude זדוני — מתקפת שרשרת אספקה | נובמבר 2026",
   "level": "yellow",
   "first": 1793619335764,
@@ -3903,7 +3868,7 @@
   "level": "red",
   "first": 1794802575950,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "אנבידיה | מנכ״לית חדשה שוקלת לקצץ מימון ל-Neoclouds — כמעט מחצית מהכנסות | נובמבר 2026",
@@ -4056,6 +4021,27 @@
   "key": "אירופה | סקר — מחצית בעד השעיית הסכם סחר עם ישראל | נובמבר 2026",
   "level": "yellow",
   "first": 1794823647792,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | תוצר Q3 2026 — צמיחה 8% עם אנבידיה, 4% בלעדיה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794827227249,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שיכון ובינוי | הצעה 19% זולה מהמתחרים במכרז פנסילבניה — תמחור אגרסיבי | נובמבר 2026",
+  "level": "learn",
+  "first": 1794827227249,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלרון | הצעת רכישה בפרמיה 100% — בלוגייט קפיטל ומיכה אבני | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794827227249,
   "sentLive": false,
   "candidate": true
  }
