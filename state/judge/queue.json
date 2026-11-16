@@ -1,5 +1,38 @@
 [
  {
+  "id": "1a7012f14ba0ab19",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CPI | EU Clears UniCredit’s Commerzbank Acquisition Without Conditions - PYMNTS.com",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkNzaFZYLTc5RXNlSFNPNjllQzlfNGlNQ196T0JKdlVfa0NOMHhuZW9DZUlNd1dTOENZdHFMRGhOQ0s4LUdyYnd0YlRfQ3hVVW44R2E3U1pFRWVNQXI3NDZZTWRaaDJmMTM1MUZNSXYyb05sYzBySnVzWmR3ZE1UVnpQck0zY0VkallONlYyeG1kOTZRVkdqdzZvbWszUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVkNzaFZYLTc5RXNlSFNPNjllQzlfNGlNQ196T0JKdlVfa0NOMHhuZW9DZUlNd1dTOENZdHFMRGhOQ0s4LUdyYnd0YlRfQ3hVVW44R2E3U1pFRWVNQXI3NDZZTWRaaDJmMTM1MUZNSXYyb05sYzBySnVzWmR3ZE1UVnpQck0zY0VkallONlYyeG1kOTZRVkdqdzZvbWszUQ?oc=5\" target=\"_",
+  "date": "2026-11-16T20:45:43.000Z",
+  "fetched": "2026-11-16T21:03:15.823Z",
+  "fromCloud": "2026-11-16T2103.json"
+ },
+ {
+  "id": "ca50bd8653a97cac",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day - Ars Technica",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXQ2YjR2dkw3M2R6SkQ2am5pRDF5SnppaE9kRGxVaTRMcVdwWEhUQzJWZWxMNE1uS0RzYXUzUlFLSjV5ZUhwWmtsZ01KVzB6TEpwWFVzVlc2UFRfbFdmZDg4NlFrOEJQQ2JNT3pGQW01T2JBVkFjNnZMaTdXVzA1eU5FUWJhZDl6aFk5OFJBWU1YYzRJdGkyRTkyelZGcjd4OE81X1VaWkJoRDZPT2JKOUVEUEd2UktKZHRhYTZuN1hpQ1U?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXQ2YjR2dkw3M2R6SkQ2am5pRDF5SnppaE9kRGxVaTRMcVdwWEhUQzJWZWxMNE1uS0RzYXUzUlFLSjV5ZUhwWmtsZ01KVzB6TEpwWFVzVlc2UFRfbFdmZDg4NlFrOEJQQ2JNT3pGQW01T2JBVkFjNnZMaTdXVzA1eU5FUWJhZDl6aFk5OFJBWU1YYzRJdGkyRTkyelZGcjd4OE81X1VaWkJoRD",
+  "date": "2026-11-16T20:37:47.000Z",
+  "fetched": "2026-11-16T21:03:15.823Z",
+  "fromCloud": "2026-11-16T2103.json"
+ },
+ {
+  "id": "3d113d316656315b",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "קליפורניה תובעת את OpenAI: \"המודלים שלה מסכנים את הציבור\" - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JZlhOMlJhMmpnaTNQcVBaYlZUWi1RSEdjbXAwaFlhQk1NRThzbXFRTzZCVmJoTVY1ZHd5cWlSSUVvVmdKaWk5MXo0OXlGV3RydVloQU11Z1JlY1NKcFJ0Vi1zR2JTbEhfN01n?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9JZlhOMlJhMmpnaTNQcVBaYlZUWi1RSEdjbXAwaFlhQk1NRThzbXFRTzZCVmJoTVY1ZHd5cWlSSUVvVmdKaWk5MXo0OXlGV3RydVloQU11Z1JlY1NKcFJ0Vi1zR2JTbEhfN01n?oc=5\" target=\"_blank\">קליפורניה תובעת את OpenAI: \"המודלים שלה מסכנים את הציבור\"</a>&n",
+  "date": "2026-11-16T20:25:00.000Z",
+  "fetched": "2026-11-16T21:03:15.823Z",
+  "fromCloud": "2026-11-16T2103.json"
+ },
+ {
   "id": "b6c2a5c839b203a1",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -383,6 +416,17 @@
   "date": "2026-11-16T19:00:00.000Z",
   "fetched": "2026-11-16T19:03:13.774Z",
   "fromCloud": "2026-11-16T1903.json"
+ },
+ {
+  "id": "9d406e7826a8efb8",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מניית הביוטק שזינקה ב-336% מאז ההנפקה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OODRCSlltYWJPR1BNZXM1SE5xOGpuQlptM0JWaWg5YmV2Vl8yODE0dG55MlN4b1lENjF5R1E4R0ZBMTUzVUNLU0NnUm9CUnF3OGNYNDZwQnpWeFNhdFZUbUNUSHQxS2VqSFU2ekg3cFo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1OODRCSlltYWJPR1BNZXM1SE5xOGpuQlptM0JWaWg5YmV2Vl8yODE0dG55MlN4b1lENjF5R1E4R0ZBMTUzVUNLU0NnUm9CUnF3OGNYNDZwQnpWeFNhdFZUbUNUSHQxS2VqSFU2ekg3cFo?oc=5\" target=\"_blank\">מניית הביוטק שזינקה ב-336% מאז ההנפקה</a>&nbsp;&nbsp;<fo",
+  "date": "2026-11-16T19:00:00.000Z",
+  "fetched": "2026-11-16T21:03:15.823Z",
+  "fromCloud": "2026-11-16T2103.json"
  },
  {
   "id": "019a850d4936e767",
@@ -988,6 +1032,17 @@
   "date": "2026-11-16T17:30:41.000Z",
   "fetched": "2026-11-16T18:03:19.934Z",
   "fromCloud": "2026-11-16T1803.json"
+ },
+ {
+  "id": "fd623fcfc853deab",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Warsh says AI boom could help sustain ‘substantially higher’ US growth",
+  "link": "https://www.ft.com/content/0431ca7c-5bef-4ffa-a4bd-aa29354eb691?syn-25a6b1a6=1",
+  "summary": "Innovation sparked by the technology has potential to support level of GDP above long-run average without stoking inflation",
+  "date": "2026-11-16T17:26:53.000Z",
+  "fetched": "2026-11-16T21:03:15.823Z",
+  "fromCloud": "2026-11-16T2103.json"
  },
  {
   "id": "aed1bfb3563ab5d0",
@@ -3069,6 +3124,17 @@
   "date": "2026-11-16T10:52:00.000Z",
   "fetched": "2026-11-16T17:33:12.253Z",
   "fromCloud": "2026-11-16T1733.json"
+ },
+ {
+  "id": "af820f9ec68dd0f3",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "EU renews push for global AI rules after midterms weaken Trump",
+  "link": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1",
+  "summary": "Brussels hopes an international deal is more attainable after voters’ rebuke to US president",
+  "date": "2026-11-16T10:37:38.000Z",
+  "fetched": "2026-11-16T21:03:15.823Z",
+  "fromCloud": "2026-11-16T2103.json"
  },
  {
   "id": "c5e7e3e4b67c1554",
