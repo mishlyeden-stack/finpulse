@@ -1,33 +1,5 @@
 [
  {
-  "key": "בורסה ישראל | 7.9 מיליארד שקל זרמו לקרנות מניות חו״ל באוקטובר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793604988361,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | חוזה תותח הרועם 600 מיליון שקל + הסכם אימון ארטילריה 190 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793604988362,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "דיסקונט | מכרז מחודש למכירת כאל — מועמדים חדשים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793604988362,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "גולדמן זאקס | תחזית נפט מועלית — ברנט 105 דולר בדצמבר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793604988362,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Ivanti Connect Secure | Zero-Day כפול מנוצל בשרשרת מתקפה | נובמבר 2026",
   "level": "yellow",
   "first": 1793608559743,
@@ -4028,6 +4000,27 @@
   "key": "בנק הפועלים | דוח Q3 2026 — רווח 2.4 מיליארד, דיבידנד מיליארד+ | נובמבר 2026",
   "level": "yellow",
   "first": 1794812750031,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מלם תים | רווח +83% — תוצאות חריגות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794816384062,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Cellebrite | פיטורים ורעידת אדמה ניהולית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794816384063,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רמי לוי | רישיון אשראי חוץ-בנקאי מורחב | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794816384063,
   "sentLive": false,
   "candidate": true
  }
