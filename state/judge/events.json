@@ -1,19 +1,5 @@
 [
  {
-  "key": "Ivanti Connect Secure | Zero-Day כפול מנוצל בשרשרת מתקפה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793608559743,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | שוק חוב 2026 — 170 מיליארד שקל אך מספר מנפיקים יורד | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793608559743,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "סייבר | AI מקצר את הדרך מחולשה למתקפה — Gemini 4 Carbon | נובמבר 2026",
   "level": "yellow",
   "first": 1793612243748,
@@ -4021,6 +4007,48 @@
   "key": "רמי לוי | רישיון אשראי חוץ-בנקאי מורחב | נובמבר 2026",
   "level": "yellow",
   "first": 1794816384063,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט | השבתה עולמית + קמפיין פישינג מנצל את האירוע | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794820042430,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Stratasys | ביטול רכישת Markforged + צמיחה בביטחון ואווירונאוטיקה | נובמבר 2026",
+  "level": "learn",
+  "first": 1794820042430,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק הפועלים | דוח Q3 2026 — רווח 733 מיליון דולר, ירידה 14% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794820042431,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Cyera | השלמת רכישת Oasis Security | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794820042431,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | עובדים זרים בבנייה — האוצר קורא לבחון מחדש את המדיניות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794820042431,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מחירי דירות — ירידה שנתית 1.5%, מחיר ממוצע צנח 137 אלף שקל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794820042431,
   "sentLive": false,
   "candidate": true
  }
