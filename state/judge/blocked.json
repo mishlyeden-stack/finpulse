@@ -5,10 +5,10 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 168
+  "blocked": 169
  },
  "en.globes.co.il": {
-  "ok": 44,
+  "ok": 45,
   "blocked": 0
  },
  "bizportal.co.il": {
@@ -56,7 +56,7 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 65,
+  "ok": 66,
   "blocked": 0
  },
  "ice.co.il": {
@@ -64,8 +64,8 @@
   "blocked": 6
  },
  "datacenterdynamics.com": {
-  "ok": 20,
-  "blocked": 49
+  "ok": 21,
+  "blocked": 50
  },
  "funder.co.il": {
   "ok": 0,
@@ -148,8 +148,8 @@
   "blocked": 2
  },
  "tradingview.com": {
-  "ok": 5,
-  "blocked": 12
+  "ok": 6,
+  "blocked": 13
  },
  "govconwire.com": {
   "ok": 0,
@@ -736,6 +736,14 @@
   "blocked": 0
  },
  "natlawreview.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "marketscreener.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "keif.co.il": {
   "ok": 1,
   "blocked": 0
  }

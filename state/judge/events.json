@@ -1,26 +1,5 @@
 [
  {
-  "key": "טאואר | דוחות Q3 2026 — הכנסות 526 מיליון דולר, תחזית אופטימית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793623020584,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ישראל | סיכונים לבלימת ההתאוששות — לאחר בחירות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793623020585,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אוסטרליה | בחינת רכישת כיפת ברזל — עסקה פוטנציאלית נוספת | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793623020585,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "טאואר | דוחות Q3 2026 — הכנסות 526 מיליון דולר, תחזית אופטימית",
   "level": "yellow",
   "first": 1793626597063,
@@ -4056,6 +4035,34 @@
   "key": "Uber | פרצת נתונים — 150 אלף לקוחות | נובמבר 2026",
   "level": "yellow",
   "first": 1794830994155,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בלאקסטון | רכישת תיק מרכזי נתונים מייצב 5 מיליארד דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794834418881,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טלגרם | חולשות RCE בווידג׳טים חדשים + אזהרת נוזקות קספרסקי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794834418881,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמזון | אובדן 40 לוויינים אחרי תקלת ULA | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794834418881,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "רבולוט ישראל | בנק ישראל אישר רשמית הקמת בנק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794834531692,
   "sentLive": false,
   "candidate": true
  }
