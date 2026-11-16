@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 221,
+  "ok": 224,
   "blocked": 2
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 161
+  "blocked": 164
  },
  "en.globes.co.il": {
-  "ok": 43,
+  "ok": 44,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 271,
+  "ok": 274,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 129
+  "blocked": 132
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 88
+  "blocked": 91
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -41,7 +41,7 @@
  },
  "pc.co.il": {
   "ok": 32,
-  "blocked": 29
+  "blocked": 30
  },
  "ft.com": {
   "ok": 0,
@@ -726,5 +726,9 @@
  "m.economictimes.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "thelastward.org": {
+  "ok": 1,
+  "blocked": 0
  }
 }

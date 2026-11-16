@@ -1,54 +1,5 @@
 [
  {
-  "key": "OpenAI | קיצוץ שליש מיעד גיוס — מ-30 ל-20 מיליארד דולר לקראת IPO | נובמבר 2026",
-  "level": "learn",
-  "first": 1793593068381,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ענקיות טכנולוגיה | מעבר ממזומן לחוב — ניתוח סיכון | נובמבר 2026",
-  "level": "learn",
-  "first": 1793593068381,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שווקים ישראל + וול סטריט | ערב בחירות אמצע + פתיחת עונת דוחות ת״א | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793593068381,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "הייטק ישראלי | גיוסים נובמבר 2026 — מעל 900 מיליון דולר באוקטובר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793593068381,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ServiceNow | Sweep ישראלית מאיצה החלפת CRM בשבועות במקום שנים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793593068381,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אינטל | מעבר ייצור ממעבדי PC לשרתים — תגובה אסטרטגית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793593068381,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וול סטריט | פתיחת שבוע — עליות חוזים, נפט יורד 3%, לקראת בחירות ודוחות | 2 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793595940689,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "אלפאבית | CFO מסמן הוצאות AI מעל 300 מיליארד דולר + תזרים שלילי | נובמבר 2026",
   "level": "learn",
   "first": 1793601383430,
@@ -3896,7 +3847,7 @@
   "level": "red",
   "first": 1794747982127,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "GFI | התחייבות פירעון חוב — ובקשת דחייה מלאה: מקרה נזילות | נובמבר 2026",
@@ -4042,6 +3993,41 @@
   "key": "סמסונג | שאיפה לשליטה על שרשרת תשתיות AI — ובעיה בדרך | נובמבר 2026",
   "level": "yellow",
   "first": 1794802575950,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שיקגו | CFO שלישי מתפטר השנה — שוק מתמחר סיכון חדלות פירעון | נובמבר 2026",
+  "level": "learn",
+  "first": 1794805645094,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים עולמיים | ירידות אסיה וחוזים וול סטריט לקראת שבוע דוחות אנבידיה + הנפקת אנתרופיק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794805645094,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב–שבבים | הקונגרס דוחף להחמרת מגבלות ייצוא שבבים לסין | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794805645094,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | עליות מחירים ינואר 2026 — חשמל, מים, ארנונה, דלק",
+  "level": "yellow",
+  "first": 1794805831674,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טבע | מנכ״ל מימש מניות 10.6 מיליון דולר יום לפני הצגת יעדי 2030 | נובמבר 2026",
+  "level": "learn",
+  "first": 1794805831674,
   "sentLive": false,
   "candidate": true
  }
