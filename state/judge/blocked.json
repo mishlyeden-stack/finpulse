@@ -1,7 +1,7 @@
 {
  "globes.co.il": {
   "ok": 224,
-  "blocked": 2
+  "blocked": 3
  },
  "calcalist.co.il": {
   "ok": 0,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 132
+  "blocked": 133
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 120
+  "blocked": 123
  },
  "ecb.europa.eu": {
   "ok": 5,
