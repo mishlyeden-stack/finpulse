@@ -1,5 +1,49 @@
 [
  {
+  "id": "562caec2c1fb22a7",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2035428/000203542826000074/0002035428-26-000074-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0002035428-26-000074 <b>Size:</b> 148 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-17T19:59:16.000Z",
+  "fetched": "2026-11-17T20:03:14.575Z",
+  "fromCloud": "2026-11-17T2003.json"
+ },
+ {
+  "id": "1f2ab1b1c9277c55",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Fibra Mty Completes US$22M Industrial Acquisition - MEXICONOW",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MZXo5aXB4U2lTeGQtVTItN1ZhQjZfLTAtbUJxMDNaRWRSbXZVNDhRVEtCdXpsNXlKRGRyQWFoZTV2VFZYSUlBZHc4WWhVcVVhbExWNDMtV0ItMlluYkV1WmZvb0ZjTGhLdzAwVEY5WURrQ2xuWXNhQzNEcjc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5MZXo5aXB4U2lTeGQtVTItN1ZhQjZfLTAtbUJxMDNaRWRSbXZVNDhRVEtCdXpsNXlKRGRyQWFoZTV2VFZYSUlBZHc4WWhVcVVhbExWNDMtV0ItMlluYkV1WmZvb0ZjTGhLdzAwVEY5WURrQ2xuWXNhQzNEcjc?oc=5\" target=\"_blank\">Fibra Mty Completes US$22M Industrial Ac",
+  "date": "2026-11-17T19:57:25.000Z",
+  "fetched": "2026-11-17T20:03:14.575Z",
+  "fromCloud": "2026-11-17T2003.json"
+ },
+ {
+  "id": "b51b4429a58fabcd",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "\"Anthropic's IPO could awaken the market, sparking a new wave of IPOs, including for Israeli companies\" - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wYVlkaFZuX0REVlVMbFloWjlLODZwb1pzSE5fUzlQMjUwanR3Yzl2OTB3MGNza0xGZHZ3R0hzS2FWOGxyMXJfemF6RnRaMncwNkt1T3RqcUNUNzg5YkpZRXo2NEViQjQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wYVlkaFZuX0REVlVMbFloWjlLODZwb1pzSE5fUzlQMjUwanR3Yzl2OTB3MGNza0xGZHZ3R0hzS2FWOGxyMXJfemF6RnRaMncwNkt1T3RqcUNUNzg5YkpZRXo2NEViQjQ?oc=5\" target=\"_blank\">\"Anthropic's IPO could awaken the market, sparking a new wave of IPO",
+  "date": "2026-11-17T19:53:00.000Z",
+  "fetched": "2026-11-17T20:03:14.575Z",
+  "fromCloud": "2026-11-17T2003.json"
+ },
+ {
+  "id": "2794356fc6aa4ddb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Chicago Mayor Brandon Johnson answers questions after CFO resignation - FOX 32 Chicago",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8waEhxZHBjbS1ZT0I2Tkw5andlY0hMODhQVFVRQWtjRnp2SVJHcmlsT3YyeG5EYl90SkY1Z1JCOEVqc0hZc2tvaEJXcUt1b1BfeDgyZjdpcVRRR0VqNGZWSU9qV2dFUdIBa0FVX3lxTFB0V3Z4M3hQTlZnS1hoQjd6SjJFSlBZQ0JoQ0xfS0QzTkRVTDg1eFl6M1A1dmwyZVF1c1NJVEc4WFlhTlJoU2I0OFZ1ZlVmaWM0NjN6Zl9MTEhScXJBVDlTZzkyV0pZRWlMT05n?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8waEhxZHBjbS1ZT0I2Tkw5andlY0hMODhQVFVRQWtjRnp2SVJHcmlsT3YyeG5EYl90SkY1Z1JCOEVqc0hZc2tvaEJXcUt1b1BfeDgyZjdpcVRRR0VqNGZWSU9qV2dFUdIBa0FVX3lxTFB0V3Z4M3hQTlZnS1hoQjd6SjJFSlBZQ0JoQ0xfS0QzTkRVTDg1eFl6M1A1dmwyZVF1c1NJVEc4WFlhTl",
+  "date": "2026-11-17T19:48:01.000Z",
+  "fetched": "2026-11-17T20:03:14.575Z",
+  "fromCloud": "2026-11-17T2003.json"
+ },
+ {
   "id": "4490984e56d48c5f",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -143,6 +187,17 @@
   "fromCloud": "2026-11-17T1903.json"
  },
  {
+  "id": "b6bc8b434248bd03",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Home Depot Stocks Fall 2.21% Despite Beat as CFO McPhail Named CEO - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUoybm5SZlM3NGFYdzR2ODdlbV9WZVpTT3hBTEVBd3VPZWNMTmotbDZVS01Pa3BQSFF4cjZRUC1ROF9PT2xnVk5FOFRMeUg1cWY3THc1NW9MN2lWRnpDOHI4ZkNUYk5ocXFLT0F6THE1XzZtellpZzVFYm1sbkFqRnoyWU5ObmdxbGQyMFM4SnYybHpTNzdLa2llajJtRk1TWFhRX2dvbmdDbjVVQVA0Zm5tLWt0bUxGMVcyeXNJd3dvdzg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUoybm5SZlM3NGFYdzR2ODdlbV9WZVpTT3hBTEVBd3VPZWNMTmotbDZVS01Pa3BQSFF4cjZRUC1ROF9PT2xnVk5FOFRMeUg1cWY3THc1NW9MN2lWRnpDOHI4ZkNUYk5ocXFLT0F6THE1XzZtellpZzVFYm1sbkFqRnoyWU5ObmdxbGQyMFM4SnYybHpTNzdLa2llajJtRk1TWFhRX2dvbmdDbj",
+  "date": "2026-11-17T18:58:13.000Z",
+  "fetched": "2026-11-17T20:03:14.575Z",
+  "fromCloud": "2026-11-17T2003.json"
+ },
+ {
   "id": "e971539bfc71d802",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -174,6 +229,17 @@
   "date": "2026-11-17T18:45:30.000Z",
   "fetched": "2026-11-17T19:03:12.628Z",
   "fromCloud": "2026-11-17T1903.json"
+ },
+ {
+  "id": "0921832584b0beb5",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Marine Le Pen floats lowering France’s retirement age to as low as 60",
+  "link": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1",
+  "summary": "Far-right presidential frontrunner faces criticism over the feasibility and cost of her pension plans",
+  "date": "2026-11-17T18:44:10.000Z",
+  "fetched": "2026-11-17T20:03:14.575Z",
+  "fromCloud": "2026-11-17T2003.json"
  },
  {
   "id": "ef539ff1a7973d76",
@@ -5638,32 +5704,5 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9JZlhOMlJhMmpnaTNQcVBaYlZUWi1RSEdjbXAwaFlhQk1NRThzbXFRTzZCVmJoTVY1ZHd5cWlSSUVvVmdKaWk5MXo0OXlGV3RydVloQU11Z1JlY1NKcFJ0Vi1zR2JTbEhfN01n?oc=5\" target=\"_blank\">קליפורניה תובעת את OpenAI: \"המודלים שלה מסכנים את הציבור\"</a>&n",
   "date": "2026-11-16T20:25:00.000Z",
   "id": "3d113d316656315b"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "תקלות בבנקים הגדולים בארה\"ב: אלפי לקוחות מדווחים על קשיי גישה לחשבונות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CTnA5c1YzLVlHMEpwTm51RUpLbTVsZEVORFB4aUR2eHduaVJFOGVnRnlhZHdDd2RnbWU0eTBrVnRralNKRVZmS0JDZXZZZHhmUTJRd1ZudkhsWDBMVkV5cnRuUUlWNm5hcWlEY2EwUnE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9CTnA5c1YzLVlHMEpwTm51RUpLbTVsZEVORFB4aUR2eHduaVJFOGVnRnlhZHdDd2RnbWU0eTBrVnRralNKRVZmS0JDZXZZZHhmUTJRd1ZudkhsWDBMVkV5cnRuUUlWNm5hcWlEY2EwUnE?oc=5\" target=\"_blank\">תקלות בבנקים הגדולים בארה\"ב: אלפי לקוחות מדווחים על קשיי",
-  "date": "2026-11-16T20:01:00.000Z",
-  "id": "1d9e40a423db7d3a"
- },
- {
-  "source": "SecurityWeek",
-  "group": "industry",
-  "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
-  "link": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
-  "summary": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users. The post Trump Administration Moves to Block China From Indirect Access to American AI Technology appeared first on Securit",
-  "date": "2026-11-16T20:00:00.000Z",
-  "id": "6fd5298e49bad549"
- },
- {
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "400 מרכזי נתונים בארה\"ב מול כל דנמרק: מי מזהם יותר? - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTFLakFLUnVJLXdQX0FoTmhOTU5ibmhHUFM2LTliSEliRWhVaFN2TU53MkdVMXcwaHc4TjhldjJraEY0V0NlTHQwZUJkbDR5Rjd1ZGVEbXFfYThwb21nV1N2NmJqd2xySEs0NkxvVDNLUU1mMm03WmVVbWlERlpQQlFITTNPM3lUald4bmJDVzI0cFBNVHJ4UVY2dVhjbS1tRnl6SldJNA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTFLakFLUnVJLXdQX0FoTmhOTU5ibmhHUFM2LTliSEliRWhVaFN2TU53MkdVMXcwaHc4TjhldjJraEY0V0NlTHQwZUJkbDR5Rjd1ZGVEbXFfYThwb21nV1N2NmJqd2xySEs0NkxvVDNLUU1mMm03WmVVbWlERlpQQlFITTNPM3lUald4bmJDVzI0cFBNVHJ4UVY2dVhjbS1tRnl6SldJNA?oc=",
-  "date": "2026-11-16T19:56:00.000Z",
-  "id": "d58bae53f316d96d"
  }
 ]
