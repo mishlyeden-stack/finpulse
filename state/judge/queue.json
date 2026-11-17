@@ -1,5 +1,181 @@
 [
  {
+  "id": "77c680e45c4a3ac9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Otovo terminates proposed USD-11m Green Panel acquisition - Renewables Now",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY3RMQWVOb3JYdjFvY2ZSd3BzVEJ5RGhYZERBWWg4TkVYN0hraXpFOEhoUXJwN3NYZDNzNTd5MW9BaE9NZG5UaFBja2dLdUhxYnRHazh6Q0JyVTR2azBQd3VEbmlZRW9hWEZZTHEtSzlYVkNPWnRpMFpfd2NtbURHQ0lBRHpSR2FzU25ITTdFV0Z5MHVOSVhyS09kaU9EUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPY3RMQWVOb3JYdjFvY2ZSd3BzVEJ5RGhYZERBWWg4TkVYN0hraXpFOEhoUXJwN3NYZDNzNTd5MW9BaE9NZG5UaFBja2dLdUhxYnRHazh6Q0JyVTR2azBQd3VEbmlZRW9hWEZZTHEtSzlYVkNPWnRpMFpfd2NtbURHQ0lBRHpSR2FzU25ITTdFV0Z5MHVOSVhyS09kaU9EUQ?oc=5\" target=\"_",
+  "date": "2026-11-17T15:30:13.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "d398221fc40ad163",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Intersect signs 1.5GW transformer supply deal with Heron Power",
+  "link": "https://www.datacenterdynamics.com/en/news/intersect-signs-15gw-transformer-supply-deal-with-heron-power/",
+  "summary": "<p data-block-key=\"qq87x\">Deliveries expected to commence in 2028</p>",
+  "date": "2026-11-17T15:26:51.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "03b6b98ae0b2551b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CBRE Arranges $56M Loan for Refinancing for Grocery-Anchored Shopping Center in Atlanta - REBusinessOnline",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN0lMZVI5LXBraE5wLXE4SWk0NHRpQ01IQnNhTzFSODZPTGloTHRUeGpSdDA2QV85MTBLc0IybGtIMGloRjBpOFZCRWgzT19nMUxVOEJBbFRacktWM0dobVRJWXNjODFnckhkRks0Nlk5bktsX0tYWmVfSm5CNTA1QUgybnA3RDUyUURVb0FZcU80aFB1TzNqTTB1UlptWFlMQy02ekZIQUZLNVpTcVJTdnhCTkRVaGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNN0lMZVI5LXBraE5wLXE4SWk0NHRpQ01IQnNhTzFSODZPTGloTHRUeGpSdDA2QV85MTBLc0IybGtIMGloRjBpOFZCRWgzT19nMUxVOEJBbFRacktWM0dobVRJWXNjODFnckhkRks0Nlk5bktsX0tYWmVfSm5CNTA1QUgybnA3RDUyUURVb0FZcU80aFB1TzNqTTB1UlptWFlMQy02ekZIQUZLNV",
+  "date": "2026-11-17T15:22:18.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "9a64ecc6d85b0ec0",
+  "source": "AV Network",
+  "group": "industry",
+  "title": "On Audio: Biamp",
+  "link": "https://www.avnetwork.com/news/on-audio-biamp",
+  "summary": "Joe Andrulis, Executive Vice President of Corporate Development at Biamp, shares insights and trends on audio developments for enterprise, higher ed, live events, and similar markets.",
+  "date": "2026-11-17T15:22:03.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "2136573e3fd19784",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "CBRE: Milan set to overtake Dublin as fifth-largest data center market in Europe by 2028",
+  "link": "https://www.datacenterdynamics.com/en/news/cbre-milan-set-to-overtake-dublin-as-fifth-largest-data-center-market-in-europe-by-2028/",
+  "summary": "<p data-block-key=\"gwk5h\">Milan could see 255MW of new capacity</p>",
+  "date": "2026-11-17T15:21:18.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "0e70e4fee9eebe4d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Hormel Foods completes Brakebush Brothers acquisition - The National Provisioner",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb29nUGRYaklubTlHaGdlakgza0Z5UFZZZklITjl0NVZlT2lLMXh2aTdEWHZUWnV3aldkMWJEWmE5bzFCeUt1eGdqSkdfVWw0NjBleng2Uk9LWGRfRUJOZzNxOWNUNmJnWmZ0UmxIMUdjeVdIS2tuLThoVmFnNC1BUTJ0LXVCbHZiYWl2OW11Wk9DbWtFRXFUUTA4blJfdkd2SFlpVWFR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb29nUGRYaklubTlHaGdlakgza0Z5UFZZZklITjl0NVZlT2lLMXh2aTdEWHZUWnV3aldkMWJEWmE5bzFCeUt1eGdqSkdfVWw0NjBleng2Uk9LWGRfRUJOZzNxOWNUNmJnWmZ0UmxIMUdjeVdIS2tuLThoVmFnNC1BUTJ0LXVCbHZiYWl2OW11Wk9DbWtFRXFUUTA4blJfdkd2SFlpVWFR?oc=5\"",
+  "date": "2026-11-17T15:20:53.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "9e312488b3d4b790",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "המאבק על פיצויי איחורים במסירת הדירות: אפי קפיטל החליטה לשלם לדיירים - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16VWpEUFR1SnBVeTdhLTlaX3VCc0ZCTk1CamhvSTIzcXdyY01Db0ZPWldyeGJRWlBsQUxCRHp0anEyVU1pOFlqeERWQnc2Z3pOWWVDZDVRZXd6ZlZVSVVjc0RHX1Z4RUdP?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE16VWpEUFR1SnBVeTdhLTlaX3VCc0ZCTk1CamhvSTIzcXdyY01Db0ZPWldyeGJRWlBsQUxCRHp0anEyVU1pOFlqeERWQnc2Z3pOWWVDZDVRZXd6ZlZVSVVjc0RHX1Z4RUdP?oc=5\" target=\"_blank\">המאבק על פיצויי איחורים במסירת הדירות: אפי קפיטל החליטה לשלם לדיירי",
+  "date": "2026-11-17T15:18:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "dc0b61d069a92deb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Chicago's CFO resigns after just 3 months, accusing Mayor's office of misrepresenting an $882M budget shortfall - MoneyWise.com",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXhZbXhKRVM1OVdSZURia21ERUN3ZGszOHJPN2xSdG9heG5PLXY5YlBqbERnWXFpNG5KekRNYWh0Sl9GX1FXeUtycGhPaGxxb3F5MDBCM2o1V25BVFZaX2JtcTRtaDNTai1tZEJXV0FhbmVWbHNZLWNlR01ncW9RNnhYemNjNUU3LUU2YjNR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXhZbXhKRVM1OVdSZURia21ERUN3ZGszOHJPN2xSdG9heG5PLXY5YlBqbERnWXFpNG5KekRNYWh0Sl9GX1FXeUtycGhPaGxxb3F5MDBCM2o1V25BVFZaX2JtcTRtaDNTai1tZEJXV0FhbmVWbHNZLWNlR01ncW9RNnhYemNjNUU3LUU2YjNR?oc=5\" target=\"_blank\">Chicago's CFO r",
+  "date": "2026-11-17T15:15:15.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "e7576b479afae770",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גוגל חתמה על הסכם של יותר מ-500 מיליון דולר לחשמל מקידוח שמאדה סלע; איך זה קשור לאורמת? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MRExsQjZ4UVM2TFJjLW12OXNHbzVLNWdqNVBGb2Z2QmI4QWgxMWRhaUdSWnRiUGFsT0Y2bnJjeXg1djVjWWNXX2FLYmU3VzJmN3Q1OFlPNlZzczZ3RkhvY1VKajR0MDY4aGhpSFJrVmE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1MRExsQjZ4UVM2TFJjLW12OXNHbzVLNWdqNVBGb2Z2QmI4QWgxMWRhaUdSWnRiUGFsT0Y2bnJjeXg1djVjWWNXX2FLYmU3VzJmN3Q1OFlPNlZzczZ3RkhvY1VKajR0MDY4aGhpSFJrVmE?oc=5\" target=\"_blank\">גוגל חתמה על הסכם של יותר מ-500 מיליון דולר לחשמל מקידוח",
+  "date": "2026-11-17T15:11:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "0cab7e4d63fd0927",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מיצובישי אאוטלנדר פלאג-אין נוסע חלק, אבל הטעינה איטית - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBbUMyNlhYUHE1bldnSHo2clMxZjRoWlg4eVl4bkl2TkJpZENBMTRaa1Bva1doOTktSzBSSDczV0F6cEhwT0RaeFJ1d1oxemdhbUg2OE0yY0pBMmRiZFJhSmZoTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBbUMyNlhYUHE1bldnSHo2clMxZjRoWlg4eVl4bkl2TkJpZENBMTRaa1Bva1doOTktSzBSSDczV0F6cEhwT0RaeFJ1d1oxemdhbUg2OE0yY0pBMmRiZFJhSmZoTQ?oc=5\" target=\"_blank\">מיצובישי אאוטלנדר פלאג-אין נוסע חלק, אבל הטעינה איטית</a>&nbsp;&nbsp;<fon",
+  "date": "2026-11-17T15:10:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "ea69753a93b7e8b2",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "פרופסורים, רופאים ורבנים טוענים: יזם נדל\"ן חייב לנו עשרות מיליונים",
+  "link": "https://www.ynet.co.il/economy/article/skfcikcagl",
+  "summary": "35 משקיעים טוענים כי היזם מנחם שיינברג והחברה שבשליטתו חייבים להם כ-49.5 מיליון שקל שהעמידו כהלוואות לפרויקטים של נדל\"ן והתחדשות עירונית. בית המשפט הורה על מינוי נאמן לנכסיו של היזם ועל פירוק החברה. שיינברג והחברה לא התנגדו לצווים, אך מכחישים את טענות המשקיעים לתרמית ולגניבה",
+  "date": "2026-11-17T15:07:39.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "f304e1635d4c5a66",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "MongoDB acquires Israeli startup Firebolt to meet growing demand for AI-powered real-time analytics - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUjF6aHV4dkJtSEtuaUVhdGo2VmlWLXRLdjBEQ0tjd3kyaUdGaVZSM05TUXB0MFpZYU9kWnpKYU8xa0Q3NW5sRGN5TkhURVJVOTdYMExlQ3VUaUs3SzNlc1pIa3dnSEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUjF6aHV4dkJtSEtuaUVhdGo2VmlWLXRLdjBEQ0tjd3kyaUdGaVZSM05TUXB0MFpZYU9kWnpKYU8xa0Q3NW5sRGN5TkhURVJVOTdYMExlQ3VUaUs3SzNlc1pIa3dnSEE?oc=5\" target=\"_blank\">MongoDB acquires Israeli startup Firebolt to meet growing demand for",
+  "date": "2026-11-17T15:07:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "42a0c3608bd8c53d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מונגו די.בי קונה את פיירבולט, שהייתה שווה 1.4 מיליארד דולר בכ-200 מיליון דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14RS00aUxQVUZDV2RBbV9RQVZzbnZ6aTFJTDRwYk5ERXNnWExRbmxHVTlTcFQzeThpa2dSNW1ZbGZlNGVWYTJjcmY5X0J2TGI1RmN0ZWU0OFBpWkh2MWoyWVplM0tHOWl4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE14RS00aUxQVUZDV2RBbV9RQVZzbnZ6aTFJTDRwYk5ERXNnWExRbmxHVTlTcFQzeThpa2dSNW1ZbGZlNGVWYTJjcmY5X0J2TGI1RmN0ZWU0OFBpWkh2MWoyWVplM0tHOWl4?oc=5\" target=\"_blank\">מונגו די.בי קונה את פיירבולט, שהייתה שווה 1.4 מיליארד דולר בכ-200 מ",
+  "date": "2026-11-17T15:07:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "197ba951808a73aa",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "חברת ה-AI לפיתוח תרופות של דמיס האסביס גייסה 5 מיליארד דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KS3VBNUJzVGJrcFpua09lOC1HT3BzTlNVR3NxU1NuTEI2Q0VIYkpVTVdqUEpJcWdMR3Q2UnI5LVFVdlcxTHhfLTBnMTJobmFnVVY5dHBXN0JvNFhRVWVJUFhYWnMtYVI5?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KS3VBNUJzVGJrcFpua09lOC1HT3BzTlNVR3NxU1NuTEI2Q0VIYkpVTVdqUEpJcWdMR3Q2UnI5LVFVdlcxTHhfLTBnMTJobmFnVVY5dHBXN0JvNFhRVWVJUFhYWnMtYVI5?oc=5\" target=\"_blank\">חברת ה-AI לפיתוח תרופות של דמיס האסביס גייסה 5 מיליארד דולר</a>&nbs",
+  "date": "2026-11-17T15:06:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "4177433bd5be1465",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "כל שקל שחוסכים מוקדם עובד קשה יותר: מה הזמן עושה לחיסכון שלכם? - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ub2toVENoMmdTZW1hUkVQTTVPUFpvOTJwSEE1Zk8zbUZRQW1sSXIzZWxibzA2cm1jNWttOUE4LVFIbTFQeGxjVEtyRjB6dVhUZm5JMGZWclJCUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ub2toVENoMmdTZW1hUkVQTTVPUFpvOTJwSEE1Zk8zbUZRQW1sSXIzZWxibzA2cm1jNWttOUE4LVFIbTFQeGxjVEtyRjB6dVhUZm5JMGZWclJCUQ?oc=5\" target=\"_blank\">כל שקל שחוסכים מוקדם עובד קשה יותר: מה הזמן עושה לחיסכון שלכם?</a>&nbsp;&nbsp;<font c",
+  "date": "2026-11-17T15:04:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "79a4626878cc6929",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "דרך הסיליקון: איך מעבדים מתקדמים של אנבידיה מצאו את דרכם לסין?",
+  "link": "https://www.pc.co.il/editorial/people-ai/461670/",
+  "summary": "\"אנחנו לא יכולים לאפשר לסין להשיג את השבבים האלה, נקודה. אנחנו הולכים למנוע מהם את הטכנולוגיה המתקדמת ביותר שלנו\". המשפט הזה לא יצא מפיו של דונלד טראמפ , הרפובליקני הרברבן, אלא דווקא מפיה של ג'ינה ריימונדו , שרת המסחר בממשל ביידן , בדצמבר 2023. היה זה דווקא ממשל ביידן הדמוקרטי שה",
+  "date": "2026-11-17T15:01:42.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
   "id": "d61e27a0139ad04d",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -9,6 +185,50 @@
   "date": "2026-11-17T15:01:30.000Z",
   "fetched": "2026-11-17T15:03:14.479Z",
   "fromCloud": "2026-11-17T1503.json"
+ },
+ {
+  "id": "0a7da0b7bcc63d2a",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Northern Europe Energy targets data center in Riihimäki, Finland",
+  "link": "https://www.datacenterdynamics.com/en/news/northern-europe-energy-targets-data-center-in-riihim%C3%A4ki-finland/",
+  "summary": "<p data-block-key=\"vvup0\">Ixian plans 50MW project in Lapinlahti, SR-Kiinteistöt eyes development in Kauhava</p>",
+  "date": "2026-11-17T15:01:02.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "87e2c001c124e881",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+  "link": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+  "summary": "<p data-block-key=\"yohw7\">System debuted at 14 on most recent Top500 list</p>",
+  "date": "2026-11-17T15:01:01.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "b5cf96524d06f4bd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CTR and Plum Acquisition Corp. IV announce strengthened capital structure to advance Hell’s Kitchen Geothermal project - The Desert Review",
+  "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdWZNbkw5dlhXckZXNlZRNENrZDJ0X0R1cGo0NDM3ZVRBX25Nc25tbHRuR0xRLVVfM29TMmhKRVdmOWtvNkpHWDM1eGpuY052TjZyVXo1YzBNVHlkNUF5ZndJLTA3d01rSFBBRE84VUttWDZJSnRTajRFT1p1RFl3NTgybHdKZG1pdXFQNTVycmwzV3NKdmhvUlpFMlRLZ1l2T2wwUkkydVF6d3NzTFVvT2FiZDRidG1VdC1keGhsemNUUEtGakRRVXpEMGRfUUlQQVZCOERxajh0NHFOemUwQnVZYjgwZ0NTTVBISFJpVTlzY2RMLTN3R3haeTctdm1Vbnk2VE04LTgydXJ6WThrUmlyZkpROUFX?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQdWZNbkw5dlhXckZXNlZRNENrZDJ0X0R1cGo0NDM3ZVRBX25Nc25tbHRuR0xRLVVfM29TMmhKRVdmOWtvNkpHWDM1eGpuY052TjZyVXo1YzBNVHlkNUF5ZndJLTA3d01rSFBBRE84VUttWDZJSnRTajRFT1p1RFl3NTgybHdKZG1pdXFQNTVycmwzV3NKdmhvUlpFMlRLZ1l2T2wwUkkydVF6d3",
+  "date": "2026-11-17T15:00:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "388315b60eb99450",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "ועדת הכספים במסר לממשלה: \"לא נאשר תקציבים שלא נסכים איתם\" - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTNWdVczaHloU3FCRXhENlY5blZWZGNQQ0ljODVnS242YWk2MDZ1eC1IYkZOaHJJOElZZ2pjWlJxb2dEUjNRSVhWWU9aRzNXRkVvbkY2UEFUSkF0X0hFZFM4TERNSjNfcjVmeGxtNGZhQnBWbHg2U0pQQXpoY3VjeFgyNGwyMFFPbHNqSDR5THhUenMyTTBUTGZnS29lakFOMFNJeFQ3V2RMellxX3BjZThJMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTNWdVczaHloU3FCRXhENlY5blZWZGNQQ0ljODVnS242YWk2MDZ1eC1IYkZOaHJJOElZZ2pjWlJxb2dEUjNRSVhWWU9aRzNXRkVvbkY2UEFUSkF0X0hFZFM4TERNSjNfcjVmeGxtNGZhQnBWbHg2U0pQQXpoY3VjeFgyNGwyMFFPbHNqSDR5THhUenMyTTBUTGZnS29lakFOMFNJeFQ3V2RMel",
+  "date": "2026-11-17T14:59:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
  },
  {
   "id": "5f735b28b73ff5ff",
@@ -99,6 +319,17 @@
   "fromCloud": "2026-11-17T1503.json"
  },
  {
+  "id": "775421c05c011278",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Copart earnings on deck as ACV acquisition impact looms - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3o3dmhreG1SYk43Mi1mN1Z2LWlfWlZ6ZHdSMDNWZjVHcXJqRXBnV0RCcDZ5MkdiQlA5el9nemdCQzdRQ2tXbHZONFVEUEU1M1p2cVUwQlhSN0h2RHVod21ueFBIZmNQVENZSElqcDZLeGI4ZDljRmYyRGNlYjZZNDJGV2VpQTZLUU42LUlNUUg4azNiQm5iVFdyUHRPLXA0b0VWamxZMVA3V0Yx?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3o3dmhreG1SYk43Mi1mN1Z2LWlfWlZ6ZHdSMDNWZjVHcXJqRXBnV0RCcDZ5MkdiQlA5el9nemdCQzdRQ2tXbHZONFVEUEU1M1p2cVUwQlhSN0h2RHVod21ueFBIZmNQVENZSElqcDZLeGI4ZDljRmYyRGNlYjZZNDJGV2VpQTZLUU42LUlNUUg4azNiQm5iVFdyUHRPLXA0b0VWamxZMVA3V0",
+  "date": "2026-11-17T14:47:46.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
   "id": "eae778ce6335ee3b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -121,6 +352,17 @@
   "fromCloud": "2026-11-17T1503.json"
  },
  {
+  "id": "68ae97c99f956ee8",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Financing for next year’s AI build-out is looking increasingly funky",
+  "link": "https://www.ft.com/content/115eeb4e-4d7c-468b-968d-0bbb74a229b1",
+  "summary": "But does the Bank of Nvidia backstop still add up?",
+  "date": "2026-11-17T14:45:01.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
   "id": "7ae381e0d5456af6",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -141,6 +383,17 @@
   "date": "2026-11-17T14:42:33.000Z",
   "fetched": "2026-11-17T15:03:14.479Z",
   "fromCloud": "2026-11-17T1503.json"
+ },
+ {
+  "id": "8c66337863ab2054",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Chevron nears buying Navitas’ partners stake in US oil field",
+  "link": "https://en.globes.co.il/en/article-1001563797#utm_source=RSS",
+  "summary": "Navitas, which holds 49% of the Shenandoah field, might sell some of its 49% holdings in the field to allow Chevron to secure a majority stake.",
+  "date": "2026-11-17T14:41:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
  },
  {
   "id": "38073d185356b10f",
@@ -218,6 +471,28 @@
   "date": "2026-11-17T14:35:00.000Z",
   "fetched": "2026-11-17T15:03:14.479Z",
   "fromCloud": "2026-11-17T1503.json"
+ },
+ {
+  "id": "2c27dea16e89b294",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "JPMorgan Taps Bregje de Best as Next CFO, Jeremy Barnum Moves to Vice Chairman - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FeXU1TEc5TndCUDJoTlNRaWxNUzZ5X1RQNmVMQ1VYYUhFcUM4ZXNYV0pudTRGQ1JBc0U2c29TanZYbDdtUFFZZ1NfRW43dTVqcFFSUTI4bEVJNGozZFdVMGVmVFFyYUg5SzRUSUlKTjNOLTFqOFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5FeXU1TEc5TndCUDJoTlNRaWxNUzZ5X1RQNmVMQ1VYYUhFcUM4ZXNYV0pudTRGQ1JBc0U2c29TanZYbDdtUFFZZ1NfRW43dTVqcFFSUTI4bEVJNGozZFdVMGVmVFFyYUg5SzRUSUlKTjNOLTFqOFE?oc=5\" target=\"_blank\">JPMorgan Taps Bregje de Best as Next CFO, Jeremy",
+  "date": "2026-11-17T14:35:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "80f022bbd3817554",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "מדענים: כמות הלוויינים להפעלת דאטה סנטרים לא תאפשר לראות את הכוכבים",
+  "link": "https://www.pc.co.il/featured/461666/",
+  "summary": "דו\"ח חדש של הפורום הבינלאומי Innovation for Cool Earth Forum , שהוקם לפני כתריסר שנים ביוזמת הממשל היפני, מזהיר שאם כל התוכניות להקמת דאטה סנטרים בחלל יצאו לפועל, בסופו של דבר, אנשים שיביטו לשמיים לא יוכלו לראות כוכבים. במקום זאת, הם יראו הרבה מאוד אורות מלוויינים שיסתירו את גרמי",
+  "date": "2026-11-17T14:34:12.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
  },
  {
   "id": "8fd948a18418e93e",
@@ -339,6 +614,17 @@
   "date": "2026-11-17T13:52:26.000Z",
   "fetched": "2026-11-17T15:03:14.479Z",
   "fromCloud": "2026-11-17T1503.json"
+ },
+ {
+  "id": "2a95c4829f0263ae",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "לופטהנזה מציעה לגייס 1,000 טייסים כדי לסיים את הסכסוך - אבל העובדים דוחים את המתווה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BTWl6SU9zMFZlMVphZXh3RWN3a0NnSTFzYkFCb2xtYm4tdWJ0bVhzR19Ed2tDUS1sbTF4eUU5ZmMteWZva05fLUJORjZSYXBQOUFQYXZoSlZER2t1VjFjbzJJMndLUlFDYUpodWRGSFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1BTWl6SU9zMFZlMVphZXh3RWN3a0NnSTFzYkFCb2xtYm4tdWJ0bVhzR19Ed2tDUS1sbTF4eUU5ZmMteWZva05fLUJORjZSYXBQOUFQYXZoSlZER2t1VjFjbzJJMndLUlFDYUpodWRGSFE?oc=5\" target=\"_blank\">לופטהנזה מציעה לגייס 1,000 טייסים כדי לסיים את הסכסוך - ",
+  "date": "2026-11-17T13:48:00.000Z",
+  "fetched": "2026-11-17T15:33:11.437Z",
+  "fromCloud": "2026-11-17T1533.json"
  },
  {
   "id": "b21da8ca340d010a",
