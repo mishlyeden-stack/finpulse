@@ -1,26 +1,5 @@
 [
  {
-  "key": "נייס | פיטורים 500 עובדים — מעבר ל-AI ובחינת מכירת אקטימייז | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793711243564,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Dominion Energy | 54.9GW ביקוש מרכזי נתונים — עלייה 13% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793711243564,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Node-RED | חולשה קריטית מנוצלת — בוטים ו-webshells פרוסים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793711243564,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "טראמפ–נתניהו | עצירת סיוע ביטחוני אמריקאי לישראל — 4 מיליארד דולר | נובמבר 2026",
   "level": "red",
   "first": 1793714838987,
@@ -4007,6 +3986,69 @@
   "key": "טבע | כניסה למדד ראסל 1000 — ביקוש פסיבי למניה | נובמבר 2026",
   "level": "yellow",
   "first": 1794917288133,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Home Depot | CFO הופך CEO + עדכון תחזית FY26 | נובמבר 2026",
+  "level": "learn",
+  "first": 1794920828786,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בזק–נתיבי ישראל | פריסת סיבים 200 מיליון שקל — 48 יישובים ביו״ש ורמת הגולן | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794920828787,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | התנהגות נוטלי משכנתאות — 28% פריים למרות אינפלציה נמוכה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794920828787,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גרמניה | איסור שימוש מבצעי ברחפנים סיניים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794920828787,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תדיראן | רווח נקי זינק 84% אחרי שנתיים קשות — Q3 2026 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794921134208,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | ריבית 23.11 — אינפלציה 1.6% ויתרות מט״ח בשיא | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794921134208,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק הפועלים | תחזית רווח 8.5 מיליארד שקל 2026 — בדרך להגשמה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794921134208,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דל ו-HPE | אנליסטים אופטימיים — AI ממשיך להניע ביקוש | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794921134208,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI | ירידה בהדקהד פיננסי — חברות מקצצות צוותי כספים בגלל AI | נובמבר 2026",
+  "level": "learn",
+  "first": 1794921418293,
   "sentLive": false,
   "candidate": true
  }
