@@ -487,3 +487,4 @@ time_local,source,cloud_batches,cloud_items,already_seen,new_to_queue,claude_rou
 2026-11-17 13:33,cloud-judge,1,16,0,16,0,0,0,0,0,0,0,0,28,0,,0,0,0
 2026-11-17 14:08,cloud-judge,1,33,0,33,2,61,0,4,0,42,12,4,0,209,,0,0,0
 2026-11-17 14:33,cloud-judge,1,26,0,26,0,0,0,0,0,0,0,0,26,0,,0,0,0
+2026-11-17 14:54,pc-takeover,0,0,59,48,1,60,0,0,0,0,0,0,225,0,judge timeout,110,0,59
