@@ -1,40 +1,5 @@
 [
  {
-  "key": "שקל | היחלשות 4.4% מאז הבחירות — חשש מאינפלציה מואצת | 3 נובמבר 2026",
-  "level": "red",
-  "first": 1793702341614,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "אוצר | מס שכר דירה מהשקל הראשון + הפחתת מס רכישה — הצעה חדשה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793702341614,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נאט״ו | תרגיל 5G ו-AI לזיהוי רחפנים בים הבלטי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793702341614,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בריטניה | ראש הסייבר הלאומי: מתקפות AI על תשתיות קריטיות עד 2028 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793702341614,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | עסקת מרכז אימון ארטילריה רועם — 600 מיליון שקל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793702341615,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "שקל | היחלשות — דולר בשיא 7 חודשים, קפיצה 4.5% מאז הבחירות | 3 נובמבר 2026",
   "level": "red",
   "first": 1793705733269,
@@ -4028,6 +3993,20 @@
   "key": "אלביט | פיצוי על עיכובי תשלום מהמדינה — ספקים קטנים ממתינים | נובמבר 2026",
   "level": "yellow",
   "first": 1794910006265,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט | תחזית 2027 — צמיחה 17% + פיצוי משב״ט | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794913651906,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Optimizely | פגיעות מנוצלת — נוזקות באתרי BBC, CNN, Zoom | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794913651906,
   "sentLive": false,
   "candidate": true
  }
