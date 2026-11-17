@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 246,
+  "ok": 248,
   "blocked": 4
  },
  "calcalist.co.il": {
@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 295,
+  "ok": 298,
   "blocked": 9
  },
  "news.google.com": {
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 129
+  "blocked": 130
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -56,7 +56,7 @@
   "blocked": 1
  },
  "securityweek.com": {
-  "ok": 71,
+  "ok": 73,
   "blocked": 0
  },
  "ice.co.il": {
@@ -756,6 +756,10 @@
   "blocked": 0
  },
  "wfmj.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "hidabroot.org": {
   "ok": 0,
   "blocked": 1
  }
