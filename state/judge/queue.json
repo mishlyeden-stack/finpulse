@@ -1,5 +1,71 @@
 [
  {
+  "id": "df162e37ad0ab419",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000221/0001331463-26-000221-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0001331463-26-000221 <b>Size:</b> 197 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+  "date": "2026-11-17T19:26:30.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
+ },
+ {
+  "id": "d8259e1584ea75e7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Arrow Real Estate Advisors Arranges $20 Million Refinancing for Lower Manhattan Hotel and Retail Property - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQmlJLXA0V05TZnRoekEzNDhTWmRERVNZZXpJeHN2bEh6RnEyTWM3QlF6RjVZQU4yb1ctcERvcVRLam1VaHpySE9yOFVBbGwzN2FvUV80WFEzYjVqNi1ySmlfN3RtREQtV0lYT3g4cVVQNnJvSTNLV3dzeERpWlFrMjlGS05PT1RYSVVZZDMxUHItXzVmdWtMOVpFclp4ZVZtNUd3Rk1adUxMQWlDOUEzZTBValhMaVNqenBCbWVfR05BYmRTTU5Uc2IwYlVSY0FwcnZ4c1ZETzlxTWs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQmlJLXA0V05TZnRoekEzNDhTWmRERVNZZXpJeHN2bEh6RnEyTWM3QlF6RjVZQU4yb1ctcERvcVRLam1VaHpySE9yOFVBbGwzN2FvUV80WFEzYjVqNi1ySmlfN3RtREQtV0lYT3g4cVVQNnJvSTNLV3dzeERpWlFrMjlGS05PT1RYSVVZZDMxUHItXzVmdWtMOVpFclp4ZVZtNUd3Rk1adUxMQW",
+  "date": "2026-11-17T19:20:45.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
+ },
+ {
+  "id": "b6fde639e1100e06",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "After years in development, Elbit's airborne laser weapons move closer to production - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nQVBsbk16V1lsZHZTMElGWnN3S2ZYcEJZYWRKOWstRGVXTmhpRTdhQlYzYUxnN1VKYVRkSWFpTExYQzk3VmpuWWY4VE1qYnQtWU5rSzJ5QzdxOWZOOUppOHpUbmRaMEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nQVBsbk16V1lsZHZTMElGWnN3S2ZYcEJZYWRKOWstRGVXTmhpRTdhQlYzYUxnN1VKYVRkSWFpTExYQzk3VmpuWWY4VE1qYnQtWU5rSzJ5QzdxOWZOOUppOHpUbmRaMEE?oc=5\" target=\"_blank\">After years in development, Elbit's airborne laser weapons move clos",
+  "date": "2026-11-17T19:11:00.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
+ },
+ {
+  "id": "e28e80dc6d0f123b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "JPMorgan’s CFO plans exit, company names internal successor - American Banker",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjQwNUpHcy1EcHlwYjh3enBwSmFyb3ExenZHTVU1NG4yMjlJeUVwS0lSQmI4Y2tEMTQ4NGt2b1gxenUxeXdjblozSDBKZlhkdmNtT3o1bnBXcUJuTTZyenBhZExEYWkyc2NRZ0Nva09teTlRcHppaU9mbVJOYkVwdWFzUFEtWERqaXc2MVZtZGR2MzRldnVCRFFn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjQwNUpHcy1EcHlwYjh3enBwSmFyb3ExenZHTVU1NG4yMjlJeUVwS0lSQmI4Y2tEMTQ4NGt2b1gxenUxeXdjblozSDBKZlhkdmNtT3o1bnBXcUJuTTZyenBhZExEYWkyc2NRZ0Nva09teTlRcHppaU9mbVJOYkVwdWFzUFEtWERqaXc2MVZtZGR2MzRldnVCRFFn?oc=5\" target=\"_blank\"",
+  "date": "2026-11-17T19:04:54.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
+ },
+ {
+  "id": "d965e1740479bedd",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "תקלה בשירותי אפל: שיבושים באפסטור, באפל מיוזיק ובהתחברות ל-iCloud - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44dTFGNkgyRkZYMl81bW4yV3FVNUxlNXFMUmNLVmR3dkZLVi10dThjVGNhOFEzd0loN1pOSnNtUFg0ZERvMzdqTy1PNGhubFZid1A5RnZMbWJscGttR184NWJQTlc0SEJFZlBB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE44dTFGNkgyRkZYMl81bW4yV3FVNUxlNXFMUmNLVmR3dkZLVi10dThjVGNhOFEzd0loN1pOSnNtUFg0ZERvMzdqTy1PNGhubFZid1A5RnZMbWJscGttR184NWJQTlc0SEJFZlBB?oc=5\" target=\"_blank\">תקלה בשירותי אפל: שיבושים באפסטור, באפל מיוזיק ובהתחברות ל-iClo",
+  "date": "2026-11-17T19:01:00.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
+ },
+ {
+  "id": "c9bbda5f96767964",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "משתמשים מדווחים על תקלות בג'ימייל ובשירותי אפל - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDhKVnl4SzA4WS14Z1FJdjdVSl9kMzhWMEpGeUtPdWlNQzBDcXhfRXp4V000OXFvOUJfeDlHZDVmcG9aTzdYTGJIM3RSelRySWQ3Y2ZpbEZmbFJwcXpMOHlYR0pqWk9GT0RSWGhRWmdJcE9NZ3AtNTNEVGEyXzhZUjN5VzhXYWFkbmtycDViam5PWVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDhKVnl4SzA4WS14Z1FJdjdVSl9kMzhWMEpGeUtPdWlNQzBDcXhfRXp4V000OXFvOUJfeDlHZDVmcG9aTzdYTGJIM3RSelRySWQ3Y2ZpbEZmbFJwcXpMOHlYR0pqWk9GT0RSWGhRWmdJcE9NZ3AtNTNEVGEyXzhZUjN5VzhXYWFkbmtycDViam5PWVE?oc=5\" target=\"_blank\">משתמשים ",
+  "date": "2026-11-17T19:01:00.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
+ },
+ {
   "id": "5465f6114dedf9d5",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -220,6 +286,17 @@
   "fromCloud": "2026-11-17T1833.json"
  },
  {
+  "id": "e88670906bc42875",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "NEMESIA SARL ANNOUNCES ACQUISITION OF SHARES OF VALIENTE RESOURCES INC. - Yahoo Finance Singapore",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDV4U28xV2t5azRrOFBPMEs4Unk0bldfamhzUnNfbnpOcDl6d2pLOFZBZkp4akFZLXhPTHdMeTJJSG5MQmNEeUNSOHZidEZUQmYzZG9CX1Y5b19jczR6Tm5STW80NzBZcjR6aWhISkFYRGlIeVFkTTZHWG16c25xTDdyMkZ5c0NseUtFVVg4T1p1YTBO?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDV4U28xV2t5azRrOFBPMEs4Unk0bldfamhzUnNfbnpOcDl6d2pLOFZBZkp4akFZLXhPTHdMeTJJSG5MQmNEeUNSOHZidEZUQmYzZG9CX1Y5b19jczR6Tm5STW80NzBZcjR6aWhISkFYRGlIeVFkTTZHWG16c25xTDdyMkZ5c0NseUtFVVg4T1p1YTBO?oc=5\" target=\"_blank\">NEMESIA",
+  "date": "2026-11-17T18:09:00.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
+ },
+ {
   "id": "62fa1c828b6d2bdb",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -438,6 +515,17 @@
   "date": "2026-11-17T17:27:57.000Z",
   "fetched": "2026-11-17T17:33:21.431Z",
   "fromCloud": "2026-11-17T1733.json"
+ },
+ {
+  "id": "f96474554d131268",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Federal Home Loan Bank of San Francisco (0001316944) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000189/0001316944-26-000189-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0001316944-26-000189 <b>Size:</b> 169 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+  "date": "2026-11-17T17:27:11.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
  },
  {
   "id": "c2534ea2bd5365aa",
@@ -2906,6 +2994,17 @@
   "fetched": "2026-11-17T13:33:14.358Z"
  },
  {
+  "id": "e3843f7c13b27703",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Successful Closing of the Acquisition of 100% of JHI - BNamericas",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUs2SjN5T1dMR0o0U2ROZGk2Y24yYjc2T3daUnFRdklCdlRpUFNXQmRrYkl0YWRXbjhNQ0ZMbFUtbTZ2TFBLdGVTVktOQnVJZVdxSFA3Qi12QzlEaldGbmVLRElxNXRMVV9qMkJyZmlQSmdGZ3F6YU5MRm9JNXNabndqdkdmb0g3eUNEX29YSQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUs2SjN5T1dMR0o0U2ROZGk2Y24yYjc2T3daUnFRdklCdlRpUFNXQmRrYkl0YWRXbjhNQ0ZMbFUtbTZ2TFBLdGVTVktOQnVJZVdxSFA3Qi12QzlEaldGbmVLRElxNXRMVV9qMkJyZmlQSmdGZ3F6YU5MRm9JNXNabndqdkdmb0g3eUNEX29YSQ?oc=5\" target=\"_blank\">Successful Cl",
+  "date": "2026-11-17T13:03:43.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
+ },
+ {
   "id": "196f3bb66ce573e7",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -4044,6 +4143,17 @@
   "summary": "שם ותפקיד: \" שרון בר , סניור דירקטור, מנהלת קבוצת פיתוח תוכנה ב סיילספורס (Salesforce). אני מנהלת קבוצת פיתוח האמונה על יכולות הדאטה, ה-AI והאנליטיקה של ה-Marketing Cloud\". ותק בתפקיד: \"שנה ו-8 חודשים\". תפקידים קודמים: \"לפני התפקיד הנוכחי כיהנתי כדירקטורית פיתוח (Director of Engi",
   "date": "2026-11-17T09:50:07.000Z",
   "id": "167365a516b15966"
+ },
+ {
+  "id": "71e3d0ade9b511d5",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Matrix posts 48% jump in quarterly profit as cloud business surges - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MVWpiTjd3UXc3dWFyVDNIc2pVSy11V3ozTmJ4bVVsWWxkNms3cHRPQjl4TXRfSzJLSlIzYVJWWmdsNnVXbE5heldUTzFJbW8ya3Rnel9pUmV1RGZXcTFfS3NuSXRkaE0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MVWpiTjd3UXc3dWFyVDNIc2pVSy11V3ozTmJ4bVVsWWxkNms3cHRPQjl4TXRfSzJLSlIzYVJWWmdsNnVXbE5heldUTzFJbW8ya3Rnel9pUmV1RGZXcTFfS3NuSXRkaE0?oc=5\" target=\"_blank\">Matrix posts 48% jump in quarterly profit as cloud business surges</",
+  "date": "2026-11-17T09:50:00.000Z",
+  "fetched": "2026-11-17T19:33:11.967Z",
+  "fromCloud": "2026-11-17T1933.json"
  },
  {
   "source": "ביזפורטל (Google News)",
@@ -5496,41 +5606,5 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1tT0tyOUh0bFZxN1VCbl95TlJJTk5EdklOWkJfN3IxTTIwcDhLSUdOMDlwNExtTE5Vcmw3aXl5UnFvaW5XM3NUaXgzdC1wME82czgtMUVTNTR1QmxvNWNTb2M5cFhmUkNpelY4ZWtjc0c?oc=5\" target=\"_blank\">AMD רוכשת את World Labs ב-8.2 מיליארד דולר - ומגבירה את ",
   "date": "2026-11-16T19:39:00.000Z",
   "id": "7794d8b30583330e"
- },
- {
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "KFC Israel to keep all 12 branches open as trustees seek buyer - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MdDU2eWRDcFZ5WWw2aFZnLUtYMnAySTV5dWR1NE83TFhkWDNWcV9oUE5aV3l4YXYtQy1LaTFsYXhzQzhUeXp5YkpNc3dmdk9ETmxnWnBxLXFiY0JXaHlYbUJFSTdwY1k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MdDU2eWRDcFZ5WWw2aFZnLUtYMnAySTV5dWR1NE83TFhkWDNWcV9oUE5aV3l4YXYtQy1LaTFsYXhzQzhUeXp5YkpNc3dmdk9ETmxnWnBxLXFiY0JXaHlYbUJFSTdwY1k?oc=5\" target=\"_blank\">KFC Israel to keep all 12 branches open as trustees seek buyer</a>&n",
-  "date": "2026-11-16T19:32:00.000Z",
-  "id": "81b20b6bd4173893"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "וורש: הבינה המלאכותית עשויה להאיץ את הצמיחה בלי להצית אינפלציה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QckxaNXFWcERyTnhGSGNBa3ZXT3JOOWMtejE0ejFVdjdLZEpuUzZVQ3l1cWdJRXNXNHUtOFVTTkhTRDQ0RVkwdlhjQWY0V3JjT0R3dTdSU2FRME9hR2s0cXVoLUI4QzFuQlFZVnBKaTI?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9QckxaNXFWcERyTnhGSGNBa3ZXT3JOOWMtejE0ejFVdjdLZEpuUzZVQ3l1cWdJRXNXNHUtOFVTTkhTRDQ0RVkwdlhjQWY0V3JjT0R3dTdSU2FRME9hR2s0cXVoLUI4QzFuQlFZVnBKaTI?oc=5\" target=\"_blank\">וורש: הבינה המלאכותית עשויה להאיץ את הצמיחה בלי להצית אי",
-  "date": "2026-11-16T19:28:00.000Z",
-  "id": "dcba028641b204d2"
- },
- {
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "נתוני הצמיחה נראים כמו נס כלכלי, אבל מסתירים תמונה יותר מורכבת - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qcnotOFJ0MG5SUGt5S2hrVnJ1alFfRHhiTXNBRFFqOUFuQ1BVamY0RW94QUFzcURKVTlfQnVQdnEwSGw0ZXEyaHJyNEpKenJHM1hmckg4Ui1sS1hMV013S2xxams3dXZG?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qcnotOFJ0MG5SUGt5S2hrVnJ1alFfRHhiTXNBRFFqOUFuQ1BVamY0RW94QUFzcURKVTlfQnVQdnEwSGw0ZXEyaHJyNEpKenJHM1hmckg4Ui1sS1hMV013S2xxams3dXZG?oc=5\" target=\"_blank\">נתוני הצמיחה נראים כמו נס כלכלי, אבל מסתירים תמונה יותר מורכבת</a>&",
-  "date": "2026-11-16T19:17:00.000Z",
-  "id": "06527b0b1fb99919"
- },
- {
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Colette Kress inherits Nvidia at a moment when its biggest risks are no longer just technological - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZUR1Ui1GRTFhdk1ENklYOTNRODFGU3E5cWpjSzVmSGJFVnhnb0l5bm5KV2JRZGhDOG02SC00bFhtSkJCYU04NExFZ01pRF9XeHRDdFNjeG9xZ3hueFNOT19VT2RlS3M?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZUR1Ui1GRTFhdk1ENklYOTNRODFGU3E5cWpjSzVmSGJFVnhnb0l5bm5KV2JRZGhDOG02SC00bFhtSkJCYU04NExFZ01pRF9XeHRDdFNjeG9xZ3hueFNOT19VT2RlS3M?oc=5\" target=\"_blank\">Colette Kress inherits Nvidia at a moment when its biggest risks are",
-  "date": "2026-11-16T19:17:00.000Z",
-  "id": "7a73aa8146174f27"
  }
 ]
