@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 233,
+  "ok": 236,
   "blocked": 3
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 171
+  "blocked": 172
  },
  "en.globes.co.il": {
   "ok": 45,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 283,
+  "ok": 288,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 150
+  "blocked": 161
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 125
+  "blocked": 126
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -56,12 +56,12 @@
   "blocked": 0
  },
  "securityweek.com": {
-  "ok": 66,
+  "ok": 67,
   "blocked": 0
  },
  "ice.co.il": {
   "ok": 8,
-  "blocked": 6
+  "blocked": 7
  },
  "datacenterdynamics.com": {
   "ok": 21,
@@ -72,7 +72,7 @@
   "blocked": 17
  },
  "calcalistech.com": {
-  "ok": 71,
+  "ok": 72,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -109,7 +109,7 @@
  },
  "investing.com": {
   "ok": 0,
-  "blocked": 6
+  "blocked": 7
  },
  "sadanews.ps": {
   "ok": 1,
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 19,
+  "ok": 21,
   "blocked": 1
  },
  "businesswire.com": {
@@ -536,7 +536,7 @@
   "blocked": 0
  },
  "pymnts.com": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "wtmj.com": {
@@ -746,5 +746,17 @@
  "keif.co.il": {
   "ok": 1,
   "blocked": 0
+ },
+ "businessinsurance.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "gfmag.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "wfmj.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }

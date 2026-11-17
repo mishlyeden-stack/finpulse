@@ -1,201 +1,5 @@
 [
  {
-  "key": "פלנטיר | Q3 2026 — הכנסות 2.31 מיליארד דולר, זינוק 100%, העלאת תחזית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679020630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קימברלי-קלארק | השלמת רכישת Kenvue — אינטגרציה ומה הלאה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679020630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Norwegian Cruise Line | CFO יוצא אחרי 8 שנים — מינוי מנהל אסטרטגיה כ-CFO | נובמבר 2026",
-  "level": "learn",
-  "first": 1793679221067,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Optro | CFO חדש מגדיר צמיחת AI בת-קיימא כסדר עדיפויות | נובמבר 2026",
-  "level": "learn",
-  "first": 1793679221067,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טאואר | מנכ״ל: ביקוש AI שלם — אנשים מבוהלים אבל הביקוש ממשיך | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679221067,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "האסט (Haast) | הרגעת וול סטריט — יש מספיק מזומן למימון השקעות AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679221067,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארה״ב | גשר אווירי לישראל לקראת מהלך צבאי אפשרי נגד איראן | נובמבר 2026",
-  "level": "red",
-  "first": 1793679559660,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "CFO Brew | שנת ה-CFO הקטליזטור — תפקיד בשינוי | נובמבר 2026",
-  "level": "learn",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אירופה | מתקפות סייבר על מערכות קירור סופרמרקטים — גל שני",
-  "level": "yellow",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "צה״ל | הקמת זרוע AI ומערכות רובוטיות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אקסטנד | פיטורים 10% אחרי צניחת מניה 80% | נובמבר 2026",
-  "level": "learn",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | אזהרת בכיר אוצר לשעבר — סוף הכלכלה הישראלית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "IDEX | זינוק 19% אחרי דוחות + העלאת תחזית שנתית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "דיסקונט | מכרז מחודש למכירת כאל — מועמדים חדשים",
-  "level": "yellow",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "SpaceXAI | הרחבת Colossus 2 — שני קמפוסים חדשים במיסיסיפי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Envision | מרכז נתונים 800VDC ראשון בעולם — סין | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארקיע | סכסוך עבודה + דילול מניות עובדים לקראת מכירה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נפט | נפילה 8% — מניות תעופה זינקו עד 10% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793679559660,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "גולדמן זאקס | עצירת כלי AI בפיתוח עצמי — חשש פרודוקטיביות ובקרה | נובמבר 2026",
-  "level": "learn",
-  "first": 1793680676777,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | ביטוח ספינות מטען — פקיעת הקרן בסוף נובמבר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793680676778,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | קרנות נאמנות — פדיונות 3.2 מיליארד שקל ועמדת המתנה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793680676778,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AI ומודל עסקי | AI משנה את המודל, לא רק את הטכנולוגיה — CFO.com | נובמבר 2026",
-  "level": "learn",
-  "first": 1793680948409,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נפט | צניחה 6%+ על רקע איתות הסדר איראן–ארה״ב | 2 נובמבר 2026",
-  "level": "red",
-  "first": 1793681149999,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "אנתרופיק | תשקיף IPO — הכנסות 33.2 מיליארד, הפסד 104 מיליארד דולר | נובמבר 2026",
-  "level": "learn",
-  "first": 1793681149999,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Nvidia–Nscale–אנתרופיק | ערבות אשראי למרכז נתונים Monarch | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793681149999,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | חוזה אימון ארטילריה צה״ל 170 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793681149999,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שקל | המשך היחלשות — דולר ואירו עולים | 2 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793681150000,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סייבר | 37 עסקאות M&A באוקטובר 2026 — סיכום חודשי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793681150000,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "CFO | ניהול הוצאות AI של עובדים — מדיניות ובקרה | נובמבר 2026",
   "level": "learn",
   "first": 1793684325728,
@@ -4084,6 +3888,104 @@
   "key": "יונייטד איירליינס | השבתת מערכות — שיבוש טיסות | נובמבר 2026",
   "level": "yellow",
   "first": 1794888553801,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "JPMorgan | עדכון פלטפורמת חובות לקבל (AR) — שחרור הון חוזר ללקוחות | נובמבר 2026",
+  "level": "learn",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | כלל חדש — מרכזי נתונים חייבים לזהות משתמשים סופיים ממדינות אויב | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מניות IT (מלם תים, מטריקס, וואן, חילן) — עלייה 50% + אזהרת AI על רווחיות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | גל פיטורים 2,000 עובדים בהייטק ובורסאיות — AI והתייעלות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ריבית דצמבר | האם העלאה תזרז מחזורי חוב קונצרני? | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פד–וורש | הפד בוחן השפעת AI על הכלכלה האמריקאית — פוטנציאל בום ורעידה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מט״ח | אירו נפל מתחת ל-1.10 דולר לראשונה מאז אפריל 2025 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הואנג | תכנון מס — מ-51 מיליון ל-10.5 מיליארד דולר בנאמנויות צדקה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | ריבית גבוהה פוגעת בהיצע דירות — קבלנים מזהירים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "UniCredit–Commerzbank | האיחוד האירופי אישר רכישה ללא תנאים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | תקלות בנקים גדולים — אלפי לקוחות מדווחים על קשיי גישה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "זהב | גולדמן: הזהב יחזור לשיא בעוד כשנתיים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנתרופיק | ביטקוין מאבד גובה לקראת ההנפקה — תבנית שחזרה על עצמה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890474328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אירלנד | משטרה רוכשת טכנולוגיה ישראלית נגד רחפנים למרות הצהרת חרם | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794890801458,
   "sentLive": false,
   "candidate": true
  }

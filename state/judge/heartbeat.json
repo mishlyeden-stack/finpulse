@@ -1,7 +1,7 @@
 {
- "lastResult": "error",
- "lastError": "judge timeout",
- "queue": 341,
- "at": "2026-11-17T04:15:13.848Z",
- "okAt": "2026-11-17T03:33:29.364Z"
+ "lastResult": "ok",
+ "lastError": "",
+ "queue": 235,
+ "at": "2026-11-17T04:46:41.462Z",
+ "okAt": "2026-11-17T04:46:41.462Z"
 }
