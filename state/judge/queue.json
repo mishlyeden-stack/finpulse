@@ -1,5 +1,16 @@
 [
  {
+  "id": "e3c1c2cd7a61ad53",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Israeli opposition succeeds in electing a new parliamentary speaker",
+  "link": "https://www.ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1",
+  "summary": "Appointment of Matan Kahana is a setback for Benjamin Netanyahu’s far-right coalition",
+  "date": "2026-11-17T22:36:45.000Z",
+  "fetched": "2026-11-17T23:03:30.258Z",
+  "fromCloud": "2026-11-17T2303.json"
+ },
+ {
   "id": "f6782efb3c587194",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -6748,23 +6759,5 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUN3Q3BxSEx3cW10c25DTTczUHhPaHdGd3FIcTJ5c1ZFSzhvNUpNc2JfUGFLNnJIS2h1N09YaGJ0SjByYndKYVQyY0RFb19tZDUwNUU5cldJWlRGY1RPR0VXaTdpcWZwMi1ZRlpzanpyMDRrakFrUHVVbFpSMmk1Yld4MlFzSVpKbkdya2oxaW1HaUhfZXFyaWRZdkozRmNmWGY4?oc=5\" tar",
   "date": "2026-11-16T23:28:00.000Z",
   "id": "b8c0fba98179785c"
- },
- {
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "City Council to vote on review of Chicago’s finances following CFO resignation - Crain's Chicago Business",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa29QLUc2SEhTVll6Z18tcDRUYWk5OEk5ZE9lZF9obmRKaFVRU2ExUlBFM3ZXeWRzSGMxellWVEZheG5sQ2ExRG9lTmx2S0hQSDJhMkVBLTBrSk9HaW9uOWYzWVV5cEV0WjNtM3VCZ1JyQXZpVThVNmUzRy1LRFdtcXAycnB2SFBRc2tUNGR2MkRKekEyX1dfSHdnLVlFeGNHS2NIeWluaUdOdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa29QLUc2SEhTVll6Z18tcDRUYWk5OEk5ZE9lZF9obmRKaFVRU2ExUlBFM3ZXeWRzSGMxellWVEZheG5sQ2ExRG9lTmx2S0hQSDJhMkVBLTBrSk9HaW9uOWYzWVV5cEV0WjNtM3VCZ1JyQXZpVThVNmUzRy1LRFdtcXAycnB2SFBRc2tUNGR2MkRKekEyX1dfSHdnLVlFeGNHS2NIeWluaUdOdw",
-  "date": "2026-11-16T23:03:24.000Z",
-  "id": "f29df0fb091af2c1"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "גורילה על הגב של אחותה: תצפית בספארי ברמת גן חשפה שיתוף פעולה נדיר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56eHNZdTItUWI5cG5DZXg1UFBNdF9hMG1TU3M5WFVWMUVZWEVNcDkzX0gxMWJxWm5EdTZ6NlBPckhCUUtmQVpJakQwOWFHSGt4NGVad29vbXc4cV83UGY5T1VhSnlMODZC?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE56eHNZdTItUWI5cG5DZXg1UFBNdF9hMG1TU3M5WFVWMUVZWEVNcDkzX0gxMWJxWm5EdTZ6NlBPckhCUUtmQVpJakQwOWFHSGt4NGVad29vbXc4cV83UGY5T1VhSnlMODZC?oc=5\" target=\"_blank\">גורילה על הגב של אחותה: תצפית בספארי ברמת גן חשפה שיתוף פעולה נדיר<",
-  "date": "2026-11-16T22:38:00.000Z",
-  "id": "f015cde7dcf9d43f"
  }
 ]
