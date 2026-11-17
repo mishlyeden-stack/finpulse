@@ -1,26 +1,5 @@
 [
  {
-  "key": "שקל | היחלשות — דולר בשיא 7 חודשים, קפיצה 4.5% מאז הבחירות | 3 נובמבר 2026",
-  "level": "red",
-  "first": 1793705733269,
-  "sentLive": true,
-  "candidate": true
- },
- {
-  "key": "אנתרופיק | עלות עובד 107 אלף דולר לחודש — שכר ותשתית AI בחברת AI | נובמבר 2026",
-  "level": "learn",
-  "first": 1793705733269,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אוסטרליה | בחינת רכישת מיירטי כיפת ברזל — עסקה פוטנציאלית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793705733269,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "נייס | פיטורים 500 עובדים — מעבר ל-AI ובחינת מכירת אקטימייז | נובמבר 2026",
   "level": "yellow",
   "first": 1793711243564,
@@ -4007,6 +3986,27 @@
   "key": "Optimizely | פגיעות מנוצלת — נוזקות באתרי BBC, CNN, Zoom | נובמבר 2026",
   "level": "yellow",
   "first": 1794913651906,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מזרחי טפחות | אובדן נתח משכנתאות — שוק גדל 12%, מזרחי 2% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794917288132,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מורגן סטנלי | המלצת מקסימום חשיפה — S&P 500 יעלה 15%+ עד סוף 2027 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794917288132,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טבע | כניסה למדד ראסל 1000 — ביקוש פסיבי למניה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794917288133,
   "sentLive": false,
   "candidate": true
  }
