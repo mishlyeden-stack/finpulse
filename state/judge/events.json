@@ -1,33 +1,5 @@
 [
  {
-  "key": "CFO | ניהול הוצאות AI של עובדים — מדיניות ובקרה | נובמבר 2026",
-  "level": "learn",
-  "first": 1793684325728,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "הורמוז | דיווח על אישור חמינאי לשיחות — נפט צולל, חוזים עולים | 2 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793684325728,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שווקים עולמיים | דריכות לפני בחירות אמצע — קוריאה צוללת, חוזים מעורבים, נפט חוזר לעלות | 3 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793684325728,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Flycomm | זיהוי אנטנות מזויפות וממסכי GPS עם מנוע RF אחד | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793684401463,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "פנטגון | קיצוץ 400 מיליארד דולר מתקציב הביטחון של טראמפ | נובמבר 2026",
   "level": "yellow",
   "first": 1793689538159,
@@ -4056,6 +4028,34 @@
   "key": "סייבר | Cursor supply chain attack — Fireworks AI מקור הפרצה | נובמבר 2026",
   "level": "yellow",
   "first": 1794892622147,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | בור 31 מיליארד דולר בהתחייבויות רכש ביטחוני — ביטול סיוע ארה״ב | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794895595509,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק לאומי | דוח Q3 2026 — רווח 3 מיליארד שקל, דיבידנד 1.5 מיליארד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794895595510,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנדוריל–ישראל | מגעים לעסקה ראשונה עם משרד הביטחון — מערכות נגד רחפנים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794895595510,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנתרופיק | CFO מתכונן להנפקת ענק — תפקיד ה-CFO בהנפקה של 1.4 טריליון | נובמבר 2026",
+  "level": "learn",
+  "first": 1794895790155,
   "sentLive": false,
   "candidate": true
  }

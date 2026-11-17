@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 238,
+  "ok": 240,
   "blocked": 3
  },
  "calcalist.co.il": {
@@ -8,7 +8,7 @@
   "blocked": 172
  },
  "en.globes.co.il": {
-  "ok": 45,
+  "ok": 46,
   "blocked": 0
  },
  "bizportal.co.il": {
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 168
+  "blocked": 170
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 128
+  "blocked": 129
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 24,
-  "blocked": 51
+  "blocked": 52
  },
  "funder.co.il": {
   "ok": 0,
@@ -684,7 +684,7 @@
   "blocked": 1
  },
  "briefs.co": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "admiralmarkets.com": {
