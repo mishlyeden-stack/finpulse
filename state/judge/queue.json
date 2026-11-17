@@ -1,5 +1,214 @@
 [
  {
+  "id": "ada013a454ca678b",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "המס המיוחד והורדת הריבית שחקו את רווחי הבנקים, חוץ משל הגדול ביותר",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563852#utm_source=RSS",
+  "summary": "מכונת הרווחים הבנקאית האטה מעט, אבל עדיין מייצרת רווחי עתק &#8226; לאומי היה היחיד שהגדיל את הרווח והתשואה להון, לא בהכרח מבנקאות \"קלאסית\" &#8226; לידר שוקי הון: \"מדהים ששוק הדיור כל כך חלש, וגם הבנקים וגם המפקח מרגישים כל כך בטוחים לבצע מעט מאוד הפרשות\"",
+  "date": "2026-11-17T17:00:00.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "01ee5702fe6f5ed5",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Alpha Star Acquisition Corp (0001865111) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1865111/000149315226052751/0001493152-26-052751-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0001493152-26-052751 <b>Size:</b> 262 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01",
+  "date": "2026-11-17T16:59:11.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "b8bbcb6b34cc1ce0",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "עוד הגרלה של דירה בהנחה: \"לפחות 5,000 דירות בסוף דצמבר\"",
+  "link": "https://www.ynet.co.il/economy/article/bkzxewq0zl",
+  "summary": "כך חשף מנכ\"ל משרד השיכון, יהודה מורגנשטרן, בוועידת שמאי המקרקעין באילת. מורגנשטרן ביטל את קריאת האוצר לבחון מחדש הבאת עובדים זרים לענף הבנייה והבהיר: \"נמשיך להביא עובדים זרים\". מנכ\"ל אאורה, יעקב אטרקצ'י, קרא לגנוז את תוכנית דירה בהנחה וציין כי לשיטתו העתיד מצוי בפריפריה: \"באופקים",
+  "date": "2026-11-17T16:55:03.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "5e39bb37b737a778",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+  "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+  "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
+  "date": "2026-11-17T16:53:51.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "4f7ed20c86a589c4",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - VIAVI SOLUTIONS INC. (0000912093) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/912093/000162828026074422/0001628280-26-074422-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0001628280-26-074422 <b>Size:</b> 173 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-17T16:53:03.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "b9a7878a41555b8e",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Amazon to invest $7bn into Indian renewable projects by 2030",
+  "link": "https://www.datacenterdynamics.com/en/news/amazon-to-invest-7bn-into-indian-renewable-projects-by-2030/",
+  "summary": "<p data-block-key=\"ts58y\">Signs four PPAs in India with a combined capacity of 934MW</p>",
+  "date": "2026-11-17T16:50:37.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "86ebe67cd0bc5059",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Macquarie Data Centres eyes 200MW campus in Sydney, Australia",
+  "link": "https://www.datacenterdynamics.com/en/news/macquarie-data-centres-eyes-200mw-campus-in-sydney-australia/",
+  "summary": "<p data-block-key=\"xkkgq\">Firm looks to continue build-out in Macquarie Park</p>",
+  "date": "2026-11-17T16:50:07.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "5df4d2210e77c905",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Aledade CFO Jessica Somers Honored as Most Innovative Woman of the Year in Healthcare - The Joplin Globe",
+  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPcS1EMWRMeFJCUEhRblMyUU5CMlExSlhNSXhXM0lzOTRyd0xXMnIyWFRtQl9pVjk3VXE2ZXN2QUZkM0JOWHB4RjVTdHZVLWNiRzlJcnRvMk9HLXRhX1lIbEZGWVI0UWhNZDR6bXd4T0d5Q194UXBPX0JlOV85QU84dU9sQ1kyZnFRYkdjcDJOZU5ZQjRJU0lkYVBZd0JHbnZfbnNHa2szR0tpY1pFbnctVTlPWU5aUkRrcWZ1cWtKVkR5TFc1WGFqN2tPUFRaTnRjd2ZMWUYxT3p6NEV6bkEzZ19TeWljREJCdmRxeUNxVkRzamVZZzdtRnR1aC1FZVltQ25CNmtjQ3BremZKT1JRTjhlMmd0Sk0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPcS1EMWRMeFJCUEhRblMyUU5CMlExSlhNSXhXM0lzOTRyd0xXMnIyWFRtQl9pVjk3VXE2ZXN2QUZkM0JOWHB4RjVTdHZVLWNiRzlJcnRvMk9HLXRhX1lIbEZGWVI0UWhNZDR6bXd4T0d5Q194UXBPX0JlOV85QU84dU9sQ1kyZnFRYkdjcDJOZU5ZQjRJU0lkYVBZd0JHbnZfbnNHa2szR0tpY1",
+  "date": "2026-11-17T16:48:36.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "ea3290fbc6d90395",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "סולברג וזיני: אין ראיות לשוחד שהשפיע על תוצאות הבחירות - Calcalist",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FTHhBZG5VZU44c1FEV1BDWExIbEsyV1ZOTU82QlJhR2E3MDZ2amlZR0FVTUp0aWZKb0F3WDRoV0NDa3JuOERnampubFJSZ3pQY3MzNzlBTHZ3YXRVeWY1OXo4N01CY1Bt?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FTHhBZG5VZU44c1FEV1BDWExIbEsyV1ZOTU82QlJhR2E3MDZ2amlZR0FVTUp0aWZKb0F3WDRoV0NDa3JuOERnampubFJSZ3pQY3MzNzlBTHZ3YXRVeWY1OXo4N01CY1Bt?oc=5\" target=\"_blank\">סולברג וזיני: אין ראיות לשוחד שהשפיע על תוצאות הבחירות</a>&nbsp;&nb",
+  "date": "2026-11-17T16:48:00.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "85ee0997e22c96d5",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "רווחי שיא: למרות פרשת ג'פניקה — כך עקפה לאומי פרטנרס את פועלים אקוויטי - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjhBa3hILXhUeVhVenUyTWU4aXpYQndtNVFsQTVFMXBUTDd6Wld1U2tlVzE0WjRnTlhPUm83VFRvWndnQ0FGOHdUUEhyckNJcW11YXEtS0JRcjlrOEhYMVN3ZlRhQmtEQkRpWmpxcVpJb3hBZUExOHBzT0xNNXRKRkxtaWJhWGNVSjlGcC1NeTRYVDhkRG1MNHg0bGtjUnBJZDFN?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjhBa3hILXhUeVhVenUyTWU4aXpYQndtNVFsQTVFMXBUTDd6Wld1U2tlVzE0WjRnTlhPUm83VFRvWndnQ0FGOHdUUEhyckNJcW11YXEtS0JRcjlrOEhYMVN3ZlRhQmtEQkRpWmpxcVpJb3hBZUExOHBzT0xNNXRKRkxtaWJhWGNVSjlGcC1NeTRYVDhkRG1MNHg0bGtjUnBJZDFN?oc=5\" tar",
+  "date": "2026-11-17T16:47:00.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "8e6bf71ac962433b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bartlett Tree Experts expands Massachusetts footprint with Reilly Tree and Landscape acquisition - Landscape Management",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLWZBdUFnbk56VUFhQThtWFlGcVNBRzdXX2VKUHV1WHRtUngxZlRqVVhzRW90dUNRc05OUFF4TW1rUVM3MjltX1VUaXBhWmR0UkVkUmtXSUYzRll2eDR0Um5xTTNhbVZTVm83U0d0S3Jwd1dCdGJ0RjZWZWlVelZWbllDcWNKMUxaQlFqSTcycURpdEhwUWp1SEZna3kwTXJkRFlucWdDdlpmOUNWTjc0OW9VUDZoeDlPOW1aeWl1RkFpRHo4TUxwYlpBUTFwQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPLWZBdUFnbk56VUFhQThtWFlGcVNBRzdXX2VKUHV1WHRtUngxZlRqVVhzRW90dUNRc05OUFF4TW1rUVM3MjltX1VUaXBhWmR0UkVkUmtXSUYzRll2eDR0Um5xTTNhbVZTVm83U0d0S3Jwd1dCdGJ0RjZWZWlVelZWbllDcWNKMUxaQlFqSTcycURpdEhwUWp1SEZna3kwTXJkRFlucWdDdlpmOU",
+  "date": "2026-11-17T16:45:01.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "e85ba5f86c0dd8d4",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "האם הודעת וואטסאפ מהווה חוזה מחייב? כך קבע ביהמ\"ש העליון",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563742#utm_source=RSS",
+  "summary": "לאורך שנים הכירו בתי משפט בישראל במסמכים שונים, כולל בהודעות מייל ובהודעות וואטסאפ, כבעלי מעמד חוזי מחייב &#8226; לא אחת ויתרו בתי המשפט על דרישת החתימה והכשירו זיכרונות דברים כחוזים &#8226; החלטה בביהמ\"ש העליון מעידה על מגמה חדשה המשנה עמדה זו",
+  "date": "2026-11-17T16:45:00.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "fded07837b2297b4",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "דו\"ח של האוצר חושף: אלה שיאני השכר במגזר הציבורי - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXUxSlkzM2lrNVk4RWp2d19JODlZVjZTbzRLbWgxSW40ejNHVl9VRkVGUWQ0ZW1nc0cxZUw1X2J1aTItODVHM1pzRTBzUjBQNThxcGFHME54cWJXT1lrTDJ1eENvbjVuR2VxTzRFTUZKNnRkc0dZQmE0c2R2QUlDb1FuOVJOZHVFTmpnQ0t6U3plUXBMY3l4V3h3VlNoLVU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXUxSlkzM2lrNVk4RWp2d19JODlZVjZTbzRLbWgxSW40ejNHVl9VRkVGUWQ0ZW1nc0cxZUw1X2J1aTItODVHM1pzRTBzUjBQNThxcGFHME54cWJXT1lrTDJ1eENvbjVuR2VxTzRFTUZKNnRkc0dZQmE0c2R2QUlDb1FuOVJOZHVFTmpnQ0t6U3plUXBMY3l4V3h3VlNoLVU?oc=5\" target=\"",
+  "date": "2026-11-17T16:41:00.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "1b8a04ba953b47a7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EP+Co Departs Omnicom Following Acquisition by Bond — LBB - LBB - Little Black Book",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczJiMHpnZ1llRy1ZcnBnSDNMVzNDM2tBVXgwNkpHUkJhZWpIMElfbHF6UTBtQkFwOTNLV3F4NWtXcHdFNGl0eFhuS0R2U2JaeE5hRXNNWFc1VlExbk1FdUhBOGgyYmIwY0R5T1dkc2ZvMG1nNlBUblB0LWZQTmZta0tKV3BneDY3b0JV?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczJiMHpnZ1llRy1ZcnBnSDNMVzNDM2tBVXgwNkpHUkJhZWpIMElfbHF6UTBtQkFwOTNLV3F4NWtXcHdFNGl0eFhuS0R2U2JaeE5hRXNNWFc1VlExbk1FdUhBOGgyYmIwY0R5T1dkc2ZvMG1nNlBUblB0LWZQTmZta0tKV3BneDY3b0JV?oc=5\" target=\"_blank\">EP+Co Departs Omnic",
+  "date": "2026-11-17T16:38:53.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "5064560e1c158f8d",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "מה חשבו הגולשים על הסרטון שפרסם מנכ\"ל בנק לאומי?",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001563865#utm_source=RSS",
+  "summary": "חנן פרידמן ניסה להסביר את רווחי הבנק ברשת X, ומחצית מהתגובות שקיבל היו שליליות &#8226; עם זאת, לפי הניתוח של סוכנות DABUR, הגולשים מפרגנים לשקיפות",
+  "date": "2026-11-17T16:37:00.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "3e842e83818b0ef4",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "לאחר החשיפה על הנעשה בבתי המטבחיים: תביעה ייצוגית נגד תנובה, דבאח ושתי משחטות עופות - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVJqeHBIS2x6UTM5ZGFNVzUzMXZfZWd4WjJTR2NPbWU2SkpjYkcxaDJ3QjBpMm93MDlLZGNuV1lleXFOcHk0bnJkZUtUWGhSb2QwalJVclJiLUdxczdyX2NzUWJ6bk9Xb0Y3X0ZwN1ZhMTVzUHh2NVhGbGhHc2NuLU55RldHZGZmY3RCczluNHNtRzZuZ2lhTWh1aE4wSnY1eTRXZg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVJqeHBIS2x6UTM5ZGFNVzUzMXZfZWd4WjJTR2NPbWU2SkpjYkcxaDJ3QjBpMm93MDlLZGNuV1lleXFOcHk0bnJkZUtUWGhSb2QwalJVclJiLUdxczdyX2NzUWJ6bk9Xb0Y3X0ZwN1ZhMTVzUHh2NVhGbGhHc2NuLU55RldHZGZmY3RCczluNHNtRzZuZ2lhTWh1aE4wSnY1eTRXZg?oc=5\" t",
+  "date": "2026-11-17T16:36:00.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "0c1460846d062604",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Innovation X Co-Leads Shield’s $1 Billion Series H at $28.8 Billion Valuation to Fund $5.3 Billion Echodyne Acquisition - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRG9zaTdhdkcxcS00bjd1aG8wN0NfTEhhMjg0bmx0QTBHRkt0VWhWYUhiaC0wdzFaS0txaXlOSk1FdDRWdEFTZXFCU1llMmNsVUc0aVp3VXFycTRvbVVSajhHU21yamtOdkF3a2R2ZTkwRUpNZGNiNk9WdVpEX2MyQnhzUGFNbVpzNHRBWnB3TE4zQTN0TWtOSlBXYV9POHJXUF9qM1FYbjJuQ1ozbzd1eGFUMkVjNTF2VmNiZFh6ZVVSZWZBY2dia25YMC1STmhMUTJuMk1WTW9OREFBOEdhV3U1c2w5ejVZR3c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRG9zaTdhdkcxcS00bjd1aG8wN0NfTEhhMjg0bmx0QTBHRkt0VWhWYUhiaC0wdzFaS0txaXlOSk1FdDRWdEFTZXFCU1llMmNsVUc0aVp3VXFycTRvbVVSajhHU21yamtOdkF3a2R2ZTkwRUpNZGNiNk9WdVpEX2MyQnhzUGFNbVpzNHRBWnB3TE4zQTN0TWtOSlBXYV9POHJXUF9qM1FYbjJuQ1",
+  "date": "2026-11-17T16:34:51.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "0936c72fadfad06c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "REG - Westmount Energy Ld - Completion of Eco acquisition of JHI - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbEtiSy1Ic1g4MHJMY0FGUGdLZTV0cTFHRHVjeE53SzlxaFlHUVBLbFVXZjQ3eFFlNWsxU0xkRU1nOHgzcU0wQjZEYzBjajg2ZzhpRGpPcjdSV0xxYWIzNjNWODg3YnBBUWJQSzU4a19yNDVkbnZwbjlyRFBOOEFWTHhoVU4zX2d2V2VhNGgzd0UtM2V1V3QzaXBPQkpoQVJhS2thUTZWVHdrdUkzRHFMTWFkVlJlVjNnT1dmRFFlQ1A2TVQ2d2oyMzgtdTktODQxSVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbEtiSy1Ic1g4MHJMY0FGUGdLZTV0cTFHRHVjeE53SzlxaFlHUVBLbFVXZjQ3eFFlNWsxU0xkRU1nOHgzcU0wQjZEYzBjajg2ZzhpRGpPcjdSV0xxYWIzNjNWODg3YnBBUWJQSzU4a19yNDVkbnZwbjlyRFBOOEFWTHhoVU4zX2d2V2VhNGgzd0UtM2V1V3QzaXBPQkpoQVJhS2thUTZWVHdrdU",
+  "date": "2026-11-17T16:34:37.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "cba6092b4430d65c",
+  "source": "AV Network",
+  "group": "industry",
+  "title": "On Audio & AI: Shure",
+  "link": "https://www.avnetwork.com/news/on-audio-and-ai-shure",
+  "summary": "Susy Liem, Vice President of Collaboration and Conferencing at Shure, shares insights and trends on audio developments and how AI integration impacts workplace experiences across enterprise, higher ed, and related markets.",
+  "date": "2026-11-17T16:32:17.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
   "id": "ec6d896ae0ea88c1",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -319,6 +528,17 @@
   "fromCloud": "2026-11-17T1603.json"
  },
  {
+  "id": "a8786cfbf947922a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Ottobock SE & Co. KGaA (OBCK) Reports Manager Acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0dQV2xyMlNQTFpTYkhSbnFUaTdRbndTV2dSbm5rOS16MGZiWFJVQ25qRlBTS3h0QVc0R0NhTW9JTEc4SUZ2Z2FGOU43Nkk3N3FqTk5HRFUyMENnZ0pDTU5iSXhvNkx6NTltR3R4bElLOUdyN2dheDhVYUxsbFBacWdMX1FaTFZmOFNJMGdSQmlPbE83RHN3YWoxcExuTmhfdWFmT1Q5czhVczZaUkZUVERXdUs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0dQV2xyMlNQTFpTYkhSbnFUaTdRbndTV2dSbm5rOS16MGZiWFJVQ25qRlBTS3h0QVc0R0NhTW9JTEc4SUZ2Z2FGOU43Nkk3N3FqTk5HRFUyMENnZ0pDTU5iSXhvNkx6NTltR3R4bElLOUdyN2dheDhVYUxsbFBacWdMX1FaTFZmOFNJMGdSQmlPbE83RHN3YWoxcExuTmhfdWFmT1Q5czhVcz",
+  "date": "2026-11-17T15:38:20.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
   "id": "fd3d431f9301a104",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -493,6 +713,28 @@
   "date": "2026-11-17T15:18:00.000Z",
   "fetched": "2026-11-17T15:33:11.437Z",
   "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "4881054117a88fc9",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "20 מיליארד דולר הפכו ל-1.6 מיליארד: נחשף היקף החיסול בקרן ה-AI שטלטלה את וול סטריט - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HcEIxMW1YZi1kRFBXc0o3dWJGQU82VzMxcTV2UDVrcWIyWlR4WGc3YU9WNnZsdnUyTDFpcERXMUJleDc2bnBUQkNoM0NkNnBxaUI5SGFMRm9uOUo0TGoyUzdKUFEyN3NQOWlhVGYyWXA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9HcEIxMW1YZi1kRFBXc0o3dWJGQU82VzMxcTV2UDVrcWIyWlR4WGc3YU9WNnZsdnUyTDFpcERXMUJleDc2bnBUQkNoM0NkNnBxaUI5SGFMRm9uOUo0TGoyUzdKUFEyN3NQOWlhVGYyWXA?oc=5\" target=\"_blank\">20 מיליארד דולר הפכו ל-1.6 מיליארד: נחשף היקף החיסול בקר",
+  "date": "2026-11-17T15:17:00.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
+ },
+ {
+  "id": "5bb6e996714407d6",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Fed’s Lisa Cook refuses to attend hearing convened by Trump",
+  "link": "https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4?syn-25a6b1a6=1",
+  "summary": "Central bank governor says attending ‘unfair’ proceedings would endanger the ‘institution’s unique status and independence’",
+  "date": "2026-11-17T15:15:35.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
  },
  {
   "id": "dc0b61d069a92deb",
@@ -702,6 +944,17 @@
   "date": "2026-11-17T14:52:00.000Z",
   "fetched": "2026-11-17T15:03:14.479Z",
   "fromCloud": "2026-11-17T1503.json"
+ },
+ {
+  "id": "a68acfd0fe110757",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000225/0001331754-26-000225-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0001331754-26-000225 <b>Size:</b> 194 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+  "date": "2026-11-17T14:51:51.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
  },
  {
   "id": "49d9b9f512506934",
@@ -1087,6 +1340,17 @@
   "date": "2026-11-17T13:31:39.000Z",
   "fetched": "2026-11-17T15:03:14.479Z",
   "fromCloud": "2026-11-17T1503.json"
+ },
+ {
+  "id": "f688cda205097c52",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "אחד מכל חמישה מועסקים בישראל עובד במקצוע בסיכון - היום",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wMndiemI3UHNoNjRlNGppY2FpcVVRaUlYMWdTeVlCcy01QnVxX1ZZcm5jXzBDM0JDa1F6Ymw5cGIzXzJKdC1EQVo3SEtURGtLNldpSHp5NmZTbkZ3Y3BHLWt5ZTJRUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wMndiemI3UHNoNjRlNGppY2FpcVVRaUlYMWdTeVlCcy01QnVxX1ZZcm5jXzBDM0JDa1F6Ymw5cGIzXzJKdC1EQVo3SEtURGtLNldpSHp5NmZTbkZ3Y3BHLWt5ZTJRUQ?oc=5\" target=\"_blank\">אחד מכל חמישה מועסקים בישראל עובד במקצוע בסיכון</a>&nbsp;&nbsp;<font ",
+  "date": "2026-11-17T13:25:36.000Z",
+  "fetched": "2026-11-17T17:03:22.245Z",
+  "fromCloud": "2026-11-17T1703.json"
  },
  {
   "id": "2bcd541f951e1db6",
