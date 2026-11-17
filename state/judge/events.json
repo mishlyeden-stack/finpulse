@@ -1,40 +1,5 @@
 [
  {
-  "key": "מארוול | רכישת לומנטום ב-115 מיליארד דולר — AI קישוריות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793630226876,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "צ'ק פוינט | עדכון תחזית שנתית — נובמבר 2026",
-  "level": "yellow",
-  "first": 1793630226877,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Parsons | מינוי CFO זמני — George Ball | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793678854095,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | עדכון קצבאות ינואר 2027 — 1.6%, השיעור הנמוך מאז 2021 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793678854096,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בייננס | חידוש משיכות אחרי שוד — לקוחות מושכים מיליארדים, פגיעה באמון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793678854096,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "פלנטיר | Q3 2026 — הכנסות 2.31 מיליארד דולר, זינוק 100%, העלאת תחזית | נובמבר 2026",
   "level": "yellow",
   "first": 1793679020630,
@@ -4084,6 +4049,41 @@
   "key": "אנתרופיק | הנפקה מחר בנאסד״ק | נובמבר 2026",
   "level": "yellow",
   "first": 1794838077092,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנתרופיק | הנפקה בנאסד״ק — שאלות מאחורי שווי 1.4 טריליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794888553801,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AMD | רכישת World Labs של פיי-פיי לי — חיזוק תשתיות AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794888553801,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סנאט ארה״ב | חוק ביטחון תומך בבניית חלל אך מטיל שאלות על אסטרטגיית רכש | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794888553801,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "JPMorgan Chase | תקלת תוכנה זמנית בבנקאות צרכנית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794888553801,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יונייטד איירליינס | השבתת מערכות — שיבוש טיסות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794888553801,
   "sentLive": false,
   "candidate": true
  }

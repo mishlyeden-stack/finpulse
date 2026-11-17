@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 170
+  "blocked": 171
  },
  "en.globes.co.il": {
   "ok": 45,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 142
+  "blocked": 150
  },
  "13tv.co.il": {
   "ok": 0,
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 49,
+  "ok": 50,
   "blocked": 0
  },
  "securityweek.com": {
@@ -109,7 +109,7 @@
  },
  "investing.com": {
   "ok": 0,
-  "blocked": 5
+  "blocked": 6
  },
  "sadanews.ps": {
   "ok": 1,
@@ -176,7 +176,7 @@
   "blocked": 2
  },
  "cnbc.com": {
-  "ok": 19,
+  "ok": 21,
   "blocked": 3
  },
  "inquirer.com": {
@@ -261,7 +261,7 @@
  },
  "reuters.com": {
   "ok": 0,
-  "blocked": 7
+  "blocked": 8
  },
  "globalbankingandfinance.com": {
   "ok": 0,
@@ -277,7 +277,7 @@
  },
  "sec.gov": {
   "ok": 0,
-  "blocked": 5
+  "blocked": 6
  },
  "newsquawk.com": {
   "ok": 1,
@@ -300,7 +300,7 @@
   "blocked": 0
  },
  "spacenews.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "thestate.com": {
@@ -616,7 +616,7 @@
   "blocked": 0
  },
  "thefastmode.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "bostonglobe.com": {
