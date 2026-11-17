@@ -1,5 +1,71 @@
 [
  {
+  "id": "9eb2679348764ac1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Aimei Health Technology Co., Ltd. (0001979005) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1979005/000149315226052818/0001493152-26-052818-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0001493152-26-052818 <b>Size:</b> 279 KB <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-11-17T21:01:37.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
+ },
+ {
+  "id": "000a6dba344aa1fe",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Open Source Acquisition System Achieves Ten Microsecond Synchronization Across Multiple Sensor Boards - Bioengineer.org",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORHZQdDNDWTE3LUI4YUVsZVNlUGpkbVZFTVdKQkkyQ2FJQkVmLXEzczljYkplc3RHMDgtZm1DUHBBTXlQUmd5NTgza1c4VTN3cmRjYW9lQ0Nhd3p2YUxBOEllWTZxUy1YX04xSUtkZXBOTEdxWXQ1b1lXeDZIaS1QY0lYR1ZobHVINE9vQzBXT0EzSkdodkIydTdfa3NPcXQtSDFEUUpaTGFzeElRMkVnZGs1SlR5QzFsc2RJcUxCdzlUQVJ5?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxORHZQdDNDWTE3LUI4YUVsZVNlUGpkbVZFTVdKQkkyQ2FJQkVmLXEzczljYkplc3RHMDgtZm1DUHBBTXlQUmd5NTgza1c4VTN3cmRjYW9lQ0Nhd3p2YUxBOEllWTZxUy1YX04xSUtkZXBOTEdxWXQ1b1lXeDZIaS1QY0lYR1ZobHVINE9vQzBXT0EzSkdodkIydTdfa3NPcXQtSDFEUUpaTGFzeE",
+  "date": "2026-11-17T20:55:27.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
+ },
+ {
+  "id": "1c3912ac2ec7bb83",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Guardian Alarm Enters Indiana Market with Multiguard Acquisition - Security Info Watch",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdXBKYnYzYkZpQXNhS3ZfNTZLUXg3UWdHSG1hT2RLRHVBZ2pRUi1iVFVTdVVjUy1FbGRTM3FVYjBVck54MnZhS2RIc1VhV3V3Qll0ejhRSVhfUHRhdFI3YUg3dHgxSUhOQUR5RlM2eWEyZ2VwT0R3NUhwdzVuT1FKbGlFV3RLMmQyRnFkRjlGT1Nua2hBRmROdzkwcVFuOWF6REdfYzRCblV4NHRDejZBNjdaUXJ2aHJJQkNBWlJJTmxnOG1EVXp6dVJqbUdEUTFRdVpwUjR3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdXBKYnYzYkZpQXNhS3ZfNTZLUXg3UWdHSG1hT2RLRHVBZ2pRUi1iVFVTdVVjUy1FbGRTM3FVYjBVck54MnZhS2RIc1VhV3V3Qll0ejhRSVhfUHRhdFI3YUg3dHgxSUhOQUR5RlM2eWEyZ2VwT0R3NUhwdzVuT1FKbGlFV3RLMmQyRnFkRjlGT1Nua2hBRmROdzkwcVFuOWF6REdfYzRCblV4NH",
+  "date": "2026-11-17T20:47:53.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
+ },
+ {
+  "id": "49b6a4d4deddc175",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "ACM concludes antitrust probe into below-threshold cash transport acquisition - Global Competition Review",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHpFeXBOb0FEYlN3SHBlRHk1Z0I0RUJxNXZuaFBteWVsdFI2cElrS1hILTc2bHQwWXR4NTJOLTdwbW5JNGtNRVVualByREc4bFJQNjFLS0lLQ0FLY0tTQk83U0pjdnkwRjJwNWg0aDNYSW5ZdmRCZ3g1WHBzV1NWU1FGNGNOUXUzamFIQkxSaUotN1Z4MUR5RjRKSlpMZ0stSUtoUmoxQU1GR2htbHdMY2UweWRWNk0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHpFeXBOb0FEYlN3SHBlRHk1Z0I0RUJxNXZuaFBteWVsdFI2cElrS1hILTc2bHQwWXR4NTJOLTdwbW5JNGtNRVVualByREc4bFJQNjFLS0lLQ0FLY0tTQk83U0pjdnkwRjJwNWg0aDNYSW5ZdmRCZ3g1WHBzV1NWU1FGNGNOUXUzamFIQkxSaUotN1Z4MUR5RjRKSlpMZ0stSUtoUmoxQU1GR2",
+  "date": "2026-11-17T20:38:29.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
+ },
+ {
+  "id": "3e6a6bc3329b0da1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - OneMain Holdings, Inc. (0001584207) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1584207/000158420726000044/0001584207-26-000044-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0001584207-26-000044 <b>Size:</b> 178 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-17T20:37:17.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
+ },
+ {
+  "id": "760710a8d68056f5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Winnebago’s Bryan Hughes Recognized as 2026 CFO of the Year Honoree - RV PRO",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDk4amR2RTlqM1ZrdTVUbDBOQmFodzYxNko0Mk0tS1FCTGYyTUNzVkFJUUhyWUVsOEMwa2I4ejdIbzZ1SXZIR3FvdnNHQy1uNWoxYUNQOTdITDUwSlp6VlRld1FaR2ZqRkFBLThIai1oWmo1RF9MSVBJRDdfS3AxUS1waVVHWV9zd09PQXQ2cTBLUFFyMmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDk4amR2RTlqM1ZrdTVUbDBOQmFodzYxNko0Mk0tS1FCTGYyTUNzVkFJUUhyWUVsOEMwa2I4ejdIbzZ1SXZIR3FvdnNHQy1uNWoxYUNQOTdITDUwSlp6VlRld1FaR2ZqRkFBLThIai1oWmo1RF9MSVBJRDdfS3AxUS1waVVHWV9zd09PQXQ2cTBLUFFyMmc?oc=5\" target=\"_blank\">Winn",
+  "date": "2026-11-17T20:32:48.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
+ },
+ {
   "id": "735ef9997b372460",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +75,17 @@
   "date": "2026-11-17T20:32:20.000Z",
   "fetched": "2026-11-17T20:33:21.992Z",
   "fromCloud": "2026-11-17T2033.json"
+ },
+ {
+  "id": "a0e6905220bec96f",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "\"Israeli high-tech has become the 'defense' of our economy\" - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VMFpDaXRJZTMwd3B1VW1xY3dhdFl4NWF4RDZzT0JTVDBlX3RTYkdSOTg4OFRvT29DZ09MeTlGVUg5TjB4YzdOMTRhQ1BLY19zaFdLMWI4Wm83SmtONVV5SS01emZRUUU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VMFpDaXRJZTMwd3B1VW1xY3dhdFl4NWF4RDZzT0JTVDBlX3RTYkdSOTg4OFRvT29DZ09MeTlGVUg5TjB4YzdOMTRhQ1BLY19zaFdLMWI4Wm83SmtONVV5SS01emZRUUU?oc=5\" target=\"_blank\">\"Israeli high-tech has become the 'defense' of our economy\"</a>&nbsp",
+  "date": "2026-11-17T20:24:00.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
  },
  {
   "id": "66857595cbf4dca8",
@@ -88,6 +165,17 @@
   "fromCloud": "2026-11-17T2033.json"
  },
  {
+  "id": "c0734ca040b9858b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Memo to Nvidia interim CEO Colette Kress: Remind the world why you've been Jensen Huang's CFO for 13-plus years - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdnRkLS0xZi13cXh6VEtYN0UteWtfdkwxXzRtck5jSUw5Uy1oWXZSc3JPWklibF9zOW80YXVaZU9SUzdTd2IwQXFBbW5DUml4SUI3TlN4UDhOeVlWMDlrOWFrTDJLbHJFVkU2QkZIV3hnRzlpaE4wTGtwNUplZGdqTVBRYS03SXFncmo5S3VkRVFRMmZFcGhrb1lTdlFyRXItNnM5bjg3N2FwcXFWTUNvZjN2VkVfU0JtNVR2OXBKeFFPd19tS0hQSGlYR3lGTjFGLTFkTTF0Rm01QWdCZElOanRnZ3V0dmtoSFJKN1dSbHZhVjZWX0o0TldEUXlGNjF1Umc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNdnRkLS0xZi13cXh6VEtYN0UteWtfdkwxXzRtck5jSUw5Uy1oWXZSc3JPWklibF9zOW80YXVaZU9SUzdTd2IwQXFBbW5DUml4SUI3TlN4UDhOeVlWMDlrOWFrTDJLbHJFVkU2QkZIV3hnRzlpaE4wTGtwNUplZGdqTVBRYS03SXFncmo5S3VkRVFRMmZFcGhrb1lTdlFyRXItNnM5bjg3N2FwcX",
+  "date": "2026-11-17T20:00:00.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
+ },
+ {
   "id": "562caec2c1fb22a7",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -143,6 +231,17 @@
   "fromCloud": "2026-11-17T2003.json"
  },
  {
+  "id": "b283bc4fa217eba9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "HLTH 2026 Daily Tracker: Oura, Counsel Health CEOs talk $625M acquisition; HHS' Chris Klomp on the leap from startups to Medicare - Fierce Healthcare",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExzeWtDN201UzJtOW5TRnlFdi1iV0t2VW1xbGtra25DblNtWkhkc3VjSnpoQTJxNUc1Zm5kVlJfZll4TURiLW0wb18tTkt1X1NGQXJZZ1lHLV9ZTkpoTHRtY3Bqa016b2FSTVM3bDdLS2hfaGlLTk9uZ3FFWkZHSlJ4NVZsemxFSVVLS1VBaVE0Qm9jTE9FTDFpQUoyb3BMRGcxQmhUZDg4UjFHdDJDWXNfUl9BS0FOa2lYdVoxQUxhZVhmWEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZExzeWtDN201UzJtOW5TRnlFdi1iV0t2VW1xbGtra25DblNtWkhkc3VjSnpoQTJxNUc1Zm5kVlJfZll4TURiLW0wb18tTkt1X1NGQXJZZ1lHLV9ZTkpoTHRtY3Bqa016b2FSTVM3bDdLS2hfaGlLTk9uZ3FFWkZHSlJ4NVZsemxFSVVLS1VBaVE0Qm9jTE9FTDFpQUoyb3BMRGcxQmhUZDg4Uj",
+  "date": "2026-11-17T19:46:23.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
+ },
+ {
   "id": "4490984e56d48c5f",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -174,6 +273,17 @@
   "date": "2026-11-17T19:34:00.000Z",
   "fetched": "2026-11-17T19:55:22.637Z",
   "fromCloud": "2026-11-17T1955.json"
+ },
+ {
+  "id": "43d2b1acdc77a3ab",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בתיק של טראמפ נרשמו 103 עסקאות באנבידיה, בהיקף של 98 מיליון דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KVEwtWURCeTN6MF9IWG5MNFNrbUptc0J4S0dHblp4MVlmWUxPTEZTc3ZwWjZRU09WUWNIV1VxTkE2U0d1eExhZkZGYzRQLUtfOThZX3NHMnk3bk5YOGxVdUJLa0t3dGFWSGVXbVhnMTU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9KVEwtWURCeTN6MF9IWG5MNFNrbUptc0J4S0dHblp4MVlmWUxPTEZTc3ZwWjZRU09WUWNIV1VxTkE2U0d1eExhZkZGYzRQLUtfOThZX3NHMnk3bk5YOGxVdUJLa0t3dGFWSGVXbVhnMTU?oc=5\" target=\"_blank\">בתיק של טראמפ נרשמו 103 עסקאות באנבידיה, בהיקף של 98 מיל",
+  "date": "2026-11-17T19:32:00.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
  },
  {
   "id": "22abf226a0cde05f",
@@ -451,6 +561,17 @@
   "fromCloud": "2026-11-17T1833.json"
  },
  {
+  "id": "260fa592388e11a4",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גל תקלות במערכות הקריטיות בארצות הברית נמשך: ממיקרוסופט ועד ה-NSA - צירוף מקרים? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYXVwQ0JaTGF1YnpreUlGNFdHVm45WDBXM0I5eXRkLUhKNktERHBlX0dma3dXbTN3Y2FzVjM5YlUyNXZzTmFRYlZfVGlLSlBCaFhrcTRtaWNkYVh2dmkxd1M5ZmRCb3VGX1NjVEo0S2w?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYXVwQ0JaTGF1YnpreUlGNFdHVm45WDBXM0I5eXRkLUhKNktERHBlX0dma3dXbTN3Y2FzVjM5YlUyNXZzTmFRYlZfVGlLSlBCaFhrcTRtaWNkYVh2dmkxd1M5ZmRCb3VGX1NjVEo0S2w?oc=5\" target=\"_blank\">גל תקלות במערכות הקריטיות בארצות הברית נמשך: ממיקרוסופט ",
+  "date": "2026-11-17T18:30:00.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
+ },
+ {
   "id": "03ca4904cf170eee",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -548,6 +669,17 @@
   "date": "2026-11-17T18:06:56.000Z",
   "fetched": "2026-11-17T18:33:21.398Z",
   "fromCloud": "2026-11-17T1833.json"
+ },
+ {
+  "id": "6371e27ec2999014",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000219/0001331451-26-000219-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0001331451-26-000219 <b>Size:</b> 187 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+  "date": "2026-11-17T18:03:00.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
  },
  {
   "id": "3a4bfad5ae07d8ff",
@@ -2448,6 +2580,17 @@
   "date": "2026-11-17T14:34:12.000Z",
   "fetched": "2026-11-17T15:33:11.437Z",
   "fromCloud": "2026-11-17T1533.json"
+ },
+ {
+  "id": "79de4c3c35075618",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מנהיגי אירופה מתקרבים להסכמה: דה קוס מועמד להחליף את לגארד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5UWhUVlllZGlQWldpN2JUQ1lKSE9vN0taRUtmYUJmRDhkbDdpZEZCOGVyeW9zeXhKUlVPTF9JU0VUOHZ2dTNkanhpZjR0RDNKbzBueVl0OHRvLVkyQmZRNUFYZ0FwaHgyVWxZV3lyZTE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA5UWhUVlllZGlQWldpN2JUQ1lKSE9vN0taRUtmYUJmRDhkbDdpZEZCOGVyeW9zeXhKUlVPTF9JU0VUOHZ2dTNkanhpZjR0RDNKbzBueVl0OHRvLVkyQmZRNUFYZ0FwaHgyVWxZV3lyZTE?oc=5\" target=\"_blank\">מנהיגי אירופה מתקרבים להסכמה: דה קוס מועמד להחליף את לגא",
+  "date": "2026-11-17T14:34:00.000Z",
+  "fetched": "2026-11-17T21:03:13.882Z",
+  "fromCloud": "2026-11-17T2103.json"
  },
  {
   "source": "DCD – Data Center Dynamics",
@@ -5755,59 +5898,5 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BUkxXd1dEekhXcDUwODFjaHFiZEM3VUstMUY3NC05emFRZURxaDgxZlJMNkV5YURYUmV6SE9iZ1pqQThYRm1rTjVkZXFZTVlLNElwd05sT3lxQjYwV2UyY3JHcnJia00?oc=5\" target=\"_blank\">חברת השמה דורשת כסף על קורות החיים? בישראל החוק אוסר את זה</a>&nbsp;",
   "date": "2026-11-16T21:07:00.000Z",
   "id": "df872370972b3fcb"
- },
- {
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "Former X Strategies CFO hits back at company in counterclaim",
-  "link": "https://www.cfodive.com/news/former-x-strategies-cfo-files-counterclaim-cofounder-engaged-com/874814/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_OUtuYlEiqxf2mjQLSYAxt9NBSwJxgijqokHS4EicjQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KdXN0aWNlLWFuZC1tb25leS4tSnVkZ2UtZ2F2ZWwtd2l0aC1yb2xsLW9mLWRvbGxhci1iYW5rbm90ZXMtb24td2hpdGUtYmFja2dyb3VuZC4tMS5qcGVn",
-  "date": "2026-11-16T20:59:07.000Z",
-  "id": "f174233338dbae5b"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "התוכן חוזר להיות המלך: מי שמחזיק מידע אמין גובה כסף מחברות ה-AI - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3QVc3MlFqUDJFdUpMbWpsSlRvSk55UFVxZnBFdmlUS0tIZ05HZmtSSm5UUGFGY0VxR1dPaUJ3M2lXdlhETHU1SWxPZ193ZlRsOC04S1VuZlFhVkhEeDlRT183ZFRZdDJt?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3QVc3MlFqUDJFdUpMbWpsSlRvSk55UFVxZnBFdmlUS0tIZ05HZmtSSm5UUGFGY0VxR1dPaUJ3M2lXdlhETHU1SWxPZ193ZlRsOC04S1VuZlFhVkhEeDlRT183ZFRZdDJt?oc=5\" target=\"_blank\">התוכן חוזר להיות המלך: מי שמחזיק מידע אמין גובה כסף מחברות ה-AI</a>",
-  "date": "2026-11-16T20:58:00.000Z",
-  "id": "e347b50ee070afea"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הביטקוין מאבד גובה לקראת הנפקת אנתרופיק, בדיוק כמו לפני ספייס אקס - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05UzV1WHdwZUdmdklqbmNLMFQyZzIxTFFuWlBydXRWclYyaTZ4NWNzWnJrWWc4R05SVl8xUnZ6NE9Uakk4ZmtOWGE2di1ocmh4YW5XaWhJell0ME9kMWp0d01jWkg0dDJu?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE05UzV1WHdwZUdmdklqbmNLMFQyZzIxTFFuWlBydXRWclYyaTZ4NWNzWnJrWWc4R05SVl8xUnZ6NE9Uakk4ZmtOWGE2di1ocmh4YW5XaWhJell0ME9kMWp0d01jWkg0dDJu?oc=5\" target=\"_blank\">הביטקוין מאבד גובה לקראת הנפקת אנתרופיק, בדיוק כמו לפני ספייס אקס</",
-  "date": "2026-11-16T20:52:00.000Z",
-  "id": "b802f1ac322a815b"
- },
- {
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "Warsh says Fed examining whether AI will boost or jolt US economy",
-  "link": "https://www.cfodive.com/news/warsh-says-fed-examining-ai-boost-jolt-us-economy-cyberattack/874809/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Gl8-HNSjrQrutuz6c1z6cnG94skNuauqQ5teHuILhwo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg2MjM4MTAzLmpwZw==.webp\"/></div></figure><p>&ldquo;Will adversaries race to deploy SI, intending t",
-  "date": "2026-11-16T20:46:27.000Z",
-  "id": "9cba6058edb81bee"
- },
- {
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "JPMorgan updates AR platform to help free up working capital",
-  "link": "https://www.cfodive.com/news/jpmorgan-updates-ar-platform-help-unstick-working-capital/874810/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/1OcNcuM0a__A7OGmYnNV_U47l_i_XhLx-bWXSZWCKOo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MDE3NzQ0MDEuanBn.webp\"/></div></figure><p>The bank, which has been in the receivables business for d",
-  "date": "2026-11-16T20:46:01.000Z",
-  "id": "c2f998222fec5975"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "האירו ירד מתחת ל-1.10 דולר לראשונה מאז אפריל 2025 - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ocnJ6RkV1Yk5MX2ptODRkMkstdER4T0s4V0VtMHVCQXFMQWVEVFl0U2ZjQkVBTUkxc2JxRzdwT205d183MzB2bURhaFdDOURnSHdkUzk5bTRfSzZGVE45ZkVkRjBHTTRsS3h5OEMwSUw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1ocnJ6RkV1Yk5MX2ptODRkMkstdER4T0s4V0VtMHVCQXFMQWVEVFl0U2ZjQkVBTUkxc2JxRzdwT205d183MzB2bURhaFdDOURnSHdkUzk5bTRfSzZGVE45ZkVkRjBHTTRsS3h5OEMwSUw?oc=5\" target=\"_blank\">האירו ירד מתחת ל-1.10 דולר לראשונה מאז אפריל 2025</a>&nb",
-  "date": "2026-11-16T20:40:00.000Z",
-  "id": "f82444dd41ce02db"
  }
 ]
