@@ -1,0 +1,16 @@
+{
+ "batch": "2026-11-17T2303",
+ "created": "2026-11-17T23:03:30.258Z",
+ "items": [
+  {
+   "id": "e3c1c2cd7a61ad53",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Israeli opposition succeeds in electing a new parliamentary speaker",
+   "link": "https://www.ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1",
+   "summary": "Appointment of Matan Kahana is a setback for Benjamin Netanyahu’s far-right coalition",
+   "date": "2026-11-17T22:36:45.000Z",
+   "fetched": "2026-11-17T23:03:30.258Z"
+  }
+ ]
+}
