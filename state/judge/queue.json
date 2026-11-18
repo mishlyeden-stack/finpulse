@@ -1,5 +1,27 @@
 [
  {
+  "id": "f999637b6484b8c1",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
+  "link": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+  "summary": "Companies told to update systems running on programming language widely used by corporate sector, banks and government agencies",
+  "date": "2026-11-18T02:19:18.000Z",
+  "fetched": "2026-11-18T02:33:29.941Z",
+  "fromCloud": "2026-11-18T0233.json"
+ },
+ {
+  "id": "b0124eb69ec670d5",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+  "link": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
+  "summary": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
+  "date": "2026-11-18T02:17:18.000Z",
+  "fetched": "2026-11-18T02:33:29.941Z",
+  "fromCloud": "2026-11-18T0233.json"
+ },
+ {
   "id": "e8dbc30d4135eac1",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -31,6 +53,17 @@
   "date": "2026-11-18T02:09:36.000Z",
   "fetched": "2026-11-18T02:22:00.428Z",
   "fromCloud": "2026-11-18T0222.json"
+ },
+ {
+  "id": "5e994c5f637d0d83",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Gilead Sciences CFO Dickinson sells $514,410 in stock - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDV6cUt1MWthbXJ0VWExaUZuWThGcUlmOW9LZjhGVkwxS3luQVpYT2VBbVVyX2ZOUDBZcF80ZEVuS0VFNU5jbUdwaTFlRk44dG1vejU1WW15bXZrWXFFOWFuX3JGZUFKUUN4QmV4RWNIWUZJYmIxX3BFWGR6MGVsby1xbkNiSlF4cDR0Y01vSUdwMTVjZEh2ME9lZktSNDdGa3MzdTJteWFSRnVUSDNRdVJ3WEQ0dTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDV6cUt1MWthbXJ0VWExaUZuWThGcUlmOW9LZjhGVkwxS3luQVpYT2VBbVVyX2ZOUDBZcF80ZEVuS0VFNU5jbUdwaTFlRk44dG1vejU1WW15bXZrWXFFOWFuX3JGZUFKUUN4QmV4RWNIWUZJYmIxX3BFWGR6MGVsby1xbkNiSlF4cDR0Y01vSUdwMTVjZEh2ME9lZktSNDdGa3MzdTJteWFSRn",
+  "date": "2026-11-18T01:58:19.000Z",
+  "fetched": "2026-11-18T02:33:29.941Z",
+  "fromCloud": "2026-11-18T0233.json"
  },
  {
   "id": "d49d33ad8fb98a89",
@@ -119,6 +152,17 @@
   "date": "2026-11-18T00:38:00.000Z",
   "fetched": "2026-11-18T01:03:27.011Z",
   "fromCloud": "2026-11-18T0103.json"
+ },
+ {
+  "id": "eb06e51e28a00a3b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "וויימו עוצרת את הנסיעות בכבישים המהירים בכל ארה\"ב אחרי צו בקליפורניה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZDM4RzVmLWY2MHY0OTNIZUx1eFV5dTZoRzFxVWY1R0lDUmh0Wi1jeDV4S18tU19SWlctcTRKamo0S05oZFVFMTU1ckF0d01NanNPZHhPN3NnbnBIckJVMkpXclVsQThp?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZDM4RzVmLWY2MHY0OTNIZUx1eFV5dTZoRzFxVWY1R0lDUmh0Wi1jeDV4S18tU19SWlctcTRKamo0S05oZFVFMTU1ckF0d01NanNPZHhPN3NnbnBIckJVMkpXclVsQThp?oc=5\" target=\"_blank\">וויימו עוצרת את הנסיעות בכבישים המהירים בכל ארה\"ב אחרי צו בקליפורני",
+  "date": "2026-11-18T00:37:00.000Z",
+  "fetched": "2026-11-18T02:33:29.941Z",
+  "fromCloud": "2026-11-18T0233.json"
  },
  {
   "id": "c8eb206f6f68c389",
@@ -264,6 +308,17 @@
   "fromCloud": "2026-11-18T0003.json"
  },
  {
+  "id": "f0f0078b655b93c9",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הדוחות המצויינים וקולט קרס נוסכים ביטחון בוול סטריט; אנבידיה מטפסת ב-5% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CZEU2ZFg2eTg3NzB4dllpOHh6ZmU2eW9QNWZRNE0yVVBNbTk1c2w0eFZPbzE5d2hHZzdBa2wxeVcyRnJMYVBrUUNyUXRSMkdPSGtuSnJTdWJvYXJlUHBYaGsxVmtqa3dnb18wVzhUNTE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1CZEU2ZFg2eTg3NzB4dllpOHh6ZmU2eW9QNWZRNE0yVVBNbTk1c2w0eFZPbzE5d2hHZzdBa2wxeVcyRnJMYVBrUUNyUXRSMkdPSGtuSnJTdWJvYXJlUHBYaGsxVmtqa3dnb18wVzhUNTE?oc=5\" target=\"_blank\">הדוחות המצויינים וקולט קרס נוסכים ביטחון בוול סטריט; אנב",
+  "date": "2026-11-17T23:16:00.000Z",
+  "fetched": "2026-11-18T02:33:29.941Z",
+  "fromCloud": "2026-11-18T0233.json"
+ },
+ {
   "id": "5765c7b9028df4ba",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -330,6 +385,17 @@
   "fromCloud": "2026-11-18T0003.json"
  },
  {
+  "id": "bf08178e1fddbf00",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "21% מהסטארטאפים בישראל בונים בינה מלאכותית פיזית, יותר מבארה\"ב - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uWV9DcENLZFJUMUdpNjVfeGxKZFlkb1ExaHk1UkZEdE1HbFNaelRqLW9STUZQZW94MjlJUDVBNHdtSVdOb1ZVTVU2ZURnMFd4SldCWk1YaHZDandRXzlSQ1FsVGl1ajZB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uWV9DcENLZFJUMUdpNjVfeGxKZFlkb1ExaHk1UkZEdE1HbFNaelRqLW9STUZQZW94MjlJUDVBNHdtSVdOb1ZVTVU2ZURnMFd4SldCWk1YaHZDandRXzlSQ1FsVGl1ajZB?oc=5\" target=\"_blank\">21% מהסטארטאפים בישראל בונים בינה מלאכותית פיזית, יותר מבארה\"ב</a>&",
+  "date": "2026-11-17T22:52:00.000Z",
+  "fetched": "2026-11-18T02:33:29.941Z",
+  "fromCloud": "2026-11-18T0233.json"
+ },
+ {
   "id": "173c211ccaf89d1a",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -361,6 +427,17 @@
   "date": "2026-11-17T22:40:11.000Z",
   "fetched": "2026-11-17T23:33:13.145Z",
   "fromCloud": "2026-11-17T2333.json"
+ },
+ {
+  "id": "aee39317571874f1",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בדיקת דם לאלצהיימר מעריכה את הסיכון לפגיעה בזיכרון 10 שנים קדימה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCaDBnN0l1SW5aaUR3VnFLRHhOTllqV3hXczVzZ0t1SllWVUU5TWY1cE43RG02M1hDOXhIREhUUGtoNE9VX1c4R2t1bU8wNS1saXFOVTZvak9wa3RYbDFFbUwyNlZlWHJx?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCaDBnN0l1SW5aaUR3VnFLRHhOTllqV3hXczVzZ0t1SllWVUU5TWY1cE43RG02M1hDOXhIREhUUGtoNE9VX1c4R2t1bU8wNS1saXFOVTZvak9wa3RYbDFFbUwyNlZlWHJx?oc=5\" target=\"_blank\">בדיקת דם לאלצהיימר מעריכה את הסיכון לפגיעה בזיכרון 10 שנים קדימה</a",
+  "date": "2026-11-17T22:40:00.000Z",
+  "fetched": "2026-11-18T02:33:29.941Z",
+  "fromCloud": "2026-11-18T0233.json"
  },
  {
   "id": "b67801c96863a2ef",
@@ -7235,14 +7312,5 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUEM0bWtUYmJveHBoUG0yQ0xFdkZCQW1sTGdhR3lxZ2N1SWQyMm4xeWUzNjZTdkJScTVHbFhTZVVzazl4cXVWM21uN29XNFdod2hNTFhWMGJ5WUlNRmdtX2hQeTg4MFA2ZEo3bDBlSi1CYnBJdlUwa20yaXoxSWM0SlRRT1lfQzdhaTJ1RGxxS2dYVVJVM29YbjkwTlNIYl9FSWc?oc=5\" targ",
   "date": "2026-11-17T03:57:00.000Z",
   "id": "6058a1338e1fc00b"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "השורטיסטים באנבידיה הרוויחו כ-24 מיליארד דולר מהירידה של 35% - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKUmJkWE5VblVQYUU2bEI1ajVmd1poQ2t6X0RqUnBnNW11XzFpcFBDWDloaVRUZ21HRERQelRYXzB1MmpubFlDSkwyTEQ5TE15T01INWJ5UzI5RGhVVkN2WTJSbmEzYjFDLTdqSQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBKUmJkWE5VblVQYUU2bEI1ajVmd1poQ2t6X0RqUnBnNW11XzFpcFBDWDloaVRUZ21HRERQelRYXzB1MmpubFlDSkwyTEQ5TE15T01INWJ5UzI5RGhVVkN2WTJSbmEzYjFDLTdqSQ?oc=5\" target=\"_blank\">השורטיסטים באנבידיה הרוויחו כ-24 מיליארד דולר מהירידה של 35%<",
-  "date": "2026-11-17T02:23:00.000Z",
-  "id": "327b9e1e58643d41"
  }
 ]
