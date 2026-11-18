@@ -3618,6 +3618,17 @@
   "id": "a8ead23fd2cd43c3"
  },
  {
+  "id": "b168e6a6d539b100",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "ח\"כ הרב בוסו בפנייה חריפה למפקח על הבנקים נגד רפורמת הסתרת המידע של בנק ישראל - JDN",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CbzcwUG4yRDVyNE5tZ0hscF8tSWVQUEdpa2FkU3RKWkRjODZKMEZWUjI0RU01NFp4Y0RGZ3pyNl9XRUd0c2s4N3A5M1paVG1u?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CbzcwUG4yRDVyNE5tZ0hscF8tSWVQUEdpa2FkU3RKWkRjODZKMEZWUjI0RU01NFp4Y0RGZ3pyNl9XRUd0c2s4N3A5M1paVG1u?oc=5\" target=\"_blank\">ח\"כ הרב בוסו בפנייה חריפה למפקח על הבנקים נגד רפורמת הסתרת המידע של בנק ישראל</a>&nbsp;&nbsp;<font ",
+  "date": "2026-11-18T10:46:21.000Z",
+  "fetched": "2026-11-18T19:03:13.260Z",
+  "fromCloud": "2026-11-18T1903.json"
+ },
+ {
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
   "title": "מנכ\"ל מגדל: \"הדיבידנד לא חד-פעמי, נמשיך לחלק עוד\"; \"כבר קרובים ליעדי הרווח של 2028\" - ביזפורטל",
@@ -5875,35 +5886,6 @@
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjQwNUpHcy1EcHlwYjh3enBwSmFyb3ExenZHTVU1NG4yMjlJeUVwS0lSQmI4Y2tEMTQ4NGt2b1gxenUxeXdjblozSDBKZlhkdmNtT3o1bnBXcUJuTTZyenBhZExEYWkyc2NRZ0Nva09teTlRcHppaU9mbVJOYkVwdWFzUFEtWERqaXc2MVZtZGR2MzRldnVCRFFn?oc=5",
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjQwNUpHcy1EcHlwYjh3enBwSmFyb3ExenZHTVU1NG4yMjlJeUVwS0lSQmI4Y2tEMTQ4NGt2b1gxenUxeXdjblozSDBKZlhkdmNtT3o1bnBXcUJuTTZyenBhZExEYWkyc2NRZ0Nva09teTlRcHppaU9mbVJOYkVwdWFzUFEtWERqaXc2MVZtZGR2MzRldnVCRFFn?oc=5\" target=\"_blank\"",
   "date": "2026-11-17T19:04:54.000Z",
-  "fetched": "2026-11-17T19:33:11.967Z"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "יום הסוכנים: גוגל, מיקרוסופט ומונגו-DB מעבירות את ה-AI מצ'אט לעשייה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wd05OLXJVVDB1VG1SWmhIRmZDRnlSUWl3VjNpNGZ6Z3lXbC1GcGMxd1RuR1JiNmp6Q3djbHEteE5FLXdPejdUQWNtSktrX2FRb3BqVnFzZE9XMUQ0bkxQMHdBMmlGdFRCNlVvVklndF8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0wd05OLXJVVDB1VG1SWmhIRmZDRnlSUWl3VjNpNGZ6Z3lXbC1GcGMxd1RuR1JiNmp6Q3djbHEteE5FLXdPejdUQWNtSktrX2FRb3BqVnFzZE9XMUQ0bkxQMHdBMmlGdFRCNlVvVklndF8?oc=5\" target=\"_blank\">יום הסוכנים: גוגל, מיקרוסופט ומונגו-DB מעבירות את ה-AI מ",
-  "date": "2026-11-17T19:02:00.000Z",
-  "id": "11912847a957f5af"
- },
- {
-  "id": "d965e1740479bedd",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "תקלה בשירותי אפל: שיבושים באפסטור, באפל מיוזיק ובהתחברות ל-iCloud - Calcalist",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44dTFGNkgyRkZYMl81bW4yV3FVNUxlNXFMUmNLVmR3dkZLVi10dThjVGNhOFEzd0loN1pOSnNtUFg0ZERvMzdqTy1PNGhubFZid1A5RnZMbWJscGttR184NWJQTlc0SEJFZlBB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE44dTFGNkgyRkZYMl81bW4yV3FVNUxlNXFMUmNLVmR3dkZLVi10dThjVGNhOFEzd0loN1pOSnNtUFg0ZERvMzdqTy1PNGhubFZid1A5RnZMbWJscGttR184NWJQTlc0SEJFZlBB?oc=5\" target=\"_blank\">תקלה בשירותי אפל: שיבושים באפסטור, באפל מיוזיק ובהתחברות ל-iClo",
-  "date": "2026-11-17T19:01:00.000Z",
-  "fetched": "2026-11-17T19:33:11.967Z"
- },
- {
-  "id": "c9bbda5f96767964",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "משתמשים מדווחים על תקלות בג'ימייל ובשירותי אפל - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDhKVnl4SzA4WS14Z1FJdjdVSl9kMzhWMEpGeUtPdWlNQzBDcXhfRXp4V000OXFvOUJfeDlHZDVmcG9aTzdYTGJIM3RSelRySWQ3Y2ZpbEZmbFJwcXpMOHlYR0pqWk9GT0RSWGhRWmdJcE9NZ3AtNTNEVGEyXzhZUjN5VzhXYWFkbmtycDViam5PWVE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDhKVnl4SzA4WS14Z1FJdjdVSl9kMzhWMEpGeUtPdWlNQzBDcXhfRXp4V000OXFvOUJfeDlHZDVmcG9aTzdYTGJIM3RSelRySWQ3Y2ZpbEZmbFJwcXpMOHlYR0pqWk9GT0RSWGhRWmdJcE9NZ3AtNTNEVGEyXzhZUjN5VzhXYWFkbmtycDViam5PWVE?oc=5\" target=\"_blank\">משתמשים ",
-  "date": "2026-11-17T19:01:00.000Z",
   "fetched": "2026-11-17T19:33:11.967Z"
  }
 ]
