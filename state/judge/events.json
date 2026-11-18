@@ -1,61 +1,5 @@
 [
  {
-  "key": "שקל | דולר בשיא מתחילת השנה — קידומת 2 נראית רחוקה | 4 נובמבר 2026",
-  "level": "red",
-  "first": 1793765274109,
-  "sentLive": true,
-  "candidate": true
- },
- {
-  "key": "נדל״ן ישראל | מבצעי מימון אגרסיביים — שעבוד הורים ודחיית חוב בעשור | נובמבר 2026",
-  "level": "learn",
-  "first": 1793765274109,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ישראל | ירידה 10%+ מהשיא — האם לקנות את הדיפ? | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765274109,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "משקיעי AI | חשש מתמחור יתר חזק מתוצאות מצוינות — אפל ופלנטיר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765274109,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Toast | דוחות Q3 חזקים + יציאת CFO — מניה יורדת בכל זאת | נובמבר 2026",
-  "level": "learn",
-  "first": 1793765504238,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנזין | מחיר עולה ל-7.85 שקל בחצות — הנחת מס מצטמצמת | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765504238,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "WhiteFiber | רכישת שתי קרקעות מרכז נתונים בצפון קרוליינה ב-60 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765504238,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "EU | בית הדין האירופי — ג'מיני וזכויות מו'לים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765504238,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Fluence Energy | מינוי CEO ו-CFO זמניים על רקע בעיות שרשרת אספקה | נובמבר 2026",
   "level": "learn",
   "first": 1793765769157,
@@ -4084,6 +4028,69 @@
   "key": "אנבידיה | ועדת ביטחון לאומי + הואנג מסיר תואר מנכ״ל מ-X | נובמבר 2026",
   "level": "yellow",
   "first": 1794926234435,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | גירעון 2026 — הפתעות מס מול דרישת 22 מיליארד ביטחון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794974816994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | דוח Q3 ראשון ללא הואנג — צמיחה 75%, מנכ״לית משדרת יציבות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794974816994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "NSA | קריסת רשת תקשורת מסווגת NSANet — שיבוש מבצעי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794974816994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארקיע | התפוצצות מגעים עם רמי לוי — 30 מיליון דולר מיידי הפילו העסקה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794974816994,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אינטל | תביעת בעלי מניות נגד מנכ״ל ו-CFO על נפילת מניה | נובמבר 2026",
+  "level": "learn",
+  "first": 1794975111329,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | אופטימיות כלכלית בשפל מאז המיתון הגדול — גאלופ | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794975111330,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Optimum | דחיית תשלום חוב 102.5 מיליון + משא ומתן על 22 מיליארד חוב | נובמבר 2026",
+  "level": "learn",
+  "first": 1794975353238,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | מסגרות AI סוכניות מנשקות פגיעויות באופן אוטונומי — גוגל מאשרת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794975353238,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "FAA | הקפאת התקנת נתבים חדשים אחרי עצירת טיסות ארצית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794975353238,
   "sentLive": false,
   "candidate": true
  }
