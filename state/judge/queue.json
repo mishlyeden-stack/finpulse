@@ -1,5 +1,192 @@
 [
  {
+  "id": "dd00d9290ce98837",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Carlyle Credit Income Fund (0001517767) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1517767/000151776726000045/0001517767-26-000045-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-18 <b>AccNo:</b> 0001517767-26-000045 <b>Size:</b> 4 MB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-18T21:02:40.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "e6bd5f454dba69f1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Phathom Pharmaceuticals, Inc. (0001783183) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1783183/000119312526467065/0001193125-26-467065-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-18 <b>AccNo:</b> 0001193125-26-467065 <b>Size:</b> 136 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+  "date": "2026-11-18T21:01:59.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "32eace21967e00f5",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - ALIGN TECHNOLOGY INC (0001097149) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000088/0001097149-26-000088-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-18 <b>AccNo:</b> 0001097149-26-000088 <b>Size:</b> 255 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-11-18T21:01:42.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "583ac3ef277c7d1d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - PAR PACIFIC HOLDINGS, INC. (0000821483) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/821483/000143774926037538/0001437749-26-037538-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-18 <b>AccNo:</b> 0001437749-26-037538 <b>Size:</b> 184 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-18T21:01:28.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "b34f1e471c2930d8",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - TRUSTCO BANK CORP N Y (0000357301) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/357301/000114036126044724/0001140361-26-044724-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-18 <b>AccNo:</b> 0001140361-26-044724 <b>Size:</b> 180 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-18T21:00:45.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "84c4568a2236e724",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - REPUBLIC BANCORP INC /KY/ (0000921557) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/921557/000110465926129688/0001104659-26-129688-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-18 <b>AccNo:</b> 0001104659-26-129688 <b>Size:</b> 158 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-18T21:00:27.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "9e1075fbed6ca678",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - RADIANT LOGISTICS, INC (0001171155) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1171155/000117115526000006/0001171155-26-000006-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-18 <b>AccNo:</b> 0001171155-26-000006 <b>Size:</b> 197 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
+  "date": "2026-11-18T21:00:14.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "660cc5d519b52803",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "JAG Physical Therapy expands on Long Island with acquisition - Long Island Business News",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdEJ5X3hSdGo0YXJUMDFoMmNYdmxKOVNTa2Jubk0xT2lrTVNxM05JVElobHBlZEd5Z2ZBMzNFVE93bGxOYk1Lbzg4UnFId2Joa1Jud3oxMHd0YmM4OHhtSGFsQ2lydWVLT0t6MUthdEhxRXFiSnZJckZwQkJxa3dVV1ZZZ193UGs3bUF1Y096UXZkRkk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOdEJ5X3hSdGo0YXJUMDFoMmNYdmxKOVNTa2Jubk0xT2lrTVNxM05JVElobHBlZEd5Z2ZBMzNFVE93bGxOYk1Lbzg4UnFId2Joa1Jud3oxMHd0YmM4OHhtSGFsQ2lydWVLT0t6MUthdEhxRXFiSnZJckZwQkJxa3dVV1ZZZ193UGs3bUF1Y096UXZkRkk?oc=5\" target=\"_blank\">JAG Phys",
+  "date": "2026-11-18T20:59:47.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "8278d0e6d809c4cd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Clearwave will expand footprint with acquisition of Ting’s fiber assets - Broadband Communities",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmFEYU5kNFVNTGtYZF9KTDM3QkNoX19pbmNKNXZVakRocExORkNUN1REcTdUWm9Rdk81NU9JSDZrTmZpUGt4UTY1Rm90TGl1YTZfTndMcHVXTGo5andaOVVjUjZFdUhaWFpfc3VldW1TSUtwN0FTVnMwWGl1ekIyamdLNlk1T19PZ0pYMWx1amNwV0w0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmFEYU5kNFVNTGtYZF9KTDM3QkNoX19pbmNKNXZVakRocExORkNUN1REcTdUWm9Rdk81NU9JSDZrTmZpUGt4UTY1Rm90TGl1YTZfTndMcHVXTGo5andaOVVjUjZFdUhaWFpfc3VldW1TSUtwN0FTVnMwWGl1ekIyamdLNlk1T19PZ0pYMWx1amNwV0w0?oc=5\" target=\"_blank\">Clearwa",
+  "date": "2026-11-18T20:52:45.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "a19fa01b5ef0f908",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "המנכ\"לית הזמנית של אנבידיה קראה לעובדים \"להתקדם הלאה\" והציעה העלאות שכר - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qQUhGRHRsRU1BNC04c0ZQR2hxUGVyM3BCdFExdVNGU3hac0M2NlpoX0l5dU5WeWF5Unp2NXB5anRHRjloRGZLd0JEbkdQTDRUejVqMkRMN092dHhqRFdXOWYwM2wxTkppWU1V?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1qQUhGRHRsRU1BNC04c0ZQR2hxUGVyM3BCdFExdVNGU3hac0M2NlpoX0l5dU5WeWF5Unp2NXB5anRHRjloRGZLd0JEbkdQTDRUejVqMkRMN092dHhqRFdXOWYwM2wxTkppWU1V?oc=5\" target=\"_blank\">המנכ\"לית הזמנית של אנבידיה קראה לעובדים \"להתקדם הלאה\" והציעה הע",
+  "date": "2026-11-18T20:47:00.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "cc1541b630aaed15",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אחרי שכמעט מחק קרן של 20 מיליארד דולר: בן ה-25 חוזר להמר על ה-AI - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HRTVVMjh1dmRPa0ZLNGRoQmtIY21fTnhPM01paVJQVFY5NWZaYXRYZzNfU3NOcWotcGVUejM5S29zbmtEZ3ZwazQySDBHUElVWGF6QWYtWjFEYTZLWXVldVBkN1dURUlGZVY1Tms5dV8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9HRTVVMjh1dmRPa0ZLNGRoQmtIY21fTnhPM01paVJQVFY5NWZaYXRYZzNfU3NOcWotcGVUejM5S29zbmtEZ3ZwazQySDBHUElVWGF6QWYtWjFEYTZLWXVldVBkN1dURUlGZVY1Tms5dV8?oc=5\" target=\"_blank\">אחרי שכמעט מחק קרן של 20 מיליארד דולר: בן ה-25 חוזר להמר",
+  "date": "2026-11-18T20:44:00.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "2344663dccb0263c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "NYU Langone CFO Joe Lhota to retire next year - Crain's New York",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEVJOTdYUzV4NFdLandOMUVpREZrZk0xdEF5UzdQNFIzalNCbEhXaERrVjdpbm0xWlpoVVZpMVotUFVtTlJKUHFlR2Zld0NHMVZ2N1kwdmVPRFVkYlo3R0FXRVZHT3VzT1NJZ3ZYVzY2anI5MldNcnlnS3h0RHJHeTlNWUxwLThjYS16X2xB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEVJOTdYUzV4NFdLandOMUVpREZrZk0xdEF5UzdQNFIzalNCbEhXaERrVjdpbm0xWlpoVVZpMVotUFVtTlJKUHFlR2Zld0NHMVZ2N1kwdmVPRFVkYlo3R0FXRVZHT3VzT1NJZ3ZYVzY2anI5MldNcnlnS3h0RHJHeTlNWUxwLThjYS16X2xB?oc=5\" target=\"_blank\">NYU Langone CFO",
+  "date": "2026-11-18T20:42:00.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "7d9f0b0cc58bac19",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Talent acquisition moves upstream - Raconteur",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iS0RHbGszTnBTcTBoVFVWRUNyNnZ5cXZlSlRvMS1xT2xPb1dVdG5LZldOdHh1eEM0dmZKdkNtU1NFWmdxM0YxeUhWbWRMbXNUWUl2azZYWUVBOGFnQ3M0SUNhWHQwd1o0Z1B1VmJ2UjdWT0tMczlCRlo2eW5MRDQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1iS0RHbGszTnBTcTBoVFVWRUNyNnZ5cXZlSlRvMS1xT2xPb1dVdG5LZldOdHh1eEM0dmZKdkNtU1NFWmdxM0YxeUhWbWRMbXNUWUl2azZYWUVBOGFnQ3M0SUNhWHQwd1o0Z1B1VmJ2UjdWT0tMczlCRlo2eW5MRDQ?oc=5\" target=\"_blank\">Talent acquisition moves upstream</a",
+  "date": "2026-11-18T20:41:40.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "d795a644f91bac71",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אנבידיה תזנק ב-80%: התחזית האופטימית של בנק אוף אמריקה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ES2loN2dycGV6c3dsdjIxNllpb0xqQVR2Vnl3U2JZVGhhMmFIRFpYR1JkR3RTZlhnancyYTRxeXJhUG9wWGY4Y2hhZ0Vxd0VObHJoUTlfMmt0YXZLMEJ1REZ6WE1WYkZiakRVUENRSS0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ES2loN2dycGV6c3dsdjIxNllpb0xqQVR2Vnl3U2JZVGhhMmFIRFpYR1JkR3RTZlhnancyYTRxeXJhUG9wWGY4Y2hhZ0Vxd0VObHJoUTlfMmt0YXZLMEJ1REZ6WE1WYkZiakRVUENRSS0?oc=5\" target=\"_blank\">אנבידיה תזנק ב-80%: התחזית האופטימית של בנק אוף אמריקה</",
+  "date": "2026-11-18T20:41:00.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "f58aac49692ddcf7",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
+  "link": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
+  "summary": "Colette Kress addresses ‘all-hands’ meeting as departed founder Jensen Huang manoeuvres for a return",
+  "date": "2026-11-18T20:40:19.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "be242d53fe5284a7",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אנבידיה מקדימה את המענק: העלאת שכר ומניות לעובדים כדי לבלום את המשבר שאחרי הואנג - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fb1VzR1NvNDJjeEZXQVlmem82bEx3YnJaYUdDVmtfZUNXTEJNY2pvd1VqV1o3cEhISFhyd013alpRcWhZOTk0c3pKbllGX21odEFtNWMycnBsNGNvdmVxM3BSYjY4eE1D?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fb1VzR1NvNDJjeEZXQVlmem82bEx3YnJaYUdDVmtfZUNXTEJNY2pvd1VqV1o3cEhISFhyd013alpRcWhZOTk0c3pKbllGX21odEFtNWMycnBsNGNvdmVxM3BSYjY4eE1D?oc=5\" target=\"_blank\">אנבידיה מקדימה את המענק: העלאת שכר ומניות לעובדים כדי לבלום את המשב",
+  "date": "2026-11-18T20:32:00.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "40ef46f8a8a0c207",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גוגל מוסיפה לחיפוש ה-AI מצב גלישה בסתר: השיחות נמחקות ונשארות מחוץ להיסטוריה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pYy0xZ0t6Q001emEyTm1oNkRyVFN6UXk3bXNUWG5Ec1Z3ZG40cy1GMUhpeTd6cW9XQXltSkFCckVDZ0JfcS1xSVFjbThEb0s5MzVsWXpQSXRhTjd5bzFXNkU1TnZhWDRF?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pYy0xZ0t6Q001emEyTm1oNkRyVFN6UXk3bXNUWG5Ec1Z3ZG40cy1GMUhpeTd6cW9XQXltSkFCckVDZ0JfcS1xSVFjbThEb0s5MzVsWXpQSXRhTjd5bzFXNkU1TnZhWDRF?oc=5\" target=\"_blank\">גוגל מוסיפה לחיפוש ה-AI מצב גלישה בסתר: השיחות נמחקות ונשארות מחוץ ",
+  "date": "2026-11-18T20:31:00.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
   "id": "7647cc6d5337b7ea",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -11,6 +198,17 @@
   "fromCloud": "2026-11-18T2033.json"
  },
  {
+  "id": "3fa6e059e363dd12",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Rack Room Shoes names new CFO - Chain Store Age",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zUTM0UVRaUDd6N1U1ZHJicTZxLVFrT09IakY2eWlBcjRCZFlINF9hN2k0aFBJYjBhVENqNURGR1B4R0dDLV8zMEhiYm9fUm1LcmRJMXhLTGpNek5TTnhSdXcyaUZXZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zUTM0UVRaUDd6N1U1ZHJicTZxLVFrT09IakY2eWlBcjRCZFlINF9hN2k0aFBJYjBhVENqNURGR1B4R0dDLV8zMEhiYm9fUm1LcmRJMXhLTGpNek5TTnhSdXcyaUZXZw?oc=5\" target=\"_blank\">Rack Room Shoes names new CFO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ch",
+  "date": "2026-11-18T20:28:40.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
   "id": "04e5c23173751a93",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -20,6 +218,17 @@
   "date": "2026-11-18T20:24:35.000Z",
   "fetched": "2026-11-18T20:33:14.318Z",
   "fromCloud": "2026-11-18T2033.json"
+ },
+ {
+  "id": "5329f018a96865e6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Newsmax Files Antitrust Lawsuit Against Fox Corp. Over Roku Acquisition - Yahoo Finance UK",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWxZTjNfeXBGanBTVmFZWjgyX1lQUWd2Z0hNS1JqdFdmX2tReWl3VUZ4QkFhUWZsN2JmNHRxMFg2anZyOUtpX0V0UksyRnE1bnJKRTZEZWNmc2ZqUk9uckRJUmNYb0pBdU0xRWpBTzlrVm9sc05tTGtxOHlfeEJGaWdQWENHSU9ILUlFbXp4bzIxUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWxZTjNfeXBGanBTVmFZWjgyX1lQUWd2Z0hNS1JqdFdmX2tReWl3VUZ4QkFhUWZsN2JmNHRxMFg2anZyOUtpX0V0UksyRnE1bnJKRTZEZWNmc2ZqUk9uckRJUmNYb0pBdU0xRWpBTzlrVm9sc05tTGtxOHlfeEJGaWdQWENHSU9ILUlFbXp4bzIxUQ?oc=5\" target=\"_blank\">Newsmax F",
+  "date": "2026-11-18T20:20:33.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
  },
  {
   "id": "d959b45abeb7fc91",
@@ -42,6 +251,28 @@
   "date": "2026-11-18T20:14:21.000Z",
   "fetched": "2026-11-18T20:33:14.318Z",
   "fromCloud": "2026-11-18T2033.json"
+ },
+ {
+  "id": "25f23c6621e9ba13",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מיקרוסופט תוקפת את קלוד ו-ChatGPT: \"קופיילוט עושה יותר, בפחות כסף\" - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ISjd6RlRlbTZCV1RhODJVcFBteE5aVHJodzFIbGh3NGtPd1pUbTRuYkhnbkF4T19pZ3NIYjZyejFGcWREc3dRLXpic0QtblFNZ0trUHpfdG5TR3B0TmZ4QWFFQlNPQ1RxdFFJQWVhQ1g?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ISjd6RlRlbTZCV1RhODJVcFBteE5aVHJodzFIbGh3NGtPd1pUbTRuYkhnbkF4T19pZ3NIYjZyejFGcWREc3dRLXpic0QtblFNZ0trUHpfdG5TR3B0TmZ4QWFFQlNPQ1RxdFFJQWVhQ1g?oc=5\" target=\"_blank\">מיקרוסופט תוקפת את קלוד ו-ChatGPT: \"קופיילוט עושה יותר, ",
+  "date": "2026-11-18T20:13:00.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
+ },
+ {
+  "id": "885a778aca56ac88",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "\"הנזק הבעייתי יותר הוא הנזק שיכול להיות משורשר לדבר הזה\" - 103FM",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0ppc05YTnJHMjBhejNoZkpienJsNHBZWDlIN1hOM0prYllscmVFdk1ZRE9QT1hrZjRwRnhENEhMT0NLVGdfWExBa0NORnk1cXZKWGJUOEpDQmZfRnFTQV9aNVVOZW5lT0dmR1QxUkVMa01KVW9VUTBETW8ybVRrUw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0ppc05YTnJHMjBhejNoZkpienJsNHBZWDlIN1hOM0prYllscmVFdk1ZRE9QT1hrZjRwRnhENEhMT0NLVGdfWExBa0NORnk1cXZKWGJUOEpDQmZfRnFTQV9aNVVOZW5lT0dmR1QxUkVMa01KVW9VUTBETW8ybVRrUw?oc=5\" target=\"_blank\">\"הנזק הבעייתי יותר הוא הנזק שיכול",
+  "date": "2026-11-18T20:10:24.000Z",
+  "fetched": "2026-11-18T21:03:15.796Z",
+  "fromCloud": "2026-11-18T2103.json"
  },
  {
   "id": "e2487e18b0bf961e",
@@ -5908,68 +6139,5 @@
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsQi1XR2dnWlJqNEpJSjlWYXdicHJJc0l4RzFYcVk5Y1pWcl9tLUJjNWRqeDhEZFBmblB0Ukd1RXhXTmZuNDVMRUVSSzd6QXh2T1ktNHRmTFRKb0pxa1JIaWhHdWEtUTZm?oc=5\" target=\"_blank\">ברוב של 66 ח״כים: מתן כהנא נבחר ליו״ר הכנסת</a>&nbsp;&nbsp;<font co",
   "date": "2026-11-17T21:07:00.000Z",
   "id": "66fadfe623c12cf8"
- },
- {
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "Intel shareholders sue CEO, CFO after stock rout",
-  "link": "https://www.cfodive.com/news/intel-shareholders-sue-ceo-cfo-stock-drop-ai-cpu/874979/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/V6oUGyIKMVpql9rjP6OP0QPRkoiXz79jb57TzXek9S8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc5NDE1MTIzLmpwZ19yZXNpemUuanBn.webp\"/></div></figure><p>CEO Lip-Bu Tan and CFO David Zinsner faile",
-  "date": "2026-11-17T21:01:40.000Z",
-  "id": "b93f15b2d6eb1324"
- },
- {
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Is internal audit protecting your acquisition’s value? - Grant Thornton",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYmFmSjFCaVYzWVQyNjM1dEhPWllvVVZGVE1Ma3BLSnNwOHBDS0F3SmUyX0Z2d1Vvc3pla050UHNReHp4VTZrQmZoUGw2NHdwVGFrOFBjZ3ducjZqMTZkdk9PVE1ZaExBUVNack1reXhUWTJFRmstSUJKRGlLRXhscnBfX1oxU1NPQ1VPNGljbHVDUlBWeEVKcVc5QVMyOTdyZ2pENDIzQzk4RktuY2xZ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYmFmSjFCaVYzWVQyNjM1dEhPWllvVVZGVE1Ma3BLSnNwOHBDS0F3SmUyX0Z2d1Vvc3pla050UHNReHp4VTZrQmZoUGw2NHdwVGFrOFBjZ3ducjZqMTZkdk9PVE1ZaExBUVNack1reXhUWTJFRmstSUJKRGlLRXhscnBfX1oxU1NPQ1VPNGljbHVDUlBWeEVKcVc5QVMyOTdyZ2pENDIzQzk4Rk",
-  "date": "2026-11-17T20:58:07.000Z",
-  "id": "782c49463b0f5d16"
- },
- {
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "אחרי 37 שנים, סגנית המפקח על הבנקים פורשת - היום",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoTmc1MXNROW11Y29fXzBVQzMxVzVoYVFqTzg3Z2wtSDc0YUY5UjF0MXhPaHp4bm1tcWtfX1REaWpMZ1M4MXgzMzZxeG1HcUhxS3prMm1PaHJvVGNGR1BmV0wybEJzUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoTmc1MXNROW11Y29fXzBVQzMxVzVoYVFqTzg3Z2wtSDc0YUY5UjF0MXhPaHp4bm1tcWtfX1REaWpMZ1M4MXgzMzZxeG1HcUhxS3prMm1PaHJvVGNGR1BmV0wybEJzUQ?oc=5\" target=\"_blank\">אחרי 37 שנים, סגנית המפקח על הבנקים פורשת</a>&nbsp;&nbsp;<font color=",
-  "date": "2026-11-17T20:55:41.000Z",
-  "id": "38621546bf90a649"
- },
- {
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "Economic optimism plunges to lowest level since Great Recession: Gallup",
-  "link": "https://www.cfodive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/874976/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/f6OJgz8hoaDuLmxPimed3hEyZq9G2YhfSyOz_XxZr4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjA1NDA5NDcwLmpwZw==.webp\"/></div></figure><p>The public perception of the economy has &ldquo;become",
-  "date": "2026-11-17T20:54:39.000Z",
-  "id": "a9fab342b1825bc3"
- },
- {
-  "source": "CNBC Business",
-  "group": "global-press",
-  "title": "FAA pauses installation of new routers after ground stop",
-  "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-  "summary": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
-  "date": "2026-11-17T20:53:24.000Z",
-  "id": "a12e13fe5b6b017b"
- },
- {
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "Home Depot CFO jumps to CEO seat as housing market sags",
-  "link": "https://www.cfodive.com/news/home-depot-cfo-jumps-ceo-seat-as-housing-market-flatlines/874972/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/b7fC-iNcGx3VbbYtuw4vULfcBoqfI7xV6PWhErGF1mc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ3MzI2MDA4LmpwZw==.webp\"/></div></figure><p>The home improvement retailer&rsquo;s longtime finance",
-  "date": "2026-11-17T20:45:18.000Z",
-  "id": "880f2921f2a216d9"
- },
- {
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "חיסון ניסיוני ללוקמיה הוריד את הסיכון למוות ב-41%, ומניית סלאס זינקה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SZGtsQjBOYnNLSFQxODJuV0dyR2lvRzNoSWpZNWdzTmd4a0lzQnhnczBsMjhWRmQwRzRqRjFVZFp5SFlDb1Q5Y2FEMF9PeVluNGowV19HMmtxY0cwRm9IRHNCOXRmNUJhQW1Cb3JNZXk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1SZGtsQjBOYnNLSFQxODJuV0dyR2lvRzNoSWpZNWdzTmd4a0lzQnhnczBsMjhWRmQwRzRqRjFVZFp5SFlDb1Q5Y2FEMF9PeVluNGowV19HMmtxY0cwRm9IRHNCOXRmNUJhQW1Cb3JNZXk?oc=5\" target=\"_blank\">חיסון ניסיוני ללוקמיה הוריד את הסיכון למוות ב-41%, ומניי",
-  "date": "2026-11-17T20:40:00.000Z",
-  "id": "5bc1855c3d09df7b"
  }
 ]
