@@ -1,12 +1,5 @@
 [
  {
-  "key": "AI-Linked Breaches | WorkOS, Northflank, Trigger.dev — גניבת טוקני AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793799383921,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "גוש האירו | אינפלציה 4% + העלאת ריבית ECB בדצמבר כמעט בטוחה | נובמבר 2026",
   "level": "red",
   "first": 1793803135485,
@@ -4000,6 +3993,41 @@
   "key": "מגדל | דיבידנד קבוע + קרבה ליעדי 2028 | נובמבר 2026",
   "level": "yellow",
   "first": 1795007427574,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | בנק ישראל חושף צמיחה מפתיעה — צריכה, הייטק והשקעות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795010968405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | שקל בשפל מול הדולר — ניתוח גלובס | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795010968405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Star Blizzard | APT רוסי מתחזה לעובד של חברה פרוצה — פישינג שרשרת אמון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795010968405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | גלובל-אי צונחת 13% + אנבידיה עולה 2.5% אחרי הדוח | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795010968405,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט Ignite | Autopilot וסביבת עבודה משולבת עובדים+סוכני AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795010968405,
   "sentLive": false,
   "candidate": true
  }
