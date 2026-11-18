@@ -1,54 +1,5 @@
 [
  {
-  "key": "אמדוקס | סכסוך T-Mobile מוחק 3 מיליארד דולר — מכירת מניות מנכ״ל לפני הנפילה | נובמבר 2026",
-  "level": "learn",
-  "first": 1793788742250,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בריטניה NCSC | סקירה שנתית — כופרות AI ישתקו תשתיות עד 2028 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793788742251,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בחירות אמצע ארה״ב | השלכות על AI ישראל ומגזר עסקי | 4 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793788742251,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Rheinmetall–Silvus | אינטגרציה RF פסיבי בהגנה אווירית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793788742251,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "דלק | התייקרות חלקית — 50 אגורות במקום שקל, סבסוד אוצר | 4 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793788742251,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארה״ב–איראן | עלות מלחמה עוברת 47 מיליארד דולר — פנטגון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793788742251,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טוקיו | ניקיי צונח 3%+ — שבבים וסופטבנק מובילים ירידות | 4 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793788742251,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "נייס | Q3 2026 — צמיחה 8%, AI זינוק 46%, פיטורים 5%, ענן מאכזב | נובמבר 2026",
   "level": "learn",
   "first": 1793792238503,
@@ -4056,6 +4007,27 @@
   "key": "סלקום | שיא רווחיות 12 שנה — רווח נקי +35.5% ל-103 מיליון שקל Q3 2026 | נובמבר 2026",
   "level": "yellow",
   "first": 1794996529884,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "LSE | סגירת מרכז פיתוח בפתח תקווה — 30 עובדים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795000038726,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Perforce Puppet | RCE קריטי מנוצל בפועל — CVE-2026-115731 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795000038726,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דניה סיבוס | הכנסות שיא אבל רווחיות נשחקת — Q3 2026 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795000038726,
   "sentLive": false,
   "candidate": true
  }

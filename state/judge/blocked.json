@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 263,
+  "ok": 264,
   "blocked": 4
  },
  "calcalist.co.il": {
@@ -8,7 +8,7 @@
   "blocked": 179
  },
  "en.globes.co.il": {
-  "ok": 50,
+  "ok": 51,
   "blocked": 0
  },
  "bizportal.co.il": {
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 229
+  "blocked": 231
  },
  "13tv.co.il": {
   "ok": 0,
@@ -56,7 +56,7 @@
   "blocked": 1
  },
  "securityweek.com": {
-  "ok": 78,
+  "ok": 79,
   "blocked": 0
  },
  "ice.co.il": {
@@ -357,7 +357,7 @@
  },
  "il.investing.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "ppc.land": {
   "ok": 1,
