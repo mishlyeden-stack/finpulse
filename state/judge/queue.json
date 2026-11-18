@@ -1,5 +1,16 @@
 [
  {
+  "id": "75499b8e4188fbfd",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Nvidia has a chance to trade drama for durability",
+  "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
+  "summary": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
+  "date": "2026-11-18T02:56:15.000Z",
+  "fetched": "2026-11-18T03:33:12.329Z",
+  "fromCloud": "2026-11-18T0333.json"
+ },
+ {
   "id": "f999637b6484b8c1",
   "source": "Financial Times",
   "group": "global-press",
@@ -44,6 +55,17 @@
   "fromCloud": "2026-11-18T0222.json"
  },
  {
+  "id": "812a4ea2b0cade9c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "GSK CFO Points to Cancer Drugs to Bridge £3.4 Billion Sales Forecast Gap - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1pvTjFNLUluYkg1Umw1WUhNc3M3Wm4yUnJxcE1CeTZ1OUdwVU9FTnUtOGgxN1ZNVXZFLVFENHFyZUwySkd6SVFxS193R2M1c1lfVFowY043Sm15NjlfWnlsZzk3cmFkQ3pOMWhkMjlUa0VudkJlaTJwWXpESmMwVlhXZWJPclltVTdIOTlURW5Mdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1pvTjFNLUluYkg1Umw1WUhNc3M3Wm4yUnJxcE1CeTZ1OUdwVU9FTnUtOGgxN1ZNVXZFLVFENHFyZUwySkd6SVFxS193R2M1c1lfVFowY043Sm15NjlfWnlsZzk3cmFkQ3pOMWhkMjlUa0VudkJlaTJwWXpESmMwVlhXZWJPclltVTdIOTlURW5Mdw?oc=5\" target=\"_blank\">GSK CFO P",
+  "date": "2026-11-18T02:12:00.000Z",
+  "fetched": "2026-11-18T03:33:12.329Z",
+  "fromCloud": "2026-11-18T0333.json"
+ },
+ {
   "id": "185133de82b9f659",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -75,6 +97,17 @@
   "date": "2026-11-18T01:44:51.000Z",
   "fetched": "2026-11-18T02:03:27.349Z",
   "fromCloud": "2026-11-18T0203.json"
+ },
+ {
+  "id": "4b1ada8c49cab5dd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MP Materials CFO Ryan Corbett buys $91,577 in company stock - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXE2RVlVUUhhdUoxMko1MF9JdnFEemYxZlA4V0VpbHctS041T2JRb1Nnb1RPUmZVcHRXVnBEMVBidGdjM2N5anVGeENIWHpzb2xNRGw2SW1qeG5GTmRCVHo0alJ2MG1EcU4tS2xZSk9DV2w5ck9jWFhiTE1FeFplSEU1MllLNlVKNDNnbTdBbEdoMXZyNG16NFVmVUcyN1JKdTRNMzUxbVZXOEVKM2s4clJtZmpNaU9RT1JGRU1OWQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXE2RVlVUUhhdUoxMko1MF9JdnFEemYxZlA4V0VpbHctS041T2JRb1Nnb1RPUmZVcHRXVnBEMVBidGdjM2N5anVGeENIWHpzb2xNRGw2SW1qeG5GTmRCVHo0alJ2MG1EcU4tS2xZSk9DV2w5ck9jWFhiTE1FeFplSEU1MllLNlVKNDNnbTdBbEdoMXZyNG16NFVmVUcyN1JKdTRNMzUxbVZXOE",
+  "date": "2026-11-18T01:40:54.000Z",
+  "fetched": "2026-11-18T03:33:12.329Z",
+  "fromCloud": "2026-11-18T0333.json"
  },
  {
   "id": "366b46a522c3f769",
