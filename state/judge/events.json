@@ -1,54 +1,5 @@
 [
  {
-  "key": "OpenAI | Grid Protectors Program — הפחתת צריכת חשמל מרכזי נתונים בשעות שיא | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793768811679,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | ביטול סיוע ביטחוני אמריקאי — ניתוח השלכות על תעשיית הביטחון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793768811679,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טראמפ–ישראל | הפסקת סיוע ביטחוני 3.8 מיליארד דולר — הודעה רשמית | נובמבר 2026",
-  "level": "red",
-  "first": 1793769124782,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "קראודסטרייק | רכישת Fiddler ו-Dreadnode ב-495 מיליון דולר — אבטחת AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793769124782,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "הייטק | ירידות מניות טק — השפעה על מנמ״רים ורכש IT | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793769124782,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנלייט | מנכ״לית מסמנת חוות שרתים כיעד הבא — מחבת חשמל לתשתית AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793769294470,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנדרואיד | עדכון נובמבר 2026 — תיקון 200+ פגיעויות כולל RCE קריטי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793769435398,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "בחירות אמצע ארה״ב | ניצחון דמוקרטים — בורסות נופלות, מדד פחד מזנק | 4 נובמבר 2026",
   "level": "red",
   "first": 1793770657570,
@@ -4035,6 +3986,62 @@
   "key": "MSP ScreenConnect | קמפיין חודש שלם — CVE-2026-84869 | נובמבר 2026",
   "level": "yellow",
   "first": 1794977371975,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | אנבידיה מרגיעה — חוזים עולים, אסיה מתאוששת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794978428512,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "צוותי כספים | אימוץ AI סוכני עלה ל-41% — Zapier 2026 | נובמבר 2026",
+  "level": "learn",
+  "first": 1794978784617,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "N-able | תיקון 17 אפסיות-יום ב-N-central + ביטול API-ים ישנים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794978784617,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Pure DC | GIC וסעודי טלקום מתחרים על רכישת מיעוט — שווי 8 מיליארד דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794978784617,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "DISA | רפורמת רכש — פתרונות אינטגרטיביים במקום רכש נקודתי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794978784617,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CRE | הלוואות נדל״ן מסחרי פוגשות קיר מח״מ — עלויות מחזור עולות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794978784617,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | CFO קולט קרס מובילה דוח ראשון כמנכ״לית בפועל | נובמבר 2026",
+  "level": "learn",
+  "first": 1794979112352,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Quorum Cyber | רכישת Ontinue — הרחבת הגנת AI סוכנית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794979112352,
   "sentLive": false,
   "candidate": true
  }
