@@ -1,40 +1,5 @@
 [
  {
-  "key": "בחירות אמצע ארה״ב | ניצחון דמוקרטים — בורסות נופלות, מדד פחד מזנק | 4 נובמבר 2026",
-  "level": "red",
-  "first": 1793770657570,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "אמדוקס | צניחה 44% אחרי תחזית כושלת — סכסוך T-Mobile | 4 נובמבר 2026",
-  "level": "red",
-  "first": 1793770657570,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "סין | בועת AI — 480 מיליארד דולר נמחקו | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793770657570,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טבע | Q3 2026 — עקיפת תחזיות, העלאת תחזית שנתית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793770657570,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שקל | היחלשות — דולר מתקרב ל-3.16 | 3 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793771035876,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "בחירות אמצע ארה״ב | ניצחון דמוקרטים — השלכות על וול סטריט וישראל | 4 נובמבר 2026",
   "level": "red",
   "first": 1793774117164,
@@ -4042,6 +4007,27 @@
   "key": "Quorum Cyber | רכישת Ontinue — הרחבת הגנת AI סוכנית | נובמבר 2026",
   "level": "yellow",
   "first": 1794979112352,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | גירעון 2026 — האוצר צופה סגירה מתחת ל-4% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794982078352,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמזון | רכישת Decart הישראלית עד 7.5 מיליארד דולר — ימים ספורים לסגירה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794982078353,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | סיכון אנבידיה בכלכלה הישראלית — ריכוז יתר בחברה אחת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794982078353,
   "sentLive": false,
   "candidate": true
  }
