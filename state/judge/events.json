@@ -1,26 +1,5 @@
 [
  {
-  "key": "ישראל | מימון עצמי לרכישת מטוסים 25 מיליארד דולר — ביטול סיוע אמריקאי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793795853225,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סנטרה | גיוס 150 מיליון דולר — אבטחת סוכני AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793795853226,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | פורטל סייבר לאומי — עלייה 145% בפישינג | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793795853226,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "AI-Linked Breaches | WorkOS, Northflank, Trigger.dev — גניבת טוקני AI | נובמבר 2026",
   "level": "yellow",
   "first": 1793799383921,
@@ -4000,6 +3979,27 @@
   "key": "סייבר | Microsoft Agent Framework נגוע — גנבת קרדנשיאלס ב-PyPI | נובמבר 2026",
   "level": "yellow",
   "first": 1795003632646,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | אקזיטים 2025 — 19.5 מיליארד דולר ב-182 עסקאות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795007427574,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארית | הזמנה ממשרד הביטחון 27 מיליון שקל — צבר 550 מיליון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795007427574,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מגדל | דיבידנד קבוע + קרבה ליעדי 2028 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795007427574,
   "sentLive": false,
   "candidate": true
  }
