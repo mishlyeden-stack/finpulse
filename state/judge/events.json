@@ -1,138 +1,5 @@
 [
  {
-  "key": "Fluence Energy | מינוי CEO ו-CFO זמניים על רקע בעיות שרשרת אספקה | נובמבר 2026",
-  "level": "learn",
-  "first": 1793765769157,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "SEC | הקלה בבקרות איכות ביקורת — Big Four תומכות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765769157,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל–EU | לחץ חדש להוצאת ישראל מ-Horizon Europe | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765769157,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלפאבית | גיוס 1.5 מיליארד דולר באג״ח מוניציפליות לאנרגיה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765769158,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AMD | עקיפת ציפיות Q3 + זינוק 5% במסחר מאוחר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765769158,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "דיסני | תוכנית פיטורים + חיסכון 20% בעלויות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765769158,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מניית שבבים | זינוק 26% — הכנסות פי 3, AI דוחף תחזית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793765769158,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סייבר | מתקפות קירור סופרמרקטים — ישראל הייתה ראשונה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767141333,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "BMW | קיצוץ תחזית רווח רכב ל-0 — עלויות מעבר לחשמל | נובמבר 2026",
-  "level": "learn",
-  "first": 1793767141333,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ביל אקמן | ענן עדיף על שבבים — אנליסטים מפספסים מהפכת AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767141333,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בטא טכנולוגיות | זינוק 16% — הכנסות עקפו צפי ב-64%, תחזית עלתה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767141333,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Shopify | רכישת shop.com ב-99 מיליון דולר — אסטרטגיה דיגיטלית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767141334,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה | הגבלת השכרת כוח מחשוב לסין — סגירת פרצה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767141334,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אייר קנדה | חזרה לישראל עם העלאת מחיר 30% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767141334,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קראודסטרייק | רכישת שתי חברות אבטחת AI ב-495 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767413028,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מארוול–לומנטום | סקר השפעה על שוק מרכזי נתונים AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767413028,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שרתים ישנים | חומרת אתמול הופכת לנכס — DeepSeek ומודל חדש לתמחור | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767599457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ביטוח לאומי–ויזארדס | פרויקט Identity Governance רחב היקף הושלם | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767599457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וול סטריט | מגמות שוק + שופיפיי + נפט + תשואות אג״ח לקראת בחירות | 3 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793767599457,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "OpenAI | Grid Protectors Program — הפחתת צריכת חשמל מרכזי נתונים בשעות שיא | נובמבר 2026",
   "level": "yellow",
   "first": 1793768811679,
@@ -4091,6 +3958,83 @@
   "key": "FAA | הקפאת התקנת נתבים חדשים אחרי עצירת טיסות ארצית | נובמבר 2026",
   "level": "yellow",
   "first": 1794975353238,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנקים ישראל | סיכום דוחות Q3 2026 — לאומי מוביל, דיבידנדים 10.7 מיליארד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794976652009,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | STOXX 600 — 3 שיאים ברצף, כסף זורם מארה״ב לאירופה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794976652009,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מס יציאה על רווחים לא ממומשים לעוזבי הארץ | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794976899027,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Microsoft 365 | השבתה עולמית — CFO Dive: ריבוי ספקים כמדיניות חוסן | נובמבר 2026",
+  "level": "learn",
+  "first": 1794976899027,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טראמפ | חשבונות מקושרים סחרו במניות אנבידיה 97.5 מיליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794976899027,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | שכר מגזר ציבורי 2025 — 18 אלף שקל ממוצע, פערי מגדר 26% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794976899027,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בורסת ת״א | אלביט זינקה 7%, נעילה חיובית — דנאל עסקת סיעוד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794976899027,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סין | עקיפת חרם שבבים — השקעות מקומיות במרכזי נתונים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794976899028,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Pace DC | מרכז נתונים 100MW בסאסקס, בריטניה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794976899028,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Intersect | עסקת שנאים 1.5GW עם Heron Power — אספקה מ-2028 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794977132879,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "MSP ScreenConnect | קמפיין חודש שלם — CVE-2026-84869 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1794977371975,
   "sentLive": false,
   "candidate": true
  }

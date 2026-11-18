@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 250,
+  "ok": 257,
   "blocked": 4
  },
  "calcalist.co.il": {
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 203
+  "blocked": 221
  },
  "13tv.co.il": {
   "ok": 0,
@@ -41,11 +41,11 @@
  },
  "pc.co.il": {
   "ok": 32,
-  "blocked": 37
+  "blocked": 38
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 132
+  "blocked": 136
  },
  "ecb.europa.eu": {
   "ok": 5,
@@ -56,7 +56,7 @@
   "blocked": 1
  },
  "securityweek.com": {
-  "ok": 75,
+  "ok": 76,
   "blocked": 0
  },
  "ice.co.il": {
@@ -64,8 +64,8 @@
   "blocked": 7
  },
  "datacenterdynamics.com": {
-  "ok": 28,
-  "blocked": 57
+  "ok": 30,
+  "blocked": 59
  },
  "funder.co.il": {
   "ok": 0,
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 24,
+  "ok": 25,
   "blocked": 1
  },
  "businesswire.com": {
@@ -193,7 +193,7 @@
  },
  "wsj.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "cfobrew.com": {
   "ok": 5,
