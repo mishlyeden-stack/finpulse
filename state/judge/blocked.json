@@ -5,19 +5,19 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 185
+  "blocked": 187
  },
  "en.globes.co.il": {
   "ok": 53,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 319,
+  "ok": 322,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 247
+  "blocked": 250
  },
  "13tv.co.il": {
   "ok": 0,
@@ -28,24 +28,24 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 55,
+  "ok": 58,
   "blocked": 1
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 105
+  "blocked": 108
  },
  "silicon.co.uk": {
   "ok": 1,
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 35,
+  "ok": 36,
   "blocked": 42
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 146
+  "blocked": 147
  },
  "ecb.europa.eu": {
   "ok": 6,
@@ -473,7 +473,7 @@
  },
  "boi.org.il": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "gurufocus.com": {
   "ok": 0,
@@ -785,7 +785,7 @@
  },
  "c14.co.il": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "thedefiant.io": {
   "ok": 0,

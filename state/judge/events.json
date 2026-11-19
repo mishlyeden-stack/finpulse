@@ -1,26 +1,5 @@
 [
  {
-  "key": "שקל | דולר מתקרב לקידומת 2 — שיא מאז מלחמת איראן | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793854110517,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | תחזית ריבית — ירידה מתעכבת | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793854110517,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "לאומי | ביטול אופציות מנכ״ל בעקבות הוראת בנק ישראל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793854110517,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "וול סטריט | ראלי אחרי בחירות + מגמה מעורבת בוקר | 5 נובמבר 2026",
   "level": "yellow",
   "first": 1793856939602,
@@ -4000,6 +3979,41 @@
   "key": "תע״א–הודו | עסקה 235 מיליון דולר — שדרוג מערכת ברק ימי | נובמבר 2026",
   "level": "yellow",
   "first": 1795063554852,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | רשות המסים חשפה הונאה מאסיבית במערכת חשבוניות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795064992089,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | מתקפות סייבר עוברות מהמרחב הדיגיטלי לעולם הפיזי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795064992089,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "FBI | האקרים מנצלים כלי בדיקת חדירות ARTEX למתקפות AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795064992089,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מאות סטארט-אפים ביטחוניים ניצבים מול רגולטור שיכול לסגור את הדלת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795064992090,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מגה אור | שתי חוות שרתים נוספות — NOI עתידי גדול מכל הפורטפוליו הנוכחי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795064992090,
   "sentLive": false,
   "candidate": true
  }
