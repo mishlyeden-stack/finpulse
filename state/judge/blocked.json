@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 192
+  "blocked": 193
  },
  "en.globes.co.il": {
   "ok": 53,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 329,
+  "ok": 332,
   "blocked": 9
  },
  "news.google.com": {
@@ -41,7 +41,7 @@
  },
  "pc.co.il": {
   "ok": 37,
-  "blocked": 44
+  "blocked": 45
  },
  "ft.com": {
   "ok": 0,
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 54,
+  "ok": 55,
   "blocked": 1
  },
  "securityweek.com": {
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 31,
-  "blocked": 60
+  "blocked": 61
  },
  "funder.co.il": {
   "ok": 0,
@@ -120,7 +120,7 @@
   "blocked": 1
  },
  "maariv.co.il": {
-  "ok": 11,
+  "ok": 13,
   "blocked": 0
  },
  "visionmonday.com": {
