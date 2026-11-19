@@ -1,5 +1,225 @@
 [
  {
+  "id": "f6a7adb9d3c0a98d",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "CTS Group opens modular data center factory in Portugal",
+  "link": "https://www.datacenterdynamics.com/en/news/cts-group-opens-modular-data-center-factory-in-portugal/",
+  "summary": "<p data-block-key=\"vc4i5\">Is firm's third manufacturing facility</p>",
+  "date": "2026-11-19T16:30:46.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "9309dceeca49cd3e",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "המחיר של השיפוץ הבנק המרכזי: 450 עובדים הולכים הביתה",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564165#utm_source=RSS",
+  "summary": "בנק אנגליה מקצץ מאות משרות לפני שיפוץ המטה &#8226; טינדר מתמודדת עם קנס על הסתרת נתונים &#8226; והתביעה בארה\"ב אחרי שמערכת AI חשבה ששקית דוריטוס זה אקדח &#8226; זום גלובלי",
+  "date": "2026-11-19T16:30:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "6ba0a168d2f59c64",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "QTS data center site in Georgia partially evacuated after shooting threat letter",
+  "link": "https://www.datacenterdynamics.com/en/news/qts-data-center-site-in-georgia-partially-evacuated-after-shooting-threat-letter/",
+  "summary": "<p data-block-key=\"4odfw\">Follows bomb hoax at site last summer</p>",
+  "date": "2026-11-19T16:25:52.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "ed96c455cff75be3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Watch Anthropic CFO on 'Democratizing Access' to Company Stock - Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFVadVVUS19YRlMxTkJKU3RZZ0R0ZjZfczhiNVhpODdLMWU2MUUzZWNXMHV1UnlsU1hyNUljd0FiWDk2OG03eDNiMEd2Z0ZqQ3VnRzlhelg2RUw3clpVUzBqV19ocElGb0VHSDRnazRqaXdBXzZ2UVRCc1R3NkZUdVoyUDlTUVNWNlpLVG1PS1VMNk5pVDZ3LWlfMjNqdFlEazBKTmdEVDFwaWk3bFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFVadVVUS19YRlMxTkJKU3RZZ0R0ZjZfczhiNVhpODdLMWU2MUUzZWNXMHV1UnlsU1hyNUljd0FiWDk2OG03eDNiMEd2Z0ZqQ3VnRzlhelg2RUw3clpVUzBqV19ocElGb0VHSDRnazRqaXdBXzZ2UVRCc1R3NkZUdVoyUDlTUVNWNlpLVG1PS1VMNk5pVDZ3LWlfMjNqdFlEazBKTmdEVDFwaW",
+  "date": "2026-11-19T16:25:12.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "09d8eb463ef9a643",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "ענקית השבבים צונחת בחדות ומושכת מטה את וול סטריט. הסיבה: חשד להפרת סנקציות מול סין",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564278#utm_source=RSS",
+  "summary": "מניית AMD צונחת ביותר מ־7% ומושכת את מדד נאסד\"ק מעלייה של 2.1% בפתיחה אל סביב האפס &#8226; הסיבה: תחקיר של Hunterbrook העלה חשש לשימוש בטכנולוגיה שלה בידי חברה סינית הכפופה להגבלות יצוא אמריקאיות &#8226; ברקע, הקרן שמאחורי Hunterbrook מחזיקה בפוזיציית שורט על מניית AMD, ועורכי הת",
+  "date": "2026-11-19T16:25:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "a4d9a19c09fbe23c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Dodgers Lose Trade Deadline Acquisition For 2027 After Tommy John Surgery - Yahoo Sports",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjVISlU0TWx5Qmk5eWNzZUh4X3ptd0pZMUVtTGkxUFRrTU5hU1JHUjBMM2NjQXNESW1DajlVSnBIWlJKSjFPTlJkRXRfbkNxNGlMOUJKXzlxQ0JndnpjTmVuNjdrVVR4R1hlZk9QTWg5VzFrSzNWQmFkdktkenh1dnF4ZnZYLW9VZlk2dkNRY1A2QQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjVISlU0TWx5Qmk5eWNzZUh4X3ptd0pZMUVtTGkxUFRrTU5hU1JHUjBMM2NjQXNESW1DajlVSnBIWlJKSjFPTlJkRXRfbkNxNGlMOUJKXzlxQ0JndnpjTmVuNjdrVVR4R1hlZk9QTWg5VzFrSzNWQmFkdktkenh1dnF4ZnZYLW9VZlk2dkNRY1A2QQ?oc=5\" target=\"_blank\">Dodgers L",
+  "date": "2026-11-19T16:21:06.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "adaf0d0b88651b81",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "\"אזור כפרי אינו קלף מנצח\": בג\"ץ לא ממהר לבלום תחנות כוח בעמק חפר - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3dHaFZnMHpUMGlEYzN2ZXhBdl8xdXNudlpiMnNZaDBRTHVSZmRoQjhUTVgwMjMwWEpIeEJpUF85RU15eHh3cEhYU2VYdzF1SlZDM3lYTy1Yd3A4TWZ0TWRVWXJTU3k4RVBDNThBN3h3d2xjaThmNTZlRUVEaHhDdnhZbHRsUndQTEhwellSd0ExUGdhYmN5c09FU29CZEo3d2F4dzBocG4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3dHaFZnMHpUMGlEYzN2ZXhBdl8xdXNudlpiMnNZaDBRTHVSZmRoQjhUTVgwMjMwWEpIeEJpUF85RU15eHh3cEhYU2VYdzF1SlZDM3lYTy1Yd3A4TWZ0TWRVWXJTU3k4RVBDNThBN3h3d2xjaThmNTZlRUVEaHhDdnhZbHRsUndQTEhwellSd0ExUGdhYmN5c09FU29CZEo3d2F4dzBocG4?oc",
+  "date": "2026-11-19T16:18:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "c6ed5e303dff24bd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "News | New York firm 'confident' in Miami office market following tower's refinancing - CoStar",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWkZ0TVJJdHlrTWpCVG1nbV92WldaX2xQblpPeFJIYU9PVmJiaklMT1VuTUlIVGxuOXB0XzV0QUVDT2djR0ZkOGxiUTF6SVpKN3FRaWxWa19lMjFCOGMtM1VubkZ1dzg3ZHlqRTg3ZEllQzhoMVoxdTM4Q0pfdEc3cEhGSVo1X00zSnlzZS05eURVempFMnhtSkhmWnhUUWNndU4tRk90UGRpdDhVSTVkWVhKbndTSjQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWkZ0TVJJdHlrTWpCVG1nbV92WldaX2xQblpPeFJIYU9PVmJiaklMT1VuTUlIVGxuOXB0XzV0QUVDT2djR0ZkOGxiUTF6SVpKN3FRaWxWa19lMjFCOGMtM1VubkZ1dzg3ZHlqRTg3ZEllQzhoMVoxdTM4Q0pfdEc3cEhGSVo1X00zSnlzZS05eURVempFMnhtSkhmWnhUUWNndU4tRk90UGRpdD",
+  "date": "2026-11-19T16:17:15.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "1d42f997458bc490",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Anthropic launches IPO at $83 per share",
+  "link": "https://www.datacenterdynamics.com/en/news/anthropic-launches-ipo-at-83-per-share/",
+  "summary": "<p data-block-key=\"cvvto\">Offering consists of 980 million shares of Class A common stock</p>",
+  "date": "2026-11-19T16:16:44.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "3e910f67f4d3bc2f",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "מימון לחוגים, כרטיסי טיסה חינם ונוסטלגיה: אלה הפרסומות שכיכבו השבוע",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564255#utm_source=RSS",
+  "summary": "הפרסומת הזכורה ביותר שייכת גם השבוע לבנק מזרחי טפחות, והאהובה ביותר שייכת זה השבוע השלישי לביטוח 9 - כך עולה מדירוג הפרסומות הזכורות והאהובות של גלובס וגיאוקרטוגרפיה &#8226; ההשקעה הגבוהה ביותר שייכת לפליי קארד, וגם ממתקי עלית מככבים",
+  "date": "2026-11-19T16:16:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "5194c19461fd0f46",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "The GTA 6 effect: Israeli internet traffic jumps as gamers log on - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNi1hNHRrZVlVXzJHV1FCUU9qSkVkUUdVcmpPWXRIbXYtTlN1eFZRaEdzbE9sMkNVN2NhSGVWWkZvdHFqVFRYU09wVzQ3TkRUUFAzX25VcVpGYlA5emVpeGRaOTN0VmM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNi1hNHRrZVlVXzJHV1FCUU9qSkVkUUdVcmpPWXRIbXYtTlN1eFZRaEdzbE9sMkNVN2NhSGVWWkZvdHFqVFRYU09wVzQ3TkRUUFAzX25VcVpGYlA5emVpeGRaOTN0VmM?oc=5\" target=\"_blank\">The GTA 6 effect: Israeli internet traffic jumps as gamers log on</a",
+  "date": "2026-11-19T16:13:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "5f19d2728028b934",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "DCD Survey: Airflow management",
+  "link": "https://www.datacenterdynamics.com/en/research/dcd-survey-airflow-management/",
+  "summary": "<p data-block-key=\"pgsx1\">Examining advanced airflow management and contaminant control in AI data centers</p>",
+  "date": "2026-11-19T16:13:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "6ff9475d8171255a",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "From GPU to SLA backstops: The next step in neocloud finance",
+  "link": "https://www.datacenterdynamics.com/en/whitepapers/from-gpu-to-sla-backstops-the-next-step-in-neocloud-finance/",
+  "summary": "<p data-block-key=\"fxucl\">Closing the operational risk gap in AI infrastructure financing</p>",
+  "date": "2026-11-19T16:12:47.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "2136d31d596d5efa",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "Redmi Note 17 Pro Max 5G &#8211; מכשיר שמהווה בבואה למצב שוק הביניים",
+  "link": "https://www.pc.co.il/featured/461858/",
+  "summary": "מכשירי הביניים סובלים, כנראה, יותר מכל מעליות המחירים הגדולות בשוק הטלפונים. מי שקונה מכשירי קצה עליון במחירים גבוהים במיוחד כנראה פחות מוטרד מעליות מחירים ממי שמחפש תמורה גובהה לכסף &#8211; ההיבט הכי משמעותי של הטלפונים שמוגדרים כמכשירי שוק ביניים. זה מוביל לפשרות שונות כדי לנסו",
+  "date": "2026-11-19T16:10:19.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "a5f8b2a52251810b",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Data center powered by Huawei Ascend chips launches in China",
+  "link": "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+  "summary": "<p data-block-key=\"oi17u\">Data center project is a collaboration between Huawei, China Telecom, and Tianyima</p>",
+  "date": "2026-11-19T16:07:30.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "eaeea460949385f5",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "פיטורי AI גם בבנקים: לאומי צמצם 25 משרות בחטיבת הטכנולוגיה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3aWNxb2ZPTWhtTzIwRi1kWktwczBHbWdJaTV0c0FfLWlSN3FkYW5ySG1hdlN1b1R1RU9tZjlrQkNCZnBoamxNaHNGdE85dlJCWjlkN21ab3YxUjdqUHo1V2RBUWFtaTBh?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3aWNxb2ZPTWhtTzIwRi1kWktwczBHbWdJaTV0c0FfLWlSN3FkYW5ySG1hdlN1b1R1RU9tZjlrQkNCZnBoamxNaHNGdE85dlJCWjlkN21ab3YxUjdqUHo1V2RBUWFtaTBh?oc=5\" target=\"_blank\">פיטורי AI גם בבנקים: לאומי צמצם 25 משרות בחטיבת הטכנולוגיה</a>&nbsp",
+  "date": "2026-11-19T16:07:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "3fae5bb7f681242e",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "הרבעון השלישי של שפיר: עלייה בהיקפי הביצוע שלוותה בירידה ברווחיות, ובכל זאת הרווח הנקי עלה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EZGRweVJXendfVm5oOG01QUpabndyOXlqSGlHQkhFbGM0NjNwclY1T2RmVW55cWs0bVNtR3FaMWk0bGJjc3VGZW1yYllrY0FWN29HMlRnakUzNll1b3RuUGhMYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EZGRweVJXendfVm5oOG01QUpabndyOXlqSGlHQkhFbGM0NjNwclY1T2RmVW55cWs0bVNtR3FaMWk0bGJjc3VGZW1yYllrY0FWN29HMlRnakUzNll1b3RuUGhMYw?oc=5\" target=\"_blank\">הרבעון השלישי של שפיר: עלייה בהיקפי הביצוע שלוותה בירידה ברווחיות, ובכל ז",
+  "date": "2026-11-19T16:06:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "61fd5b76d27e7c0a",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מנכ\"ל ריטיילורס כמו שעוד לא שמענו: \"היעדים שפירסמנו לא מעניינים אותי\" - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmEzR1JudU9oZGQwQjItTjhTU1NVTVlwU3gySnNRV3NERC1QU0xVb09BZkJGcFFzYzRvemQ2TEN5NUNDS25nTGVDOXluRHJDV0ZEZDRDS2pyOExCblpLWGl5eGpJX081UEFDcDdtYjBGMW1DUEZzWHJmeXRHd1luVVQ1SkFVVGdPNWZVaDM4Q01uUEc1SUtTNjJFSTFab3draUhV?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmEzR1JudU9oZGQwQjItTjhTU1NVTVlwU3gySnNRV3NERC1QU0xVb09BZkJGcFFzYzRvemQ2TEN5NUNDS25nTGVDOXluRHJDV0ZEZDRDS2pyOExCblpLWGl5eGpJX081UEFDcDdtYjBGMW1DUEZzWHJmeXRHd1luVVQ1SkFVVGdPNWZVaDM4Q01uUEc1SUtTNjJFSTFab3draUhV?oc=5\" tar",
+  "date": "2026-11-19T16:06:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "014a6c745c179132",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "לראשונה מאוקטובר 2025: הדולר נסחר סביב 3.30 שקלים",
+  "link": "https://www.ynet.co.il/economy/article/sknq9qhagg",
+  "summary": "המטבע האמריקני ממשיך להתחזק על חשבון השקל. גם האירו בשיא של שנה, ונסחר סביב 3.62. בין הסיבות: החשש מהעלאות ריבית נוספות בארה\"ב והפלונטר הפוליטי בישראל",
+  "date": "2026-11-19T16:01:55.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
+  "id": "4a22839eb8623983",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "לטייל בענן עם מרצדס ולשלם על מאזדה",
+  "link": "https://www.pc.co.il/news/%d7%9e%d7%97%d7%a9%d7%95%d7%91-%d7%a2%d7%a0%d7%9f/461855/",
+  "summary": "\"כאשר ארגונים מהגרים מערכות שלהם לענן, הם מופתעים לעתים מהחשבונות היקרים שמתקבלים בסוף חודש, או שנה. הם נדרשים למיטוב של ההוצאות לטובת חיסכון. תוכניות החיסכון ששלושת העננים הציבוריים מציעים הן טובות &#8211; אולם אינן מספיקות ולא גמישות. אנחנו מכניסים לתהליכי ה-FinOps מיכון עם גמי",
+  "date": "2026-11-19T16:00:14.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
   "id": "c67c69c35960d895",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -31,6 +251,17 @@
   "date": "2026-11-19T16:00:00.000Z",
   "fetched": "2026-11-19T16:03:12.770Z",
   "fromCloud": "2026-11-19T1603.json"
+ },
+ {
+  "id": "1b7b1364ca0d91ec",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Cleveland Foundation names Anthony Gattuso CFO and chief investment officer - Crain's Cleveland",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeldzUmFwNEpDaTEzMkl2SnRaWkw5RHNFeGNlbHF3ODE5N01ud2E5Q3VzTWR0VHBaZlhyREpHem9CN3Zrc3VmVEFITldVcW13eFVnU2VLZWpSdWRoT19OWjZwVmFia1RBdjFpSlhHUUVWMGp5ajZZWngwa2JVOUd3TmlvZThFUXVLNklfWUFsYWhtcEdjUUIzNU5QWUxNZDRzWFdKVw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPeldzUmFwNEpDaTEzMkl2SnRaWkw5RHNFeGNlbHF3ODE5N01ud2E5Q3VzTWR0VHBaZlhyREpHem9CN3Zrc3VmVEFITldVcW13eFVnU2VLZWpSdWRoT19OWjZwVmFia1RBdjFpSlhHUUVWMGp5ajZZWngwa2JVOUd3TmlvZThFUXVLNklfWUFsYWhtcEdjUUIzNU5QWUxNZDRzWFdKVw?oc=5\" t",
+  "date": "2026-11-19T16:00:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
  },
  {
   "id": "466c4bf99cd8714c",
@@ -77,6 +308,17 @@
   "fromCloud": "2026-11-19T1603.json"
  },
  {
+  "id": "2411369e5a077c7f",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "ה-AI הופכת את הארגון הדיגיטלי לארגון אינטליגנטי",
+  "link": "https://www.pc.co.il/editorial/461845/",
+  "summary": "ביוני 2025 פרסמתי מאמר שעסק בזיקה בין הטרנספורמציה הדיגיטלית לבין ה-AI. במאמר זה ארחיב את הדיון בהשפעת ה-AI על הטרנספורמציה הדיגיטלית. חזרתי לנושא משני טעמים: הראשון, טכנולוגיית ה-AI ממשיכה להתרחב ולהשפיע על כל הפונקציות בארגון; השני, בקרב ארגונים רבים רווחת התחושה שהטרנספורמציה ",
+  "date": "2026-11-19T15:50:04.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
   "id": "04012bb982ebd247",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -97,6 +339,17 @@
   "date": "2026-11-19T15:44:46.000Z",
   "fetched": "2026-11-19T16:03:12.770Z",
   "fromCloud": "2026-11-19T1603.json"
+ },
+ {
+  "id": "2d65d5524d4e71ff",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Foundation Healthcare Says Acquisition For Initially S$4.3 Million - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZVNFLWFYN3FERDMza3FCOFVQVk9HNGZ6a0ZmXzZhdmVRTlEwREpjaUZ6cUMtZFJCN1l6NjM4UDM0dkd1TGs1V2hpOW9VUjNnbkxSdF9RT2l5VmpzOE5vY242bF9YNDJIWVNZMGNMZU1LcU52SkMzR1N3MktFTUxHZVF3RGxTeFY0UU1QQ081c2dua19lOXRQOVoxZ1hLR1hlOGhzdUhpSS1NZGw1dWJHOThKb2xCTzlLVlhQZS1SLXd3MVE1YkJXYnhlNHdjeUwyaHc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZVNFLWFYN3FERDMza3FCOFVQVk9HNGZ6a0ZmXzZhdmVRTlEwREpjaUZ6cUMtZFJCN1l6NjM4UDM0dkd1TGs1V2hpOW9VUjNnbkxSdF9RT2l5VmpzOE5vY242bF9YNDJIWVNZMGNMZU1LcU52SkMzR1N3MktFTUxHZVF3RGxTeFY0UU1QQ081c2dua19lOXRQOVoxZ1hLR1hlOGhzdUhpSS1NZG",
+  "date": "2026-11-19T15:40:20.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
  },
  {
   "id": "9cc4e890cbdcc652",
@@ -130,6 +383,17 @@
   "date": "2026-11-19T15:32:38.000Z",
   "fetched": "2026-11-19T16:03:12.770Z",
   "fromCloud": "2026-11-19T1603.json"
+ },
+ {
+  "id": "450c02d8b342ad1d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אותה חברה שמייצרת את האייפון עשויה לייצר גם את המתחרה שלו - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZE13OG1BRG1mRnBmZlA1Z2cwZTk5aFJGenJxb0ZfUjQ4a25fcEdwMGdqeDR4MVl6bVZCM0c3ekhUWkRfeU1Vd3VsX3laeTNJX0tvZktrMGZva1BjTXpkWWhFWWtrcnBSRHlrZ1FhalY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZE13OG1BRG1mRnBmZlA1Z2cwZTk5aFJGenJxb0ZfUjQ4a25fcEdwMGdqeDR4MVl6bVZCM0c3ekhUWkRfeU1Vd3VsX3laeTNJX0tvZktrMGZva1BjTXpkWWhFWWtrcnBSRHlrZ1FhalY?oc=5\" target=\"_blank\">אותה חברה שמייצרת את האייפון עשויה לייצר גם את המתחרה של",
+  "date": "2026-11-19T15:32:00.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
  },
  {
   "id": "06ac0eee054b536a",
@@ -361,6 +625,17 @@
   "date": "2026-11-19T15:01:00.000Z",
   "fetched": "2026-11-19T15:33:36.948Z",
   "fromCloud": "2026-11-19T1533.json"
+ },
+ {
+  "id": "aa01ab1246020b6e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "ONAR Holding Corporation (ONAR) Acquisition Lifts Pro Forma Q3 Revenue to $4.44M - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDhfclpDRzY0YVAydkp5ZUNmbWRlQWVaMlZBZzNwNXBFUlVKc1NKU2dReXdpSHhEX2F0cmpBaWRWRE12azVyWk1NUmJVcmgxTC1icjdISlc5dWNrWDQzbkRBaGVueTNwMHFhSVA3dXdWMl9rSHFaU1ptd2NSVVF1VzJmdXh2VUJjcmdlU0FNbUZ3TFIyUkFyTTVIOTJ0Z2pQTk1GZ2xQMlJUdWZRLVpXMzBCTmgwRE92akU3em9HckZTLWcxb3dBcllxVWhsdVRBWExxUmZIQ0ZCN3pGb1RBZVhB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDhfclpDRzY0YVAydkp5ZUNmbWRlQWVaMlZBZzNwNXBFUlVKc1NKU2dReXdpSHhEX2F0cmpBaWRWRE12azVyWk1NUmJVcmgxTC1icjdISlc5dWNrWDQzbkRBaGVueTNwMHFhSVA3dXdWMl9rSHFaU1ptd2NSVVF1VzJmdXh2VUJjcmdlU0FNbUZ3TFIyUkFyTTVIOTJ0Z2pQTk1GZ2xQMlJUdW",
+  "date": "2026-11-19T15:00:13.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
  },
  {
   "id": "fe5b676533098d9c",
@@ -627,6 +902,17 @@
   "fromCloud": "2026-11-19T1503.json"
  },
  {
+  "id": "15324125a4713655",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Elbit Systems to invest $80m in radar co Radomatics",
+  "link": "https://en.globes.co.il/en/article-1001564188#utm_source=RSS",
+  "summary": "Elbit Systems will place orders worth $80 million over five years in exchange for a 40% stake in the company.",
+  "date": "2026-11-19T13:44:14.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
+ },
+ {
   "id": "c56ff1db6be4d1c7",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -680,6 +966,17 @@
   "date": "2026-11-19T12:54:35.000Z",
   "fetched": "2026-11-19T15:03:14.903Z",
   "fromCloud": "2026-11-19T1503.json"
+ },
+ {
+  "id": "3b1fc13e90a4cc98",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "הדולר נגע ב-?3.29 שקלים, אגורה מ-?3.30 - פאנדר",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WeGxvRnJUUGJzSDR4QXlQVkJIcTJBRHRMbG5jN2lOYThhUko5MVBFWUszbzNhVzFYaU1QUTFGaVpPV21idjZfRWlxbHZlSnly?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WeGxvRnJUUGJzSDR4QXlQVkJIcTJBRHRMbG5jN2lOYThhUko5MVBFWUszbzNhVzFYaU1QUTFGaVpPV21idjZfRWlxbHZlSnly?oc=5\" target=\"_blank\">הדולר נגע ב-?3.29 שקלים, אגורה מ-?3.30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">פאנדר</font>",
+  "date": "2026-11-19T12:43:59.000Z",
+  "fetched": "2026-11-19T16:33:12.556Z",
+  "fromCloud": "2026-11-19T1633.json"
  },
  {
   "id": "1b839343dc377d9f",
