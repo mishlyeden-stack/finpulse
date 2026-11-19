@@ -1,0 +1,46 @@
+{
+ "batch": "2026-11-19T0203",
+ "created": "2026-11-19T02:03:11.721Z",
+ "items": [
+  {
+   "id": "6c829a6d38dab105",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Trump, Xi and Putin to hold high-stakes trilateral summit",
+   "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+   "summary": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
+   "date": "2026-11-19T01:31:05.000Z",
+   "fetched": "2026-11-19T02:03:11.721Z"
+  },
+  {
+   "id": "3caa5d73e58aab8b",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Opinion | Chicago’s fiscal warning lights are flashing red - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORjNMMWhXLU84SFo3eG9NNXh2ZExUUl9MdkFsQng5OGxoVXVnTjUtUHQ2TmlfMEZzQjR2amhucTBvc25wRlZINDZwYUVZYUJaZW5zeHhHUFNOUXplMXo5QV9xeWU0SC1zdmduUHQxajlNdEYyMldhLXZnU0JuUEJsVS0zT01WVGZnakNPNlBfVTliUTVjUUhZbUUxSDluQkhYMHA4bmZB?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORjNMMWhXLU84SFo3eG9NNXh2ZExUUl9MdkFsQng5OGxoVXVnTjUtUHQ2TmlfMEZzQjR2amhucTBvc25wRlZINDZwYUVZYUJaZW5zeHhHUFNOUXplMXo5QV9xeWU0SC1zdmduUHQxajlNdEYyMldhLXZnU0JuUEJsVS0zT01WVGZnakNPNlBfVTliUTVjUUhZbUUxSDluQkhYMHA4bmZB?oc=5\"",
+   "date": "2026-11-19T01:58:21.000Z",
+   "fetched": "2026-11-19T02:03:11.721Z"
+  },
+  {
+   "id": "e21fb183ab9ea335",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Preservation efforts bolstered by recent land acquisition - Palatka Daily News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEVwajVQYTVmNmI0UmRfZFc3a2x6MHVBQlR4UnVDVVBpVFFpd1dOZ1dkTGVhNmlCb3VLTF9SVnBaeFJBRXpvTm1NRmI5cnB1SThRREF5TjJvVTJWWGFIMmk1ZDQxb1I3eGRFaXJPQzlISWtLYkV2Y2p6ZmNLUnRSVUpZM21tRGZKc3dPTWkxamF2MWU2MkQzVjBWVzBJMnd4V0czeHZka3ZNT0NQWTZIVkFQZw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEVwajVQYTVmNmI0UmRfZFc3a2x6MHVBQlR4UnVDVVBpVFFpd1dOZ1dkTGVhNmlCb3VLTF9SVnBaeFJBRXpvTm1NRmI5cnB1SThRREF5TjJvVTJWWGFIMmk1ZDQxb1I3eGRFaXJPQzlISWtLYkV2Y2p6ZmNLUnRSVUpZM21tRGZKc3dPTWkxamF2MWU2MkQzVjBWVzBJMnd4V0czeHZka3ZNT0",
+   "date": "2026-11-19T01:41:54.000Z",
+   "fetched": "2026-11-19T02:03:11.721Z"
+  },
+  {
+   "id": "a657807ddce55b37",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Palo Alto Networks Plans $4.5 Billion Acquisition of AI Startup Applied Compute - PYMNTS.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV19sWEZ5SEZ6RFJiZUdGMWlSbG1XM2ZNSXVnOWpuSzRpYzJhdktCNzhYdmFTakk1U2I1UXpRcFdZZ0lUa0pyNEZ2bW1iV2xpVGdUaEMtZ3dmVzM1c0dRUTBuZ0o1UjdfZG9FUDJKejNNMWVQRW1zRW16NFY3X0s0ZVlQS2N1eS1xOXI4eWtGQXUxS3l1UDl1WWtENTFLRHgzYlo0aUJDU0xrVGdBcTBpLVFXekNKenRNRWZjSXlwNV9TcDFBTTZJOGkyckNNaldSS3c?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV19sWEZ5SEZ6RFJiZUdGMWlSbG1XM2ZNSXVnOWpuSzRpYzJhdktCNzhYdmFTakk1U2I1UXpRcFdZZ0lUa0pyNEZ2bW1iV2xpVGdUaEMtZ3dmVzM1c0dRUTBuZ0o1UjdfZG9FUDJKejNNMWVQRW1zRW16NFY3X0s0ZVlQS2N1eS1xOXI4eWtGQXUxS3l1UDl1WWtENTFLRHgzYlo0aUJDU0xrVG",
+   "date": "2026-11-19T01:48:36.000Z",
+   "fetched": "2026-11-19T02:03:11.721Z"
+  }
+ ]
+}
