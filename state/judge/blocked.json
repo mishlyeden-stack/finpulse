@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 267,
+  "ok": 275,
   "blocked": 4
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 183
+  "blocked": 185
  },
  "en.globes.co.il": {
   "ok": 53,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 318,
+  "ok": 319,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 242
+  "blocked": 247
  },
  "13tv.co.il": {
   "ok": 0,
@@ -28,24 +28,24 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 54,
+  "ok": 55,
   "blocked": 1
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 103
+  "blocked": 105
  },
  "silicon.co.uk": {
   "ok": 1,
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 34,
+  "ok": 35,
   "blocked": 42
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 145
+  "blocked": 146
  },
  "ecb.europa.eu": {
   "ok": 6,
@@ -72,7 +72,7 @@
   "blocked": 19
  },
  "calcalistech.com": {
-  "ok": 78,
+  "ok": 80,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -120,7 +120,7 @@
   "blocked": 1
  },
  "maariv.co.il": {
-  "ok": 8,
+  "ok": 11,
   "blocked": 0
  },
  "visionmonday.com": {
@@ -160,7 +160,7 @@
   "blocked": 1
  },
  "avnetwork.com": {
-  "ok": 6,
+  "ok": 7,
   "blocked": 0
  },
  "prnewswire.com": {

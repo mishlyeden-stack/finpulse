@@ -1,47 +1,5 @@
 [
  {
-  "key": "אמדוקס | רכישת EIS ב-340 מיליון דולר + מכירת מניות מנכ״ל לפני נפילה | נובמבר 2026",
-  "level": "learn",
-  "first": 1793853410107,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סין | חסימת רכישת ABB Robotics על ידי סופטבנק | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793853410107,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בחירות אמצע ארה״ב | ניצחון דמוקרטים — מניות ניאו-קלאוד וספייס-אקס נופלות, ענקיות טק עולות | 4 נובמבר 2026",
-  "level": "yellow",
-  "first": 1793853654980,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נייס | 500 פיטורים מוסברים כמינוף AI בפיתוח — פרספקטיבת CEO | נובמבר 2026",
-  "level": "learn",
-  "first": 1793853654980,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה | הגבלת שותפים על חשיפה לסין + הגבלת מכירת RTX | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793853851164,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בחירות אמצע ארה״ב | מרכזי נתונים AI — גורם הצבעה משמעותי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793853851164,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "שקל | דולר מתקרב לקידומת 2 — שיא מאז מלחמת איראן | נובמבר 2026",
   "level": "yellow",
   "first": 1793854110517,
@@ -3937,6 +3895,111 @@
   "key": "SOCOM | פלטפורמת AI לצוות הרכש — רכש ביטחוני ממשלתי",
   "level": "yellow",
   "first": 1795061879084,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פאלו אלטו | דוח Q1 FY27 + רכישת Applied Compute 4.5 מיליארד — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063085616,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Tipalti | פיטורים רביעיים מאז 2023 + מיקוד ב-AI ולקוחות mid-market — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063085616,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "NDI 6.4 | עדכון — הקלטה, Wi-Fi ו-HEVC 4:4:4 — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063085616,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | חיוב גילוי שימוש במודלי AI סיניים — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063085616,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | צפי להורדת ריבית — אבל עם כוכבית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063347560,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | מגבלות שבבי AI — השפעה על שוקי מרכזי נתונים ישראלי וגלובלי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063347560,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בריטניה | סנקציות על חברות בנייה ביו״ש — סיכון הרחבה לבנקים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063347560,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מניות התחדשות עירונית צנחו — כללי רשות ני״ע שוחקים רווח | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063347560,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל–הודו | שדרוג מערכות טילים ב-220 מיליון דולר — ביטחון ימי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063347560,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פד | פרוטוקול + ריבית דצמבר — השוק כמעט מתמחר העלאה, וולר מדבר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063347560,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | אזהרה — משקי בית טובעים בחובות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063347560,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט–סיילספורס | שיתוף AI בתוך Copilot — מתחרות לשותפות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063347560,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | דולר זינק ל-3.27–3.28 שקל — שיא שנה חדש | נובמבר 2026",
+  "level": "red",
+  "first": 1795063554852,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "בריטניה | סנקציות — בכיר ישראלי מזהיר מתגובת שרשרת לתחומים נוספים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063554852,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תע״א–הודו | עסקה 235 מיליון דולר — שדרוג מערכת ברק ימי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795063554852,
   "sentLive": false,
   "candidate": true
  }
