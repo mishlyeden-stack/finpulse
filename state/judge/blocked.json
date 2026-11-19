@@ -806,5 +806,9 @@
  "kanisrael.co.il": {
   "ok": 0,
   "blocked": 1
+ },
+ "nearshoreamericas.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }

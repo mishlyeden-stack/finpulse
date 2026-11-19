@@ -1,12 +1,5 @@
 [
  {
-  "key": "ישראל | עלות F-35 ומימון עצמי אם סיוע אמריקאי ייפסק | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793860504801,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל | הזמנות נשק 10+ מיליארד דולר מארה״ב מסובכות ע״י ביטול סיוע | נובמבר 2026",
   "level": "yellow",
   "first": 1793862398848,
@@ -4035,6 +4028,13 @@
   "key": "Oracle | עדכון אבטחה ענק — 950 פגיעויות, 62 קריטיות | נובמבר 2026",
   "level": "yellow",
   "first": 1795066868619,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Cognizant | רכישת Wizeline — AI-Native ושינוי מודל שירות IT | נובמבר 2026",
+  "level": "learn",
+  "first": 1795070134408,
   "sentLive": false,
   "candidate": true
  }
