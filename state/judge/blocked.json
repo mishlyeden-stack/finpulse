@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 277,
+  "ok": 280,
   "blocked": 5
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 190
+  "blocked": 192
  },
  "en.globes.co.il": {
   "ok": 53,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 325,
+  "ok": 329,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 251
+  "blocked": 252
  },
  "13tv.co.il": {
   "ok": 0,
@@ -40,8 +40,8 @@
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 36,
-  "blocked": 43
+  "ok": 37,
+  "blocked": 44
  },
  "ft.com": {
   "ok": 0,
@@ -56,7 +56,7 @@
   "blocked": 1
  },
  "securityweek.com": {
-  "ok": 85,
+  "ok": 86,
   "blocked": 0
  },
  "ice.co.il": {
@@ -72,7 +72,7 @@
   "blocked": 19
  },
  "calcalistech.com": {
-  "ok": 81,
+  "ok": 82,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -785,7 +785,7 @@
  },
  "c14.co.il": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "thedefiant.io": {
   "ok": 0,
@@ -810,5 +810,9 @@
  "nearshoreamericas.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "au.finance.yahoo.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }

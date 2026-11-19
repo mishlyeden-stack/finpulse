@@ -1,26 +1,5 @@
 [
  {
-  "key": "רשות המסים | אין הורדת מסים 2027 — נדרשים 40 מיליארד שקל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793882212156,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מרכזי נתונים ארה״ב | חיכוך רגולטורי אחרי בחירות אמצע 2026 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793885799538,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | מניות ביטחוניות — ירידה 50% מהשיא + הסבר אנליסטים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1793885900424,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל | מקורות מימון חלופיים אחרי ביטול סיוע אמריקאי — ניתוח | נובמבר 2026",
   "level": "yellow",
   "first": 1794110952217,
@@ -3623,7 +3602,7 @@
   "level": "red",
   "first": 1795061314407,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "JPMorgan–יונדאי קארד | סוכני AI סגרו עסקת מט״ח אוטונומית — ללא אדם באמצע | נובמבר 2026",
@@ -3965,6 +3944,69 @@
   "key": "Splunk | תיקון 140 פגיעויות בשלושה מוצרים מרכזיים | נובמבר 2026",
   "level": "yellow",
   "first": 1795086324910,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דליה | covenant breach — השבתה תפעולית הופכת לסיכון פיננסי | נובמבר 2026",
+  "level": "learn",
+  "first": 1795095534282,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | Cisco Expressway — ניצול פגיעות אחרי שחרור PoC | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795095534282,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אקרשטיין | יציאה מארה״ב — ביצועים מתחת לציפיות + מניה נופלת | נובמבר 2026",
+  "level": "learn",
+  "first": 1795095534283,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דליה | יחידת ייצור מושבתת — סיכון אמות מידה פיננסיות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795095534283,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יוניטרוניקס | זינוק 9% בעקבות דוחות — מנוע מרכזי נתונים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795095534283,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיטב | דוח — גמל, פנסיה וקרנות מכסות חולשה בטרייד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795095534283,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט | מרכז R&D ישראלי במרכז הדור הבא של כלי AI | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795095534283,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלטשולר שחם | דוח טוב — מעבר לגיוס נטו בטווח הקרוב | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795095534283,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תמר פטרוליום | רווח הוכפל — 17.9 מיליון דולר ברבעון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795095534283,
   "sentLive": false,
   "candidate": true
  }
