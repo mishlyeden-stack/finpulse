@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 265,
+  "ok": 267,
   "blocked": 4
  },
  "calcalist.co.il": {
@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 307,
+  "ok": 318,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 236
+  "blocked": 242
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 102
+  "blocked": 103
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,18 +45,18 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 141
+  "blocked": 145
  },
  "ecb.europa.eu": {
   "ok": 6,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 53,
+  "ok": 54,
   "blocked": 1
  },
  "securityweek.com": {
-  "ok": 81,
+  "ok": 82,
   "blocked": 0
  },
  "ice.co.il": {
@@ -85,7 +85,7 @@
  },
  "bloomberg.com": {
   "ok": 1,
-  "blocked": 7
+  "blocked": 8
  },
  "fortworthinc.com": {
   "ok": 0,
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 27,
+  "ok": 28,
   "blocked": 1
  },
  "businesswire.com": {
@@ -173,7 +173,7 @@
  },
  "streetinsider.com": {
   "ok": 0,
-  "blocked": 2
+  "blocked": 3
  },
  "cnbc.com": {
   "ok": 23,
@@ -184,7 +184,7 @@
   "blocked": 0
  },
  "fortune.com": {
-  "ok": 2,
+  "ok": 3,
   "blocked": 0
  },
  "mckinsey.com": {
@@ -213,7 +213,7 @@
  },
  "economist.com": {
   "ok": 0,
-  "blocked": 6
+  "blocked": 7
  },
  "einpresswire.com": {
   "ok": 1,
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 21
+  "blocked": 22
  },
  "techtarget.com": {
   "ok": 1,
@@ -277,7 +277,7 @@
  },
  "sec.gov": {
   "ok": 0,
-  "blocked": 6
+  "blocked": 7
  },
  "newsquawk.com": {
   "ok": 1,
@@ -325,10 +325,10 @@
  },
  "benzinga.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "washingtontechnology.com": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "blockspace.media": {
@@ -784,6 +784,26 @@
   "blocked": 1
  },
  "c14.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "thedefiant.io": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "newscord.org": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "chicago.suntimes.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "federalreserve.gov": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "kanisrael.co.il": {
   "ok": 0,
   "blocked": 1
  }
