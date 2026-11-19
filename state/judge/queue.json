@@ -1,5 +1,49 @@
 [
  {
+  "id": "15725c13bd63f318",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "A bold vision for Belgium",
+  "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium",
+  "summary": "A productivity revolution could more than double the country’s economic growth and ensure future prosperity.",
+  "date": "2026-11-19T00:00:00.000Z",
+  "fetched": "2026-11-19T00:03:13.120Z",
+  "fromCloud": "2026-11-19T0003.json"
+ },
+ {
+  "id": "671463fb1266f546",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Proposed SThree acquisition by Circle8 canceled - Staffing Industry Analysts",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlBwaTlZdEE4OGpmeXhJWGtPTkg2Q1lsNzYtbHYwaldoN1B6RGNOVjhvaDRYT2tkX3NyMWJiU0U1YXc1Rk5JeWgxNU5VeW9wT1BGaUlqcTYzUVdmU2V2US1aWm1fbm9iYWZKczFLS1Z4YXA1Smc5ZXpBQlZQYmFFcFdNazBKc2U2SmtQd1lfWmlyVUJWZWZkLVJOY1dOd2FZQ2xMRjZ3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlBwaTlZdEE4OGpmeXhJWGtPTkg2Q1lsNzYtbHYwaldoN1B6RGNOVjhvaDRYT2tkX3NyMWJiU0U1YXc1Rk5JeWgxNU5VeW9wT1BGaUlqcTYzUVdmU2V2US1aWm1fbm9iYWZKczFLS1Z4YXA1Smc5ZXpBQlZQYmFFcFdNazBKc2U2SmtQd1lfWmlyVUJWZWZkLVJOY1dOd2FZQ2xMRjZ3?oc=5\"",
+  "date": "2026-11-18T23:44:31.000Z",
+  "fetched": "2026-11-19T00:03:13.120Z",
+  "fromCloud": "2026-11-19T0003.json"
+ },
+ {
+  "id": "efd1772635749e44",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tencent's AI Buildout Deepens Free Cash Flow Deficit - The Defiant",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3NiQ1ZNNVNBMThRandnQWtKa3lRalBuZDI4ck0zR083SlhOVkRhVmFadzhGWVZYWlpBRnJEUlpKTEswVm1GcFZKLXVRbzZLX1hmREFJUi03RzNscWdNVHN6c290MU1RYTBseXdrRHdpVzdwZHZpQTlITGxxalMzOEV4Vno4ek12N2ptem15QQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3NiQ1ZNNVNBMThRandnQWtKa3lRalBuZDI4ck0zR083SlhOVkRhVmFadzhGWVZYWlpBRnJEUlpKTEswVm1GcFZKLXVRbzZLX1hmREFJUi03RzNscWdNVHN6c290MU1RYTBseXdrRHdpVzdwZHZpQTlITGxxalMzOEV4Vno4ek12N2ptem15QQ?oc=5\" target=\"_blank\">Tencent's AI ",
+  "date": "2026-11-18T23:41:56.000Z",
+  "fetched": "2026-11-19T00:03:13.120Z",
+  "fromCloud": "2026-11-19T0003.json"
+ },
+ {
+  "id": "14b5488cb6ef01de",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "5 Takeaways On Palo Alto Networks’ $4.5B Acquisition Deal, AI Growth - CRN",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeHo3N09OSGdKY1hjMFdIZExRUG5saVFLd2d0NGUyNm81cFFlSHhGYUtST2xGaHRTbURqMWY0Smh4U3Q4VEVzbUNkSTFvbF9ySmwwbVpobXZfNUNNZWFYWkJVQkhmNGxWdnRVT01sQkpmOGh1UEI0R3lOMXVUbHVtYVdLekgyeUloM2lVTFRmb1dSQVI5cmZXX0MyRV9Bbm1fTWNRNGdxMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeHo3N09OSGdKY1hjMFdIZExRUG5saVFLd2d0NGUyNm81cFFlSHhGYUtST2xGaHRTbURqMWY0Smh4U3Q4VEVzbUNkSTFvbF9ySmwwbVpobXZfNUNNZWFYWkJVQkhmNGxWdnRVT01sQkpmOGh1UEI0R3lOMXVUbHVtYVdLekgyeUloM2lVTFRmb1dSQVI5cmZXX0MyRV9Bbm1fTWNRNGdxMA?oc=",
+  "date": "2026-11-18T23:30:00.000Z",
+  "fetched": "2026-11-19T00:03:13.120Z",
+  "fromCloud": "2026-11-19T0003.json"
+ },
+ {
   "id": "335a32778c3fc0e6",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +53,28 @@
   "date": "2026-11-18T23:29:00.000Z",
   "fetched": "2026-11-18T23:33:13.130Z",
   "fromCloud": "2026-11-18T2333.json"
+ },
+ {
+  "id": "cf55a66276c89012",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Nvidia CFO Says Company Will File Delayed 10-Q in Coming Weeks: how 8 outlets framed it - NewsCord",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQenRJTEZreTVfaHNzT3A4aWFadXpUaDhQSG5OQTY0MFJkNmFGTEdtQ3dJSlBCalBadVdHZ0xaalFMRzNsVXBiMDJIeVpXemtSZ29sTTBUbUpHdGc0aU11ajdNVTRfZ092VERpaGxoYzBEZVBnREpSejJLRW13MWVpdjVmYXl5cjFRbkMzYk1WR3A1R1VQYi1CZTMxVlVWZlNwSk1tbGdpWlo1cVdpOWF6RjhNY2pocjhUajVvYnVPVUkyaFM4RFV4WV9CbGFLZUl2aXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQenRJTEZreTVfaHNzT3A4aWFadXpUaDhQSG5OQTY0MFJkNmFGTEdtQ3dJSlBCalBadVdHZ0xaalFMRzNsVXBiMDJIeVpXemtSZ29sTTBUbUpHdGc0aU11ajdNVTRfZ092VERpaGxoYzBEZVBnREpSejJLRW13MWVpdjVmYXl5cjFRbkMzYk1WR3A1R1VQYi1CZTMxVlVWZlNwSk1tbGdpWlo1cV",
+  "date": "2026-11-18T23:25:05.000Z",
+  "fetched": "2026-11-19T00:03:13.120Z",
+  "fromCloud": "2026-11-19T0003.json"
+ },
+ {
+  "id": "3890aba7f28f7888",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Datadog CFO Sees AI Driving Cloud Demand, Calls Growth Outlook Conservative - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZml2U0U5OVFVRngwUWZlRFhEUlFQQVZmS0RNWGNTUThyTTBlMkdndk1GR1VkWWdvVjF6ZXZ5aEgxZUpndHFpNXA0MnFKVWtreDBDZVpXODJYakotekdUcE1zTmRuUUp2Vmo5bW9kTzV0T3Yxb0dDbWZBaW85TUIzMmY5ZFQxbDZ1VWdGTzlzMXVBQl9lVVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZml2U0U5OVFVRngwUWZlRFhEUlFQQVZmS0RNWGNTUThyTTBlMkdndk1GR1VkWWdvVjF6ZXZ5aEgxZUpndHFpNXA0MnFKVWtreDBDZVpXODJYakotekdUcE1zTmRuUUp2Vmo5bW9kTzV0T3Yxb0dDbWZBaW85TUIzMmY5ZFQxbDZ1VWdGTzlzMXVBQl9lVVE?oc=5\" target=\"_blank\">Data",
+  "date": "2026-11-18T23:12:08.000Z",
+  "fetched": "2026-11-19T00:03:13.120Z",
+  "fromCloud": "2026-11-19T0003.json"
  },
  {
   "id": "497498698f177f81",
@@ -53,6 +119,17 @@
   "date": "2026-11-18T23:00:00.000Z",
   "fetched": "2026-11-18T23:33:13.130Z",
   "fromCloud": "2026-11-18T2333.json"
+ },
+ {
+  "id": "6b0a391c2f35125d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Council taps CFO Nussbaum as interim Village manage | News In English - Key Biscayne Portal",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdXVjazAzeGJYMVZuY3d3cXVLTXlUeFkwYlc2emlsTFRodHBlajk5VHhZQ2FsME56STNMWnA3T0FKT01IYlNtaWpoNVQ4blRXc2c2T2tpdXJvMlU1dUtxMkJQbjZlM3hiLVd0Q0ljd3FUNXUyWUNLV1A1c2xsYU1kYU5WV3gtOEZpb3UtVHhWVmpPMVo2NWUyS215Uk1KcGdBdHdOV2RUaHpNZ2V3MTZCQVp0b3h3TzVvVmhoUUg5OEdPamJXOEE5cHVCby1lQ2RZbDJLTS1nb1NtcDQ2SWYxOVdTTVBzQmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdXVjazAzeGJYMVZuY3d3cXVLTXlUeFkwYlc2emlsTFRodHBlajk5VHhZQ2FsME56STNMWnA3T0FKT01IYlNtaWpoNVQ4blRXc2c2T2tpdXJvMlU1dUtxMkJQbjZlM3hiLVd0Q0ljd3FUNXUyWUNLV1A1c2xsYU1kYU5WV3gtOEZpb3UtVHhWVmpPMVo2NWUyS215Uk1KcGdBdHdOV2RUaHpNZ2",
+  "date": "2026-11-18T23:00:00.000Z",
+  "fetched": "2026-11-19T00:03:13.120Z",
+  "fromCloud": "2026-11-19T0003.json"
  },
  {
   "id": "468ac0b85b577647",
@@ -6785,56 +6862,5 @@
   "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3qGJZ4RSLc7O2lsZnlk1p6wAJRRLv2VZbTemJuO09Vs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk0NjIzMzk5X2tLTjl3NVguanBn.webp\"/></div></figure><p>In her first earnings call as interim CEO, Col",
   "date": "2026-11-18T00:07:42.000Z",
   "id": "55d2267092d85446"
- },
- {
-  "source": "אנשים ומחשבים",
-  "group": "industry",
-  "title": "רבעון מצוין לאנבידיה: המנכ&#034;לית החדשה משדרת ש-&#034;העסקים כרגיל&#034;",
-  "link": "https://www.pc.co.il/featured/461688/",
-  "summary": "אנבידיה סיימה את הרבעון השלישי של השנה הכספית 2027 עם תוצאות מצוינות בהכנסות וברווחים, שהיכו את תחזיות האנליסטים &#8211; כך לפי הדו\"חות הכספיים שחברת הענק פרסמה אמש (ג'). התוצאות שלחו את מניית החברה למעלה, עם גידול של כ-4.5% במסחר המאוחר. הכנסות החברה זינקו ביותר מפי שניים לעומת ",
-  "date": "2026-11-18T00:00:52.000Z",
-  "id": "81398c4d5aea2897"
- },
- {
-  "id": "391b97d98024a0b5",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Capex in chemicals: Generating value through performance excellence",
-  "link": "https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence",
-  "summary": "With the chemicals industry, especially in Europe, under pressure from converging external challenges, capital excellence is one of the largest untapped levers to improve performance.",
-  "date": "2026-11-18T00:00:00.000Z",
-  "fetched": "2026-11-18T14:33:14.231Z",
-  "fromCloud": "2026-11-18T1433.json"
- },
- {
-  "id": "23a1de4d4f6842a3",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Watch Ferguson CFO on AI Boom, Housing Pressure and $1.6 Billion Deal - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkptRmQwVUlORDEzdWRpTGdZSV9mRE1veFNnUjVPaWJ1dkdtcEk2THdwWXQ3NmxkUGpadjhOeUdGR0ZreldtLUctMVhnaHplNDdNMWdOckRkZ0FUaEZtdTcyU2Q1dE9MajdmTmpoV0lyNW9XMGZXZWtTTUVDeGZJODZrSWg4UVRoaERlNnpxQXZseG5CR1haSmR1MDQwUVV2RXU4?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkptRmQwVUlORDEzdWRpTGdZSV9mRE1veFNnUjVPaWJ1dkdtcEk2THdwWXQ3NmxkUGpadjhOeUdGR0ZreldtLUctMVhnaHplNDdNMWdOckRkZ0FUaEZtdTcyU2Q1dE9MajdmTmpoV0lyNW9XMGZXZWtTTUVDeGZJODZrSWg4UVRoaERlNnpxQXZseG5CR1haSmR1MDQwUVV2RXU4?oc=5\" tar",
-  "date": "2026-11-18T00:00:00.000Z",
-  "fetched": "2026-11-18T15:33:12.397Z",
-  "fromCloud": "2026-11-18T1533.json"
- },
- {
-  "id": "f60b2d74d28bbb85",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Technology’s next frontier",
-  "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier",
-  "summary": "Five of the 14 trends in McKinsey’s 2026 tech trends report are on pace to attract at least twice as much investment as in 2025. What does this rapid growth mean for business and society?",
-  "date": "2026-11-18T00:00:00.000Z",
-  "fetched": "2026-11-18T16:33:12.491Z",
-  "fromCloud": "2026-11-18T1633.json"
- },
- {
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "iCloud - calcalistech.com",
-  "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83eTVTbFlSbE1tWjE4WlFMbjdybWVxTEhqeXlELVRKelQ1cS1NTlprU09qcVIzMkZYMnZyYmFfbjNNdnI0UnF5OU5HRXlFeHRVVFE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE83eTVTbFlSbE1tWjE4WlFMbjdybWVxTEhqeXlELVRKelQ1cS1NTlprU09qcVIzMkZYMnZyYmFfbjNNdnI0UnF5OU5HRXlFeHRVVFE?oc=5\" target=\"_blank\">iCloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
-  "date": "2026-11-17T23:39:30.000Z",
-  "id": "b0877d5e93d9e819"
  }
 ]
