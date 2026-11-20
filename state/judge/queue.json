@@ -99,6 +99,17 @@
   "fromCloud": "2026-11-20T0103.json"
  },
  {
+  "id": "afc7953b951858f6",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גולסבי מהפד: גם העלאת ריבית גדולה בדצמבר עדיין על השולחן - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtanFtaWxkMjk1NmtNczlZd0lsMWZ5Z3NwUU0xSXd6WmNNampwd1paVzlVSUVLNXNGNzZ2OUEyYUVRNENnb29aS2x3VHhGcHh4WFk5NnI3RzdTR3oxeU9hYl8xT2dkRV9yaGR5M0dqMlk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBtanFtaWxkMjk1NmtNczlZd0lsMWZ5Z3NwUU0xSXd6WmNNampwd1paVzlVSUVLNXNGNzZ2OUEyYUVRNENnb29aS2x3VHhGcHh4WFk5NnI3RzdTR3oxeU9hYl8xT2dkRV9yaGR5M0dqMlk?oc=5\" target=\"_blank\">גולסבי מהפד: גם העלאת ריבית גדולה בדצמבר עדיין על השולחן",
+  "date": "2026-11-20T00:38:00.000Z",
+  "fetched": "2026-11-20T03:03:15.093Z",
+  "fromCloud": "2026-11-20T0303.json"
+ },
+ {
   "id": "59d95b3c3251eb5d",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1265,6 +1276,17 @@
   "fromCloud": "2026-11-19T2103.json"
  },
  {
+  "id": "e9df5c9956035674",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Wix proposes $19 million in annual stock awards for co-CEOs after cutting 1,000 jobs - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XMzZ6TTE0STRfLTVIT1NENVRWVGxXem1CYTAwUjlYcTFocDZEcUlTUzdlNTVZZTNoZ3Rvd1gtTGdaUWFOcGlScVhlNWhPU3hqRWNPekthT1BPLUtnWkg4T2pOYS1oWXli?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XMzZ6TTE0STRfLTVIT1NENVRWVGxXem1CYTAwUjlYcTFocDZEcUlTUzdlNTVZZTNoZ3Rvd1gtTGdaUWFOcGlScVhlNWhPU3hqRWNPekthT1BPLUtnWkg4T2pOYS1oWXli?oc=5\" target=\"_blank\">Wix proposes $19 million in annual stock awards for co-CEOs after c",
+  "date": "2026-11-19T20:33:00.000Z",
+  "fetched": "2026-11-20T03:03:15.093Z",
+  "fromCloud": "2026-11-20T0303.json"
+ },
+ {
   "id": "121e6b565956720f",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1573,6 +1595,17 @@
   "fromCloud": "2026-11-19T2003.json"
  },
  {
+  "id": "255ad8247d9671db",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "הונאת ענק ברשת: כתב אישום הוגש נגד שני חשודים שהתחזו לבנקים - JDN",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUd1ZPek9zQmdLLVNVamVyanNudTZJMHhJRXlrYXJWbk5WQ0JmTnZSSkNHbGZ6c3lody1MbkowTFVHc2ZOcEUxdmN4MA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUd1ZPek9zQmdLLVNVamVyanNudTZJMHhJRXlrYXJWbk5WQ0JmTnZSSkNHbGZ6c3lody1MbkowTFVHc2ZOcEUxdmN4MA?oc=5\" target=\"_blank\">הונאת ענק ברשת: כתב אישום הוגש נגד שני חשודים שהתחזו לבנקים</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JDN</fon",
+  "date": "2026-11-19T19:34:01.000Z",
+  "fetched": "2026-11-20T03:03:15.093Z",
+  "fromCloud": "2026-11-20T0303.json"
+ },
+ {
   "id": "7ba257b47416d74b",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -1659,6 +1692,17 @@
   "date": "2026-11-19T19:21:06.000Z",
   "fetched": "2026-11-19T19:33:11.971Z",
   "fromCloud": "2026-11-19T1933.json"
+ },
+ {
+  "id": "f7ffa6cc3eb26900",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "The Xi, Trump, Putin meeting and the dawn of a post-western world",
+  "link": "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1",
+  "summary": "The symbolism was the substance in Shenzhen",
+  "date": "2026-11-19T19:19:44.000Z",
+  "fetched": "2026-11-20T03:03:15.093Z",
+  "fromCloud": "2026-11-20T0303.json"
  },
  {
   "id": "bd5af78c7a7d2966",
