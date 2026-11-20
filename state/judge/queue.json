@@ -1,5 +1,49 @@
 [
  {
+  "id": "05be93f7037ead3e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000066/0001803498-26-000066-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001803498-26-000066 <b>Size:</b> 164 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events",
+  "date": "2026-11-20T12:30:25.000Z",
+  "fetched": "2026-11-20T12:33:21.351Z",
+  "fromCloud": "2026-11-20T1233.json"
+ },
+ {
+  "id": "37912d751404922f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Vanda Pharmaceuticals Inc. (0001347178) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026075166/0001628280-26-075166-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001628280-26-075166 <b>Size:</b> 152 KB <br>Item 1.01: Entry into a Material Definitive Agreement",
+  "date": "2026-11-20T12:05:49.000Z",
+  "fetched": "2026-11-20T12:33:21.351Z",
+  "fromCloud": "2026-11-20T1233.json"
+ },
+ {
+  "id": "5d8d9ed8d6379506",
+  "source": "AV Network",
+  "group": "industry",
+  "title": "On Audio & AI: Jabra",
+  "link": "https://www.avnetwork.com/news/on-audio-and-ai-jabra",
+  "summary": "Peter Hartmann, Head of Personal Audio Innovation and AI Experiences at Jabra, shares insights and trends on audio developments and how AI integration impacts workplace experiences across enterprise, higher ed, and related markets.",
+  "date": "2026-11-20T12:05:49.000Z",
+  "fetched": "2026-11-20T12:33:21.351Z",
+  "fromCloud": "2026-11-20T1233.json"
+ },
+ {
+  "id": "56880aa47234b65c",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "How Anthropic’s blockbuster IPO came together",
+  "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+  "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+  "date": "2026-11-20T12:02:46.000Z",
+  "fetched": "2026-11-20T12:33:21.351Z",
+  "fromCloud": "2026-11-20T1233.json"
+ },
+ {
   "id": "bd30b9abee34ed9a",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -7058,39 +7102,6 @@
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2tLcWdfeHVqd2d0NVR0QUdZanFXR3pxdkZzVkZKT29oZmREOHYxbmxXcVJOTXVRV1RmeEJnUTJtT3Q3b2ZZdnVZT3lrTndRaWJMc093LWF4MjdocUVnekFicDZMY2JVclpTcG9sTTdHeWhvMWdNMExpNngzV3JXUUFZbVlScDVvOG5TLV9yZ2txS3YyM0pPdzNIZHNOTXlIOXVZdU5aeW84VUpnTU1RNWRXUQ?oc=5",
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2tLcWdfeHVqd2d0NVR0QUdZanFXR3pxdkZzVkZKT29oZmREOHYxbmxXcVJOTXVRV1RmeEJnUTJtT3Q3b2ZZdnVZT3lrTndRaWJMc093LWF4MjdocUVnekFicDZMY2JVclpTcG9sTTdHeWhvMWdNMExpNngzV3JXUUFZbVlScDVvOG5TLV9yZ2txS3YyM0pPdzNIZHNOTXlIOXVZdU5aeW84VU",
   "date": "2026-11-19T12:36:26.000Z",
-  "fetched": "2026-11-19T20:03:30.723Z",
-  "fromCloud": "2026-11-19T2003.json"
- },
- {
-  "id": "b8630d6b5c8f6368",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "מחקר מדאיג: מאות אלפי ישראלים עלולים לאבד את עבודתם ל- AI - ice (אייס)",
-  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KVHF2elBWY3pGN3dubkJ6MmtTVC1tVXRicTNRRnA4VGI0THpjTVd4cEFBX3F3V2xJWWJIZlh0SExoLXB6emc5dlU4UUJsNmFRdGxOaFVNUDVOVmVyenc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KVHF2elBWY3pGN3dubkJ6MmtTVC1tVXRicTNRRnA4VGI0THpjTVd4cEFBX3F3V2xJWWJIZlh0SExoLXB6emc5dlU4UUJsNmFRdGxOaFVNUDVOVmVyenc?oc=5\" target=\"_blank\">מחקר מדאיג: מאות אלפי ישראלים עלולים לאבד את עבודתם ל- AI</a>&nbsp;&nbsp;<font c",
-  "date": "2026-11-19T12:23:31.000Z",
-  "fetched": "2026-11-19T21:33:29.058Z",
-  "fromCloud": "2026-11-19T2133.json"
- },
- {
-  "id": "c593e28d0b138460",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "\"רוקי\" - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PdlByaWlvTjNoSjdZenVLaXRqTEFLZFJUdVZEa21VRkVtaWE0N1g2N3gyUXhQOFBEY1E0UVZPYTdQVHZxdU5aNXk3enY5a05HZndzWlZwN05PUzZKUWJkd1hqMHhFTWRiQlNJMU1YSmo?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9PdlByaWlvTjNoSjdZenVLaXRqTEFLZFJUdVZEa21VRkVtaWE0N1g2N3gyUXhQOFBEY1E0UVZPYTdQVHZxdU5aNXk3enY5a05HZndzWlZwN05PUzZKUWJkd1hqMHhFTWRiQlNJMU1YSmo?oc=5\" target=\"_blank\">\"רוקי\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">כלכליסט</fon",
-  "date": "2026-11-19T12:10:36.000Z",
-  "fetched": "2026-11-19T20:03:30.723Z",
-  "fromCloud": "2026-11-19T2003.json"
- },
- {
-  "id": "49e765268b23a565",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "\"אני רוקי\" - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWlGNnM4NGRSV2ZtR1UyTjJ3WjJUZnFaZHQ5WEE4NjB5SlN5WGFjeE1rdWZfZmVGUjQ1Q0RnSWxxSjlUclR4ZWRvTXowNXNsd2ZYNUIxdzZMRTVDZm5haW1URjdiYS1FQ1dGZFVYMTNMOEZWWUJBNkdjWndqRXIwVkhaekRVZkVLOGc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWlGNnM4NGRSV2ZtR1UyTjJ3WjJUZnFaZHQ5WEE4NjB5SlN5WGFjeE1rdWZfZmVGUjQ1Q0RnSWxxSjlUclR4ZWRvTXowNXNsd2ZYNUIxdzZMRTVDZm5haW1URjdiYS1FQ1dGZFVYMTNMOEZWWUJBNkdjWndqRXIwVkhaekRVZkVLOGc?oc=5\" target=\"_blank\">\"אני רוקי\"</a>&nbsp;",
-  "date": "2026-11-19T12:10:33.000Z",
   "fetched": "2026-11-19T20:03:30.723Z",
   "fromCloud": "2026-11-19T2003.json"
  }
