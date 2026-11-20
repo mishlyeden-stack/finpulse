@@ -1,5 +1,82 @@
 [
  {
+  "id": "045d2de1065df1f9",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - SIEBERT FINANCIAL CORP (0000065596) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/65596/000121390026122605/0001213900-26-122605-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001213900-26-122605 <b>Size:</b> 200 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
+  "date": "2026-11-20T19:00:24.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
+  "id": "ff625344de59c198",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PayPal names Xero’s Claire Bramley as CFO, succeeding Jamie Miller - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82SHdGZnAxRXgzbGVOdXpMSjlBUUNCek5oNzAxdU9aUGVyRElVbUgzUnprRklDZVJTcUIyQUo2Tkpzd3ZJUWJJVHp2RGZ1SzRYZ1ZKSGhwQVdMUnpibWlYNVgxbC10TXhMX0dj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE82SHdGZnAxRXgzbGVOdXpMSjlBUUNCek5oNzAxdU9aUGVyRElVbUgzUnprRklDZVJTcUIyQUo2Tkpzd3ZJUWJJVHp2RGZ1SzRYZ1ZKSGhwQVdMUnpibWlYNVgxbC10TXhMX0dj?oc=5\" target=\"_blank\">PayPal names Xero’s Claire Bramley as CFO, succeeding Jamie Mil",
+  "date": "2026-11-20T18:56:01.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
+  "id": "d9ab48bf4d576661",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "חובות של 225 מיליון שקל ומעילה: הבנקים מבקשים להכניס את שינטרקו לחדלות פירעון - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXE4dVptTzhac0tJRTJpMmwwUkI2T2VtWE42N3ExSFZUZHZyOU1sTTI5WW5OR3dQZkxsMmZwc0hacTQ1bDh3TlNmVTFUajgwVDU3ZVdOYjdrcHlsT3FTNm5nb1BFa2V3OXJjQ05GV1VnX000eXpiSjgwS0xEVkRZRUpHWE12S1JNbXFKd2xaQ2NHaE5HVVM3eXpVQkZHMkVM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXE4dVptTzhac0tJRTJpMmwwUkI2T2VtWE42N3ExSFZUZHZyOU1sTTI5WW5OR3dQZkxsMmZwc0hacTQ1bDh3TlNmVTFUajgwVDU3ZVdOYjdrcHlsT3FTNm5nb1BFa2V3OXJjQ05GV1VnX000eXpiSjgwS0xEVkRZRUpHWE12S1JNbXFKd2xaQ2NHaE5HVVM3eXpVQkZHMkVM?oc=5\" target=",
+  "date": "2026-11-20T18:56:00.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
+  "id": "0b691239a70b5ead",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Burnham started the Brexit debate. He now sees the political dangers ahead",
+  "link": "https://www.ft.com/content/e90b4b48-ab43-4678-9f68-f571a77f0a64?syn-25a6b1a6=1",
+  "summary": "British premier is recognising perilous nature of doing deals with an EU that holds most of the cards",
+  "date": "2026-11-20T18:51:09.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
+  "id": "2d6393808c5c30a5",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Benchmark 2026-B44 Mortgage Trust (0002160315) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2160315/000153949726003061/0001539497-26-003061-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001539497-26-003061 <b>Size:</b> 65 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-20T18:44:24.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
+  "id": "20ad53d0995555ee",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Scheme Effective and Completion of the Acquisition - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUV9pUlpac0ZqOUJyTnJGWTF0QWU1aGNYSi00Slc0QmxNVFB6bVdYT0ZLNksyVGk0UlpqX3FkLWJZOVhDeXh0bnBxcFItNFFtT2hGbjV6Y24yTXgzVmU1ZEQ2ajNBdnZoX19wYk5xU0xmQTF4LUtncnFqaGFMa0FGdUxFaENURlduVGNMVDdGaFNKQ0x4Z3YweEQ4VXc1cmkwU0xweF95aUxvMkVoSWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNUV9pUlpac0ZqOUJyTnJGWTF0QWU1aGNYSi00Slc0QmxNVFB6bVdYT0ZLNksyVGk0UlpqX3FkLWJZOVhDeXh0bnBxcFItNFFtT2hGbjV6Y24yTXgzVmU1ZEQ2ajNBdnZoX19wYk5xU0xmQTF4LUtncnFqaGFMa0FGdUxFaENURlduVGNMVDdGaFNKQ0x4Z3YweEQ4VXc1cmkwU0xweF95aUxvMk",
+  "date": "2026-11-20T18:39:07.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
+  "id": "018f872dc5d34ca0",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "השפלות פומביות, איומים והערות על כסף: כך השפיל ג'נסן הואנג עובדים באנבידיה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hRWlRVFBtUlhINE4xbWhmUzhTc1ZrT1BGREJ5eEtxOVBqZEtQbXBSeXZKc0VvX3RRU2hJWHdrdXhkMkhMY19lc0tBdnNYRXREeENkS0tCdm4wUkJ5Vm5NbmhVU1o5eXNMZzJz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hRWlRVFBtUlhINE4xbWhmUzhTc1ZrT1BGREJ5eEtxOVBqZEtQbXBSeXZKc0VvX3RRU2hJWHdrdXhkMkhMY19lc0tBdnNYRXREeENkS0tCdm4wUkJ5Vm5NbmhVU1o5eXNMZzJz?oc=5\" target=\"_blank\">השפלות פומביות, איומים והערות על כסף: כך השפיל ג'נסן הואנג עובד",
+  "date": "2026-11-20T18:39:00.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
   "id": "aad2eefb28218103",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -53,6 +130,17 @@
   "date": "2026-11-20T17:53:41.000Z",
   "fetched": "2026-11-20T18:03:25.869Z",
   "fromCloud": "2026-11-20T1803.json"
+ },
+ {
+  "id": "032cc3f5347d3f8e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מניית אנתרופיק נוגעת במחיר ההנפקה, והגידור צפוי לעלות ביוקר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ja1pleHJDSVFndDBvd3NCRjNsdkxFTXVzdTNDdVJCRElFaFpUTS1xRk1DR0drbC1IUHBrVWgxUjQzWnJBVHlkUjV5dmxYelJINGxnLVoxVG1OWDUtUktRblFOSkNFamo2MDM5Rw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ja1pleHJDSVFndDBvd3NCRjNsdkxFTXVzdTNDdVJCRElFaFpUTS1xRk1DR0drbC1IUHBrVWgxUjQzWnJBVHlkUjV5dmxYelJINGxnLVoxVG1OWDUtUktRblFOSkNFamo2MDM5Rw?oc=5\" target=\"_blank\">מניית אנתרופיק נוגעת במחיר ההנפקה, והגידור צפוי לעלות ביוקר</",
+  "date": "2026-11-20T17:50:00.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
  },
  {
   "id": "caafe534efef579d",
@@ -176,6 +264,17 @@
   "fromCloud": "2026-11-20T1733.json"
  },
  {
+  "id": "ff1054c75e1348d5",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בניית מרכזי נתונים בארה\"ב התייקרה ב-13% השנה, והחשמל תוקע פרויקטים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NejBrTHUxQWhDY1pBdld5a3dYeVpqUkdVUVRQUWFaLWExNjZsWVV4MGNZRTZaYjhSdmlzbXhJMFpaaVc4VUJ4LTVvSVcxSzlhZGUxSVhteU82MVpCdXQ4R19PVmY3MlprVkVfeQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1NejBrTHUxQWhDY1pBdld5a3dYeVpqUkdVUVRQUWFaLWExNjZsWVV4MGNZRTZaYjhSdmlzbXhJMFpaaVc4VUJ4LTVvSVcxSzlhZGUxSVhteU82MVpCdXQ4R19PVmY3MlprVkVfeQ?oc=5\" target=\"_blank\">בניית מרכזי נתונים בארה\"ב התייקרה ב-13% השנה, והחשמל תוקע פרו",
+  "date": "2026-11-20T17:21:00.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
   "id": "589a3bf157954ea4",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -207,6 +306,17 @@
   "date": "2026-11-20T17:14:00.000Z",
   "fetched": "2026-11-20T17:33:12.353Z",
   "fromCloud": "2026-11-20T1733.json"
+ },
+ {
+  "id": "ef5313f229a6040e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Adtran Holdings, Inc.: Thomas R. Stanton, Acquisition of 135,186 shares in ADTRAN Holdings, Inc. (ISIN US00486H1059) due to the settlement of 225,774.593 phantom shares under the Employee Equity ... - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOMWl4ang1M0h2WENONE1RTTd3WXVNSGE2V0cxTGllWHZXcmt3eHNTM2R6bkM4VDhuNnZFN1F4X2l2Q2gyTGxDbHE3Z1dpR0NMT2c3dThfb0NKV09HUkJQV2RPMEE3Rms5amItOExGcnpOS2t0U2VoRzdtRHhQSl94SUlCdElpd1IzN1lrQkYzV0VsTHFjck8xVTJNTDJfWDJYVmlXRDByeHZma2RsTjlLY1hXbzVnNFR3cE0tbGl1M2ZsM2VwWjBsWUY3QzNDWnBWbkg5UFZneWR2X0lUS01tTEExVHB6N2NRY01faUtyVzBrSWN2SXlHMFlJTHA5Tmd2WlRRYUFsMWZzd0ozUG1ibDhXajBZZl9pT1hYVkwxcXNfZ09hZlBTZXVBYm56WnhaUWI1cVhSRXdYM09vbUxfMWtNQm02emRVZDlxTkdtdWZQUUp3Y1VBWVRqWQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxOMWl4ang1M0h2WENONE1RTTd3WXVNSGE2V0cxTGllWHZXcmt3eHNTM2R6bkM4VDhuNnZFN1F4X2l2Q2gyTGxDbHE3Z1dpR0NMT2c3dThfb0NKV09HUkJQV2RPMEE3Rms5amItOExGcnpOS2t0U2VoRzdtRHhQSl94SUlCdElpd1IzN1lrQkYzV0VsTHFjck8xVTJNTDJfWDJYVmlXRDByeHZma2",
+  "date": "2026-11-20T17:12:21.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
  },
  {
   "id": "712dcd1541e71e6b",
@@ -1001,6 +1111,17 @@
   "fromCloud": "2026-11-20T1503.json"
  },
  {
+  "id": "999ead47e583f60d",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "נסיגה קלה נוספת בדולר, נסחר מתחת ל-2.95 שקלים; \"חלון הזדמנויות לבנק ישראל\" - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ydmYzaUh6WE1HTnZwVi1Ycjh2Z1dzR1FGZV9ia3RvNnpfdVZOa0F4bGFvTE1VTFNYVDdac05OTnRoUHJBM2UwZkZlSTY4QmtZbTdHc25MQmJfVGNrSDdZOEhjMXRlWFM3OVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0ydmYzaUh6WE1HTnZwVi1Ycjh2Z1dzR1FGZV9ia3RvNnpfdVZOa0F4bGFvTE1VTFNYVDdac05OTnRoUHJBM2UwZkZlSTY4QmtZbTdHc25MQmJfVGNrSDdZOEhjMXRlWFM3OVE?oc=5\" target=\"_blank\">נסיגה קלה נוספת בדולר, נסחר מתחת ל-2.95 שקלים; \"חלון הזדמנויות ל",
+  "date": "2026-11-20T14:39:45.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
   "id": "cfc7c0988ebcc422",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1230,6 +1351,17 @@
   "date": "2026-11-20T14:05:41.000Z",
   "fetched": "2026-11-20T14:33:19.334Z",
   "fromCloud": "2026-11-20T1433.json"
+ },
+ {
+  "id": "f3a077dadc229972",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "France’s de Villepin launches presidential bid in crowded race",
+  "link": "https://www.ft.com/content/71d49bc4-76df-4f0b-bb49-5db49b77aceb?syn-25a6b1a6=1",
+  "summary": "Growing number of candidacies in centre of France’s political spectrum heaps uncertainty on crucial 2027 election as Le Pen leads polls",
+  "date": "2026-11-20T14:03:35.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
  },
  {
   "id": "ca1b4ecb67a75764",
@@ -1925,6 +2057,17 @@
   "fromCloud": "2026-11-20T1303.json"
  },
  {
+  "id": "851035965ba2edb9",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מאסק: ספייסX תכננה תחנה סלולרית זעירה לגג, כדי לסגור אזורים בלי קליטה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rT1Z6d3ZhakxYa3BMZ1VaT3cxZU9SejlLeDhCb0xsakRFNkNndHFYYlotcHBpVnVZUHNrem1hX2dJclM1UmNKbHljdGFHa0JybWhqRWdBcHNCSDhrZFpaZ1JSYjhLaUNM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rT1Z6d3ZhakxYa3BMZ1VaT3cxZU9SejlLeDhCb0xsakRFNkNndHFYYlotcHBpVnVZUHNrem1hX2dJclM1UmNKbHljdGFHa0JybWhqRWdBcHNCSDhrZFpaZ1JSYjhLaUNM?oc=5\" target=\"_blank\">מאסק: ספייסX תכננה תחנה סלולרית זעירה לגג, כדי לסגור אזורים בלי קלי",
+  "date": "2026-11-20T12:51:00.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
   "id": "a9da23c30b7b60a5",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1934,6 +2077,17 @@
   "date": "2026-11-20T12:50:32.000Z",
   "fetched": "2026-11-20T13:03:11.820Z",
   "fromCloud": "2026-11-20T1303.json"
+ },
+ {
+  "id": "6538c780d7a1d942",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מטה קרן העושר הסעודית נפגע בטיל חות'י: ברנט עולה 0.6%, והבורסה בריאד תיבחן ביום ראשון - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YQ2hsMlNzYnJqUmszNEhKVkwtYWh3T3UySlNhWG8zVm95SE9sQVBGX3BhNHJHTk45SFZJZE52UlcwSHNwYlQtUDRwNDRmUndBRzBGYlRlbVdxTjVvZGNjUkd5WkY2SlZmY0lHc2tKNWI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9YQ2hsMlNzYnJqUmszNEhKVkwtYWh3T3UySlNhWG8zVm95SE9sQVBGX3BhNHJHTk45SFZJZE52UlcwSHNwYlQtUDRwNDRmUndBRzBGYlRlbVdxTjVvZGNjUkd5WkY2SlZmY0lHc2tKNWI?oc=5\" target=\"_blank\">מטה קרן העושר הסעודית נפגע בטיל חות'י: ברנט עולה 0.6%, ו",
+  "date": "2026-11-20T12:50:00.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
  },
  {
   "id": "e0df5b2338bbe9e8",
@@ -2176,6 +2330,17 @@
   "date": "2026-11-20T12:30:25.000Z",
   "fetched": "2026-11-20T12:33:21.351Z",
   "fromCloud": "2026-11-20T1233.json"
+ },
+ {
+  "id": "e5686086cbeb9b5c",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סתיו חם מדי לגאפ: התחזית קוצצה, והמשקיעים מסתכלים על אולד נייבי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWU5CVnFYU19kY2hyZFhBaUhyWXVyNGE0VnBJNURMUGxKOVgzbEkwUDQtM0JhMGFGaW9YYW1lY2Rsc3BLZUFDZmhXNXc4cmd6M0d1ZzRYUkNQdzk0Ynh1SW5famt0U1dwMmduaXcyZ20?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWU5CVnFYU19kY2hyZFhBaUhyWXVyNGE0VnBJNURMUGxKOVgzbEkwUDQtM0JhMGFGaW9YYW1lY2Rsc3BLZUFDZmhXNXc4cmd6M0d1ZzRYUkNQdzk0Ynh1SW5famt0U1dwMmduaXcyZ20?oc=5\" target=\"_blank\">סתיו חם מדי לגאפ: התחזית קוצצה, והמשקיעים מסתכלים על אול",
+  "date": "2026-11-20T12:30:00.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
  },
  {
   "id": "d64a3ee3adcb1728",
@@ -5071,6 +5236,17 @@
   "fromCloud": "2026-11-20T0403.json"
  },
  {
+  "id": "8fc219d2ffec9733",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שוק ההון כתבות נוספות - עמוד 4035 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DX0N5dnlQdDV2bU1BVFdXTURYQkQtNnZWT0hrZHJGcGRvTHUyY3BwWXZoZlZ4SFhrRFlJRFE4Y2FHX1FqMGRSOUc4bktsRTFITHFRcW1WTEYwTTYzWU1NNm4weTNkaVE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DX0N5dnlQdDV2bU1BVFdXTURYQkQtNnZWT0hrZHJGcGRvTHUyY3BwWXZoZlZ4SFhrRFlJRFE4Y2FHX1FqMGRSOUc4bktsRTFITHFRcW1WTEYwTTYzWU1NNm4weTNkaVE?oc=5\" target=\"_blank\">שוק ההון כתבות נוספות - עמוד 4035</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+  "date": "2026-11-20T03:18:08.000Z",
+  "fetched": "2026-11-20T19:03:12.132Z",
+  "fromCloud": "2026-11-20T1903.json"
+ },
+ {
   "id": "516c5fdca9fce0f5",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -7247,170 +7423,5 @@
   "date": "2026-11-19T19:06:28.000Z",
   "fetched": "2026-11-19T19:33:11.971Z",
   "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "0a735fe1e4965669",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "קוקה-קולה זינקה ב-40% השנה - ונסחרת בתמחור גבוה מזה של ענקיות הטכנולוגיה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92c3ZUcENyenBlZ1BjVTF6YmVJY3FLZ3BfRnZtZms4dUI5aWN4RGY2aHNvUzN0dlJhbnFPNGVEU0ZfM3lpTkZxbGhQVHprNUZQeFBCckV2d0k3RUllSXRaa3VLWjFkRVBoM2hwZUJNV2I?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE92c3ZUcENyenBlZ1BjVTF6YmVJY3FLZ3BfRnZtZms4dUI5aWN4RGY2aHNvUzN0dlJhbnFPNGVEU0ZfM3lpTkZxbGhQVHprNUZQeFBCckV2d0k3RUllSXRaa3VLWjFkRVBoM2hwZUJNV2I?oc=5\" target=\"_blank\">קוקה-קולה זינקה ב-40% השנה - ונסחרת בתמחור גבוה מזה של ע",
-  "date": "2026-11-19T19:02:00.000Z",
-  "fetched": "2026-11-19T22:33:11.902Z",
-  "fromCloud": "2026-11-19T2233.json"
- },
- {
-  "id": "2771e371ce9c4f0e",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "אלגוריתם של חרדה: כך עובד המנגנון הכלכלי שמזין את תעשיית שמועות המלחמה",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001564218#utm_source=RSS",
-  "summary": "מאז 7 באוקטובר מציפות את הרשתות שמועות על מתקפות, גיוסי מילואים וקריסת מערכות הגנה &#8226; מאחורי רבות מהן עומד מודל עסקי שממיר חרדה לטראפיק ולהכנסות מפרסום, ומתגמל את מי שמצליחים לייצר את הבהלה הגדולה ביותר &#8226; מי מפעיל את המכונה הזו, איך היא עובדת ומדוע כל כך קשה לעצור אותה",
-  "date": "2026-11-19T19:00:00.000Z",
-  "fetched": "2026-11-19T19:03:12.626Z",
-  "fromCloud": "2026-11-19T1903.json"
- },
- {
-  "id": "45d316e744da252f",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "בעקבות תלונה על גוף זר מתכתי במוצר בודד: קבוצת יבנה קוראת להחזרת מלפפונים במלח - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tVEdMT29WaEZKZDk1aWViUkJqMjFuWGxqR2ZHUVBORnpLSlk2Mjk3MlJNRkhnMHZZWmc4bjZXVlBsR3pGN0R5TGJxY2RLRzh4d1RMYmc4eDdPWmttZXVEcEg0Tldjdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tVEdMT29WaEZKZDk1aWViUkJqMjFuWGxqR2ZHUVBORnpLSlk2Mjk3MlJNRkhnMHZZWmc4bjZXVlBsR3pGN0R5TGJxY2RLRzh4d1RMYmc4eDdPWmttZXVEcEg0Tldjdw?oc=5\" target=\"_blank\">בעקבות תלונה על גוף זר מתכתי במוצר בודד: קבוצת יבנה קוראת להחזרת מלפפ",
-  "date": "2026-11-19T18:59:00.000Z",
-  "fetched": "2026-11-19T19:03:12.626Z",
-  "fromCloud": "2026-11-19T1903.json"
- },
- {
-  "id": "8a2a6d6343092cf9",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Walker & Dunlop Arranges $270M Refinancing for Nasser Freres’ The Greyson in Jersey City - Yield PRO",
-  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42TmhWcDFxMUw4TzNZWDUxekFzWTZxenpZMHZzQ0pyWnM3RjVyU2F1V3dna1k1Y1EtR1ZjNVJGV1F6RFFUOG5BdUJJT1JkLW5odkhneWNB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE42TmhWcDFxMUw4TzNZWDUxekFzWTZxenpZMHZzQ0pyWnM3RjVyU2F1V3dna1k1Y1EtR1ZjNVJGV1F6RFFUOG5BdUJJT1JkLW5odkhneWNB?oc=5\" target=\"_blank\">Walker & Dunlop Arranges $270M Refinancing for Nasser Freres’ The Greyson in Jersey City</a",
-  "date": "2026-11-19T18:55:27.000Z",
-  "fetched": "2026-11-19T19:33:11.971Z",
-  "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "371c0c021781952c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Indiana Senate Democrats on BlackRock’s Acquisition of AES: Hoosiers Cannot Afford to Foot the Bill for Wall Street - Indiana Senate Democrats",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdk1jaHA2UEF4WmdWaUVVYml3dVpJU0VoVUplcEh5T0loM29lSFVrYjB2WjJyTUg4VjBTVDdZT3pBa2tiWFV2bUpyeDZvcmQwTlJaSHEyeG1VOWx6RURpbjVwel9CeTdXV1B1cFJSZGg2Y3lYTUxvNUxUanV2RWRjNFBzSFg4TmZURDdTd0E5VzVtbFBXQnNyUkUzVmd0bmtHeUwyX1EyWHFrNlFqTFN3YzQwaXNuMi1zRE16YWVXNFpSVFFsbzdPR2g1STRkRDQ1V3o5UlMzWFNoaVFNUHMtY3Q4aw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdk1jaHA2UEF4WmdWaUVVYml3dVpJU0VoVUplcEh5T0loM29lSFVrYjB2WjJyTUg4VjBTVDdZT3pBa2tiWFV2bUpyeDZvcmQwTlJaSHEyeG1VOWx6RURpbjVwel9CeTdXV1B1cFJSZGg2Y3lYTUxvNUxUanV2RWRjNFBzSFg4TmZURDdTd0E5VzVtbFBXQnNyUkUzVmd0bmtHeUwyX1EyWHFrNl",
-  "date": "2026-11-19T18:53:18.000Z",
-  "fetched": "2026-11-20T02:03:17.699Z",
-  "fromCloud": "2026-11-20T0203.json"
- },
- {
-  "id": "ebefe5c54f499601",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Chicago Ald. Conway on CFO resignation, independent audit of city’s finances - WBEZ Chicago",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWZPNm4yTXBhbVFLTGNVWkxMbEJ5OFhsSWRtMnBMYnEwQnB3d0FnOW9QMm00VW1HQjdFREgwVnIyWHZXeFBKVnY0TlBQTjlsOGNCQ3FLZlJLWU45enozd052UHVTb1AzR3hPN1V0QTlVSkpqeVVrMW1CMzZqemV3Zzdod0s5NmxzS19Md2Q3VmZycDVyRnJfeGZkVjNCenZQaUZjT3pEOEVvZHNBbGdEN0NET083SHNj?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWZPNm4yTXBhbVFLTGNVWkxMbEJ5OFhsSWRtMnBMYnEwQnB3d0FnOW9QMm00VW1HQjdFREgwVnIyWHZXeFBKVnY0TlBQTjlsOGNCQ3FLZlJLWU45enozd052UHVTb1AzR3hPN1V0QTlVSkpqeVVrMW1CMzZqemV3Zzdod0s5NmxzS19Md2Q3VmZycDVyRnJfeGZkVjNCenZQaUZjT3pEOEVvZH",
-  "date": "2026-11-19T18:52:00.000Z",
-  "fetched": "2026-11-19T19:03:12.626Z",
-  "fromCloud": "2026-11-19T1903.json"
- },
- {
-  "id": "423a2e4b95fe6d3b",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Benchmark 2026-V23 Mortgage Trust (0002148615) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2148615/000153949726003043/0001539497-26-003043-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001539497-26-003043 <b>Size:</b> 5 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T18:51:38.000Z",
-  "fetched": "2026-11-19T19:33:11.971Z",
-  "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "3153e1c07dab59ef",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "נטאיז צונחת בכ-9% לשפל שנתי: ההכנסות והרווח החמיצו את התחזיות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92Uk55MXZRU0NyMlpscjhmdHpRRllEN3VlZGFiZkw1RDFoTW5nMDRMZTltQVBmQXdOMW5idTVEcXkzdm5mYmh6UHVHX3Z5akxDTVhsNUYzY0FfYmFKZFBZSkI3LUtOUUVieGNxUHZhSjc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE92Uk55MXZRU0NyMlpscjhmdHpRRllEN3VlZGFiZkw1RDFoTW5nMDRMZTltQVBmQXdOMW5idTVEcXkzdm5mYmh6UHVHX3Z5akxDTVhsNUYzY0FfYmFKZFBZSkI3LUtOUUVieGNxUHZhSjc?oc=5\" target=\"_blank\">נטאיז צונחת בכ-9% לשפל שנתי: ההכנסות והרווח החמיצו את הת",
-  "date": "2026-11-19T18:47:00.000Z",
-  "fetched": "2026-11-19T19:03:12.626Z",
-  "fromCloud": "2026-11-19T1903.json"
- },
- {
-  "id": "3cba9d08ccbb7afb",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "ריקול למלפפונים במלח: גוף זר מתכתי",
-  "link": "https://www.ynet.co.il/economy/article/bj00omp3rfl",
-  "summary": "ההודעה פורסמה בעקבות תלונה על גוף זר מתכתי באחד המוצרים. מדובר במלפפונים מבלח 9-7 גדול",
-  "date": "2026-11-19T18:45:58.000Z",
-  "fetched": "2026-11-19T19:03:12.626Z",
-  "fromCloud": "2026-11-19T1903.json"
- },
- {
-  "id": "27f09c3106bc0ace",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "UBI: Q2 beat guidance, but H1 cash burn and refinancing remain key alongside the FY2028 recovery plan - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcUpkdUpaQWx2R2xiRloxZ0ZmN0VvbTNKTTBrT3hLLUtra194dEROSzVHQi02R1lMLWloNjZ4SmFKSVZmdnc4bTdIUmw0ZFZDcHc3VjE2MUs4S2hnTWlTM0xzZDkyY2RqTlctN2tFUklud3FCVW15OU5sdEI5cnpXZjlnMTFoZ2NRSGp6ZWJldVMwZHJhUUN4eDlHQkh1VGRFX2dtNmhnWWpqSDJYRlJ5U3hpWUFfdWFZc09OdGN3UXNCUV85MnFrVGFRaHAwOXBOS0dlN3d3SVYxQWpxRTAwSjJCa3otemd1bVdDSDBxellNUGJNREhsZnVPSjg3azJyVzE4cVFHdldMRVU3eGpOQ0lBU18?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQcUpkdUpaQWx2R2xiRloxZ0ZmN0VvbTNKTTBrT3hLLUtra194dEROSzVHQi02R1lMLWloNjZ4SmFKSVZmdnc4bTdIUmw0ZFZDcHc3VjE2MUs4S2hnTWlTM0xzZDkyY2RqTlctN2tFUklud3FCVW15OU5sdEI5cnpXZjlnMTFoZ2NRSGp6ZWJldVMwZHJhUUN4eDlHQkh1VGRFX2dtNmhnWWpqSD",
-  "date": "2026-11-19T18:43:15.000Z",
-  "fetched": "2026-11-19T19:33:11.971Z",
-  "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "147d8df6138f36e7",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "בדרך לבג\"ץ: עתירות נגד חוקיות ישיבת המל\"ג שהתקיימה ללא קוורום - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bnV6c2U3MFB1bDdCbnROSE9IWUdDTUNVTTdwRV9zTmJoc2pKOG5na0haN1ROSFdqcFBOVTV1eF94TVRzVGN3WXY3Nm55Z3ZyT18yNUktdXBUOERMMlhpQkZjWjZVU2g0?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE92bnV6c2U3MFB1bDdCbnROSE9IWUdDTUNVTTdwRV9zTmJoc2pKOG5na0haN1ROSFdqcFBOVTV1eF94TVRzVGN3WXY3Nm55Z3ZyT18yNUktdXBUOERMMlhpQkZjWjZVU2g0?oc=5\" target=\"_blank\">בדרך לבג\"ץ: עתירות נגד חוקיות ישיבת המל\"ג שהתקיימה ללא קוורום</a>&n",
-  "date": "2026-11-19T18:42:00.000Z",
-  "fetched": "2026-11-19T19:03:12.626Z",
-  "fromCloud": "2026-11-19T1903.json"
- },
- {
-  "id": "4fcd6ac84d19314d",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "AMD shares fall after short seller report on China links",
-  "link": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
-  "summary": "Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal",
-  "date": "2026-11-19T18:40:23.000Z",
-  "fetched": "2026-11-19T19:03:12.626Z",
-  "fromCloud": "2026-11-19T1903.json"
- },
- {
-  "id": "d84e6f6b44c61e19",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "שיעור האבטלה באוקטובר עלה ל-3.1%, ואחוז הנעדרים מהעבודה בגלל מילואים יותר מהוכפל - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjYk5mWlNXbkEyanV4ZVJ3YXZ2cWVROFdjOVZWODFvRDZsWWlacEVvd3RobGpQZ2NrX2g4LWhCNVBUVGNSNUtTdk1ZNExPZnNvZHZBQ1UzOGhueERMdjlJaTZ1ZXJpTmJH?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjYk5mWlNXbkEyanV4ZVJ3YXZ2cWVROFdjOVZWODFvRDZsWWlacEVvd3RobGpQZ2NrX2g4LWhCNVBUVGNSNUtTdk1ZNExPZnNvZHZBQ1UzOGhueERMdjlJaTZ1ZXJpTmJH?oc=5\" target=\"_blank\">שיעור האבטלה באוקטובר עלה ל-3.1%, ואחוז הנעדרים מהעבודה בגלל מילואי",
-  "date": "2026-11-19T18:35:00.000Z",
-  "fetched": "2026-11-20T09:03:11.981Z",
-  "fromCloud": "2026-11-20T0903.json"
- },
- {
-  "id": "6e168cf7f4c5b3a4",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - MacKenzie Realty Capital, Inc. (0001550913) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000038/0001550913-26-000038-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001550913-26-000038 <b>Size:</b> 557 KB <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T18:34:49.000Z",
-  "fetched": "2026-11-19T19:33:11.971Z",
-  "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "d5e2e875b73f0612",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ג'מיני מפעיל את המק במקומכם: גוגל משיקה סוכן שלוחץ, מקליד וממלא טפסים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ybW5FWE9uNndCY2I5bjVFV3dtbi1pX3ZNRk1Db1pPS3BDdkZkNlhZd0hhdUtqeEJvVHNWb1FlUmtwQ1ZKdnlBWjZtZXlFVE56NVVoSjVhMGNuVzA4SHJjZVotYnc2NEtW?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ybW5FWE9uNndCY2I5bjVFV3dtbi1pX3ZNRk1Db1pPS3BDdkZkNlhZd0hhdUtqeEJvVHNWb1FlUmtwQ1ZKdnlBWjZtZXlFVE56NVVoSjVhMGNuVzA4SHJjZVotYnc2NEtW?oc=5\" target=\"_blank\">ג'מיני מפעיל את המק במקומכם: גוגל משיקה סוכן שלוחץ, מקליד וממלא טפס",
-  "date": "2026-11-19T18:34:00.000Z",
-  "fetched": "2026-11-19T22:33:11.902Z",
-  "fromCloud": "2026-11-19T2233.json"
  }
 ]
