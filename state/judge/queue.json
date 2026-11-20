@@ -7918,16 +7918,5 @@
   "date": "2026-11-19T16:06:00.000Z",
   "fetched": "2026-11-19T16:33:12.556Z",
   "fromCloud": "2026-11-19T1633.json"
- },
- {
-  "id": "718a60b114f8f976",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - PERMIAN BASIN ROYALTY TRUST (0000319654) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/319654/000119312526468019/0001193125-26-468019-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001193125-26-468019 <b>Size:</b> 113 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T16:03:59.000Z",
-  "fetched": "2026-11-19T17:03:13.228Z",
-  "fromCloud": "2026-11-19T1703.json"
  }
 ]
