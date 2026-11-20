@@ -1,5 +1,49 @@
 [
  {
+  "id": "165f838227e3a0ae",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Oppenheimer cuts Bill.com stock rating to Perform on TPG acquisition - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWZxS3J0SnFOelZzWDRHVXRmLVh3eWQydC1IN0pkVlRacm95bmNLZndkZmRFc09lMUJLV3pWNW5pa05hSUlmWDFWUXIyV0JnSFV2T0xTRHlWR2dUcUE4NlJKUG54TkZGU29JVS1NS1dZckpaR3I3eVZhNmxlTWplVURkaDU1QzBvbU1tQVBWQ2g1dmJzYWVjRURSWWYzZGxhZGd5Q21sMHNFV3RvRDF5dUZ0UWdpN3U3TXhSM3pFa0NMZF9pWkE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWZxS3J0SnFOelZzWDRHVXRmLVh3eWQydC1IN0pkVlRacm95bmNLZndkZmRFc09lMUJLV3pWNW5pa05hSUlmWDFWUXIyV0JnSFV2T0xTRHlWR2dUcUE4NlJKUG54TkZGU29JVS1NS1dZckpaR3I3eVZhNmxlTWplVURkaDU1QzBvbU1tQVBWQ2g1dmJzYWVjRURSWWYzZGxhZGd5Q21sMHNFV3",
+  "date": "2026-11-20T06:01:32.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
+ },
+ {
+  "id": "6cbafff4f229fb4c",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "סכנה למטוס או אגדה אורבנית? כל האמת על \"מצב טיסה\" בטלפון - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hbEk1dm5jejljVGlpdDdmUUI1ZU5aNmN1LUt5SVZ3TElCVThuN05GenByOGZXN2RZSGJtY2NUSHNzdzlPQXZYeFJiQUhlU3BvbDRoeUY5VWtNTmpFY29RLThxMjdBS2M2SzFV?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1hbEk1dm5jejljVGlpdDdmUUI1ZU5aNmN1LUt5SVZ3TElCVThuN05GenByOGZXN2RZSGJtY2NUSHNzdzlPQXZYeFJiQUhlU3BvbDRoeUY5VWtNTmpFY29RLThxMjdBS2M2SzFV?oc=5\" target=\"_blank\">סכנה למטוס או אגדה אורבנית? כל האמת על \"מצב טיסה\" בטלפון</a>&nb",
+  "date": "2026-11-20T06:00:00.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
+ },
+ {
+  "id": "3c4fcd345fafb623",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "אדם בן דרור - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEZxRGlMNVJCMXg3eVp6QndKZHJKSnNvakhqMWVRVkVHX20zUnV6cHNtYm5NQUJ5amRXX0RwY0hxdHhGd2txTU1FUDQ1S280clBHQ3RFb01SeUVVZmJWZUZzX1NWYnBnOUdpRXlXMVFCMV8yYnNrcnFRRlhHVUVhTkpYS29WZHExR2hSSkFwQ2Jqa0k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEZxRGlMNVJCMXg3eVp6QndKZHJKSnNvakhqMWVRVkVHX20zUnV6cHNtYm5NQUJ5amRXX0RwY0hxdHhGd2txTU1FUDQ1S280clBHQ3RFb01SeUVVZmJWZUZzX1NWYnBnOUdpRXlXMVFCMV8yYnNrcnFRRlhHVUVhTkpYS29WZHExR2hSSkFwQ2Jqa0k?oc=5\" target=\"_blank\">אדם בן ד",
+  "date": "2026-11-20T05:47:27.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
+ },
+ {
+  "id": "c0afdda5c5f65ace",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "China revels in Xi’s high-stakes bet on ‘Yalta 2.0’",
+  "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
+  "summary": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
+  "date": "2026-11-20T05:45:11.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
+ },
+ {
   "id": "674a7b127048869d",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -9,6 +53,28 @@
   "date": "2026-11-20T05:27:07.000Z",
   "fetched": "2026-11-20T05:33:21.337Z",
   "fromCloud": "2026-11-20T0533.json"
+ },
+ {
+  "id": "7aa3cd2192d2773e",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "התחיל טוב נגמר בנפילות. מה השתבש אמש בוול סטריט?",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564306#utm_source=RSS",
+  "summary": "אנתרופיק סיימה את יום המסחר הראשון בזינוק של 17%, אבל וול סטריט שהתחילה אופטימי ננעלה בירידות חדות &#8226; שלושה הסברים למהפך",
+  "date": "2026-11-20T05:27:00.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
+ },
+ {
+  "id": "fc283a6b3755ba6d",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "So, Anthropic is finally a public company. What now?",
+  "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+  "summary": "A blockbuster IPO postmortem",
+  "date": "2026-11-20T05:19:35.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
  },
  {
   "id": "fb635d8eceb2d9a3",
@@ -253,6 +319,17 @@
   "fromCloud": "2026-11-20T0503.json"
  },
  {
+  "id": "f52dbb5260a1ebec",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הביטקוין בצלב מוות, והאת'ר מתקרב ל-1700 - גם הנפקת הנת'רופיק לא עצרה את הדימום - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DQUNmOUF2bDFWX0x2YU1yZjltMHM1MUpOZ1VENl9UU1I1VS1CMjdiQ1hwZ1Q1SGNmOTV3a2pSWnAwZTNKVVUzdDVTUGU2SkRad1RZcW1pV2Ezbzg3XzZoVTN3cHNyZzZYOVZmQl9ycmtpZmpv?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9DQUNmOUF2bDFWX0x2YU1yZjltMHM1MUpOZ1VENl9UU1I1VS1CMjdiQ1hwZ1Q1SGNmOTV3a2pSWnAwZTNKVVUzdDVTUGU2SkRad1RZcW1pV2Ezbzg3XzZoVTN3cHNyZzZYOVZmQl9ycmtpZmpv?oc=5\" target=\"_blank\">הביטקוין בצלב מוות, והאת'ר מתקרב ל-1700 - גם הנפקת ",
+  "date": "2026-11-20T04:22:00.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
+ },
+ {
   "id": "59f29f32301d5d90",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -295,6 +372,17 @@
   "date": "2026-11-20T04:16:00.000Z",
   "fetched": "2026-11-20T04:33:11.948Z",
   "fromCloud": "2026-11-20T0433.json"
+ },
+ {
+  "id": "81b558410db0b612",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Socket Mobile, Inc. – OTC:SCKT - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnZwTjRXT3JCVFgwZko1OFczUFV6TGFFeF80WWFaLTgwaWxHay1PTFduaEhiRnk2S1ZaS205TEZpQUpJWWMwTm9GQXhrd2xUT1NPZktPSWN4UjFpTEtYT1FHeTdIODVDVVN4NFNIb05mcURVNjdCQk5ySVhvQ0gwQ242T0RZVmdjaHptWk9KQUZJNFd0WDRpUEw0MDlwV1dHN2JBX0xR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnZwTjRXT3JCVFgwZko1OFczUFV6TGFFeF80WWFaLTgwaWxHay1PTFduaEhiRnk2S1ZaS205TEZpQUpJWWMwTm9GQXhrd2xUT1NPZktPSWN4UjFpTEtYT1FHeTdIODVDVVN4NFNIb05mcURVNjdCQk5ySVhvQ0gwQ242T0RZVmdjaHptWk9KQUZJNFd0WDRpUEw0MDlwV1dHN2JBX0xR?oc=5\"",
+  "date": "2026-11-20T04:12:15.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
  },
  {
   "id": "c7a73e95e8af21b0",
@@ -517,6 +605,17 @@
   "fromCloud": "2026-11-20T0433.json"
  },
  {
+  "id": "8de5c8eaad6dd822",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Southport Acquisition Corp. II Redeemable – BOATS:PORT/W - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckhLNXI4Y042Z1oxaGFQZU02VGIzcGxneXhiVENrd2ViZ3RUbHFzVmNOT2c3MVlfVzJzTVFNczBzUFItSmU3TjEzU0o1Ymo0MVJNYnZqZlVfek9YQjZjX1BPMUhxV0RtTlZKR196dG5mVGtvOS1ITXk1MENIVWl5SjZCcWU4eWs0V0E2VFVfcWVLNWJENV84b3FkWW0yRHZpLWtnWVhzRGQ1RmM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckhLNXI4Y042Z1oxaGFQZU02VGIzcGxneXhiVENrd2ViZ3RUbHFzVmNOT2c3MVlfVzJzTVFNczBzUFItSmU3TjEzU0o1Ymo0MVJNYnZqZlVfek9YQjZjX1BPMUhxV0RtTlZKR196dG5mVGtvOS1ITXk1MENIVWl5SjZCcWU4eWs0V0E2VFVfcWVLNWJENV84b3FkWW0yRHZpLWtnWVhzRGQ1Rm",
+  "date": "2026-11-20T03:00:02.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
+ },
+ {
   "id": "f9502bb636847502",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -559,6 +658,17 @@
   "date": "2026-11-20T01:52:00.000Z",
   "fetched": "2026-11-20T04:03:12.311Z",
   "fromCloud": "2026-11-20T0403.json"
+ },
+ {
+  "id": "03ece42c5fe86258",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Michael Ellis appointed Chief Financial Officer - Mineral Resources",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWNpbkxlX01GaWxFM1FOLVpFdVpDMjVKX19uOWUwbW03TGpBZWtpdjVVZldXUFpwYU0zTU1pZHJKaWtWTlY1ZlF2c1NUWnJaN3A0aDdLUlFxYk5HVHBOT0l5dTBZSmtrbGFoTjNTWllEVEVXODg2cGRTVnMxNUpPc2lTWDdqR2p1LXR3STNJNjFydmR5dmRnY1ZKeXhBN25PTFNEOUNMcVI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWNpbkxlX01GaWxFM1FOLVpFdVpDMjVKX19uOWUwbW03TGpBZWtpdjVVZldXUFpwYU0zTU1pZHJKaWtWTlY1ZlF2c1NUWnJaN3A0aDdLUlFxYk5HVHBOT0l5dTBZSmtrbGFoTjNTWllEVEVXODg2cGRTVnMxNUpPc2lTWDdqR2p1LXR3STNJNjFydmR5dmRnY1ZKeXhBN25PTFNEOUNMcVI?oc",
+  "date": "2026-11-20T01:24:01.000Z",
+  "fetched": "2026-11-20T06:03:12.681Z",
+  "fromCloud": "2026-11-20T0603.json"
  },
  {
   "id": "9abc339e1d07b6e5",
