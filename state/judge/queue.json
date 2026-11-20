@@ -1,5 +1,27 @@
 [
  {
+  "id": "aad2eefb28218103",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CIFC Credit Income Fund (0002056516) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2056516/000119312526469840/0001193125-26-469840-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-469840 <b>Size:</b> 645 KB <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-20T18:25:21.000Z",
+  "fetched": "2026-11-20T18:33:12.204Z",
+  "fromCloud": "2026-11-20T1833.json"
+ },
+ {
+  "id": "2b77e8a384886793",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "אחרי 167 שנה: חוקר של אנתרופיק טוען שקלוד פתר את אחת החידות הקשות בהיסטוריה של המתמטיקה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iaFpxNHpfS05XeEJveWhkWTdmMURyWWtzSmxXQ2FSbFpfbkRFNHA0Q0NDUkIzeDJQNUl4aVRmbENJMkFxUXRMVzg0OEhsLURrVVZ5ZGVUTUx1UkNVa2x5cW82T1d2V0dsempN?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5iaFpxNHpfS05XeEJveWhkWTdmMURyWWtzSmxXQ2FSbFpfbkRFNHA0Q0NDUkIzeDJQNUl4aVRmbENJMkFxUXRMVzg0OEhsLURrVVZ5ZGVUTUx1UkNVa2x5cW82T1d2V0dsempN?oc=5\" target=\"_blank\">אחרי 167 שנה: חוקר של אנתרופיק טוען שקלוד פתר את אחת החידות הקש",
+  "date": "2026-11-20T18:05:00.000Z",
+  "fetched": "2026-11-20T18:33:12.204Z",
+  "fromCloud": "2026-11-20T1833.json"
+ },
+ {
   "id": "4f2c63b795e58b2f",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +31,17 @@
   "date": "2026-11-20T18:00:09.000Z",
   "fetched": "2026-11-20T18:03:25.869Z",
   "fromCloud": "2026-11-20T1803.json"
+ },
+ {
+  "id": "9dd824ffe704b81f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Framery Group Plc: Acquisition of own shares during week 47, 2026 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWtrNjRJSjFGRC01QUhoZTBuVkxjMmhfRzI3bm9CeVZNYU9hYjh3MmJQVlFZbmRwakRIRlhPdG1GWFoxQS1qeWZQWXRZbWEtR082UXBlbFVJTDJQeFNMWkMwcUFJb293QkRldk5peHFtc3ZzemhldkQ3QWlwNnJLamp6UDBRUThvR3dOdWhqOXFtaFFSc2dmeUJiUGpvbFZHQU85ZktWSmpTYktDNlYzMEQtQkg2a1BOb2czem01X2ZSaWZjU0p3SQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWtrNjRJSjFGRC01QUhoZTBuVkxjMmhfRzI3bm9CeVZNYU9hYjh3MmJQVlFZbmRwakRIRlhPdG1GWFoxQS1qeWZQWXRZbWEtR082UXBlbFVJTDJQeFNMWkMwcUFJb293QkRldk5peHFtc3ZzemhldkQ3QWlwNnJLamp6UDBRUThvR3dOdWhqOXFtaFFSc2dmeUJiUGpvbFZHQU85ZktWSmpTYk",
+  "date": "2026-11-20T18:00:00.000Z",
+  "fetched": "2026-11-20T18:33:12.204Z",
+  "fromCloud": "2026-11-20T1833.json"
  },
  {
   "id": "2b62b1e6dd8f4e51",
@@ -42,6 +75,17 @@
   "date": "2026-11-20T17:46:00.000Z",
   "fetched": "2026-11-20T18:03:25.869Z",
   "fromCloud": "2026-11-20T1803.json"
+ },
+ {
+  "id": "938a83353ea94b09",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "How Will DoorDash's Acquisition of Instacart Remap the E-Commerce Landscape? - Progressive Grocer",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2RIVFVMOEtWbHNpVFJYOEp3UEhqZ00wUWJSSVBqY1VYOUl1VGVCV3g0ZEluNXA5eWlIdHEwNFZ6ajJKSHdpT0VZOUVmVlhLNHNRRWxBWTVITWJ6cVQxeURKcUJmQzNCTUNMblZ0N2ZYWnA2eXY2cnBILXJ3NDduTk0xbHkxdnRaQ3pZUWxraWFaTW0ybHFvQl80bmsxZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPT2RIVFVMOEtWbHNpVFJYOEp3UEhqZ00wUWJSSVBqY1VYOUl1VGVCV3g0ZEluNXA5eWlIdHEwNFZ6ajJKSHdpT0VZOUVmVlhLNHNRRWxBWTVITWJ6cVQxeURKcUJmQzNCTUNMblZ0N2ZYWnA2eXY2cnBILXJ3NDduTk0xbHkxdnRaQ3pZUWxraWFaTW0ybHFvQl80bmsxZw?oc=5\" target=\"_",
+  "date": "2026-11-20T17:39:41.000Z",
+  "fetched": "2026-11-20T18:33:12.204Z",
+  "fromCloud": "2026-11-20T1833.json"
  },
  {
   "id": "9b257e2ecbf9a37b",
@@ -1815,6 +1859,17 @@
   "fromCloud": "2026-11-20T1533.json"
  },
  {
+  "id": "45a8ad7cfc992ed1",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בלאק פריידי בטיסות ובמלונות: אייר חיפה מוזילה ב-24% את כל טיסות 2027 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XOUxRRThwY2lRLXFTSkJZMXZHTTZkaVlvbUZ1RmEtMk9VeUc3aHVHbkV1NE9lT2pNTFNGM3FlQklNMDVteDA0T0NWaURxNjc4LTR4WlptOXRWWWc4T1hGQVNrdkJvTVVkVmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9XOUxRRThwY2lRLXFTSkJZMXZHTTZkaVlvbUZ1RmEtMk9VeUc3aHVHbkV1NE9lT2pNTFNGM3FlQklNMDVteDA0T0NWaURxNjc4LTR4WlptOXRWWWc4T1hGQVNrdkJvTVVkVmc?oc=5\" target=\"_blank\">בלאק פריידי בטיסות ובמלונות: אייר חיפה מוזילה ב-24% את כל טיסות ",
+  "date": "2026-11-20T13:01:00.000Z",
+  "fetched": "2026-11-20T18:33:12.204Z",
+  "fromCloud": "2026-11-20T1833.json"
+ },
+ {
   "id": "ccc3bf523ab74809",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -2154,6 +2209,17 @@
   "date": "2026-11-20T12:24:00.000Z",
   "fetched": "2026-11-20T13:03:11.820Z",
   "fromCloud": "2026-11-20T1303.json"
+ },
+ {
+  "id": "f89353e5023e03e0",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ארקיע מחזירה את מרקש ללוח הטיסות, הפעם במטוסים שבבעלותה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16R3BFR0o1THNDTHJ6VW5wS1RlWTc0alJGa1Nxc1FDazJfOFRyX09xcEE2bXgxcjlzellObUJ4VW9lM29ZT1F0TjV4VWpuQXR3RElra01BOWliM3gwWU9MWWZJc0J6MlBybkE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE16R3BFR0o1THNDTHJ6VW5wS1RlWTc0alJGa1Nxc1FDazJfOFRyX09xcEE2bXgxcjlzellObUJ4VW9lM29ZT1F0TjV4VWpuQXR3RElra01BOWliM3gwWU9MWWZJc0J6MlBybkE?oc=5\" target=\"_blank\">ארקיע מחזירה את מרקש ללוח הטיסות, הפעם במטוסים שבבעלותה</a>&nbsp",
+  "date": "2026-11-20T12:22:00.000Z",
+  "fetched": "2026-11-20T18:33:12.204Z",
+  "fromCloud": "2026-11-20T1833.json"
  },
  {
   "id": "1f1158bca1cb5d97",
@@ -2805,6 +2871,17 @@
   "fromCloud": "2026-11-20T1103.json"
  },
  {
+  "id": "f5fa5454eb4b2f80",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (פריון נטוורק) 1095819 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjdfaC1iTnR0V0lMcllkX0hMdEJlRF9Cd3RIYUlVdzhnSktsbVh3VWQ3MU9GMkpFR2hmcW5yeDhKWWxLV21Ja2pvM1d3QzFtMGRDTUZXSXJrVGNqSE9NNVZjT1JaVXhuTkY3T2ptcE5YcjYwcWxNeUdYMW9MbW1jdzFjUmE0aUJaV3ZXMHFqV1RkaUQzRnJHTlpMVUVLTWlId0VB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjdfaC1iTnR0V0lMcllkX0hMdEJlRF9Cd3RIYUlVdzhnSktsbVh3VWQ3MU9GMkpFR2hmcW5yeDhKWWxLV21Ja2pvM1d3QzFtMGRDTUZXSXJrVGNqSE9NNVZjT1JaVXhuTkY3T2ptcE5YcjYwcWxNeUdYMW9MbW1jdzFjUmE0aUJaV3ZXMHFqV1RkaUQzRnJHTlpMVUVLTWlId0VB?oc=5\" tar",
+  "date": "2026-11-20T10:48:34.000Z",
+  "fetched": "2026-11-20T18:33:12.204Z",
+  "fromCloud": "2026-11-20T1833.json"
+ },
+ {
   "id": "76c7ad3280bd1c70",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -3199,6 +3276,17 @@
   "date": "2026-11-20T09:20:00.000Z",
   "fetched": "2026-11-20T09:33:11.903Z",
   "fromCloud": "2026-11-20T0933.json"
+ },
+ {
+  "id": "46c680550a3189d2",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שוק ההון כתבות נוספות - עמוד 4036 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYYkpXajlGNUJBTFd2RThkT1g0dWpZQlBXMFdJNnRUUVVuZFE1MXV6Q0Z1cjhmb1VSRWg5OGctUVA0ZktzSlRzVnZINXBXZW5ZZnlsU3l5V3BVNkx5WUtLSWhaNXdOWFU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYYkpXajlGNUJBTFd2RThkT1g0dWpZQlBXMFdJNnRUUVVuZFE1MXV6Q0Z1cjhmb1VSRWg5OGctUVA0ZktzSlRzVnZINXBXZW5ZZnlsU3l5V3BVNkx5WUtLSWhaNXdOWFU?oc=5\" target=\"_blank\">שוק ההון כתבות נוספות - עמוד 4036</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+  "date": "2026-11-20T09:13:45.000Z",
+  "fetched": "2026-11-20T18:33:12.204Z",
+  "fromCloud": "2026-11-20T1833.json"
  },
  {
   "id": "b0757cca6b9cf8e8",
@@ -7324,236 +7412,5 @@
   "date": "2026-11-19T18:34:00.000Z",
   "fetched": "2026-11-19T22:33:11.902Z",
   "fromCloud": "2026-11-19T2233.json"
- },
- {
-  "id": "40fd01739f1bbf7a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Lyte Fiber continues Texas growth with acquisition of MidSouth Fiber - Broadband Communities",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX3hBcV8xVGVIZDRmVGM3NUw3NzBLZUlqTHd2ODFBLVkxVm5lYWU5b19SSFE3M2ZhNGc5ZmVKQVgwOGdxYXhjNkk4R0swT1hMX19tQUtDdU9HTXR2eGcxeGtiaHp2MmJEOUFRZkxFXzNMS192dkN0eU5DM2k4SU1nXzdTaGRyX28wdFRKd0FzcV8tQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNX3hBcV8xVGVIZDRmVGM3NUw3NzBLZUlqTHd2ODFBLVkxVm5lYWU5b19SSFE3M2ZhNGc5ZmVKQVgwOGdxYXhjNkk4R0swT1hMX19tQUtDdU9HTXR2eGcxeGtiaHp2MmJEOUFRZkxFXzNMS192dkN0eU5DM2k4SU1nXzdTaGRyX28wdFRKd0FzcV8tQQ?oc=5\" target=\"_blank\">Lyte Fibe",
-  "date": "2026-11-19T18:33:09.000Z",
-  "fetched": "2026-11-19T19:03:12.626Z",
-  "fromCloud": "2026-11-19T1903.json"
- },
- {
-  "id": "0d36e24ae4cbcbda",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of DWS Municipal Income Trust – NASDAQ:XKTFX - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXMwMWdOU2lXVkdockExZkh0d3NsOVQ2NkJYRmFVME4xUE9lVGtWNmNGYlp6cXBNaDBNZ1NzMVUyd1N5ZnctUTdoSVZ4LWFVblZwclh2OFc5bmlZNU0xTm5oMldEZ1hNN2UteEhpR1NoUzRMcDNLdm90LTBYMWItZ2dXTnJpaktzUGxfRzBVbVd3TUpfZFBsODlyVDk3Rk5WaXJkUzNZcl9JV1E?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXMwMWdOU2lXVkdockExZkh0d3NsOVQ2NkJYRmFVME4xUE9lVGtWNmNGYlp6cXBNaDBNZ1NzMVUyd1N5ZnctUTdoSVZ4LWFVblZwclh2OFc5bmlZNU0xTm5oMldEZ1hNN2UteEhpR1NoUzRMcDNLdm90LTBYMWItZ2dXTnJpaktzUGxfRzBVbVd3TUpfZFBsODlyVDk3Rk5WaXJkUzNZcl9JV1",
-  "date": "2026-11-19T18:32:45.000Z",
-  "fetched": "2026-11-19T21:33:29.058Z",
-  "fromCloud": "2026-11-19T2133.json"
- },
- {
-  "id": "3aebc2feffacd520",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "רוארינג קיטי חזר ל-X אחרי כמעט שנתיים: איור של Cat Mario הקפיץ את גיימסטופ ואת נינטנדו - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jYWpXWUYtcHJKWTlRZThISS1vTnA1QXFzYUZNdnU4ekVtb2U0czZ0a2JRN3RIVzF2QkdQdkJGVWI1STRZaE9fY01nWWE2NzNhZnlsRmxfdDVqZ1RXMXAzNHltbFNWZ04wZU5xVWNtR0Y?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5jYWpXWUYtcHJKWTlRZThISS1vTnA1QXFzYUZNdnU4ekVtb2U0czZ0a2JRN3RIVzF2QkdQdkJGVWI1STRZaE9fY01nWWE2NzNhZnlsRmxfdDVqZ1RXMXAzNHltbFNWZ04wZU5xVWNtR0Y?oc=5\" target=\"_blank\">רוארינג קיטי חזר ל-X אחרי כמעט שנתיים: איור של Cat Mario",
-  "date": "2026-11-19T18:32:00.000Z",
-  "fetched": "2026-11-19T19:33:11.971Z",
-  "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "4cbea4edc06cdf70",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "The Greyson secures $270M refinancing in Jersey City - NJBIZ",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUYjIwNFdPRUltM0ZnVVNrd1g1M2hYLXY0UklyRHpzZG9PRmdicXJtdnVVN1BLdjhCazhyOVJMQkVFMGhWRk04a2Znd1paSHVNbERPOEkxWVFqT1BnTjVhNldiWk1rUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUYjIwNFdPRUltM0ZnVVNrd1g1M2hYLXY0UklyRHpzZG9PRmdicXJtdnVVN1BLdjhCazhyOVJMQkVFMGhWRk04a2Znd1paSHVNbERPOEkxWVFqT1BnTjVhNldiWk1rUQ?oc=5\" target=\"_blank\">The Greyson secures $270M refinancing in Jersey City</a>&nbsp;&nbsp;<",
-  "date": "2026-11-19T18:31:10.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "b68db81c447c3500",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Former Cineworld CEO Mooky Greidinger Leads Acquisition of Showcase Cinemas in U.K., Inks Major Imax Deal - Variety",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ3Jwb3R1UVd5dzBfY0lUQWhJMDRib0N3M2lDWEJCYldwM1JYa01TNzB6R29PbkFHQ3hXNkR2QnVSXy1zVVhzVlBSVGxoVDBJOS1CRmYwSEFBOFFaV0pGYi1xUTByQzlkZ1Q3NDlJdGJVYVVmcC1nNWxidHhDQWN3Z3BsMDV4dFZrTzZuWUlvY1gtSFg0Q095U0J3SUZ6Y0xSUkE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ3Jwb3R1UVd5dzBfY0lUQWhJMDRib0N3M2lDWEJCYldwM1JYa01TNzB6R29PbkFHQ3hXNkR2QnVSXy1zVVhzVlBSVGxoVDBJOS1CRmYwSEFBOFFaV0pGYi1xUTByQzlkZ1Q3NDlJdGJVYVVmcC1nNWxidHhDQWN3Z3BsMDV4dFZrTzZuWUlvY1gtSFg0Q095U0J3SUZ6Y0xSUkE?oc=5\" targ",
-  "date": "2026-11-19T18:31:00.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "9d5f18c99674672b",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "כאב הראש של דליה בתחנת אשכול: יחידת ייצור הושבתה — וההפסדים מעמיקים - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOTdNNzFsTWJzM3JqMHlkazBGckNRZ3h6LW5TNG5Ta1dhZGdVS2xmeWtaRU5FYTd3aVFtSHdhRTF4aXkyTHdNNUttR0NCWTRYclRPT3FtNmd1STBFWURJNTBzR1dzWERxa1B0cjVYU1dPMDQ2Y1hyYy13UkFhWko2Z0xmUWVXenRZa3V6RWtxdy0tZ3pXUGJVNlZfXy1Mektra3Fz?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOTdNNzFsTWJzM3JqMHlkazBGckNRZ3h6LW5TNG5Ta1dhZGdVS2xmeWtaRU5FYTd3aVFtSHdhRTF4aXkyTHdNNUttR0NCWTRYclRPT3FtNmd1STBFWURJNTBzR1dzWERxa1B0cjVYU1dPMDQ2Y1hyYy13UkFhWko2Z0xmUWVXenRZa3V6RWtxdy0tZ3pXUGJVNlZfXy1Mektra3Fz?oc=5\" tar",
-  "date": "2026-11-19T18:27:00.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "12a60bd0a89bfb75",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "\"הבועה ב-AI עומדת להתפוצץ\": האנליסט שממליץ למכור את ה-S&P 500 - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzclp4b0k0azRYOVY3bUpxeGpSUzg3UndvSloxQ2xRN2lhNmRwSUVrbGJCVFNNanYtX0pia3h6bVR5Vm1Yc2FRNHZqdmJHTTF4cGVMcGUzWDA2dEVBQlZxVktUOG9XcjRvZVp1cnNjaTE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBzclp4b0k0azRYOVY3bUpxeGpSUzg3UndvSloxQ2xRN2lhNmRwSUVrbGJCVFNNanYtX0pia3h6bVR5Vm1Yc2FRNHZqdmJHTTF4cGVMcGUzWDA2dEVBQlZxVktUOG9XcjRvZVp1cnNjaTE?oc=5\" target=\"_blank\">\"הבועה ב-AI עומדת להתפוצץ\": האנליסט שממליץ למכור את ה-S&",
-  "date": "2026-11-19T18:24:00.000Z",
-  "fetched": "2026-11-19T19:33:11.971Z",
-  "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "c4813eb7dc7c777c",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Barings Private Credit Corp (0001859919) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1859919/000185991926000101/0001859919-26-000101-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001859919-26-000101 <b>Size:</b> 132 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T18:22:25.000Z",
-  "fetched": "2026-11-19T19:33:11.971Z",
-  "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "f04d9979fb16ac28",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Stepstone Private Credit Fund LLC (0001950803) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1950803/000119312526468193/0001193125-26-468193-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001193125-26-468193 <b>Size:</b> 135 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T18:22:08.000Z",
-  "fetched": "2026-11-19T19:33:11.971Z",
-  "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "9cce8d9a46a70f25",
-  "source": "AV Network",
-  "group": "industry",
-  "title": "On Audio: Bogen Communications",
-  "link": "https://www.avnetwork.com/news/on-audio-bogen-communications",
-  "summary": "Randall Lee, Vice President of Marketing and Product Management at Bogen Communications, shares insights and trends on audio developments for enterprise, higher ed, live events, and similar markets.",
-  "date": "2026-11-19T18:21:03.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "dfe0ff56e34cee4c",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "מייסד מכון ברוד, מגופי המחקר החשובים בעולם: \"ראיתי בחיי הרבה פרויקטים משוגעים שהפכו לאפשריים\"",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001564259#utm_source=RSS",
-  "summary": "פרופ' אריק לנדר, מחוקרי הגנום המובילים ומי שייסד את מכון ברוד של MIT והרווארד, מספר בראיון בלעדי איך שכנע שתי אוניברסיטאות מתחרות לשתף פעולה, מעריך מתי תהיה תרופה לאלצהיימר ומתייחס לביקורות עליו לאורך השנים &#8226; השבוע קיבל ממכון ויצמן פרס על פועלו, והוא כבר בדרך לפתור בעיה גדו",
-  "date": "2026-11-19T18:20:00.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "3cf386d6f318a4c9",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Ignite 2026 - calcalistech.com",
-  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZZXBZdEprbVFjcUt0Tk1VU1ZHNHh1Yy1kWHYzcV9IM0V3UmFndFBjS0JVeV9GZXY3bXd6c0xld3laSmtPancyVkZfUmZZWmNab29MXzFDN3g?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZZXBZdEprbVFjcUt0Tk1VU1ZHNHh1Yy1kWHYzcV9IM0V3UmFndFBjS0JVeV9GZXY3bXd6c0xld3laSmtPancyVkZfUmZZWmNab29MXzFDN3g?oc=5\" target=\"_blank\">Ignite 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
-  "date": "2026-11-19T18:19:48.000Z",
-  "fetched": "2026-11-19T19:33:11.971Z",
-  "fromCloud": "2026-11-19T1933.json"
- },
- {
-  "id": "7b2134e4ef3f5650",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Microsoft IQ - calcalistech.com",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaRmhIYm9WOV9CdFl6dnNENnpZNExIcVYyQ2lyU2FUc0xvNFN5eHZDS1Rza0tUNll4WlVBV1JUbnZEX0NCbm1sNDlkaXhsMXhvTTVnSUdEWFh0dw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaRmhIYm9WOV9CdFl6dnNENnpZNExIcVYyQ2lyU2FUc0xvNFN5eHZDS1Rza0tUNll4WlVBV1JUbnZEX0NCbm1sNDlkaXhsMXhvTTVnSUdEWFh0dw?oc=5\" target=\"_blank\">Microsoft IQ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
-  "date": "2026-11-19T18:19:46.000Z",
-  "fetched": "2026-11-19T20:03:30.723Z",
-  "fromCloud": "2026-11-19T2003.json"
- },
- {
-  "id": "faa00ea9dc0ca205",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Cleveland Foundation taps in-house finance leader for CFO role as longtime executive retires - The Business Journals",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNDNEdIOFFIbmcwQkJwVFRmUU5aNUYzS0taVnRWT3hEM0cyZUhETFVHTWpCajhTVFdpR0h1Q3RFdjNUYmZRNmlrQzV6TGJ4YzVvY3BKVkd4elcwSVg5WVV6MnhqaC1STDZjYkJrWU12VzVSRjg1YlpTRUkyY1BvNzFWNUNTWFVRU1NUcDBjMmY4Rkd2VG1TWGFYWmpadUJJcFVQREVXU1Y?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNDNEdIOFFIbmcwQkJwVFRmUU5aNUYzS0taVnRWT3hEM0cyZUhETFVHTWpCajhTVFdpR0h1Q3RFdjNUYmZRNmlrQzV6TGJ4YzVvY3BKVkd4elcwSVg5WVV6MnhqaC1STDZjYkJrWU12VzVSRjg1YlpTRUkyY1BvNzFWNUNTWFVRU1NUcDBjMmY4Rkd2VG1TWGFYWmpadUJJcFVQREVXU1Y?oc",
-  "date": "2026-11-19T18:19:00.000Z",
-  "fetched": "2026-11-20T01:33:13.373Z",
-  "fromCloud": "2026-11-20T0133.json"
- },
- {
-  "id": "e5750f6b5f2e953e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Wills Group names Lance Tucker as new CFO - CSP Daily News",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUdCR2RLSzBhTzByTWVPcGVxWHVUbDNYaExhMzZCOHZFZjdqdy1HQ0N4UTBWUFZ6cUo3cmxhUGpCeTMyVnZNVFA4OEplaDV4MF9Nald0WHNtanFYMklJUENwRnI0NEgtNW9aeE5sMWh0YVV3S3dmS1ZzeVpWOXBXdmY3ODdUTlE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUdCR2RLSzBhTzByTWVPcGVxWHVUbDNYaExhMzZCOHZFZjdqdy1HQ0N4UTBWUFZ6cUo3cmxhUGpCeTMyVnZNVFA4OEplaDV4MF9Nald0WHNtanFYMklJUENwRnI0NEgtNW9aeE5sMWh0YVV3S3dmS1ZzeVpWOXBXdmY3ODdUTlE?oc=5\" target=\"_blank\">Wills Group names Lance ",
-  "date": "2026-11-19T18:17:54.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "c2c0a608d8e4fc4c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Anthropic's CFO says IPO will fund continued compute and R&D spending - Quartz",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0hnTElFWU0tVTd2aktEeEpfZkFITnBxWElhUHNZbUM1RjVreHF1YTFCbDR5dENCejRTZEhRR3EzQjZUWVoySGVqZjF5eTJoUEdKNmZiY0Rpdmk0V0Y4VHVUTk80SXN5STVj?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0hnTElFWU0tVTd2aktEeEpfZkFITnBxWElhUHNZbUM1RjVreHF1YTFCbDR5dENCejRTZEhRR3EzQjZUWVoySGVqZjF5eTJoUEdKNmZiY0Rpdmk0V0Y4VHVUTk80SXN5STVj?oc=5\" target=\"_blank\">Anthropic's CFO says IPO will fund continued compute and R&D sp",
-  "date": "2026-11-19T18:14:25.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "55b49455cdef84c9",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "AI comes for bank jobs: Leumi cuts 25 positions in technology division - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVbU5yZE5jMi1CRC1CUXRWaVlkRG5FUndoS0dJMkE0NmE1UzloTnNoNkFMT3U0UjZsWkZFdm9rd0s2Sl9OUTRqVkFJcWVGV1dsRUk3cVgzUFFqMEFJNTVjOEVrNDJZVTg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVbU5yZE5jMi1CRC1CUXRWaVlkRG5FUndoS0dJMkE0NmE1UzloTnNoNkFMT3U0UjZsWkZFdm9rd0s2Sl9OUTRqVkFJcWVGV1dsRUk3cVgzUFFqMEFJNTVjOEVrNDJZVTg?oc=5\" target=\"_blank\">AI comes for bank jobs: Leumi cuts 25 positions in technology divisi",
-  "date": "2026-11-19T18:13:00.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "40a730dcad83b107",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מסאיושי סון מודה בטעות: סופטבנק ויתרה על אנתרופיק לטובת OpenAI - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sdkphOUJBUVRCS1pGNTFvS1VYLTFiMFNiNEo0bFg5cmNJX2VfVjkzU2tJQUE1S25ycUJDZzZwWFFORWF6TnFoQmF5cExRdm8zVW0zUGVHeWxaSHI1c1dEZW5HZEtRSldEeEVEUzZTWEo?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5sdkphOUJBUVRCS1pGNTFvS1VYLTFiMFNiNEo0bFg5cmNJX2VfVjkzU2tJQUE1S25ycUJDZzZwWFFORWF6TnFoQmF5cExRdm8zVW0zUGVHeWxaSHI1c1dEZW5HZEtRSldEeEVEUzZTWEo?oc=5\" target=\"_blank\">מסאיושי סון מודה בטעות: סופטבנק ויתרה על אנתרופיק לטובת ",
-  "date": "2026-11-19T18:13:00.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "a2d3f0d534c81283",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הדולר חצה את רף 3.30 שקלים - בכמה יתייקרו הקניות מחו\"ל והחופשה הבאה? - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2M2ptUXFDQzBpeFI3a20zU3oxbFd3bUVlanJBWVhIeElqYUtSM1M5eFYxT2ZkbldoZno0UTZYNGxmZHVXaDhNUGFWcGFrRUFETXlPT1psMXpjdE83ZG1LeExTVEJjZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2M2ptUXFDQzBpeFI3a20zU3oxbFd3bUVlanJBWVhIeElqYUtSM1M5eFYxT2ZkbldoZno0UTZYNGxmZHVXaDhNUGFWcGFrRUFETXlPT1psMXpjdE83ZG1LeExTVEJjZw?oc=5\" target=\"_blank\">הדולר חצה את רף 3.30 שקלים - בכמה יתייקרו הקניות מחו\"ל והחופשה הבאה?<",
-  "date": "2026-11-19T18:10:00.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
- },
- {
-  "id": "98748ce217ae2c79",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "JLL arranges $11.5M refinancing for South Florida select-service hotel - JLL",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdEVxS09GRGNwVDRrektLWGdGdmRRMjlNN2puLTlTYXJHOUVnMldhMy1ZTndXSTdYT1JUZTlGRzlhb3k5NGNrMFVPdE9FVWVDSWQwbGFrWmdaTF9NSVBOdDV6c0l5VURRX21iLS1KNktMWmZiMDc3cUFPZXpLbkdyNU9PTlJvVXotMFRIajJrUURZSERZNFE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdEVxS09GRGNwVDRrektLWGdGdmRRMjlNN2puLTlTYXJHOUVnMldhMy1ZTndXSTdYT1JUZTlGRzlhb3k5NGNrMFVPdE9FVWVDSWQwbGFrWmdaTF9NSVBOdDV6c0l5VURRX21iLS1KNktMWmZiMDc3cUFPZXpLbkdyNU9PTlJvVXotMFRIajJrUURZSERZNFE?oc=5\" target=\"_blank\">JLL ",
-  "date": "2026-11-19T18:04:22.000Z",
-  "fetched": "2026-11-19T20:33:13.250Z",
-  "fromCloud": "2026-11-19T2033.json"
- },
- {
-  "id": "e2f891c1090772f1",
-  "source": "AV Network",
-  "group": "industry",
-  "title": "Nadella Puts AI at the Center of Workplace Collaboration at Microsoft Ignite 2026",
-  "link": "https://www.avnetwork.com/news/microsoft-ignite-2026-nadella-puts-ai-at-the-center-of-workplace-collaboration",
-  "summary": "Reporting for Workplace AI, Cindy Davis highlights key trends, noting that new Copilot capabilities, shared AI workspaces, and enterprise governance tools signal a fundamental shift in how individuals and organizations collaborate.",
-  "date": "2026-11-19T18:03:52.000Z",
-  "fetched": "2026-11-19T18:33:21.778Z",
-  "fromCloud": "2026-11-19T1833.json"
  }
 ]
