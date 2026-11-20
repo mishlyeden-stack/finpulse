@@ -33,6 +33,28 @@
   "fromCloud": "2026-11-20T0333.json"
  },
  {
+  "id": "297bcdf8a4902bb1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "NextEra's Dominion Acquisition Clears Antitrust Hurdle as U.S. DOJ Closes Case With Conditions, Virginia Review Takes Over - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMGVmLVRUZzB4b0lSUzl5R2ZlQ3RybnI3YThTajZmcFR1R3puSkxfTDlLZTlWY3FzenhGVHJMQmlaa3RIQWhxcFRqRVZCZE1rTm1nWDlmcUdWSWJxdjU4dkpKcEp1UDJFNWk2aTQ3UktTWmpCeEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMGVmLVRUZzB4b0lSUzl5R2ZlQ3RybnI3YThTajZmcFR1R3puSkxfTDlLZTlWY3FzenhGVHJMQmlaa3RIQWhxcFRqRVZCZE1rTm1nWDlmcUdWSWJxdjU4dkpKcEp1UDJFNWk2aTQ3UktTWmpCeEE?oc=5\" target=\"_blank\">NextEra's Dominion Acquisition Clears Antitrust ",
+  "date": "2026-11-20T03:25:00.000Z",
+  "fetched": "2026-11-20T04:03:12.311Z",
+  "fromCloud": "2026-11-20T0403.json"
+ },
+ {
+  "id": "516c5fdca9fce0f5",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "השבבים באסיה צוללים, הטאייקס נופל 6% - נובה וקמטק בדרך לפתיחה שלילית - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42QTJYVVVneUxLSFpMYUo1VTFMYzlYVXJaWGwxeWVxdjltVHlVamF6anRnN1ZiYmVNdjlDSUttb3BBdFh4VWlLSDQ5aWh6bjNtT2Y1R2ZhZDhsXzJSUnJjbUt5YURUV2FtQ3ZFM3RsWm4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE42QTJYVVVneUxLSFpMYUo1VTFMYzlYVXJaWGwxeWVxdjltVHlVamF6anRnN1ZiYmVNdjlDSUttb3BBdFh4VWlLSDQ5aWh6bjNtT2Y1R2ZhZDhsXzJSUnJjbUt5YURUV2FtQ3ZFM3RsWm4?oc=5\" target=\"_blank\">השבבים באסיה צוללים, הטאייקס נופל 6% - נובה וקמטק בדרך ל",
+  "date": "2026-11-20T03:08:00.000Z",
+  "fetched": "2026-11-20T04:03:12.311Z",
+  "fromCloud": "2026-11-20T0403.json"
+ },
+ {
   "id": "f9502bb636847502",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -64,6 +86,17 @@
   "date": "2026-11-20T01:59:25.000Z",
   "fetched": "2026-11-20T02:03:17.699Z",
   "fromCloud": "2026-11-20T0203.json"
+ },
+ {
+  "id": "3f06e80a68811f08",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סופטבנק צונחת 16% בטוקיו: הבכורה של אנתרופיק מפילה את מניות הטק באסיה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lR2ZSZmRzeF96LU9zbms1OWNGS3U1NWVrOW1FSXFhSlBURUFhUnVrd2c5WENJU0FfMWN2VHdyWGlzWFY3Z3hUTmFqR3I5ZnRCSTl4X2RndTg0X1VZYmlHQlNqUzAwc1ZtWkZMTWFZMnc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9lR2ZSZmRzeF96LU9zbms1OWNGS3U1NWVrOW1FSXFhSlBURUFhUnVrd2c5WENJU0FfMWN2VHdyWGlzWFY3Z3hUTmFqR3I5ZnRCSTl4X2RndTg0X1VZYmlHQlNqUzAwc1ZtWkZMTWFZMnc?oc=5\" target=\"_blank\">סופטבנק צונחת 16% בטוקיו: הבכורה של אנתרופיק מפילה את מנ",
+  "date": "2026-11-20T01:52:00.000Z",
+  "fetched": "2026-11-20T04:03:12.311Z",
+  "fromCloud": "2026-11-20T0403.json"
  },
  {
   "id": "9abc339e1d07b6e5",
@@ -306,6 +339,28 @@
   "date": "2026-11-19T23:23:00.000Z",
   "fetched": "2026-11-19T23:55:03.739Z",
   "fromCloud": "2026-11-19T2355.json"
+ },
+ {
+  "id": "9cb3bb5f882fffcc",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "נטפליקס אמזון ופוקס במכרז על מונדיאל 2030; דיסני ואפל בחוץ - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rcURqQ1Nfb21BSDlrSFFLVkpqdXVCTVN3dlFISU11dUhmWkFRajlZRzl2UTNiVVpEVXFQdmExMUZlRFcwR0hEZWdKczduSmUzcW1raGNjaXdNUjduRlE3QUtZMzhUR1FEZmZ5OVBaTUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9rcURqQ1Nfb21BSDlrSFFLVkpqdXVCTVN3dlFISU11dUhmWkFRajlZRzl2UTNiVVpEVXFQdmExMUZlRFcwR0hEZWdKczduSmUzcW1raGNjaXdNUjduRlE3QUtZMzhUR1FEZmZ5OVBaTUE?oc=5\" target=\"_blank\">נטפליקס אמזון ופוקס במכרז על מונדיאל 2030; דיסני ואפל בח",
+  "date": "2026-11-19T23:20:00.000Z",
+  "fetched": "2026-11-20T04:03:12.311Z",
+  "fromCloud": "2026-11-20T0403.json"
+ },
+ {
+  "id": "8bb1445194aee228",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "פימקו מזהירה: אתם חשופים ל-AI יותר ממה שאתם מעריכים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1STjVPaVNHbmE0UF81MmZzRHE0MXVaTmtNS2tYVFJqM2xyVS0zUnBHbFZYb29qUzRxZ1prTHJvaFkxYjhNdk1CemhjQ0pudDlsOU5NbldXUXpKT29pZU5fUzB5OTlHOHRzbVFvYUhncFE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1STjVPaVNHbmE0UF81MmZzRHE0MXVaTmtNS2tYVFJqM2xyVS0zUnBHbFZYb29qUzRxZ1prTHJvaFkxYjhNdk1CemhjQ0pudDlsOU5NbldXUXpKT29pZU5fUzB5OTlHOHRzbVFvYUhncFE?oc=5\" target=\"_blank\">פימקו מזהירה: אתם חשופים ל-AI יותר ממה שאתם מעריכים</a>&",
+  "date": "2026-11-19T23:18:00.000Z",
+  "fetched": "2026-11-20T04:03:12.311Z",
+  "fromCloud": "2026-11-20T0403.json"
  },
  {
   "id": "9a5ff1a9f69c9f3e",
