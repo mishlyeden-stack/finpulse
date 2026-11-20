@@ -1,5 +1,93 @@
 [
  {
+  "id": "5ac07c1995291231",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "RLX Technology Revenue Jumps 70% Following European Acquisition - Tobacco Reporter",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGhpellQa1ZHMzJhaWhMbFhPMHdULUM0c1ZhSmc3TEhLYk9MZEdmUlcwNnRReUlyQkphSkNKXy1QY2JKeHFmVW5GVEFWbktETmZTR3hFa0h6cFJsSjJreUdkZjRuUGtxeFhuNXBGR3pDcUtFckZzQ1pEamFMLXF3aklKQlE5S21IYW43b3I5RjdubnFsY2VaamVWcXgyVTBkLUlFOA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGhpellQa1ZHMzJhaWhMbFhPMHdULUM0c1ZhSmc3TEhLYk9MZEdmUlcwNnRReUlyQkphSkNKXy1QY2JKeHFmVW5GVEFWbktETmZTR3hFa0h6cFJsSjJreUdkZjRuUGtxeFhuNXBGR3pDcUtFckZzQ1pEamFMLXF3aklKQlE5S21IYW43b3I5RjdubnFsY2VaamVWcXgyVTBkLUlFOA?oc=5\" t",
+  "date": "2026-11-20T21:01:10.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
+ },
+ {
+  "id": "56f6e4b73b76edca",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - SLR Secured Specialty Lending Fund (0002136418) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2136418/000119312526470212/0001193125-26-470212-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-470212 <b>Size:</b> 138 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events",
+  "date": "2026-11-20T21:00:32.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
+ },
+ {
+  "id": "dbc440fb9a5b918a",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - International Money Express, Inc. (0001683695) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1683695/000114036126045083/0001140361-26-045083-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001140361-26-045083 <b>Size:</b> 145 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-20T21:00:19.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
+ },
+ {
+  "id": "d9f0deb1b6ae01cc",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - PUGET SOUND ENERGY INC (0000081100) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/81100/000119312526470210/0001193125-26-470210-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-470210 <b>Size:</b> 401 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-20T21:00:06.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
+ },
+ {
+  "id": "650cb64fa3c163fc",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הקונים מאסו בפוליאסטר: ראלף לורן עלתה 85% בשנתיים, שיין מאבדת גובה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05d0lMWms5bUtIUlV4bDdYVjVPVGZINXBhLTNqMzd4SC1WWEdNbVBiZFBkcV8xNmtTQ211QXVqVTRfdmE2RHEwNGFUVGN2Z3A2Y0trNEltODY5UURzVHdCU3VMS1lmWnRGd1QzNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE05d0lMWms5bUtIUlV4bDdYVjVPVGZINXBhLTNqMzd4SC1WWEdNbVBiZFBkcV8xNmtTQ211QXVqVTRfdmE2RHEwNGFUVGN2Z3A2Y0trNEltODY5UURzVHdCU3VMS1lmWnRGd1QzNA?oc=5\" target=\"_blank\">הקונים מאסו בפוליאסטר: ראלף לורן עלתה 85% בשנתיים, שיין מאבדת",
+  "date": "2026-11-20T20:50:00.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
+ },
+ {
+  "id": "7691ee6a22903027",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Competition complaint filed over Cooke's acquisition of Avramar - IntraFish",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpsUE8yUVJ3YUxTLXBrcjBXVjJsWXBBeHJDWW1YcXF5YVRZWm5TZEpONnJmV2ZUZXJVdWxKczFQNDZaNkVlcktDZFR4cjVoQ3NZdnZnQUJRdXNvWFV3NzRTa3hka2tpOVpFYktIbWowamZ6S3lkYlVyOWxKRGxlRm92TUR3aTBQOTgwU0hiOFFBbGRFblIxeTNTdG5XNGc3UjVfSlpCR2dkVmd1MGpwNTZR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpsUE8yUVJ3YUxTLXBrcjBXVjJsWXBBeHJDWW1YcXF5YVRZWm5TZEpONnJmV2ZUZXJVdWxKczFQNDZaNkVlcktDZFR4cjVoQ3NZdnZnQUJRdXNvWFV3NzRTa3hka2tpOVpFYktIbWowamZ6S3lkYlVyOWxKRGxlRm92TUR3aTBQOTgwU0hiOFFBbGRFblIxeTNTdG5XNGc3UjVfSlpCR2dkVm",
+  "date": "2026-11-20T20:37:47.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
+ },
+ {
+  "id": "c779d036fada4ca8",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הבונדסבנק דוחף להעלאת ריבית שלישית באירופה: מה זה אומר על היורו - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5seXdmZXB4YnpCcHBGV09la2psUU1BOTFtb2RxUmdXNDNHQTlhVTdJUDRjWEx0dEN1V3JqY01TalloLVFDOXd3SHNiRG43WGtfVEhLRkNZSWd6WVR5a3FvWDdUbUd2WVBEYlVMTC1MeUY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5seXdmZXB4YnpCcHBGV09la2psUU1BOTFtb2RxUmdXNDNHQTlhVTdJUDRjWEx0dEN1V3JqY01TalloLVFDOXd3SHNiRG43WGtfVEhLRkNZSWd6WVR5a3FvWDdUbUd2WVBEYlVMTC1MeUY?oc=5\" target=\"_blank\">הבונדסבנק דוחף להעלאת ריבית שלישית באירופה: מה זה אומר ע",
+  "date": "2026-11-20T20:35:00.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
+ },
+ {
+  "id": "eb0cb6ad6a07638c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MasTec agrees to buy Murphy for US$1.25 billion as shares fall - finchannel",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaUhmQlFDRW0tQ0FpN3RYaVpULXpVX3pVak1lek5uNXdTNXNvemwzQk5ZajAxZUMySjdqaFBSaGw0TjNGUHRvRkdOYXh1d0R3am5oWUp6QWZaeWN5U2JzWTRwY3d1LVVldzlaWW9RZUlPVkx6a2tSWFVBck5HUlFtakxuOTdjQWdRWDdGSTBhNWhDTWxaVmVxdUpza0xkaGpXaVFabktUbk1pdnVOMkswSVdrRGxseEVBaGdQSlUtR0RobWhyaXV0bUVOSUNHWU52dk4weVM4VlN1emI0Tmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaUhmQlFDRW0tQ0FpN3RYaVpULXpVX3pVak1lek5uNXdTNXNvemwzQk5ZajAxZUMySjdqaFBSaGw0TjNGUHRvRkdOYXh1d0R3am5oWUp6QWZaeWN5U2JzWTRwY3d1LVVldzlaWW9RZUlPVkx6a2tSWFVBck5HUlFtakxuOTdjQWdRWDdGSTBhNWhDTWxaVmVxdUpza0xkaGpXaVFabktUbk1pdn",
+  "date": "2026-11-20T20:30:19.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
+ },
+ {
   "id": "a40341a1924d3949",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -823,6 +911,17 @@
   "date": "2026-11-20T16:45:00.000Z",
   "fetched": "2026-11-20T17:03:23.904Z",
   "fromCloud": "2026-11-20T1703.json"
+ },
+ {
+  "id": "3c0ec47492fa12a0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "John Deere continues agtech acquisition streak, purchases Orchard AI - FeedNavigator.com",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZUdIUlNTSEppT1p4M3NYNnlJRW44QzJDWlNxbDl3SGh0M09SaVV6Q3RNQVB0Qm9abmNqU0tDZnh6NzNtZ1puM1h1Tmp5blZnTEdZWkRfdVU4dEd1WXlNMW0tU0cwUzlObzVlYUVpMEVsQmFrT2hmeElNU01TZm9qNjI5TnFTMU91ZkFvWDRFeTkyc2FGVmdFY2FncDZYMDJpdEV3WUJBeXdjdDJ6SGlNd1Exak4tUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZUdIUlNTSEppT1p4M3NYNnlJRW44QzJDWlNxbDl3SGh0M09SaVV6Q3RNQVB0Qm9abmNqU0tDZnh6NzNtZ1puM1h1Tmp5blZnTEdZWkRfdVU4dEd1WXlNMW0tU0cwUzlObzVlYUVpMEVsQmFrT2hmeElNU01TZm9qNjI5TnFTMU91ZkFvWDRFeTkyc2FGVmdFY2FncDZYMDJpdEV3WUJBeXdjdD",
+  "date": "2026-11-20T16:43:31.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
  },
  {
   "id": "90d84bf7bf1f4686",
@@ -2022,6 +2121,17 @@
   "date": "2026-11-20T13:30:00.000Z",
   "fetched": "2026-11-20T14:03:12.005Z",
   "fromCloud": "2026-11-20T1403.json"
+ },
+ {
+  "id": "163af66a28bcd5d9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CFO pessimism reaches new high in Q4 survey - CFO Brew",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWQ1eGxpOTVJbFlaRU55Q0tRVFFieVk0SjVEdFhhdng4X0xRRW9pM0hpMW15dU02RWRMVmJ5LVQ0VEh4aEhOaDQ4VG9kTmd6OEdYREFkMUFZYl9zekJLcTB3SEsxaHlxc1JPWTRYLWtYd0h1WFJPQnB5Nkd4bGlaMQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWQ1eGxpOTVJbFlaRU55Q0tRVFFieVk0SjVEdFhhdng4X0xRRW9pM0hpMW15dU02RWRMVmJ5LVQ0VEh4aEhOaDQ4VG9kTmd6OEdYREFkMUFZYl9zekJLcTB3SEsxaHlxc1JPWTRYLWtYd0h1WFJPQnB5Nkd4bGlaMQ?oc=5\" target=\"_blank\">CFO pessimism reaches new high in",
+  "date": "2026-11-20T13:27:15.000Z",
+  "fetched": "2026-11-20T21:03:13.755Z",
+  "fromCloud": "2026-11-20T2103.json"
  },
  {
   "id": "5d14bd11d006476a",
@@ -6994,236 +7104,5 @@
   "date": "2026-11-19T21:05:00.000Z",
   "fetched": "2026-11-19T22:03:12.086Z",
   "fromCloud": "2026-11-19T2203.json"
- },
- {
-  "id": "6622d9d57ae915c8",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Hyperion DeFi CFO David Knox to Resign; Andrew Sparling to Serve as Interim Principal Financial Officer - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYm9PQWJuOFNybUxXeGVxVkh4aWp4aDRmVDJtMWM1Wk9wM2E3RE42MkluYmVMRGI4RGxqUW5KYnpod1hKZ0JzQmFyUFJQczlZdG9YSjNKSjRGWTd0OUg3YlllMTJlOGh5MlBSLWRhbmx3dEdaLXRQcEhVMm5CMjVmaEkwQTZrbXZWNkJTbmNuZ3ZJcDlGRDhKLVR0VXEtbTlWWVh6X2Z3a1pqX2JoV29DMFJuX3lGUjJjV2I2U19FQ0Y4WDFkSk9GclRwUmFxQU11bWxPWXBpRVRZeGl3SnpLUEhDc3dzUlhQbXhUZWF3Z1JjSFEwN25V?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYm9PQWJuOFNybUxXeGVxVkh4aWp4aDRmVDJtMWM1Wk9wM2E3RE42MkluYmVMRGI4RGxqUW5KYnpod1hKZ0JzQmFyUFJQczlZdG9YSjNKSjRGWTd0OUg3YlllMTJlOGh5MlBSLWRhbmx3dEdaLXRQcEhVMm5CMjVmaEkwQTZrbXZWNkJTbmNuZ3ZJcDlGRDhKLVR0VXEtbTlWWVh6X2Z3a1pqX2",
-  "date": "2026-11-19T21:03:01.000Z",
-  "fetched": "2026-11-19T21:33:29.058Z",
-  "fromCloud": "2026-11-19T2133.json"
- },
- {
-  "id": "dd5c74caa55a1316",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - ALPHA & OMEGA SEMICONDUCTOR Ltd (0001387467) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1387467/000162828026075064/0001628280-26-075064-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001628280-26-075064 <b>Size:</b> 168 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
-  "date": "2026-11-19T21:02:36.000Z",
-  "fetched": "2026-11-19T21:03:21.494Z",
-  "fromCloud": "2026-11-19T2103.json"
- },
- {
-  "id": "4460d2fd5d32a093",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Anthropic shares jump 17% after record Wall Street listing",
-  "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
-  "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
-  "date": "2026-11-19T21:02:09.000Z",
-  "fetched": "2026-11-19T21:33:29.058Z",
-  "fromCloud": "2026-11-19T2133.json"
- },
- {
-  "id": "0ecca9d9dcbb73df",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - SLR Investment Corp. (0001418076) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1418076/000119312526468526/0001193125-26-468526-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001193125-26-468526 <b>Size:</b> 139 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
-  "date": "2026-11-19T21:01:22.000Z",
-  "fetched": "2026-11-19T21:03:21.494Z",
-  "fromCloud": "2026-11-19T2103.json"
- },
- {
-  "id": "5d243bd6ed0d70db",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Avalanche Treasury Corp (0002092446) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2092446/000110465926130117/0001104659-26-130117-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001104659-26-130117 <b>Size:</b> 4 MB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T21:01:21.000Z",
-  "fetched": "2026-11-19T21:03:21.494Z",
-  "fromCloud": "2026-11-19T2103.json"
- },
- {
-  "id": "e574f37099486d8f",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - POWER SOLUTIONS INTERNATIONAL, INC. (0001137091) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1137091/000119312526468525/0001193125-26-468525-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001193125-26-468525 <b>Size:</b> 281 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
-  "date": "2026-11-19T21:01:10.000Z",
-  "fetched": "2026-11-19T21:03:21.494Z",
-  "fromCloud": "2026-11-19T2103.json"
- },
- {
-  "id": "ab1ff92255f3041d",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Onfolio Holdings, Inc (0001825452) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1825452/000121390026122229/0001213900-26-122229-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001213900-26-122229 <b>Size:</b> 242 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T21:00:50.000Z",
-  "fetched": "2026-11-19T21:03:21.494Z",
-  "fromCloud": "2026-11-19T2103.json"
- },
- {
-  "id": "2131b1f0d682922e",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Cayson Acquisition Corp (0002024203) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2024203/000149315226053236/0001493152-26-053236-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001493152-26-053236 <b>Size:</b> 300 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T21:00:34.000Z",
-  "fetched": "2026-11-19T21:03:21.494Z",
-  "fromCloud": "2026-11-19T2103.json"
- },
- {
-  "id": "6d440c60362a1599",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - UNITY BANCORP INC /NJ/ (0000920427) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/920427/000119312526468515/0001193125-26-468515-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-19 <b>AccNo:</b> 0001193125-26-468515 <b>Size:</b> 262 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T21:00:13.000Z",
-  "fetched": "2026-11-19T21:03:21.494Z",
-  "fromCloud": "2026-11-19T2103.json"
- },
- {
-  "id": "0b914081ddcfb466",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Australian PM to meet Xi Jinping as iron ore tensions loom",
-  "link": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
-  "summary": "Prime Minister Anthony Albanese to hold bilateral talks with China’s president on Friday",
-  "date": "2026-11-19T21:00:10.000Z",
-  "fetched": "2026-11-19T22:03:12.086Z",
-  "fromCloud": "2026-11-19T2203.json"
- },
- {
-  "id": "cc0995a34dfac6ff",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "טראמפ, שי ופוטין מבטיחים עוד דלק לעולם - והנפט כמעט לא זז - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yUXNMRm5UX0Y2NzJ0YWsxb1lYa3dNX25fVHZPeDlWYU5COUg4RkJIV0lVanBqSFh2QlVnSGctbXJVVjFnZGVHamhGTE5KM1NuOE9wU29ZY2ZwTGd0TElvWnAwaWNTNXVTQWFGRjFuZ1E?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0yUXNMRm5UX0Y2NzJ0YWsxb1lYa3dNX25fVHZPeDlWYU5COUg4RkJIV0lVanBqSFh2QlVnSGctbXJVVjFnZGVHamhGTE5KM1NuOE9wU29ZY2ZwTGd0TElvWnAwaWNTNXVTQWFGRjFuZ1E?oc=5\" target=\"_blank\">טראמפ, שי ופוטין מבטיחים עוד דלק לעולם - והנפט כמעט לא ז",
-  "date": "2026-11-19T20:59:00.000Z",
-  "fetched": "2026-11-19T23:03:12.677Z",
-  "fromCloud": "2026-11-19T2303.json"
- },
- {
-  "id": "feb182c3cd4f299c",
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "Economic outlook dims on weak consumer expectations: Conference Board",
-  "link": "https://www.cfodive.com/news/economic-outlook-dims-weak-consumer-expectations-conference-board-inflation-wages-fed/875259/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TqjLUSYj8qo3mJJsE3SMkmxfWrRFevlX2O24Pzxt7XY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjEzNTUyNjYxLmpwZw==.webp\"/></div></figure><p>Economic growth so far this year has primarily hinged ",
-  "date": "2026-11-19T20:55:01.000Z",
-  "fetched": "2026-11-19T22:03:12.086Z",
-  "fromCloud": "2026-11-19T2203.json"
- },
- {
-  "id": "a48e817d389fe021",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "NAIC Fall Meeting: What CLO, Rated Fund and CFO Mark... - Dechert",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTgtMHpSa3JoZU1YazhTY3BnM2hzOS1GajBWaVBmY1JCa2tpeDctemJ3U1l5aFNSVEVIbkhxMlFDSmgweDVpRVMyRHBqcjRrQmE3eEZrWlAyQnhIZ3gzVFFxVHR2X1U5MXJPVmlXUjNqQTZ1VEpzdk9zM3FlUktIci11MkFPOUdMUXV6WUJ5bnhzZHR0X2VicGdLYkR2aVBveVdYVUFQRk84MXl4SXg3YWdhc3oyM3ZDTFZr?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTgtMHpSa3JoZU1YazhTY3BnM2hzOS1GajBWaVBmY1JCa2tpeDctemJ3U1l5aFNSVEVIbkhxMlFDSmgweDVpRVMyRHBqcjRrQmE3eEZrWlAyQnhIZ3gzVFFxVHR2X1U5MXJPVmlXUjNqQTZ1VEpzdk9zM3FlUktIci11MkFPOUdMUXV6WUJ5bnhzZHR0X2VicGdLYkR2aVBveVdYVUFQRk84MX",
-  "date": "2026-11-19T20:51:54.000Z",
-  "fetched": "2026-11-19T22:33:11.902Z",
-  "fromCloud": "2026-11-19T2233.json"
- },
- {
-  "id": "b1be1db98fb57c93",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "השורטיסט שהזהיר מפני אנבידיה מסמן יעד חדש: \"השבבים של סרברס לא מחזיקים מעמד\" - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vRk1oTkdTSnRNeVRVM0NsbnVvb3hwS0NfR003bWpzOGM3TmpIN2lDZkRkVWVoSi1Va2duRU53Z3l1NV9xTUFzV3JtZ0c2QW1OemY0TXV3MEY1dTB6bV9IQUNlemdfaEdzR29yQjFTYXI?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9vRk1oTkdTSnRNeVRVM0NsbnVvb3hwS0NfR003bWpzOGM3TmpIN2lDZkRkVWVoSi1Va2duRU53Z3l1NV9xTUFzV3JtZ0c2QW1OemY0TXV3MEY1dTB6bV9IQUNlemdfaEdzR29yQjFTYXI?oc=5\" target=\"_blank\">השורטיסט שהזהיר מפני אנבידיה מסמן יעד חדש: \"השבבים של סר",
-  "date": "2026-11-19T20:51:00.000Z",
-  "fetched": "2026-11-19T22:03:12.086Z",
-  "fromCloud": "2026-11-19T2203.json"
- },
- {
-  "id": "b62f491a98e61bbd",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow of Southport Acquisition Corp. II Redeemable – NYSE:PORT/W - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHo2SHNuazJpZmxqSE5nZ1BHLUozTzc1S2FTd0FaUFJLbEpORllxV3U2U0NpOTdyUGhUemNJVkpKMkdLMmRGVnFXS0MwaHNjaHVkUHVaY294QmIyRVN1aEM4OGJwOVR6MlRyVThYWEVpVFF4NngyYzRsQVRSekxIS0syTXhKTjRLTTY3Rg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHo2SHNuazJpZmxqSE5nZ1BHLUozTzc1S2FTd0FaUFJLbEpORllxV3U2U0NpOTdyUGhUemNJVkpKMkdLMmRGVnFXS0MwaHNjaHVkUHVaY294QmIyRVN1aEM4OGJwOVR6MlRyVThYWEVpVFF4NngyYzRsQVRSekxIS0syTXhKTjRLTTY3Rg?oc=5\" target=\"_blank\">Free cash flow of",
-  "date": "2026-11-19T20:49:13.000Z",
-  "fetched": "2026-11-19T22:33:11.902Z",
-  "fromCloud": "2026-11-19T2233.json"
- },
- {
-  "id": "c0df07bcdffde2ba",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "CrossFit Still Looking for One of \"The Willing\" as CFO Listing Returns - The Barbell Spin",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNREd3ckRlUVRlRVNKZHNoak1qMlluNHMxWDZhc21fUVI3dEFlNVFGa1dHUGtxT2V4VldnaEpyOUZWRTY5UkhiTjFIejJPX2ZRZVJsUU9WNmJIVk5OaE9XOXZudXNQX252SUJqZzF1Ui1mUFdQX2tpU283NDZ4Q2Uzc0dGUlNDRm84Z1ZQVW1femtpdmgyQ19UcGhvNHBzeF96LWo2emVGNA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNREd3ckRlUVRlRVNKZHNoak1qMlluNHMxWDZhc21fUVI3dEFlNVFGa1dHUGtxT2V4VldnaEpyOUZWRTY5UkhiTjFIejJPX2ZRZVJsUU9WNmJIVk5OaE9XOXZudXNQX252SUJqZzF1Ui1mUFdQX2tpU283NDZ4Q2Uzc0dGUlNDRm84Z1ZQVW1femtpdmgyQ19UcGhvNHBzeF96LWo2emVGNA?oc=",
-  "date": "2026-11-19T20:47:04.000Z",
-  "fetched": "2026-11-19T21:33:29.058Z",
-  "fromCloud": "2026-11-19T2133.json"
- },
- {
-  "id": "cd16da367d13638a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "RED BANK CFO RECALLS PRO HOOPS CAREER - Red Bank Green",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXZPMGozaTA5YjJIOXBhNlZkaFJRWjB2LUR5QlZ1eWxFTVhscGZfeHQzOExJbHFVd0Ntd25vMFhCMFhITkZjbGdJZm1KUHRHU0tfWEhpMDhVQm41NUpZTkcwNU9JR2tudkhrV2JDUFU4S0dsdk9MbUt5Z3lnNHc1YQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXZPMGozaTA5YjJIOXBhNlZkaFJRWjB2LUR5QlZ1eWxFTVhscGZfeHQzOExJbHFVd0Ntd25vMFhCMFhITkZjbGdJZm1KUHRHU0tfWEhpMDhVQm41NUpZTkcwNU9JR2tudkhrV2JDUFU4S0dsdk9MbUt5Z3lnNHc1YQ?oc=5\" target=\"_blank\">RED BANK CFO RECALLS PRO HOOPS CA",
-  "date": "2026-11-19T20:45:21.000Z",
-  "fetched": "2026-11-19T21:03:21.494Z",
-  "fromCloud": "2026-11-19T2103.json"
- },
- {
-  "id": "1ad52d059ff28274",
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "US dealmaking growth to slow in 2027: EY",
-  "link": "https://www.cfodive.com/news/dealmaking-growth-slowdown-2027-ey/875257/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Sf01LMpVfAtQvGp5t8wQr40xEE2xfTM5-MCgoQllXDE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDc5MTM0NzYzLmpwZw==.webp\"/></div></figure><p>After a three-year boom, deal activity is expected to ",
-  "date": "2026-11-19T20:44:11.000Z",
-  "fetched": "2026-11-19T22:03:12.086Z",
-  "fromCloud": "2026-11-19T2203.json"
- },
- {
-  "id": "3c00603196b409ae",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פי 4 דירות בבית וגן: קרסו וקדמת היובל הרסו 60 דירות ויקימו 246 במקומן - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04OGFuRk9HZEM3N0tJMEJoX3Bnc1dVb3o4Nno4OUYzWGNZeG5rQ21hdl9lM1QzbUpDdHptdGhVZEZJZE4tcTV0RFNoT0s0ZFo1M1R5M0ZEb2xUVF91ZjJmS2xsaHRPYWY3SVI2SFNn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE04OGFuRk9HZEM3N0tJMEJoX3Bnc1dVb3o4Nno4OUYzWGNZeG5rQ21hdl9lM1QzbUpDdHptdGhVZEZJZE4tcTV0RFNoT0s0ZFo1M1R5M0ZEb2xUVF91ZjJmS2xsaHRPYWY3SVI2SFNn?oc=5\" target=\"_blank\">פי 4 דירות בבית וגן: קרסו וקדמת היובל הרסו 60 דירות ויקימו ",
-  "date": "2026-11-19T20:41:00.000Z",
-  "fetched": "2026-11-19T23:55:03.739Z",
-  "fromCloud": "2026-11-19T2355.json"
- },
- {
-  "id": "79025dfc708e41a0",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מרד בגוגל: יותר מ-500 עובדים דורשים חיפוש בלי AI לבתי הספר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RaXY1eGlubUxwM0V2cnRCeVVlYnVkelJBU0QydVZ5Z09tY2lFM2RVbmJJanlYU05Zdm5MVkR6NDhDUWVPdGNjMXVGbDhsa1I3VVpPaG52WUNNNlhfVC1Nc2VPT013RWwz?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RaXY1eGlubUxwM0V2cnRCeVVlYnVkelJBU0QydVZ5Z09tY2lFM2RVbmJJanlYU05Zdm5MVkR6NDhDUWVPdGNjMXVGbDhsa1I3VVpPaG52WUNNNlhfVC1Nc2VPT013RWwz?oc=5\" target=\"_blank\">מרד בגוגל: יותר מ-500 עובדים דורשים חיפוש בלי AI לבתי הספר</a>&nbsp",
-  "date": "2026-11-19T20:40:00.000Z",
-  "fetched": "2026-11-19T21:33:29.058Z",
-  "fromCloud": "2026-11-19T2133.json"
- },
- {
-  "id": "ba96ccac064a7766",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Law firms that caved to Trump brace for scrutiny from new Congress",
-  "link": "https://www.ft.com/content/4e712188-9dfc-4e2a-b997-3dacde95bf08?syn-25a6b1a6=1",
-  "summary": "Firms are hiring outside lawyers as Democrats probe deals they struck with the president",
-  "date": "2026-11-19T20:35:00.000Z",
-  "fetched": "2026-11-19T21:03:21.494Z",
-  "fromCloud": "2026-11-19T2103.json"
  }
 ]
