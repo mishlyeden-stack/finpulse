@@ -55,6 +55,17 @@
   "fromCloud": "2026-11-19T2333.json"
  },
  {
+  "id": "3ab7d47444465d78",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "המדד החודשי לפעילות המשק עלה ב־0.6% באוקטובר - כיף",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTm11Vk9QdVQtNWJyT2prNDBIcF9Nam5sTU83RE5fSk04YzdoOV9QX0VDcWxEOEF6NGZfa3BXOWJaRFhjeDF5QUMzQXdVaXFMTi1tdHRtUlVfTWRDWExrRUhlb0ZLeFJWVkF6ZEt0cGNCcDRwNUE0LVpBLTBORWJ4djVwMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPTm11Vk9QdVQtNWJyT2prNDBIcF9Nam5sTU83RE5fSk04YzdoOV9QX0VDcWxEOEF6NGZfa3BXOWJaRFhjeDF5QUMzQXdVaXFMTi1tdHRtUlVfTWRDWExrRUhlb0ZLeFJWVkF6ZEt0cGNCcDRwNUE0LVpBLTBORWJ4djVwMA?oc=5\" target=\"_blank\">המדד החודשי לפעילות המשק עלה ",
+  "date": "2026-11-19T22:55:26.000Z",
+  "fetched": "2026-11-20T00:03:17.073Z",
+  "fromCloud": "2026-11-20T0003.json"
+ },
+ {
   "id": "20d10698f8004a8f",
   "source": "Financial Times",
   "group": "global-press",
@@ -4134,27 +4145,5 @@
   "date": "2026-11-19T01:17:46.000Z",
   "fetched": "2026-11-19T20:03:30.723Z",
   "fromCloud": "2026-11-19T2003.json"
- },
- {
-  "id": "8f845f868c76b729",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Building pharma’s laboratory of the future",
-  "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future",
-  "summary": "Leading biopharma organizations are integrating artificial intelligence and physical automation into their laboratories to escape the R&D productivity trap.",
-  "date": "2026-11-19T00:00:00.000Z",
-  "fetched": "2026-11-19T16:03:12.770Z",
-  "fromCloud": "2026-11-19T1603.json"
- },
- {
-  "id": "b87895057fbcea57",
-  "source": "McKinsey Insights",
-  "group": "cfo",
-  "title": "Author Talks: Defining customer needs locally to create global value",
-  "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-defining-customer-needs-locally-to-create-global-value",
-  "summary": "What is one of the biggest mistakes companies make when designing products? Dartmouth’s Vijay Govindarajan outlines a playbook for high-performance, low-cost innovations that scale across markets.",
-  "date": "2026-11-19T00:00:00.000Z",
-  "fetched": "2026-11-19T23:03:12.677Z",
-  "fromCloud": "2026-11-19T2303.json"
  }
 ]
