@@ -1,5 +1,159 @@
 [
  {
+  "id": "6c69aef9fa32bc07",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Gallagher harvests more US crop insurance through Iowa agri-acquisition - Intelligent Insurer",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdmFCVjBJYWRteXBNUHRQbGM3THk3RGFnaVdmRjk5OEZjbUJNRXl0WDZhdldublAxSVFEbnNXbXo2cHRRVlVydGU4SW9XUXhDUWhZYWF4OU5VUXdhckQ3S1ZwazFMcTUxTUFPRTczTElsYVZEVzk2VVU1dWFjWnZmYmJpd0c4QTNGMGhoTXpvb3ZiSzJnY21GZ0dSWTZNSU53NElEUEpJbHB4Zw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdmFCVjBJYWRteXBNUHRQbGM3THk3RGFnaVdmRjk5OEZjbUJNRXl0WDZhdldublAxSVFEbnNXbXo2cHRRVlVydGU4SW9XUXhDUWhZYWF4OU5VUXdhckQ3S1ZwazFMcTUxTUFPRTczTElsYVZEVzk2VVU1dWFjWnZmYmJpd0c4QTNGMGhoTXpvb3ZiSzJnY21GZ0dSWTZNSU53NElEUEpJbHB4Zw",
+  "date": "2026-11-20T11:00:13.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "4a83985e4dd199c4",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Hochtief's Yexio launches Edge data center in Paderborn, Germany",
+  "link": "https://www.datacenterdynamics.com/en/news/hochtiefs-yexio-launches-edge-data-center-in-paderborn-germany/",
+  "summary": "<p data-block-key=\"whx6k\">Second facility under the Yexio name, more planned across DACH</p>",
+  "date": "2026-11-20T10:55:52.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "7ee9a5c1e8bf8eb2",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Nexalus and Renda launch liquid-cooled AI server for data center retrofit market",
+  "link": "https://www.datacenterdynamics.com/en/news/nexalus-and-renda-launch-liquid-cooled-ai-server-for-data-center-retrofit-market/",
+  "summary": "<p data-block-key=\"z7wlm\">Features eight Nvidia Blackwell GPUs</p>",
+  "date": "2026-11-20T10:54:16.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "2756097d804298f2",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "AWS launches Local Zone Edge location in Bogotá, Colombia",
+  "link": "https://www.datacenterdynamics.com/en/news/aws-launches-local-zone-edge-location-in-bogot%C3%A1-colombia/",
+  "summary": "<p data-block-key=\"bbbh2\">Company continues roll-out of smaller Edge zones</p>",
+  "date": "2026-11-20T10:53:06.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "2be32b97a1a664f4",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+  "link": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+  "summary": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek .",
+  "date": "2026-11-20T10:51:42.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "76c7ad3280bd1c70",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "PowerCompute tests AI and HPC workloads at Oklahoma cryptomine",
+  "link": "https://www.datacenterdynamics.com/en/news/powercompute-tests-ai-and-hpc-workloads-at-oklahoma-cryptomine/",
+  "summary": "<p data-block-key=\"kevtq\">Company dips its toe into AI pivot</p>",
+  "date": "2026-11-20T10:48:06.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "73cd4b0280389a6e",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "ההשקה של GTA 6 הפכה לחגיגת ג'אנק פוד אמריקאית - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41YjdpN1NxRi11RDBjM1B2RzhGejl4OTBhMk9rS1lJQk53TVh2aF9XVC1EYVlIUDdIREhaNVBoR0tYQ05rOGN2NDFCdG00S2swOTBsMHctbzlPMnFoUGdqUGxTLTVXOWVD?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE41YjdpN1NxRi11RDBjM1B2RzhGejl4OTBhMk9rS1lJQk53TVh2aF9XVC1EYVlIUDdIREhaNVBoR0tYQ05rOGN2NDFCdG00S2swOTBsMHctbzlPMnFoUGdqUGxTLTVXOWVD?oc=5\" target=\"_blank\">ההשקה של GTA 6 הפכה לחגיגת ג'אנק פוד אמריקאית</a>&nbsp;&nbsp;<font ",
+  "date": "2026-11-20T10:46:00.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "03289f36d3ebb47e",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Meta to reevaluate net-zero timeline on the back of record emissions",
+  "link": "https://www.datacenterdynamics.com/en/news/meta-to-reevaluate-net-zero-timeline-on-the-back-of-record-emissions/",
+  "summary": "<p data-block-key=\"c4cys\">Company reported a 45 percent increase in carbon footprint due to AI demand</p>",
+  "date": "2026-11-20T10:44:04.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "f8775160ba23876f",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+  "link": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+  "summary": "<p data-block-key=\"ioekc\">Successful in-orbit compute software tests demonstrate progressing maturity of ODC concept</p>",
+  "date": "2026-11-20T10:42:01.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "409887b8ac7a38c0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Xplora Technologies CFO Buys 9,000 Shares At NOK 21.10 Per Share - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd2Q5ZW9WUkNvVk0tYUZEcGViV0U0MVRMaE5ZMUE2TlBGdDgyS3UwX2pKRndWeFF4QnhMek5IMFp1VU5tSzZHTk4wTUtqYlJUbjBHYUY5ZUhoempzcGxNUXpnZ2d6ODZqN0JpZEk0V1RlekZ4ZzdBVXhxZ01EempzRlVCdVVtTDd4TVBVbTk0SXJsS1NESHhYb0hoeUlSQlFGWmtBNWFncHJYUjlrV2hEc1hjV252dmhoLXF3U0pHTTZvTU9YYjY0WFNSckttdTA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQd2Q5ZW9WUkNvVk0tYUZEcGViV0U0MVRMaE5ZMUE2TlBGdDgyS3UwX2pKRndWeFF4QnhMek5IMFp1VU5tSzZHTk4wTUtqYlJUbjBHYUY5ZUhoempzcGxNUXpnZ2d6ODZqN0JpZEk0V1RlekZ4ZzdBVXhxZ01EempzRlVCdVVtTDd4TVBVbTk0SXJsS1NESHhYb0hoeUlSQlFGWmtBNWFncHJYUj",
+  "date": "2026-11-20T10:39:07.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "fa6e0dd18bf7c007",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Alibaba Cloud launches sixth data center in Malaysia",
+  "link": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-launches-sixth-data-center-in-malaysia/",
+  "summary": "<p data-block-key=\"wle3y\">Company also posts Q2 2027 earnings</p>",
+  "date": "2026-11-20T10:39:00.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "8710e152e2151897",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Clearwave to acquire Tucows Ting-owned fiber assets",
+  "link": "https://www.datacenterdynamics.com/en/news/tucows-sells-fiber/",
+  "summary": "<p data-block-key=\"y6ht9\">As Tucows continues to shift fiber assets</p>",
+  "date": "2026-11-20T10:38:08.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "f5b6ed0f978c7e42",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+  "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+  "summary": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek .",
+  "date": "2026-11-20T10:34:10.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "2dae77898f2e7973",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Nobia CFO Rasmus Laursen Leaves - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlU3aWJ3R29HZjREUzhNamxIenRVOWFlRTJDUGx0NEFMR1JFQ1VTSmhrSFk0a3JQdHZMdmJOMkppTmppY2ZYbzRMVmt6TTFHYm1JSVMzS290MUtyRmlEUl8zcmtnWGZ2T3JUeFQ2dFMzSHQyX0gtNVBrVnk3Xzc3bTZfUnZCLUNoUExEN3dLUDR5N0VFbi1aZ1Q4UGRyTHlxeEZn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlU3aWJ3R29HZjREUzhNamxIenRVOWFlRTJDUGx0NEFMR1JFQ1VTSmhrSFk0a3JQdHZMdmJOMkppTmppY2ZYbzRMVmt6TTFHYm1JSVMzS290MUtyRmlEUl8zcmtnWGZ2T3JUeFQ2dFMzSHQyX0gtNVBrVnk3Xzc3bTZfUnZCLUNoUExEN3dLUDR5N0VFbi1aZ1Q4UGRyTHlxeEZn?oc=5\" tar",
+  "date": "2026-11-20T10:26:13.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
   "id": "8c5602085790b04b",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -55,6 +209,17 @@
   "fromCloud": "2026-11-20T1033.json"
  },
  {
+  "id": "48b1339f0a502c9d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Enel Signs Deal With Energyre For Acquisition Of 100% Of Solar Plants Portfolio In South Carolina - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR3NRdVNVWGV6X2ZtWXNhRlFXVS1WUjlHT3dXdFlCdFQ3YkpKdmhfYnBIeU1VNllEU01lRGFzOXB4Z281UFRkVDdCTmQxRm1ZWTNUV1JSTzF4dDMwS2JpUzVyQktTeG9HbHBoMUdiODBCQnFDVjlqOE45Zk1wdUJCYkZfaDE4VXd4T25aMmZWOFF0SE52eEtoSlpYS0d1WUxHMkd2c1ZEMUpjc3dhSkMtaDdBNXJJemQ1SEpWVlFJeUFaMGxyU25XakcxR3hRZFkzRUhBS0tJSm8teW1mQ0ZGRkNiOXdqWnowX3U0V1FjVWNXYkZOMjNUbzd3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR3NRdVNVWGV6X2ZtWXNhRlFXVS1WUjlHT3dXdFlCdFQ3YkpKdmhfYnBIeU1VNllEU01lRGFzOXB4Z281UFRkVDdCTmQxRm1ZWTNUV1JSTzF4dDMwS2JpUzVyQktTeG9HbHBoMUdiODBCQnFDVjlqOE45Zk1wdUJCYkZfaDE4VXd4T25aMmZWOFF0SE52eEtoSlpYS0d1WUxHMkd2c1ZEMUpjc3",
+  "date": "2026-11-20T10:05:26.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
   "id": "ed6f2c44d7068d8b",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -75,6 +240,17 @@
   "date": "2026-11-20T10:00:00.000Z",
   "fetched": "2026-11-20T10:33:24.857Z",
   "fromCloud": "2026-11-20T1033.json"
+ },
+ {
+  "id": "64c7ff8a7c140d63",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Torrent Gold (TGLD) Completes Sunrise Tungsten Project Acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT0xiV0JvOEtfVU9DY0Z0OXkwU01kMzcyVlBaenFUQTVOaDVqNzV0LWtwOC1zUGZ4THdPc3JZNkZPamxtVWYyei12cGdTenl3aTFZU01OSW45dHR5LTZEQUVFZnQxbWZacjlaWVgzZjhsSHY0UmJTZ19vcFhqcGtMaW1QRGpPR0FZeDdKM29IMVRFTnBoWUtJQTBpM3pWQURlTlJlZWtCeF9WejJ6RXp6NnlybHppR2l0bU80bXFtY2kxNU9j?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNT0xiV0JvOEtfVU9DY0Z0OXkwU01kMzcyVlBaenFUQTVOaDVqNzV0LWtwOC1zUGZ4THdPc3JZNkZPamxtVWYyei12cGdTenl3aTFZU01OSW45dHR5LTZEQUVFZnQxbWZacjlaWVgzZjhsSHY0UmJTZ19vcFhqcGtMaW1QRGpPR0FZeDdKM29IMVRFTnBoWUtJQTBpM3pWQURlTlJlZWtCeF9Wej",
+  "date": "2026-11-20T10:00:00.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
  },
  {
   "id": "7780284987c9591a",
@@ -196,6 +372,17 @@
   "date": "2026-11-20T09:20:00.000Z",
   "fetched": "2026-11-20T09:33:11.903Z",
   "fromCloud": "2026-11-20T0933.json"
+ },
+ {
+  "id": "b0757cca6b9cf8e8",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "בנק הפועלים השלימה הנפקת אג\"ח בהיקף של 3.86 מיליארד ₪ בשתי סדרות מאת Investing.com - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTFgtTmJwUHhKeHBSMENnN3NtUGROVng0MTc4UWs5bFpCRHVhNGc2MTAyV09zVkFOa21pTXVoWVlRU2FwcDdGU1VtbGRickNhRGtlOWNfNGVWOHRGVjFTV1BDYy1jMkZBd3VGZ0pMc2IzR1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTFgtTmJwUHhKeHBSMENnN3NtUGROVng0MTc4UWs5bFpCRHVhNGc2MTAyV09zVkFOa21pTXVoWVlRU2FwcDdGU1VtbGRickNhRGtlOWNfNGVWOHRGVjFTV1BDYy1jMkZBd3VGZ0pMc2IzR1E?oc=5\" target=\"_blank\">בנק הפועלים השלימה הנפקת אג\"ח בהיקף של 3.86 מיליארד ",
+  "date": "2026-11-20T09:12:30.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
  },
  {
   "id": "4fc7d7f6faf4f1be",
@@ -1430,6 +1617,17 @@
   "fromCloud": "2026-11-20T0503.json"
  },
  {
+  "id": "aafc9da7113cd918",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סלקום - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZblYwVFF2bjBTNXBBdFEyVk1NMEtVOFNQS3hTWWFQUFJLeFcweldxWVlkLUNmVTFyMGZ3U3lpVmV0SnFhQmN4SjVFd0VQbTd2TE1fQmpsa3RyQTFiRG5XXw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZblYwVFF2bjBTNXBBdFEyVk1NMEtVOFNQS3hTWWFQUFJLeFcweldxWVlkLUNmVTFyMGZ3U3lpVmV0SnFhQmN4SjVFd0VQbTd2TE1fQmpsa3RyQTFiRG5XXw?oc=5\" target=\"_blank\">סלקום</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-20T04:44:30.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
   "id": "148a734732c84f8e",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -1870,6 +2068,28 @@
   "fromCloud": "2026-11-20T0403.json"
  },
  {
+  "id": "d5b052371874ba1c",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Appalachian Consumer Rate Relief Funding II LLC (0002145891) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2145891/000119312526468994/0001193125-26-468994-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-468994 <b>Size:</b> 2 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-20T01:50:38.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "56b81bd374ed1114",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - APPALACHIAN POWER CO (0000006879) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/6879/000119312526468994/0001193125-26-468994-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-468994 <b>Size:</b> 2 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-20T01:50:38.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
   "id": "cd5d4e796b343171",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1879,6 +2099,17 @@
   "date": "2026-11-20T01:47:13.000Z",
   "fetched": "2026-11-20T09:33:11.903Z",
   "fromCloud": "2026-11-20T0933.json"
+ },
+ {
+  "id": "979454ae259299d2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Wheeling Consumer Rate Relief Funding LLC (0002145887) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2145887/000119312526468987/0001193125-26-468987-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-468987 <b>Size:</b> 2 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-20T01:46:32.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
  },
  {
   "id": "03ece42c5fe86258",
@@ -2013,6 +2244,17 @@
   "fromCloud": "2026-11-20T0303.json"
  },
  {
+  "id": "43fcbd21de76853e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Forefront Tech Holdings Acquisition Corp (0002097986) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2097986/000121390026122336/0001213900-26-122336-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001213900-26-122336 <b>Size:</b> 423 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements o",
+  "date": "2026-11-20T00:36:27.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
   "id": "59d95b3c3251eb5d",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -2033,6 +2275,28 @@
   "date": "2026-11-20T00:28:41.000Z",
   "fetched": "2026-11-20T00:33:13.404Z",
   "fromCloud": "2026-11-20T0033.json"
+ },
+ {
+  "id": "c2fcb53650446487",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Solidion Technology Inc. (0001881551) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1881551/000121390026122335/0001213900-26-122335-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001213900-26-122335 <b>Size:</b> 236 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 5.07: Submission of Matters to",
+  "date": "2026-11-20T00:28:23.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "8a1ddb9ca8ada8b7",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Liberty Latin America Ltd. (0001712184) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000169/0001712184-26-000169-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001712184-26-000169 <b>Size:</b> 194 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-20T00:18:13.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
  },
  {
   "id": "15f1d8c941119f50",
@@ -2222,6 +2486,17 @@
   "fromCloud": "2026-11-20T0003.json"
  },
  {
+  "id": "73ae0f9002304bdf",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מחקר על 29 מיליון איש: זיהום אוויר ומעט ירוק מעלים את הסיכון ללב - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xWkFWbEZmYnFVeTg5OUhDNkVreThzaVZFcG5NTlNLZjhtVm1Ya3VGYkRwc1hyNTZMUU4zSERDS3NDTUlhZHFnbGJEUkp1T1pINTA3TjQyQnpoZGFaUTgzbzlOQnFzUm0z?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xWkFWbEZmYnFVeTg5OUhDNkVreThzaVZFcG5NTlNLZjhtVm1Ya3VGYkRwc1hyNTZMUU4zSERDS3NDTUlhZHFnbGJEUkp1T1pINTA3TjQyQnpoZGFaUTgzbzlOQnFzUm0z?oc=5\" target=\"_blank\">מחקר על 29 מיליון איש: זיהום אוויר ומעט ירוק מעלים את הסיכון ללב</a",
+  "date": "2026-11-19T22:54:00.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
+ },
+ {
   "id": "20d10698f8004a8f",
   "source": "Financial Times",
   "group": "global-press",
@@ -2275,6 +2550,17 @@
   "date": "2026-11-19T22:41:00.000Z",
   "fetched": "2026-11-20T01:33:13.373Z",
   "fromCloud": "2026-11-20T0133.json"
+ },
+ {
+  "id": "968abe6274fc479f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Mentari Therapeutics, Inc. (0001728328) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1728328/000119312526468852/0001193125-26-468852-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-468852 <b>Size:</b> 184 KB <br>Item 4.01: Changes in Registrant's Certifying Accountant <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-19T22:37:21.000Z",
+  "fetched": "2026-11-20T11:03:11.942Z",
+  "fromCloud": "2026-11-20T1103.json"
  },
  {
   "id": "68518a481563b5ae",
