@@ -1,5 +1,115 @@
 [
  {
+  "id": "1dc3703ae9e46a66",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Meridian Holdings Inc./NV (0001437925) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1437925/000147793226007195/0001477932-26-007195-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001477932-26-007195 <b>Size:</b> 176 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
+  "date": "2026-11-20T11:30:39.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
+  "id": "6709f13d31dd4a2b",
+  "source": "AV Network",
+  "group": "industry",
+  "title": "Sennheiser Eliminates RF Headaches for Theatrical Productions",
+  "link": "https://www.avnetwork.com/news/sennheiser-eliminates-rf-headaches-for-theatrical-productions",
+  "summary": "Spectera’s consolidation of wireless microphones and IEM into a single wideband, bidirectional architecture, enhances audio coverage.",
+  "date": "2026-11-20T11:30:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
+  "id": "759eab56d24c5c26",
+  "source": "AV Network",
+  "group": "industry",
+  "title": "'A Feast for the Ears:' Check Out How Genelec Enhances the Dining Experience at Black Rabbit Restaurant",
+  "link": "https://www.avnetwork.com/news/a-feast-for-the-ears-check-out-how-genelec-enhances-the-dining-experience-at-black-rabbit-restaurant",
+  "summary": "Smart IP loudspeakers deliver a relaxed yet lively soundtrack for visitors, while making day-to-day audio management effortless for staff.",
+  "date": "2026-11-20T11:30:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
+  "id": "4977663e8be25277",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "בזמן שכולם מביטים באנתרופיק, ספא איסלנדי מכה גלים בהנפקה באירופה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ub3RaWDRqVkZVQVBLeXVqd0dmUDIxU2Vmbmk1aGJYSXpuSmU3bGdDdEs4SjM2OGhqVE1hcWJ3dnJQZDNCZHlRN2pxRHBpQkNEMDZtZWw4RGY5S0R2U1REZS03aw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ub3RaWDRqVkZVQVBLeXVqd0dmUDIxU2Vmbmk1aGJYSXpuSmU3bGdDdEs4SjM2OGhqVE1hcWJ3dnJQZDNCZHlRN2pxRHBpQkNEMDZtZWw4RGY5S0R2U1REZS03aw?oc=5\" target=\"_blank\">בזמן שכולם מביטים באנתרופיק, ספא איסלנדי מכה גלים בהנפקה באירופה</a>&nbsp",
+  "date": "2026-11-20T11:25:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
+  "id": "d99774fe12a26832",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Culinary nonprofit La Soupe acquires Walnut Hills properties in $2.1M deal - The Business Journals",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEM0OUp4R21jdlE3c1JzNG9MM1ZRMmc3OEtwWWpxWkI4SEhfOGZBSHRiVlAyWEhpMXE5QmQwbW0tek5zVTRuOEgyNy1ZM3dXRzl1enVPM3BNVVJjWjVPQm82TC1CNXk0WmJOenhabFZ6ZFhFd3VlRjN6QkR5dVpGc0c3WFExZTJHWGVrNTRTZW9lOTZuXzR4NWdhRHNnX2pTeHp2Tjh1dGJ1S0ZUaURF?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEM0OUp4R21jdlE3c1JzNG9MM1ZRMmc3OEtwWWpxWkI4SEhfOGZBSHRiVlAyWEhpMXE5QmQwbW0tek5zVTRuOEgyNy1ZM3dXRzl1enVPM3BNVVJjWjVPQm82TC1CNXk0WmJOenhabFZ6ZFhFd3VlRjN6QkR5dVpGc0c3WFExZTJHWGVrNTRTZW9lOTZuXzR4NWdhRHNnX2pTeHp2Tjh1dGJ1S0",
+  "date": "2026-11-20T11:25:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
+  "id": "cb4dcb75a2e6d96c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "RLX Technology (RLX): Q3 2026 revenue up 69.7% on European acquisition - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM1ZKb2xjUm9fS3ZicjRfUjFlYkQ2bXFfWDZ3UExlTmczR0dTa05UN2NrTmd1dldvbk5jc2pVaUxEZHJOc21wVWx5WjVPcUc0SEtDNjh1VVlsanRLX0NRMTNuWV9vMC1VWW42ZjUtVjE5OXpQcHRTX29ubkt4UnFfaF9EZy11dw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNM1ZKb2xjUm9fS3ZicjRfUjFlYkQ2bXFfWDZ3UExlTmczR0dTa05UN2NrTmd1dldvbk5jc2pVaUxEZHJOc21wVWx5WjVPcUc0SEtDNjh1VVlsanRLX0NRMTNuWV9vMC1VWW42ZjUtVjE5OXpQcHRTX29ubkt4UnFfaF9EZy11dw?oc=5\" target=\"_blank\">RLX Technology (RLX): Q3 ",
+  "date": "2026-11-20T11:15:48.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
+  "id": "c12d234ca689498f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Clearwater storage giant PODS taps new C-suite exec - The Business Journals",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSjlvbTNPS0xiWGhjQkpJLVhJeHJmOWlfdmZFd2hXanNJVzRoZUtWbTZOTlZQWWlWUWFPSnlRNmVkcXpmb2M5RFdWaDVobWQ2SjRqTUZaei1aNUg0UHFrTUs2ZUowaVpxZUVpWmxFeWE5Y2JRclhvQmxBVnpnalp6bTMzZ2w?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSjlvbTNPS0xiWGhjQkpJLVhJeHJmOWlfdmZFd2hXanNJVzRoZUtWbTZOTlZQWWlWUWFPSnlRNmVkcXpmb2M5RFdWaDVobWQ2SjRqTUZaei1aNUg0UHFrTUs2ZUowaVpxZUVpWmxFeWE5Y2JRclhvQmxBVnpnalp6bTMzZ2w?oc=5\" target=\"_blank\">Clearwater storage giant POD",
+  "date": "2026-11-20T11:15:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
+  "id": "3764143503d91686",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "ההנפקה הגדולה בהיסטוריה הצליחה – אז למה מניות השבבים ממשיכות לרדת?",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564312#utm_source=RSS",
+  "summary": "הנפקת הענק של אנתרופיק לא החזירה את האופטימיות לוול סטריט שנפלה אתמול ב-2% &#8226; ברקע: חשש שההנפקה שאבה נזילות ממניות אחרות, סימני שאלה לגבי הרווחיות של חברות ה-AI וגם החששות ממינוף יתר &#8226; המבחן יהיה בשבוע הבא עם תחילת המסחר באופציות על מניית אנתרופיק",
+  "date": "2026-11-20T11:07:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
+  "id": "9beb6e08163840bf",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "היממה הראשונה של GTA 6: יותר מ–19 מיליון עותקים נמכרו, וזו רק ההתחלה - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGpoWEJic1YyaUx4dlZjb3ZKT3ltdFd5SklVTzJ1T01JVUpXblFsbi0yeVQ1ZUY0bjk3ZGN4SlhrcUd4bWE0SF8yM1NkS18yMHo1VldkMXVPUk5CV3NJc25XLTFjcnZYY3IyaXJyRDJULUF4aWJybU9TWkpORi1tUnhnTjdOdGlaeW1BRFZpQTlJcHdGR1FXMVVua01JRWFDS01meFdMMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGpoWEJic1YyaUx4dlZjb3ZKT3ltdFd5SklVTzJ1T01JVUpXblFsbi0yeVQ1ZUY0bjk3ZGN4SlhrcUd4bWE0SF8yM1NkS18yMHo1VldkMXVPUk5CV3NJc25XLTFjcnZYY3IyaXJyRDJULUF4aWJybU9TWkpORi1tUnhnTjdOdGlaeW1BRFZpQTlJcHdGR1FXMVVua01JRWFDS01meFdMMA?oc=",
+  "date": "2026-11-20T11:07:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
+  "id": "c33a46c145161fee",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - IT TECH PACKAGING, INC. (0001358190) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1358190/000121390026122369/0001213900-26-122369-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001213900-26-122369 <b>Size:</b> 210 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-20T11:01:39.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
   "id": "6c69aef9fa32bc07",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +119,17 @@
   "date": "2026-11-20T11:00:13.000Z",
   "fetched": "2026-11-20T11:03:11.942Z",
   "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "3a5732c8de52613d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "לופטהנזה מקצצת 1,000 משרות בפרנקפורט ובמינכן: חברת הדגל מפסידה 20 מיליון יורו בחודש - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PRWkyTWZDX0UtNjA1ZE51MmdJNk5URnpKTDVZNGFmajJGSkVqSjRwNjJjeC05QS01RHF1Y29GbWk4X0dIeFhZZWlqWklENm81QmZyZXFXWE1aemhwb2VLMklZbXppRVlwZ19WVlB3akc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1PRWkyTWZDX0UtNjA1ZE51MmdJNk5URnpKTDVZNGFmajJGSkVqSjRwNjJjeC05QS01RHF1Y29GbWk4X0dIeFhZZWlqWklENm81QmZyZXFXWE1aemhwb2VLMklZbXppRVlwZ19WVlB3akc?oc=5\" target=\"_blank\">לופטהנזה מקצצת 1,000 משרות בפרנקפורט ובמינכן: חברת הדגל ",
+  "date": "2026-11-20T10:57:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
  },
  {
   "id": "4a83985e4dd199c4",
@@ -86,6 +207,17 @@
   "date": "2026-11-20T10:44:04.000Z",
   "fetched": "2026-11-20T11:03:11.942Z",
   "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "b5389b4fbfecc47f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bending Spoons Boosts Revenue Outlook and Continues Its Acquisition Spree - Barron's",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWGctbElYRU1LZkViOS11T2RNRWwtM0xtQ0NJaWh2UmFBc1FxWkhyVG9rUkwzVjAteFZEcnlQeXFSbU5paWtreHF1V1dGa3dVMW1YZ2JseGxlNlZpRThCVTBXeWN5OTNtdElxeEw4T2I5c3otdEEzWi1PUzMxQWJjdVRZTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWGctbElYRU1LZkViOS11T2RNRWwtM0xtQ0NJaWh2UmFBc1FxWkhyVG9rUkwzVjAteFZEcnlQeXFSbU5paWtreHF1V1dGa3dVMW1YZ2JseGxlNlZpRThCVTBXeWN5OTNtdElxeEw4T2I5c3otdEEzWi1PUzMxQWJjdVRZTQ?oc=5\" target=\"_blank\">Bending Spoons Boosts Revenue",
+  "date": "2026-11-20T10:44:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
  },
  {
   "id": "f8775160ba23876f",
@@ -251,6 +383,17 @@
   "date": "2026-11-20T10:00:00.000Z",
   "fetched": "2026-11-20T11:03:11.942Z",
   "fromCloud": "2026-11-20T1103.json"
+ },
+ {
+  "id": "bb5499b1923c63aa",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בלאק פריידי באתר מול החנות: 14 ימים לביטול באינטרנט, ולאזרח ותיק 4 חודשים רק אחרי שיחה עם נציג - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HM1ZQR1lTREt5aHl3NzVvV0hoM2Vaa2hQYnRZY08td0FVWkVDRkk2S0RWM1o0VERLNEk0YzNoN1lhQ3JSTnFPU1p4YUZLSFJuWTJtaG43N0tQZzB5WTVZS1JOTmN5Z2ZjcVRNTG52emh1UllabU9qaUhn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5HM1ZQR1lTREt5aHl3NzVvV0hoM2Vaa2hQYnRZY08td0FVWkVDRkk2S0RWM1o0VERLNEk0YzNoN1lhQ3JSTnFPU1p4YUZLSFJuWTJtaG43N0tQZzB5WTVZS1JOTmN5Z2ZjcVRNTG52emh1UllabU9qaUhn?oc=5\" target=\"_blank\">בלאק פריידי באתר מול החנות: 14 ימים לביטול ",
+  "date": "2026-11-20T10:00:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
  },
  {
   "id": "7780284987c9591a",
@@ -880,6 +1023,17 @@
   "fromCloud": "2026-11-20T0803.json"
  },
  {
+  "id": "c5764f02177abaa2",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "ירשתם תיק השקעות? הטעויות שעלולות לעלות לכם מאות אלפי שקלים במס - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXpKUWs3S3o5dDdxUUFyQmFLYVV6NXVrYkt5Vk94OUk2RVliZ3FyUlNoZDBvQ0VyZzhwaWdDQ1k1Z00tT3FjOEd3Z1ZtdkNMSElPSVJ3MjQxNWEwTlBWZ0liNHI0Q05zVW1jU1lucUdXdVNSYU4xUVJUS1AzTFNCaGtUaEktRE93cFlmWW1lUlNzLUdJclE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXpKUWs3S3o5dDdxUUFyQmFLYVV6NXVrYkt5Vk94OUk2RVliZ3FyUlNoZDBvQ0VyZzhwaWdDQ1k1Z00tT3FjOEd3Z1ZtdkNMSElPSVJ3MjQxNWEwTlBWZ0liNHI0Q05zVW1jU1lucUdXdVNSYU4xUVJUS1AzTFNCaGtUaEktRE93cFlmWW1lUlNzLUdJclE?oc=5\" target=\"_blank\">ירשת",
+  "date": "2026-11-20T07:28:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
+ },
+ {
   "id": "d811465a4529b002",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -900,6 +1054,17 @@
   "date": "2026-11-20T07:25:00.000Z",
   "fetched": "2026-11-20T08:03:24.263Z",
   "fromCloud": "2026-11-20T0803.json"
+ },
+ {
+  "id": "73656577c95cf6a3",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אחרי שכר טרחה של 47 מיליון שקל בעשור, KPMG מוחלפת: חברת החשמל בחרה ב-EY - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tenZNbnhmR0NfbTFIV2FLV1B4SF9LeDl4a2VrZzI5X1ZqQzFtWVlLZTdDVU52VGxOSnZOT3M3WVotM0FEZE1hLW4tc0EwaTB2aTZuY0R6NEo1YjBpN0tjNDZYODRNUG8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tenZNbnhmR0NfbTFIV2FLV1B4SF9LeDl4a2VrZzI5X1ZqQzFtWVlLZTdDVU52VGxOSnZOT3M3WVotM0FEZE1hLW4tc0EwaTB2aTZuY0R6NEo1YjBpN0tjNDZYODRNUG8?oc=5\" target=\"_blank\">אחרי שכר טרחה של 47 מיליון שקל בעשור, KPMG מוחלפת: חברת החשמל בחרה ב",
+  "date": "2026-11-20T07:25:00.000Z",
+  "fetched": "2026-11-20T11:33:13.229Z",
+  "fromCloud": "2026-11-20T1133.json"
  },
  {
   "id": "35decb07c08b9327",
@@ -6675,27 +6840,5 @@
   "date": "2026-11-19T11:48:38.000Z",
   "fetched": "2026-11-19T16:03:12.770Z",
   "fromCloud": "2026-11-19T1603.json"
- },
- {
-  "id": "e5a541fbb7384cda",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "כבל תת-ימי - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamk3VGlyVkt4YXhHOE13Vzc1NV8yd0I3cl85cFFYd1QyeV9EcUxNMEFsX01IR2tlMjhsMzhZZlBka1dYRTlWRWwyRjE4MS12eHhnREMzMEx6TFAwSHlYS2hJUFNIdlNnZ3hudGR6MnpWMXBPMTFVajFLX1NfQ3JMYmczbEplV01EUm04?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamk3VGlyVkt4YXhHOE13Vzc1NV8yd0I3cl85cFFYd1QyeV9EcUxNMEFsX01IR2tlMjhsMzhZZlBka1dYRTlWRWwyRjE4MS12eHhnREMzMEx6TFAwSHlYS2hJUFNIdlNnZ3hudGR6MnpWMXBPMTFVajFLX1NfQ3JMYmczbEplV01EUm04?oc=5\" target=\"_blank\">כבל תת-ימי</a>&nbsp",
-  "date": "2026-11-19T11:32:31.000Z",
-  "fetched": "2026-11-19T20:03:30.723Z",
-  "fromCloud": "2026-11-19T2003.json"
- },
- {
-  "id": "a4e805fc3499903e",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "יחסי ארצות הברית ישראל - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUtxZ0VDN1dKV09aZXlmM1FwRW5yNkJ6YzFIbjZrTFV0bFFCSEFobHpfdmp6VjlCWmFTX3ZGZVVISzcyZ1ZvSkYwVGhoOTBCdUpYdDZUXzVKcFByWTNGRGx5WHU5OGVUSjF3c1c1MDB0ZUJVN1ZiZzFQSU5GSGxseFM2d0lLS094TjV6ZkdaUjVlRk94NElqRXZOR3R5QjlpZy0xWEtQakJTakczclRZU3U0bU1jSzRuRklwZUF1WmJXcUpUQVlPMnBySDZxcVB5bFgwclkxTE9ERGd5eEFIVFJOcGY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUtxZ0VDN1dKV09aZXlmM1FwRW5yNkJ6YzFIbjZrTFV0bFFCSEFobHpfdmp6VjlCWmFTX3ZGZVVISzcyZ1ZvSkYwVGhoOTBCdUpYdDZUXzVKcFByWTNGRGx5WHU5OGVUSjF3c1c1MDB0ZUJVN1ZiZzFQSU5GSGxseFM2d0lLS094TjV6ZkdaUjVlRk94NElqRXZOR3R5QjlpZy0xWEtQakJTak",
-  "date": "2026-11-19T11:08:20.000Z",
-  "fetched": "2026-11-19T20:03:30.723Z",
-  "fromCloud": "2026-11-19T2003.json"
  }
 ]
