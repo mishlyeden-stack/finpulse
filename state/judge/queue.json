@@ -33,6 +33,17 @@
   "fromCloud": "2026-11-20T2233.json"
  },
  {
+  "id": "a7e43ebbf0bef846",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Q/C TECHNOLOGIES, INC. (0001321834) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1321834/000149315226053558/0001493152-26-053558-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001493152-26-053558 <b>Size:</b> 342 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 3.03: Material Modifications to Rights of Security Holders <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-20T22:20:19.000Z",
+  "fetched": "2026-11-20T22:38:42.122Z",
+  "fromCloud": "2026-11-20T2238.json"
+ },
+ {
   "id": "cc8b710ce8d0aa7f",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -649,6 +660,17 @@
   "fromCloud": "2026-11-20T2033.json"
  },
  {
+  "id": "dd45e35234443f18",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Cash flow from investing activities of Bluerock Acquisition Corp. II – BOATS:BRRKW - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEtXVWNnZHd1MlhwNGtCbHh4TGhaY2gzMFRqcEtlX2dQWmlINWtfQXc3bzdGcGNlSllZNkJ6c2I0ZWRoSkhuVDBQX0stR2NzNkxvbkMwN0NIa2J4VHdoZlVZSmJQbG1uaFlpQUY0Zk1UNXpVQXFMeS1hSGtiVl82cFdJTC1ycHlqNlhxbi1zT081X3FkOEJyd20wSU9oQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUEtXVWNnZHd1MlhwNGtCbHh4TGhaY2gzMFRqcEtlX2dQWmlINWtfQXc3bzdGcGNlSllZNkJ6c2I0ZWRoSkhuVDBQX0stR2NzNkxvbkMwN0NIa2J4VHdoZlVZSmJQbG1uaFlpQUY0Zk1UNXpVQXFMeS1hSGtiVl82cFdJTC1ycHlqNlhxbi1zT081X3FkOEJyd20wSU9oQQ?oc=5\" target=\"_",
+  "date": "2026-11-20T20:23:58.000Z",
+  "fetched": "2026-11-20T22:38:42.122Z",
+  "fromCloud": "2026-11-20T2238.json"
+ },
+ {
   "id": "d4f76be70e0af4f7",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1131,6 +1153,17 @@
   "date": "2026-11-20T18:24:30.000Z",
   "fetched": "2026-11-20T20:03:27.676Z",
   "fromCloud": "2026-11-20T2003.json"
+ },
+ {
+  "id": "e7b2a22524e2115e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Socket Mobile, Inc. – OTC:SCKT - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTJpaDRVMEUxZzV1YWhPbUlPdkJ4cTd4S1oza1VSV244aGdPOUpUWm1mZGl5ZTRDdzdWclFzeE5hRGpUS0RzRFphLUZmblVtM1A2bDN2RFMteWdyTWJVTGRYOHlBSDdZc3ZCVnhHa0g3OEJFQzdIR3pndTFIeW9FOG1taFdVbzh1?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTJpaDRVMEUxZzV1YWhPbUlPdkJ4cTd4S1oza1VSV244aGdPOUpUWm1mZGl5ZTRDdzdWclFzeE5hRGpUS0RzRFphLUZmblVtM1A2bDN2RFMteWdyTWJVTGRYOHlBSDdZc3ZCVnhHa0g3OEJFQzdIR3pndTFIeW9FOG1taFdVbzh1?oc=5\" target=\"_blank\">Free cash flow of Socke",
+  "date": "2026-11-20T18:13:43.000Z",
+  "fetched": "2026-11-20T22:38:42.122Z",
+  "fromCloud": "2026-11-20T2238.json"
  },
  {
   "id": "2b77e8a384886793",
@@ -7291,49 +7324,5 @@
   "date": "2026-11-19T22:41:00.000Z",
   "fetched": "2026-11-20T20:33:15.369Z",
   "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "968abe6274fc479f",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Mentari Therapeutics, Inc. (0001728328) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1728328/000119312526468852/0001193125-26-468852-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-468852 <b>Size:</b> 184 KB <br>Item 4.01: Changes in Registrant's Certifying Accountant <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-19T22:37:21.000Z",
-  "fetched": "2026-11-20T11:03:11.942Z",
-  "fromCloud": "2026-11-20T1103.json"
- },
- {
-  "id": "68518a481563b5ae",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "What is the difference between a merger and an acquisition? - KOIN.com",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHI3YVIyVkIzRWE4SXZiam9Cc0d6a0JpN3Budi1KQVZ4YzdOWThpRWIxQ0p2c2NDVU5JYkYwcXlUWUIxM1ZxX1lMaTR5S3pRX0JVcTEzOG1PZ2NyemFRYXRVLXYyQTNUNE5xZFczbkpZdXpYYzhnWHJTZUEzb2ZNZmNUMUtFMV84QjgtTUpfUW4tdmFyNUhHRmdB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHI3YVIyVkIzRWE4SXZiam9Cc0d6a0JpN3Budi1KQVZ4YzdOWThpRWIxQ0p2c2NDVU5JYkYwcXlUWUIxM1ZxX1lMaTR5S3pRX0JVcTEzOG1PZ2NyemFRYXRVLXYyQTNUNE5xZFczbkpZdXpYYzhnWHJTZUEzb2ZNZmNUMUtFMV84QjgtTUpfUW4tdmFyNUhHRmdB?oc=5\" target=\"_blank\"",
-  "date": "2026-11-19T22:35:49.000Z",
-  "fetched": "2026-11-19T23:33:21.697Z",
-  "fromCloud": "2026-11-19T2333.json"
- },
- {
-  "id": "4bfb34388ffd16ac",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "COPL: Copley Acquisition posts $615,436 Q3 net income from trust... - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkZ2ck4zdjlXQ00wTDJNdjVuMDJ3TWJrWnBiV3VDYmx3M3U5TWF5TlkzWUJxT1UwbkZRT24yM3I1UVZiRVFfSlJ6YmVpRDVCbXFYdElMMDBkeGJxdzUwZWg3WjdqOUpZNG9nRGdWcVpLT1BqcHBEU0hDdFFra1h5TlBJOWV5QjFmRVJBU0t3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkZ2ck4zdjlXQ00wTDJNdjVuMDJ3TWJrWnBiV3VDYmx3M3U5TWF5TlkzWUJxT1UwbkZRT24yM3I1UVZiRVFfSlJ6YmVpRDVCbXFYdElMMDBkeGJxdzUwZWg3WjdqOUpZNG9nRGdWcVpLT1BqcHBEU0hDdFFra1h5TlBJOWV5QjFmRVJBU0t3?oc=5\" target=\"_blank\">COPL: Copley Ac",
-  "date": "2026-11-19T22:35:39.000Z",
-  "fetched": "2026-11-19T23:03:12.677Z",
-  "fromCloud": "2026-11-19T2303.json"
- },
- {
-  "id": "491affaf31980111",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Energy Transfer completes $1.95B Vaquero Midstream acquisition - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS01NUTcwYzk2M1A3WHU3ajdZNUFlWXA2czdXYVJsQkFCZkFiVnpqYmZuU0NySi1UaDNBVUdYYkplQjJmcFduWTU3dmc3ajdRdUVLbFhITjBOd3RoblRtaWUyNzVpWTljcHBjdEVYSkxtUGN3VWR0N005RnlqVW5pVm44OFRNeDV0QlZkUWVmNDlzY2lSaGN4VWxfa1ZSNnUtN3ZiMmxzd1FUTnVmZXo0SjFkTUM1OHlp?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS01NUTcwYzk2M1A3WHU3ajdZNUFlWXA2czdXYVJsQkFCZkFiVnpqYmZuU0NySi1UaDNBVUdYYkplQjJmcFduWTU3dmc3ajdRdUVLbFhITjBOd3RoblRtaWUyNzVpWTljcHBjdEVYSkxtUGN3VWR0N005RnlqVW5pVm44OFRNeDV0QlZkUWVmNDlzY2lSaGN4VWxfa1ZSNnUtN3ZiMmxzd1FUTn",
-  "date": "2026-11-19T22:35:08.000Z",
-  "fetched": "2026-11-19T23:03:12.677Z",
-  "fromCloud": "2026-11-19T2303.json"
  }
 ]
