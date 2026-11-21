@@ -1,5 +1,27 @@
 [
  {
+  "id": "77255295200c4ab3",
+  "source": "CNBC Business",
+  "group": "global-press",
+  "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+  "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+  "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+  "date": "2026-11-21T12:00:01.000Z",
+  "fetched": "2026-11-21T12:03:12.544Z",
+  "fromCloud": "2026-11-21T1203.json"
+ },
+ {
+  "id": "b0ade293fb475ef3",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Costa revives EU digital tax proposal in bid to reach agreement on budget",
+  "link": "https://www.ft.com/content/2e9c54a8-e2c5-4334-8141-9791267ae3c3?syn-25a6b1a6=1",
+  "summary": "Latest seven-year plan for the bloc scales back spending but would still be an increase of about a quarter on current levels",
+  "date": "2026-11-21T11:38:04.000Z",
+  "fetched": "2026-11-21T12:03:12.544Z",
+  "fromCloud": "2026-11-21T1203.json"
+ },
+ {
   "id": "90325b8f88c0c168",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -5861,225 +5883,5 @@
   "date": "2026-11-20T12:05:49.000Z",
   "fetched": "2026-11-20T12:33:21.351Z",
   "fromCloud": "2026-11-20T1233.json"
- },
- {
-  "id": "56880aa47234b65c",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "How Anthropic’s blockbuster IPO came together",
-  "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
-  "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
-  "date": "2026-11-20T12:02:46.000Z",
-  "fetched": "2026-11-20T12:33:21.351Z",
-  "fromCloud": "2026-11-20T1233.json"
- },
- {
-  "id": "bd30b9abee34ed9a",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - BJ's Wholesale Club Holdings, Inc. (0001531152) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/0001531152-26-000083-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001531152-26-000083 <b>Size:</b> 450 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-20T12:01:48.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "c3f80e1ad654fea4",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מיליון דולר למיירט במקום 4: ישראל שדרגה את קלע דוד כדי לעמוד בשבועות של מתקפות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DNzRsQTdoV3daRE4za3ZtMTEzT0hYM09HT2hibWpISUgwNzdIa1UtVmJlOTlDc25KS3B3aVNOXzEwNmszODlfc1pHclcza05kT1h4N3huYkRFS3lkZHBlc1B5Z3UyMHBCbFR1R3F5SFM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5DNzRsQTdoV3daRE4za3ZtMTEzT0hYM09HT2hibWpISUgwNzdIa1UtVmJlOTlDc25KS3B3aVNOXzEwNmszODlfc1pHclcza05kT1h4N3huYkRFS3lkZHBlc1B5Z3UyMHBCbFR1R3F5SFM?oc=5\" target=\"_blank\">מיליון דולר למיירט במקום 4: ישראל שדרגה את קלע דוד כדי ל",
-  "date": "2026-11-20T12:01:00.000Z",
-  "fetched": "2026-11-20T13:33:11.807Z",
-  "fromCloud": "2026-11-20T1333.json"
- },
- {
-  "id": "8c23cc7d2a64491f",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - VisionWave Holdings, Inc. (0002038439) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001470/0001731122-26-001470-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001731122-26-001470 <b>Size:</b> 924 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation un",
-  "date": "2026-11-20T12:00:29.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "6bd5e8f575b1dd47",
-  "source": "CNBC Business",
-  "group": "global-press",
-  "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
-  "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-  "summary": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
-  "date": "2026-11-20T12:00:02.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "e3667ef7c9b2a902",
-  "source": "CNBC Business",
-  "group": "global-press",
-  "title": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
-  "link": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
-  "summary": "A24 films \"Backrooms,\" \"The Drama\" and the Elizabeth Holmes documentary, \"You Can See Everything,\" are fueling a banner year at the box office.",
-  "date": "2026-11-20T12:00:02.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "bbd66f07a4d21517",
-  "source": "AV Network",
-  "group": "industry",
-  "title": "Vari-Lite Lights Up Matilda's Return to the Stage",
-  "link": "https://www.avnetwork.com/news/vari-lite-lights-up-matildas-return-to-the-stage",
-  "summary": "The VL2600, VL3600, VL3000, and VLHive fixtures, alongside the Neo X15 and Neo X5 CRE lighting consoles, created a rich theatrical environment.",
-  "date": "2026-11-20T12:00:00.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "204c3a2d0210b205",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Springfield Accepts Resignation of CFO Diane Sherry After Eight Years - TAPinto",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0dtMFd3R0dLT2gtd0NWQkVOUVVhTldBUmJLYUx4aHpzcEpycFRJSFd2cFlHUksxTzRBcjl5dzhyMlZ3d0JLSTg3U0ZPMFp1UVdVSTljbU9hMlFpTjdIbW1JQ1NFakVBZEFhVlAxZ1hZdGd1UmMzb1l0akVHZUlKRVpSNW9RbU5QMFR3WktZY1NZbHdVWldmbzVqSlJMbGNwaVJhanlhSHBHcmwwdy1UWUg4dllPanZHMm9uYkNEWnFlTzAyQ3RGVEpfY09SSXRZLWkyQUVpbw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0dtMFd3R0dLT2gtd0NWQkVOUVVhTldBUmJLYUx4aHpzcEpycFRJSFd2cFlHUksxTzRBcjl5dzhyMlZ3d0JLSTg3U0ZPMFp1UVdVSTljbU9hMlFpTjdIbW1JQ1NFakVBZEFhVlAxZ1hZdGd1UmMzb1l0akVHZUlKRVpSNW9RbU5QMFR3WktZY1NZbHdVWldmbzVqSlJMbGNwaVJhanlhSHBHcm",
-  "date": "2026-11-20T12:00:00.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "a0a1cd794ba28e5a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "The best pay leaders don’t want to run HR - Fortune",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqa2hfUXZhaHpUVW1vMXlWZWxCemRzc2dnYjY1azNiZXpwMmJQRE9NMllwQXM5ektwOTBFOUlqQ2lDTzlNRllVby1tTkg3RFA5eDhlVWt4TEdpaVp5UDViQzIzdk5LSDhSMTd6aFIyb0x1RFNnMUlrckh4WGw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBqa2hfUXZhaHpUVW1vMXlWZWxCemRzc2dnYjY1azNiZXpwMmJQRE9NMllwQXM5ektwOTBFOUlqQ2lDTzlNRllVby1tTkg3RFA5eDhlVWt4TEdpaVp5UDViQzIzdk5LSDhSMTd6aFIyb0x1RFNnMUlrckh4WGw?oc=5\" target=\"_blank\">The best pay leaders don’t want to run H",
-  "date": "2026-11-20T12:00:00.000Z",
-  "fetched": "2026-11-20T13:33:11.807Z",
-  "fromCloud": "2026-11-20T1333.json"
- },
- {
-  "id": "67b85e14b8e9b867",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "TeraWulf starts construction at Kentucky data center campus",
-  "link": "https://www.datacenterdynamics.com/en/news/terawulf-starts-construction-at-kentucky-data-center-campus/",
-  "summary": "<p data-block-key=\"7ub3n\">Justified Data campus set to be leased to Anthropic</p>",
-  "date": "2026-11-20T11:59:57.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "7601a312213707eb",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "BTIG downgrades Bill.com stock rating to neutral on acquisition agreement - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGNGN1U3eXpqcXRNc0FxWDY4RHNOdDZqbU1FU19nbzlHOUdBbEtVck1aVVZzU0E5MXFYb2Q5eFVULTdXWm00X21CRHhBR3d5SFRxdlhSeklSNkx1NlUtTFlPZFhqTC01UHJRbU9OUHVyWEI2M0d0MndqbXV0NWEzOVJQNms0WmhnOWlaZ3owWU9jM2ZIdW12U19qUzNZdWUzMWFFZTBONGgyTnd3b2JMbGcwcGtwTlpXYzNQc1FIbzBpMWh0VjFwMnB3M18?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGNGN1U3eXpqcXRNc0FxWDY4RHNOdDZqbU1FU19nbzlHOUdBbEtVck1aVVZzU0E5MXFYb2Q5eFVULTdXWm00X21CRHhBR3d5SFRxdlhSeklSNkx1NlUtTFlPZFhqTC01UHJRbU9OUHVyWEI2M0d0MndqbXV0NWEzOVJQNms0WmhnOWlaZ3owWU9jM2ZIdW12U19qUzNZdWUzMWFFZTBONGgyTn",
-  "date": "2026-11-20T11:58:06.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "8a273e14ce3fad9f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Forefront Tech Holdings Acquisition Corp On Nov 13, Entered Purchase And Sponsor Handover Agreement With Oceanhawk - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMDZyZnhYRXNtaG5qclZuRDlGZktHYmNla08yY1dNOTB6djdCU2pnUjZSekZZc0hSNFlkeHg2Mm1fX2FFcTh3WWlhTzVFbUdEMnNfa0dDMXo5RTBIcEhVbGRHdG5JZi1LRXBNZDdQT2loaXRNTjhMSVYzVG9KSzl2MVNkYTgtNEJEZU95NDRLZi11c2JvMmFYUzYtdWlDaUpIY1lRSGVQbmpNX0NIeWhna3lZQl9XeDlSRHBPaktYejZwWW1zOGk1UTAtS184OVZtVEdCOG5RWi1VTFJwS3V1cENWTEdYRWNTLVcwQ2tzbUc1NFVsQy1COGRPRVI4YXRFQ2xBbEswT3FydWVUWWJHUw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOMDZyZnhYRXNtaG5qclZuRDlGZktHYmNla08yY1dNOTB6djdCU2pnUjZSekZZc0hSNFlkeHg2Mm1fX2FFcTh3WWlhTzVFbUdEMnNfa0dDMXo5RTBIcEhVbGRHdG5JZi1LRXBNZDdQT2loaXRNTjhMSVYzVG9KSzl2MVNkYTgtNEJEZU95NDRLZi11c2JvMmFYUzYtdWlDaUpIY1lRSGVQbmpNX0",
-  "date": "2026-11-20T11:57:50.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "88f2c87448e5eded",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Anthropic market cap in line with Alphaville’s guess",
-  "link": "https://www.ft.com/content/67938df3-a9ce-4eb8-9299-af0ab80db87b",
-  "summary": "A (very) light autopsy on our pre-IPO market cap guestimation",
-  "date": "2026-11-20T11:57:35.000Z",
-  "fetched": "2026-11-20T14:33:19.334Z",
-  "fromCloud": "2026-11-20T1433.json"
- },
- {
-  "id": "dd99d8cc9b4c79e6",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "ביבי נאחז במנטור האמריקאי ולא לוקח אחריות: בבורסה זה לא היה קורה | יהודה שרוני - מעריב",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDcG1pMkhsVTRWQ2xNZGU1R3h2TnJQVUFHR19IcE85OTh5VnhfSUV3QzkxbkVjVDkwdWs2OXEyc1BPNzJ3NEhHN3dOakMtMWEtUHd6dlNYdHlOSGlKckQ4OU0tOG8wQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDcG1pMkhsVTRWQ2xNZGU1R3h2TnJQVUFHR19IcE85OTh5VnhfSUV3QzkxbkVjVDkwdWs2OXEyc1BPNzJ3NEhHN3dOakMtMWEtUHd6dlNYdHlOSGlKckQ4OU0tOG8wQQ?oc=5\" target=\"_blank\">ביבי נאחז במנטור האמריקאי ולא לוקח אחריות: בבורסה זה לא היה קורה | יה",
-  "date": "2026-11-20T11:55:00.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "8bac5c6951a971fa",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "VERTIS: Traffic growth and refinancing strengthened Q2, while distribution guidance remained unavailable - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWjdJSDNzamp1NXdKd0NrcXBUQmtqQ0U1UzRNUV9QRUNWcHd0SjQ1eG9yOVBCbFQ3QmFaSkpCeDFlSU9DUGI2eHl1Tzd2U2hTaHBaOHVEeW9NQjFzbEVBRUxSd3NtVURtVlVNdmdpc25fc0o2eGtXRm1XWHNnMm40YjN0dmo3dGtRV1ZvUFNoemhNMktZeGhDRUJ1bU9PbV9Wckp3UXdudEZpR1o2RjBESjJ6OUVLcmtPaV9xMTRlN2pkRmJWcVpCT0pwc00zcmdwS2lZeDlCVlZNRzdJVm52WXh0NnRobFA4dFN0QXJnN19XdzlkRWFfS2UzQkp6MXNvVk9tWENNYmhnRkNkWUlsZ3BiRFlSSU1n?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOWjdJSDNzamp1NXdKd0NrcXBUQmtqQ0U1UzRNUV9QRUNWcHd0SjQ1eG9yOVBCbFQ3QmFaSkpCeDFlSU9DUGI2eHl1Tzd2U2hTaHBaOHVEeW9NQjFzbEVBRUxSd3NtVURtVlVNdmdpc25fc0o2eGtXRm1XWHNnMm40YjN0dmo3dGtRV1ZvUFNoemhNMktZeGhDRUJ1bU9PbV9Wckp3UXdudEZpR1",
-  "date": "2026-11-20T11:50:54.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "7223097e14b6a590",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Rockwell Automation Sets the Wheels in Motion with AGILOX Acquisition - EME Outlook Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUZjOHFwb0JoZlRWVVlXMTFmWnlPS2ZzR3R4STZ6Yk9KU1BHX0lnUncxb2lXOWpyQnRiakhvRF9pYTRxRlNzNUlXeVBGbW9HSTRCZThWZ2xCWmh2TWJqSV84NDF0VFRzZ2NsUmo5S0JYMjVDVzNaSzVBRlhER21Nakd0TFlPZlJTOWdkRXdibmFJdllyWFRqNFYxMFNTX1pVdkM5dkMyU1prY2ZMU3llR3AzREowRzJX?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUZjOHFwb0JoZlRWVVlXMTFmWnlPS2ZzR3R4STZ6Yk9KU1BHX0lnUncxb2lXOWpyQnRiakhvRF9pYTRxRlNzNUlXeVBGbW9HSTRCZThWZ2xCWmh2TWJqSV84NDF0VFRzZ2NsUmo5S0JYMjVDVzNaSzVBRlhER21Nakd0TFlPZlJTOWdkRXdibmFJdllyWFRqNFYxMFNTX1pVdkM5dkMyU1prY2",
-  "date": "2026-11-20T11:50:35.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "e7cd4fd3be4bd2e5",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Deutsche Telekom invests $109 million in Mistral AI as first step in larger partnership",
-  "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-invests-109-million-in-mistral-ai-as-first-step-in-larger-partnership/",
-  "summary": "<p data-block-key=\"5489a\">Adds to an existing $3.48bn raised in Mistral’s Series D funding round</p>",
-  "date": "2026-11-20T11:48:33.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "8111cd27d2e90600",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - GRANITE CONSTRUCTION INC (0000861459) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/861459/000086145926000048/0000861459-26-000048-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0000861459-26-000048 <b>Size:</b> 143 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
-  "date": "2026-11-20T11:47:11.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "16f63ae8cf21d5a8",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "24 מיליון עותקים ביום אחד: GTA 6 מכר פי שלושה מקודמו, ומה זה אומר לטייק-טו - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrNE9OOUJQUmhwTWVQa3RPQjlOUDFQQ3A4am9ZOEd1ZFlVMC03aGRfQ1BqV3lSMDZ1cmlSbmhBcmpBdlluVlc4enBfSnI4dzdWM2xFMmhlT0dlcGVSbExOWlkxMGllME1E?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrNE9OOUJQUmhwTWVQa3RPQjlOUDFQQ3A4am9ZOEd1ZFlVMC03aGRfQ1BqV3lSMDZ1cmlSbmhBcmpBdlluVlc4enBfSnI4dzdWM2xFMmhlT0dlcGVSbExOWlkxMGllME1E?oc=5\" target=\"_blank\">24 מיליון עותקים ביום אחד: GTA 6 מכר פי שלושה מקודמו, ומה זה אומר ל",
-  "date": "2026-11-20T11:46:00.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "0de037386b67e50f",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "בעל השליטה בשינטרקו יורשע בעבירות מס בהיקף של 14 מיליון שקלים - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wY2JkWEtMLXZBYlJnekZ6VzE4VHpxLVdhZlh1S3ZzdVdGUU5mVENlbkpHYmdaZVR1aFppM3dScERUQ0MyQUsxaWhnZS1SRFFNbDlJN2JOX2tOUlRneE9qOEd0UGhfNnp1dkE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5wY2JkWEtMLXZBYlJnekZ6VzE4VHpxLVdhZlh1S3ZzdVdGUU5mVENlbkpHYmdaZVR1aFppM3dScERUQ0MyQUsxaWhnZS1SRFFNbDlJN2JOX2tOUlRneE9qOEd0UGhfNnp1dkE?oc=5\" target=\"_blank\">בעל השליטה בשינטרקו יורשע בעבירות מס בהיקף של 14 מיליון שקלים</a",
-  "date": "2026-11-20T11:45:00.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
  }
 ]
