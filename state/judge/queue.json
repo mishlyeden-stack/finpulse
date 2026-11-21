@@ -1,5 +1,38 @@
 [
  {
+  "id": "2a1c5ab1500af4fe",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "כשגדי איזנקוט מוחק את החוקים של יריב לוין",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564233#utm_source=RSS",
+  "summary": "המחנה הפוליטי שמוביל ח\"כ איזנקוט החל לבטל חוקים מרכזיים של הכנסת הקודמת, בסדרת מהלכים שזכו בשיח התקשורתי והפרלמנטרי לכינוי \"חקיקת Undo\" &#8226; מה מייחד חקיקה שכזו, מה הן ההשלכות האפשריות על היציבות השלטונית ומה הם התנאים לשימוש בה? &#8226; המשרוקית של גלובס",
+  "date": "2026-11-21T17:00:00.000Z",
+  "fetched": "2026-11-21T17:03:11.347Z",
+  "fromCloud": "2026-11-21T1703.json"
+ },
+ {
+  "id": "46d06ee43edd95e8",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "הכנסת בדרך להליך תקדימי: נערכת ללחיצה על מקש Undo - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DQnd2NW9Lalo5VndUak1ha0dpVl9ncXhDMFhlVU5VYTlhbHlZZGdpUFMyVHNsSmtIcjJCSFJpTFpndnhEbzRqeDVqOEVMOElQYnJ5NnlaSVoyeWVMeURyaVRGVF9xWFJ0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DQnd2NW9Lalo5VndUak1ha0dpVl9ncXhDMFhlVU5VYTlhbHlZZGdpUFMyVHNsSmtIcjJCSFJpTFpndnhEbzRqeDVqOEVMOElQYnJ5NnlaSVoyeWVMeURyaVRGVF9xWFJ0?oc=5\" target=\"_blank\">הכנסת בדרך להליך תקדימי: נערכת ללחיצה על מקש Undo</a>&nbsp;&nbsp;<f",
+  "date": "2026-11-21T16:54:00.000Z",
+  "fetched": "2026-11-21T17:03:11.347Z",
+  "fromCloud": "2026-11-21T1703.json"
+ },
+ {
+  "id": "4f4bd6a774a16af6",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "CrowdStrike-Zscaler talks put two major Israeli cyber operations in focus - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMbUVpa0dYNk1SekZBRjhDX1A2dGJFX3Z6eUlzeV9PbnlzaWxKYV9IdzdHemJna2FJb01RNFlSZXhJamo2WE4xbzFrcHhFYUNBbEVtVXZzT0ViWFdFMHVYRGFBSklleWlY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMbUVpa0dYNk1SekZBRjhDX1A2dGJFX3Z6eUlzeV9PbnlzaWxKYV9IdzdHemJna2FJb01RNFlSZXhJamo2WE4xbzFrcHhFYUNBbEVtVXZzT0ViWFdFMHVYRGFBSklleWlY?oc=5\" target=\"_blank\">CrowdStrike-Zscaler talks put two major Israeli cyber operations in",
+  "date": "2026-11-21T16:37:00.000Z",
+  "fetched": "2026-11-21T17:03:11.347Z",
+  "fromCloud": "2026-11-21T1703.json"
+ },
+ {
   "id": "d5b51e86f9b3e3ce",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -9,6 +42,17 @@
   "date": "2026-11-21T16:30:00.000Z",
   "fetched": "2026-11-21T16:33:12.765Z",
   "fromCloud": "2026-11-21T1633.json"
+ },
+ {
+  "id": "c9ec75464ab6f6ce",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "אחרי הסערה בתאגיד: איילה חסון עוברת לערוץ 14",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564321#utm_source=RSS",
+  "summary": "לאחר העימות החריף עם הנהלת חדשות כאן והעזיבה המתוקשרת של תאגיד השידור, אילה חסון הודיעה כי תצטרף לערוץ 14 כבר בימים הקרובים: \"איש לא יכתיב לי ולא ישתיק אותי\"",
+  "date": "2026-11-21T16:28:00.000Z",
+  "fetched": "2026-11-21T17:03:11.347Z",
+  "fromCloud": "2026-11-21T1703.json"
  },
  {
   "id": "d6aed38ab6a88976",
@@ -251,6 +295,17 @@
   "date": "2026-11-21T13:53:04.000Z",
   "fetched": "2026-11-21T14:03:20.958Z",
   "fromCloud": "2026-11-21T1403.json"
+ },
+ {
+  "id": "9b6f88ec516df67c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Hank Paulson Has “Never Seen So Much Money Chasing One Opportunity.” That’s a Problem for Microsoft, Amazon and Alphabet - TIKR.com",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN3Joc3ZsTTBPcnJLTGNFVE5HZ1lZNmNBOTIwcHRpbFZHY2lnLU5mckV4aUhEZUxvUWlRUWdpU0dzNlZ6bFltZUFSbmhrUVk2eG9tZzB2b0tLUHdWT2VJSERjRmd6TmdFLWxoQmk3cl9obkhmckhNZWVSa19xQWhqV2dKSFAzcUVCaXdvdUJuaU5kcVR1anBwcHNXeS1jZHl5X0NQclJGSUhnbkRXN3U4SE5nWFEzNDdGVERsTG9mRDZTcnM0TGZPOUdGOUtkR1pWM2J0eWFsT051Zw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN3Joc3ZsTTBPcnJLTGNFVE5HZ1lZNmNBOTIwcHRpbFZHY2lnLU5mckV4aUhEZUxvUWlRUWdpU0dzNlZ6bFltZUFSbmhrUVk2eG9tZzB2b0tLUHdWT2VJSERjRmd6TmdFLWxoQmk3cl9obkhmckhNZWVSa19xQWhqV2dKSFAzcUVCaXdvdUJuaU5kcVR1anBwcHNXeS1jZHl5X0NQclJGSUhnbk",
+  "date": "2026-11-21T13:50:52.000Z",
+  "fetched": "2026-11-21T17:03:11.347Z",
+  "fromCloud": "2026-11-21T1703.json"
  },
  {
   "id": "6ec7f296fc26cef7",
@@ -1912,6 +1967,17 @@
   "date": "2026-11-21T00:30:00.000Z",
   "fetched": "2026-11-21T01:03:14.801Z",
   "fromCloud": "2026-11-21T0103.json"
+ },
+ {
+  "id": "59cd0dc3487eeee3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Upwork CFO Erica Gessert sells $225,072 in shares for tax obligations - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNzlzeGJXUi1JcDdxWmYyYTZXV0U1UlMyczlTOGZGTFprcHpsYmRUeU9xR1V2alRiNG1UNmh5dFY5ajdrYTVkbWs3V2w3UnhMNVNRbjRJcFFicmp5MzNmYVlvdUh6X3JxRVV5WDZmQXEzV3JUREYtWVBNSmw0bmk2bGpYWXY4U2hoNDg0NmdwemlUdVNlTXA0SVA4akJxZTF4eE1VSkxFVVI4MEVOZHU1dktFa0Jsa2hsN0wyX0JVVmdwakpvMFp4TDZkRFA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQNzlzeGJXUi1JcDdxWmYyYTZXV0U1UlMyczlTOGZGTFprcHpsYmRUeU9xR1V2alRiNG1UNmh5dFY5ajdrYTVkbWs3V2w3UnhMNVNRbjRJcFFicmp5MzNmYVlvdUh6X3JxRVV5WDZmQXEzV3JUREYtWVBNSmw0bmk2bGpYWXY4U2hoNDg0NmdwemlUdVNlTXA0SVA4akJxZTF4eE1VSkxFVVI4ME",
+  "date": "2026-11-21T00:29:17.000Z",
+  "fetched": "2026-11-21T17:03:11.347Z",
+  "fromCloud": "2026-11-21T1703.json"
  },
  {
   "id": "cb99d7706d049776",
@@ -3947,170 +4013,5 @@
   "date": "2026-11-20T17:03:49.000Z",
   "fetched": "2026-11-20T17:33:12.353Z",
   "fromCloud": "2026-11-20T1733.json"
- },
- {
-  "id": "99fa342154b92e1b",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - report",
-  "link": "https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/",
-  "summary": "<p data-block-key=\"k5qby\">Telco looks to offload data center biz as it acquires subsea cable company Sparkle</p>",
-  "date": "2026-11-20T17:01:43.000Z",
-  "fetched": "2026-11-20T17:33:12.353Z",
-  "fromCloud": "2026-11-20T1733.json"
- },
- {
-  "id": "f70c8acc3a153399",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Tokenomics: Putting a price on intelligence",
-  "link": "https://www.datacenterdynamics.com/en/analysis/tokenomics-putting-a-price-on-intelligence/",
-  "summary": "<p data-block-key=\"74gzb\">Inside the on-demand consumption model</p>",
-  "date": "2026-11-20T17:00:34.000Z",
-  "fetched": "2026-11-20T17:33:12.353Z",
-  "fromCloud": "2026-11-20T1733.json"
- },
- {
-  "id": "42b176a61ed9d605",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "DoorDash announces $17 billion acquisition of Instacart - Indianapolis Recorder",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DWWR1UWlmT0VLUU9EbWlQWXYySG1MSXpxNU1WNm5weWJOOHBwanJZMnlGRVhXM0xVQ1NEY294alQ0djJ5WmgtU0NtVDBLNVRrYWw1TjlTc2x0dVByc2JvOGgyZjhHTEVwNWM0Um5nZ1ZSZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5DWWR1UWlmT0VLUU9EbWlQWXYySG1MSXpxNU1WNm5weWJOOHBwanJZMnlGRVhXM0xVQ1NEY294alQ0djJ5WmgtU0NtVDBLNVRrYWw1TjlTc2x0dVByc2JvOGgyZjhHTEVwNWM0Um5nZ1ZSZw?oc=5\" target=\"_blank\">DoorDash announces $17 billion acquisition of Instaca",
-  "date": "2026-11-20T16:58:57.000Z",
-  "fetched": "2026-11-20T18:03:25.869Z",
-  "fromCloud": "2026-11-20T1803.json"
- },
- {
-  "id": "84eb8e32aa7565d6",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Bonaventure Makes Indianapolis Debut With 274-Unit Acquisition - Multifamily Executive",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3ZJTXJZTzlpMUJoQ21Zc3kzdU55ZEZvd2ZNaDRTS0hVZDN5TGZSQlZhc2xlLU44YzNab1lqcnJXS1FGVllZeDNoTDJFNzdfVi1yYVR0NG9pbF9hckpxVGstZktaREJ0UEFseGtudTRWYlplRzJXTU1kSHlKQU9jLVphdjU1SjlVR0pQaVZQWlY3clJIaGZ2dDNUYzk5a3lvSFJLZzRCZWJIVkE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3ZJTXJZTzlpMUJoQ21Zc3kzdU55ZEZvd2ZNaDRTS0hVZDN5TGZSQlZhc2xlLU44YzNab1lqcnJXS1FGVllZeDNoTDJFNzdfVi1yYVR0NG9pbF9hckpxVGstZktaREJ0UEFseGtudTRWYlplRzJXTU1kSHlKQU9jLVphdjU1SjlVR0pQaVZQWlY3clJIaGZ2dDNUYzk5a3lvSFJLZzRCZWJIVk",
-  "date": "2026-11-20T16:57:55.000Z",
-  "fetched": "2026-11-20T18:03:25.869Z",
-  "fromCloud": "2026-11-20T1803.json"
- },
- {
-  "id": "d566a686af02cdfc",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Bluerock Acquisition Corp. II (BRRKW) analyst ratings, estimates and forecasts – Yahoo Finance - Yahoo Finance Singapore",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZ2MzNEtpdVJWQm5hVjJCa3hwWE5yYjJvSG9kT3k4N056Q3ROTWpvVVFxRXhHWWRnd3otT0Y1WWYwN2NldDBocndiZk9Yal8xTmhrdElGSDRtOHI3ejVn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZ2MzNEtpdVJWQm5hVjJCa3hwWE5yYjJvSG9kT3k4N056Q3ROTWpvVVFxRXhHWWRnd3otT0Y1WWYwN2NldDBocndiZk9Yal8xTmhrdElGSDRtOHI3ejVn?oc=5\" target=\"_blank\">Bluerock Acquisition Corp. II (BRRKW) analyst ratings, estimates and forecasts ",
-  "date": "2026-11-20T16:57:54.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "2318d6f5d78d61c2",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"מצאנו פה דירה יפה במחיר שפוי, ואני אוהב את התדר הרגוע של העיר הזאת\" - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3NOSmd6MC1ia1YtRS1kYktlbUtYbkxkRmVkaWhWeTMtVnhLYTZ5VzVOR2tCTzZ5bXJOa01pMmRSc0lKNW1qcEN2UDMzdkozSnBvcXNHMk52cFRXclNtWXJNTUM5VXNOYUx6aVphemJyRlNidmg5VlFGMy1IZmE3Y1hyVTgzaW1QallCVy1iSEtxRVI5Y3B4TE1PM2htSjFqOUxhYTIzQ1NBaERtQ1NjaC1yblVhWGE2d1dZMTloZFE1alo2?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3NOSmd6MC1ia1YtRS1kYktlbUtYbkxkRmVkaWhWeTMtVnhLYTZ5VzVOR2tCTzZ5bXJOa01pMmRSc0lKNW1qcEN2UDMzdkozSnBvcXNHMk52cFRXclNtWXJNTUM5VXNOYUx6aVphemJyRlNidmg5VlFGMy1IZmE3Y1hyVTgzaW1QallCVy1iSEtxRVI5Y3B4TE1PM2htSjFqOUxhYTIzQ1NBaE",
-  "date": "2026-11-20T16:50:00.000Z",
-  "fetched": "2026-11-20T17:03:23.904Z",
-  "fromCloud": "2026-11-20T1703.json"
- },
- {
-  "id": "c2b7c82932a886e9",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "לאחר שרכשה אותה ב-12 מיליארד דולר: אינטואיט מוכרת את מיילצ'ימפ ב-3.7 מיליארד דולר בלבד - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PUzlvSmstRks3TjlBY0hiNVdRd2N4bFh0dm9sMTFRY1lweEtpWVdHZEtyb1NidzlCZHFJTGZRcWk3SDBCMWxvdGh4V2dLU1NWaHhXMzQyb1NIZDNORk40U08tSE1waEdrdVRCRDdn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1PUzlvSmstRks3TjlBY0hiNVdRd2N4bFh0dm9sMTFRY1lweEtpWVdHZEtyb1NidzlCZHFJTGZRcWk3SDBCMWxvdGh4V2dLU1NWaHhXMzQyb1NIZDNORk40U08tSE1waEdrdVRCRDdn?oc=5\" target=\"_blank\">לאחר שרכשה אותה ב-12 מיליארד דולר: אינטואיט מוכרת את מיילצ'",
-  "date": "2026-11-20T16:49:00.000Z",
-  "fetched": "2026-11-20T17:03:23.904Z",
-  "fromCloud": "2026-11-20T1703.json"
- },
- {
-  "id": "6941afd305d26a6e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "New Amsterdam Invest realized earlier announced acquisition - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlNxRXktaHAzNDdFSVNvRnhMaU5MNXQzR0U0VGcwNE03T2ZuU1gtNWpTRjNXWi1NYWdrb0VOdDV1OEs1b2FkZWtaWGJXeDhUV3pya1gtaDd1Sk1pdzlQcUVQUWRDbTJjdWxDRnZHUFF6Y2lVVjExZ0Z3UWJZMU00bEFCWVN0V3VSTFgtNjd4TkxJemRvSDlPVGtNcVctR0JpNW93bFh1OVJkNWNJTjgzWU9uUHVyT1NRUlVSZQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlNxRXktaHAzNDdFSVNvRnhMaU5MNXQzR0U0VGcwNE03T2ZuU1gtNWpTRjNXWi1NYWdrb0VOdDV1OEs1b2FkZWtaWGJXeDhUV3pya1gtaDd1Sk1pdzlQcUVQUWRDbTJjdWxDRnZHUFF6Y2lVVjExZ0Z3UWJZMU00bEFCWVN0V3VSTFgtNjd4TkxJemRvSDlPVGtNcVctR0JpNW93bFh1OVJkNW",
-  "date": "2026-11-20T16:45:00.000Z",
-  "fetched": "2026-11-20T17:03:23.904Z",
-  "fromCloud": "2026-11-20T1703.json"
- },
- {
-  "id": "4c624a0d6eb748c9",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "New Amsterdam Invest (NAI) Closes Acquisition of 100% of Tamiami Investments 2 Ltd. - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFlBSVA1MllPbXR1X0htSUJVRDVTR1lXVkt3cEQtUnF6S241aVRVRnZNVmtrSmZKblRxajQxQk5fd0xEcGgxS1ZiWkFhRi1Sa0l2bm1mTFZNeUF6M2VnbEhieUJOd3YtSlFlY2tLQXB2TDR1S281aHZ5WEdDOEtubGVhcm51ZzJCdGlNRE9GaEdZSkRtemVUajliM2FyWGVBU1dkNnF5Z25CQlpBLW4xY0hvV3RNVnNoOWpIRXlRVU9ydkR2SVNDYkg3ZzBXYjhRakdVY1NQQk8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFlBSVA1MllPbXR1X0htSUJVRDVTR1lXVkt3cEQtUnF6S241aVRVRnZNVmtrSmZKblRxajQxQk5fd0xEcGgxS1ZiWkFhRi1Sa0l2bm1mTFZNeUF6M2VnbEhieUJOd3YtSlFlY2tLQXB2TDR1S281aHZ5WEdDOEtubGVhcm51ZzJCdGlNRE9GaEdZSkRtemVUajliM2FyWGVBU1dkNnF5Z25CQl",
-  "date": "2026-11-20T16:45:00.000Z",
-  "fetched": "2026-11-20T17:03:23.904Z",
-  "fromCloud": "2026-11-20T1703.json"
- },
- {
-  "id": "3c0ec47492fa12a0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "John Deere continues agtech acquisition streak, purchases Orchard AI - FeedNavigator.com",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZUdIUlNTSEppT1p4M3NYNnlJRW44QzJDWlNxbDl3SGh0M09SaVV6Q3RNQVB0Qm9abmNqU0tDZnh6NzNtZ1puM1h1Tmp5blZnTEdZWkRfdVU4dEd1WXlNMW0tU0cwUzlObzVlYUVpMEVsQmFrT2hmeElNU01TZm9qNjI5TnFTMU91ZkFvWDRFeTkyc2FGVmdFY2FncDZYMDJpdEV3WUJBeXdjdDJ6SGlNd1Exak4tUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZUdIUlNTSEppT1p4M3NYNnlJRW44QzJDWlNxbDl3SGh0M09SaVV6Q3RNQVB0Qm9abmNqU0tDZnh6NzNtZ1puM1h1Tmp5blZnTEdZWkRfdVU4dEd1WXlNMW0tU0cwUzlObzVlYUVpMEVsQmFrT2hmeElNU01TZm9qNjI5TnFTMU91ZkFvWDRFeTkyc2FGVmdFY2FncDZYMDJpdEV3WUJBeXdjdD",
-  "date": "2026-11-20T16:43:31.000Z",
-  "fetched": "2026-11-20T21:03:13.755Z",
-  "fromCloud": "2026-11-20T2103.json"
- },
- {
-  "id": "90d84bf7bf1f4686",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הפחד מה-AI עובר לשוק האג\"ח: מחיר הביטוח על החוב של אורקל וקורוויב מזנק - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKRGZHQVRHSHZ1cHhmZjhoeXRnNC1Dcnc4Z0M3YUU3SFYweGVXeDNFRlRjYW5oMHBQUFRMQUV2VEc5ajZkTklpYkxxZktWbEtWZmpBR0o5Y2g0R21WSFZTY1J2LWhDS0NCVDhrRA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBKRGZHQVRHSHZ1cHhmZjhoeXRnNC1Dcnc4Z0M3YUU3SFYweGVXeDNFRlRjYW5oMHBQUFRMQUV2VEc5ajZkTklpYkxxZktWbEtWZmpBR0o5Y2g0R21WSFZTY1J2LWhDS0NCVDhrRA?oc=5\" target=\"_blank\">הפחד מה-AI עובר לשוק האג\"ח: מחיר הביטוח על החוב של אורקל וקור",
-  "date": "2026-11-20T16:43:00.000Z",
-  "fetched": "2026-11-20T20:03:27.676Z",
-  "fromCloud": "2026-11-20T2003.json"
- },
- {
-  "id": "92389d5958916475",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Nevada: Maverick Gaming closes acquisition of two casinos in Elko - CDC Gaming",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajJ4X05TSUZ4ZElaQnZkZ3phUTBSekxZZUtXWUZUTzVQUm5CeHNVU3hBOTdXd1ZyTVI1Y2RaekxTNkRqaU5ZTWZ0WHNpX2xlNDg2SGZ4MmFLRW5ITjJUSzdJMEpMQ0hhTDlCcmp5akZxSDlWSDkzNUdzV2NBZ2tLUHJDZmIwcm5nWUh0aUxHZ0c?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOajJ4X05TSUZ4ZElaQnZkZ3phUTBSekxZZUtXWUZUTzVQUm5CeHNVU3hBOTdXd1ZyTVI1Y2RaekxTNkRqaU5ZTWZ0WHNpX2xlNDg2SGZ4MmFLRW5ITjJUSzdJMEpMQ0hhTDlCcmp5akZxSDlWSDkzNUdzV2NBZ2tLUHJDZmIwcm5nWUh0aUxHZ0c?oc=5\" target=\"_blank\">Nevada: Mave",
-  "date": "2026-11-20T16:42:35.000Z",
-  "fetched": "2026-11-20T17:03:23.904Z",
-  "fromCloud": "2026-11-20T1703.json"
- },
- {
-  "id": "dcb17d9fd486e20c",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Nissan Auto Lease Trust 2026-C (0002160547) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2160547/000119312526469630/0001193125-26-469630-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-469630 <b>Size:</b> 101 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-20T16:38:05.000Z",
-  "fetched": "2026-11-20T17:03:23.904Z",
-  "fromCloud": "2026-11-20T1703.json"
- },
- {
-  "id": "9465dd7174aaf138",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - NISSAN AUTO LEASING LLC II (0001244832) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1244832/000119312526469630/0001193125-26-469630-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-469630 <b>Size:</b> 101 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-20T16:38:05.000Z",
-  "fetched": "2026-11-20T17:03:23.904Z",
-  "fromCloud": "2026-11-20T1703.json"
- },
- {
-  "id": "4d5fe61a975acfce",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "FedEx Names Jamere Jackson CFO - The Tennessee Tribune",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ScHJSa01JOVlQSFcxNzlNa05WVXBDS19WSUJ6OENHMk54cGUxci05c3NGd2dXWnlwMEkwaHd6UEdTSVNlVXhzTjI2MHVyUmRLX19xVjVyZGV3WXh1RDZfVHNMQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ScHJSa01JOVlQSFcxNzlNa05WVXBDS19WSUJ6OENHMk54cGUxci05c3NGd2dXWnlwMEkwaHd6UEdTSVNlVXhzTjI2MHVyUmRLX19xVjVyZGV3WXh1RDZfVHNMQQ?oc=5\" target=\"_blank\">FedEx Names Jamere Jackson CFO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The T",
-  "date": "2026-11-20T16:35:53.000Z",
-  "fetched": "2026-11-20T18:03:25.869Z",
-  "fromCloud": "2026-11-20T1803.json"
  }
 ]
