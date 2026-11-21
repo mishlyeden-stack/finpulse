@@ -1,5 +1,27 @@
 [
  {
+  "id": "ee7ef2cd5cac7ef4",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "צפי לפתיחה שלילית: טאואר, קמטק ונובה בפער של 5%-7% אחרי קריסת השבבים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LNUJjSFd4VGh3bW84QXY2eHh6R243ODhveHhFcTRldGRrRm95VXVjQTdPcXIzWV9RQVZtTVBDczVFVG5UZUhEcUhBbEFpa1JVZlI2MDd4OEw5ZkZtSWlPX25qak9xbDFVYnQ5UGRXWVM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9LNUJjSFd4VGh3bW84QXY2eHh6R243ODhveHhFcTRldGRrRm95VXVjQTdPcXIzWV9RQVZtTVBDczVFVG5UZUhEcUhBbEFpa1JVZlI2MDd4OEw5ZkZtSWlPX25qak9xbDFVYnQ5UGRXWVM?oc=5\" target=\"_blank\">צפי לפתיחה שלילית: טאואר, קמטק ונובה בפער של 5%-7% אחרי ",
+  "date": "2026-11-21T20:06:00.000Z",
+  "fetched": "2026-11-21T20:33:11.287Z",
+  "fromCloud": "2026-11-21T2033.json"
+ },
+ {
+  "id": "5a2a1be892712967",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ריבית בנק ישראל: האינפלציה בתחתית היעד, אבל ההורדה רחוקה מוודאית - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUQl9zQkFCWGlDYnp2Q3lhVzhaRHE5Wm5VMzdZQTF3Tnl5anQ5SHhzMFJiR2lfOGVKSVAtclZJRnl1SjZRcW1ZRVFkbkg5b29DMlZoSFozeHB4cm40ME42dFY4SUxCOUlHeUo3aDlaclg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBUQl9zQkFCWGlDYnp2Q3lhVzhaRHE5Wm5VMzdZQTF3Tnl5anQ5SHhzMFJiR2lfOGVKSVAtclZJRnl1SjZRcW1ZRVFkbkg5b29DMlZoSFozeHB4cm40ME42dFY4SUxCOUlHeUo3aDlaclg?oc=5\" target=\"_blank\">ריבית בנק ישראל: האינפלציה בתחתית היעד, אבל ההורדה רחוקה",
+  "date": "2026-11-21T20:01:00.000Z",
+  "fetched": "2026-11-21T20:33:11.287Z",
+  "fromCloud": "2026-11-21T2033.json"
+ },
+ {
   "id": "74abd0f6e03ad349",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -42,6 +64,17 @@
   "date": "2026-11-21T19:43:06.000Z",
   "fetched": "2026-11-21T20:03:18.016Z",
   "fromCloud": "2026-11-21T2003.json"
+ },
+ {
+  "id": "3bc242c703657062",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "SZAR S.A. Receives Notification of Significant Share Acquisition - The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM3hVdmtLdkNVT0JMaXlTazR6YzBwZklXb2pRSkhNb3Nac3FMbjYwdUhiYUR0c0xLQXZGSGxyV2JKZkwtXzdEZXdVYm1qNVdCUmxYTVExckVIM0hGRmxBelI4UTkyMDRjcVhOWmN6SG5aVEFjWG9kcW1XS0ZPQzgydnNqRVVnZkZrZ1FJNU50Q2V0ZEdzVUd6bGNteERNWXZZU3ZVVGRUcFN6aDRCb2xUZ2U0SmFib0t1VzVlZXc0LUFSLTlsTVZCR2NfeXZCVHlmRG41UVIwRG55YU5J?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM3hVdmtLdkNVT0JMaXlTazR6YzBwZklXb2pRSkhNb3Nac3FMbjYwdUhiYUR0c0xLQXZGSGxyV2JKZkwtXzdEZXdVYm1qNVdCUmxYTVExckVIM0hGRmxBelI4UTkyMDRjcVhOWmN6SG5aVEFjWG9kcW1XS0ZPQzgydnNqRVVnZkZrZ1FJNU50Q2V0ZEdzVUd6bGNteERNWXZZU3ZVVGRUcFN6aD",
+  "date": "2026-11-21T19:38:06.000Z",
+  "fetched": "2026-11-21T20:33:11.287Z",
+  "fromCloud": "2026-11-21T2033.json"
  },
  {
   "id": "0fb253dc53781f15",
@@ -3419,192 +3452,5 @@
   "date": "2026-11-20T20:35:00.000Z",
   "fetched": "2026-11-20T21:03:13.755Z",
   "fromCloud": "2026-11-20T2103.json"
- },
- {
-  "id": "c96b954436478e57",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Cash flow from financing activities of Bluerock Acquisition Corp. II – BOATS:BRRKW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXy1sU18waEVTUHRyem8zNkZxa0FYclBqU2NRT0pzblo4QUwyS3E0R3poRU4xWGc2RTJCZ1JEZWJkNlJuMHRBSUM5UXF6UGZoMVozZFdudXVwYkdxeVVyOFlpcTRnMHI2d0RZT09xLXFEandTV2czNElaYjFCQlNidUk4M3psOTljZHladzJmS0Zmd0VMcUVIY2JOdm8tdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPXy1sU18waEVTUHRyem8zNkZxa0FYclBqU2NRT0pzblo4QUwyS3E0R3poRU4xWGc2RTJCZ1JEZWJkNlJuMHRBSUM5UXF6UGZoMVozZFdudXVwYkdxeVVyOFlpcTRnMHI2d0RZT09xLXFEandTV2czNElaYjFCQlNidUk4M3psOTljZHladzJmS0Zmd0VMcUVIY2JOdm8tdw?oc=5\" target=\"_",
-  "date": "2026-11-20T20:33:22.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "eb0cb6ad6a07638c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "MasTec agrees to buy Murphy for US$1.25 billion as shares fall - finchannel",
-  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaUhmQlFDRW0tQ0FpN3RYaVpULXpVX3pVak1lek5uNXdTNXNvemwzQk5ZajAxZUMySjdqaFBSaGw0TjNGUHRvRkdOYXh1d0R3am5oWUp6QWZaeWN5U2JzWTRwY3d1LVVldzlaWW9RZUlPVkx6a2tSWFVBck5HUlFtakxuOTdjQWdRWDdGSTBhNWhDTWxaVmVxdUpza0xkaGpXaVFabktUbk1pdnVOMkswSVdrRGxseEVBaGdQSlUtR0RobWhyaXV0bUVOSUNHWU52dk4weVM4VlN1emI0Tmc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaUhmQlFDRW0tQ0FpN3RYaVpULXpVX3pVak1lek5uNXdTNXNvemwzQk5ZajAxZUMySjdqaFBSaGw0TjNGUHRvRkdOYXh1d0R3am5oWUp6QWZaeWN5U2JzWTRwY3d1LVVldzlaWW9RZUlPVkx6a2tSWFVBck5HUlFtakxuOTdjQWdRWDdGSTBhNWhDTWxaVmVxdUpza0xkaGpXaVFabktUbk1pdn",
-  "date": "2026-11-20T20:30:19.000Z",
-  "fetched": "2026-11-20T21:03:13.755Z",
-  "fromCloud": "2026-11-20T2103.json"
- },
- {
-  "id": "1f42503f68f19c53",
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "SEC moves to loosen rules on executive perks",
-  "link": "https://www.cfodive.com/news/sec-moves-loosen-rules-executive-perks-compensation/875394/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/hHHqHWgK3OWPVRahKTdQYlnbO2uSwn-ErbBSwMolloc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDE0NTM3NTcyLmpwZw==.webp\"/></div></figure><p>The proposal would raise the disclosure threshold for ",
-  "date": "2026-11-20T20:30:09.000Z",
-  "fetched": "2026-11-20T22:33:12.254Z",
-  "fromCloud": "2026-11-20T2233.json"
- },
- {
-  "id": "0a374d947dab7e6b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Cash flow from operating activities of Bluerock Acquisition Corp. II – BOATS:BRRKW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzlmWXdmN09qNWtCbWxZV296eEt0T2xVYU1ma0lMOEZ0SXZ3LUM2amdmanhiTF9rTDYxdFNTVmNkcXd6VFBkTjY3TUFBZ3BHYkNNN2Zyb1lZc0lua2hYVXhxLThzd0EyZWxEQUdPdjRGRE5BSnlqaG9HWWRsdHNmVFduVGU4cloxVkEtdFlGNGxsbUhxWVhvaC0tWUludw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNSzlmWXdmN09qNWtCbWxZV296eEt0T2xVYU1ma0lMOEZ0SXZ3LUM2amdmanhiTF9rTDYxdFNTVmNkcXd6VFBkTjY3TUFBZ3BHYkNNN2Zyb1lZc0lua2hYVXhxLThzd0EyZWxEQUdPdjRGRE5BSnlqaG9HWWRsdHNmVFduVGU4cloxVkEtdFlGNGxsbUhxWVhvaC0tWUludw?oc=5\" target=\"_",
-  "date": "2026-11-20T20:28:42.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "a40341a1924d3949",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "CPI | China Fines Baidu $75,000, Closes Long-Running Joyy Antitrust Case - PYMNTS.com",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkxoZXQtYVI4aWlZYWZyUHlmSFZfZE9lX25OTC1ka24wZ0pILTE2VXdzNWZiRXhWZW5YNjNfd2lMUDJjWERzRzBpLThGaU9GWDFhbmJSNHktMzFOcXFpQVkxelFPa3JXYm1Kb2pBRnJSVHNvZW5BU2p2RDdJcXZDVkpHR2Z6YXV3YXd3V3dYQUhpblUzaVFtSGlVYkpiZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTkxoZXQtYVI4aWlZYWZyUHlmSFZfZE9lX25OTC1ka24wZ0pILTE2VXdzNWZiRXhWZW5YNjNfd2lMUDJjWERzRzBpLThGaU9GWDFhbmJSNHktMzFOcXFpQVkxelFPa3JXYm1Kb2pBRnJSVHNvZW5BU2p2RDdJcXZDVkpHR2Z6YXV3YXd3V3dYQUhpblUzaVFtSGlVYkpiZw?oc=5\" target=\"_",
-  "date": "2026-11-20T20:26:36.000Z",
-  "fetched": "2026-11-20T20:33:15.369Z",
-  "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "dd45e35234443f18",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Cash flow from investing activities of Bluerock Acquisition Corp. II – BOATS:BRRKW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEtXVWNnZHd1MlhwNGtCbHh4TGhaY2gzMFRqcEtlX2dQWmlINWtfQXc3bzdGcGNlSllZNkJ6c2I0ZWRoSkhuVDBQX0stR2NzNkxvbkMwN0NIa2J4VHdoZlVZSmJQbG1uaFlpQUY0Zk1UNXpVQXFMeS1hSGtiVl82cFdJTC1ycHlqNlhxbi1zT081X3FkOEJyd20wSU9oQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUEtXVWNnZHd1MlhwNGtCbHh4TGhaY2gzMFRqcEtlX2dQWmlINWtfQXc3bzdGcGNlSllZNkJ6c2I0ZWRoSkhuVDBQX0stR2NzNkxvbkMwN0NIa2J4VHdoZlVZSmJQbG1uaFlpQUY0Zk1UNXpVQXFMeS1hSGtiVl82cFdJTC1ycHlqNlhxbi1zT081X3FkOEJyd20wSU9oQQ?oc=5\" target=\"_",
-  "date": "2026-11-20T20:23:58.000Z",
-  "fetched": "2026-11-20T22:38:42.122Z",
-  "fromCloud": "2026-11-20T2238.json"
- },
- {
-  "id": "d4f76be70e0af4f7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Raizen SA Rights 2026-08.12.26 For Subscription Receipts For Shs – BMFBOVESPA:RAIZ1 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDhiSzZrR19OcXJ3TUo3ZHZKTTdOTGRIT0FxYUlzSS12TVF1WlZaZmljb0FOaWhhQTJzMEJZWXo2ZGxNYW1NaGVFaWdjcVN4QlJhQVRaRDg2eTczMXB3aGhHOXF6alBBU0V4UVlIVFZ3WjdwazBfSEVqc1B5STNkWTdUVUFPTTgwWWlRRG9jeUpmRDBnUExYYkNXejdvalRIY2cxUHJWdVZyTk9NaExVTw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDhiSzZrR19OcXJ3TUo3ZHZKTTdOTGRIT0FxYUlzSS12TVF1WlZaZmljb0FOaWhhQTJzMEJZWXo2ZGxNYW1NaGVFaWdjcVN4QlJhQVRaRDg2eTczMXB3aGhHOXF6alBBU0V4UVlIVFZ3WjdwazBfSEVqc1B5STNkWTdUVUFPTTgwWWlRRG9jeUpmRDBnUExYYkNXejdvalRIY2cxUHJWdVZyTk",
-  "date": "2026-11-20T20:23:36.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "8db9abe80f47834b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "BKHA: SEC Form CERT filed by Black Hawk Acquisition Corporation - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVU5bjl1dlg1VFN4N2NGQnlQUUZhVU9SN3BlMTZVUzJOZms0OFdVT2lvb2NzVmZWNVp4WjUweThfUTVJcGoxRWtzVVJ2V29BUVlRZjhmbUM0eTVEQW5DTG5pR3d6aUhKVlNZYVFMRUZObHMxb1o3eWg0aktzQm9nenc3SFJrYThDSmNyV193MERiRXhlZHlya3YwMl8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVU5bjl1dlg1VFN4N2NGQnlQUUZhVU9SN3BlMTZVUzJOZms0OFdVT2lvb2NzVmZWNVp4WjUweThfUTVJcGoxRWtzVVJ2V29BUVlRZjhmbUM0eTVEQW5DTG5pR3d6aUhKVlNZYVFMRUZObHMxb1o3eWg0aktzQm9nenc3SFJrYThDSmNyV193MERiRXhlZHlya3YwMl8?oc=5\" target=\"_bla",
-  "date": "2026-11-20T20:20:57.000Z",
-  "fetched": "2026-11-20T20:33:15.369Z",
-  "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "0739de6dd26b0754",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "האינפלציה ביפן מטפסת והין על סף 160: השוק מהמר על העלאת ריבית - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KSE5UUW9aX2l4dU9waVV1Z2hNOUV5eXVlald5Z2FFLXN6VWg3QXJrZ1ZrS0RSWFRGNENhSHh2NjAyejRFT0FSTUo3N0k1WmR3S3NPM0FOLXhMSURxNlpBUGl0NS1QbHdiUHVEUVBVMkg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9KSE5UUW9aX2l4dU9waVV1Z2hNOUV5eXVlald5Z2FFLXN6VWg3QXJrZ1ZrS0RSWFRGNENhSHh2NjAyejRFT0FSTUo3N0k1WmR3S3NPM0FOLXhMSURxNlpBUGl0NS1QbHdiUHVEUVBVMkg?oc=5\" target=\"_blank\">האינפלציה ביפן מטפסת והין על סף 160: השוק מהמר על העלאת ",
-  "date": "2026-11-20T20:20:00.000Z",
-  "fetched": "2026-11-20T20:33:15.369Z",
-  "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "1046faa675a937d2",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Trump considering new Iran strikes as US military warns of strain on forces",
-  "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-  "summary": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year",
-  "date": "2026-11-20T20:19:49.000Z",
-  "fetched": "2026-11-20T20:33:15.369Z",
-  "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "821cb70546b0753a",
-  "source": "CFO Dive",
-  "group": "cfo",
-  "title": "PayPal’s next CFO to receive over $30M in stock, bonuses",
-  "link": "https://www.cfodive.com/news/incoming-paypal-cfo-30m-stock-bonuses-comp-turnaround-strategy/875389/",
-  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Lz0OvfXyWGgW83CR1ViamZUft3uUFCCpPCV9cgtCAeY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NDM4OTE3OTQuanBnX3Jlc2l6ZS5qcGc=.webp\"/></div></figure><p>PayPal will lean on another long-time HP a",
-  "date": "2026-11-20T20:19:10.000Z",
-  "fetched": "2026-11-20T22:33:12.254Z",
-  "fromCloud": "2026-11-20T2233.json"
- },
- {
-  "id": "63630b509bb617e0",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
-  "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
-  "summary": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
-  "date": "2026-11-20T20:17:29.000Z",
-  "fetched": "2026-11-20T20:33:15.369Z",
-  "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "b2bcdd6897291a0d",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow of Bluerock Acquisition Corp. II – BOATS:BRRKW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnlyeUJsTHdiSUY1YW85NzFzNGJ1ZmhKTDVTbXF4SExJTElXRUg3YjhiNzZ4cGJ5RHJQaWY0ODNsb3NTWlA2YmNtNmNWME4tS0JvVXhmSTFhWklBRkZZZ0NjSjdDTDdudWc3alNyUjdvYWZMdExVZEk0VW1EbkoxUHBHVnFnQ2RVcnk0Mw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnlyeUJsTHdiSUY1YW85NzFzNGJ1ZmhKTDVTbXF4SExJTElXRUg3YjhiNzZ4cGJ5RHJQaWY0ODNsb3NTWlA2YmNtNmNWME4tS0JvVXhmSTFhWklBRkZZZ0NjSjdDTDdudWc3alNyUjdvYWZMdExVZEk0VW1EbkoxUHBHVnFnQ2RVcnk0Mw?oc=5\" target=\"_blank\">Free cash flow of",
-  "date": "2026-11-20T20:15:44.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "67cbe9750bfec81e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Integral Acquisition Corporation 1 Announces Liquidation and Redemption Amount - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFIySXRBOEJvVVhDS2NBWmZYMWtON2wxOXR1VmFrNHZIYllXd2hOcC0yNXVVbjk2bU1hX1ppN2Fwdzl3OUVQcTB5VXo2S2h6U1VtLUxLdFBlZ0ExS01WbE9KbTFKNlVpUGhEdnl0bTVmZzhxT2lOR3hFcFFXaU1pTkJ2YjRSY3NBVXp5QkVjNGZpUjRvR2tZOFVkeVJBR0k0Yl90YlI5T1dKYkFqRW8xVnQwTl9VUnZpUkY0Y0R3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFIySXRBOEJvVVhDS2NBWmZYMWtON2wxOXR1VmFrNHZIYllXd2hOcC0yNXVVbjk2bU1hX1ppN2Fwdzl3OUVQcTB5VXo2S2h6U1VtLUxLdFBlZ0ExS01WbE9KbTFKNlVpUGhEdnl0bTVmZzhxT2lOR3hFcFFXaU1pTkJ2YjRSY3NBVXp5QkVjNGZpUjRvR2tZOFVkeVJBR0k0Yl90YlI5T1dKYk",
-  "date": "2026-11-20T20:10:34.000Z",
-  "fetched": "2026-11-20T20:33:15.369Z",
-  "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "0474562afeac413e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "PayPal Names CFO, Other Execs to Help Execute Turnaround Plan - Moomoo",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjRJbXN5VVQ0X09LOC16cVNHNXFGaEFNRlpaeHo3VDRaTTdPc1pZN1JmOGp2NUlCUmM3YjN6RVRjT3FJYjdnNGFPQWhiX3d4bHlpZW0yTG1oeDFaV3V0dTBhMEV6aXZXWkRZZlBqYlZMeGFqSnl5bkJlQ1pMRzNmYjV6MEF1T01tN3BhRThrTFNfOXRXLVYwSlgyd2hsQ2FrdlQzZ2Izcw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjRJbXN5VVQ0X09LOC16cVNHNXFGaEFNRlpaeHo3VDRaTTdPc1pZN1JmOGp2NUlCUmM3YjN6RVRjT3FJYjdnNGFPQWhiX3d4bHlpZW0yTG1oeDFaV3V0dTBhMEV6aXZXWkRZZlBqYlZMeGFqSnl5bkJlQ1pMRzNmYjV6MEF1T01tN3BhRThrTFNfOXRXLVYwSlgyd2hsQ2FrdlQzZ2Izcw?oc=",
-  "date": "2026-11-20T20:08:21.000Z",
-  "fetched": "2026-11-20T20:33:15.369Z",
-  "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "ee14ef9862f47d08",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "McCloughan to transition from CEO to CFO at Loveland-Johnstown chamber - BizWest",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzVPLVc5bW1hQTFHX2dhaUFrMUhxcHpFb0Iwa21PLVJGb3NpY05HMEE5MlctemJhVm9OampyRGJvd0lseWxfZ09nUDNkdWdBNXB4cDk0ZFZIY3A4YmcxeHJhVHZBVjVCaUZlWS1XNmNXeFRVcjVRWldBX2l0d2lMSmhGUGt1U3cxN1JPV0lnZ1dYOHBJSXBMaTdEb3lCTEFBTWxmQw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzVPLVc5bW1hQTFHX2dhaUFrMUhxcHpFb0Iwa21PLVJGb3NpY05HMEE5MlctemJhVm9OampyRGJvd0lseWxfZ09nUDNkdWdBNXB4cDk0ZFZIY3A4YmcxeHJhVHZBVjVCaUZlWS1XNmNXeFRVcjVRWldBX2l0d2lMSmhGUGt1U3cxN1JPV0lnZ1dYOHBJSXBMaTdEb3lCTEFBTWxmQw?oc=5\" t",
-  "date": "2026-11-20T20:07:29.000Z",
-  "fetched": "2026-11-20T20:33:15.369Z",
-  "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "b1f342d0ce290920",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מאבק שליטה ב-PRF: משקיעים מהרצליה דורשים להדיח את היו\"ר והמנכ\"ל - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CSXdfMTAxZFpuTHNsbnJjb3NnMnZCNEdqSFhabDVCTVY3YWszVkdqRVZMRHFVb0R2eEgwUHduWkxTX3dFQ1QxVjlITFczWDU3bzhZR0REVUJ5TnVRdVRUUGU1VEFYWjh4OF84eA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1CSXdfMTAxZFpuTHNsbnJjb3NnMnZCNEdqSFhabDVCTVY3YWszVkdqRVZMRHFVb0R2eEgwUHduWkxTX3dFQ1QxVjlITFczWDU3bzhZR0REVUJ5TnVRdVRUUGU1VEFYWjh4OF84eA?oc=5\" target=\"_blank\">מאבק שליטה ב-PRF: משקיעים מהרצליה דורשים להדיח את היו\"ר והמנכ",
-  "date": "2026-11-20T20:05:00.000Z",
-  "fetched": "2026-11-20T20:33:15.369Z",
-  "fromCloud": "2026-11-20T2033.json"
  }
 ]
