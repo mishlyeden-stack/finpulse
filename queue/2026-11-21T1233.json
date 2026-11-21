@@ -1,0 +1,56 @@
+{
+ "batch": "2026-11-21T1233",
+ "created": "2026-11-21T12:33:12.536Z",
+ "items": [
+  {
+   "id": "19c749275015cb3e",
+   "source": "גלובס – ראשי",
+   "group": "israel-press",
+   "title": "אחרי הסערה שחוללה OpenAI: חוקר אנתרופיק טוען לפריצות דרך היסטוריות במתמטיקה",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001564319#utm_source=RSS",
+   "summary": "המתמטיקאי לוונט אלפוגה, חוקר באנתרופיק, טוען כי הצליח להוכיח בעזרת קלוד את השערת רימן, שנותרה ללא פתרון מאז 1859 &#8226; שעות לאחר מכן פרסם, יחד עם פרופ' טריסטן באקמאסטר מאוניברסיטת ניו יורק, הוכחה לבעיה מתמטית נוספת שעמדה לאחרונה במרכז סערה סביב OpenAI &#8226; פתרון של כל אחת מה",
+   "date": "2026-11-21T12:30:00.000Z",
+   "fetched": "2026-11-21T12:33:12.536Z"
+  },
+  {
+   "id": "4749a04829b91000",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
+   "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+   "summary": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
+   "date": "2026-11-21T12:00:08.000Z",
+   "fetched": "2026-11-21T12:33:12.536Z"
+  },
+  {
+   "id": "29e1e1ebf7c53b8e",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Traders start to move US copper to China as Trump tariff fears ease",
+   "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+   "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
+   "date": "2026-11-21T12:00:08.000Z",
+   "fetched": "2026-11-21T12:33:12.536Z"
+  },
+  {
+   "id": "e2493ac476cd7b53",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "SoftBank’s Son Considered $1 Trillion Acquisition of SK Hynix - bloomingbit",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55UENpN3lJNDJUeUxYWHR6Y0I4cUdoZnJpRkNFS1Z3Qkt1RGIxSk56V3Yzd2Mxd1dsdHpuNTVyYzV4bTNfVXZKUXM4T0JwLTlfVnJtRA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE55UENpN3lJNDJUeUxYWHR6Y0I4cUdoZnJpRkNFS1Z3Qkt1RGIxSk56V3Yzd2Mxd1dsdHpuNTVyYzV4bTNfVXZKUXM4T0JwLTlfVnJtRA?oc=5\" target=\"_blank\">SoftBank’s Son Considered $1 Trillion Acquisition of SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f",
+   "date": "2026-11-21T06:38:31.000Z",
+   "fetched": "2026-11-21T12:33:12.536Z"
+  },
+  {
+   "id": "6231e48f3bee97e2",
+   "source": "SecurityWeek",
+   "group": "industry",
+   "title": "Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day",
+   "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+   "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
+   "date": "2026-11-21T12:08:50.000Z",
+   "fetched": "2026-11-21T12:33:12.536Z"
+  }
+ ]
+}
