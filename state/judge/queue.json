@@ -1,5 +1,38 @@
 [
  {
+  "id": "db41059e7abad3e1",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "CTech's Book Review: The gap between where consumers are and where the infrastructure is - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PU0dxLWM2UUp4c21FTmZFZE8ydFZReUZDaVd5NHJHc21WMHllVFZJUklHX1lPNzF1U2V5S1BoQkphcDMzZGxhUng2NDEyMDFwY0pGcHhUdUpGTXlCQ1cyLWdHcEV5WWs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PU0dxLWM2UUp4c21FTmZFZE8ydFZReUZDaVd5NHJHc21WMHllVFZJUklHX1lPNzF1U2V5S1BoQkphcDMzZGxhUng2NDEyMDFwY0pGcHhUdUpGTXlCQ1cyLWdHcEV5WWs?oc=5\" target=\"_blank\">CTech's Book Review: The gap between where consumers are and where t",
+  "date": "2026-11-21T10:21:00.000Z",
+  "fetched": "2026-11-21T10:33:11.779Z",
+  "fromCloud": "2026-11-21T1033.json"
+ },
+ {
+  "id": "f0a47d5ce88ac7e1",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "דיווח על עסקת ענק שנרקמת בענף הסייבר הטיס את המניה הזו ב-16% - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54RDBmLXdrODFRdWlCM3NYUkJBWFY3dkJqTENWejI2Ti12R19VbDJQeFJPTmxYRXE3ajJsdDBtNHJ0QWlLR2NCWVc5NEM1eUFHeHlKSmwzeDFXeXRUMWZRbXdLNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE54RDBmLXdrODFRdWlCM3NYUkJBWFY3dkJqTENWejI2Ti12R19VbDJQeFJPTmxYRXE3ajJsdDBtNHJ0QWlLR2NCWVc5NEM1eUFHeHlKSmwzeDFXeXRUMWZRbXdLNA?oc=5\" target=\"_blank\">דיווח על עסקת ענק שנרקמת בענף הסייבר הטיס את המניה הזו ב-16%</a>&nbsp;&nb",
+  "date": "2026-11-21T10:15:00.000Z",
+  "fetched": "2026-11-21T10:33:11.779Z",
+  "fromCloud": "2026-11-21T1033.json"
+ },
+ {
+  "id": "2d4cf9c481dd0c95",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "עד 31 בדצמבר: ההפקדה שיכולה לחסוך לעצמאי כ-23 אלף שקל מס - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84Q2ZyLVhVbkJGZnNMdUFEMEdFSkltaTI0d0M3VlpCdlhhM2loNVBIT0RFV1VWOWFNR3g5NTZ1QzVEX3dndGZsZExkSXdiSlFYTy1SX2xHNXpkczJmQUhuS0tSWjIxNnJNb3RMa0tZeXdKcEU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE84Q2ZyLVhVbkJGZnNMdUFEMEdFSkltaTI0d0M3VlpCdlhhM2loNVBIT0RFV1VWOWFNR3g5NTZ1QzVEX3dndGZsZExkSXdiSlFYTy1SX2xHNXpkczJmQUhuS0tSWjIxNnJNb3RMa0tZeXdKcEU?oc=5\" target=\"_blank\">עד 31 בדצמבר: ההפקדה שיכולה לחסוך לעצמאי כ-23 אלף שק",
+  "date": "2026-11-21T10:14:00.000Z",
+  "fetched": "2026-11-21T10:33:11.779Z",
+  "fromCloud": "2026-11-21T1033.json"
+ },
+ {
   "id": "f3329244e55fc803",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -53,6 +86,17 @@
   "date": "2026-11-21T09:29:29.000Z",
   "fetched": "2026-11-21T09:33:10.570Z",
   "fromCloud": "2026-11-21T0933.json"
+ },
+ {
+  "id": "2ce02f53717e770c",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "קריסה בוול סטריט - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjgtV2g5TndWWkx3SHVlc1dCOXZwYzI0cU1JLThlNDVMZ25QS0l2SnBfdVpFTzZwbjVVdWR0X3dCWjlZX2JpcmxHN25Uc0JrVDFzLWVLTzJoLXNNUUliZWRfcDJ2cmUwWWF6ZkZiVTdIRXNnMFA0UjBOMzA5RVhBbmZJN1FUZDRzaWZOZTBwNTlOY3Y5eVRya3NHQU9NYllKOUxNbXVxLUdyWjRBNHF2b0x3ZjlCV1J5bG5J?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjgtV2g5TndWWkx3SHVlc1dCOXZwYzI0cU1JLThlNDVMZ25QS0l2SnBfdVpFTzZwbjVVdWR0X3dCWjlZX2JpcmxHN25Uc0JrVDFzLWVLTzJoLXNNUUliZWRfcDJ2cmUwWWF6ZkZiVTdIRXNnMFA0UjBOMzA5RVhBbmZJN1FUZDRzaWZOZTBwNTlOY3Y5eVRya3NHQU9NYllKOUxNbXVxLUdyWj",
+  "date": "2026-11-21T09:28:35.000Z",
+  "fetched": "2026-11-21T10:33:11.779Z",
+  "fromCloud": "2026-11-21T1033.json"
  },
  {
   "id": "8a89bce182d87a37",
@@ -5927,93 +5971,5 @@
   "date": "2026-11-20T10:34:10.000Z",
   "fetched": "2026-11-20T11:03:11.942Z",
   "fromCloud": "2026-11-20T1103.json"
- },
- {
-  "id": "2dae77898f2e7973",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Nobia CFO Rasmus Laursen Leaves - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlU3aWJ3R29HZjREUzhNamxIenRVOWFlRTJDUGx0NEFMR1JFQ1VTSmhrSFk0a3JQdHZMdmJOMkppTmppY2ZYbzRMVmt6TTFHYm1JSVMzS290MUtyRmlEUl8zcmtnWGZ2T3JUeFQ2dFMzSHQyX0gtNVBrVnk3Xzc3bTZfUnZCLUNoUExEN3dLUDR5N0VFbi1aZ1Q4UGRyTHlxeEZn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlU3aWJ3R29HZjREUzhNamxIenRVOWFlRTJDUGx0NEFMR1JFQ1VTSmhrSFk0a3JQdHZMdmJOMkppTmppY2ZYbzRMVmt6TTFHYm1JSVMzS290MUtyRmlEUl8zcmtnWGZ2T3JUeFQ2dFMzSHQyX0gtNVBrVnk3Xzc3bTZfUnZCLUNoUExEN3dLUDR5N0VFbi1aZ1Q4UGRyTHlxeEZn?oc=5\" tar",
-  "date": "2026-11-20T10:26:13.000Z",
-  "fetched": "2026-11-20T11:03:11.942Z",
-  "fromCloud": "2026-11-20T1103.json"
- },
- {
-  "id": "8c5602085790b04b",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "ארביטראז' של 1%: ככה הקבלנים מתחמקים מהוראות בנק ישראל",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001564202#utm_source=RSS",
-  "summary": "כפי שיצרניות הרכב עקפו בעבר את המכסים האמריקאיים, חברות הבנייה מוצאות כעת דרכים יצירתיות לעקוף את מגבלות בנק ישראל &#8226; דוחות קטה גרופ מדגימים איך הלוואות קבלן מחזירות את מבצעי ה־90:10 לשוק &#8226; ומי באמת מממן את ההטבה?",
-  "date": "2026-11-20T10:24:00.000Z",
-  "fetched": "2026-11-20T10:33:24.857Z",
-  "fromCloud": "2026-11-20T1033.json"
- },
- {
-  "id": "b879bb2eb8ec0657",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "מימוש שני השנה: פימי מכרה מניות הייפר גלובל ב-100 מיליון שקל",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001564311#utm_source=RSS",
-  "summary": "קרן ההשקעות של ישי דוידי מכרה נתח נוסף ממניותיה בחברת המחשוב שבשליטתה, אשר הביאו את היקף המימושים שלה בחברה לכ-200 מיליון שקל &#8226; בסך הכל מורווחת פימי במעל חצי מיליארד שקל על ההשקעה שבוצעה לפני כ-6 שנים",
-  "date": "2026-11-20T10:23:00.000Z",
-  "fetched": "2026-11-20T10:33:24.857Z",
-  "fromCloud": "2026-11-20T1033.json"
- },
- {
-  "id": "4039a3035d65ff7f",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Israel upgrades David's Sling to counter wider range of Iranian missile threats - www.calcalistech.com",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ob3FHa0p5MnZCRnB0b3BGcGhzZVJKUFRHN1lNWVYwb2VsTXlMRzUtTE1lZUlQVWdNR0RSelpLQUFUVEJPV0JPY19ScE4tTFhOWHlSYkRIVUlMeWN0WXJXQmR3ZFluVVE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ob3FHa0p5MnZCRnB0b3BGcGhzZVJKUFRHN1lNWVYwb2VsTXlMRzUtTE1lZUlQVWdNR0RSelpLQUFUVEJPV0JPY19ScE4tTFhOWHlSYkRIVUlMeWN0WXJXQmR3ZFluVVE?oc=5\" target=\"_blank\">Israel upgrades David's Sling to counter wider range of Iranian miss",
-  "date": "2026-11-20T10:22:00.000Z",
-  "fetched": "2026-11-20T10:33:24.857Z",
-  "fromCloud": "2026-11-20T1033.json"
- },
- {
-  "id": "c3eec147e1e88379",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Tria Federal Names Ryan Hill Chief Financial Officer - GovCon Wire",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXowMGMxX1dud0FMVkl3eWtRbkM0SkVHLXgyMEpNOXBwMXloQzRYel9TMHgxU3pGMXpaT1k5THVlM19CejJ2LWdGTGhQZHFtdHE0NEY2Y29xd1ljM2N5M21yVnRLVlFXYThzenpTSTNOSW5ZWlhDbVlIdlVHanoxZ2NpMVE0RFJ0Y3JPaTY0ZXI0QQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXowMGMxX1dud0FMVkl3eWtRbkM0SkVHLXgyMEpNOXBwMXloQzRYel9TMHgxU3pGMXpaT1k5THVlM19CejJ2LWdGTGhQZHFtdHE0NEY2Y29xd1ljM2N5M21yVnRLVlFXYThzenpTSTNOSW5ZWlhDbVlIdlVHanoxZ2NpMVE0RFJ0Y3JPaTY0ZXI0QQ?oc=5\" target=\"_blank\">Tria Fede",
-  "date": "2026-11-20T10:21:09.000Z",
-  "fetched": "2026-11-20T10:33:24.857Z",
-  "fromCloud": "2026-11-20T1033.json"
- },
- {
-  "id": "c8b833c828a77cee",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "מס טיסות - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1VuVEdseWlJdzc1QnNZaUlJRmdIZVpaOVMxX3VCbjg4QzNCMHkyd2dTTEhTVFV4SE1lak9qT1V5cng0MkoyTV8wMGdrc3BOajA3aUxFQXRxbWFpdWxKT1ItYklBVklBeU9pelh5c3NYTEpBYUlpNGlLUHM5d2lsU1pn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1VuVEdseWlJdzc1QnNZaUlJRmdIZVpaOVMxX3VCbjg4QzNCMHkyd2dTTEhTVFV4SE1lak9qT1V5cng0MkoyTV8wMGdrc3BOajA3aUxFQXRxbWFpdWxKT1ItYklBVklBeU9pelh5c3NYTEpBYUlpNGlLUHM5d2lsU1pn?oc=5\" target=\"_blank\">מס טיסות</a>&nbsp;&nbsp;<font c",
-  "date": "2026-11-20T10:16:32.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "19f627c12d3fc053",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "מסדרונות האוצר - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWpPSjI3SC1VTGNNMXg4YmNCMS1GNFVGVnIzWFlDSlViaVJla1ZKdnJYYzlET3k5eDVNdmd4YS1tUjlES2NnT1ZGVmF6ZnBpeDFsaVhNaVZLWE9aTkdOQmp0X01OT2l5MmFabzNRdS0yelNnVHJtTXUxY1l5YUNGY3F2aVlrTHh2RkhMUmVCX0YzTTRhV2ZVX2x5cVVoMV8wOUdMakhfc080bjhKMm5lVF9B?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWpPSjI3SC1VTGNNMXg4YmNCMS1GNFVGVnIzWFlDSlViaVJla1ZKdnJYYzlET3k5eDVNdmd4YS1tUjlES2NnT1ZGVmF6ZnBpeDFsaVhNaVZLWE9aTkdOQmp0X01OT2l5MmFabzNRdS0yelNnVHJtTXUxY1l5YUNGY3F2aVlrTHh2RkhMUmVCX0YzTTRhV2ZVX2x5cVVoMV8wOUdMakhfc080bj",
-  "date": "2026-11-20T10:16:32.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "9033084edf71bd8d",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "מיירטים זולים: מערכת קלע דוד שודרגה לאור החשש מחידוש המלחמה עם איראן - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUNDRm9TcjZ3c2JPVzhjbUliTUpITHlNUEVBeEVDTklORVdNOHNXMWx2LXAwdWp3aVJ3V0YzRUczRVd1bFlFRk5HejltLUVGc2NCTDdzMmxyWmV4bXB1TzJidEthb1pxT2pVejdwZl9TUS1wTnRUeEROSmt3Q052MjFoSjlpd1BPS1ZwWlBUUVBoRjRuY1NHbHhRLWE1MS1KSVdOQUU3SQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUNDRm9TcjZ3c2JPVzhjbUliTUpITHlNUEVBeEVDTklORVdNOHNXMWx2LXAwdWp3aVJ3V0YzRUczRVd1bFlFRk5HejltLUVGc2NCTDdzMmxyWmV4bXB1TzJidEthb1pxT2pVejdwZl9TUS1wTnRUeEROSmt3Q052MjFoSjlpd1BPS1ZwWlBUUVBoRjRuY1NHbHhRLWE1MS1KSVdOQUU3SQ?oc=",
-  "date": "2026-11-20T10:09:00.000Z",
-  "fetched": "2026-11-20T10:33:24.857Z",
-  "fromCloud": "2026-11-20T1033.json"
  }
 ]
