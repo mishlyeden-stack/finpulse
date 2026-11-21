@@ -1,5 +1,27 @@
 [
  {
+  "id": "b0333be99d5b35f9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Form 4 Amdocs Ltd: Tal Rozenfeld (CFO) For: 3 November By Investing.com - Investing.com Australia",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3lSQ2hhanFlU1VvSkhQZTllZDhiMW9kQlRPRWlxanIzdml1RmtZMlJiOFlGOHFuYndTTXQ4aUl2c05MOTNXTzdEUjJXMHpUU1hWVHFMNkRsek1KWElXN1ExdGd4a1Qzb2hTaUxaN09kTHZLYk9OOW5pdnhEcFNBR1lKVWJEUVNic2dFbnFvRUVWNjY1WlNEcjk2V2FlWWpqUWViNHViemliY01URG1vYg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3lSQ2hhanFlU1VvSkhQZTllZDhiMW9kQlRPRWlxanIzdml1RmtZMlJiOFlGOHFuYndTTXQ4aUl2c05MOTNXTzdEUjJXMHpUU1hWVHFMNkRsek1KWElXN1ExdGd4a1Qzb2hTaUxaN09kTHZLYk9OOW5pdnhEcFNBR1lKVWJEUVNic2dFbnFvRUVWNjY1WlNEcjk2V2FlWWpqUWViNHViemliY0",
+  "date": "2026-11-21T19:27:27.000Z",
+  "fetched": "2026-11-21T19:33:18.718Z",
+  "fromCloud": "2026-11-21T1933.json"
+ },
+ {
+  "id": "c371762e6e190d8b",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "הסכם מסתמן: יוטיוב תשלם פיצויים ב-3 מיליארד דולר על התמכרות תלמידים - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGSlZRY0Nyd2M4THBBTThIak1uVDg5UXpWN3JucTlHeW5jRGpnd1dhQjhpeDhPdnEyRGVpenptenRVa1JJOXlyb2l5NHBqRDh3TEVaMExjUmowNDZrSENQTFl6NDZKMWVnVmc0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBGSlZRY0Nyd2M4THBBTThIak1uVDg5UXpWN3JucTlHeW5jRGpnd1dhQjhpeDhPdnEyRGVpenptenRVa1JJOXlyb2l5NHBqRDh3TEVaMExjUmowNDZrSENQTFl6NDZKMWVnVmc0?oc=5\" target=\"_blank\">הסכם מסתמן: יוטיוב תשלם פיצויים ב-3 מיליארד דולר על התמכרות תלמ",
+  "date": "2026-11-21T19:16:00.000Z",
+  "fetched": "2026-11-21T19:33:18.718Z",
+  "fromCloud": "2026-11-21T1933.json"
+ },
+ {
   "id": "73d7c1fcc51a5450",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -845,6 +867,17 @@
   "date": "2026-11-21T10:14:00.000Z",
   "fetched": "2026-11-21T10:33:11.779Z",
   "fromCloud": "2026-11-21T1033.json"
+ },
+ {
+  "id": "4392b74f64a86aa2",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "כשהאוזניות מדברות עם הרמקול: החידושים של סונוס",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564171#utm_source=RSS",
+  "summary": "חברת האודיו האמריקאית משיקה את אוזניות הדגל החדשות שלה, Sonos Ace Ultra, שמתחברות ישירות למערכת הרמקולים הביתית, ה-Beam Ultra &#8226; האקוסיסטסם כולל גם אפליקציה בשילוב כלי AI, והיתרון הבולט הוא בעיצוב ובנוחות - אך תג המחיר גבוה במיוחד",
+  "date": "2026-11-21T10:03:00.000Z",
+  "fetched": "2026-11-21T19:33:18.718Z",
+  "fromCloud": "2026-11-21T1933.json"
  },
  {
   "id": "f3329244e55fc803",
@@ -3584,148 +3617,5 @@
   "date": "2026-11-20T19:40:00.000Z",
   "fetched": "2026-11-20T20:33:15.369Z",
   "fromCloud": "2026-11-20T2033.json"
- },
- {
-  "id": "7277929cc15b6cc6",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Monroe Capital Income Plus Corp (0001742313) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000069/0001742313-26-000069-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001742313-26-000069 <b>Size:</b> 168 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events",
-  "date": "2026-11-20T19:32:23.000Z",
-  "fetched": "2026-11-20T19:33:13.003Z",
-  "fromCloud": "2026-11-20T1933.json"
- },
- {
-  "id": "64adbb171e22fb25",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Flagstar Bank N.A. (FLG) CFO Smith bought 5,000 shares for $49.7K at $9.93 - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObkxCWVVmU3JYUFByZ1NxbVJCbzFYYUZNbjdtUmx2WnRSSVJ2bTNYb3VUUU9WOVgtUHhxQ0I5OTFleHpyeThxNTB4LVNCWmY1NVlEbksyeXowX1RTanN0eTJjTmxfLVlDbmFhd25LRV9rZ24zXzU2OTF1NkxmN2cxMWVDRWlfZDN1dERZVkdudE1QZVZRRGVRajNsZ2FOa3VE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObkxCWVVmU3JYUFByZ1NxbVJCbzFYYUZNbjdtUmx2WnRSSVJ2bTNYb3VUUU9WOVgtUHhxQ0I5OTFleHpyeThxNTB4LVNCWmY1NVlEbksyeXowX1RTanN0eTJjTmxfLVlDbmFhd25LRV9rZ24zXzU2OTF1NkxmN2cxMWVDRWlfZDN1dERZVkdudE1QZVZRRGVRajNsZ2FOa3VE?oc=5\" target=",
-  "date": "2026-11-20T19:31:15.000Z",
-  "fetched": "2026-11-20T19:33:13.003Z",
-  "fromCloud": "2026-11-20T1933.json"
- },
- {
-  "id": "f9f45e99119a6ec6",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Stonepeak-Plus Infrastructure Fund LP (0002045458) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2045458/000204545826000060/0002045458-26-000060-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0002045458-26-000060 <b>Size:</b> 157 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 8.01: Other Events",
-  "date": "2026-11-20T19:30:57.000Z",
-  "fetched": "2026-11-20T19:33:13.003Z",
-  "fromCloud": "2026-11-20T1933.json"
- },
- {
-  "id": "afaa1ea172dda6e4",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Seahawk Ventures Inc. (SEAG.X) Continues Pursuit of SRG Gold Acquisition - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1J4VlRRazVvdG5Rb1FhTmhaTmhDU1hyNG9OMWNVR3VBZGhfSFdYUFZYNHR6R292cU1LVElVblZkSUMzQTZ4TkZicWNHWFdRWDNLY1h3M2NvM0tyXzRhcjM3VFBHSmtmYnNlS1hsbXl0N2FEOTBLaERpeWQtR19SVGVPNXJXSnUweWN2MHR5eW5GU0RKaDVrNkd3NHdvNmRhdm9Yc2JrMmhROEhnTEpSaVZmMnJISS1iSXZhemVFOUFfazZYN2hOYTZ5RQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1J4VlRRazVvdG5Rb1FhTmhaTmhDU1hyNG9OMWNVR3VBZGhfSFdYUFZYNHR6R292cU1LVElVblZkSUMzQTZ4TkZicWNHWFdRWDNLY1h3M2NvM0tyXzRhcjM3VFBHSmtmYnNlS1hsbXl0N2FEOTBLaERpeWQtR19SVGVPNXJXSnUweWN2MHR5eW5GU0RKaDVrNkd3NHdvNmRhdm9Yc2JrMmhROE",
-  "date": "2026-11-20T19:30:00.000Z",
-  "fetched": "2026-11-20T20:03:27.676Z",
-  "fromCloud": "2026-11-20T2003.json"
- },
- {
-  "id": "8f80984753b4c896",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Chinese regulator fines Baidu $75,000 over live-streaming business acquisition - KELO-AM",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFBYclNLV1JHN3loTVRzY19nTzliOXhYSUdVN3U3eVRhdW9tc004SWZqMlBSRjlqakxrNFQxRWRUUXE2NEpJcm5nQ3dDRVRhYzhBUlNvR29OcTJhQ3o3czJieDhpMTYza0h6dkFfWGZMSEZVN3lrZXFaMzV5WUczQmIwNEhhSzB6SGdZd01Bd3l1UVFSbUdCWGgwQUlKQzFuMjBjelMydlE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFBYclNLV1JHN3loTVRzY19nTzliOXhYSUdVN3U3eVRhdW9tc004SWZqMlBSRjlqakxrNFQxRWRUUXE2NEpJcm5nQ3dDRVRhYzhBUlNvR29OcTJhQ3o3czJieDhpMTYza0h6dkFfWGZMSEZVN3lrZXFaMzV5WUczQmIwNEhhSzB6SGdZd01Bd3l1UVFSbUdCWGgwQUlKQzFuMjBjelMydlE?oc",
-  "date": "2026-11-20T19:29:30.000Z",
-  "fetched": "2026-11-20T19:33:13.003Z",
-  "fromCloud": "2026-11-20T1933.json"
- },
- {
-  "id": "01c5c9bdb30ab055",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - TAKE TWO INTERACTIVE SOFTWARE INC (0000946581) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/946581/000162828026075217/0001628280-26-075217-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001628280-26-075217 <b>Size:</b> 185 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-20T19:28:10.000Z",
-  "fetched": "2026-11-20T19:33:13.003Z",
-  "fromCloud": "2026-11-20T1933.json"
- },
- {
-  "id": "03bf0bd76bfc888b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Chinese regulator fines Baidu $75,000 over live-streaming business acquisition - WNWN-FM",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWZLblhyYWsyeHZFZW9KLW1mT09GTEVWaU1KRVJLMU9iVmcyVW5keFBMVkptTjNQWkZENjh0dEY3dFV2dVQwVmstZmotMDFXbWlrRlR6d2tNcUZ3Z0txVU5YcHpOOVRKcjVnVEJET2J5ckd4NTRVRU1walg1bkxBM21vWXBxNnMtM2k1MFhUTzczTnR6NWQtcXg2Z29JaW92dzZJSmVsODZIMndZSlBDcQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWZLblhyYWsyeHZFZW9KLW1mT09GTEVWaU1KRVJLMU9iVmcyVW5keFBMVkptTjNQWkZENjh0dEY3dFV2dVQwVmstZmotMDFXbWlrRlR6d2tNcUZ3Z0txVU5YcHpOOVRKcjVnVEJET2J5ckd4NTRVRU1walg1bkxBM21vWXBxNnMtM2k1MFhUTzczTnR6NWQtcXg2Z29JaW92dzZJSmVsODZIMn",
-  "date": "2026-11-20T19:23:29.000Z",
-  "fetched": "2026-11-20T20:03:27.676Z",
-  "fromCloud": "2026-11-20T2003.json"
- },
- {
-  "id": "9b45b04c3d97cde0",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Golub Capital BDC 4, Inc. (0001901612) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1901612/000190161226000038/0001901612-26-000038-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001901612-26-000038 <b>Size:</b> 135 KB <br>Item 3.02: Unregistered Sales of Equity Securities",
-  "date": "2026-11-20T19:22:50.000Z",
-  "fetched": "2026-11-20T19:33:13.003Z",
-  "fromCloud": "2026-11-20T1933.json"
- },
- {
-  "id": "f157606007f326af",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Lonestar to Enter Florida, Georgia with Jackson Electric Acquisition - National Association of Wholesaler-Distributors",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXR1RmktYUMxYWJhRm51UmppR052M3FyMmhlU0ZPc2VCbGlYZDlQeUVWZ0FMQTg3SXBBQjZ5S05qWTE5ZGFxQ25NUTBWM0o4bUNhVG5uQVB3Ukw3aHc1Qjc2VDBBeU8yV20zekVXRnk3RW92Z0NzcGtmSlYwWkNycm90MThOdnVDMnJjWHM3NlpiVDNQX3VkYmhyaGNwQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNaXR1RmktYUMxYWJhRm51UmppR052M3FyMmhlU0ZPc2VCbGlYZDlQeUVWZ0FMQTg3SXBBQjZ5S05qWTE5ZGFxQ25NUTBWM0o4bUNhVG5uQVB3Ukw3aHc1Qjc2VDBBeU8yV20zekVXRnk3RW92Z0NzcGtmSlYwWkNycm90MThOdnVDMnJjWHM3NlpiVDNQX3VkYmhyaGNwQQ?oc=5\" target=\"_",
-  "date": "2026-11-20T19:19:42.000Z",
-  "fetched": "2026-11-20T21:33:12.439Z",
-  "fromCloud": "2026-11-20T2133.json"
- },
- {
-  "id": "18e88258dc09cc45",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Hometown Financial Group, Inc./MD (0002152644) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2152644/000119312526469900/0001193125-26-469900-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-469900 <b>Size:</b> 212 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-20T19:15:16.000Z",
-  "fetched": "2026-11-20T19:33:13.003Z",
-  "fromCloud": "2026-11-20T1933.json"
- },
- {
-  "id": "a6b30997b55c0512",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מ-1.3 מיליארד דולר לשימוע לפני כתב אישום: כך קרסה האב סייבר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsOHA4cmMwZTBmdzBTOThVVE94N0h4ZXRNdW9uNnVsRTE2MWhWbHZsWV9rY2cyMWVFbkQteHoxTGN2Q0dJVjZSOTVrY2pXRGhOUUZEekNaR20taHl5cUMzV2RHZlBCWFlzUmRoRkh1bVM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBsOHA4cmMwZTBmdzBTOThVVE94N0h4ZXRNdW9uNnVsRTE2MWhWbHZsWV9rY2cyMWVFbkQteHoxTGN2Q0dJVjZSOTVrY2pXRGhOUUZEekNaR20taHl5cUMzV2RHZlBCWFlzUmRoRkh1bVM?oc=5\" target=\"_blank\">מ-1.3 מיליארד דולר לשימוע לפני כתב אישום: כך קרסה האב סי",
-  "date": "2026-11-20T19:15:00.000Z",
-  "fetched": "2026-11-20T19:33:13.003Z",
-  "fromCloud": "2026-11-20T1933.json"
- },
- {
-  "id": "4367e3016afc0bf8",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "סוכני ה-AI שולחים קונים לחנויות לא מוכרות: מה לבדוק לפני בלאק פריידיי - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53RHZvSmFjVVcteTNCcFF4R2d3SXEyUWFiYVAyTlpualN2d3J0ekNUczdUNmhpYkJnWkJhREZsWHFGcDVDUTFDNkRaMGtfRm11azlKc0c5Z1NXU2xMTmpnSW43b2xqV1Q5M2ppQTdVUFIwR2VveTlUQWpR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE53RHZvSmFjVVcteTNCcFF4R2d3SXEyUWFiYVAyTlpualN2d3J0ekNUczdUNmhpYkJnWkJhREZsWHFGcDVDUTFDNkRaMGtfRm11azlKc0c5Z1NXU2xMTmpnSW43b2xqV1Q5M2ppQTdVUFIwR2VveTlUQWpR?oc=5\" target=\"_blank\">סוכני ה-AI שולחים קונים לחנויות לא מוכרות: ",
-  "date": "2026-11-20T19:12:00.000Z",
-  "fetched": "2026-11-20T20:03:27.676Z",
-  "fromCloud": "2026-11-20T2003.json"
- },
- {
-  "id": "5055e1ba5127ded9",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Hike2 adds three executives to C-Suite as clients push for accountable AI adoption - The Business Journals",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTYta1E5al95MEVkTDRjaUFqc01PNUVxVUt1YXNNdVE3WF9SdHlTZlRkU2ktWUt1WFhTcUtBSVBheHZSeDdscmtNT040TldkSERtaU4yanYzWFdER21XeTdVSFh5bmhUUS1hZGRPSjNkalQwamMzczdOQlBoNGZNVEgwRHozLWFrbG16TURwT2tOamlHd1dr?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTYta1E5al95MEVkTDRjaUFqc01PNUVxVUt1YXNNdVE3WF9SdHlTZlRkU2ktWUt1WFhTcUtBSVBheHZSeDdscmtNT040TldkSERtaU4yanYzWFdER21XeTdVSFh5bmhUUS1hZGRPSjNkalQwamMzczdOQlBoNGZNVEgwRHozLWFrbG16TURwT2tOamlHd1dr?oc=5\" target=\"_blank\">Hik",
-  "date": "2026-11-20T19:05:00.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
  }
 ]
