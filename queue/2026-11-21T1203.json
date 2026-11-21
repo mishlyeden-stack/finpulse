@@ -1,0 +1,26 @@
+{
+ "batch": "2026-11-21T1203",
+ "created": "2026-11-21T12:03:12.544Z",
+ "items": [
+  {
+   "id": "b0ade293fb475ef3",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Costa revives EU digital tax proposal in bid to reach agreement on budget",
+   "link": "https://www.ft.com/content/2e9c54a8-e2c5-4334-8141-9791267ae3c3?syn-25a6b1a6=1",
+   "summary": "Latest seven-year plan for the bloc scales back spending but would still be an increase of about a quarter on current levels",
+   "date": "2026-11-21T11:38:04.000Z",
+   "fetched": "2026-11-21T12:03:12.544Z"
+  },
+  {
+   "id": "77255295200c4ab3",
+   "source": "CNBC Business",
+   "group": "global-press",
+   "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+   "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+   "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+   "date": "2026-11-21T12:00:01.000Z",
+   "fetched": "2026-11-21T12:03:12.544Z"
+  }
+ ]
+}
