@@ -1,5 +1,16 @@
 [
  {
+  "id": "aa402c4905427ff4",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "חולון: דירה חדשה נמכרת כמעט במחיר של ותיקה, והעסקאות ירדו בכרבע - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xUUhlUkV1Y3dIcG5pLWpKMkFjNmo0MVN3M2dEcXJlcFlpdjZRRFF0dUotU1lmSEpfYmpTYU9vX1o3YmFRVnhHeWE1V3JtbU5PcGJNUHR2aHJaTlluTUJGQ2xiTk5jb1d3bHBnSjJB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5xUUhlUkV1Y3dIcG5pLWpKMkFjNmo0MVN3M2dEcXJlcFlpdjZRRFF0dUotU1lmSEpfYmpTYU9vX1o3YmFRVnhHeWE1V3JtbU5PcGJNUHR2aHJaTlluTUJGQ2xiTk5jb1d3bHBnSjJB?oc=5\" target=\"_blank\">חולון: דירה חדשה נמכרת כמעט במחיר של ותיקה, והעסקאות ירדו ב",
+  "date": "2026-11-21T03:50:00.000Z",
+  "fetched": "2026-11-21T04:03:11.678Z",
+  "fromCloud": "2026-11-21T0403.json"
+ },
+ {
   "id": "83b6d0e7f6dfaa7d",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -616,6 +627,17 @@
   "fromCloud": "2026-11-20T2203.json"
  },
  {
+  "id": "7cc0d70716178749",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "NWAX: SEC Form PRE 14A filed by New America Acquisition I Corp. - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSElWbDBxRFh5LWkyRnppTzl4OEplMGlSVzR6S3BON0hSUk91bHNnUFRMZ25NSVNhQ2tjSHdXQUtsSExKeWFmazByQVM4Q0s1OXBPT3NtNkJIeVUxbG5CV0ZDeUhtcjZFWnF6NmRtbHJJQnhfQ1VWSEUzQXRoUl9uZnh3ell6ZUtTSDI4T1pocmZ2ZzJIQU1raHVB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPSElWbDBxRFh5LWkyRnppTzl4OEplMGlSVzR6S3BON0hSUk91bHNnUFRMZ25NSVNhQ2tjSHdXQUtsSExKeWFmazByQVM4Q0s1OXBPT3NtNkJIeVUxbG5CV0ZDeUhtcjZFWnF6NmRtbHJJQnhfQ1VWSEUzQXRoUl9uZnh3ell6ZUtTSDI4T1pocmZ2ZzJIQU1raHVB?oc=5\" target=\"_blank\"",
+  "date": "2026-11-20T21:55:34.000Z",
+  "fetched": "2026-11-21T04:03:11.678Z",
+  "fromCloud": "2026-11-21T0403.json"
+ },
+ {
   "id": "73fe1e1878611c6c",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -647,6 +669,17 @@
   "date": "2026-11-20T21:52:25.000Z",
   "fetched": "2026-11-20T22:33:12.254Z",
   "fromCloud": "2026-11-20T2233.json"
+ },
+ {
+  "id": "31a7ee2629b23c5a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "BKHA: SEC Form 25-NSE filed by Black Hawk Acquisition Corporation - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlY5aEdOZUJiODA5NFByaURGNHBVbHFtdnhBeFBrMjk1MENXX0huZnBsS2NxN2t3QWxZNzVoZUtWMFlLcjVqcG1yTmV3clpFa2RvSXNkcjNkVnZnbWFKUnZrd0hlUFY2N05zQ25IcHNSLXUweElteTlqU2liY1FjRW1Kc1FiOEExX0VUQkgxYjl2a3VsTDFNeDBhTmxHd2Fwc2NhVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlY5aEdOZUJiODA5NFByaURGNHBVbHFtdnhBeFBrMjk1MENXX0huZnBsS2NxN2t3QWxZNzVoZUtWMFlLcjVqcG1yTmV3clpFa2RvSXNkcjNkVnZnbWFKUnZrd0hlUFY2N05zQ25IcHNSLXUweElteTlqU2liY1FjRW1Kc1FiOEExX0VUQkgxYjl2a3VsTDFNeDBhTmxHd2Fwc2NhVQ?oc=5\" t",
+  "date": "2026-11-20T21:50:34.000Z",
+  "fetched": "2026-11-21T04:03:11.678Z",
+  "fromCloud": "2026-11-21T0403.json"
  },
  {
   "id": "d945319c7ef4d8b3",
@@ -7146,50 +7179,6 @@
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjNpZDBQdzhaWE9uREhMVndicVJsWVN2XzF4aWFZZmpnYlZxbmJMbjNKdHI2SXAzUm5EelIxMnhsRFJsckhkVElFTDROaGNOclVIMlpselB0SEFhb1pKY284RmFwbGtzWXFOOHV2dnVKMV9yNHF1MFFnMndNWXlIUm1Nbll2SGNhemg3Q25CVF9Ebk5fbGFnZEVIVlZRbEF3VGRKc1BuaVZ1UQ?oc=5",
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjNpZDBQdzhaWE9uREhMVndicVJsWVN2XzF4aWFZZmpnYlZxbmJMbjNKdHI2SXAzUm5EelIxMnhsRFJsckhkVElFTDROaGNOclVIMlpselB0SEFhb1pKY284RmFwbGtzWXFOOHV2dnVKMV9yNHF1MFFnMndNWXlIUm1Nbll2SGNhemg3Q25CVF9Ebk5fbGFnZEVIVlZRbEF3VGRKc1BuaVZ1UQ",
   "date": "2026-11-20T04:04:00.000Z",
-  "fetched": "2026-11-20T04:33:11.948Z",
-  "fromCloud": "2026-11-20T0433.json"
- },
- {
-  "id": "9d5c661dc3abe755",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"גרתי 40 שנה בלונדון בבית ענק, אבל תמיד ידעתי שאחזור. פה אני מאושר\" - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVmRoWkxSZGFTaVVUOUZpX0VPaGNkSXFMTW0zVk9zYi10NG44azVTbHpYYzJfS2lFanU5RE5pU3U5Yld4WWFLMWpFSkluVWxVQTI1X2Z5VTI2WnFLZGlyclVGUllGVjRQdExLZTk5bEt3b0YwWi11Z1c5eDZlOURUdHNLbENtZ0ZSU3dGRDB4TUlfNlpXZDJ3V0J4dDFqd2JiTkNRZHlhR182V1pEX2xaRjhJcm15Z0tDZ2ptT214NWs?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVmRoWkxSZGFTaVVUOUZpX0VPaGNkSXFMTW0zVk9zYi10NG44azVTbHpYYzJfS2lFanU5RE5pU3U5Yld4WWFLMWpFSkluVWxVQTI1X2Z5VTI2WnFLZGlyclVGUllGVjRQdExLZTk5bEt3b0YwWi11Z1c5eDZlOURUdHNLbENtZ0ZSU3dGRDB4TUlfNlpXZDJ3V0J4dDFqd2JiTkNRZHlhR182V1",
-  "date": "2026-11-20T04:03:00.000Z",
-  "fetched": "2026-11-20T04:33:11.948Z",
-  "fromCloud": "2026-11-20T0433.json"
- },
- {
-  "id": "ded9a26ff7a0bba0",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "אז אתם תקבלו כסף ופטור מגיוס. ומה תיתנו? \"את הראש של ביבי\" - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjI2bGp3OGJhTC1ia1hLRHZvMHdTQjl5TTZLQzVvOWttNnlJYUROQ3h0VHJnYXdON28xMmE1c1hCSEI4ak5Iam8xZnQ0SGpJWVY4QWVfaFB2SWdZVGFzV0g4Xzl2T0s4UWd3YXlNOUV3TDF3MThBeVAzaExMUkRXRFlpaFhuc3hlZmdxeWJ5UlJ1TGJWUFotRVEyUHUyRnE1dk5qMmlWSlV0dnNqM240?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjI2bGp3OGJhTC1ia1hLRHZvMHdTQjl5TTZLQzVvOWttNnlJYUROQ3h0VHJnYXdON28xMmE1c1hCSEI4ak5Iam8xZnQ0SGpJWVY4QWVfaFB2SWdZVGFzV0g4Xzl2T0s4UWd3YXlNOUV3TDF3MThBeVAzaExMUkRXRFlpaFhuc3hlZmdxeWJ5UlJ1TGJWUFotRVEyUHUyRnE1dk5qMmlWSlV0dn",
-  "date": "2026-11-20T04:03:00.000Z",
-  "fetched": "2026-11-20T04:33:11.948Z",
-  "fromCloud": "2026-11-20T0433.json"
- },
- {
-  "id": "06ae822bd8fefb9a",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "היא מתה בדירתה בתל אביב והשאירה צוואה. למישהו היו תוכניות אחרות - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNG5zYmZaZjdtamVPdjk2czNfaG95aHFQeE9HQWZsSW5IWkFaYlFZQUhUM3FPcUlXWEhyTjF5ZzYxYk5NQ2xCeUNOajZpei1Td252anN2bnhMLTNZbVlLUjlNeVNEUU9YVFNuWmo4c3RCbDhyWWVGQWZrdEZUUlR6VVpMMnJiWFFSVE9vWG85dmo4bGJQa3BBa1hvZUpEZTA4U3RRSnh0dDNkZFZxbnF4cU1n?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNG5zYmZaZjdtamVPdjk2czNfaG95aHFQeE9HQWZsSW5IWkFaYlFZQUhUM3FPcUlXWEhyTjF5ZzYxYk5NQ2xCeUNOajZpei1Td252anN2bnhMLTNZbVlLUjlNeVNEUU9YVFNuWmo4c3RCbDhyWWVGQWZrdEZUUlR6VVpMMnJiWFFSVE9vWG85dmo4bGJQa3BBa1hvZUpEZTA4U3RRSnh0dDNkZF",
-  "date": "2026-11-20T04:02:00.000Z",
-  "fetched": "2026-11-20T04:33:11.948Z",
-  "fromCloud": "2026-11-20T0433.json"
- },
- {
-  "id": "6a473a96dfd37d6c",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off",
-  "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
-  "summary": "Asian markets follow Wall Street lower despite Claude AI maker’s record listing",
-  "date": "2026-11-20T03:51:30.000Z",
   "fetched": "2026-11-20T04:33:11.948Z",
   "fromCloud": "2026-11-20T0433.json"
  }
