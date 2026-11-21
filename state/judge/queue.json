@@ -1,5 +1,27 @@
 [
  {
+  "id": "d3169b7437e47768",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "בורסות הקריפטו בחו\"ל מתחילות לדווח: מתי המידע יגיע לרשות המסים - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzbFZ3bVdoLWF2LUhNT001clptbGdwX2RzS0p3QlFvY0RCZmJOaW1qMkxsT241Vm01UHc0YU1QbHQxLXY1VGJESjhSS1JOWTVETXY5dXhFZS1MRHhMUEt2N0lTTW43NHZWQzFPa0w5Y1pqRDNNUWxGbWNB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBzbFZ3bVdoLWF2LUhNT001clptbGdwX2RzS0p3QlFvY0RCZmJOaW1qMkxsT241Vm01UHc0YU1QbHQxLXY1VGJESjhSS1JOWTVETXY5dXhFZS1MRHhMUEt2N0lTTW43NHZWQzFPa0w5Y1pqRDNNUWxGbWNB?oc=5\" target=\"_blank\">בורסות הקריפטו בחו\"ל מתחילות לדווח: מתי המי",
+  "date": "2026-11-21T20:55:00.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
+  "id": "860d21efaf49ea00",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Energy Capital Partners Completes Acquisition Of EnergySolutions - Pulse 2.0",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVBMamlVSVNFaGdaWll4a3hRcklwY1lLUS1qcVhsZVl2MUtqSlJJWVNvcFQ5WmMxRGJieDJMZGU5clZXRWd0eFFMc2hBdU84MmdoaWstdnpLUmJ0Q01ENjc0RlhhcEN3c2tRbnZoV2gzUVBUQjZWY1AyVzVQZlJiYU5tYndRZ0VVZzdEUw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVBMamlVSVNFaGdaWll4a3hRcklwY1lLUS1qcVhsZVl2MUtqSlJJWVNvcFQ5WmMxRGJieDJMZGU5clZXRWd0eFFMc2hBdU84MmdoaWstdnpLUmJ0Q01ENjc0RlhhcEN3c2tRbnZoV2gzUVBUQjZWY1AyVzVQZlJiYU5tYndRZ0VVZzdEUw?oc=5\" target=\"_blank\">Energy Capital Pa",
+  "date": "2026-11-21T20:50:55.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "ee7ef2cd5cac7ef4",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -165,6 +187,17 @@
   "fromCloud": "2026-11-21T1833.json"
  },
  {
+  "id": "fcc976b9520b8fb1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CEO, CFO out at Samuel Merritt University - PressReader",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjM3aThoakVQa2tMM2NydWhqdUdVd2p6anlCWDM2cTRpRG9JNFI2Sl9KY0tLT2t3bzgwQkNuQV94a3k4UldZZm9jeUVlVHdHb1ZFbmdxZ1otOW5sUnFWUl9DVVpmNjFGeXNsenNWaHpzYUVDVkJ4amJ5UUJ5dnJ5UjNPUHRqOGt1akFNLWdHbFBHdTlSZlZTVg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjM3aThoakVQa2tMM2NydWhqdUdVd2p6anlCWDM2cTRpRG9JNFI2Sl9KY0tLT2t3bzgwQkNuQV94a3k4UldZZm9jeUVlVHdHb1ZFbmdxZ1otOW5sUnFWUl9DVVpmNjFGeXNsenNWaHpzYUVDVkJ4amJ5UUJ5dnJ5UjNPUHRqOGt1akFNLWdHbFBHdTlSZlZTVg?oc=5\" target=\"_blank\">C",
+  "date": "2026-11-21T18:23:20.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "0a91207f87c7f3b3",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -174,6 +207,17 @@
   "date": "2026-11-21T18:17:16.000Z",
   "fetched": "2026-11-21T19:03:12.036Z",
   "fromCloud": "2026-11-21T1903.json"
+ },
+ {
+  "id": "9eff5929cbb5caf2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "First Digital Acquisition Corp Ltd. Cash Flow – NASDAQ:FDGX - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdFpUVkJFQ3IwencyYkx5SGtiUk9jUWZpeVlFbkdsSVhvTzluem80a3RpdDREVGsyLVZwMTc2TEFVZ2taMmU3U2Q1OHVDNWxVVnRtZDA3ZkE5VG5lTlVxZmptd1lsbUpKYzdqZklaTkZsbWVMQW9Zag?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdFpUVkJFQ3IwencyYkx5SGtiUk9jUWZpeVlFbkdsSVhvTzluem80a3RpdDREVGsyLVZwMTc2TEFVZ2taMmU3U2Q1OHVDNWxVVnRtZDA3ZkE5VG5lTlVxZmptd1lsbUpKYzdqZklaTkZsbWVMQW9Zag?oc=5\" target=\"_blank\">First Digital Acquisition Corp Ltd. Cash Flow",
+  "date": "2026-11-21T18:09:13.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "e61d312931ef8519",
@@ -262,6 +306,17 @@
   "date": "2026-11-21T17:21:36.000Z",
   "fetched": "2026-11-21T18:03:11.839Z",
   "fromCloud": "2026-11-21T1803.json"
+ },
+ {
+  "id": "c75a9387692f1330",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Yolo Group S.P.A. Rights 2026-01.12.2026 For Shares – MIL:YOLOAA - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0F2XzFEaERHQ193ejdmQm96Z0JCR1FUb2FxU2dBWWtrZjFXc0hIWUQxU2ViUGRMRTFFUzF6MHh5X1hFLU1xOF95YkRyVm5rTGJXWkhzU2h1VnhKbDQyVTVlbkpMaVVMYjgwdk00elZqeDdPM2JZaDNMaGlzbkgzQTQ2SVhYVmF0Y1Ew?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0F2XzFEaERHQ193ejdmQm96Z0JCR1FUb2FxU2dBWWtrZjFXc0hIWUQxU2ViUGRMRTFFUzF6MHh5X1hFLU1xOF95YkRyVm5rTGJXWkhzU2h1VnhKbDQyVTVlbkpMaVVMYjgwdk00elZqeDdPM2JZaDNMaGlzbkgzQTQ2SVhYVmF0Y1Ew?oc=5\" target=\"_blank\">Free cash flow of Y",
+  "date": "2026-11-21T17:18:52.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "427955213cb2c713",
@@ -383,6 +438,17 @@
   "date": "2026-11-21T16:30:00.000Z",
   "fetched": "2026-11-21T16:33:12.765Z",
   "fromCloud": "2026-11-21T1633.json"
+ },
+ {
+  "id": "c73080203863d8ac",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Mercer International, Inc. – OTC:MERCQ - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVBRTDc3VURJNWY2NlNHT0tSZlZUREpEeGowazRqTk5rbnFXTk53RVhpeUpuWl91akxZbDdidkJrdDdjUms2eUtNZElFYWFmZ19VZV9TTkhFSGVoX2VvZVFWWlB6cDVOeDZJaTM5Rllyc25NVko0WjQxalpNdDBraDNUamZPclg5Rld3eDhOZmp4RDBBM2Z0LTJSTFN4blNQeDNTbFQtWQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVBRTDc3VURJNWY2NlNHT0tSZlZUREpEeGowazRqTk5rbnFXTk53RVhpeUpuWl91akxZbDdidkJrdDdjUms2eUtNZElFYWFmZ19VZV9TTkhFSGVoX2VvZVFWWlB6cDVOeDZJaTM5Rllyc25NVko0WjQxalpNdDBraDNUamZPclg5Rld3eDhOZmp4RDBBM2Z0LTJSTFN4blNQeDNTbFQtWQ?oc=",
+  "date": "2026-11-21T16:28:42.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "c9ec75464ab6f6ce",
@@ -660,6 +726,17 @@
   "fromCloud": "2026-11-21T1403.json"
  },
  {
+  "id": "8a16e77a8c252851",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "C.H. Robinson Secures $500 Million Acquisition Financing Facility - The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN3E0bVM0aXY0ZFJCaV9hV2xETDZrZy1rSUUxYkNSZXM5VXR2TXVpc3ROOGl0SlBpNnBzRUFtS2gtVk1YTk1rdXJTNTFTR3lBckxZcUQtR1FJVmlOaXo1TmV0cFh2QWxiaE1FN01nckNIWGZjRDRGa25PVjk0YS01cjhwdlMxRUNNdklfeldDQUk2ZWlRNVNaM1RQck9IdU9nLUEzZnJGWkVlMV9rdS1iNFRfbGtVZ05tc2NRS1lhM3dXMHptQnF3RGdod1B4SWZvYW9WUTFCLU1ubm1uVkJBTW5tOUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN3E0bVM0aXY0ZFJCaV9hV2xETDZrZy1rSUUxYkNSZXM5VXR2TXVpc3ROOGl0SlBpNnBzRUFtS2gtVk1YTk1rdXJTNTFTR3lBckxZcUQtR1FJVmlOaXo1TmV0cFh2QWxiaE1FN01nckNIWGZjRDRGa25PVjk0YS01cjhwdlMxRUNNdklfeldDQUk2ZWlRNVNaM1RQck9IdU9nLUEzZnJGWkVlMV",
+  "date": "2026-11-21T13:56:35.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "cba6d7f4b863a45a",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -680,6 +757,17 @@
   "date": "2026-11-21T13:50:52.000Z",
   "fetched": "2026-11-21T17:03:11.347Z",
   "fromCloud": "2026-11-21T1703.json"
+ },
+ {
+  "id": "ad7f8d9b0830c7f9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bank Acquisition Hungary 2026: Approvals, Timeline, Costs and Deal Structure - Global Advisory Experts",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNak5CQURqTldzMVlMSndkSGNjMk9aU3FuV1RFZEEtM1NkakRic2RqUGNia1pFam05WkZucGtsTTQwWlVEUVJKUGtFTk9MbkU5YW15MG5odjhOY3VvMHpsRGdFOEdsWUE0anBaSWdsd3FTZWo5Y3ZlMzVIUzJUcUxkNVlsMHVmbGZZRDJEY1BNb1I?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNak5CQURqTldzMVlMSndkSGNjMk9aU3FuV1RFZEEtM1NkakRic2RqUGNia1pFam05WkZucGtsTTQwWlVEUVJKUGtFTk9MbkU5YW15MG5odjhOY3VvMHpsRGdFOEdsWUE0anBaSWdsd3FTZWo5Y3ZlMzVIUzJUcUxkNVlsMHVmbGZZRDJEY1BNb1I?oc=5\" target=\"_blank\">Bank Acquisi",
+  "date": "2026-11-21T13:37:25.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "6ec7f296fc26cef7",
@@ -713,6 +801,17 @@
   "date": "2026-11-21T12:59:26.000Z",
   "fetched": "2026-11-21T13:03:23.022Z",
   "fromCloud": "2026-11-21T1303.json"
+ },
+ {
+  "id": "2edf637edc7b179c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Form 4 American Vanguard Corp: Matthew Horwath (CFO) For: 1 October - Investing.com Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWhtb1JmRzlXN0t4RWtsM3ZZdWlHdmNxVy1XVXdiaXBhX3E4ZFNtTDFGUmFZdHMzOXJ4cURVVTZPa1hDSzM0NVJRMkZmMmliQzBuR3c3aHJtMFdIdmU5LWE2TEhqeWI0OUc5OVp2dXRUYkN6VDRhTU93TFZlcjVNV1VEQXVQRHlOTmlaLXhaV19mT3JRYUxVQ0t6VEE4WENTWnY0V0NHRG1LbHNZOW1XY1BkeHFSWF9wUEtnODlUZW9Cdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWhtb1JmRzlXN0t4RWtsM3ZZdWlHdmNxVy1XVXdiaXBhX3E4ZFNtTDFGUmFZdHMzOXJ4cURVVTZPa1hDSzM0NVJRMkZmMmliQzBuR3c3aHJtMFdIdmU5LWE2TEhqeWI0OUc5OVp2dXRUYkN6VDRhTU93TFZlcjVNV1VEQXVQRHlOTmlaLXhaV19mT3JRYUxVQ0t6VEE4WENTWnY0V0NHRG1LbH",
+  "date": "2026-11-21T12:30:58.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "19c749275015cb3e",
@@ -891,6 +990,17 @@
   "fromCloud": "2026-11-21T1133.json"
  },
  {
+  "id": "c17fc41f90f581c0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Form 4 Onterris Inc: Allan Dicks (CFO) For: 18 November By Investing.com - Investing.com Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWcyUFpOSUJJMVBYbTlSLTlxRU5RY3JOT2MxVkx5RnZuTHhxQUJ6bm5ST3IwSXlJYU9mYURfWkpFekotRUdwRlBRa0pTRXQxNHFVblBJU2x3Zmw5ZWt3ejJjbkJScXFvS1BHcTlGUEJlWjFFUkJmaDdyUjYybWhCSU94R2k0NnFMdl9WUXFZZlFjdEZYZlRsQ0I1RUVRMlhiRWVNS0JpOEZ2SURnS05RYVdn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxObWcyUFpOSUJJMVBYbTlSLTlxRU5RY3JOT2MxVkx5RnZuTHhxQUJ6bm5ST3IwSXlJYU9mYURfWkpFekotRUdwRlBRa0pTRXQxNHFVblBJU2x3Zmw5ZWt3ejJjbkJScXFvS1BHcTlGUEJlWjFFUkJmaDdyUjYybWhCSU94R2k0NnFMdl9WUXFZZlFjdEZYZlRsQ0I1RUVRMlhiRWVNS0JpOEZ2SU",
+  "date": "2026-11-21T10:55:44.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "bf59dcb99f4b5946",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -990,6 +1100,17 @@
   "fromCloud": "2026-11-21T1003.json"
  },
  {
+  "id": "092ecf531c64fb77",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Inflection Point Acquisition Corp. VI (IPFXU) stock price, news, quote and history - Yahoo Finance Australia",
+  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LaTJZeTl4d1NwS3FDN2NucWtob1JPZkhteW1QWlJOLTkwc3JuenpiU3FfQklBZExzWnVtdkpaWjB2REJqX3NvQ2hXQ0d4cFJxSnB0SXA0UzIxVmh3ZDhwcEFn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LaTJZeTl4d1NwS3FDN2NucWtob1JPZkhteW1QWlJOLTkwc3JuenpiU3FfQklBZExzWnVtdkpaWjB2REJqX3NvQ2hXQ0d4cFJxSnB0SXA0UzIxVmh3ZDhwcEFn?oc=5\" target=\"_blank\">Inflection Point Acquisition Corp. VI (IPFXU) stock price, news, quote and ",
+  "date": "2026-11-21T09:52:40.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "e29b95f4e7136e5d",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1032,6 +1153,17 @@
   "date": "2026-11-21T09:40:00.000Z",
   "fetched": "2026-11-21T14:33:17.873Z",
   "fromCloud": "2026-11-21T1433.json"
+ },
+ {
+  "id": "b649d083b17773f9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PayPal names Claire Bramley as chief financial officer - bfsi.economictimes.indiatimes.com",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWxrZkpNb0R0RlJLZjAtalVJcVFpUmdiaGhPSnp3RFNSbUw1NXBLSUZ0aS12aVpSRlRscWYxd1FsRU1UNDBsLWdyZEpRYUNJb3FLNU5EdldUM1RZOGx6ZThCc2k1ZlR0REdvY3VIMHJ3SGNMUlRUU0NwQ0FmMDYwYWZJM3ZTQ1F3Szd6akt3RXFQYnpUVWFPQ29tbVBJRlNHRVUwdkN6ZWx2NEhLU3Y5TVZIRGJSZ9IBuwFBVV95cUxPQVJRQ0phSHFsbFc4SFRFT3ROWlZjbWV6NW9tY3dpLTh2UXN4WlpqaVZUQTJJVGg0MVhVSlgzNHd3TGVtNnFVNXZwazNtZXJIT055QTFXSEE0Yktra2JlWktra0dHV3g2cGlUbjNqb083eDd4OFI4WUprSHgzekYzNHFmU3JkODFTRnFwcm4tRmRWNUVxX1FYc2RhMVJ1UWItSEdybkdIbGVhNnFGQlNsRzc5elVJc3VySUpz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWxrZkpNb0R0RlJLZjAtalVJcVFpUmdiaGhPSnp3RFNSbUw1NXBLSUZ0aS12aVpSRlRscWYxd1FsRU1UNDBsLWdyZEpRYUNJb3FLNU5EdldUM1RZOGx6ZThCc2k1ZlR0REdvY3VIMHJ3SGNMUlRUU0NwQ0FmMDYwYWZJM3ZTQ1F3Szd6akt3RXFQYnpUVWFPQ29tbVBJRlNHRVUwdkN6ZWx2NE",
+  "date": "2026-11-21T09:30:34.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "110e43508cad22d7",
@@ -1683,6 +1815,17 @@
   "fromCloud": "2026-11-21T0603.json"
  },
  {
+  "id": "f27c1dd63f309969",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of F&M Bank Corp. – AMEX:FMBM - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnAxaFNrNzcyMl9oUFJHWE1Mei1KdnRrczdIN3prcXhkYU96LWxkTzRrLWZZX3FINmVVSFJjZnNUTmg0UDZsVFZVNHRHakItT2NDVmxNWnJaeTNMd1NwQ01SaXBWNTdDeDczVm5aUnhlNUFwbUxGNUVMWXkxOGJTV0lJYmROMUhBeWVQMzRPUldOWnBCOUVyUWloR05WcEVueGNOSkYtOA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnAxaFNrNzcyMl9oUFJHWE1Mei1KdnRrczdIN3prcXhkYU96LWxkTzRrLWZZX3FINmVVSFJjZnNUTmg0UDZsVFZVNHRHakItT2NDVmxNWnJaeTNMd1NwQ01SaXBWNTdDeDczVm5aUnhlNUFwbUxGNUVMWXkxOGJTV0lJYmROMUhBeWVQMzRPUldOWnBCOUVyUWloR05WcEVueGNOSkYtOA?oc=",
+  "date": "2026-11-21T05:13:18.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "6246125ce219433d",
   "source": "ynet כלכלה",
   "group": "israel-press",
@@ -1848,6 +1991,17 @@
   "fromCloud": "2026-11-21T1133.json"
  },
  {
+  "id": "cc66e81415a014cd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Long term debt to total assets ratio of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUhFOHNrZkdoWXFlUlZsaEdEOWRYV0J0NS1LbjdhZE9iT2Jpd0VVVzZ2blVObFZtZDRTZ3Y1S21rVUZ0Ny1mVndDZ1J4YTRFVFdicFVEdWdTTlVLS2FKOFB1eHV5RTU2NVJGTnE0dXBrdkJBR1QtZ2ZQVE9CS2Y0Qm9OMHU5dGRTQXNQalAyQ1FfSUZ3RlZ6bEpid2tuT01FZmFDQW1qSVhCRFU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUhFOHNrZkdoWXFlUlZsaEdEOWRYV0J0NS1LbjdhZE9iT2Jpd0VVVzZ2blVObFZtZDRTZ3Y1S21rVUZ0Ny1mVndDZ1J4YTRFVFdicFVEdWdTTlVLS2FKOFB1eHV5RTU2NVJGTnE0dXBrdkJBR1QtZ2ZQVE9CS2Y0Qm9OMHU5dGRTQXNQalAyQ1FfSUZ3RlZ6bEpid2tuT01FZmFDQW1qSVhCRF",
+  "date": "2026-11-21T04:08:29.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "e23e944af93d9ec3",
   "source": "Financial Times",
   "group": "global-press",
@@ -1914,6 +2068,17 @@
   "fromCloud": "2026-11-21T1133.json"
  },
  {
+  "id": "d89b7d80e87c898d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Total common shares outstanding of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX19TOENMV01xa1lTekZVX040MFlQRGdsUDdseFdJZWp3NWFDNF9BaDBMN09HZ09GdXZ0ZkdtV2hwODlfSzdwa2pqOGpxX2xCdXR1WVZFWl8zRGpBb1pZRmlyMmhIZDZRUUFfVVRPSWFXSHZheG5YelEzZXJOS1lfU0Ewa1VaQjE2UXVsR2xwTmh6cEFjdEhfdHY1clRLbVVTTVdWOVVjdnZxZG8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX19TOENMV01xa1lTekZVX040MFlQRGdsUDdseFdJZWp3NWFDNF9BaDBMN09HZ09GdXZ0ZkdtV2hwODlfSzdwa2pqOGpxX2xCdXR1WVZFWl8zRGpBb1pZRmlyMmhIZDZRUUFfVVRPSWFXSHZheG5YelEzZXJOS1lfU0Ewa1VaQjE2UXVsR2xwTmh6cEFjdEhfdHY1clRLbVVTTVdWOVVjdnZxZG",
+  "date": "2026-11-21T03:46:29.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "71623f6e4790d8ce",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1923,6 +2088,17 @@
   "date": "2026-11-21T03:45:51.000Z",
   "fetched": "2026-11-21T11:33:14.650Z",
   "fromCloud": "2026-11-21T1133.json"
+ },
+ {
+  "id": "ea9d0f3debaef020",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Revenue per share of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmNBNXAtU00zblBuX3lleUdaVG1GS1NGQTViazRUZ2VIRUFvSmNQS0tkUWtOVUp4R2xhQ2hGTmF3U1R6RmI2V3pYQTVlYkRpUElBeE5wZ1J0Z0cydlJnQ3RIS1hOa29oSi02Z3oydFQ3YUFmemEwVFIyTnhVQk1WQ3ZhaGVoRTktbzRPb2l0b0xSZ3M1NWs0NFozMW9jMmZNeEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmNBNXAtU00zblBuX3lleUdaVG1GS1NGQTViazRUZ2VIRUFvSmNQS0tkUWtOVUp4R2xhQ2hGTmF3U1R6RmI2V3pYQTVlYkRpUElBeE5wZ1J0Z0cydlJnQ3RIS1hOa29oSi02Z3oydFQ3YUFmemEwVFIyTnhVQk1WQ3ZhaGVoRTktbzRPb2l0b0xSZ3M1NWs0NFozMW9jMmZNeEE?oc=5\" targ",
+  "date": "2026-11-21T03:45:27.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "658c616f545e7e26",
@@ -1945,6 +2121,17 @@
   "date": "2026-11-21T03:44:49.000Z",
   "fetched": "2026-11-21T11:33:14.650Z",
   "fromCloud": "2026-11-21T1133.json"
+ },
+ {
+  "id": "4b44c69b88de068c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EBITDA per share of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGd5dm1lanRybm0zSHJtdnc5bFRDNGlBT1pJNE9JcDRITHhfd1hPQnRERl9yakMyd19vY2xlMEg0b0pzbHpIaFhVTEMtSndlel9xY1hNdUFkeUVQNXRsY2hVZGJQZG1SWk1zXzE5bTFQeHhBVFAxQWk3NWk1ZzlCTWNqdEtPbWxaUG1sa19xeElZUkxNX1QzYVlwV2FrYWpr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGd5dm1lanRybm0zSHJtdnc5bFRDNGlBT1pJNE9JcDRITHhfd1hPQnRERl9yakMyd19vY2xlMEg0b0pzbHpIaFhVTEMtSndlel9xY1hNdUFkeUVQNXRsY2hVZGJQZG1SWk1zXzE5bTFQeHhBVFAxQWk3NWk1ZzlCTWNqdEtPbWxaUG1sa19xeElZUkxNX1QzYVlwV2FrYWpr?oc=5\" target=",
+  "date": "2026-11-21T03:44:36.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "826110577e3977db",
@@ -1980,6 +2167,28 @@
   "fromCloud": "2026-11-21T1133.json"
  },
  {
+  "id": "b18cbe2c57e6d724",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Preferred dividends of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0tUT3Y4NjJ3YlAwNk9xNDBWSUM2WWl6aFhQQkViRGYwQlIzV1ZKWjdrNkNXSEdnYS1Ob0pvVTN5VXBjNXUwYXU3dThZcmhNcUlpYkViOU1STEZMLTdraGlHbGZsaUFwNHJFT2NmZzNhNVp1aXI3dEJnMlZEbjFwUjItaXNXU1IxeDVwTXpYT2x3bTBhbzRuOHRDNG56UQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNN0tUT3Y4NjJ3YlAwNk9xNDBWSUM2WWl6aFhQQkViRGYwQlIzV1ZKWjdrNkNXSEdnYS1Ob0pvVTN5VXBjNXUwYXU3dThZcmhNcUlpYkViOU1STEZMLTdraGlHbGZsaUFwNHJFT2NmZzNhNVp1aXI3dEJnMlZEbjFwUjItaXNXU1IxeDVwTXpYT2x3bTBhbzRuOHRDNG56UQ?oc=5\" target=\"_",
+  "date": "2026-11-21T03:42:28.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
+  "id": "5df0d06a292f5881",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Cash per share of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWtGb3JCRUhQWnIyWFdyQ1RuYmcyYUxTUVNGbjk2SFROcFV1LWhvZ2Z5U24zVmxHZFAyYmxIM0dtMThJTm9hcno1Ukl0TVdxNHRESTlSQ3dOQVNkeG5qdXhqU3pPZ0MwQnhac2pyZnhzNzdPN2s2LUt3dGJ4UkQ2T2EySGdhbWxpSW0xRmNjajRrNWp1Um90b2NreVVidw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbWtGb3JCRUhQWnIyWFdyQ1RuYmcyYUxTUVNGbjk2SFROcFV1LWhvZ2Z5U24zVmxHZFAyYmxIM0dtMThJTm9hcno1Ukl0TVdxNHRESTlSQ3dOQVNkeG5qdXhqU3pPZ0MwQnhac2pyZnhzNzdPN2s2LUt3dGJ4UkQ2T2EySGdhbWxpSW0xRmNjajRrNWp1Um90b2NreVVidw?oc=5\" target=\"_",
+  "date": "2026-11-21T03:41:52.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "514a61ab78dd8289",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -1989,6 +2198,17 @@
   "date": "2026-11-21T03:41:46.000Z",
   "fetched": "2026-11-21T11:33:14.650Z",
   "fromCloud": "2026-11-21T1133.json"
+ },
+ {
+  "id": "089400c4aceadb42",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Number of shareholders of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0hIOGlYRFlYUkE0OTlHZzAtNHllTjhPUjhFemh0NGN6a05PRE5NcHViS1lraVJxS1BTOElLelRiaHJBSkVrS0ZYUEpYZFhleXBXSGdNSWZ2ZEM1NGw5Ti1KdFlzcTdtZXF0cEVtbzdGRnVqc0pzS1lkOEtjRURpSzI0MW9vWUY0UlMwdkRWMXJlVE0wRnd4ZVY0dzNIU3NOZlNObi00NlE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0hIOGlYRFlYUkE0OTlHZzAtNHllTjhPUjhFemh0NGN6a05PRE5NcHViS1lraVJxS1BTOElLelRiaHJBSkVrS0ZYUEpYZFhleXBXSGdNSWZ2ZEM1NGw5Ti1KdFlzcTdtZXF0cEVtbzdGRnVqc0pzS1lkOEtjRURpSzI0MW9vWUY0UlMwdkRWMXJlVE0wRnd4ZVY0dzNIU3NOZlNObi00NlE?oc",
+  "date": "2026-11-21T03:40:39.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "89200062b6c70f77",
@@ -2002,6 +2222,17 @@
   "fromCloud": "2026-11-21T1133.json"
  },
  {
+  "id": "0b59fe9882dc78ce",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Price to sales forward of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaE9QSlRBQksza0ttTENLNjlaaVVMejVreGh3Q1hnN0FFX05Td2JFQnNITnAzaWVWVDZrMlhFWkV4d2E2ai1BX1NDVVkzcEpZQm5OZ05ONHZVWGZIM0JManEwVnJnaWFPSUQ5TlZKY091M21kTklOYktPMDJyelU3LWJkTlhRSGFBbXhaLXZxNWJVNUxOSVlyUHRiUk5CQUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaE9QSlRBQksza0ttTENLNjlaaVVMejVreGh3Q1hnN0FFX05Td2JFQnNITnAzaWVWVDZrMlhFWkV4d2E2ai1BX1NDVVkzcEpZQm5OZ05ONHZVWGZIM0JManEwVnJnaWFPSUQ5TlZKY091M21kTklOYktPMDJyelU3LWJkTlhRSGFBbXhaLXZxNWJVNUxOSVlyUHRiUk5CQUE?oc=5\" target=\"",
+  "date": "2026-11-21T03:39:54.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "450917d79d599b73",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -2011,6 +2242,17 @@
   "date": "2026-11-21T03:38:58.000Z",
   "fetched": "2026-11-21T11:33:14.650Z",
   "fromCloud": "2026-11-21T1133.json"
+ },
+ {
+  "id": "accba3da562974e0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Enterprise value of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTI0MFZsWmhUX1FCcFJyWkdLTTF5R1FPYXFzdEJTUHZ4UjZfZk1uSll0OGtEM3ZPLXp0ZFhUSl9vd01uN0tFQUpnNTlpMFFvUzVSODBYemY0RlRuWGVaMlVNa2wxdk9hZUtiMEo2aVlrRThGaTdDdE9yYnNFUHBZN0Y2bzFxNlUxVDBaVUUzR1NIREhyck14MnBrckFFcktV?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTI0MFZsWmhUX1FCcFJyWkdLTTF5R1FPYXFzdEJTUHZ4UjZfZk1uSll0OGtEM3ZPLXp0ZFhUSl9vd01uN0tFQUpnNTlpMFFvUzVSODBYemY0RlRuWGVaMlVNa2wxdk9hZUtiMEo2aVlrRThGaTdDdE9yYnNFUHBZN0Y2bzFxNlUxVDBaVUUzR1NIREhyck14MnBrckFFcktV?oc=5\" target=",
+  "date": "2026-11-21T03:38:35.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "8d505c595a1d12e1",
@@ -2033,6 +2275,17 @@
   "date": "2026-11-21T03:37:57.000Z",
   "fetched": "2026-11-21T11:33:14.650Z",
   "fromCloud": "2026-11-21T1133.json"
+ },
+ {
+  "id": "2f0fb997a1ef5ee0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Price to book ratio of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWw3ZUdpUUdiSGtjLUVINWI2SEpLWmtaLUV4NUQzT193VHhzUVVQaGd0RVpwMlpDcXN4dC1zN1AxX2dmLURTYWxaWWRRYVlRM29FdzB0YkcyRGxLd2Q3M2VaWjgzc1o4bkNIamEzd0w4VWUxZkRFUFM0NnBxVVhodU1vT1RlMmJQRHNkZng3eVdPZ01ORERUNg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWw3ZUdpUUdiSGtjLUVINWI2SEpLWmtaLUV4NUQzT193VHhzUVVQaGd0RVpwMlpDcXN4dC1zN1AxX2dmLURTYWxaWWRRYVlRM29FdzB0YkcyRGxLd2Q3M2VaWjgzc1o4bkNIamEzd0w4VWUxZkRFUFM0NnBxVVhodU1vT1RlMmJQRHNkZng3eVdPZ01ORERUNg?oc=5\" target=\"_blank\">P",
+  "date": "2026-11-21T03:37:52.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "4a2c5a505df727d5",
@@ -2145,6 +2398,28 @@
   "fromCloud": "2026-11-21T0633.json"
  },
  {
+  "id": "223649b66f520a60",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Inventory turnover of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVW1JdUF1WnNoMm9wSEotWi1jMEMwX0RYNUh2V043NHZJYTZ6aDJveUVkcC1XTGZXM21lQ3VkU2tHdUhtS095VTNTYTBPSURVejBnaWZaV1lzLWNBNlk5VHJUMjdBMTFmc3NGUGF4bDJzUGlldjRWcGhSYWtBNFRWSjJ2VTliUGxjSElGdDhXT3JSVTRxdi11QTZVVmR3c0k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPVW1JdUF1WnNoMm9wSEotWi1jMEMwX0RYNUh2V043NHZJYTZ6aDJveUVkcC1XTGZXM21lQ3VkU2tHdUhtS095VTNTYTBPSURVejBnaWZaV1lzLWNBNlk5VHJUMjdBMTFmc3NGUGF4bDJzUGlldjRWcGhSYWtBNFRWSjJ2VTliUGxjSElGdDhXT3JSVTRxdi11QTZVVmR3c0k?oc=5\" target=\"",
+  "date": "2026-11-21T03:32:53.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
+  "id": "d6d77258ff518153",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Book value per share of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZQUjV0dEQ3YlowdnU5R3liQnJoREFUZU14enRnMGxMQTZXOFdJT3JiVDJHODdIazFtVTVZMmRBSkxGdjFqR3ViQTFEU1g5THBsS2ZzRlgxcnN2dnhsWE0yMmFCNkhlZ3QtZFBWU2dSVUgyaVRreDFldVV5SE1ub2lqVjRuLUx5Wm80ZDI3dHhTNVcyRDZUN0p3dkROaFJMLWd2Ym93?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZQUjV0dEQ3YlowdnU5R3liQnJoREFUZU14enRnMGxMQTZXOFdJT3JiVDJHODdIazFtVTVZMmRBSkxGdjFqR3ViQTFEU1g5THBsS2ZzRlgxcnN2dnhsWE0yMmFCNkhlZ3QtZFBWU2dSVUgyaVRreDFldVV5SE1ub2lqVjRuLUx5Wm80ZDI3dHhTNVcyRDZUN0p3dkROaFJMLWd2Ym93?oc=5\"",
+  "date": "2026-11-21T03:32:48.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
+ },
+ {
   "id": "83b6d0e7f6dfaa7d",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -2198,6 +2473,17 @@
   "date": "2026-11-21T02:59:44.000Z",
   "fetched": "2026-11-21T11:33:14.650Z",
   "fromCloud": "2026-11-21T1133.json"
+ },
+ {
+  "id": "cef321094b011660",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Number of employees of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmxEZkFzN2ZVR0NLbEdwNFBYMlRBSURiTTJIMUFTdnVZN08xaDh3TmFfYURsYllpaG00RTZPQ0V2b2FVN3BOWFhOdkkwV3NTX3ItOVVhTjVQOFBXMFdnZG5oSWVscDJUeEg0TlpWUk5nMURTY3U3Nkh3LWFZVURrTnFST2ZQUmtCbmIzd0Q3czV5Yi1sTjFZaVVTa2poWnhScnIxdQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmxEZkFzN2ZVR0NLbEdwNFBYMlRBSURiTTJIMUFTdnVZN08xaDh3TmFfYURsYllpaG00RTZPQ0V2b2FVN3BOWFhOdkkwV3NTX3ItOVVhTjVQOFBXMFdnZG5oSWVscDJUeEg0TlpWUk5nMURTY3U3Nkh3LWFZVURrTnFST2ZQUmtCbmIzd0Q3czV5Yi1sTjFZaVVTa2poWnhScnIxdQ?oc=5\" t",
+  "date": "2026-11-21T02:59:29.000Z",
+  "fetched": "2026-11-21T21:03:12.119Z",
+  "fromCloud": "2026-11-21T2103.json"
  },
  {
   "id": "a59a1bd257593a26",
@@ -3353,104 +3639,5 @@
   "date": "2026-11-20T21:05:00.000Z",
   "fetched": "2026-11-20T22:03:13.555Z",
   "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "5ac07c1995291231",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "RLX Technology Revenue Jumps 70% Following European Acquisition - Tobacco Reporter",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGhpellQa1ZHMzJhaWhMbFhPMHdULUM0c1ZhSmc3TEhLYk9MZEdmUlcwNnRReUlyQkphSkNKXy1QY2JKeHFmVW5GVEFWbktETmZTR3hFa0h6cFJsSjJreUdkZjRuUGtxeFhuNXBGR3pDcUtFckZzQ1pEamFMLXF3aklKQlE5S21IYW43b3I5RjdubnFsY2VaamVWcXgyVTBkLUlFOA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGhpellQa1ZHMzJhaWhMbFhPMHdULUM0c1ZhSmc3TEhLYk9MZEdmUlcwNnRReUlyQkphSkNKXy1QY2JKeHFmVW5GVEFWbktETmZTR3hFa0h6cFJsSjJreUdkZjRuUGtxeFhuNXBGR3pDcUtFckZzQ1pEamFMLXF3aklKQlE5S21IYW43b3I5RjdubnFsY2VaamVWcXgyVTBkLUlFOA?oc=5\" t",
-  "date": "2026-11-20T21:01:10.000Z",
-  "fetched": "2026-11-20T21:03:13.755Z",
-  "fromCloud": "2026-11-20T2103.json"
- },
- {
-  "id": "56f6e4b73b76edca",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - SLR Secured Specialty Lending Fund (0002136418) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/2136418/000119312526470212/0001193125-26-470212-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-470212 <b>Size:</b> 138 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events",
-  "date": "2026-11-20T21:00:32.000Z",
-  "fetched": "2026-11-20T21:03:13.755Z",
-  "fromCloud": "2026-11-20T2103.json"
- },
- {
-  "id": "dbc440fb9a5b918a",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - International Money Express, Inc. (0001683695) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1683695/000114036126045083/0001140361-26-045083-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001140361-26-045083 <b>Size:</b> 145 KB <br>Item 8.01: Other Events",
-  "date": "2026-11-20T21:00:19.000Z",
-  "fetched": "2026-11-20T21:03:13.755Z",
-  "fromCloud": "2026-11-20T2103.json"
- },
- {
-  "id": "d9f0deb1b6ae01cc",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - PUGET SOUND ENERGY INC (0000081100) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/81100/000119312526470210/0001193125-26-470210-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001193125-26-470210 <b>Size:</b> 401 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-20T21:00:06.000Z",
-  "fetched": "2026-11-20T21:03:13.755Z",
-  "fromCloud": "2026-11-20T2103.json"
- },
- {
-  "id": "650cb64fa3c163fc",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הקונים מאסו בפוליאסטר: ראלף לורן עלתה 85% בשנתיים, שיין מאבדת גובה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05d0lMWms5bUtIUlV4bDdYVjVPVGZINXBhLTNqMzd4SC1WWEdNbVBiZFBkcV8xNmtTQ211QXVqVTRfdmE2RHEwNGFUVGN2Z3A2Y0trNEltODY5UURzVHdCU3VMS1lmWnRGd1QzNA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE05d0lMWms5bUtIUlV4bDdYVjVPVGZINXBhLTNqMzd4SC1WWEdNbVBiZFBkcV8xNmtTQ211QXVqVTRfdmE2RHEwNGFUVGN2Z3A2Y0trNEltODY5UURzVHdCU3VMS1lmWnRGd1QzNA?oc=5\" target=\"_blank\">הקונים מאסו בפוליאסטר: ראלף לורן עלתה 85% בשנתיים, שיין מאבדת",
-  "date": "2026-11-20T20:50:00.000Z",
-  "fetched": "2026-11-20T21:03:13.755Z",
-  "fromCloud": "2026-11-20T2103.json"
- },
- {
-  "id": "152c8a9c09a255f0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Why BNPL Leads Customer Acquisition Over Wallets and Crypto - Mexico Business News",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3FGVHNLM3ZoQmJSYlRDWnAyUXNMS1VIeGZybnpPS1VFOEdValJWbHdnR3MwaDJpb0pWcEpZQmREZndqZ1FOVHFXc3FqUEFFNUVWUjZuV1VfYlFWLWs4cEhOdDRhSkNOVDlDckhlRlg4RjdZQ282blh4MHBsWDFqMDY5YzlFNFI0NmF5V1hyZkp2LUVIb0ZmMGs0QUZzYkphQ2FrLQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3FGVHNLM3ZoQmJSYlRDWnAyUXNMS1VIeGZybnpPS1VFOEdValJWbHdnR3MwaDJpb0pWcEpZQmREZndqZ1FOVHFXc3FqUEFFNUVWUjZuV1VfYlFWLWs4cEhOdDRhSkNOVDlDckhlRlg4RjdZQ282blh4MHBsWDFqMDY5YzlFNFI0NmF5V1hyZkp2LUVIb0ZmMGs0QUZzYkphQ2FrLQ?oc=5\" t",
-  "date": "2026-11-20T20:49:41.000Z",
-  "fetched": "2026-11-21T02:33:11.704Z",
-  "fromCloud": "2026-11-21T0233.json"
- },
- {
-  "id": "d0701cc67f72f123",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "כתובה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16VkhuTkMzeGN1alJBdWsyUW5OWDhEeE5ITUxEWF9MenAydURwZ1VzRUFEVHZ4a21aaXV2S2NYdGVjbWpCUm10bDJtdnhPY2E3LTQwWF84WDMwYUhPTmVV?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE16VkhuTkMzeGN1alJBdWsyUW5OWDhEeE5ITUxEWF9MenAydURwZ1VzRUFEVHZ4a21aaXV2S2NYdGVjbWpCUm10bDJtdnhPY2E3LTQwWF84WDMwYUhPTmVV?oc=5\" target=\"_blank\">כתובה</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
-  "date": "2026-11-20T20:43:01.000Z",
-  "fetched": "2026-11-21T11:43:52.910Z",
-  "fromCloud": "2026-11-21T1143.json"
- },
- {
-  "id": "7691ee6a22903027",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Competition complaint filed over Cooke's acquisition of Avramar - IntraFish",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpsUE8yUVJ3YUxTLXBrcjBXVjJsWXBBeHJDWW1YcXF5YVRZWm5TZEpONnJmV2ZUZXJVdWxKczFQNDZaNkVlcktDZFR4cjVoQ3NZdnZnQUJRdXNvWFV3NzRTa3hka2tpOVpFYktIbWowamZ6S3lkYlVyOWxKRGxlRm92TUR3aTBQOTgwU0hiOFFBbGRFblIxeTNTdG5XNGc3UjVfSlpCR2dkVmd1MGpwNTZR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpsUE8yUVJ3YUxTLXBrcjBXVjJsWXBBeHJDWW1YcXF5YVRZWm5TZEpONnJmV2ZUZXJVdWxKczFQNDZaNkVlcktDZFR4cjVoQ3NZdnZnQUJRdXNvWFV3NzRTa3hka2tpOVpFYktIbWowamZ6S3lkYlVyOWxKRGxlRm92TUR3aTBQOTgwU0hiOFFBbGRFblIxeTNTdG5XNGc3UjVfSlpCR2dkVm",
-  "date": "2026-11-20T20:37:47.000Z",
-  "fetched": "2026-11-20T21:03:13.755Z",
-  "fromCloud": "2026-11-20T2103.json"
- },
- {
-  "id": "c779d036fada4ca8",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הבונדסבנק דוחף להעלאת ריבית שלישית באירופה: מה זה אומר על היורו - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5seXdmZXB4YnpCcHBGV09la2psUU1BOTFtb2RxUmdXNDNHQTlhVTdJUDRjWEx0dEN1V3JqY01TalloLVFDOXd3SHNiRG43WGtfVEhLRkNZSWd6WVR5a3FvWDdUbUd2WVBEYlVMTC1MeUY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5seXdmZXB4YnpCcHBGV09la2psUU1BOTFtb2RxUmdXNDNHQTlhVTdJUDRjWEx0dEN1V3JqY01TalloLVFDOXd3SHNiRG43WGtfVEhLRkNZSWd6WVR5a3FvWDdUbUd2WVBEYlVMTC1MeUY?oc=5\" target=\"_blank\">הבונדסבנק דוחף להעלאת ריבית שלישית באירופה: מה זה אומר ע",
-  "date": "2026-11-20T20:35:00.000Z",
-  "fetched": "2026-11-20T21:03:13.755Z",
-  "fromCloud": "2026-11-20T2103.json"
  }
 ]
