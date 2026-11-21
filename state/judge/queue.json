@@ -1,5 +1,71 @@
 [
  {
+  "id": "6246125ce219433d",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "\"בהתחלה הרגשנו שנרתעים מאיתנו. תחושה שבאנו להשתלט להם על היישוב\"",
+  "link": "https://www.ynet.co.il/economy/article/tjuscqbb9",
+  "summary": "ניר היה איש קבע בחיל הים והיום בפנסיה, להילה יש פודקאסט שעוסק בהעצמה נשית - ושניהם מקימים במקביל עסקים משלהם. הם מגדירים את עצמם חב״דניקים אבל בחרו להתגורר ביישוב קהילתי קרוב לאילת שמאופיין ברובו באוכלוסייה חילונית (\"רצינו לחיות עם אנשים שונים\"). משפחת פריזנט, מבאר אורה על הספה",
+  "date": "2026-11-21T05:12:29.000Z",
+  "fetched": "2026-11-21T05:33:13.975Z",
+  "fromCloud": "2026-11-21T0533.json"
+ },
+ {
+  "id": "47fa5953d11cbd12",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Sam Houser, the Rockstar gamer behind ‘Grand Theft Auto’",
+  "link": "https://www.ft.com/content/3333e0cf-c3d8-4836-92c7-a84878e802a3?syn-25a6b1a6=1",
+  "summary": "With ‘GTA VI’, his franchise has set a new record in global entertainment",
+  "date": "2026-11-21T05:00:45.000Z",
+  "fetched": "2026-11-21T05:33:13.975Z",
+  "fromCloud": "2026-11-21T0533.json"
+ },
+ {
+  "id": "900f954ea7c645bf",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "The manufacturing of novelty",
+  "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
+  "summary": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things",
+  "date": "2026-11-21T05:00:36.000Z",
+  "fetched": "2026-11-21T05:33:13.975Z",
+  "fromCloud": "2026-11-21T0533.json"
+ },
+ {
+  "id": "d2ef14e6431d9b4a",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
+  "link": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
+  "summary": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says",
+  "date": "2026-11-21T05:00:35.000Z",
+  "fetched": "2026-11-21T05:33:13.975Z",
+  "fromCloud": "2026-11-21T0533.json"
+ },
+ {
+  "id": "accaacdca57c416c",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "The AI cyber threat is already here",
+  "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+  "summary": "The freezer war is just a start",
+  "date": "2026-11-21T05:00:16.000Z",
+  "fetched": "2026-11-21T05:33:13.975Z",
+  "fromCloud": "2026-11-21T0533.json"
+ },
+ {
+  "id": "fa2e296073b04b4f",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "האם יוקר המחייה הוא שיקול בהבאת ילדים לעולם? - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzZzM2h4X0Q4TW5BZzVCc2hvTjhBXzlSQ1ZUOEVBdkY4ZmNGYTYtQXpyR1lnb0Y5OE5ZVkVSUFBIMk9MRUo4Tm1KWndjSmUwd2hjSnlacTRYZl9MT2k1NFYwNjlZRDkzMkhwb3ZSYmI0Qm1aSzJNOUoxR3ZqMXEyWE1aSHItMndMMVZHZE52UkRDQjlIbUJCWGdjOWRmdDdYNFFyeWpNcXh4Wl9yanJSZQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzZzM2h4X0Q4TW5BZzVCc2hvTjhBXzlSQ1ZUOEVBdkY4ZmNGYTYtQXpyR1lnb0Y5OE5ZVkVSUFBIMk9MRUo4Tm1KWndjSmUwd2hjSnlacTRYZl9MT2k1NFYwNjlZRDkzMkhwb3ZSYmI0Qm1aSzJNOUoxR3ZqMXEyWE1aSHItMndMMVZHZE52UkRDQjlIbUJCWGdjOWRmdDdYNFFyeWpNcXh4Wl",
+  "date": "2026-11-21T05:00:00.000Z",
+  "fetched": "2026-11-21T05:33:13.975Z",
+  "fromCloud": "2026-11-21T0533.json"
+ },
+ {
   "id": "2bd67c147e0c3e1e",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -713,6 +779,17 @@
   "date": "2026-11-20T21:52:25.000Z",
   "fetched": "2026-11-20T22:33:12.254Z",
   "fromCloud": "2026-11-20T2233.json"
+ },
+ {
+  "id": "797d487a10acc0b6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "An internal memo says Mailchimp staff are 'unsettled' after Intuit announced a sale to Bending Spoons - Business Insider",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMTRfYWFpRjhqWG9NRmxfaVdBTDdpSWdSb080eUxtNi1kRzVCcExzcWF2Qm96YTZudldJVGI0WlpVNU9OUGlZYVVnNWxuSDRzRkhMdS13YVRrWFF5OVBGODM0VzV0UXk1V0tWQzRtaF9GVThvWjROUHpBUFE5bHgyRXBQYnhKNk1xMzFVR09QX0w?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMTRfYWFpRjhqWG9NRmxfaVdBTDdpSWdSb080eUxtNi1kRzVCcExzcWF2Qm96YTZudldJVGI0WlpVNU9OUGlZYVVnNWxuSDRzRkhMdS13YVRrWFF5OVBGODM0VzV0UXk1V0tWQzRtaF9GVThvWjROUHpBUFE5bHgyRXBQYnhKNk1xMzFVR09QX0w?oc=5\" target=\"_blank\">An internal ",
+  "date": "2026-11-20T21:51:00.000Z",
+  "fetched": "2026-11-21T05:33:13.975Z",
+  "fromCloud": "2026-11-21T0533.json"
  },
  {
   "id": "31a7ee2629b23c5a",
@@ -6620,170 +6697,5 @@
   "date": "2026-11-20T05:34:00.000Z",
   "fetched": "2026-11-20T07:03:24.283Z",
   "fromCloud": "2026-11-20T0703.json"
- },
- {
-  "id": "162079b627ea3b3f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מיקרוסופט סוגרת את To Do: מה יעשו המשתמשים הפרטיים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zaV9IUkRwTEJzWEZpeXg2bEN3UEJaWWpmbHFDcXpOVTd6bHg1M05sNFp1Y3lVU3pISHJ0Y1lHSzlRTFFHZkZnTm91MDgtbFQxZXEwRHoxQXFtcFNVcDB4ZUczSzY2c2Zy?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zaV9IUkRwTEJzWEZpeXg2bEN3UEJaWWpmbHFDcXpOVTd6bHg1M05sNFp1Y3lVU3pISHJ0Y1lHSzlRTFFHZkZnTm91MDgtbFQxZXEwRHoxQXFtcFNVcDB4ZUczSzY2c2Zy?oc=5\" target=\"_blank\">מיקרוסופט סוגרת את To Do: מה יעשו המשתמשים הפרטיים</a>&nbsp;&nbsp;<",
-  "date": "2026-11-20T05:33:00.000Z",
-  "fetched": "2026-11-20T06:33:13.544Z",
-  "fromCloud": "2026-11-20T0633.json"
- },
- {
-  "id": "f1be4fde2e438009",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "אבי בדלוב: מחירי הדירות יעלו ב-2027; יו\"ר השמאים נגד ביטול היטל ההשבחה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JNHQ5Zk9tSV9rZFFjeHQ1ME43LS1EOGFMMHNVOF8zck5oSTYwN2thNWhxeDE2VWxqUUFnNUJDV1ZhNlp1MnRPdFFvM1NhcjMzQjc4NzNueW5abnd5YVYyMXNFS2g5d0l2WDFjemVR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5JNHQ5Zk9tSV9rZFFjeHQ1ME43LS1EOGFMMHNVOF8zck5oSTYwN2thNWhxeDE2VWxqUUFnNUJDV1ZhNlp1MnRPdFFvM1NhcjMzQjc4NzNueW5abnd5YVYyMXNFS2g5d0l2WDFjemVR?oc=5\" target=\"_blank\">אבי בדלוב: מחירי הדירות יעלו ב-2027; יו\"ר השמאים נגד ביטול ",
-  "date": "2026-11-20T05:32:00.000Z",
-  "fetched": "2026-11-20T07:33:14.378Z",
-  "fromCloud": "2026-11-20T0733.json"
- },
- {
-  "id": "cb34c49349f9e0a1",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "ESCO Q3 CY2026 deep dive: Acquisition integration, end-market demand, and margin challenges - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHdVZ2ZfUEVjU0E0Q2dSSUhtanBNN0MyZnp6VmxzQ0ZGWVhDdDVNZVFsSHFNMjhpQWtMRkFvYlFSNTRfbHRnRHVIVFd1RHNBcG1TZ3pMaHhmaVB0SEw2VDZoOENjTmpDV0ZPMzd3d3BBS2VyeUhqYzlmQWZPOEJXeno3aEhsdF9sUGJxV09jNXllUDZydFF3Wi1QNU5icDJYTTJWVGFKbmdOeTUtWUc1N3loWTlBZTQ0MzI4VUtHa0lwNGplVE1NUUNfNERDUktyVlhiQXJuczJHdjhkd1NNZHMybw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHdVZ2ZfUEVjU0E0Q2dSSUhtanBNN0MyZnp6VmxzQ0ZGWVhDdDVNZVFsSHFNMjhpQWtMRkFvYlFSNTRfbHRnRHVIVFd1RHNBcG1TZ3pMaHhmaVB0SEw2VDZoOENjTmpDV0ZPMzd3d3BBS2VyeUhqYzlmQWZPOEJXeno3aEhsdF9sUGJxV09jNXllUDZydFF3Wi1QNU5icDJYTTJWVGFKbmdOeT",
-  "date": "2026-11-20T05:31:47.000Z",
-  "fetched": "2026-11-20T09:03:11.981Z",
-  "fromCloud": "2026-11-20T0903.json"
- },
- {
-  "id": "187e5017223475d4",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מכבי תל אביב - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUHhreGNvN29QNVF1WmVsSWZkbC1Tb0VnV1FsMGNoU0ZabGtvWjFvWUtRekN6eDFtUnJfWlpPWFcxV0VjemxLZEFOM3ZJS0dBcks0eFRYZnlNWFo3QXN6VQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CUHhreGNvN29QNVF1WmVsSWZkbC1Tb0VnV1FsMGNoU0ZabGtvWjFvWUtRekN6eDFtUnJfWlpPWFcxV0VjemxLZEFOM3ZJS0dBcks0eFRYZnlNWFo3QXN6VQ?oc=5\" target=\"_blank\">מכבי תל אביב</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
-  "date": "2026-11-20T05:30:52.000Z",
-  "fetched": "2026-11-20T21:33:12.439Z",
-  "fromCloud": "2026-11-20T2133.json"
- },
- {
-  "id": "674a7b127048869d",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "חמש הכי נקראות | בארץ - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xUTk4cWRtUC1FT2I1ZlBlZ0M0MXVRZ3AyUlduNjQ4QUxzWVVUOTZEZU0yUGhSbTNWUHdWZGI0b3JIT19MOFFOUTNubUZNaElsenJVMVJaWkQ2WjRHZHVWcTI3QQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xUTk4cWRtUC1FT2I1ZlBlZ0M0MXVRZ3AyUlduNjQ4QUxzWVVUOTZEZU0yUGhSbTNWUHdWZGI0b3JIT19MOFFOUTNubUZNaElsenJVMVJaWkQ2WjRHZHVWcTI3QQ?oc=5\" target=\"_blank\">חמש הכי נקראות | בארץ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">כלכליסט</font>",
-  "date": "2026-11-20T05:27:07.000Z",
-  "fetched": "2026-11-20T05:33:21.337Z",
-  "fromCloud": "2026-11-20T0533.json"
- },
- {
-  "id": "7aa3cd2192d2773e",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "התחיל טוב נגמר בנפילות. מה השתבש אמש בוול סטריט?",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001564306#utm_source=RSS",
-  "summary": "אנתרופיק סיימה את יום המסחר הראשון בזינוק של 17%, אבל וול סטריט שהתחילה אופטימי ננעלה בירידות חדות &#8226; שלושה הסברים למהפך",
-  "date": "2026-11-20T05:27:00.000Z",
-  "fetched": "2026-11-20T06:03:12.681Z",
-  "fromCloud": "2026-11-20T0603.json"
- },
- {
-  "id": "e68766b948247013",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Long term debt to total assets ratio of Southport Acquisition Corp. II Redeemable – NYSE:PORT/W - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjdBZEZvMVVrTFowSGlZU20zdVlUTnBPNEVCXzNFV09oZkpDX19qaEJHeDBJaE9halFCWmRtakhrU2doc0VoU0lnQWFpbkMzQ0x0OFdwZGEyRE8zOUJpYlpmVXhEbTh2REg5SFMyampCU3ZJOEJ0aG05S0RrTVA2U2J2ZVFHbElkdzBhZ21YR3hhZWxnb0R0SDlEbXNEMnJxb1FGS0ZTWmdtZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjdBZEZvMVVrTFowSGlZU20zdVlUTnBPNEVCXzNFV09oZkpDX19qaEJHeDBJaE9halFCWmRtakhrU2doc0VoU0lnQWFpbkMzQ0x0OFdwZGEyRE8zOUJpYlpmVXhEbTh2REg5SFMyampCU3ZJOEJ0aG05S0RrTVA2U2J2ZVFHbElkdzBhZ21YR3hhZWxnb0R0SDlEbXNEMnJxb1FGS0ZTWmdtZw",
-  "date": "2026-11-20T05:23:53.000Z",
-  "fetched": "2026-11-20T09:33:11.903Z",
-  "fromCloud": "2026-11-20T0933.json"
- },
- {
-  "id": "5666f6cfa61a3df6",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "MDK Acquisition Inc. (MDK-P.V) Seasonal returns chart - Yahoo Finance UK",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wSUg2Yi1WaVU5Y0VBMEFDU3lXc1ZKZWM5S2JjV2dWTzdkTzlDYVVZejJSZkNMMHJnemQwN0otUWxxa0Nna0hRcU1Xd3ItU0pPUmtuVW1GZm5wNFJxSG9EcnJTSC1KZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wSUg2Yi1WaVU5Y0VBMEFDU3lXc1ZKZWM5S2JjV2dWTzdkTzlDYVVZejJSZkNMMHJnemQwN0otUWxxa0Nna0hRcU1Xd3ItU0pPUmtuVW1GZm5wNFJxSG9EcnJTSC1KZw?oc=5\" target=\"_blank\">MDK Acquisition Inc. (MDK-P.V) Seasonal returns chart</a>&nbsp;&nbsp;",
-  "date": "2026-11-20T05:20:09.000Z",
-  "fetched": "2026-11-20T09:33:11.903Z",
-  "fromCloud": "2026-11-20T0933.json"
- },
- {
-  "id": "fc283a6b3755ba6d",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "So, Anthropic is finally a public company. What now?",
-  "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
-  "summary": "A blockbuster IPO postmortem",
-  "date": "2026-11-20T05:19:35.000Z",
-  "fetched": "2026-11-20T06:03:12.681Z",
-  "fromCloud": "2026-11-20T0603.json"
- },
- {
-  "id": "abcd184a90e5f68c",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "בסין 7 מכל 10 מכוניות חדשות כבר מחושמלות, אבל השוק כולו מתכווץ - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82UzlSYUdzVkRCYjI5ZW1lTzc2M2VDcjBDeGV6REZ5NVZjYS13dFEtZDVCeEhqdjhYN1NyR3JKeTdvLXRab25FbmZIa19YcXRCRzRubDgwWGlmeXR1d1ZWUjhMQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE82UzlSYUdzVkRCYjI5ZW1lTzc2M2VDcjBDeGV6REZ5NVZjYS13dFEtZDVCeEhqdjhYN1NyR3JKeTdvLXRab25FbmZIa19YcXRCRzRubDgwWGlmeXR1d1ZWUjhMQQ?oc=5\" target=\"_blank\">בסין 7 מכל 10 מכוניות חדשות כבר מחושמלות, אבל השוק כולו מתכווץ</a>&nbsp;&",
-  "date": "2026-11-20T05:19:00.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "8f9b5f9ec56cd7d6",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "קנבה מאפשרת לכבות את הבינה המלאכותית: מתג חדש מסתיר את כל הכלים הגנרטיביים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IWVNXbm9BM0FVSFFHaExEV0JBMVU4RnBlMmJhMnpLeEFVeDJwMXNhVnd6cGFjVnhyYnpzbUJxOGhzRjc5dmR5ZXUtVTdicVZ2UFdmVzJBUGhGU3NsQndHZVpqdEoydThv?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IWVNXbm9BM0FVSFFHaExEV0JBMVU4RnBlMmJhMnpLeEFVeDJwMXNhVnd6cGFjVnhyYnpzbUJxOGhzRjc5dmR5ZXUtVTdicVZ2UFdmVzJBUGhGU3NsQndHZVpqdEoydThv?oc=5\" target=\"_blank\">קנבה מאפשרת לכבות את הבינה המלאכותית: מתג חדש מסתיר את כל הכלים הגנ",
-  "date": "2026-11-20T05:18:00.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "04d5d0a85fdc6096",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "שכיר יכול להפקיד לפנסיה בעצמו עד תום שנת המס: הזיכוי הוא 35%, והתקרה 9,700 שקל בחודש - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51cU5vbTdpUnBta2Q1Q0hpTmhkRnpHU2pCZkJHN0V2S29BRDl0cjFRaUJGemx4cWp6R3YycUx1VWJOZGQ3NVE1ZlV0Qjh6R04yUkd6eC1KSm12MV9RTTRMRy10YjI3NGhmbm1GRkhCZ0o5ajA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE51cU5vbTdpUnBta2Q1Q0hpTmhkRnpHU2pCZkJHN0V2S29BRDl0cjFRaUJGemx4cWp6R3YycUx1VWJOZGQ3NVE1ZlV0Qjh6R04yUkd6eC1KSm12MV9RTTRMRy10YjI3NGhmbm1GRkhCZ0o5ajA?oc=5\" target=\"_blank\">שכיר יכול להפקיד לפנסיה בעצמו עד תום שנת המס: הזיכוי",
-  "date": "2026-11-20T05:17:00.000Z",
-  "fetched": "2026-11-20T07:03:24.283Z",
-  "fromCloud": "2026-11-20T0703.json"
- },
- {
-  "id": "fbfd28563f127b67",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Saba Capital Income & Opportunities Fund II – NASDAQ:XSABX - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFFNUGJrWWpUM1NHcE1pOElTbGNTT3dLdE5ZcXFlc3gyZTQtNHUwYlZhMzRsQ0hPV3k5Z09ockItdFpKTjlHUmllYzZBR3NFMFpONDZ2blVHUHU1MUdReExVdGtESHNfTndULXlMWFNVcDJBcG9iTVgyeFUwR3BwaW1VNGgtdVl1bTJ2MzhpSGRaWVduVXgwamg2cHF2MlFLYzBrU2VtRTFtcTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFFNUGJrWWpUM1NHcE1pOElTbGNTT3dLdE5ZcXFlc3gyZTQtNHUwYlZhMzRsQ0hPV3k5Z09ockItdFpKTjlHUmllYzZBR3NFMFpONDZ2blVHUHU1MUdReExVdGtESHNfTndULXlMWFNVcDJBcG9iTVgyeFUwR3BwaW1VNGgtdVl1bTJ2MzhpSGRaWVduVXgwamg2cHF2MlFLYzBrU2VtRTFtcT",
-  "date": "2026-11-20T05:16:06.000Z",
-  "fetched": "2026-11-20T09:33:11.903Z",
-  "fromCloud": "2026-11-20T0933.json"
- },
- {
-  "id": "7310953d355c8df6",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "האנג סנג נכנס לשוק דובי: 20% מתחת לשיא, ומניות ה-AI באסיה ממשיכות לצנוח - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56T3ljSFZCNEVmel9aWVNIT2pnT1UyLUQ4Tm5Yc3Q3elZFelJGZ1dicVNtc29lQUFSTGxteHMwbmQ0SjFTdDF2MnBEN1AtRjV5OXhmS3RrZE9YSmZMbHR0RW0yUjNhOWZodmhxbE9xOFo?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE56T3ljSFZCNEVmel9aWVNIT2pnT1UyLUQ4Tm5Yc3Q3elZFelJGZ1dicVNtc29lQUFSTGxteHMwbmQ0SjFTdDF2MnBEN1AtRjV5OXhmS3RrZE9YSmZMbHR0RW0yUjNhOWZodmhxbE9xOFo?oc=5\" target=\"_blank\">האנג סנג נכנס לשוק דובי: 20% מתחת לשיא, ומניות ה-AI באסי",
-  "date": "2026-11-20T05:11:00.000Z",
-  "fetched": "2026-11-20T07:03:24.283Z",
-  "fromCloud": "2026-11-20T0703.json"
- },
- {
-  "id": "07d1fa8d52cab517",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "פרוקטר אנד גמבל תקצץ עד 30% מכוח האדם בייצור ובשרשרת האספקה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JNHhqeHNIYXhhU0kyT29UUEZnT18yeFVWQUdsTDZXakMweGJTNHpnZFBLTUpCOF9uOGgyZ1BFaWFEem5heHk5bDhtQmNSLU5oWU5ybU5QYWtGa2FYSlY0Y1lYcU9qM2s?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JNHhqeHNIYXhhU0kyT29UUEZnT18yeFVWQUdsTDZXakMweGJTNHpnZFBLTUpCOF9uOGgyZ1BFaWFEem5heHk5bDhtQmNSLU5oWU5ybU5QYWtGa2FYSlY0Y1lYcU9qM2s?oc=5\" target=\"_blank\">פרוקטר אנד גמבל תקצץ עד 30% מכוח האדם בייצור ובשרשרת האספקה</a>&nbsp",
-  "date": "2026-11-20T05:09:00.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
  }
 ]
