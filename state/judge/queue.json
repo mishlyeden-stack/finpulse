@@ -5764,6 +5764,17 @@
   "fromCloud": "2026-11-20T0733.json"
  },
  {
+  "id": "2961e0a31fc52075",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "אילן בירנפלד - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hYWk4Y1RwZUlZMmU4QzhOV2l6b3EtQ2paaFk5NXp5WjdJVlBfeTk0OEdtVEh0bmtBeUdleVRQbWstcktHZmpEcjB1T0oyWWo4N0JRSFJSa05qVnhkbWtxcjg3N1ZsRGxpRWMzdC1HVDljelBGOERUbXprM0M?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9hYWk4Y1RwZUlZMmU4QzhOV2l6b3EtQ2paaFk5NXp5WjdJVlBfeTk0OEdtVEh0bmtBeUdleVRQbWstcktHZmpEcjB1T0oyWWo4N0JRSFJSa05qVnhkbWtxcjg3N1ZsRGxpRWMzdC1HVDljelBGOERUbXprM0M?oc=5\" target=\"_blank\">אילן בירנפלד</a>&nbsp;&nbsp;<font color=",
+  "date": "2026-11-20T07:24:58.000Z",
+  "fetched": "2026-11-21T00:33:14.963Z",
+  "fromCloud": "2026-11-21T0033.json"
+ },
+ {
   "id": "c4f98994781a32d5",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -7225,82 +7236,5 @@
   "date": "2026-11-20T00:33:45.000Z",
   "fetched": "2026-11-20T01:03:19.405Z",
   "fromCloud": "2026-11-20T0103.json"
- },
- {
-  "id": "51d0c880544e1eb4",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Blue Moon Completes its Acquisition of the Turner Copper-Gold VMS Deposit - Morningstar",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVRpMzgxckJqSWxyUTBOM0VZNFhFZU9CY3JFWlhURVBaTTJEcDYtOVdZZTRFdmhCRWJXYmFrdzF2YWVCQVY4MkdHUHBLNk1HYmJYWVVSR19lY25qbW9kN1hvVFVYcUdkUkhCaVdEZUlvWUpabEh6VjBPR25rdVJkZDhJbEZlNWdPbEp1dy1LQ056WFg3WFVwX0V4eHlpYVNXNTc0WDBhekg2OWNQeFNjSFJ5SEY1b2JFMHdkY21ackVUZWxKOEVWYW5md3Vudmc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVRpMzgxckJqSWxyUTBOM0VZNFhFZU9CY3JFWlhURVBaTTJEcDYtOVdZZTRFdmhCRWJXYmFrdzF2YWVCQVY4MkdHUHBLNk1HYmJYWVVSR19lY25qbW9kN1hvVFVYcUdkUkhCaVdEZUlvWUpabEh6VjBPR25rdVJkZDhJbEZlNWdPbEp1dy1LQ056WFg3WFVwX0V4eHlpYVNXNTc0WDBhekg2OW",
-  "date": "2026-11-20T00:28:41.000Z",
-  "fetched": "2026-11-20T00:33:13.404Z",
-  "fromCloud": "2026-11-20T0033.json"
- },
- {
-  "id": "c2fcb53650446487",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Solidion Technology Inc. (0001881551) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1881551/000121390026122335/0001213900-26-122335-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001213900-26-122335 <b>Size:</b> 236 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 5.07: Submission of Matters to",
-  "date": "2026-11-20T00:28:23.000Z",
-  "fetched": "2026-11-20T11:03:11.942Z",
-  "fromCloud": "2026-11-20T1103.json"
- },
- {
-  "id": "8a1ddb9ca8ada8b7",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Liberty Latin America Ltd. (0001712184) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000169/0001712184-26-000169-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001712184-26-000169 <b>Size:</b> 194 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
-  "date": "2026-11-20T00:18:13.000Z",
-  "fetched": "2026-11-20T11:03:11.942Z",
-  "fromCloud": "2026-11-20T1103.json"
- },
- {
-  "id": "15f1d8c941119f50",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
-  "link": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
-  "summary": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
-  "date": "2026-11-20T00:15:12.000Z",
-  "fetched": "2026-11-20T01:03:19.405Z",
-  "fromCloud": "2026-11-20T0103.json"
- },
- {
-  "id": "1c225d2c237fae64",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "El Paso County authorizes land acquisition for UMC expansion, with eminent domain as an option - KTSM 9 News",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnYteGFRWVI1b0I3TTdTMnVTSWhKc2hkSzVmU1RNQnNQemVQcEZLc09URUQ5enJ5Q055V0hiMnAwMmZjUUhOWlFKNlF6bFJUeFVrQ2doUEkydUtmMjNzNnoxckhmOGFmdVZSNHJ0UHJfMnlsSG13QWp1ekpFdnNDMmV5blVCZVZQMHNwVlVNdnZDaG1KU0ZSZFhEZzMzMVR4MzFZYzQyX0tsRU1QdmJiWVZaeUxrRkk1bWtYWtIBwgFBVV95cUxNUTFXVENlQ1UxcF9ycTRvenRaOTdfRll3UW0tZ2JJbFNUVXBzNUp2UUxCQTFIQjBJUWNXbjNUSTNCMFhtYkw2XzI5T3JsX1luLThBQ1BjZ1dJcS1YZ1JNcmExaUpFUmxSdG9fWjdidDA3N2h3enpWMFhfN2lIRDhpcmw0YVlBQTdONmlEZFFQUE5DNHF3c2VUbXYwdjJWd1NhX1lCQWJvZU5Mc3BIdGR5dHR0QUNsMmUybm82dWJPYlR3Zw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnYteGFRWVI1b0I3TTdTMnVTSWhKc2hkSzVmU1RNQnNQemVQcEZLc09URUQ5enJ5Q055V0hiMnAwMmZjUUhOWlFKNlF6bFJUeFVrQ2doUEkydUtmMjNzNnoxckhmOGFmdVZSNHJ0UHJfMnlsSG13QWp1ekpFdnNDMmV5blVCZVZQMHNwVlVNdnZDaG1KU0ZSZFhEZzMzMVR4MzFZYzQyX0tsRU",
-  "date": "2026-11-20T00:08:32.000Z",
-  "fetched": "2026-11-20T00:33:13.404Z",
-  "fromCloud": "2026-11-20T0033.json"
- },
- {
-  "id": "2eaa4de54f00a5b0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Blue Moon Metals Inc. (MOON) Completes Acquisition of Turner Copper-Gold Deposit - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOFYxdFFTZjBIZzZlM0piZVFOQmtZWW94ZmR4X2lJUmQ4bkFqdngyQXktOFV1NGFhUEdzQjEwbUhaZmotNWFVZkJXTVE5T2ZrblBGb3V2RUFWVjZiSXB0cU93cnQtZERDeEFodXFfREVzSzRKNm1vQXotdEhuVEtMN2x3UzZ0dDUwUGdhanQ3QVFQZXJOMHdOZXVvd0cyb29QU3FieUJNWEt5UkdtZ0NtazNKdFd6SDhUbnZqSWxmMmZLWEd1UUVpdGJHWTg2dGVKc2tCajJR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOFYxdFFTZjBIZzZlM0piZVFOQmtZWW94ZmR4X2lJUmQ4bkFqdngyQXktOFV1NGFhUEdzQjEwbUhaZmotNWFVZkJXTVE5T2ZrblBGb3V2RUFWVjZiSXB0cU93cnQtZERDeEFodXFfREVzSzRKNm1vQXotdEhuVEtMN2x3UzZ0dDUwUGdhanQ3QVFQZXJOMHdOZXVvd0cyb29QU3FieUJNWEt5Uk",
-  "date": "2026-11-20T00:07:00.000Z",
-  "fetched": "2026-11-20T00:33:13.404Z",
-  "fromCloud": "2026-11-20T0033.json"
- },
- {
-  "id": "afe83cd9e52d5823",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Greif Announces CFO Succession and Leadership Transition - The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUZqMWlQZkNnek0ta19zd1RTaUtHaTNVbkRwR0RnTnhwSzZkYzVJTGR4bF9YbDM2STk4Z3drOWxKd1UyNFNyS1pGYk9JNURZbTl4QmZRU0lad0tDbkpaaHY5RXluNFBJTS10dDA0T1hvZGxIRVNZdG9FM3JWUE13UERndUdtYkJBOHhMY29UQy1mc2FjX3AxLThlQm9iY2xfSXc0M285em1mUTg2bEtjTk45YnExSWpMdG5EVkpCUzJNbzZlc2ZkczRmdW12MjIxXzFCT0dQVXZSUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUZqMWlQZkNnek0ta19zd1RTaUtHaTNVbkRwR0RnTnhwSzZkYzVJTGR4bF9YbDM2STk4Z3drOWxKd1UyNFNyS1pGYk9JNURZbTl4QmZRU0lad0tDbkpaaHY5RXluNFBJTS10dDA0T1hvZGxIRVNZdG9FM3JWUE13UERndUdtYkJBOHhMY29UQy1mc2FjX3AxLThlQm9iY2xfSXc0M285em1mUT",
-  "date": "2026-11-20T00:06:26.000Z",
-  "fetched": "2026-11-20T03:33:11.935Z",
-  "fromCloud": "2026-11-20T0333.json"
  }
 ]
