@@ -44,6 +44,17 @@
   "fromCloud": "2026-11-21T1533.json"
  },
  {
+  "id": "07f08843140ac92e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "SAP CFO Sees Headcount Declining as AI Boosts Productivity, Plans New Revenue Metric - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3V4d2ZreWcxVzlOalRzLVdhaDA1czJ2S0ZlYURwSEpKYWctTDZPREg2LW9iQnF0RVozMXVFYVhxOURzOV8zM0lrZ0lRa1BtelpOZ0d5Y240RlB5dkswY0pRS0lyc1k2VWlJbG83dEJjdXMwRFJDUDN0ZlRIaFlhX3p4RGhDUTVwTlhaUFUyRDBVQXh0SXB5ZTcwN1k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3V4d2ZreWcxVzlOalRzLVdhaDA1czJ2S0ZlYURwSEpKYWctTDZPREg2LW9iQnF0RVozMXVFYVhxOURzOV8zM0lrZ0lRa1BtelpOZ0d5Y240RlB5dkswY0pRS0lyc1k2VWlJbG83dEJjdXMwRFJDUDN0ZlRIaFlhX3p4RGhDUTVwTlhaUFUyRDBVQXh0SXB5ZTcwN1k?oc=5\" target=\"_bla",
+  "date": "2026-11-21T15:12:08.000Z",
+  "fetched": "2026-11-21T16:03:12.964Z",
+  "fromCloud": "2026-11-21T1603.json"
+ },
+ {
   "id": "df7fd261da2cbcf5",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -1329,6 +1340,17 @@
   "date": "2026-11-21T04:18:56.000Z",
   "fetched": "2026-11-21T11:33:14.650Z",
   "fromCloud": "2026-11-21T1133.json"
+ },
+ {
+  "id": "6c630108300319aa",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הכתבה עניינה אתכם? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsekhBbEwzNS1sQnQ1Y21kLUNtWTBEZnAzNWtxOEVKYThDd3pfdlRqM2MtbFRUS05iTTk3N295VHF5ZXpFOFI1RldoWjM0Zi1MNmZMYkhjclh6U0dCSnpyemloNnBYTi15S2lndjY3SzR4Z2d0UDQwendBUGI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBsekhBbEwzNS1sQnQ1Y21kLUNtWTBEZnAzNWtxOEVKYThDd3pfdlRqM2MtbFRUS05iTTk3N295VHF5ZXpFOFI1RldoWjM0Zi1MNmZMYkhjclh6U0dCSnpyemloNnBYTi15S2lndjY3SzR4Z2d0UDQwendBUGI?oc=5\" target=\"_blank\">הכתבה עניינה אתכם?</a>&nbsp;&nbsp;<font ",
+  "date": "2026-11-21T03:54:57.000Z",
+  "fetched": "2026-11-21T16:03:12.964Z",
+  "fromCloud": "2026-11-21T1603.json"
  },
  {
   "id": "2126b5ba6a8756fc",
@@ -3663,6 +3685,17 @@
   "fromCloud": "2026-11-20T2133.json"
  },
  {
+  "id": "bac9ccf389382674",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ת\"א 125 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdkFWbUZ0a01qdVoweXdjbnVzemJuTUdvLTQ3bFNocEVZaE02QksxTlV1WmZtc0s1U1BEcnpUQ2ZydVhfLXRYbXdZLXh4a0Rja2JiMHZFamw3MEhBY0J3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdkFWbUZ0a01qdVoweXdjbnVzemJuTUdvLTQ3bFNocEVZaE02QksxTlV1WmZtc0s1U1BEcnpUQ2ZydVhfLXRYbXdZLXh4a0Rja2JiMHZFamw3MEhBY0J3?oc=5\" target=\"_blank\">ת\"א 125</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-20T17:29:29.000Z",
+  "fetched": "2026-11-21T16:03:12.964Z",
+  "fromCloud": "2026-11-21T1603.json"
+ },
+ {
   "id": "bb11fe208f7f441d",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -4123,214 +4156,5 @@
   "date": "2026-11-20T16:03:58.000Z",
   "fetched": "2026-11-20T22:03:13.555Z",
   "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "f77d8a9b825a2482",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Montes Archimedes Acquisition (ROIV) Upgraded to Buy: Here's Why - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcERaLWRaeWlPQXNGYU5OWXpCN0lvendvM082c1ZtcURoTEJ0N0NlVWZpSXkyaFJYMFZUNU9MakJ2eFJyZmVwNlc2VlBnRDYtbFdDQTdQZWx1VHBMS0JSTkJIUEhWQUpjejduV0dWVWtmY2Fua0RONHFzLV9ud0lhdUZFMXhTdG9RWVhHbkotOGVGSVk3anVtdXhBSnZaZ1BkN0V6bFdUaTBlMGJ2?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNcERaLWRaeWlPQXNGYU5OWXpCN0lvendvM082c1ZtcURoTEJ0N0NlVWZpSXkyaFJYMFZUNU9MakJ2eFJyZmVwNlc2VlBnRDYtbFdDQTdQZWx1VHBMS0JSTkJIUEhWQUpjejduV0dWVWtmY2Fua0RONHFzLV9ud0lhdUZFMXhTdG9RWVhHbkotOGVGSVk3anVtdXhBSnZaZ1BkN0V6bFdUaTBlMG",
-  "date": "2026-11-20T16:00:04.000Z",
-  "fetched": "2026-11-20T17:33:12.353Z",
-  "fromCloud": "2026-11-20T1733.json"
- },
- {
-  "id": "1514e649ee2be487",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "רני רהב - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92RkZyWHNCNzZha202YjVBYm5Femt1TWpXeGJuTmMxVzhkNjNYcDhsc05uRnFvalVLYlNkNUFTcVNQWGRrVDg1VVZfU2wyWjNWT3lDVFlNd3A1MDBRcTV3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE92RkZyWHNCNzZha202YjVBYm5Femt1TWpXeGJuTmMxVzhkNjNYcDhsc05uRnFvalVLYlNkNUFTcVNQWGRrVDg1VVZfU2wyWjNWT3lDVFlNd3A1MDBRcTV3?oc=5\" target=\"_blank\">רני רהב</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
-  "date": "2026-11-20T15:59:42.000Z",
-  "fetched": "2026-11-21T04:33:12.284Z",
-  "fromCloud": "2026-11-21T0433.json"
- },
- {
-  "id": "b8da9a24e52c3ae9",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Andy Burnham begins to undo Brexit with landmark EU deal",
-  "link": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1",
-  "summary": "Brussels agreement overshadowed by dispute over university fees and questions about where the relationship goes next",
-  "date": "2026-11-20T15:57:09.000Z",
-  "fetched": "2026-11-20T16:33:12.698Z",
-  "fromCloud": "2026-11-20T1633.json"
- },
- {
-  "id": "037d4868877bafce",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Qualcomm EVP, CFO & COO Akash Palkhiwala sells $404,237 in stock By Investing.com - Investing.com South Africa",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEJaMmlTU2lCblBxVUFnT3lFdWwwc0RRT0lZeF9JYS1mU3Znc2xFcHVBa3ptVXQ4RWVINS1fVG5UTHpid2Q2WFhaV1R2VFJYelA4dnhXeV9tRW1DYWF6VERSMDh0eG9UMTFNcXdGeFU4Z2lvNDlaU2VpNGRUV084cEVaSkhIOW00VG9FTWZvanJfa3E0RVUxcG93NE1IV0hTN0lmbk9Bd0U1NVZ5OWlFdW1OdDZ5OEpyRjZHZkRn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEJaMmlTU2lCblBxVUFnT3lFdWwwc0RRT0lZeF9JYS1mU3Znc2xFcHVBa3ptVXQ4RWVINS1fVG5UTHpid2Q2WFhaV1R2VFJYelA4dnhXeV9tRW1DYWF6VERSMDh0eG9UMTFNcXdGeFU4Z2lvNDlaU2VpNGRUV084cEVaSkhIOW00VG9FTWZvanJfa3E0RVUxcG93NE1IV0hTN0lmbk9Bd0U1NV",
-  "date": "2026-11-20T15:57:00.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "7ec82afb89972027",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - PROVIDENT FINANCIAL HOLDINGS INC (0001010470) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000311/0000939057-26-000311-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0000939057-26-000311 <b>Size:</b> 155 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders",
-  "date": "2026-11-20T15:55:45.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "706019406d3b8f01",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "החברות בארה\"ב עוברות מרכישה עצמית להנפקת מניות, ובוול סטריט חוששים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQXVNNnVDa05ndldLT1ZGXzlsNzhDb1JlVVV2OUdhNk80TTBreXlXNHUwa3BFNWdWZlVtbW5QZHAtZW92cHBmOE9HaEpFc01PQ0stOHBQbFpPbXVHMG9wRWlhUzF5MHQyZE5wcg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQXVNNnVDa05ndldLT1ZGXzlsNzhDb1JlVVV2OUdhNk80TTBreXlXNHUwa3BFNWdWZlVtbW5QZHAtZW92cHBmOE9HaEpFc01PQ0stOHBQbFpPbXVHMG9wRWlhUzF5MHQyZE5wcg?oc=5\" target=\"_blank\">החברות בארה\"ב עוברות מרכישה עצמית להנפקת מניות, ובוול סטריט ח",
-  "date": "2026-11-20T15:54:00.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "e350d526e5ceac3a",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מארוול ולומנטום איבדו יותר מ-40% מאז העסקה, ומנכ\"ל לומנטום יוצא להגנתה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HRVk2UWlzYzV5REpJZnZkRHFnNURfTzZEY3FDVVFIcHliTWF5ejdvYzBmX3hMWkdTRk11cWxvSkVXcklCVkZaR0Z5NGNCM19nd1VaOGdTQm5IVm9DLWlpc1lsMXFHeVBURThKeA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1HRVk2UWlzYzV5REpJZnZkRHFnNURfTzZEY3FDVVFIcHliTWF5ejdvYzBmX3hMWkdTRk11cWxvSkVXcklCVkZaR0Z5NGNCM19nd1VaOGdTQm5IVm9DLWlpc1lsMXFHeVBURThKeA?oc=5\" target=\"_blank\">מארוול ולומנטום איבדו יותר מ-40% מאז העסקה, ומנכ\"ל לומנטום יו",
-  "date": "2026-11-20T15:54:00.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "b7e95794d470c658",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הביטקוין נכשל שוב במבחן \"הזהב הדיגיטלי\" וצונח לכ-60 אלף דולר - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyT05vY3BYZEdQbzFQZ2R2eFo2SmVrc1VqMVBtX3dJdDd6bDQ2TkxFT2xxR2JwME5ueGd2MGhnR0gzdVVJQmlVanNNQzJFd1VBWTRCa2ZLd25lSEZUODZ1cEtJY2Zxd3dCWXVWa1RFODM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAyT05vY3BYZEdQbzFQZ2R2eFo2SmVrc1VqMVBtX3dJdDd6bDQ2TkxFT2xxR2JwME5ueGd2MGhnR0gzdVVJQmlVanNNQzJFd1VBWTRCa2ZLd25lSEZUODZ1cEtJY2Zxd3dCWXVWa1RFODM?oc=5\" target=\"_blank\">הביטקוין נכשל שוב במבחן \"הזהב הדיגיטלי\" וצונח לכ-60 אלף ",
-  "date": "2026-11-20T15:54:00.000Z",
-  "fetched": "2026-11-20T18:03:25.869Z",
-  "fromCloud": "2026-11-20T1803.json"
- },
- {
-  "id": "dc985915ded6dbbd",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Nuveen Global Cities REIT, Inc. (0001711799) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1711799/000171179926000103/0001711799-26-000103-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001711799-26-000103 <b>Size:</b> 148 KB <br>Item 7.01: Regulation FD Disclosure",
-  "date": "2026-11-20T15:50:47.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "cc2e898e1252824e",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Energy Transfer completes Vaquero Midstream acquisition - Pipeline and Gas Journal",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGlwRFR0SG1PUEh2bDdjeUU4TE1ZRlltY2ZhYXpaM3A4elRDN29Ia0N2YjlmNFRZaUtteUI2ejVTcDFVNEJOOVRTRF82Y3NURUtEcDNoT3lzQzVFRkVPUExFLXhSbU85Z3lCZHZoZmwwSEp1bmJlNWtiYmpRMTJiVmtvaV80a2VXV1NOSFpDbC1UOGhlb0hEZHpUTnJOR2NYN1ZnaDNxcVRQRTAxbXJqdkY1dFhLbmJvMWg2T1V0YWtDbXpUa2ZLQnl5TnUxRDI1NmhqZENWQzVQTGVyR25N?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGlwRFR0SG1PUEh2bDdjeUU4TE1ZRlltY2ZhYXpaM3A4elRDN29Ia0N2YjlmNFRZaUtteUI2ejVTcDFVNEJOOVRTRF82Y3NURUtEcDNoT3lzQzVFRkVPUExFLXhSbU85Z3lCZHZoZmwwSEp1bmJlNWtiYmpRMTJiVmtvaV80a2VXV1NOSFpDbC1UOGhlb0hEZHpUTnJOR2NYN1ZnaDNxcVRQRT",
-  "date": "2026-11-20T15:50:28.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "ec221b66cd9a86ed",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "מניית אנתרופיק צונחת - ומוחקת כמעט את כל הזינוק שרשמה בהנפקה - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU25Dc19mNmVQVmZFdUJGSzhrUkYxZDFHSDlMX1RwUDlqUGxzX2dZZGRLODVpREdacjNJM0c3U0xGZXU0VmxQTXk4bXQ4eWY0VGZyZHQ2RERSMUotQkRBT2N3ZmJBeGRLTW1pTkQ4U1dkRTBSM1V0MXhvZ0dFY25UZi1WLXc0bEhITmJQTEI4bXhKM29UbkRseERDVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQU25Dc19mNmVQVmZFdUJGSzhrUkYxZDFHSDlMX1RwUDlqUGxzX2dZZGRLODVpREdacjNJM0c3U0xGZXU0VmxQTXk4bXQ4eWY0VGZyZHQ2RERSMUotQkRBT2N3ZmJBeGRLTW1pTkQ4U1dkRTBSM1V0MXhvZ0dFY25UZi1WLXc0bEhITmJQTEI4bXhKM29UbkRseERDVQ?oc=5\" target=\"_blan",
-  "date": "2026-11-20T15:49:00.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "9d6c65e992f2657d",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "Regulation ready",
-  "link": "https://www.datacenterdynamics.com/en/whitepapers/regulation-ready/",
-  "summary": "<p data-block-key=\"f18ta\">How early design and development decisions shape data center approval and delivery</p>",
-  "date": "2026-11-20T15:48:59.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "f021fb3523b4330c",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "SpaceX expresses interest in building data centers in Bulgaria",
-  "link": "https://www.datacenterdynamics.com/en/news/spacex-expresses-interest-in-building-data-centers-in-bulgaria/",
-  "summary": "<p data-block-key=\"9a00e\">Bulgaria could also host several new Starlink ground stations, said the country’s economy ministry</p>",
-  "date": "2026-11-20T15:47:03.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "e8285a76cd589f77",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "MasTec Stock Slides Despite Growth Pitch for $1.25 Billion Murphy Acquisition - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0MxN1FTZFpfM3BPN3JoU3Nla3d4ZGtvaWt3NDRpdHViTXc2NWNIak45cU1JdU56VUd5WFF6TFVFQ3AzTmJsUVRXUml6ZnZpS3lldk9XOTlTMmlkajFkNlo2LU5iQl9uRkR1eHhxcVpEME84RHdCWXo5eW1aUFgyVlZZdU5HYlNYendTb19qZGFON3pwaGpqUjRqenMxTHQweDQ2UzNHWTJCM29OZTEtUHlpMnhvVjhtX010MA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0MxN1FTZFpfM3BPN3JoU3Nla3d4ZGtvaWt3NDRpdHViTXc2NWNIak45cU1JdU56VUd5WFF6TFVFQ3AzTmJsUVRXUml6ZnZpS3lldk9XOTlTMmlkajFkNlo2LU5iQl9uRkR1eHhxcVpEME84RHdCWXo5eW1aUFgyVlZZdU5HYlNYendTb19qZGFON3pwaGpqUjRqenMxTHQweDQ2UzNHWTJCM2",
-  "date": "2026-11-20T15:45:25.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "5bacb623187ab507",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Merchants & Marine Bancorp Q3 net income jumps after FM Bank acquisition - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOU11TTRURHNObGEyZWJxb0lZYnJyT1pRbG1tS24zOW1FMVd2aWdmOGZkNmIxaW5xUUFSdWZkTW1kVzFZcERVLUt3RHJ0dkJ2WEpzZ3BpY3RfbE5YRVRiSGlxM29DYWZ0MHZhNk1JckRGTGpERzJaV1puczMtQ0FaQm5oYkZPWEVISGpselNOdWNoTERqN1lRalczOWJEWk5hc3BqNUt0OXVDYXRtSm5xMmEwdEJrTFA0WG5KWTlTNFhyMVJJRXRZSzdkNmxTUE03WWhUMlBCUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOU11TTRURHNObGEyZWJxb0lZYnJyT1pRbG1tS24zOW1FMVd2aWdmOGZkNmIxaW5xUUFSdWZkTW1kVzFZcERVLUt3RHJ0dkJ2WEpzZ3BpY3RfbE5YRVRiSGlxM29DYWZ0MHZhNk1JckRGTGpERzJaV1puczMtQ0FaQm5oYkZPWEVISGpselNOdWNoTERqN1lRalczOWJEWk5hc3BqNUt0OXVDYX",
-  "date": "2026-11-20T15:41:46.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
- },
- {
-  "id": "8d41ac4335a01137",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow of Live Oak Acquisition Corp. VI – NASDAQ:LOVIW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2NxS2JhOHl0Z09aWUhHc05BbHUtVGNfZ3RhRE95WHpqV2lxemdXMTVuYkhsdzhRR20yaExsV1pQSDAtdzJlUjhyQmJ6b2Q5ZVlMajJyNGZILWJlLXR0TUM1SHpTa3QzdkZqemVESWtMeXlzTGVhZ3FmN1RlX1VmR2ZYMi1VVHYwcEhuQmdn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2NxS2JhOHl0Z09aWUhHc05BbHUtVGNfZ3RhRE95WHpqV2lxemdXMTVuYkhsdzhRR20yaExsV1pQSDAtdzJlUjhyQmJ6b2Q5ZVlMajJyNGZILWJlLXR0TUM1SHpTa3QzdkZqemVESWtMeXlzTGVhZ3FmN1RlX1VmR2ZYMi1VVHYwcEhuQmdn?oc=5\" target=\"_blank\">Free cash flow ",
-  "date": "2026-11-20T15:40:29.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "2169600d446c4259",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Cash flow from financing activities of Live Oak Acquisition Corp. VI – NASDAQ:LOVIW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVDZ4aVpJV2EwMENlVDRLcGoxYjdFTjNMSnNHNHg3bDNpbnNqUFVscUlvaUhGZXVMX3JiYmFWc0IxNUtKV2QtWTlCRW9VUDBCeDlRTGllMGVTbFd6cG1lcVVPM2E0MUlMZzEyaGFna0l4MFhQX2M3bVl6TmJ5U1ZJQjBxOVJkMnZJZV9hOElRRVRCVkpWM0hyNGRmMXhJN0E?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVDZ4aVpJV2EwMENlVDRLcGoxYjdFTjNMSnNHNHg3bDNpbnNqUFVscUlvaUhGZXVMX3JiYmFWc0IxNUtKV2QtWTlCRW9VUDBCeDlRTGllMGVTbFd6cG1lcVVPM2E0MUlMZzEyaGFna0l4MFhQX2M3bVl6TmJ5U1ZJQjBxOVJkMnZJZV9hOElRRVRCVkpWM0hyNGRmMXhJN0E?oc=5\" target=\"",
-  "date": "2026-11-20T15:36:22.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "de6ccbadf4b652b6",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Biotech CFOs Embrace Strategic Leadership Today - BioXconomy",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY0VrT1EtbTlnUlRvSk5jTUplZXItdHVVbXdITGtkTlJRN3J1UkJrTC1UYWx0UEJiV0xqMmZrNmNnVzJOMEFnQU5JbldMRkExamFpb1pCLVBudWJUQjhhUHNsaHVSNnVMNVZwNHI3czB4T2Vzd1hwUl9QNDYzVXJGa1A0LTFDYUNxQ1hkWlI2eTExcE5CQVl3ZVdaNDlsSzVoRGVEWEpQNXAxMUpaclkxMmxhSkpzb1lRd0tENWlCaGdlOUtyUFBWejBaalJ2QVk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNY0VrT1EtbTlnUlRvSk5jTUplZXItdHVVbXdITGtkTlJRN3J1UkJrTC1UYWx0UEJiV0xqMmZrNmNnVzJOMEFnQU5JbldMRkExamFpb1pCLVBudWJUQjhhUHNsaHVSNnVMNVZwNHI3czB4T2Vzd1hwUl9QNDYzVXJGa1A0LTFDYUNxQ1hkWlI2eTExcE5CQVl3ZVdaNDlsSzVoRGVEWEpQNXAxMU",
-  "date": "2026-11-20T15:34:26.000Z",
-  "fetched": "2026-11-20T22:03:13.555Z",
-  "fromCloud": "2026-11-20T2203.json"
- },
- {
-  "id": "bddbc50346aa6fab",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "איומים ועלבונות: ג'נסן הואנג הפך את השפלת העובדים לשגרה - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVkzbkRjejhHWkR5VFljcXhhdkl6TjBNQmVYNjl4d280QUd5ZENVZTVONEx6OVhlOG9kQWlXRWNocUlpSEdXbGdCbDBPUUdvcE0zaU5VNDAwM1dBUlQwcm5rMXJfRFE0OE5lc1c0anFvaUdXUzFETlp5ZWYtYUtUSFZRdk5xYVdVSFU5YWNLRDM2RHdnbkVFb3hFWGlZLVRQQnY3dFRaSQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVkzbkRjejhHWkR5VFljcXhhdkl6TjBNQmVYNjl4d280QUd5ZENVZTVONEx6OVhlOG9kQWlXRWNocUlpSEdXbGdCbDBPUUdvcE0zaU5VNDAwM1dBUlQwcm5rMXJfRFE0OE5lc1c0anFvaUdXUzFETlp5ZWYtYUtUSFZRdk5xYVdVSFU5YWNLRDM2RHdnbkVFb3hFWGlZLVRQQnY3dFRaSQ?oc=",
-  "date": "2026-11-20T15:34:00.000Z",
-  "fetched": "2026-11-20T16:03:20.737Z",
-  "fromCloud": "2026-11-20T1603.json"
  }
 ]
