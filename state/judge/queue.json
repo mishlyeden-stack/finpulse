@@ -11,6 +11,17 @@
   "fromCloud": "2026-11-21T0433.json"
  },
  {
+  "id": "0384955c8a548a4a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אשדוד: מספר העסקאות ירד בשליש, וברובע ד' המחיר ירד בכ-16% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03TjQ4bWkzS0hmajZaN0p5T2owQV8zbkVpT3VoaUxKNWN4ejU5eTFfeXUxVTlIQ3NyZTVHRkVoOExtdWtJcEM1M0l6UklPc09BY2p4cUN1ZHVqaU5RYUZ2WFdIMERaV0d4Q1FER2JB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE03TjQ4bWkzS0hmajZaN0p5T2owQV8zbkVpT3VoaUxKNWN4ejU5eTFfeXUxVTlIQ3NyZTVHRkVoOExtdWtJcEM1M0l6UklPc09BY2p4cUN1ZHVqaU5RYUZ2WFdIMERaV0d4Q1FER2JB?oc=5\" target=\"_blank\">אשדוד: מספר העסקאות ירד בשליש, וברובע ד' המחיר ירד בכ-16%</",
+  "date": "2026-11-21T04:20:00.000Z",
+  "fetched": "2026-11-21T05:03:16.943Z",
+  "fromCloud": "2026-11-21T0503.json"
+ },
+ {
   "id": "aa402c4905427ff4",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -31,6 +42,17 @@
   "date": "2026-11-21T03:20:00.000Z",
   "fetched": "2026-11-21T03:33:12.304Z",
   "fromCloud": "2026-11-21T0333.json"
+ },
+ {
+  "id": "a82ec5cb9058bdba",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Is Walker & Dunlop (WD) Cheap As Its $285 Million Refinancing Draws Attention? - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMm03S0VWakg2Rmh6V1RmLVc0X3J5aDhDbEhQd0xncVItTUVUTUc5b2ZVWm05NDZQY0FJdFBSQUhOeFdvRl9SQlM1UHVETjVFOHFCaGtVdjRua2Rvem5vbkt5cGxkbFhYV2V1MzhkZXhlNC1pTGE2UWpEMzJYSDd5dWdkUVVzdzVELTA2WVZrcnV6Zw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMm03S0VWakg2Rmh6V1RmLVc0X3J5aDhDbEhQd0xncVItTUVUTUc5b2ZVWm05NDZQY0FJdFBSQUhOeFdvRl9SQlM1UHVETjVFOHFCaGtVdjRua2Rvem5vbkt5cGxkbFhYV2V1MzhkZXhlNC1pTGE2UWpEMzJYSDd5dWdkUVVzdzVELTA2WVZrcnV6Zw?oc=5\" target=\"_blank\">Is Walker",
+  "date": "2026-11-21T03:13:00.000Z",
+  "fetched": "2026-11-21T05:03:16.943Z",
+  "fromCloud": "2026-11-21T0503.json"
  },
  {
   "id": "e9051d6bf4790e94",
@@ -6763,225 +6785,5 @@
   "date": "2026-11-20T05:09:00.000Z",
   "fetched": "2026-11-20T12:03:15.807Z",
   "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "fb635d8eceb2d9a3",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Anthropic’s Wall Street stimulus fades",
-  "link": "https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1",
-  "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
-  "date": "2026-11-20T05:00:26.000Z",
-  "fetched": "2026-11-20T05:33:21.337Z",
-  "fromCloud": "2026-11-20T0533.json"
- },
- {
-  "id": "cf8738295f10265f",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
-  "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
-  "summary": "Tight correlation between crude prices and borrowing costs has broken down",
-  "date": "2026-11-20T05:00:26.000Z",
-  "fetched": "2026-11-20T05:33:21.337Z",
-  "fromCloud": "2026-11-20T0533.json"
- },
- {
-  "id": "42003d05f93e5c9f",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Can Nvidia learn from AIG’s mistakes?",
-  "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
-  "summary": "The chip giant’s role as the quasi-central bank of AI is reminiscent of the insurance company’s position before the subprime mortgage bubble",
-  "date": "2026-11-20T05:00:17.000Z",
-  "fetched": "2026-11-20T05:33:21.337Z",
-  "fromCloud": "2026-11-20T0533.json"
- },
- {
-  "id": "f6bdbc3834f1cf27",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
-  "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
-  "summary": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
-  "date": "2026-11-20T05:00:17.000Z",
-  "fetched": "2026-11-20T05:33:21.337Z",
-  "fromCloud": "2026-11-20T0533.json"
- },
- {
-  "id": "a857581b711cb7b1",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Why Britons can feel smugger than the French",
-  "link": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
-  "summary": "It’s not a competition, but if it were, the UK economy would be winning",
-  "date": "2026-11-20T05:00:17.000Z",
-  "fetched": "2026-11-20T12:03:15.807Z",
-  "fromCloud": "2026-11-20T1203.json"
- },
- {
-  "id": "bf9b0897f9b50dff",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "How pensions ate the state",
-  "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
-  "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
-  "date": "2026-11-20T05:00:08.000Z",
-  "fetched": "2026-11-20T05:33:21.337Z",
-  "fromCloud": "2026-11-20T0533.json"
- },
- {
-  "id": "a62258e99e35944a",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "China prepares to restart US private equity investments after pullback",
-  "link": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
-  "summary": "Beijing’s flagship sovereign wealth fund leading push for special terms to protect against disaster scenarios to unlock funding",
-  "date": "2026-11-20T05:00:07.000Z",
-  "fetched": "2026-11-20T05:33:21.337Z",
-  "fromCloud": "2026-11-20T0533.json"
- },
- {
-  "id": "3e198cf2b8a6700a",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "\"אי אפשר להניח את השלט\": מה חושבים הגיימרים הישראלים על GTA 6 - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rMlZfMVFTU3hWTGZ3dWdzeE41Mnllb0JoMFI3dWhBWFhlNzVLRzFNZGJHS3NteVI2UjNBS3g5SHpkR3JuMGc5MDFNNlM2S242NTBEbmdvVER1TVZXeVBGMG13eUFpUFNvUFBR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5rMlZfMVFTU3hWTGZ3dWdzeE41Mnllb0JoMFI3dWhBWFhlNzVLRzFNZGJHS3NteVI2UjNBS3g5SHpkR3JuMGc5MDFNNlM2S242NTBEbmdvVER1TVZXeVBGMG13eUFpUFNvUFBR?oc=5\" target=\"_blank\">\"אי אפשר להניח את השלט\": מה חושבים הגיימרים הישראלים על GTA 6</",
-  "date": "2026-11-20T05:00:00.000Z",
-  "fetched": "2026-11-20T05:03:13.126Z",
-  "fromCloud": "2026-11-20T0503.json"
- },
- {
-  "id": "4ec1028a85799650",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "המסים שבדרך, התרגיל של האוצר ומבחן האומץ של שאול מרידור - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qMElSSDRtSkdYRTFRNDhWVnFfZld5TkxhV2FHMElGLTVjOTBrN01RRHQzWHY3Z3VENEd1Z3R3TDZ4MUlZcDh0MWtqcTUyc1F1NjJiQXBxekhscUc3cU9rWnk5a2l6Nkt6?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qMElSSDRtSkdYRTFRNDhWVnFfZld5TkxhV2FHMElGLTVjOTBrN01RRHQzWHY3Z3VENEd1Z3R3TDZ4MUlZcDh0MWtqcTUyc1F1NjJiQXBxekhscUc3cU9rWnk5a2l6Nkt6?oc=5\" target=\"_blank\">המסים שבדרך, התרגיל של האוצר ומבחן האומץ של שאול מרידור</a>&nbsp;&n",
-  "date": "2026-11-20T05:00:00.000Z",
-  "fetched": "2026-11-20T05:03:13.126Z",
-  "fromCloud": "2026-11-20T0503.json"
- },
- {
-  "id": "823e71eaa3191cd2",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "למה טויוטה מחזירה לבמה טנדר יפני זעיר שמגיע רק ל-40 קמ\"ש - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GX3BTbGJ0ZmZyTXA3TW1PaE1SNEVYc0EwWXNjV0twYUJSOXVqenczN1IxUWhreDZ6MW90RmRGSUtiTm5MVmNZRXdleG5Cc011ZVppMVNJcVBNemVXMkM2UGpnc3ZmYnVnSHBzeC13?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5GX3BTbGJ0ZmZyTXA3TW1PaE1SNEVYc0EwWXNjV0twYUJSOXVqenczN1IxUWhreDZ6MW90RmRGSUtiTm5MVmNZRXdleG5Cc011ZVppMVNJcVBNemVXMkM2UGpnc3ZmYnVnSHBzeC13?oc=5\" target=\"_blank\">למה טויוטה מחזירה לבמה טנדר יפני זעיר שמגיע רק ל-40 קמ\"ש</a",
-  "date": "2026-11-20T05:00:00.000Z",
-  "fetched": "2026-11-20T05:03:13.126Z",
-  "fromCloud": "2026-11-20T0503.json"
- },
- {
-  "id": "4817e1949a408d72",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "לשחק בלי מסי: מה יקרה לכלכלת ישראל אם אנבידיה תרד מהמגרש? - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Rc2lTcW1HM1cydE5SWkZDTHB5UVBRck5haW9zY2ZmWWNfdWNwaVh5bk9WT2dkMG9idllZUjNUWjRBTHhRcnR3OXVMd2JuMGFGWUpYRkRCU0gyY2ZqQ2J4Uk5sTGVTTnE1?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Rc2lTcW1HM1cydE5SWkZDTHB5UVBRck5haW9zY2ZmWWNfdWNwaVh5bk9WT2dkMG9idllZUjNUWjRBTHhRcnR3OXVMd2JuMGFGWUpYRkRCU0gyY2ZqQ2J4Uk5sTGVTTnE1?oc=5\" target=\"_blank\">לשחק בלי מסי: מה יקרה לכלכלת ישראל אם אנבידיה תרד מהמגרש?</a>&nbsp;",
-  "date": "2026-11-20T05:00:00.000Z",
-  "fetched": "2026-11-20T05:33:21.337Z",
-  "fromCloud": "2026-11-20T0533.json"
- },
- {
-  "id": "b817f9fe22898c18",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "סיכום השבוע: חמש הכתבות שהכי אהבתם בכלכליסט - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YbTRMek9pLV9Oal9Kd1l2YTFJb3YtNWQ2VW5sQnQ2Z0NseGl2OTllbXBkNTFrRklCNWhYZy1BaHZ0YUVhd1k5WUt6RFBiZ3A1bTVPaXRRd2lIQ2tSczU2bTRKbXJublJx?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YbTRMek9pLV9Oal9Kd1l2YTFJb3YtNWQ2VW5sQnQ2Z0NseGl2OTllbXBkNTFrRklCNWhYZy1BaHZ0YUVhd1k5WUt6RFBiZ3A1bTVPaXRRd2lIQ2tSczU2bTRKbXJublJx?oc=5\" target=\"_blank\">סיכום השבוע: חמש הכתבות שהכי אהבתם בכלכליסט</a>&nbsp;&nbsp;<font co",
-  "date": "2026-11-20T05:00:00.000Z",
-  "fetched": "2026-11-20T08:03:24.263Z",
-  "fromCloud": "2026-11-20T0803.json"
- },
- {
-  "id": "6c60b4b4a300d2d9",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הרכבת במענה לרשות החברות: \"אין לנו בעיית נזילות\" - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMaElicGlEZy1tbVJvNUJzTWJuZXVfcVRkNWo5MTBRclgzV2pPMjdNYmppT0ozSVFEWkpWRDdZbU5RakxWUWpGbVB4cUVadDdFbVZ0V0t1Zm5pblg5QkxaRVhMQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMaElicGlEZy1tbVJvNUJzTWJuZXVfcVRkNWo5MTBRclgzV2pPMjdNYmppT0ozSVFEWkpWRDdZbU5RakxWUWpGbVB4cUVadDdFbVZ0V0t1Zm5pblg5QkxaRVhMQQ?oc=5\" target=\"_blank\">הרכבת במענה לרשות החברות: \"אין לנו בעיית נזילות\"</a>&nbsp;&nbsp;<font col",
-  "date": "2026-11-20T04:55:00.000Z",
-  "fetched": "2026-11-20T05:33:21.337Z",
-  "fromCloud": "2026-11-20T0533.json"
- },
- {
-  "id": "a450b56b1a06bb9e",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "גבר תבע את זוגתו לשעבר: \"גרמה לי נזק נפשי\"",
-  "link": "https://www.ynet.co.il/economy/article/sypa77o0zg",
-  "summary": "האב טוען שמצבו נובע מחשיפה לאלימות שהפעילה כלפי ילדיהם. המחוזי אפשר לפסיכיאטר לבחון תמונות, הקלטות וסרטונים שעשויים להשפיע על מסקנותיו",
-  "date": "2026-11-20T04:53:54.000Z",
-  "fetched": "2026-11-20T05:03:13.126Z",
-  "fromCloud": "2026-11-20T0503.json"
- },
- {
-  "id": "4b5b53e94cf2ef38",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "פרשת אנבידיה: מי מפקח על האיש שכולם סומכים עליו?",
-  "link": "https://www.ynet.co.il/economy/article/r1o1mqocfx",
-  "summary": "ג'נסן הואנג הפך לפנים של החברה, אבל כשהמייסד הנערץ מסתבך, הדירקטוריון נדרש להוכיח שהוא מסוגל לפקח גם עליו | על האחריות שמאחורי ההצלחה",
-  "date": "2026-11-20T04:53:21.000Z",
-  "fetched": "2026-11-20T05:03:13.126Z",
-  "fromCloud": "2026-11-20T0503.json"
- },
- {
-  "id": "0f950f5c5d24c9ab",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "בפנים לימוזינה בחוץ חללית: המכונית שרק מחכה לתחרות מסין",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001564182#utm_source=RSS",
-  "summary": "מכונית הסאלון ההיברידית החדשה של לקסוס מציעה מרווח פנים של לימוזינה, חיסכון בדלק, בידוד מצוין ולראשונה גם עיצוב נועז שפונה לקהל יעד חדש &#8226; מעבר לפינה יחכו לה המתחרות מסין",
-  "date": "2026-11-20T04:45:00.000Z",
-  "fetched": "2026-11-20T05:03:13.126Z",
-  "fromCloud": "2026-11-20T0503.json"
- },
- {
-  "id": "aafc9da7113cd918",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "סלקום - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZblYwVFF2bjBTNXBBdFEyVk1NMEtVOFNQS3hTWWFQUFJLeFcweldxWVlkLUNmVTFyMGZ3U3lpVmV0SnFhQmN4SjVFd0VQbTd2TE1fQmpsa3RyQTFiRG5XXw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZblYwVFF2bjBTNXBBdFEyVk1NMEtVOFNQS3hTWWFQUFJLeFcweldxWVlkLUNmVTFyMGZ3U3lpVmV0SnFhQmN4SjVFd0VQbTd2TE1fQmpsa3RyQTFiRG5XXw?oc=5\" target=\"_blank\">סלקום</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
-  "date": "2026-11-20T04:44:30.000Z",
-  "fetched": "2026-11-20T11:03:11.942Z",
-  "fromCloud": "2026-11-20T1103.json"
- },
- {
-  "id": "148a734732c84f8e",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "האימפריה של עומר אדם כבר שווה מיליארדים: הנדל\"ן, הקמעונאות ומה הוא מתכנן לרשת זאפה",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001564174#utm_source=RSS",
-  "summary": "עסקי הנדל\"ן של הזמר ומשפחתו, הכוללים מרכזים מסחריים, בנייני מגורים ובתי מלון ברחבי הארץ, הגיעו לשווי של יותר מחצי מיליארד דולר &#8226; גלובס חושף את מתיחת הפנים המתוכננת של המשפחה במועדוני ההופעות של רשת זאפה, כולל מעבר לכשרות שיוביל לסגירה בשבת &#8226; אדם לא עוצר גם בתחום הטכנו",
-  "date": "2026-11-20T04:43:00.000Z",
-  "fetched": "2026-11-20T05:03:13.126Z",
-  "fromCloud": "2026-11-20T0503.json"
- },
- {
-  "id": "3ad8f4f72e1b0426",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "גורם ישראלי: מחכים לטראמפ, גוברים הסיכויים לפעולה באיראן",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001564305#utm_source=RSS",
-  "summary": "טראמפ עדיין לא קיבל החלטה סופית באשר למערכה נגד איראן, ובישראל ממתינים לו במוכנות גבוהה &bull; לפי מקורות מערביים, ראש המוסד הציג לאמריקנים מידע על קידום תוכנית הגרעין &#8226; עדכונים שוטפים",
-  "date": "2026-11-20T04:36:00.000Z",
-  "fetched": "2026-11-20T05:03:13.126Z",
-  "fromCloud": "2026-11-20T0503.json"
- },
- {
-  "id": "93269e7a2141a481",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Teciem appoints Jesús Rueda Molins as CFO to support growth strategy - IBS Intelligence",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGhYMHkwUDU3VlhKM005djZCMnhCaWJXNUgwclRrMU92eDRIaHJWbV85ek5LZ3B6eURVUFRUd0RYYTFTQkxrMDdpdUgyOXhuNWRQRHA4cEpzTURrR3lyYTJMOVl2ZFlORzdmYTV2dzdwTW1QVW05bWowaEd0cG9EYWR1S003WWQ2VHluMnNfYldKN05nQ0VSeFFZMDREN1Mwd2hPMU51TE1CeDg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGhYMHkwUDU3VlhKM005djZCMnhCaWJXNUgwclRrMU92eDRIaHJWbV85ek5LZ3B6eURVUFRUd0RYYTFTQkxrMDdpdUgyOXhuNWRQRHA4cEpzTURrR3lyYTJMOVl2ZFlORzdmYTV2dzdwTW1QVW05bWowaEd0cG9EYWR1S003WWQ2VHluMnNfYldKN05nQ0VSeFFZMDREN1Mwd2hPMU51TE1CeD",
-  "date": "2026-11-20T04:34:53.000Z",
-  "fetched": "2026-11-20T05:03:13.126Z",
-  "fromCloud": "2026-11-20T0503.json"
  }
 ]
