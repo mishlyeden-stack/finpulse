@@ -1,5 +1,49 @@
 [
  {
+  "id": "19c749275015cb3e",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "אחרי הסערה שחוללה OpenAI: חוקר אנתרופיק טוען לפריצות דרך היסטוריות במתמטיקה",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564319#utm_source=RSS",
+  "summary": "המתמטיקאי לוונט אלפוגה, חוקר באנתרופיק, טוען כי הצליח להוכיח בעזרת קלוד את השערת רימן, שנותרה ללא פתרון מאז 1859 &#8226; שעות לאחר מכן פרסם, יחד עם פרופ' טריסטן באקמאסטר מאוניברסיטת ניו יורק, הוכחה לבעיה מתמטית נוספת שעמדה לאחרונה במרכז סערה סביב OpenAI &#8226; פתרון של כל אחת מה",
+  "date": "2026-11-21T12:30:00.000Z",
+  "fetched": "2026-11-21T12:33:12.536Z",
+  "fromCloud": "2026-11-21T1233.json"
+ },
+ {
+  "id": "6231e48f3bee97e2",
+  "source": "SecurityWeek",
+  "group": "industry",
+  "title": "Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day",
+  "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+  "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
+  "date": "2026-11-21T12:08:50.000Z",
+  "fetched": "2026-11-21T12:33:12.536Z",
+  "fromCloud": "2026-11-21T1233.json"
+ },
+ {
+  "id": "4749a04829b91000",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
+  "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+  "summary": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
+  "date": "2026-11-21T12:00:08.000Z",
+  "fetched": "2026-11-21T12:33:12.536Z",
+  "fromCloud": "2026-11-21T1233.json"
+ },
+ {
+  "id": "29e1e1ebf7c53b8e",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Traders start to move US copper to China as Trump tariff fears ease",
+  "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+  "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
+  "date": "2026-11-21T12:00:08.000Z",
+  "fetched": "2026-11-21T12:33:12.536Z",
+  "fromCloud": "2026-11-21T1233.json"
+ },
+ {
   "id": "77255295200c4ab3",
   "source": "CNBC Business",
   "group": "global-press",
@@ -581,6 +625,17 @@
   "date": "2026-11-21T06:43:51.000Z",
   "fetched": "2026-11-21T07:03:17.726Z",
   "fromCloud": "2026-11-21T0703.json"
+ },
+ {
+  "id": "e2493ac476cd7b53",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "SoftBank’s Son Considered $1 Trillion Acquisition of SK Hynix - bloomingbit",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55UENpN3lJNDJUeUxYWHR6Y0I4cUdoZnJpRkNFS1Z3Qkt1RGIxSk56V3Yzd2Mxd1dsdHpuNTVyYzV4bTNfVXZKUXM4T0JwLTlfVnJtRA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE55UENpN3lJNDJUeUxYWHR6Y0I4cUdoZnJpRkNFS1Z3Qkt1RGIxSk56V3Yzd2Mxd1dsdHpuNTVyYzV4bTNfVXZKUXM4T0JwLTlfVnJtRA?oc=5\" target=\"_blank\">SoftBank’s Son Considered $1 Trillion Acquisition of SK Hynix</a>&nbsp;&nbsp;<font color=\"#6f",
+  "date": "2026-11-21T06:38:31.000Z",
+  "fetched": "2026-11-21T12:33:12.536Z",
+  "fromCloud": "2026-11-21T1233.json"
  },
  {
   "id": "c2e051075ec2344d",
@@ -5707,181 +5762,5 @@
   "date": "2026-11-20T12:34:13.000Z",
   "fetched": "2026-11-20T13:03:11.820Z",
   "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "26171bbe56f71a2d",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Phinia names Gordon Muir as CFO as Chris Gropp retires - StreetInsider",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzJpQmFELWc3eG5uS2VEX0loNU4wcVdQdlc1RDlVQXM1QnpMTlh2Mjl6TU1SVlFtelhNekJxWTVhUVdpSmM2aHJDLVZ6bTZHUDNLRTNmUmVBV0dPV3EzeFNVRVp3NWNoVy1PZFZKdkxNNmU4T19HV1BkRnM5V296ckdvRjN4ajZOSGQ1SVU4b3lYaDNWVmp3SUdqNmdDY3M0RkJzb2owdkd0WldxLTFtQ2hCcw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzJpQmFELWc3eG5uS2VEX0loNU4wcVdQdlc1RDlVQXM1QnpMTlh2Mjl6TU1SVlFtelhNekJxWTVhUVdpSmM2aHJDLVZ6bTZHUDNLRTNmUmVBV0dPV3EzeFNVRVp3NWNoVy1PZFZKdkxNNmU4T19HV1BkRnM5V296ckdvRjN4ajZOSGQ1SVU4b3lYaDNWVmp3SUdqNmdDY3M0RkJzb2owdkd0Wl",
-  "date": "2026-11-20T12:31:36.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "e9603f3295342789",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "כלי ה-AI כותבים את הקוד, וחלק מהמתכנתים מתגעגעים לבאג שלקח שבועות לפתור - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFT2RyVUJHbl9QS2ZVb0RuOG5GN2t5cEFLRU9ocHdBZDhVMHhubTFQODdDdDdlVWhNX09hUXhocXNDRWxVQXh5eEl2ZWFiMlFRT0w2WjJtLXE5Q1AzOGRfUWY3VEpUaUU?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFT2RyVUJHbl9QS2ZVb0RuOG5GN2t5cEFLRU9ocHdBZDhVMHhubTFQODdDdDdlVWhNX09hUXhocXNDRWxVQXh5eEl2ZWFiMlFRT0w2WjJtLXE5Q1AzOGRfUWY3VEpUaUU?oc=5\" target=\"_blank\">כלי ה-AI כותבים את הקוד, וחלק מהמתכנתים מתגעגעים לבאג שלקח שבועות לפ",
-  "date": "2026-11-20T12:31:00.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "05be93f7037ead3e",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Blackstone Private Credit Fund (0001803498) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1803498/000180349826000066/0001803498-26-000066-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001803498-26-000066 <b>Size:</b> 164 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure <br>Item 8.01: Other Events",
-  "date": "2026-11-20T12:30:25.000Z",
-  "fetched": "2026-11-20T12:33:21.351Z",
-  "fromCloud": "2026-11-20T1233.json"
- },
- {
-  "id": "e5686086cbeb9b5c",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "סתיו חם מדי לגאפ: התחזית קוצצה, והמשקיעים מסתכלים על אולד נייבי - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWU5CVnFYU19kY2hyZFhBaUhyWXVyNGE0VnBJNURMUGxKOVgzbEkwUDQtM0JhMGFGaW9YYW1lY2Rsc3BLZUFDZmhXNXc4cmd6M0d1ZzRYUkNQdzk0Ynh1SW5famt0U1dwMmduaXcyZ20?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWU5CVnFYU19kY2hyZFhBaUhyWXVyNGE0VnBJNURMUGxKOVgzbEkwUDQtM0JhMGFGaW9YYW1lY2Rsc3BLZUFDZmhXNXc4cmd6M0d1ZzRYUkNQdzk0Ynh1SW5famt0U1dwMmduaXcyZ20?oc=5\" target=\"_blank\">סתיו חם מדי לגאפ: התחזית קוצצה, והמשקיעים מסתכלים על אול",
-  "date": "2026-11-20T12:30:00.000Z",
-  "fetched": "2026-11-20T19:03:12.132Z",
-  "fromCloud": "2026-11-20T1903.json"
- },
- {
-  "id": "d64a3ee3adcb1728",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "שלום חתוקה - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzVFS0kzZHBkZFFVNkdoRUlROVd3SFJNSnpxYndWQjdKRWxDbGdrd3FJekRETlVPanpJQlJEZkZISHZvUkE0OUxEdVZDaWRSQ1ViZjFoMGk5VnUwU0xRVnUzVXV4SWlSQVRtSG83bi1pRUgxS2ZVMDA0cEt4dThST3hfbnFHNC1USkZjWEhnTWlRZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzVFS0kzZHBkZFFVNkdoRUlROVd3SFJNSnpxYndWQjdKRWxDbGdrd3FJekRETlVPanpJQlJEZkZISHZvUkE0OUxEdVZDaWRSQ1ViZjFoMGk5VnUwU0xRVnUzVXV4SWlSQVRtSG83bi1pRUgxS2ZVMDA0cEt4dThST3hfbnFHNC1USkZjWEhnTWlRZw?oc=5\" target=\"_blank\">שלום חתוק",
-  "date": "2026-11-20T12:29:58.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "4f78b8154fc21b1b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Needham downgrades Bill.com stock rating to hold on acquisition - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMW1ZZzlRbTBlQl9FZWV4T3VybHhwV2ZveEFNTmxjZXFkS3FrczdqRlpBX2g4LW5rWjY1WDlHdzZQd29xX0Y1Z3k2azdtU045ako2UkZyam15SWd0WkJyN1I3STl3R0NWRGgwQ29vOV9ReHdhTlJfVjNCYnk3M3pUWTNpUGhzMG1ETnRFN19CaGFuVkNKbDJqSTh4cHpHeERxT1JwYTctQ3c0dGZUcmtVcTk0NGV1ZnlncnRRc1Ztbw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMW1ZZzlRbTBlQl9FZWV4T3VybHhwV2ZveEFNTmxjZXFkS3FrczdqRlpBX2g4LW5rWjY1WDlHdzZQd29xX0Y1Z3k2azdtU045ako2UkZyam15SWd0WkJyN1I3STl3R0NWRGgwQ29vOV9ReHdhTlJfVjNCYnk3M3pUWTNpUGhzMG1ETnRFN19CaGFuVkNKbDJqSTh4cHpHeERxT1JwYTctQ3c0dG",
-  "date": "2026-11-20T12:25:58.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "924fcff5c709bc1c",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "הדולר טיפס ל-3.33 שקל, עלייה של כ-3.6% בשבוע, ובנק ישראל מחליט ביום שני - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFVnVYRnBLLWxkVFpZWHB2QkRVYmZlbXpmNXg2TmlGOWhobWNwRk9pT0w2RjJfdzFJUE5tSlExbk80UV8ycTZqX1d4U3paTGtPTmtTWm1ia0FWQzgtRG9BMEp4VWp6UQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFVnVYRnBLLWxkVFpZWHB2QkRVYmZlbXpmNXg2TmlGOWhobWNwRk9pT0w2RjJfdzFJUE5tSlExbk80UV8ycTZqX1d4U3paTGtPTmtTWm1ia0FWQzgtRG9BMEp4VWp6UQ?oc=5\" target=\"_blank\">הדולר טיפס ל-3.33 שקל, עלייה של כ-3.6% בשבוע, ובנק ישראל מחליט ביום ש",
-  "date": "2026-11-20T12:24:00.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "f89353e5023e03e0",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ארקיע מחזירה את מרקש ללוח הטיסות, הפעם במטוסים שבבעלותה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16R3BFR0o1THNDTHJ6VW5wS1RlWTc0alJGa1Nxc1FDazJfOFRyX09xcEE2bXgxcjlzellObUJ4VW9lM29ZT1F0TjV4VWpuQXR3RElra01BOWliM3gwWU9MWWZJc0J6MlBybkE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE16R3BFR0o1THNDTHJ6VW5wS1RlWTc0alJGa1Nxc1FDazJfOFRyX09xcEE2bXgxcjlzellObUJ4VW9lM29ZT1F0TjV4VWpuQXR3RElra01BOWliM3gwWU9MWWZJc0J6MlBybkE?oc=5\" target=\"_blank\">ארקיע מחזירה את מרקש ללוח הטיסות, הפעם במטוסים שבבעלותה</a>&nbsp",
-  "date": "2026-11-20T12:22:00.000Z",
-  "fetched": "2026-11-20T18:33:12.204Z",
-  "fromCloud": "2026-11-20T1833.json"
- },
- {
-  "id": "1f1158bca1cb5d97",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מניית אנתרופיק יורדת בכ-9% לפני יום המסחר השני, אך עדיין מעל מחיר ההנפקה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sX3ZuZDNhX19WcXVlODdVWmIyamhJSGozSVNLaEhQQXBBY1Q2SFNadURycXF1eHJfbzRic3hGOXA0SlZwTkpKNjR6T0gySVI0RHU1SUt2a0JmQ0t1NmZhQ0NoVjJiek9samxhN0YxRko?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9sX3ZuZDNhX19WcXVlODdVWmIyamhJSGozSVNLaEhQQXBBY1Q2SFNadURycXF1eHJfbzRic3hGOXA0SlZwTkpKNjR6T0gySVI0RHU1SUt2a0JmQ0t1NmZhQ0NoVjJiek9samxhN0YxRko?oc=5\" target=\"_blank\">מניית אנתרופיק יורדת בכ-9% לפני יום המסחר השני, אך עדיין",
-  "date": "2026-11-20T12:21:00.000Z",
-  "fetched": "2026-11-20T14:03:12.005Z",
-  "fromCloud": "2026-11-20T1403.json"
- },
- {
-  "id": "935bf8a1945876cb",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "המשטרה התרשלה במרדף - ותשלם 200 אלף שקל לחברת ביטוח - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UNXlNc3V2WmdLbGJvdUpMaEdfaTI0YlJTS3pqZnRvb2tlT0Y5aURaQUZyUzR1dThqZ3AwbzZiOFVGMWVQazh0RWpYUlZUTWdMZUdQb1BrRlVIREtNUFZUc1hRdGplNEhi?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UNXlNc3V2WmdLbGJvdUpMaEdfaTI0YlJTS3pqZnRvb2tlT0Y5aURaQUZyUzR1dThqZ3AwbzZiOFVGMWVQazh0RWpYUlZUTWdMZUdQb1BrRlVIREtNUFZUc1hRdGplNEhi?oc=5\" target=\"_blank\">המשטרה התרשלה במרדף - ותשלם 200 אלף שקל לחברת ביטוח</a>&nbsp;&nbsp;",
-  "date": "2026-11-20T12:20:00.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "883da41506448823",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "H2O.ai’s CFO Hire Signals an IPO-Ready Sovereign AI Play - The Futurum Group",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZkF1WjhsWWVLNlFxRkZ0cTRPUXdBbVg1Mm84dkhORWtELTkwblpMelB2bmY5RExTVDJhT3NlUElEWGRucGw3WTlqbi1hMGhVQ1hHMDE3cEVhUnV6QjVXZEZZaG1zcXBLMm03aGtsbzBJV1NtalZLYnFSVFV3MElEcWU4S0s3eThrLTBrQTM4RUNIY0k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZkF1WjhsWWVLNlFxRkZ0cTRPUXdBbVg1Mm84dkhORWtELTkwblpMelB2bmY5RExTVDJhT3NlUElEWGRucGw3WTlqbi1hMGhVQ1hHMDE3cEVhUnV6QjVXZEZZaG1zcXBLMm03aGtsbzBJV1NtalZLYnFSVFV3MElEcWU4S0s3eThrLTBrQTM4RUNIY0k?oc=5\" target=\"_blank\">H2O.ai’s",
-  "date": "2026-11-20T12:12:46.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "d356480c21b2fb17",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Aclarion (ACON) CFO Gould bought 3,388 shares for $4,879 at $1.44 - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEw5bWhZZHJWUDZsdVBfQmdlVmJ4VzdDdG1tWVFLZFhwQzZOb0FwWVBOelhvMnVkcUNqeEdTOXhydG96bTZoQ0ZWMzJoLUtxZTlTWEpvR3FIRlNPVTVvLUZVd3BJUEVWQlVyWDdDQnRlbEtEdFExMXoyX29lNndRY0RMNkdkVDd6MU5MdDY3UGFMUnZWRXRnVVoyTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEw5bWhZZHJWUDZsdVBfQmdlVmJ4VzdDdG1tWVFLZFhwQzZOb0FwWVBOelhvMnVkcUNqeEdTOXhydG96bTZoQ0ZWMzJoLUtxZTlTWEpvR3FIRlNPVTVvLUZVd3BJUEVWQlVyWDdDQnRlbEtEdFExMXoyX29lNndRY0RMNkdkVDd6MU5MdDY3UGFMUnZWRXRnVVoyTQ?oc=5\" target=\"_blan",
-  "date": "2026-11-20T12:10:07.000Z",
-  "fetched": "2026-11-20T15:03:12.959Z",
-  "fromCloud": "2026-11-20T1503.json"
- },
- {
-  "id": "ee1af4c380afaf4c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "FLSmidth Strengthens Southern African Presence with CE Africa Acquisition - EME Outlook Magazine",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON2RJMEd1TlUzMV9QYUE4allyTXhIbll1WFRqdU1uS2RzRExILWZzMWtpMjdMbVg2emxraEVQRllMMTg0RU04VjAycEpzOXM1ZDJleDVnOExnN0MxZGVIeWk4QnY1TWt0dTR1QVlIMWVHelg2ZGVJQ0JzdURoWlRnbVhodzRUNURDc0t5bXZxMDFiUFluZXl3OTNyOUJCZjktQWFNUTlkc1dzX3lWRjVzWXhMYV92Sy1sQTFOcUl3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxON2RJMEd1TlUzMV9QYUE4allyTXhIbll1WFRqdU1uS2RzRExILWZzMWtpMjdMbVg2emxraEVQRllMMTg0RU04VjAycEpzOXM1ZDJleDVnOExnN0MxZGVIeWk4QnY1TWt0dTR1QVlIMWVHelg2ZGVJQ0JzdURoWlRnbVhodzRUNURDc0t5bXZxMDFiUFluZXl3OTNyOUJCZjktQWFNUTlkc1dzX3",
-  "date": "2026-11-20T12:08:55.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "4640c13fae279298",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "שבוע אדום בבורסה: ת\"א 35 איבד 4.4%, טאואר צנחה 17% והבנקים 6% - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qeWxvWllORUlRT20wSzh1cmoyTE9MZmhYX0cwSlpySmphbFYtbmR2eDZYdnBnRUpKUlNnNE5RVnU0Yk5UY0lCX1BoMFpibEdUdDdjcDZjNXdnMDkyVWVjcFN2ZXdueHpRVXRmVnltR2k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5qeWxvWllORUlRT20wSzh1cmoyTE9MZmhYX0cwSlpySmphbFYtbmR2eDZYdnBnRUpKUlNnNE5RVnU0Yk5UY0lCX1BoMFpibEdUdDdjcDZjNXdnMDkyVWVjcFN2ZXdueHpRVXRmVnltR2k?oc=5\" target=\"_blank\">שבוע אדום בבורסה: ת\"א 35 איבד 4.4%, טאואר צנחה 17% והבנק",
-  "date": "2026-11-20T12:06:00.000Z",
-  "fetched": "2026-11-20T13:03:11.820Z",
-  "fromCloud": "2026-11-20T1303.json"
- },
- {
-  "id": "37912d751404922f",
-  "source": "SEC EDGAR 8-K",
-  "group": "filings",
-  "title": "8-K - Vanda Pharmaceuticals Inc. (0001347178) (Filer)",
-  "link": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026075166/0001628280-26-075166-index.htm",
-  "summary": "<b>Filed:</b> 2026-11-20 <b>AccNo:</b> 0001628280-26-075166 <b>Size:</b> 152 KB <br>Item 1.01: Entry into a Material Definitive Agreement",
-  "date": "2026-11-20T12:05:49.000Z",
-  "fetched": "2026-11-20T12:33:21.351Z",
-  "fromCloud": "2026-11-20T1233.json"
- },
- {
-  "id": "5d8d9ed8d6379506",
-  "source": "AV Network",
-  "group": "industry",
-  "title": "On Audio & AI: Jabra",
-  "link": "https://www.avnetwork.com/news/on-audio-and-ai-jabra",
-  "summary": "Peter Hartmann, Head of Personal Audio Innovation and AI Experiences at Jabra, shares insights and trends on audio developments and how AI integration impacts workplace experiences across enterprise, higher ed, and related markets.",
-  "date": "2026-11-20T12:05:49.000Z",
-  "fetched": "2026-11-20T12:33:21.351Z",
-  "fromCloud": "2026-11-20T1233.json"
  }
 ]
