@@ -1,19 +1,5 @@
 [
  {
-  "key": "בנק ישראל | בחינת צעדים נגד מבצעי קבלנים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794119737412,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארקיע | משבר דילול עובדים + איום שביתה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794119737412,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Ingredion | רכישה עם סיכון downside — ניתוח סינרגיה מול תמחור | נובמבר 2026",
   "level": "learn",
   "first": 1794123304318,
@@ -4042,6 +4028,20 @@
   "key": "אמזון | רכישת Decart ב-7.5 מיליארד דולר — אתגר לאנבידיה בשבבי AI | נובמבר 2026",
   "level": "yellow",
   "first": 1795329308086,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט Azure | צמיחת ענן שיא אבל FCF מתכווץ | נובמבר 2026",
+  "level": "learn",
+  "first": 1795331065322,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | מוסדיים ישראלים מתפצלים על המפולת — פניקה או הזדמנות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795331065322,
   "sentLive": false,
   "candidate": true
  }
