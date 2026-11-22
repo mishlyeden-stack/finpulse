@@ -1,5 +1,38 @@
 [
  {
+  "id": "3e1749154047b85e",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "\"זה אבסורד, יש עיוות בתמחור\": מדוע וולמארט נחשבת יקרה יותר מאנבידיה - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeENqWUhRWVktMnR4dXkwUGhRRTlUS0tSVHBNVjBPaXZwWkhmM3lVa0hGaExFUnI4emg1VXZvTDVrRUdMMFZ4bEdLUF9tMXBvalplbnFvU1ZNQUxvTWV5NF9PU0FrN3hKZVlPUFJtVzdSdmE5eExWMmNnUko1U3pVUWFEdG80U3g3RERsa3N0bXJZWDFhbGFHTmRTMm9wek44V0VrQWdR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOeENqWUhRWVktMnR4dXkwUGhRRTlUS0tSVHBNVjBPaXZwWkhmM3lVa0hGaExFUnI4emg1VXZvTDVrRUdMMFZ4bEdLUF9tMXBvalplbnFvU1ZNQUxvTWV5NF9PU0FrN3hKZVlPUFJtVzdSdmE5eExWMmNnUko1U3pVUWFEdG80U3g3RERsa3N0bXJZWDFhbGFHTmRTMm9wek44V0VrQWdR?oc=5\"",
+  "date": "2026-11-22T19:18:00.000Z",
+  "fetched": "2026-11-22T19:29:22.926Z",
+  "fromCloud": "2026-11-22T1929.json"
+ },
+ {
+  "id": "53a153e143241508",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "NVIDIA’s Q3 free cash flow doubles to $43.8 billion; receivables up 111% - Trend News Agency",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlczQ4c19hWHB2STRhTmVYeGFOaWZSTnlfZFI5Wk9yOVhnb0JPYzA5WU9jMWEtWkdPaVB0NURpUGY0OHIzZmF0WTY5MDFDZ3Jw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlczQ4c19hWHB2STRhTmVYeGFOaWZSTnlfZFI5Wk9yOVhnb0JPYzA5WU9jMWEtWkdPaVB0NURpUGY0OHIzZmF0WTY5MDFDZ3Jw?oc=5\" target=\"_blank\">NVIDIA’s Q3 free cash flow doubles to $43.8 billion; receivables up 111%</a>&nbsp;&nbsp;<font color",
+  "date": "2026-11-22T19:16:00.000Z",
+  "fetched": "2026-11-22T19:29:22.926Z",
+  "fromCloud": "2026-11-22T1929.json"
+ },
+ {
+  "id": "1a95d364d7b5dc87",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "עוד הסתבכות בדרך להרחבת דוראד: שתא\"א בוחנת מכרז על הקרקע של תחנת הכוח - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnhtbUM4NlcxWjF1NzN0WjhFeHd5WW1sOWt1RFA3Wk9XZ3dqRUVRR0pmaEpoaXpjbGRMWm1aN2NfOUhqY25CTGFIRkdmVmpfSGlKazM5dWt1Y29ENGxPbHhTam5EYWtTZGNwZlhfLVNLRXhxY3ZHT0tNTWZ0ZnNSVm8xbmZNdDh4VWlscUYyZE5nU2lJeWRTZDMzQ3FlanFmYV9FQ1VsQ2s?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnhtbUM4NlcxWjF1NzN0WjhFeHd5WW1sOWt1RFA3Wk9XZ3dqRUVRR0pmaEpoaXpjbGRMWm1aN2NfOUhqY25CTGFIRkdmVmpfSGlKazM5dWt1Y29ENGxPbHhTam5EYWtTZGNwZlhfLVNLRXhxY3ZHT0tNTWZ0ZnNSVm8xbmZNdDh4VWlscUYyZE5nU2lJeWRTZDMzQ3FlanFmYV9FQ1VsQ2s?oc",
+  "date": "2026-11-22T18:58:00.000Z",
+  "fetched": "2026-11-22T19:29:22.926Z",
+  "fromCloud": "2026-11-22T1929.json"
+ },
+ {
   "id": "0376011051b5e905",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -174,6 +207,17 @@
   "date": "2026-11-22T18:07:23.000Z",
   "fetched": "2026-11-22T18:33:11.467Z",
   "fromCloud": "2026-11-22T1833.json"
+ },
+ {
+  "id": "db084e60412a25e9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "ABB completes acquisition of B&R - ABB",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xV1FsOGNRWlNUS1NsYVVzc3dHWUl1cmdfSVphMmFVMmJud0cyVnExdXVXbzJtaGs2ejBPS3BxckpKdUxHcEgyR2pwSHlSd2NUbDV5alJnN3hkWF9aWTF5TUJsWTllV3J2dkltRnFFeUJKcV9LVnFua0tERQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9xV1FsOGNRWlNUS1NsYVVzc3dHWUl1cmdfSVphMmFVMmJud0cyVnExdXVXbzJtaGs2ejBPS3BxckpKdUxHcEgyR2pwSHlSd2NUbDV5alJnN3hkWF9aWTF5TUJsWTllV3J2dkltRnFFeUJKcV9LVnFua0tERQ?oc=5\" target=\"_blank\">ABB completes acquisition of B&R</a>&nbsp",
+  "date": "2026-11-22T18:04:51.000Z",
+  "fetched": "2026-11-22T19:29:22.926Z",
+  "fromCloud": "2026-11-22T1929.json"
  },
  {
   "id": "dc7d5bda6a5fc089",
