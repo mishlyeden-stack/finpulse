@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 199
+  "blocked": 200
  },
  "en.globes.co.il": {
   "ok": 55,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 268
+  "blocked": 269
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,19 +33,19 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 114
+  "blocked": 115
  },
  "silicon.co.uk": {
   "ok": 1,
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 37,
+  "ok": 38,
   "blocked": 47
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 159
+  "blocked": 160
  },
  "ecb.europa.eu": {
   "ok": 7,
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 31,
-  "blocked": 61
+  "blocked": 62
  },
  "funder.co.il": {
   "ok": 0,
