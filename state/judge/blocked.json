@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 288,
+  "ok": 290,
   "blocked": 5
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 198
+  "blocked": 199
  },
  "en.globes.co.il": {
   "ok": 53,
@@ -24,7 +24,7 @@
   "blocked": 1
  },
  "ad-hoc-news.de": {
-  "ok": 11,
+  "ok": 12,
   "blocked": 0
  },
  "israeldefense.co.il": {
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 57,
+  "ok": 58,
   "blocked": 1
  },
  "securityweek.com": {
