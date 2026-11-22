@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 286,
+  "ok": 287,
   "blocked": 5
  },
  "calcalist.co.il": {
@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 344,
+  "ok": 345,
   "blocked": 9
  },
  "news.google.com": {
@@ -41,7 +41,7 @@
  },
  "pc.co.il": {
   "ok": 37,
-  "blocked": 45
+  "blocked": 46
  },
  "ft.com": {
   "ok": 0,
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 56,
+  "ok": 57,
   "blocked": 1
  },
  "securityweek.com": {
@@ -830,5 +830,9 @@
  "shattered.io": {
   "ok": 1,
   "blocked": 0
+ },
+ "nonwovens-industry.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
