@@ -1,33 +1,5 @@
 [
  {
-  "key": "רשות המסים | מס על טיסות יוצאות — 1.1 מיליארד שקל בשנה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794143184517,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "כנס גלובס שבבים | אפלייד מטריאלס ומארוול — אין האטה בהזמנות למרות מפולת מניות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794143184517,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Brava Security | גיוס 15 מיליון דולר — סייבר מבוסס סוכני AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794143184517,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שוק ההון ישראל | פאניקה במשקיעים — ׳רק תמכרו׳ | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794143184517,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "גרמניה | רכישת 50% מ-KNDS יצרנית טנקים ב-6.5 מיליארד אירו | נובמבר 2026",
   "level": "yellow",
   "first": 1794148567551,
@@ -4042,6 +4014,41 @@
   "key": "ישראל | זיכוי מס עובדי משמרות — הוארך עד פברואר 2027 | נובמבר 2026",
   "level": "yellow",
   "first": 1795350988859,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פאלו אלטו | מגעים לרכישת Terra Security הישראלית — מעל 500 מיליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795354649076,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | דולר 20% מעל השפל — ניתוח סערה מושלמת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795354649077,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ברידג׳וויז | הנפקה בת״א — פינטק ישראלי עם +419% בהכנסות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795354649077,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ספרד | תנאים למרכזי נתונים מחשש לזינוק 25% בחשמל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795354649077,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מזרח תיכון | מאבק על כבלי אינטרנט, נתונים ו-AI — CTech | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795354649077,
   "sentLive": false,
   "candidate": true
  }
