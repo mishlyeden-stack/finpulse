@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 196
+  "blocked": 197
  },
  "en.globes.co.il": {
   "ok": 53,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 112
+  "blocked": 113
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 156
+  "blocked": 159
  },
  "ecb.europa.eu": {
   "ok": 7,
@@ -834,5 +834,9 @@
  "nonwovens-industry.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "ascendants.in": {
+  "ok": 1,
+  "blocked": 0
  }
 }
