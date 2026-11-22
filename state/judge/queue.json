@@ -2552,6 +2552,17 @@
   "fromCloud": "2026-11-21T1633.json"
  },
  {
+  "id": "e6710d392dbf80b0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Credit Market Turbulence Raises Liquidity and Refinancing Risks for Post Holdings Inc. - TipRanks",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkViaHBWSUR6X0RrMWhlNm1PTnZyVVdod09QTkllM19kQXlOT0pza0lZdHJuVWtFZk1rUV9TTEFJb3dHZU9tdVE0c3FFcEdKRlJwR0lTSE1zRTNFM0lrTHFxV2NhbUJwV3JvMVU3QlhpQUNaa3dmaENEOGllRTRNZVNlSExkeHhwRE1la3R4MmZzSFZKeTUwdjNBSXRzeFdPM2l1RzV6OUlEbld2dG5qcHNQYjQ3YTJzYzlwWmFNYVVEZllFd2x1UUpJZEJUbXFIOHlj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkViaHBWSUR6X0RrMWhlNm1PTnZyVVdod09QTkllM19kQXlOT0pza0lZdHJuVWtFZk1rUV9TTEFJb3dHZU9tdVE0c3FFcEdKRlJwR0lTSE1zRTNFM0lrTHFxV2NhbUJwV3JvMVU3QlhpQUNaa3dmaENEOGllRTRNZVNlSExkeHhwRE1la3R4MmZzSFZKeTUwdjNBSXRzeFdPM2l1RzV6OUlEbl",
+  "date": "2026-11-21T06:15:24.000Z",
+  "fetched": "2026-11-22T03:33:11.507Z",
+  "fromCloud": "2026-11-22T0333.json"
+ },
+ {
   "id": "27e7abe5aa70c5f1",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -3408,38 +3419,5 @@
   "date": "2026-11-21T03:33:36.000Z",
   "fetched": "2026-11-21T06:33:11.605Z",
   "fromCloud": "2026-11-21T0633.json"
- },
- {
-  "id": "223649b66f520a60",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Inventory turnover of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVW1JdUF1WnNoMm9wSEotWi1jMEMwX0RYNUh2V043NHZJYTZ6aDJveUVkcC1XTGZXM21lQ3VkU2tHdUhtS095VTNTYTBPSURVejBnaWZaV1lzLWNBNlk5VHJUMjdBMTFmc3NGUGF4bDJzUGlldjRWcGhSYWtBNFRWSjJ2VTliUGxjSElGdDhXT3JSVTRxdi11QTZVVmR3c0k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPVW1JdUF1WnNoMm9wSEotWi1jMEMwX0RYNUh2V043NHZJYTZ6aDJveUVkcC1XTGZXM21lQ3VkU2tHdUhtS095VTNTYTBPSURVejBnaWZaV1lzLWNBNlk5VHJUMjdBMTFmc3NGUGF4bDJzUGlldjRWcGhSYWtBNFRWSjJ2VTliUGxjSElGdDhXT3JSVTRxdi11QTZVVmR3c0k?oc=5\" target=\"",
-  "date": "2026-11-21T03:32:53.000Z",
-  "fetched": "2026-11-21T21:03:12.119Z",
-  "fromCloud": "2026-11-21T2103.json"
- },
- {
-  "id": "d6d77258ff518153",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Book value per share of First Digital Acquisition Corp Ltd. – NASDAQ:FDGXU - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZQUjV0dEQ3YlowdnU5R3liQnJoREFUZU14enRnMGxMQTZXOFdJT3JiVDJHODdIazFtVTVZMmRBSkxGdjFqR3ViQTFEU1g5THBsS2ZzRlgxcnN2dnhsWE0yMmFCNkhlZ3QtZFBWU2dSVUgyaVRreDFldVV5SE1ub2lqVjRuLUx5Wm80ZDI3dHhTNVcyRDZUN0p3dkROaFJMLWd2Ym93?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVZQUjV0dEQ3YlowdnU5R3liQnJoREFUZU14enRnMGxMQTZXOFdJT3JiVDJHODdIazFtVTVZMmRBSkxGdjFqR3ViQTFEU1g5THBsS2ZzRlgxcnN2dnhsWE0yMmFCNkhlZ3QtZFBWU2dSVUgyaVRreDFldVV5SE1ub2lqVjRuLUx5Wm80ZDI3dHhTNVcyRDZUN0p3dkROaFJMLWd2Ym93?oc=5\"",
-  "date": "2026-11-21T03:32:48.000Z",
-  "fetched": "2026-11-21T21:03:12.119Z",
-  "fromCloud": "2026-11-21T2103.json"
- },
- {
-  "id": "9e833dad3b8c0e81",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Extreme Networks (EXTR) EVP & CFO Kevin Rhodes Sells 21,804 Shar - GuruFocus",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUFoXzJEM3dXOURnQWdiUmxpN0I0LXRfSWluSU1ILVBYMDdKS3I0SkVyQmdnWWszZGpOeWhFcDNrUUQ5SDBrWFhHQW9Lc0lpLUF2MURwS2hkZnVobU54VEhOMDhNSjFmdHNMXzVXOURCTnF6UHVkYjJ5bkloUzFZdTFITHpCbEkySUJBSWl4Vk5XMnNheHhaLTVZQ0w4dVdKZUE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUFoXzJEM3dXOURnQWdiUmxpN0I0LXRfSWluSU1ILVBYMDdKS3I0SkVyQmdnWWszZGpOeWhFcDNrUUQ5SDBrWFhHQW9Lc0lpLUF2MURwS2hkZnVobU54VEhOMDhNSjFmdHNMXzVXOURCTnF6UHVkYjJ5bkloUzFZdTFITHpCbEkySUJBSWl4Vk5XMnNheHhaLTVZQ0w4dVdKZUE?oc=5\" targ",
-  "date": "2026-11-21T03:28:49.000Z",
-  "fetched": "2026-11-22T01:33:11.917Z",
-  "fromCloud": "2026-11-22T0133.json"
  }
 ]
