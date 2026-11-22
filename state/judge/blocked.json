@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 290,
+  "ok": 291,
   "blocked": 5
  },
  "calcalist.co.il": {
@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 346,
+  "ok": 348,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 267
+  "blocked": 268
  },
  "13tv.co.il": {
   "ok": 0,
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 58,
+  "ok": 59,
   "blocked": 1
  },
  "securityweek.com": {
@@ -838,5 +838,9 @@
  "ascendants.in": {
   "ok": 1,
   "blocked": 0
+ },
+ "bilyonaryo.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }
