@@ -1,19 +1,5 @@
 [
  {
-  "key": "קומפוזיט מטריאלס | הקפאת הליכים — ספקית תעשיות ביטחוניות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794139601809,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שפיר–בז״א | דרישת מכירת פעילויות נוספות לצורך שליטה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794139601809,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "רשות המסים | מס על טיסות יוצאות — 1.1 מיליארד שקל בשנה | נובמבר 2026",
   "level": "yellow",
   "first": 1794143184517,
@@ -4028,6 +4014,34 @@
   "key": "אוצר ישראל | הצעה לשלם לרפאל ותע״א ריבית מתוך הדיבידנד שלהן — רשות החברות מתנגדת | נובמבר 2026",
   "level": "yellow",
   "first": 1795343744720,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "STACK Infrastructure | מינוי CFO קבוע לאחר תקופת בחינה — מרכזי נתונים | נובמבר 2026",
+  "level": "learn",
+  "first": 1795350988859,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נאסד״ק | ניתוח ירידות AI — בועה או תיקון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795350988859,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הודו | בדיקת מערכת Suryastra המבוססת על PULS של אלביט — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795350988859,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | זיכוי מס עובדי משמרות — הוארך עד פברואר 2027 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795350988859,
   "sentLive": false,
   "candidate": true
  }
