@@ -1,33 +1,5 @@
 [
  {
-  "key": "בנק אואנו פרגוואי | קריסת בנק דיגיטלי — לקחים לישראל | נובמבר 2026",
-  "level": "learn",
-  "first": 1794132394176,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "לוינשטיין–בנאי | שני מהלכים פיננסיים שיטלטלו שוק ההון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794132394177,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "איה ניו יורק | פירעון אג״ח ועזיבת בורסה אחרי קריסות BVI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794132394177,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "BlueBird Aero Systems | ידיעה / עסקה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794132394177,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ServiceNow | שאפות AI עם היפוך מאזן 9 מיליארד דולר | נובמבר 2026",
   "level": "learn",
   "first": 1794135984798,
@@ -4056,6 +4028,41 @@
   "key": "תעופה עולמית | 2026 — שנה החלשה ביותר בצמיחת נוסעים מאז 2009 | נובמבר 2026",
   "level": "yellow",
   "first": 1795341936575,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וול סטריט | רוטציה מטכנולוגיה לצריכה ותשתיות — פער שלא נראה מאז 2001 | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795343744719,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מקס | רווח שיא 90 מיליון שקל אבל הוצאות גדלות מהר מהכנסות — נובמבר 2026",
+  "level": "learn",
+  "first": 1795343744719,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טאואר | צניחה 21% בשבוע — אנליסטים שומרים על המלצה חיובית | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795343744719,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יוון–ישראל | מגעים לרכישת טילים בליסטיים מיליארד אירו נוסף — לוחמה אלקטרונית ותותחים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795343744720,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוצר ישראל | הצעה לשלם לרפאל ותע״א ריבית מתוך הדיבידנד שלהן — רשות החברות מתנגדת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795343744720,
   "sentLive": false,
   "candidate": true
  }
