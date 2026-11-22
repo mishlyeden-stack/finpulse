@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 281,
+  "ok": 286,
   "blocked": 5
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 194
+  "blocked": 196
  },
  "en.globes.co.il": {
   "ok": 53,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 341,
+  "ok": 344,
   "blocked": 9
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 260
+  "blocked": 267
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 151
+  "blocked": 156
  },
  "ecb.europa.eu": {
   "ok": 7,
@@ -820,6 +820,14 @@
   "blocked": 1
  },
  "cxodigitalpulse.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "zaobao.com.sg": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "shattered.io": {
   "ok": 1,
   "blocked": 0
  }

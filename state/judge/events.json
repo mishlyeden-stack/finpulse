@@ -1,96 +1,5 @@
 [
  {
-  "key": "אמזון–AWS | צמיחה 12% + תזרים חופשי שלילי 42.4 מיליארד דולר | Q3 2026",
-  "level": "learn",
-  "first": 1794111613939,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארה״ב | מדד CPI + דוח תעסוקה חזק — ציפיות ריבית דצמבר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794111613939,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ביג טק | תזרים חופשי צפוי לשפל H1 2027 — capex AI בשיא | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794111613939,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ECB–לגארד | אינפלציה גבוהה תימשך + העלאת ריבית בדצמבר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794111613940,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Five9 | רכישת חברת AI ב-325 מיליון דולר — Contact Center AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794111613940,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סימילרווב | חבילת מנכ״ל חדש — 14.5 מיליון דולר במניות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794111613940,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רשות שוק ההון | ביטול הנחות קצרות בביטוח חיים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794111613940,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "SonicWall | חולשת VPN מנוצלת — עקיפת SAML ו-MFA | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794112535862,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "CISO | אי-אפשר לאשר סוכני AI אחד-אחד — בעיית ממשל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794112535862,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "S&P | דירוג אשראי ישראל A — תחזית יציבה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794112714868,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קרנות גידור | טלטלת שווקים מוחקת ניהול השקעות — גרג קופי וחודש שיא שלילי | נובמבר 2026",
-  "level": "learn",
-  "first": 1794112714868,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "OpenAI CFO | השקעות מרכזי נתונים נמשכות למרות תגובת ציבור | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794112714868,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה–סין | מקורבת למנכ״ל — חשד לריגול | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794112714869,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "סיסקו–אמ״ן | תקלות חמורות במלחמה כמעט ביטלו חוזה 67 מיליון דולר | נובמבר 2026",
   "level": "yellow",
   "first": 1794116137444,
@@ -4070,6 +3979,69 @@
   "key": "ארה״ב | מינוי מנהל סייבר לאומי — Kirsten Davies | נובמבר 2026",
   "level": "yellow",
   "first": 1795321090275,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | חמש צרות חדשות — חקירה, הברחת שבבים, מגבלות יצוא, שחיקת שכר, תחקיר מייסד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795322278099,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שפיר | החלפת רואה חשבון אחרי 11 שנים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795322278099,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טייוואן | בורסה צנחה 17.5% בשבוע — TSMC -4.8%, איסור שורט | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795322278099,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "SoftBank | בחן רכישת SK Hynix — עסקה פוטנציאלית בטריליון דולר | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795322278099,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | יבוא רכב מסין חוזר דרך סואץ — יבואניות נערכות לרובוטים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795322278099,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | נאסד״ק -10% בשבוע — פאניקה במניות AI ושבבים | נובמבר 2026",
+  "level": "red",
+  "first": 1795322498264,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "שינטרקו | חדלות פירעון — 225 מיליון חוב ומעילה נטענת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795322498264,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Meta | CFO Wehner עוזב ל-Fireworks — יציאה לסטארט-אפ AI | נובמבר 2026",
+  "level": "learn",
+  "first": 1795322498264,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "איטליה | שביתה כללית — אינפלציה 5.5% ושכר נשחק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795322498264,
   "sentLive": false,
   "candidate": true
  }
