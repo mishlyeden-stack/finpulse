@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 280
+  "blocked": 281
  },
  "13tv.co.il": {
   "ok": 0,
@@ -337,7 +337,7 @@
  },
  "israelhayom.co.il": {
   "ok": 0,
-  "blocked": 4
+  "blocked": 5
  },
  "fedscoop.com": {
   "ok": 1,
