@@ -1,19 +1,5 @@
 [
  {
-  "key": "ישראל | גירעון אוקטובר 3.3% תוצר — הוצאות ביטחון +9.9% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794226051671,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "חן גולן | צבר יתמלא מהר + הגל הכחול לא ישנה מגמה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794226051671,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Shield–Echodyne | רכישה 5.3 מיליארד דולר + גיוס 2.5 מיליארד | נובמבר 2026",
   "level": "yellow",
   "first": 1794229568796,
@@ -4049,6 +4035,34 @@
   "key": "עשות | צבר 2.5 מיליארד שקל, רווח נקי +19% | נובמבר 2026",
   "level": "yellow",
   "first": 1795432010313,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | SAP NetWeaver — ניצול פגיעות בשרת הארגוני",
+  "level": "yellow",
+  "first": 1795435571487,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Rocket Lab CFO | תמחור דינמי כשהיצע מתחרה מתכווץ — נובמבר 2026",
+  "level": "learn",
+  "first": 1795435571487,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קבוצת דלק | שדרוג דירוג ל-A עם תחזית חיובית — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795435730387,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בג״ץ | אישור התראות עיקול של רשות המיסים — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795435730387,
   "sentLive": false,
   "candidate": true
  }

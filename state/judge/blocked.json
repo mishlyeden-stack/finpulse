@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 373,
+  "ok": 375,
   "blocked": 10
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 281
+  "blocked": 282
  },
  "13tv.co.il": {
   "ok": 0,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 166
+  "blocked": 168
  },
  "ecb.europa.eu": {
   "ok": 7,
@@ -56,20 +56,20 @@
   "blocked": 1
  },
  "securityweek.com": {
-  "ok": 89,
+  "ok": 90,
   "blocked": 0
  },
  "ice.co.il": {
   "ok": 12,
-  "blocked": 8
+  "blocked": 9
  },
  "datacenterdynamics.com": {
   "ok": 31,
-  "blocked": 63
+  "blocked": 64
  },
  "funder.co.il": {
   "ok": 0,
-  "blocked": 19
+  "blocked": 20
  },
  "calcalistech.com": {
   "ok": 86,
@@ -149,7 +149,7 @@
  },
  "tradingview.com": {
   "ok": 7,
-  "blocked": 13
+  "blocked": 14
  },
  "govconwire.com": {
   "ok": 0,
@@ -160,7 +160,7 @@
   "blocked": 1
  },
  "avnetwork.com": {
-  "ok": 7,
+  "ok": 8,
   "blocked": 0
  },
  "prnewswire.com": {
@@ -424,7 +424,7 @@
   "blocked": 1
  },
  "finance.biggo.com": {
-  "ok": 5,
+  "ok": 6,
   "blocked": 0
  },
  "inc.com": {
