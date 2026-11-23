@@ -1,12 +1,5 @@
 [
  {
-  "key": "סופטבנק–ABB רובוטיקה | עסקת רכישה נתקלת במכשול סין | נובמבר 2026",
-  "level": "learn",
-  "first": 1794211545667,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "DeepMind | סוכני AI מוזילים תקיפות על מפתחות RSA-1024 | נובמבר 2026",
   "level": "yellow",
   "first": 1794215163428,
@@ -4049,6 +4042,20 @@
   "key": "וואן טכנולוגיות | רכישת חברת המחשוב של פימי ב-358 מיליון שקל | נובמבר 2026",
   "level": "yellow",
   "first": 1795417482055,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וואן טכנולוגיות | רכישת Peax Solutions מפימי — פרטים נוספים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795422887501,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "גולדמן זאקס | נקודת כניסה אחרי פאניקה — שני מוקשים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795422887501,
   "sentLive": false,
   "candidate": true
  }
