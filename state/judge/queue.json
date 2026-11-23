@@ -1,5 +1,115 @@
 [
  {
+  "id": "a9b32f01a78a00a3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - GRAPHIC PACKAGING HOLDING CO (0001408075) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526472429/0001193125-26-472429-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0001193125-26-472429 <b>Size:</b> 172 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-11-23T21:30:15.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
+  "id": "cf24d1c6f935a43e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CITIUS ONCOLOGY, INC. (0001851484) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026123209/0001213900-26-123209-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0001213900-26-123209 <b>Size:</b> 233 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-23T21:30:13.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
+  "id": "431af99dfe0f61f7",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Citius Pharmaceuticals, Inc. (0001506251) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026123210/0001213900-26-123210-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0001213900-26-123210 <b>Size:</b> 232 KB <br>Item 2.02: Results of Operations and Financial Condition <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-23T21:30:13.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
+  "id": "7a25a79eaef64caa",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Walt Disney CFO transition: Woodford retires, Haskett to take over - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGpEUnU2TkNDRnFPUl9Dam00RHkxSDJIdkQ3enQ4Xy1YWHlyQTVJNXlVUmh0SFpGNklRbDN3Yjlhd3lSRHhTMHFIYmZyM0Z4SFlnbEs0VkRwaDlicFRydnRMc0V5NFNxM3l4cl9kb0dlbGotOHIxamhfcGxCeUl3YXMwLTVTM3NBSHppYzlzQTU2U3llTGRFc2x4dFJnS3Z1TDdQZUtUN2stLVZLWG1YWnJjd193UDNGN3FiODJ1VkFxbVZCbUdNaA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGpEUnU2TkNDRnFPUl9Dam00RHkxSDJIdkQ3enQ4Xy1YWHlyQTVJNXlVUmh0SFpGNklRbDN3Yjlhd3lSRHhTMHFIYmZyM0Z4SFlnbEs0VkRwaDlicFRydnRMc0V5NFNxM3l4cl9kb0dlbGotOHIxamhfcGxCeUl3YXMwLTVTM3NBSHppYzlzQTU2U3llTGRFc2x4dFJnS3Z1TDdQZUtUN2stLV",
+  "date": "2026-11-23T21:29:43.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
+  "id": "f997628bec088da1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "TVA: Texas Ventures Acquisition III Corp filed SEC Form 8-K: Entry... - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWNsOWVNVmxIdHV2MlJuQUlDQThLeUZ5VXVUaGxTQ1lDWTZlNzlEX0VjdHV1cTRDVTBleFhjcmZ0R05TQW5fTi1ZaXZoYkVTUW40UGZwZ0tEeG9zVWZfWGl6S0VqV0M3T2JFQjdjVm85bWE1Vm40c2IwS1gzODMwU2FiWWQ3R3J4N0ZOSENDcEROWUJuMDYxb0Zfa3QzcDNp?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWNsOWVNVmxIdHV2MlJuQUlDQThLeUZ5VXVUaGxTQ1lDWTZlNzlEX0VjdHV1cTRDVTBleFhjcmZ0R05TQW5fTi1ZaXZoYkVTUW40UGZwZ0tEeG9zVWZfWGl6S0VqV0M3T2JFQjdjVm85bWE1Vm40c2IwS1gzODMwU2FiWWQ3R3J4N0ZOSENDcEROWUJuMDYxb0Zfa3QzcDNp?oc=5\" target=",
+  "date": "2026-11-23T21:26:08.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
+  "id": "16dca50cdca3538f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - CALIFORNIA WATER SERVICE GROUP (0001035201) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1035201/000110465926131084/0001104659-26-131084-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0001104659-26-131084 <b>Size:</b> 1 MB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-23T21:20:33.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
+  "id": "6db38328173efdb0",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - BRISTOL MYERS SQUIBB CO (0000014272) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/14272/000114036126045300/0001140361-26-045300-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0001140361-26-045300 <b>Size:</b> 271 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-11-23T21:20:20.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
+  "id": "de4461d8cfd96a99",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Fidelity National Financial CEO Mike Nolan and CFO Tony Park to Speak at the KBW 2026 Title Insurance Day - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMWRnejdHTGh3Mlh2SF9qdFZiZkNkODh4clU5RXZPajA2d1ZvQTVsMVd3cFMtWnltcHg5cW9kZlZhSmhENmpnN2E5UzZlS3doUURCeWZqVlNIcHhMb1VaQlE2TWdBNHdiVXFlejU2Sk14Q1B6NEVpVFVIeFJwTTg3QmItenpIZ2J4MTgzUi1NMmsycFFMRHhkSHU5WHlDc3VoRHNXRjhENExJaExKWFlsUTRaU1FDSXd5Ukw1M0YzVHBUakE1WW5LeE51N3Q2aUZqWjNBMU1jZTh2a2o1d3Z1OTdPeXdINDlJeHU0NDU4VHlnZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMWRnejdHTGh3Mlh2SF9qdFZiZkNkODh4clU5RXZPajA2d1ZvQTVsMVd3cFMtWnltcHg5cW9kZlZhSmhENmpnN2E5UzZlS3doUURCeWZqVlNIcHhMb1VaQlE2TWdBNHdiVXFlejU2Sk14Q1B6NEVpVFVIeFJwTTg3QmItenpIZ2J4MTgzUi1NMmsycFFMRHhkSHU5WHlDc3VoRHNXRjhENExJaE",
+  "date": "2026-11-23T21:16:29.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
+  "id": "74716038ad36c35f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "With Jensen Huang back as CEO, Nvidia’s SEC probe puts CFO Colette Kress in the spotlight - Fortune",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDcwM2MtTV9ZNlI1MzUyQk5FOUltRENGUmlvb2JiVzJSRUlKT2xwZUJSZmczV1dtV2hZSTdiTjYzQUQ0YWYzOWxOekZsaHhCal9QWVZlRzhVa2dCUlMwclE4OXM2c0tIZDM4R0JZbGdUQ3JOeWpFcFZmRGJUQWJDN3l5ZDUyMThyVVpEdlpENDlaVERsVjZZbUEzZ3dweFl1ajhVX1dOQTk1cmZaSEFXd1BB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDcwM2MtTV9ZNlI1MzUyQk5FOUltRENGUmlvb2JiVzJSRUlKT2xwZUJSZmczV1dtV2hZSTdiTjYzQUQ0YWYzOWxOekZsaHhCal9QWVZlRzhVa2dCUlMwclE4OXM2c0tIZDM4R0JZbGdUQ3JOeWpFcFZmRGJUQWJDN3l5ZDUyMThyVVpEdlpENDlaVERsVjZZbUEzZ3dweFl1ajhVX1dOQTk1cm",
+  "date": "2026-11-23T21:14:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
+  "id": "60589fee9f7d3f62",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Local Bounti Reports Third Quarter 2026 Financial Results and Highlights Pending Acquisition of Revol Greens' Certified Organic Greenhouse Facilities in Texas and Minnesota - PR Newswire",
+  "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOUHRYdXM1MmxBTGlScGhaa0tENWRRaEpPSWUzRjBLZjFDa1VyNFBXZ2dmS3ViYl9SdTZQTHhlTHJGMUdsdnBuS3VVRDhjRGo3dGpibnYyeUpCZzRpbG03U1lDVEs5WEpyZE55ZU1kOHVJcGFiakhidk5TZ3lNaDBwRkFxeFk0OEVyT2NoY2RkWTJMR29nSFBKQ0VJSGFtdEN1Y2VJYVRualUtVEU5YWFfeE50MjVlbmhYN0NxbHN3ZVVEVzBkcG82SmE2OVRCXzlidGlpc0RJUmR0OXEwcXlHQ1pOWWRPTm50bEgtVlJmQ3N3YVBEdld6RGN2UmFmdW5PVVNrdEs3Q0hYWTVqd1JJWjF1Si1nbW82R3RFR19HdjNkUU90ZG0zZ1Nnc3licmFlU2RRcVA0eGV1a0tfQW5ReE5uaEdZbElvRTdV?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxOUHRYdXM1MmxBTGlScGhaa0tENWRRaEpPSWUzRjBLZjFDa1VyNFBXZ2dmS3ViYl9SdTZQTHhlTHJGMUdsdnBuS3VVRDhjRGo3dGpibnYyeUpCZzRpbG03U1lDVEs5WEpyZE55ZU1kOHVJcGFiakhidk5TZ3lNaDBwRkFxeFk0OEVyT2NoY2RkWTJMR29nSFBKQ0VJSGFtdEN1Y2VJYVRualUtVE",
+  "date": "2026-11-23T21:05:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "f4d917004d056a4a",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -55,6 +165,17 @@
   "fromCloud": "2026-11-23T2103.json"
  },
  {
+  "id": "a0cad3494b612cb4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Clariant confirms talks regarding a potential acquisition of Ashland - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWRvR0ZwTVJwaGtsM2xEbzhDTkJMdG1BSkwwNHk3bFhqdy0tcml3T2UwVlA4cTVEOWE2LXVfWnJUWkQ2VXd5RVh3eVhhRHN3WWhWb3RhY2xxQ2hxaGFPVFc0bHhQX3E1aDBaT3ByRGx3aDB1ekl5RnlEVWItRjZHMGhUWEozS003cTlOQXBycGl3RGFLd1E4RUdnclhBaGtDLW9YYXEtZ0lxNDlN?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWRvR0ZwTVJwaGtsM2xEbzhDTkJMdG1BSkwwNHk3bFhqdy0tcml3T2UwVlA4cTVEOWE2LXVfWnJUWkQ2VXd5RVh3eVhhRHN3WWhWb3RhY2xxQ2hxaGFPVFc0bHhQX3E1aDBaT3ByRGx3aDB1ekl5RnlEVWItRjZHMGhUWEozS003cTlOQXBycGl3RGFLd1E4RUdnclhBaGtDLW9YYXEtZ0lxND",
+  "date": "2026-11-23T21:00:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "426b13bd44a6ac55",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -64,6 +185,17 @@
   "date": "2026-11-23T20:50:14.000Z",
   "fetched": "2026-11-23T21:03:24.579Z",
   "fromCloud": "2026-11-23T2103.json"
+ },
+ {
+  "id": "d41df56cefffefd9",
+  "source": "CFO Dive",
+  "group": "cfo",
+  "title": "Business activity cools due to inflation but persists above trend: S&P",
+  "link": "https://www.cfodive.com/news/business-activity-cools-inflation-persists-trend-sp-economy-gda/875544/",
+  "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/T_dxIwQ1Vb9rh-p8XzE22sBdhCtsKquaQqBUeiB9xkA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDEwNjQ1OTk4LmpwZw==.webp\"/></div></figure><p>&ldquo;Both consumer spending and business investment ",
+  "date": "2026-11-23T20:46:50.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
  },
  {
   "id": "3252c9c485841802",
@@ -110,6 +242,17 @@
   "fromCloud": "2026-11-23T2103.json"
  },
  {
+  "id": "1de119a059a8a909",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "קת'י ווד מכרה מניות אנבידיה ב-107 מיליון דולר - רגע לפני הזינוק של 32% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZZlVUUm9LTF83MHJtNGZFSFNZSlJVOTNydFlZdWozVWF4elBwQW9QQzJBdFdweTUxUTAtc1B1QzhEeXZYUjVMU0pCWXJRcVRtSlNjVkdRcGo4VDNTQjFWZEM1ZFEtTm1adWVSb0pWc3U?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZZlVUUm9LTF83MHJtNGZFSFNZSlJVOTNydFlZdWozVWF4elBwQW9QQzJBdFdweTUxUTAtc1B1QzhEeXZYUjVMU0pCWXJRcVRtSlNjVkdRcGo4VDNTQjFWZEM1ZFEtTm1adWVSb0pWc3U?oc=5\" target=\"_blank\">קת'י ווד מכרה מניות אנבידיה ב-107 מיליון דולר - רגע לפני",
+  "date": "2026-11-23T20:39:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "d139586ee6ca88f5",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -143,6 +286,17 @@
   "fromCloud": "2026-11-23T2033.json"
  },
  {
+  "id": "2647099036cf71d3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Lilly Enters Huntington’s Field with LoQus23 Acquisition - Inside Precision Medicine",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQy1XTkJ1OW81QW5XT3BlOC1lUDlSWnRlLUFQVmFndmFJUWhoUC0yVHBHdE4tWHNRZzZtQkx2aHo0VnAxSjAtTElFUDdEeDFEcExadjBfQV91Y1pGb2paVFV0Sm1vZVBDcFBXeGltbkdNZVVNcU1lNkU4MWxXRVdVTjhybVlqcUNpeVJlQnlubjdlSmlNcU1DQ2l6emVmb0dOaVNfMHlNaDduVjZPdm1CMlY2UUJ1WFliU014MUNnOA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQy1XTkJ1OW81QW5XT3BlOC1lUDlSWnRlLUFQVmFndmFJUWhoUC0yVHBHdE4tWHNRZzZtQkx2aHo0VnAxSjAtTElFUDdEeDFEcExadjBfQV91Y1pGb2paVFV0Sm1vZVBDcFBXeGltbkdNZVVNcU1lNkU4MWxXRVdVTjhybVlqcUNpeVJlQnlubjdlSmlNcU1DQ2l6emVmb0dOaVNfMHlNaDduVj",
+  "date": "2026-11-23T20:28:50.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "115304cd8ad72667",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -174,6 +328,17 @@
   "date": "2026-11-23T20:24:13.000Z",
   "fetched": "2026-11-23T20:33:13.102Z",
   "fromCloud": "2026-11-23T2033.json"
+ },
+ {
+  "id": "e8ef8940a662d6d8",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "רחפן של אירו סנטינל טס 16 ק\"מ בכיוון אחד בלי אנטנות חיצוניות - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00VlFMNV95dXdncEUzTXowZVVGS3pLWVd5aWtLcU9XbDdCNzcxZDNqYWVWZXFFNE9XcElQcGNzckFxNUhvUzdhb3hBR0JHbTl1ZVkwNTR6Wkp5Wjd6WTZaY3pndjJDczZ4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE00VlFMNV95dXdncEUzTXowZVVGS3pLWVd5aWtLcU9XbDdCNzcxZDNqYWVWZXFFNE9XcElQcGNzckFxNUhvUzdhb3hBR0JHbTl1ZVkwNTR6Wkp5Wjd6WTZaY3pndjJDczZ4?oc=5\" target=\"_blank\">רחפן של אירו סנטינל טס 16 ק\"מ בכיוון אחד בלי אנטנות חיצוניות</a>&nb",
+  "date": "2026-11-23T20:22:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
  },
  {
   "id": "f8ac79d34b94544d",
@@ -242,6 +407,17 @@
   "fromCloud": "2026-11-23T2021.json"
  },
  {
+  "id": "314a2467f4deba8e",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "BTIG: הראלי בוול סטריט הגיע ליעד, וה-S&P 500 צפוי לחזור לרדת - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6R2pKaGVsMFpvVk1GdktTczE5QWZrRWNwRUJ1T3BKM0Fubkl1VUVpQ1pNZ2dGMmhHV1dqUERvclBYVmctb1pmQmdieHBCMldXcXZjMkJPTURnY0E2OS1JcmgxWlBwd21jOXRFWlVfZW4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB6R2pKaGVsMFpvVk1GdktTczE5QWZrRWNwRUJ1T3BKM0Fubkl1VUVpQ1pNZ2dGMmhHV1dqUERvclBYVmctb1pmQmdieHBCMldXcXZjMkJPTURnY0E2OS1JcmgxWlBwd21jOXRFWlVfZW4?oc=5\" target=\"_blank\">BTIG: הראלי בוול סטריט הגיע ליעד, וה-S&P 500 צפוי לחזור ",
+  "date": "2026-11-23T20:07:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "fc72f5a572c8a8ac",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -295,6 +471,17 @@
   "date": "2026-11-23T19:49:23.000Z",
   "fetched": "2026-11-23T20:03:13.400Z",
   "fromCloud": "2026-11-23T2003.json"
+ },
+ {
+  "id": "0f64b9187766dab9",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "למה האיחוד האירופי פתח בחקירה נגד הבקבוקנית הגדולה של קוקה-קולה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0ck8xWWNmN1R6a25adUNuZVdWMkRCNlM4LThCbzM5QUNlNzJjR0FBeWFyWjQ0TmF5LUlUOXJvdGMxR3VUTnNDY0tDc2ZuN2EzWFRSLXdka0dKUm14WGNGX1RFbUJ1b3ljZEE0QjM4X2E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0ck8xWWNmN1R6a25adUNuZVdWMkRCNlM4LThCbzM5QUNlNzJjR0FBeWFyWjQ0TmF5LUlUOXJvdGMxR3VUTnNDY0tDc2ZuN2EzWFRSLXdka0dKUm14WGNGX1RFbUJ1b3ljZEE0QjM4X2E?oc=5\" target=\"_blank\">למה האיחוד האירופי פתח בחקירה נגד הבקבוקנית הגדולה של קו",
+  "date": "2026-11-23T19:47:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
  },
  {
   "id": "42835eb15c158cec",
@@ -374,6 +561,17 @@
   "fromCloud": "2026-11-23T2021.json"
  },
  {
+  "id": "7d7bb12421bbe245",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מכה ל-BYD באירופה: בית משפט אסר למכור את ה-Ti7 בשל הדמיון לדיפנדר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91Q2dXR0t2X1hlQ0lFc3VhMGpvTjJYVngwbjFxckFNRVA4SGJabm52ZXdDUlc1M3JxbG9wMFRyN29iZ2JETzJBbWhQSUtYOUFfZmVQeDJmbU9UVTlURTMwRVRINi1FZ2xYRDhZQ201OVA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE91Q2dXR0t2X1hlQ0lFc3VhMGpvTjJYVngwbjFxckFNRVA4SGJabm52ZXdDUlc1M3JxbG9wMFRyN29iZ2JETzJBbWhQSUtYOUFfZmVQeDJmbU9UVTlURTMwRVRINi1FZ2xYRDhZQ201OVA?oc=5\" target=\"_blank\">מכה ל-BYD באירופה: בית משפט אסר למכור את ה-Ti7 בשל הדמיו",
+  "date": "2026-11-23T19:37:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "dfc8881e24cd977e",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -383,6 +581,17 @@
   "date": "2026-11-23T19:27:53.000Z",
   "fetched": "2026-11-23T19:33:13.059Z",
   "fromCloud": "2026-11-23T1933.json"
+ },
+ {
+  "id": "c6424b80c337b04f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Smith & Nephew Names Nick Alexos as New CFO - Medical Device and Diagnostic industry",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDdlSVFQa2NaYmp3ZlMwdWJMNDY0RmRQY2wwQ3pXdDBCOFVjT0I3ZFpDREdSOGhrdmJpeU9QNUFxU2pNUHNPdVhsemNrbjdKZkw4Yk9vaVVIbDdPajA3SWRsQXdleUVRbE1pVV95UXJNN0J3UjNzZGxxMzBKbEREeG1ZblRDd29ZanJfdEh4cW9hOGlPUlNZdDlVSDFPVEEt?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDdlSVFQa2NaYmp3ZlMwdWJMNDY0RmRQY2wwQ3pXdDBCOFVjT0I3ZFpDREdSOGhrdmJpeU9QNUFxU2pNUHNPdVhsemNrbjdKZkw4Yk9vaVVIbDdPajA3SWRsQXdleUVRbE1pVV95UXJNN0J3UjNzZGxxMzBKbEREeG1ZblRDd29ZanJfdEh4cW9hOGlPUlNZdDlVSDFPVEEt?oc=5\" target=",
+  "date": "2026-11-23T19:21:32.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
  },
  {
   "id": "e3084e50fce12ee1",
@@ -449,6 +658,17 @@
   "date": "2026-11-23T19:06:10.000Z",
   "fetched": "2026-11-23T19:33:13.059Z",
   "fromCloud": "2026-11-23T1933.json"
+ },
+ {
+  "id": "0b347b2a40d0f5c0",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "טראמפ מעריך שסין תקנה עוד 250 מטוסי בואינג, אף ש-200 טרם הוזמנו - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Sc3ZPa0l1UXV2SFVLWjZ2dUQ4RVZtSERmbUVQRDdULXVvMHc3OWdvd3NOcTRjUWVEaWEyN2VlS21sM1JGNndNaGR1Z2llQU1UYjZ4YTE3VWpWSHQ2TV9YT20zYzNoMHZjOEk4M0xxcTg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9Sc3ZPa0l1UXV2SFVLWjZ2dUQ4RVZtSERmbUVQRDdULXVvMHc3OWdvd3NOcTRjUWVEaWEyN2VlS21sM1JGNndNaGR1Z2llQU1UYjZ4YTE3VWpWSHQ2TV9YT20zYzNoMHZjOEk4M0xxcTg?oc=5\" target=\"_blank\">טראמפ מעריך שסין תקנה עוד 250 מטוסי בואינג, אף ש-200 טרם",
+  "date": "2026-11-23T19:05:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
  },
  {
   "id": "9570acb273e4bcfb",
@@ -891,6 +1111,17 @@
   "fromCloud": "2026-11-23T1903.json"
  },
  {
+  "id": "36fa1bde5e39b637",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "דל מזנקת ב-22% לקראת הדוחות: ההכנסות צפויות לזנק ב-82% בזכות שרתי ה-AI - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmSEVaTWRla1lCMkZTUVVwODJPZlZMY0dfRlVsdWdCNEdkVEZkQUtoZ2NXTE9FZkhmNENnY3pYeWZFNkFfa3FkUjM4VklUNFgtakUzWWFKWXBoQWpFTlB3My1ueVpmeV9QeHlGX3VxeW8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBmSEVaTWRla1lCMkZTUVVwODJPZlZMY0dfRlVsdWdCNEdkVEZkQUtoZ2NXTE9FZkhmNENnY3pYeWZFNkFfa3FkUjM4VklUNFgtakUzWWFKWXBoQWpFTlB3My1ueVpmeV9QeHlGX3VxeW8?oc=5\" target=\"_blank\">דל מזנקת ב-22% לקראת הדוחות: ההכנסות צפויות לזנק ב-82% ב",
+  "date": "2026-11-23T17:44:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "02bfd6eb9513ac05",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -1252,6 +1483,17 @@
   "date": "2026-11-23T17:00:00.000Z",
   "fetched": "2026-11-23T17:03:11.728Z",
   "fromCloud": "2026-11-23T1703.json"
+ },
+ {
+  "id": "73dcc5cbcc0b75b6",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אפלייד דיגיטל מזנקת ב-24%: חוזה חדש של 5.4 מיליארד דולר לתשתיות AI - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWldtanhpbmhwd3F3ZDZfZVJ2ZG5WVFZMTkRtT01tOEZnRzJaUUhqUXBBN01JOWhuem14N3dXT3c5QXVleXZkdC1ITDFQaVh5OXFYWWFlMTlRcG9WaGpkNk0tUVZUQXVVSnRfMGVOUWo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWldtanhpbmhwd3F3ZDZfZVJ2ZG5WVFZMTkRtT01tOEZnRzJaUUhqUXBBN01JOWhuem14N3dXT3c5QXVleXZkdC1ITDFQaVh5OXFYWWFlMTlRcG9WaGpkNk0tUVZUQXVVSnRfMGVOUWo?oc=5\" target=\"_blank\">אפלייד דיגיטל מזנקת ב-24%: חוזה חדש של 5.4 מיליארד דולר ",
+  "date": "2026-11-23T17:00:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
  },
  {
   "id": "aa14451c1e492a85",
@@ -3311,6 +3553,17 @@
   "fromCloud": "2026-11-23T1503.json"
  },
  {
+  "id": "b0f3d6209a2fe51c",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מאסק מדבר על סטארלינק בכל טסלה, ומניית ספייסאקס מזנקת על רקע תקוות למיזוג - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10V0xRc2MwSURRS3djYWRtV0FFcUN6VEpHdlRYV25lbkRBcWc0NGlha3JUUTVxTE9CbFQ4OWxMc3dHSklhejNHRm1YZnBoT1dsblN3WjJYekJRbF9xNUk5RDI0X2ZOME9vQXVnaWhNR00?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE10V0xRc2MwSURRS3djYWRtV0FFcUN6VEpHdlRYV25lbkRBcWc0NGlha3JUUTVxTE9CbFQ4OWxMc3dHSklhejNHRm1YZnBoT1dsblN3WjJYekJRbF9xNUk5RDI0X2ZOME9vQXVnaWhNR00?oc=5\" target=\"_blank\">מאסק מדבר על סטארלינק בכל טסלה, ומניית ספייסאקס מזנקת על",
+  "date": "2026-11-23T13:25:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "41085ca8b8cd5d05",
   "source": "Financial Times",
   "group": "global-press",
@@ -3410,6 +3663,17 @@
   "fromCloud": "2026-11-23T1703.json"
  },
  {
+  "id": "97de62d804bc5b60",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "סופית: שחל תשלם 28.9 מיליון שקל לחיים ואורנה פרלוק - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tcmpNSDVaRVFKWmJoWnI0NHNIY0lzT0ZuQTY2LXhLbzgwOHNJb3JMbXBBV2dPR2UyUHBvX3VCRXBCTll4QWRfSFBzaFY1c05Ea1NYVFBTUi02azVaQlowQXVicU1oMk0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tcmpNSDVaRVFKWmJoWnI0NHNIY0lzT0ZuQTY2LXhLbzgwOHNJb3JMbXBBV2dPR2UyUHBvX3VCRXBCTll4QWRfSFBzaFY1c05Ea1NYVFBTUi02azVaQlowQXVicU1oMk0?oc=5\" target=\"_blank\">סופית: שחל תשלם 28.9 מיליון שקל לחיים ואורנה פרלוק</a>&nbsp;&nbsp;<f",
+  "date": "2026-11-23T12:39:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "5f3ca0c8c99c2858",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -3465,6 +3729,17 @@
   "fromCloud": "2026-11-23T1803.json"
  },
  {
+  "id": "087a75ed7e199bee",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "\"רב הנעלם על הגלוי, כל אחד מהצדדים מבקש לגלות טפל ולכסות טפחיים\" - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RUDZ4SF9URXVGNUZ1NXZiaG93Nkc3ZWF1T3VQX05QUXI0OWVyZXoxU1F6QXpOWVZtNURWNjVIQkdwaE50TlR4emx3NUd2MlNxNFhDYWNaZVM4WnlkVW1tMHlhbGlUWGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RUDZ4SF9URXVGNUZ1NXZiaG93Nkc3ZWF1T3VQX05QUXI0OWVyZXoxU1F6QXpOWVZtNURWNjVIQkdwaE50TlR4emx3NUd2MlNxNFhDYWNaZVM4WnlkVW1tMHlhbGlUWGc?oc=5\" target=\"_blank\">\"רב הנעלם על הגלוי, כל אחד מהצדדים מבקש לגלות טפל ולכסות טפחיים\"</a>",
+  "date": "2026-11-23T11:24:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
+ },
+ {
   "id": "b97f011153aae362",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -3518,6 +3793,17 @@
   "date": "2026-11-23T11:00:00.000Z",
   "fetched": "2026-11-23T15:33:15.268Z",
   "fromCloud": "2026-11-23T1533.json"
+ },
+ {
+  "id": "d00b700aa16c8599",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "וילסון ממורגן סטנלי הכי שורי מאז אפריל: הנפילה בוול סטריט היא הזדמנות קנייה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44SVZOU1hLTmhLQ05VZVVXTUZmeDNHNUR0bjI3T0t5djdnbTl0c05pRklTX2Y2VTRuVlpxcjRQUVJaNnk4UFo2LXJZbmNnM0d2MUl6S19teWJIekJpWVpkMm0wLTRDN29MT2tZTTItSk4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE44SVZOU1hLTmhLQ05VZVVXTUZmeDNHNUR0bjI3T0t5djdnbTl0c05pRklTX2Y2VTRuVlpxcjRQUVJaNnk4UFo2LXJZbmNnM0d2MUl6S19teWJIekJpWVpkMm0wLTRDN29MT2tZTTItSk4?oc=5\" target=\"_blank\">וילסון ממורגן סטנלי הכי שורי מאז אפריל: הנפילה בוול סטרי",
+  "date": "2026-11-23T10:59:00.000Z",
+  "fetched": "2026-11-23T21:33:16.107Z",
+  "fromCloud": "2026-11-23T2133.json"
  },
  {
   "id": "0df61052b58b9b8d",
