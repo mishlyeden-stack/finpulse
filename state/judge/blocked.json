@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 303,
+  "ok": 304,
   "blocked": 5
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 203
+  "blocked": 204
  },
  "en.globes.co.il": {
   "ok": 56,
@@ -856,6 +856,10 @@
   "blocked": 1
  },
  "magdilim.co.il": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "satelliteprome.com": {
   "ok": 0,
   "blocked": 1
  }
