@@ -1,5 +1,236 @@
 [
  {
+  "id": "a7635f3f404d0c16",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "אחרי שגייסה 100 מיליון דולר: עובדים בלידספייס מבקשים למנות נאמן זמני לחברה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9za1AyOFI4NUJPZTNvejVCbnN2TFFLR2xmLTd6SWZINmdEaFVqUDlUNTVvWVMzUmhhQWFoZ2thaFU5NmJqOTg2V1VHTmFhZkJTZjUwWmpJdUJXZ1MwSmNuWElrcVFfVHV2?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9za1AyOFI4NUJPZTNvejVCbnN2TFFLR2xmLTd6SWZINmdEaFVqUDlUNTVvWVMzUmhhQWFoZ2thaFU5NmJqOTg2V1VHTmFhZkJTZjUwWmpJdUJXZ1MwSmNuWElrcVFfVHV2?oc=5\" target=\"_blank\">אחרי שגייסה 100 מיליון דולר: עובדים בלידספייס מבקשים למנות נאמן זמנ",
+  "date": "2026-11-23T14:59:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "e8baaa866714d523",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Revive Infrastructure Group Acquires West Pacific Drilling Assets in Sixth Acquisition - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUtCMUJ0RVZ4NWlXR05Ud3FxTlYyMV82U2VTVDFpNVh5bXBtY092QmNneG5fOFctamZBRENTZXBQYnJsQ3BqcmVINWdjbzBXd2RyYm9CYlQ5UkZ2LTFGUzZmcld3RWU4MXFVVTk0N2gwekpfOHQ0QU1lZHNwT25YbUpEU3Ayb0lCUnhNSEs3VUhnWk5xMDNTM0pDeXFEZGx2bHhyejhvVjhBaHV0cFFVc2kyVFhSU1F0Q0FFenMxOUtZT2c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUtCMUJ0RVZ4NWlXR05Ud3FxTlYyMV82U2VTVDFpNVh5bXBtY092QmNneG5fOFctamZBRENTZXBQYnJsQ3BqcmVINWdjbzBXd2RyYm9CYlQ5UkZ2LTFGUzZmcld3RWU4MXFVVTk0N2gwekpfOHQ0QU1lZHNwT25YbUpEU3Ayb0lCUnhNSEs3VUhnWk5xMDNTM0pDeXFEZGx2bHhyejhvVjhBaH",
+  "date": "2026-11-23T14:57:45.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "6a3f3cdd37675e4a",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Edge to core: Fiber infrastructure for distributed AI growth and the retrofit challenge",
+  "link": "https://www.datacenterdynamics.com/en/whitepapers/edge-to-core-fiber-infrastructure-for-distributed-ai-growth-and-the-retrofit-challenge/",
+  "summary": "<p data-block-key=\"rsil6\">How to plan fiber for training, inference and the edge together, and decide when to retrofit or build new</p>",
+  "date": "2026-11-23T14:56:38.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "07524a1022d64971",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Lufthansa Cargo continues its growth planning the acquisition of Fiege Air Cargo Logistics (FACL) in Frankfurt - American Journal of Transportation",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLVVUMDFhZ29SZ2ZURkVXX0tQQUVNVGZyVDQwa1JUcVdRaUxSeWpSMlNJTE5MekN4NTM4Mld0eFl0bmZZSGpUbzJpN2dZYlk5OUtQZUducmtuTTJPVXdvWERROUEzWng4OFMxaWhvX2l1eG4zR3V4T2lpU1ZOWDRYeEFQVlQ3bmdWOEdOV0VxcFJFY2tTUW53U2xxWXJvWkdkMy1lUmItRVgwSXlNNUtXckdRWUhHdkYyVlh4Q3lhOXY1M09lMGxaZzFhbUhkLTJwajBPeGc5QXd6cm01VXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLVVUMDFhZ29SZ2ZURkVXX0tQQUVNVGZyVDQwa1JUcVdRaUxSeWpSMlNJTE5MekN4NTM4Mld0eFl0bmZZSGpUbzJpN2dZYlk5OUtQZUducmtuTTJPVXdvWERROUEzWng4OFMxaWhvX2l1eG4zR3V4T2lpU1ZOWDRYeEFQVlQ3bmdWOEdOV0VxcFJFY2tTUW53U2xxWXJvWkdkMy1lUmItRVgwSX",
+  "date": "2026-11-23T14:54:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "10c76942d00487b2",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - SOUTH DAKOTA SOYBEAN PROCESSORS LLC (0001163609) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1163609/000116360926000027/0001163609-26-000027-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0001163609-26-000027 <b>Size:</b> 152 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
+  "date": "2026-11-23T14:52:18.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "8e634fd5f19a7995",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "תע\"א מזהירה: החוב של המדינה עלול לפגוע בייצור הביטחוני בישראל",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564521#utm_source=RSS",
+  "summary": "במכתב שעליו חתום יו\"ר התעשייה האווירית בועז לוי, הדירקטוריון דורש מהממשלה מתווה לתשלום חובותיה בסך 6.5 מיליארד שקל, \"מגובה במקור תקציבי ולוח זמנים ברור למימושו\" &#8226; בנוסף דורשת החברה פיצוי על עלויות המימון שנגרמו בשל העיכובים בתשלומים &#8226; סך החובות של מערכת הביטחון ליצרני",
+  "date": "2026-11-23T14:50:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "62abe267fb81f43c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CrowdStrike stock outlook after the $44B Zscaler acquisition deal - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdUdJelI1U3c2WEVkVjNFS3ZGUnJINEVHb2dhSnZwd1lxTmJBTEJKVEo2UFdsajVNZGdFeG5lTHdXcWtwNmZQM3dDX0JXSWVqRVZ3TWhKLXc2UGZZRWJqaDJDSXRyWElUajM2SmdCOW1oY3BXZ0RFb01CQmpTRngtX3B2cUdmdFQ1dUR1N1E2WGhablZqMHNDTnNNSVBMR0NYVkpPM2lhRmpiTEhWV2Y3ZEt1UXdVRmFEX1FXanNid1NyaWlr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPdUdJelI1U3c2WEVkVjNFS3ZGUnJINEVHb2dhSnZwd1lxTmJBTEJKVEo2UFdsajVNZGdFeG5lTHdXcWtwNmZQM3dDX0JXSWVqRVZ3TWhKLXc2UGZZRWJqaDJDSXRyWElUajM2SmdCOW1oY3BXZ0RFb01CQmpTRngtX3B2cUdmdFQ1dUR1N1E2WGhablZqMHNDTnNNSVBMR0NYVkpPM2lhRmpiTE",
+  "date": "2026-11-23T14:48:45.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "899f43e1b895a3d7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "STB Grants Exemption for Patriot Rail Acquisition of 95.5 Miles of Illinois Central Track - Railway Age",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ1EtaFRNamZkcHZkNk1wSUgzVGJJU2NSTzA3cG95TzJGMDZIMXZONUZxU2V6UUh0NmVleThzdlBZd2JLZFdmNEdXZTNoRnh0eE1ZS0xEdWVWTDJNTWNzYmhhUUZqR2lKa282bmJmZXQ0aDVvWXJYSEpPTWNUQlJsVDgxd3A0dmFyN25Pb2hZQXNfVU84UkVnXzJaN3hxcVA3Qno0TThIMkJtTkZXUGh0eE5ROGQzSDBuQ3hhRFNjMHVlcktUeUI4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ1EtaFRNamZkcHZkNk1wSUgzVGJJU2NSTzA3cG95TzJGMDZIMXZONUZxU2V6UUh0NmVleThzdlBZd2JLZFdmNEdXZTNoRnh0eE1ZS0xEdWVWTDJNTWNzYmhhUUZqR2lKa282bmJmZXQ0aDVvWXJYSEpPTWNUQlJsVDgxd3A0dmFyN25Pb2hZQXNfVU84UkVnXzJaN3hxcVA3Qno0TThIMkJtTk",
+  "date": "2026-11-23T14:47:50.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "4845afd9cc9dc753",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "רק השתחרר מהצבא ויהפוך למיליארדר בדולרים: המרוויחים מרכישת הענק של אמזון",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564525#utm_source=RSS",
+  "summary": "שלושת מייסדי דקארט - דין לייטרסדורף, אחיו אוריין (שהשתחרר השנה מצה\"ל) ומשה שלו - יקבלו 1.5 מיליארד דולר כל אחד בממוצע בעקבות רכישת החברה ע\"י אמזון &#8226; 100 העובדים יתחלקו ב-450 מיליון דולר - לרבות מפקד 8200 בזמן טבח ה-7 באוקטובר, יוסי שריאל &#8226; וכמה מס תקבל המדינה?",
+  "date": "2026-11-23T14:45:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "ee94125b5e01d8c9",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "בשורה מאכזבת: אין הקלה בתשלומי המשכנתא וההלוואות - אמס",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QRTJEb0xaZ2dVN0NDVU1UaFhoV3oxcEwtRVNRSzBxLTBVem9TUS00UkEyYlhVLUJ6WEUxb2I4dVBUMG5PTGJmeGJaTHJhQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QRTJEb0xaZ2dVN0NDVU1UaFhoV3oxcEwtRVNRSzBxLTBVem9TUS00UkEyYlhVLUJ6WEUxb2I4dVBUMG5PTGJmeGJaTHJhQQ?oc=5\" target=\"_blank\">בשורה מאכזבת: אין הקלה בתשלומי המשכנתא וההלוואות</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</font>",
+  "date": "2026-11-23T14:44:40.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "d1c2a3454c203c41",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Workday Closes C1.ai Acquisition to Expand AI Agent Access Controls - Securities.io",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmZYZkJDZS03NGVMSlNOVmlBMU5UWEt0RExpMXB3YUFjeE01LUotZ3JFa2w1UTJBcWdBcUl4ME5OYWRQUXU0R2FEOFhWbk92bi1NczM3eklJanA4NzYzSkJWVXVkeXZYZjVtZF9Za0ZYa3lmaWxzMHBCTkJneW5qZEUxTXRBaUNuZUJUSFkzWkZ1enJSMnAtRnJR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmZYZkJDZS03NGVMSlNOVmlBMU5UWEt0RExpMXB3YUFjeE01LUotZ3JFa2w1UTJBcWdBcUl4ME5OYWRQUXU0R2FEOFhWbk92bi1NczM3eklJanA4NzYzSkJWVXVkeXZYZjVtZF9Za0ZYa3lmaWxzMHBCTkJneW5qZEUxTXRBaUNuZUJUSFkzWkZ1enJSMnAtRnJR?oc=5\" target=\"_blank\"",
+  "date": "2026-11-23T14:42:01.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "ec917aa577ee0554",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "עדיף ריגול סיני? בשביל הבורסה, אפשר למכור את הביטחון הלאומי - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjN3aUxlb19MX25LMGxkNmRiNWRFZXF5N3kyckJKX25oR2dXUTZFRks0cVd1Q0o0aFdCZlZUY1FmeklvUHUzSjRabWJrU3phSGYtSGdoOE16eWpON2ZxOGw1TUZNR1FkX2hpYko2RFN5UFlHcGtjUlpGYnpaZXZmWU9STXRYbEdyV1pWRGx0RXVqcWdibEk2X2RCaw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjN3aUxlb19MX25LMGxkNmRiNWRFZXF5N3kyckJKX25oR2dXUTZFRks0cVd1Q0o0aFdCZlZUY1FmeklvUHUzSjRabWJrU3phSGYtSGdoOE16eWpON2ZxOGw1TUZNR1FkX2hpYko2RFN5UFlHcGtjUlpGYnpaZXZmWU9STXRYbEdyV1pWRGx0RXVqcWdibEk2X2RCaw?oc=5\" target=\"_blan",
+  "date": "2026-11-23T14:38:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "9cd9e578e9d49f33",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tata Steel Completes Acquisition Of 27.7 Mln Shares Of APL Apollo Tubes - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOE5mVDhROGZJNDRobjVCQnl0VkluNnFOcjdWWFRRSTlMZ19Nc21HVXNqLVBTSWdOcG5VUkpZdmVhWGdCVkdlVjViU0FNZDF6YTNWNDVtM0taUlFPYjVJMG5UTGFXWTkwTTh6QzNQZW1hUkc0S21QT0RpSnRFUDV5MkpITlB0WHdncDlKd0kyd0hscU9uVmRFd29ydFpOR3V1VUMwVW0zYmltZzZHRmM2N1pVTmozWXpkSnRqN2ptRWJ5TXFFN3NoaEZ5NnQ5ZmU3ZUdLWW5PY0I?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOE5mVDhROGZJNDRobjVCQnl0VkluNnFOcjdWWFRRSTlMZ19Nc21HVXNqLVBTSWdOcG5VUkpZdmVhWGdCVkdlVjViU0FNZDF6YTNWNDVtM0taUlFPYjVJMG5UTGFXWTkwTTh6QzNQZW1hUkc0S21QT0RpSnRFUDV5MkpITlB0WHdncDlKd0kyd0hscU9uVmRFd29ydFpOR3V1VUMwVW0zYmltZz",
+  "date": "2026-11-23T14:36:07.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "4e7847d80c02b7bb",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Despite low inflation Bank of Israel keeps rate unchanged",
+  "link": "https://en.globes.co.il/en/article-1001564526#utm_source=RSS",
+  "summary": "The Bank of Israel warned, &ldquo;Domestic and global uncertainty remains high in view of continued geopolitical tensions.\"",
+  "date": "2026-11-23T14:35:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "f6d29814bf2f3f30",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "התאחדות התעשיינים נגד בנק ישראל: \"הותרת הריבית פוגעת בצמיחת המשק\" - JDN",
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lVTFMT1NhVFA0Wko1YlZ4TF81djlZNFRfbVZ2ZWRpbU9wZnFneWNTUklJbzZ0cS1Eei03T21XYlQtY1pqV01hWW9OdXYxWXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lVTFMT1NhVFA0Wko1YlZ4TF81djlZNFRfbVZ2ZWRpbU9wZnFneWNTUklJbzZ0cS1Eei03T21XYlQtY1pqV01hWW9OdXYxWXc?oc=5\" target=\"_blank\">התאחדות התעשיינים נגד בנק ישראל: \"הותרת הריבית פוגעת בצמיחת המשק\"</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+  "date": "2026-11-23T14:34:44.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "92e8b0f56a235285",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "HighPeak Energy Completes $1.2 Billion Debt Refinancing With $450 Million Equity Investment - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemRnSWhyQm5Nb3d3TlNyM0lSMEtDb2otaGtoa1JKTmhRcGNoOThfQ0xEWE9sZ0dwVzZ5b2lUdnlkU1VRNWw1c1JpT0pERnFpNzlJYmpfendGd0NJbEVYd2JOSmtkcUVHY0VIdGwzQ0hGQk16Y3h2bDdDMVh2UFRyZUh2UkVVWHdoZXJYeUZ6RENRZnBnVXZuS2VURFg2SlA0YTRIZ3NReVhMVUVnLXlPbjJXWDlLYjA2RGt3SVdTSGNKRTRfSkFn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOemRnSWhyQm5Nb3d3TlNyM0lSMEtDb2otaGtoa1JKTmhRcGNoOThfQ0xEWE9sZ0dwVzZ5b2lUdnlkU1VRNWw1c1JpT0pERnFpNzlJYmpfendGd0NJbEVYd2JOSmtkcUVHY0VIdGwzQ0hGQk16Y3h2bDdDMVh2UFRyZUh2UkVVWHdoZXJYeUZ6RENRZnBnVXZuS2VURFg2SlA0YTRIZ3NReVhMVU",
+  "date": "2026-11-23T14:33:30.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "d301cf60447688c9",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "המגזר העסקי נגד ההחלטה שלא להוריד את הריבית - ביזנעס",
+  "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOaVpHR0VfbGtWdzlQNkJuc0VXWGdVckY2NlhpTmhyOWhfVm1MUGwyakh6cGxpbXlhVElabUZHaHJYb1VCS1I5RmZkM0lYdFpJdDhqTEtKbUgxa25rYUdWY09SbEhPQVY2VHEtQ2NiYUJ1d191TGp4ZlR1RVFTazJOZU1NTElIV1p2MHdYUEJ0b1BaX3JOcmlScXUzaXhEQzRhMW9fVjh0Qy1qUEc0VXlIVmpuQTc2cmJ0b1hGZlZTeC1Vems4MEdkbV9xV0JtSk0yQmVGOFo2dFE0enhCRzdLNzg0NmtqMHo1ZENBTTBZd1JLeWI4cEZ5MmZQMHl2VTV0WFRRd0lUcHpKZWZYTjdZSEVrb2RvU194Zl9saXNNRURvdEJIUExMNlAwRnZldnBNalRQZm1rb1lwRm82SDVxQm8tMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxOaVpHR0VfbGtWdzlQNkJuc0VXWGdVckY2NlhpTmhyOWhfVm1MUGwyakh6cGxpbXlhVElabUZHaHJYb1VCS1I5RmZkM0lYdFpJdDhqTEtKbUgxa25rYUdWY09SbEhPQVY2VHEtQ2NiYUJ1d191TGp4ZlR1RVFTazJOZU1NTElIV1p2MHdYUEJ0b1BaX3JOcmlScXUzaXhEQzRhMW9fVjh0Qy1qUE",
+  "date": "2026-11-23T14:32:48.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "711f66566b8f9564",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "DLT Resolution Inc. (DLTI) Completes J3M Gold Acquisition, Issues Estimated 24.386M Shares - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0wwNFAweVFhSk9ralJfMUluS3hqSUp3UFlCdDVvYjdPMFhYR1R2ZEhZa3lJZDc3Qi1mVE03YlJpZFpDY0JLZVdiaWZoUjhCd1VaNDFqdDd0RG5Lc1o0N2xnZjByLWtCWDRqenEyZHVPTjVGNnJQQ3hFblhGZVA3ZzlBZ0xETUhEOXIyNGpNOXVJZHR0ZGI1aU40a3NSQXhtSmRpcTU1dzZPVW1qQ2plSEJGUFVPWFBxNFlXUjVBTHdVMzdDSzR0blFhSmhsYnBFMGFPdTM1ajM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0wwNFAweVFhSk9ralJfMUluS3hqSUp3UFlCdDVvYjdPMFhYR1R2ZEhZa3lJZDc3Qi1mVE03YlJpZFpDY0JLZVdiaWZoUjhCd1VaNDFqdDd0RG5Lc1o0N2xnZjByLWtCWDRqenEyZHVPTjVGNnJQQ3hFblhGZVA3ZzlBZ0xETUhEOXIyNGpNOXVJZHR0ZGI1aU40a3NSQXhtSmRpcTU1dzZPVW",
+  "date": "2026-11-23T14:32:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "9e2f1b80ea78380c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "DLT Resolution Inc. Completes Acquisition of J3M Gold Corporation - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMWZxdXdvTU0zTEJEMk1zYzdZZVJJYVM3alBHaTMyV1BLTHlNRjdOOTFiUUZUZGdRdm45b0pUdGFmOUk3U042WE01czFUSjFkdm9HaG81cW5oM2MwYWx0MlZrVnlXcXlLcnpaX2lzMFpBcWhQZ3I3U01sa0ZjbGxEeUp5cVlpQXBiTmJMRGVrdng5WnRBQUY0NFRtVTUtWmxWbER1Y1pkU1dZMXNYdXJNbVdVbWY0VnNZSW9NZWZtenhUQVBjUXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMWZxdXdvTU0zTEJEMk1zYzdZZVJJYVM3alBHaTMyV1BLTHlNRjdOOTFiUUZUZGdRdm45b0pUdGFmOUk3U042WE01czFUSjFkdm9HaG81cW5oM2MwYWx0MlZrVnlXcXlLcnpaX2lzMFpBcWhQZ3I3U01sa0ZjbGxEeUp5cVlpQXBiTmJMRGVrdng5WnRBQUY0NFRtVTUtWmxWbER1Y1pkU1dZMX",
+  "date": "2026-11-23T14:32:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "1bea9555e3035f8f",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "למרות האינפלציה הנמוכה: בנק ישראל הותיר את הריבית ללא שינוי - המחדש",
+  "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzaXRkS0lFbFdCLXdDOVRXVWt0RHktaXhWMmdkdHNJMEk1bVB2dHJEMENDWk52alB2WmNzZ0JnYWJRX1k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzaXRkS0lFbFdCLXdDOVRXVWt0RHktaXhWMmdkdHNJMEk1bVB2dHJEMENDWk52alB2WmNzZ0JnYWJRX1k?oc=5\" target=\"_blank\">למרות האינפלציה הנמוכה: בנק ישראל הותיר את הריבית ללא שינוי</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">המחדש</font>",
+  "date": "2026-11-23T14:31:57.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "46abb3914c8003cb",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "ד''ר עדי ברנדר, מנהל חטיבת המחקר וחבר הועדה המוניטרית בישראל, הבהיר: נמצאים באי ודאות בכלכלה הגלובלית - 103FM",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRm9DRTA2bUNtSVFaZ2FMZThGU2ZEWnl6YTlrTkVqUVVSSGEyUmtmOTg3VnRvaU1oZ19jMF9kbnpwZ2Z0TVB6TUFKQmxxRkdFOXg5dkFtM1R2VjR0Q3ZLWnlaQjVJYTUwajFIUFBjUS16bTQ3MWJobmlhM1J1V2k1TQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRm9DRTA2bUNtSVFaZ2FMZThGU2ZEWnl6YTlrTkVqUVVSSGEyUmtmOTg3VnRvaU1oZ19jMF9kbnpwZ2Z0TVB6TUFKQmxxRkdFOXg5dkFtM1R2VjR0Q3ZLWnlaQjVJYTUwajFIUFBjUS16bTQ3MWJobmlhM1J1V2k1TQ?oc=5\" target=\"_blank\">ד''ר עדי ברנדר, מנהל חטיבת המחקר ",
+  "date": "2026-11-23T14:31:45.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
   "id": "b971276c94b007d6",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -53,6 +284,17 @@
   "date": "2026-11-23T14:30:00.000Z",
   "fetched": "2026-11-23T14:33:16.212Z",
   "fromCloud": "2026-11-23T1433.json"
+ },
+ {
+  "id": "8740699819a9375b",
+  "source": "אנשים ומחשבים",
+  "group": "industry",
+  "title": "ג&#039;נסן הואנג הוחזר לתפקיד מנכ&#034;ל אנבידיה",
+  "link": "https://www.pc.co.il/featured/462019/",
+  "summary": "דירקטוריון אנבידיה החליט להחזיר את ג'נסן הואנג לתפקיד מנכ\"ל החברה &#8211; כך היא הודיעה היום (ג'). הואנג יחזור גם לתפקידו כחבר דירקטוריון וישמש כנשיא החברה. כל זאת יבוצע באופן מיידי. הואנג התפטר לפני 11 יום ממנכ\"לות אנבידיה, שאותה הוא ייסד ב-1993 &#8211; רגע לפני ההחלטה להדיח אות",
+  "date": "2026-11-23T14:28:56.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
  },
  {
   "id": "ab09e7e086ebb6bf",
@@ -242,6 +484,28 @@
   "fromCloud": "2026-11-23T1433.json"
  },
  {
+  "id": "f01c2a32c851ba32",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Aviation Business News - Aviation Business News",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZG84X3VyVlZHNmRxbkpaZjVWdnEzVUJWVHY4dHRwRnFRLWhYcWhvNkYwejBSRUhtYWFvUEJTc1ZfclY2N3YxQzIxM1NMRGxGcW5HVjN2VnFFalVkLWpnaUNtZC01STJUX3RfRnlNMHExc0JVVF9BcUpuUmNWVU01YVhpZnJMbVJQdi00dHgwOEgtdHVOMmQwZzhNd3FZTlZIdGtieWFGcmhkU1pUc0FmNmxfOWt1dWFrazhVM3NYTHZsM0RfaFpWMkxn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZG84X3VyVlZHNmRxbkpaZjVWdnEzVUJWVHY4dHRwRnFRLWhYcWhvNkYwejBSRUhtYWFvUEJTc1ZfclY2N3YxQzIxM1NMRGxGcW5HVjN2VnFFalVkLWpnaUNtZC01STJUX3RfRnlNMHExc0JVVF9BcUpuUmNWVU01YVhpZnJMbVJQdi00dHgwOEgtdHVOMmQwZzhNd3FZTlZIdGtieWFGcmhkU1",
+  "date": "2026-11-23T14:15:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "cc905946f4b2e2e3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Workday, Inc. (WDAY) Completes Acquisition of C1.ai - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXE2MjI1YVBLWTZjc0R1eng4Rm15Sko5R0p5SFllelhkakFXQUtNcUNSaFlFT3FWaloxdU9FU04xLXkxOUZCQTc1czVwVmdkdDJMSGlSSFAwaEQ1SlQxcEhaRnlEdDR6M0FSVmgzR2VkWkVvVXJSNzBnV2FJMVZFWFFYMEE3YUNoMGpkTVhFV1lMaVNDcldta3RnMWdFUUtYWldlbzFZZHJGMkxPcXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXE2MjI1YVBLWTZjc0R1eng4Rm15Sko5R0p5SFllelhkakFXQUtNcUNSaFlFT3FWaloxdU9FU04xLXkxOUZCQTc1czVwVmdkdDJMSGlSSFAwaEQ1SlQxcEhaRnlEdDR6M0FSVmgzR2VkWkVvVXJSNzBnV2FJMVZFWFFYMEE3YUNoMGpkTVhFV1lMaVNDcldta3RnMWdFUUtYWldlbzFZZHJGMk",
+  "date": "2026-11-23T14:15:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
   "id": "bed9b6c0e0b57c44",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -407,6 +671,17 @@
   "fromCloud": "2026-11-23T1433.json"
  },
  {
+  "id": "316a1db68b8af812",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אנבידיה מזנקת בכ-28% אחרי שהדירקטוריון החזיר את ג'נסן הואנג - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YTVIwLUhUQzEzaHhELVlJY0J5cnRXdUpjN3J6RlNoRkprYmFEdWhoUlJJMjlBb0JYck5WU3RfTEJWQjloR3Rvejc2RXFPZlJRUzVKUVc3ODAyX2Z5V0NpZEpTYnJTZlFJeHFhQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9YTVIwLUhUQzEzaHhELVlJY0J5cnRXdUpjN3J6RlNoRkprYmFEdWhoUlJJMjlBb0JYck5WU3RfTEJWQjloR3Rvejc2RXFPZlJRUzVKUVc3ODAyX2Z5V0NpZEpTYnJTZlFJeHFhQQ?oc=5\" target=\"_blank\">אנבידיה מזנקת בכ-28% אחרי שהדירקטוריון החזיר את ג'נסן הואנג</",
+  "date": "2026-11-23T14:04:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
   "id": "afe0ace44d113137",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -517,6 +792,17 @@
   "fromCloud": "2026-11-23T1433.json"
  },
  {
+  "id": "9e60e9a75f564e13",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Coop Pank AS own shares acquisition transactions - Yahoo Finance UK",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNF9yYUNvQnlqd010WFBfQWNIX1VFN1RoUi1HdWNoY2loSERHZ3lBbmZMdXFrNVI0MkNleDh2OE5RaFExTmxqLTBzVTR0U2JOSHg5d1VtcXZVdUx5X1ZaeC12Y3dISm42Zm1BU1pJUzh2N2RNc3BxaUJrdFYtME1rLUxHU29kSF9W?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNF9yYUNvQnlqd010WFBfQWNIX1VFN1RoUi1HdWNoY2loSERHZ3lBbmZMdXFrNVI0MkNleDh2OE5RaFExTmxqLTBzVTR0U2JOSHg5d1VtcXZVdUx5X1ZaeC12Y3dISm42Zm1BU1pJUzh2N2RNc3BxaUJrdFYtME1rLUxHU29kSF9W?oc=5\" target=\"_blank\">Coop Pank AS own shares",
+  "date": "2026-11-23T14:00:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
   "id": "e68beaa947903bfe",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -550,6 +836,17 @@
   "fromCloud": "2026-11-23T1433.json"
  },
  {
+  "id": "42b7624cc8a344cc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "TPL’s $3B EagleRock Deal Expands Land, Water Dominance - Hart Energy",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGtYWkVwNXFmYWJNU3FpUENhUUdMTzRUaS00VThJSjE5MU5GdkZyTFFiT0kxblAxSTk3dFRkdnREMGxGUW1pYS1oNGtWMHc0Ykt6bF9sTGlGcWZ6bHVtMnVtQkItdGVVTHdGbWNOX2FzMUg3VjVaT1VZODlXZnZJQi13RVQyTFdxSDJRdmgtLVNyZTNRNEpRSEFjeUlvZnhodUxYOG9WR3hpNWVURzln?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGtYWkVwNXFmYWJNU3FpUENhUUdMTzRUaS00VThJSjE5MU5GdkZyTFFiT0kxblAxSTk3dFRkdnREMGxGUW1pYS1oNGtWMHc0Ykt6bF9sTGlGcWZ6bHVtMnVtQkItdGVVTHdGbWNOX2FzMUg3VjVaT1VZODlXZnZJQi13RVQyTFdxSDJRdmgtLVNyZTNRNEpRSEFjeUlvZnhodUxYOG9WR3hpNW",
+  "date": "2026-11-23T13:42:14.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
   "id": "65a2f4de537e3ebe",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -570,6 +867,28 @@
   "date": "2026-11-23T13:28:00.000Z",
   "fetched": "2026-11-23T14:33:16.212Z",
   "fromCloud": "2026-11-23T1433.json"
+ },
+ {
+  "id": "c2951243ffa6dead",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "רגע לפני שאומרים \"אני רוצה להתגרש\" - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTFfTUYyQl9teUdMNGlycUs1NGNMc3RWcFZWalh2SXVkX1ROdUNBSEUtOERzREZsVFFfdXF4STlJTTFqQkJCdU44cE5CbkxJbV92V24xYnJ3NmlnY2RUdHhJYjJ2ZFhpam1TMmVhREFYeldaUTM3UDdyNE92clA0Vk1UblpEQThFMW5NbVVnY3JwTTUybEtCMl9ON1lPNkk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTFfTUYyQl9teUdMNGlycUs1NGNMc3RWcFZWalh2SXVkX1ROdUNBSEUtOERzREZsVFFfdXF4STlJTTFqQkJCdU44cE5CbkxJbV92V24xYnJ3NmlnY2RUdHhJYjJ2ZFhpam1TMmVhREFYeldaUTM3UDdyNE92clA0Vk1UblpEQThFMW5NbVVnY3JwTTUybEtCMl9ON1lPNkk?oc=5\" target=\"",
+  "date": "2026-11-23T13:26:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
+  "id": "41085ca8b8cd5d05",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Macron proposes French budget ‘golden rule’",
+  "link": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
+  "summary": "President suggests constitutional reform to cap government spending and keep future deficits in check, echoing proposals by opponents",
+  "date": "2026-11-23T13:22:36.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
  },
  {
   "id": "40c7bcc6afd72a6e",
@@ -605,6 +924,17 @@
   "fromCloud": "2026-11-23T1433.json"
  },
  {
+  "id": "43da71913b767b2e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "PMG, Greybrook Obtain $285M Refinancing for Fort Lauderdale High-Rise - Multifamily & Affordable Housing Business",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmM3RkNVM29FVFg3bmpmcTlXenlVZExoUktyMXZPM1JUVzZSX2l6b3E4TXJnVHNaMWRJRTBJWlhzYThLb2N1QjhfZFU1OHdHTVp3YVIxQVMwX1NBUHg4RWJRSzY2S2ItbktZVVRvYVVXZ3hEeGFOZzhJSkEySFZuZDZJdE4waGg5NlpXQ2dTNGs3U3Q5RGlBVTVfYmljcjBydUhtcE5JQy03WVEwM1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmM3RkNVM29FVFg3bmpmcTlXenlVZExoUktyMXZPM1JUVzZSX2l6b3E4TXJnVHNaMWRJRTBJWlhzYThLb2N1QjhfZFU1OHdHTVp3YVIxQVMwX1NBUHg4RWJRSzY2S2ItbktZVVRvYVVXZ3hEeGFOZzhJSkEySFZuZDZJdE4waGg5NlpXQ2dTNGs3U3Q5RGlBVTVfYmljcjBydUhtcE5JQy03WV",
+  "date": "2026-11-23T13:00:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
+ },
+ {
   "id": "5cc13876600211eb",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -625,5 +955,16 @@
   "date": "2026-11-23T06:13:46.000Z",
   "fetched": "2026-11-23T14:33:16.212Z",
   "fromCloud": "2026-11-23T1433.json"
+ },
+ {
+  "id": "7d007c9d641e3678",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "Rewiring GCC countries for AI: Realizing value in government",
+  "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/rewiring-gcc-countries-for-ai-realizing-value-in-government",
+  "summary": "AI use is near universal in the Gulf Cooperation Council, but value creation has not kept pace. In the public sector, turning adoption into impact requires attention to delivery and sovereignty issues.",
+  "date": "2026-11-23T00:00:00.000Z",
+  "fetched": "2026-11-23T15:03:19.720Z",
+  "fromCloud": "2026-11-23T1503.json"
  }
 ]
