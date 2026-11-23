@@ -8,11 +8,11 @@
   "blocked": 204
  },
  "en.globes.co.il": {
-  "ok": 57,
+  "ok": 58,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 370,
+  "ok": 372,
   "blocked": 10
  },
  "news.google.com": {
@@ -317,7 +317,7 @@
  },
  "businessinsider.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "kan.org.il": {
   "ok": 2,
