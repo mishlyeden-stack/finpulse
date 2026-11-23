@@ -4888,3 +4888,8 @@ time,type,round,items_in_call,input_chars,flagged,noise,event_key,level,score,im
 2026-11-23 10:34,event,1,,,,,Brookfield | רכישת PGP Glass ב-1.7 מיליארד דולר | נובמבר 2026,yellow,5,3,0,below_display_floor,0,ברוקפילד רוכשת יצרנית זכוכית PGP ב-1.7 מיליארד דולר
 2026-11-23 10:34,event,1,,,,,וואן טכנולוגיות | רכישת Peax Solutions מפימי — פרטים נוספים | נובמבר 2026,yellow,7,6,1,verified,3500,וואן טכנולוגיות רוכשת 62% מ-Peax Solutions של פימי ב-358 מיליון שקל
 2026-11-23 10:34,event,1,,,,,ABB | רכישת Ziehl-Abegg — HVAC ומיזוג תעשייתי | נובמבר 2026,yellow,5,4,0,below_display_floor,0,ABB רוכשת את Ziehl-Abegg להרחבת פתרונות HVAC וקירור תעשייתי
+2026-11-23 11:04,judge,1,8,13696,4,4,,,,,,,,
+2026-11-23 11:04,event,1,,,,,בנק ישראל | החלטת ריבית צפויה — 3.25% ללא שינוי  דולר ואינפלציה מכבידים | נובמבר 2026,yellow,6,7,1,verified,2045,לפני החלטת הריבית: השקל מתאושש מהנפילה
+2026-11-23 11:04,event,1,,,,,Walmart | בחינת רכישת Grubhub | נובמבר 2026,yellow,5,3,0,below_display_floor,0,וולמארט ואחרות בוחנות רכישת גרובהאב
+2026-11-23 11:04,event,1,,,,,Smith+Nephew | מינוי CFO חדש — Nick Alexos מיוניוואר | נובמבר 2026,learn,7,3,0,below_display_floor,0,סמית'+נפיו מינתה CFO חדש — Nick Alexos לשעבר יוניוואר
+2026-11-23 11:04,event,1,,,,,רוטשטיין–אנשי העיר | ביטול עסקת מכירה | נובמבר 2026,yellow,5,3,0,below_display_floor,0,בוטלה עסקת רוטשטיין למכירת חלקו באנשי העיר
