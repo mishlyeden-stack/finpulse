@@ -1,54 +1,5 @@
 [
  {
-  "key": "Shield–Echodyne | רכישה 5.3 מיליארד דולר + גיוס 2.5 מיליארד | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794229568796,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Palo Alto Networks | רכישת סוכן AI נוספת | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794229568797,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קמהדע | רווח נקי +51% + העלאת תחזיות + דיבידנד | Q3 2026",
-  "level": "yellow",
-  "first": 1794229568797,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Iris Plaza | פריצת ענן חיצוני — 7.7 מיליון לקוחות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794229568797,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "OpenSSH | חולשת SSHole — עקיפת אימות, ניצול פעיל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794229762099,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שקל | דולר צלל מתחת ל-3 שקלים — יבואנים קנו בהמוניהם | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794229762099,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מאנדיי | עקפה תחזיות Q3 — מייסדים מזהירים מאתגרים תפעוליים במעבר ל-AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794229762099,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "QNAP NAS | שרשרת ניצול Plex2Shell — 4 חולשות בשימוש פעיל | נובמבר 2026",
   "level": "yellow",
   "first": 1794233166426,
@@ -4063,6 +4014,55 @@
   "key": "בג״ץ | אישור התראות עיקול של רשות המיסים — נובמבר 2026",
   "level": "yellow",
   "first": 1795435730387,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תע״א | תזרים חיובי 745 מיליון דולר וצבר 35.5 מיליארד — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795439255068,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Dragos | ספקי AI Inference — פריצות לא זוהו, גניבת פרומפטים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795439255068,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI בבניינים | מחסור בטכנאים משבש 68% מהארגונים — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795439255068,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "KKR | רכישת EdgeCore ב-10 מיליארד דולר — מרכזי נתונים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795439255069,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביל אקמן | קריאה לפד להפסיק העלאות ריבית — יעד אינפלציה 3% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795439255069,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מוסדיים ישראל | חשיפה לחוב — פי 6 מקורונה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795439390410,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מר | רווח נקי +38%, צבר מתקרב למיליארד שקל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795439390410,
   "sentLive": false,
   "candidate": true
  }
