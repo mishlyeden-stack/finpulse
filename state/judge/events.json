@@ -1,47 +1,5 @@
 [
  {
-  "key": "תקציב ביטחון ארה״ב | ניצחון דמוקרטים מסכן הגדלת תקציב טראמפ | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197999565,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אפל | חיסכון מס 2.7 מיליארד דולר בשנה אחת — אסטרטגיית מס תאגידית | נובמבר 2026",
-  "level": "learn",
-  "first": 1794197999565,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סייבר פיזי | מתקפות קירור באירופה + העברה למערכות פיזיות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197999565,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | אסטרטגיה לאומית לזהות דיגיטלית — פרסום לתגובת הציבור | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197999565,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תל אביב | מערכת מיקרופונים לצפירות שווא — קנסות 250 שקל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197999565,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "SpaceX | תחזית CFO Q1 2027 — 33–37 מיליארד דולר הכנסות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197999565,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "OpenAI | הכנסות Q3 צמחו 70% — CFO מאשרת | נובמבר 2026",
   "level": "yellow",
   "first": 1794200770036,
@@ -3756,7 +3714,7 @@
   "level": "red",
   "first": 1795325759449,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "ישראל | דולר צפוי להתחזק בפתיחת שני אחרי מפולת וול סטריט | נובמבר 2026",
@@ -4077,6 +4035,20 @@
   "key": "AMD | מניה -20% בשני ימים — עדכוני תוכנה הגיעו לשרתים סינים תחת הגבלה | נובמבר 2026",
   "level": "yellow",
   "first": 1795407418270,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | ניתוח מפולת AI — סדקים שנחשפו ומימון מעגלי | נובמבר 2026",
+  "level": "learn",
+  "first": 1795408588871,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | הברחת שבבים לסין — רשת חברות ומתווכים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795408588871,
   "sentLive": false,
   "candidate": true
  }

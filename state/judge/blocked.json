@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 298,
+  "ok": 300,
   "blocked": 5
  },
  "calcalist.co.il": {
@@ -12,12 +12,12 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 366,
+  "ok": 367,
   "blocked": 10
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 277
+  "blocked": 279
  },
  "13tv.co.il": {
   "ok": 0,
@@ -41,7 +41,7 @@
  },
  "pc.co.il": {
   "ok": 39,
-  "blocked": 49
+  "blocked": 50
  },
  "ft.com": {
   "ok": 0,
@@ -60,7 +60,7 @@
   "blocked": 0
  },
  "ice.co.il": {
-  "ok": 11,
+  "ok": 12,
   "blocked": 8
  },
  "datacenterdynamics.com": {
@@ -852,6 +852,10 @@
   "blocked": 1
  },
  "trend.az": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "magdilim.co.il": {
   "ok": 0,
   "blocked": 1
  }
