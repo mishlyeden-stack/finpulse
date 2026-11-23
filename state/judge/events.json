@@ -1,96 +1,5 @@
 [
  {
-  "key": "גרמניה | רכישת 50% מ-KNDS יצרנית טנקים ב-6.5 מיליארד אירו | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794148567551,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AI Infrastructure | ריבית עולה מפצלת את מניות תשתית AI לזוכים ומפסידים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197320931,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "דאו ג׳ונס | עקף נאסד״ק לראשונה מ-2022 — רוטציה לתעשייה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197320931,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "NEXTDC | Goodman + Digital Realty רוכשות 9.9% — מרכזי נתונים אוסטרליה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197320931,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בזן | השבתת מפעל 17 יום — נזק עשרות מיליוני שקלים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197320931,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תומר | חברה ישראלית סודית לחץ טילי חץ — גיוס הון גדול בדרך | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197710430,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Rocket Lab | CFO מוכר 17 מיליון דולר במניות + Neutron נדחה ל-2027 | נובמבר 2026",
-  "level": "learn",
-  "first": 1794197710430,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תקציב ביטחון ארה״ב | קיצוץ 350 מיליארד דולר מהפנטגון — השפעה על מניות ביטחון וסיוע לישראל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197710431,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סיסקו | הזמנות AI במיליארדים לפני דוחות — מבחן הרווחיות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197710431,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "תדיראן | חיזוק פעילות חוות שרתים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197710431,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "יפן | ריבית 1.25% — בנקים גדולים במבחן פיקדונות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197710431,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סופטבנק | שווי השקעות עולה לפני דוחות — שאלת מימון ה-AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197710431,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פוקס–רוקו | השלמת רכישת רוקו ב-22 מיליארד דולר — DOJ סגר חקירה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794197710431,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "תקציב ביטחון ארה״ב | ניצחון דמוקרטים מסכן הגדלת תקציב טראמפ | נובמבר 2026",
   "level": "yellow",
   "first": 1794197999565,
@@ -4056,6 +3965,118 @@
   "key": "שווקים | מדד פחד VIX זינק 86% — היסטוריה מלמדת על תשואות גבוהות לאחר פאניקה | נובמבר 2026",
   "level": "yellow",
   "first": 1795358122532,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | אינפלציה 1.1%, דולר שיא, ריבית לא תרד — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795406850705,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | CFO קרס תופסת CEO בינתאית — $100 מיליארד התחייבויות AI על הפרק | נובמבר 2026",
+  "level": "learn",
+  "first": 1795406850706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | מכרז הגנה מרחפנים — 150 מיליון שקל, רפאל-אלביט-אונדס | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795406850706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מזרחי טפחות | אזהרה: צמיחה בישראל תתכווץ, AI יטלטל שוק | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795406850706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | בסנט מתרכך על מגבלות אנבידיה — הואנג עשוי לחזור | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795406850706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אירופה | גז טבעי זינק ל-95 אירו, מחסנים מלאים 70% לפני חורף | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795406850706,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | מדד פעילות עלה 0.6% — אוקטובר 2026",
+  "level": "yellow",
+  "first": 1795407070345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "S&P 500 | 7 ענקיות טכנולוגיה גוררות את המדד — בלעדיהן עלייה של 5% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795407070345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביטקוין | נפילה מ-126 אלף ל-60 אלף דולר — הפסד 4.6 מיליארד שקל לישראלים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795407070345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ת״א | דריכות לקראת מסחר — אחרי מפולת וול סטריט 10% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795407070345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל | עובדים זרים בבנייה — שליש מ-224 אלף, שילוש מאז המלחמה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795407070345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ת״א | מכירות דירות חדשות צנחו 60% ברבעון — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795407070345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "IQVIA | רכישת Quotient Sciences ב-1.1 מיליארד דולר — CRO וחברת פארמה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795407070345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מגדל–אמריקה ישראל | בעלת מניות הופכת למלווה 200 מיליון שקל | נובמבר 2026",
+  "level": "learn",
+  "first": 1795407418269,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סייבר | מתקפות על נמלי ארה״ב מתגברות — סיכון שיבוש סחר עולמי | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795407418269,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AMD | מניה -20% בשני ימים — עדכוני תוכנה הגיעו לשרתים סינים תחת הגבלה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795407418270,
   "sentLive": false,
   "candidate": true
  }
