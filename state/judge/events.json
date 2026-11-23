@@ -1,54 +1,5 @@
 [
  {
-  "key": "ישראל–ארה״ב | סיוע צבאי נמשך עד 2033 — חמש שנים, הגנה אווירית עשויה לגדול | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794218848464,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | תשתית AI לאומית — 300,000 GPU | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794218848464,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אוטונומוס | קריסת אג״ח ומניות — ניהול משבר מנכ״ל | נובמבר 2026",
-  "level": "learn",
-  "first": 1794218848464,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פרטנר | שיא רווחיות 14 שנים + דיבידנד מיוחד 500 מיליון שקל | Q3 2026",
-  "level": "yellow",
-  "first": 1794218848465,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | ראש ה-AI הלאומי — ללא עצמאות טכנולוגית נאבד שליטה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794218848465,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נקסט ויז׳ן | רווח הוכפל + צבר הזמנות ירד 21% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794222409536,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "CFO | מע״מ כסיכון ארגוני — למה CFO חייב לנהל את זה | נובמבר 2026",
-  "level": "learn",
-  "first": 1794222409537,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל | גירעון אוקטובר 3.3% תוצר — הוצאות ביטחון +9.9% | נובמבר 2026",
   "level": "yellow",
   "first": 1794226051671,
@@ -4084,6 +4035,20 @@
   "key": "G City | יציאה מארה״ב — נכסים ב-350 מיליון דולר למכירה | נובמבר 2026",
   "level": "yellow",
   "first": 1795428347952,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CrowdStrike–Zscaler | רכישה רשמית ב-44 מיליארד דולר — עסקת הסייבר הגדולה בהיסטוריה | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795432010312,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "עשות | צבר 2.5 מיליארד שקל, רווח נקי +19% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795432010313,
   "sentLive": false,
   "candidate": true
  }

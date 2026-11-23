@@ -1,18 +1,18 @@
 {
  "globes.co.il": {
-  "ok": 305,
+  "ok": 306,
   "blocked": 5
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 204
+  "blocked": 205
  },
  "en.globes.co.il": {
   "ok": 58,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 372,
+  "ok": 373,
   "blocked": 10
  },
  "news.google.com": {
@@ -40,8 +40,8 @@
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 39,
-  "blocked": 51
+  "ok": 40,
+  "blocked": 52
  },
  "ft.com": {
   "ok": 0,
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 31,
-  "blocked": 62
+  "blocked": 63
  },
  "funder.co.il": {
   "ok": 0,
