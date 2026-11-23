@@ -1,5 +1,82 @@
 [
  {
+  "id": "4ca5125b0168e541",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Workday Completes Acquisition of C1.ai to Expand AI Agent Identity Governance and Security - citybiz",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2ZraE5yckRfS2I0ZDRGN2x4UTZsbkl5TWpkeVFUS0htV1p2dmlMNkpMZFIwYUtNVUF5T0t1Z1FUN0tjQ29ndTQ4bnRUaW5ueHJCWkRPMGVhWnZ2Y2xpUjYtVGRHM3lIdS1FY1ZSMk1aemYyYkFtb1ViTDlUNFMxdnRXdDRWc0ZwQlhmODhDYW9CRVhrTy1SVzY3MXdfTkpTSXQ0SVNWTTlCY3VoYndrM2tWaDc5OEJUbUdTSU05YWgxM3dzdi1RNQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2ZraE5yckRfS2I0ZDRGN2x4UTZsbkl5TWpkeVFUS0htV1p2dmlMNkpMZFIwYUtNVUF5T0t1Z1FUN0tjQ29ndTQ4bnRUaW5ueHJCWkRPMGVhWnZ2Y2xpUjYtVGRHM3lIdS1FY1ZSMk1aemYyYkFtb1ViTDlUNFMxdnRXdDRWc0ZwQlhmODhDYW9CRVhrTy1SVzY3MXdfTkpTSXQ0SVNWTTlCY3",
+  "date": "2026-11-23T22:28:49.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
+ },
+ {
+  "id": "ca615be6227e22c0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "FS Bancorp (FSBW) CFO Whittington bought 16.5 shares for $690 at $41.80 - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczZ6Yjd4TU5nVTd1d0tDTHhSYkFlYlF0SE9ROUl2Z0xGaHFJVTdfVVpBX245S1QzYmh4ZW5xdGo4QnFqS1BBU3RCd2hXNTBKTzk1azQzaVkzWmNSSEs2dWozMzBfZmlySTR1eUJBOEhTZU42UDJZOEFrYlNldzBvbjFOXzZiVERWUFNtanNkT01rN3pIZ24tMkxnMURYT2RxdXJla1ZpMmVVQ0k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczZ6Yjd4TU5nVTd1d0tDTHhSYkFlYlF0SE9ROUl2Z0xGaHFJVTdfVVpBX245S1QzYmh4ZW5xdGo4QnFqS1BBU3RCd2hXNTBKTzk1azQzaVkzWmNSSEs2dWozMzBfZmlySTR1eUJBOEhTZU42UDJZOEFrYlNldzBvbjFOXzZiVERWUFNtanNkT01rN3pIZ24tMkxnMURYT2RxdXJla1ZpMmVVQ0",
+  "date": "2026-11-23T22:26:45.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
+ },
+ {
+  "id": "060546d1a078a49c",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K12B - Inflection Point Acquisition Corp. VI (0002102041) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026123267/0001213900-26-123267-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0001213900-26-123267 <b>Size:</b> 639 KB <br>Item 3.03: Material Modifications to Rights of Security Holders <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 7.01: Regulation FD Disclosure <br>",
+  "date": "2026-11-23T22:25:09.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
+ },
+ {
+  "id": "a9f9e6f01fc2248e",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - HAWTHORN BANCSHARES, INC. (0000893847) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000104/0000893847-26-000104-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0000893847-26-000104 <b>Size:</b> 379 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-11-23T22:24:42.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
+ },
+ {
+  "id": "6324029b336d511f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Gaming & Leisure Properties, Inc. (0001575965) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1575965/000119312526472645/0001193125-26-472645-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0001193125-26-472645 <b>Size:</b> 459 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-23T22:21:28.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
+ },
+ {
+  "id": "4f0954208a1becfa",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Introducing AI's new power couple: The CIO and the CFO - Information Week",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1pfSkFtMzBEdktKbC1FRzB6U25iQk1MOS1JNnhMLU5tSDJpTjlwRk12SEFvdGJxanZWbS1McW5MWUhqUGdJRXAzejgyUGg3dEJNUXVMZTNFYTFmZnpvQmZqZUx4cWFiUENZbVNCS0Q4M05hdzZIMi1Fam1sQjdxNjdlYV8wMkJyZWpDMmFxMHlzNmRfU3VfRG1JU1JaSUZY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1pfSkFtMzBEdktKbC1FRzB6U25iQk1MOS1JNnhMLU5tSDJpTjlwRk12SEFvdGJxanZWbS1McW5MWUhqUGdJRXAzejgyUGg3dEJNUXVMZTNFYTFmZnpvQmZqZUx4cWFiUENZbVNCS0Q4M05hdzZIMi1Fam1sQjdxNjdlYV8wMkJyZWpDMmFxMHlzNmRfU3VfRG1JU1JaSUZY?oc=5\" target=",
+  "date": "2026-11-23T22:14:48.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
+ },
+ {
+  "id": "462315c6a9d5f943",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN29PRnF0TFRjUEQzclFUbjQ0RFJEckFqUnhoQUFwbVpSMXhyVDhnUm5RWm5KWUpyNUJaUEF2UGRVRTFBOTFNN2ZtalNMdjdzem5jcGZ1cko4RjFRY0ttejB2eXh2Q0JXTXo1SElhNEdsNFplZ090NzJTTlppMXg3TWpPQ1pUN055RlHSAY8BQVVfeXFMT1o2bjh4Z0hNVWlQUUV0TV9Db2NkSGxlbDRpd3poM0ExX0NxUURsMzFrMW1YSi1hdWExQml2NXRtSzhQc1lvUF9peFFWd28xdHhjX01mZnIydDZycUNVa1c3UVNSMDZVNDVWY1phSmdEQTQyTFVfQWVWdktaQzFpYlQ0RGdQQ0dCeGw0SkttLTA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQN29PRnF0TFRjUEQzclFUbjQ0RFJEckFqUnhoQUFwbVpSMXhyVDhnUm5RWm5KWUpyNUJaUEF2UGRVRTFBOTFNN2ZtalNMdjdzem5jcGZ1cko4RjFRY0ttejB2eXh2Q0JXTXo1SElhNEdsNFplZ090NzJTTlppMXg3TWpPQ1pUN055RlHSAY8BQVVfeXFMT1o2bjh4Z0hNVWlQUUV0TV9Db2NkSG",
+  "date": "2026-11-23T22:05:36.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
+ },
+ {
   "id": "b554b43fe53b0a19",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -31,6 +108,17 @@
   "date": "2026-11-23T22:00:13.000Z",
   "fetched": "2026-11-23T22:03:10.979Z",
   "fromCloud": "2026-11-23T2203.json"
+ },
+ {
+  "id": "61148e45de9907cf",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "\"רואים כבר את המעבר\": הטרנד מהטיקטוק שמאיים על אסתי לאודר ולוריאל",
+  "link": "https://www.ynet.co.il/economy/article/yokra14965968",
+  "summary": "טרנד הטיפוח הקוריאני K-Beauty כובש את ישראל. המוצרים חדשניים, המחירים זולים ובזכות הטיקטוק הקהל הצעיר מתנפל על המדפים. אחרי סופר-פארם, Be פארם והסטוק, גם קסטרו תשקיע 60 מיליון שקלים בהקמת רשת חנויות ייעודית, ולילית והסטוק של רמי לוי נכנסים גם הם לראשונה לתחום. \"זה לא טרנד חולף כמ",
+  "date": "2026-11-23T22:00:00.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
  },
  {
   "id": "e0c16f1a73d9e70a",
@@ -517,6 +605,17 @@
   "fromCloud": "2026-11-23T2103.json"
  },
  {
+  "id": "20efbda120d379cf",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Brookfield Infrastructure Partners LP 5.125% – NYSE:BIPF/PA - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDBlT1hFZE9jRVhuSmwyeDBwNDJnSkJNejY2aGJiTkQ3M0RjSnc2NS1YRnZlMUZ2U2hsZmdiWHQwSHZMOXpVRWkzekRNcjNBYXZJYXdmeHJETWN1a2FLUkxndE9WNXRLUmxhbGxkS01LaXQ5UF82d2xpYXRnc080MU83OWlScHdIV2h1OTRB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDBlT1hFZE9jRVhuSmwyeDBwNDJnSkJNejY2aGJiTkQ3M0RjSnc2NS1YRnZlMUZ2U2hsZmdiWHQwSHZMOXpVRWkzekRNcjNBYXZJYXdmeHJETWN1a2FLUkxndE9WNXRLUmxhbGxkS01LaXQ5UF82d2xpYXRnc080MU83OWlScHdIV2h1OTRB?oc=5\" target=\"_blank\">Free cash flow ",
+  "date": "2026-11-23T20:43:43.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
+ },
+ {
   "id": "8dc24daea49250e7",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -638,6 +737,17 @@
   "fromCloud": "2026-11-23T2033.json"
  },
  {
+  "id": "727e0094fd409925",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Working capital per share of Melar Acquisition Corp. I – NASDAQ:EVRL - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS3NIanFDWk9keVdwaGloWnhaNk8zNFI4S01PMlJ5bGFwTzB2SWloYUE0YWd6RW82M1kwbGNFZEkxVUYxQ180ZEZaWWViR2VWNkNDV0hlU3ZnVUVVbzdCYmlmWm9YejlBcktwNGVZZjR4YUVTV1ZNeUM2NGRHYzloQm5odVl0a1h4eHNMTko4Ykx6UXFpTHd5SFRDLTZjYzlsUDQ3VGRiT2drYmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS3NIanFDWk9keVdwaGloWnhaNk8zNFI4S01PMlJ5bGFwTzB2SWloYUE0YWd6RW82M1kwbGNFZEkxVUYxQ180ZEZaWWViR2VWNkNDV0hlU3ZnVUVVbzdCYmlmWm9YejlBcktwNGVZZjR4YUVTV1ZNeUM2NGRHYzloQm5odVl0a1h4eHNMTko4Ykx6UXFpTHd5SFRDLTZjYzlsUDQ3VGRiT2drYm",
+  "date": "2026-11-23T20:23:09.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
+ },
+ {
   "id": "e8ef8940a662d6d8",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -669,6 +779,17 @@
   "date": "2026-11-23T20:19:00.000Z",
   "fetched": "2026-11-23T21:03:24.579Z",
   "fromCloud": "2026-11-23T2103.json"
+ },
+ {
+  "id": "31c1ec48b2efa13b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Debt to equity ratio of Melar Acquisition Corp. I – NASDAQ:EVRL - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHdLZXpLek9WQ0dYSXJsc1E0UUdoeVV6QkVRbGw2WV9rZXlHaExfcGJ5TE52aVhBckV2RlRaaVdpOFEzRUxtZkdVM0p4N1ZremZZQzdBTUo2Uzg3YnUyUDBpeS1yVHR2RlY5SVgteWl5YkFSOUhpUWs3clZyVEFiRVplR09zUVZTTDNBSjV4aTkwRUlieWIxLXdsYjY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHdLZXpLek9WQ0dYSXJsc1E0UUdoeVV6QkVRbGw2WV9rZXlHaExfcGJ5TE52aVhBckV2RlRaaVdpOFEzRUxtZkdVM0p4N1ZremZZQzdBTUo2Uzg3YnUyUDBpeS1yVHR2RlY5SVgteWl5YkFSOUhpUWs3clZyVEFiRVplR09zUVZTTDNBSjV4aTkwRUlieWIxLXdsYjY?oc=5\" target=\"_bla",
+  "date": "2026-11-23T20:18:59.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
  },
  {
   "id": "13f05662a0ba8427",
@@ -1274,6 +1395,17 @@
   "date": "2026-11-23T18:30:00.000Z",
   "fetched": "2026-11-23T18:33:14.359Z",
   "fromCloud": "2026-11-23T1833.json"
+ },
+ {
+  "id": "5494f948ef38c2ad",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Silicon Valley Acquisition Corp. (SVAQW) stock price, news, quote and history - Yahoo Finance UK",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBya3VmQkp1U09yZFBfNU9ocUdvQzEwX2FVTDUxMGR5ZWg5dWtQbHNqNnFLTEFMSjBhNHVoSUxuNEpMaDI3bzM4VVdnU3hES3ZfTGhZSGF4RENZVWtwazdHclJ4MA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBya3VmQkp1U09yZFBfNU9ocUdvQzEwX2FVTDUxMGR5ZWg5dWtQbHNqNnFLTEFMSjBhNHVoSUxuNEpMaDI3bzM4VVdnU3hES3ZfTGhZSGF4RENZVWtwazdHclJ4MA?oc=5\" target=\"_blank\">Silicon Valley Acquisition Corp. (SVAQW) stock price, news, quote and his",
+  "date": "2026-11-23T18:27:46.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
  },
  {
   "id": "b4effa80f50c5508",
@@ -2242,6 +2374,17 @@
   "date": "2026-11-23T16:22:40.000Z",
   "fetched": "2026-11-23T18:03:13.159Z",
   "fromCloud": "2026-11-23T1803.json"
+ },
+ {
+  "id": "5c5dddb43ed4cdb5",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "First Carolina Bank owner names Ford president, Mathieson CFO - Business North Carolina",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOblpLRF83dVlnYXhWRVFjLVFIWjZvLWtmOUd0cUtUSzY3cHRQQklSaFhQOEZfSWdJY3p5Y19zbU12SzRQNzNCYTk0OXRNYUVFQU95c25ZVGU2TDJOVVp4SGxJRDdaSmtoMEZfVVI1cW91WDJVNlk5NUN0c2NOTTBLTG9yR1JZNHdhaGtKdlJSZ0Q?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOblpLRF83dVlnYXhWRVFjLVFIWjZvLWtmOUd0cUtUSzY3cHRQQklSaFhQOEZfSWdJY3p5Y19zbU12SzRQNzNCYTk0OXRNYUVFQU95c25ZVGU2TDJOVVp4SGxJRDdaSmtoMEZfVVI1cW91WDJVNlk5NUN0c2NOTTBLTG9yR1JZNHdhaGtKdlJSZ0Q?oc=5\" target=\"_blank\">First Caroli",
+  "date": "2026-11-23T16:21:05.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
  },
  {
   "id": "33f54a9ad6f194ed",
@@ -4409,5 +4552,16 @@
   "date": "2026-11-23T00:00:00.000Z",
   "fetched": "2026-11-23T18:33:14.359Z",
   "fromCloud": "2026-11-23T1833.json"
+ },
+ {
+  "id": "629751396015cd18",
+  "source": "McKinsey Insights",
+  "group": "cfo",
+  "title": "What it really takes to get value from AI: Highlights from McKinsey Media Day",
+  "link": "https://www.mckinsey.com/featured-insights/what-it-really-takes-to-get-value-from-ai-highlights-from-mckinsey-media-day",
+  "summary": "Companies are pouring money into AI, but few see returns. McKinsey leaders explain what separates the few—from picking problems to redesigning roles.",
+  "date": "2026-11-23T00:00:00.000Z",
+  "fetched": "2026-11-23T22:33:12.264Z",
+  "fromCloud": "2026-11-23T2233.json"
  }
 ]
