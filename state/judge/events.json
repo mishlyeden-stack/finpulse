@@ -1,19 +1,5 @@
 [
  {
-  "key": "OpenAI | הכנסות Q3 צמחו 70% — CFO מאשרת | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794200770036,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "2G Energy | החלפת CFO + הסכם AI לניהול מרכזי נתונים | נובמבר 2026",
-  "level": "learn",
-  "first": 1794200863805,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Cyera | גיוס 300 מיליון דולר בשווי 20 מיליארד דולר | נובמבר 2026",
   "level": "yellow",
   "first": 1794204356701,
@@ -4049,6 +4035,34 @@
   "key": "אנבידיה | הברחת שבבים לסין — רשת חברות ומתווכים | נובמבר 2026",
   "level": "yellow",
   "first": 1795408588871,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל | ירידה חדה מאז הבחירות — החלש במדינות מפותחות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795412187869,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | חוזים עולים בוול סטריט, אסיה ממשיכה לצלול | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795412187870,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "טייוואן | פירוק מינוף שיא — 1.5 מיליארד דולר הלוואות מנוגדות ביום אחד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795412187870,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | פרטים חדשים — קשר מודיעין סיני, טראמפ תודרך פעמיים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795412187870,
   "sentLive": false,
   "candidate": true
  }
