@@ -1,61 +1,5 @@
 [
  {
-  "key": "S&P | תחזית צמיחה ישראל עולה בזכות אנבידיה — לחץ תקציבי נשאר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794305213148,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "N-able N-central | 30+ חולשות zero-day — מערכת ניהול IT offline | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794305213149,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "IBM Aspera + SignalWire | חולשות מנוצלות פעילות — CISA KEV | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794305213149,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | אזהרה: איראן מפתחת יכולות סייבר מבוססות AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794305213149,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נורבגיה | הקפאת חיבורי מרכזי נתונים — עזריאלי מגיבה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794305213149,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "כנסת | ח״כ אבישר בן-חורין — יו״ר ועדת הכספים הראשונה מאישה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794305213149,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "יפן | ביקוש לאג״ח 30 שנה נחלש — יחס כיסוי ל-3.36 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794305213149,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "WSJ | סנקציות בריטיות עלולות לפגוע בהייטק ישראלי דרך איי קיימן | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794308762815,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "פד–וולר | העלאת ריבית דצמבר — אולי חצי אחוז | נובמבר 2026",
   "level": "red",
   "first": 1794314283021,
@@ -2831,6 +2775,20 @@
   "key": "נומריוס / גיוס 400 מיליון שקל + חוב 375 מיליון דולר / נובמבר 2026",
   "level": "yellow",
   "first": 1795514777293,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנקים ישראל / מרווח ריבית / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795518413916,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל / נגיד / לחצים אינפלציוניים / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795518413917,
   "sentLive": false,
   "candidate": true
  }
