@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 214
+  "blocked": 215
  },
  "en.globes.co.il": {
-  "ok": 61,
+  "ok": 62,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 394,
+  "ok": 395,
   "blocked": 10
  },
  "news.google.com": {
@@ -72,7 +72,7 @@
   "blocked": 21
  },
  "calcalistech.com": {
-  "ok": 87,
+  "ok": 88,
   "blocked": 0
  },
  "ptnow.co.il": {

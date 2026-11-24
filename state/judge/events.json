@@ -1,40 +1,5 @@
 [
  {
-  "key": "פד–וולר | העלאת ריבית דצמבר — אולי חצי אחוז | נובמבר 2026",
-  "level": "red",
-  "first": 1794314283021,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "KKR–נופר אנרג׳י | מכירת חוות שרתים פתח תקווה 85 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794314283021,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "גילת | החמצת ציפיות + קיצוץ תחזית + צניחת מניה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794314283021,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | רישיון לבנק חדש — תחרות בנקאית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794314283021,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Mer Group | 46 מיליון אירו בחוזי ביטחון וסייבר באפריקה המערבית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794314283021,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "CFO.com | סוכני AI בפיננסים — מה הם יכולים ומה לא | נובמבר 2026",
   "level": "learn",
   "first": 1794321523668,
@@ -2789,6 +2754,27 @@
   "key": "בנק ישראל / נגיד / לחצים אינפלציוניים / נובמבר 2026",
   "level": "yellow",
   "first": 1795518413917,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט / עסקת לוחמה אלקטרונית ימית גרמניה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795525666143,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "חברת הנעת טילים ישראלית / גיוס עד 180 מיליון דולר בבורסה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795525666143,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דולר / שיא שנה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795525812346,
   "sentLive": false,
   "candidate": true
  }
