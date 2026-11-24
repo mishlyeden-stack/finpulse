@@ -5,10 +5,10 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 211
+  "blocked": 213
  },
  "en.globes.co.il": {
-  "ok": 59,
+  "ok": 60,
   "blocked": 0
  },
  "bizportal.co.il": {
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 62,
+  "ok": 63,
   "blocked": 1
  },
  "securityweek.com": {
@@ -460,7 +460,7 @@
   "blocked": 1
  },
  "emess.co.il": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "thedailyupside.com": {
