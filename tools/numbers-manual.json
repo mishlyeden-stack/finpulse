@@ -1,6 +1,6 @@
 {
   "_note": "נתונים שאין להם API רשמי. מתעדכן ע\"י ה-Daily רק עם מקור מאומת. ערך לא מאומת לא נכתב. asOf = תאריך הנתון; maxAgeDays = אחרי כמה ימים הנתון נחשב ישן ומוסתר. (אבטלה מגיעה אוטומטית מסדרת בנק ישראל, זהה ל-Pulse; לא מעדכנים ידנית.)",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "numbers": [
     {
       "key": "cpi",
@@ -39,11 +39,11 @@
       "key": "us10y",
       "label": "אג״ח 10ש׳ ארה״ב",
       "value": "4.91%",
-      "change": "-0.20",
-      "note": "20 נובמבר 2026",
+      "change": "0.00",
+      "note": "24 נובמבר 2026",
       "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield",
       "by": "Investing.com",
-      "asOf": "2026-11-20",
+      "asOf": "2026-11-24",
       "maxAgeDays": 3
     },
     {
