@@ -121,3 +121,6 @@ Signal חוזר נשלח רק בהתפתחות מהותית שמשנה את הה
 | S-20261112-Rdf23 | אנבידיה \| ג׳נסן הואנג מתפטר — CFO קרס כמנכ״לית ביניים \| נובמבר 2026 | https://www.globes.co.il/news/article.aspx?did=1001563140#utm_source=RSS | Live RSS 2026-11-12 16:22 | התפתחות | 🔴 |
 | S-20261112-Rb424 | דולר–שקל \| זינוק + נפט ל-94 דולר אחרי צייץ טראמפ \| נובמבר 2026 | https://www.ynet.co.il/economy/article/s1m8er7cfx | Live RSS 2026-11-12 16:22 | התפתחות | 🔴 |
 | S-20261115-R95e1 | איראן \| תקיפת בית הצי החמישי בבחריין — השלכות נפט ושווקים \| נובמבר 2026 | https://www.bizportal.co.il/globalmarkets/news/article/20048582 | Live RSS 2026-11-15 10:39 | — | 🔴 |
+| S-20261124-Raf1d | CrowdStrike / Zscaler / רכישה / נובמבר 2026 | https://www.israeldefense.co.il/en/node/73176 | Live RSS 2026-11-24 09:36 | — | 🔴 |
+| S-20261124-Ree7c | שקל / פיחות 10% בחודש / נובמבר 2026 | https://en.globes.co.il/en/article-1001564502#utm_source=RSS | Live RSS 2026-11-24 09:54 | התפתחות | 🔴 |
+| S-20261124-Rc46d | אנבידיה / הואנג חוזר כמנכ״ל + זינוק 30% / נובמבר 2026 | https://www.globes.co.il/news/article.aspx?did=1001564516#utm_source=RSS | Live RSS 2026-11-24 09:54 | — | 🔴 |
