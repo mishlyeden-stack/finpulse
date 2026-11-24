@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 308,
+  "ok": 313,
   "blocked": 6
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 209
+  "blocked": 211
  },
  "en.globes.co.il": {
   "ok": 59,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 386,
+  "ok": 389,
   "blocked": 10
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 285
+  "blocked": 289
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 120
+  "blocked": 121
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -56,7 +56,7 @@
   "blocked": 1
  },
  "securityweek.com": {
-  "ok": 91,
+  "ok": 92,
   "blocked": 0
  },
  "ice.co.il": {
@@ -64,8 +64,8 @@
   "blocked": 9
  },
  "datacenterdynamics.com": {
-  "ok": 32,
-  "blocked": 65
+  "ok": 33,
+  "blocked": 66
  },
  "funder.co.il": {
   "ok": 0,
@@ -380,7 +380,7 @@
   "blocked": 0
  },
  "finance.walla.co.il": {
-  "ok": 1,
+  "ok": 2,
   "blocked": 0
  },
  "tech-insider.org": {
@@ -741,7 +741,7 @@
  },
  "marketscreener.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "keif.co.il": {
   "ok": 2,
@@ -781,7 +781,7 @@
  },
  "datacentremagazine.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "c14.co.il": {
   "ok": 0,
@@ -870,5 +870,17 @@
  "informationweek.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "investinglive.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "fordauthority.com": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "subtelforum.com": {
+  "ok": 0,
+  "blocked": 1
  }
 }

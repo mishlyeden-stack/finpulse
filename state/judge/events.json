@@ -1,117 +1,5 @@
 [
  {
-  "key": "ואנטה–פילאר | רכישת סטארטאפ ישראלי ב-150 מיליון דולר — פי 16 מהגיוס | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794284214994,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בואינג | קיצוץ 5% מכוח אדם אזרחי — 737 לא עומד ביעדי ייצור | נובמבר 2026",
-  "level": "learn",
-  "first": 1794284214994,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טריפאדוויזר | מנכ״ל ו-CFO עוזבים — ארגון מחדש רחב | נובמבר 2026",
-  "level": "learn",
-  "first": 1794284214994,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פלאפון | רכישת ווקום ב-265 מיליון שקל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794284214994,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אקסוניוס | קיצוץ 22% מכוח הפיתוח הישראלי — ארגון מחדש AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794284214994,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "איירווירונמנט | חוזה רחפנים עד 940 מיליון דולר — זינוק 10% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794284214994,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "גולדמן זקס–סולומון | מימון AI נמשך למרות ירידת מניות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794284214994,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ויקטורי–קרפור | תוכנית מיזוג מלא ו-210 סניפים — בקשה לרשות תחרות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794284214994,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | תיקון 13 לחוק הגנת הפרטיות — 178 הליכים וקנסות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794285607560,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Vistra | 70% צמיחה בתזרים חופשי בלי להסתמך על AI — ניהול פיננסי | נובמבר 2026",
-  "level": "learn",
-  "first": 1794285607560,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | מי יהיה שר האוצר הבא בממשלת איזנקוט | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794285607560,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טייוואן | בורסה זינקה 5% אחרי התערבות ממשלתית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794285607560,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ג'יי פי מורגן | מטא עולה, אלפאבית יורדת — רוטציה בענקיות האינטרנט | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794285607560,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נאמן פרסונל | תביעה 480 מיליון שקל מדיסקונט ומזרחי — אחריות בנק למימון קבוצה כושלת | נובמבר 2026",
-  "level": "learn",
-  "first": 1794285839109,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "גולסבי–פד | נכשלנו באינפלציה + בום AI מחמם כלכלה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794285839109,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נאבורי לאבס | רכישת Carousel Digital Signage מ-Tightrope | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794285839109,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל | דירוג אשראי בסכנה — כלכלן בכיר | נובמבר 2026",
   "level": "yellow",
   "first": 1794286138320,
@@ -4084,6 +3972,76 @@
   "key": "אירו סנטינל | רחפן 16 ק״מ בלי אנטנות חיצוניות | נובמבר 2026",
   "level": "yellow",
   "first": 1795493756641,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "PIMCO | AI ומימון מחדש — שוק אג״ח קונצרני נקרע לשניים | נובמבר 2026",
+  "level": "learn",
+  "first": 1795495046398,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אונדס | עצירת רכישות אחרי צניחה 73% במניה — שינוי אסטרטגיה | נובמבר 2026",
+  "level": "learn",
+  "first": 1795495046398,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "כצמן–נורסטאר | אג״ח בתשואת זבל, מניה בשפל — חיפוש פתרונות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795495046398,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | נגיד ירון אחרי החלטת ריבית — העלאת מיסים כורח המציאות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795495227618,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שרתי AI | יצרני OEM מעלים מחירים 45% — מחסור בזיכרון | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795495227618,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Dell | זינוק 22% לפני דוחות — שרתי AI צפויים לדחוף הכנסות +82% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795495227618,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Salesforce | סיטי חותך יעד מחיר 25% — ביקוש AI מאכזב | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795495227619,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | הואנג חוזר לתפקיד CEO — שווקים מתאוששים | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795495430482,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Azure | פגיעות API ניוצלה נגד חברות אנרגיה נורווגיות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795495430482,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בנק ישראל | נגיד ירון קורא להקמת ממשלה בהקדם | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795495430483,
   "sentLive": false,
   "candidate": true
  }
