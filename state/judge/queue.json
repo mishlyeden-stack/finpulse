@@ -1,5 +1,60 @@
 [
  {
+  "id": "e9d709089fc92ecc",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "בגלל חור בחוק השיקום: הדיירים שביתם נחרב מפגיעת טיל לא יזכו להטבות - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnM2Q1pSV2R4bDZ6VkN1dWJmREJTdlRCLUVwaW5POXlscUJOLWJEX1JCcGxMWXA5UW84MG9GX2Rkc1lnWGZ3bUk0MEdaMk5saFdwNWdXRV9JLThOV0NIYjFhTWNFTjJxNjBSTGtoeFg5bkl6bURPRjBISl8zczZYaVJBTWd6YkV5M0J4V1FRWjZYcUFLa1lHM0R1dzdxV0QzRVN4di14OTNldw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnM2Q1pSV2R4bDZ6VkN1dWJmREJTdlRCLUVwaW5POXlscUJOLWJEX1JCcGxMWXA5UW84MG9GX2Rkc1lnWGZ3bUk0MEdaMk5saFdwNWdXRV9JLThOV0NIYjFhTWNFTjJxNjBSTGtoeFg5bkl6bURPRjBISl8zczZYaVJBTWd6YkV5M0J4V1FRWjZYcUFLa1lHM0R1dzdxV0QzRVN4di14OTNldw",
+  "date": "2026-11-24T17:52:00.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
+ },
+ {
+  "id": "aa0833b646412764",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "דלק ישראל פועלת להנפקה לפי שווי של 1.7-1.8 מיליארד שקל - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PeGJ1YmcteDBGZU9pZ1hlNmlXbDc5Wi0wRDljZldIRVRuTVRYVlBXeDJ6dlhLa0RmQUd4VGthLVBvbTBOaDRZWGw3cGFfX0Y0aFlRWWVqZDZ1NFZUaHpMOVhHaw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PeGJ1YmcteDBGZU9pZ1hlNmlXbDc5Wi0wRDljZldIRVRuTVRYVlBXeDJ6dlhLa0RmQUd4VGthLVBvbTBOaDRZWGw3cGFfX0Y0aFlRWWVqZDZ1NFZUaHpMOVhHaw?oc=5\" target=\"_blank\">דלק ישראל פועלת להנפקה לפי שווי של 1.7-1.8 מיליארד שקל</a>&nbsp;&nbsp;<fo",
+  "date": "2026-11-24T17:48:00.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
+ },
+ {
+  "id": "233373c3b97a5ff9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CFOLC President Jack McCullough’s Exit Interview - The Daily Upside",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1pjNjhTUm5hZjdxVzJEZV9PejcwMFd5NHVFNlhLdUpRSnlJWUZWX2JCcWlxclRTZEVTU3k4U2hPNGdoWERwUHAtYzhFVHg2Sk15XzRDUXZIdlBseUI4dVBfRmFxUFRaaVAxaVBEb1J2RndNSlYzQUVHZ3E0bmFnUnhUcHdyTEo1cmg0ZVExWk9OT2cwZ0V1aHR5SVhObzN4RVREUGlDWWRwRmVQb3lPSi1Ma1JKQ1l1dUZQamhXU2VMcHNzbnhSS2NKMFk2Si1uNm8yUEhIZDdLUEx6VThlUA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1pjNjhTUm5hZjdxVzJEZV9PejcwMFd5NHVFNlhLdUpRSnlJWUZWX2JCcWlxclRTZEVTU3k4U2hPNGdoWERwUHAtYzhFVHg2Sk15XzRDUXZIdlBseUI4dVBfRmFxUFRaaVAxaVBEb1J2RndNSlYzQUVHZ3E0bmFnUnhUcHdyTEo1cmg0ZVExWk9OT2cwZ0V1aHR5SVhObzN4RVREUGlDWWRwRm",
+  "date": "2026-11-24T17:48:00.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
+ },
+ {
+  "id": "8d3386e467d080f3",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "El Al to buy Phoenix's stake in Frequent Flyer club at NIS 4.2 billion valuation - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVC04S3hiaXR3b3cwTmFYYnczbmhTRVpaaldwd1h0OXR4TGFRMVR1RzFmMWhhYzgxTUJJX01STW9yc2JZS2RwVjVDLWZSMWJWM1NvdTFsN0pHaEZ4TVl1U1BId0pVZWs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVC04S3hiaXR3b3cwTmFYYnczbmhTRVpaaldwd1h0OXR4TGFRMVR1RzFmMWhhYzgxTUJJX01STW9yc2JZS2RwVjVDLWZSMWJWM1NvdTFsN0pHaEZ4TVl1U1BId0pVZWs?oc=5\" target=\"_blank\">El Al to buy Phoenix's stake in Frequent Flyer club at NIS 4.2 billi",
+  "date": "2026-11-24T17:45:00.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
+ },
+ {
+  "id": "7da997701cdc33d4",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "SPDV: High Free Cash Flow Yields Don't Guarantee High Quality - Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRTBBdnNuSTRWRTVrSnpEV001Wnl4OW0wTFNrNHZvTElIQjBmY05JSEc1dXhfRl9oTE96VFd0d1RVOWtMMG1HMXVlVHNHUmhtV1lKQlg0aFZjRGk5OEc4dTA4U1BzLU9SbVJtcXBkYkF4SHFiMkZPMjFBSk1sVllHOHZQeVFPVDQ4c0dQd043YV8xYk5WWU1BTF9lWnd4dEc0YWZRRVZkZGZxU2x6aW50enZSNFFEb3Ftck5jOG1ZNWN2d05EdzJrbQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRTBBdnNuSTRWRTVrSnpEV001Wnl4OW0wTFNrNHZvTElIQjBmY05JSEc1dXhfRl9oTE96VFd0d1RVOWtMMG1HMXVlVHNHUmhtV1lKQlg0aFZjRGk5OEc4dTA4U1BzLU9SbVJtcXBkYkF4SHFiMkZPMjFBSk1sVllHOHZQeVFPVDQ4c0dQd043YV8xYk5WWU1BTF9lWnd4dEc0YWZRRVZkZGZxU2",
+  "date": "2026-11-24T17:34:22.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
+ },
+ {
   "id": "79200c82de1fcd91",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -9,6 +64,17 @@
   "date": "2026-11-24T17:25:00.000Z",
   "fetched": "2026-11-24T17:33:12.920Z",
   "fromCloud": "2026-11-24T1733.json"
+ },
+ {
+  "id": "8f676daccb2f8069",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "עסקת ענק: אל על רוכשת מהפניקס 25% מהנוסע המתמיד לפי 4.2 מיליארד ש' - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjlyLTlfZ1BTVGNEOXJvMVJMR1pCRHZwOFc1VVpRZkUtcm50T01yTEU2eE04cVE0ekpRRE5iRkc5ME5GQVR3amtYaGhpcnVFMWtwempabDg3QkxtOExwQkJ6SFNuNWVEM2JLRVNwT3JTVWpGR0pqVDFyM3VhRXhrRUlYTVlwLXpfTjJKSlNQTlRBVDQwXzc1N0F4eWk1V3pyR19J?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjlyLTlfZ1BTVGNEOXJvMVJMR1pCRHZwOFc1VVpRZkUtcm50T01yTEU2eE04cVE0ekpRRE5iRkc5ME5GQVR3amtYaGhpcnVFMWtwempabDg3QkxtOExwQkJ6SFNuNWVEM2JLRVNwT3JTVWpGR0pqVDFyM3VhRXhrRUlYTVlwLXpfTjJKSlNQTlRBVDQwXzc1N0F4eWk1V3pyR19J?oc=5\" tar",
+  "date": "2026-11-24T17:25:00.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
  },
  {
   "id": "8863abb70c68abd3",
@@ -53,6 +119,17 @@
   "date": "2026-11-24T17:16:38.000Z",
   "fetched": "2026-11-24T17:33:12.920Z",
   "fromCloud": "2026-11-24T1733.json"
+ },
+ {
+  "id": "d98b932ba2309ddc",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אבי לוי מסמן שווי גבוה מ-1.06 מיליארד שקל להנפקת דלק ישראל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNEVyd2QzYzg3alRnMkV6SUtfZ0VtZUZWVEVUc2ZlUW5hV2kxVG85ZkpKQlh2SDMwN05wTmEtOHllYXd6Y1g4eGJxVi1vNnZjS19yR3gtNVN1TU53UGQtVFlFbHJTWWU4UUZqUHF5TE8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNEVyd2QzYzg3alRnMkV6SUtfZ0VtZUZWVEVUc2ZlUW5hV2kxVG85ZkpKQlh2SDMwN05wTmEtOHllYXd6Y1g4eGJxVi1vNnZjS19yR3gtNVN1TU53UGQtVFlFbHJTWWU4UUZqUHF5TE8?oc=5\" target=\"_blank\">אבי לוי מסמן שווי גבוה מ-1.06 מיליארד שקל להנפקת דלק ישר",
+  "date": "2026-11-24T17:16:00.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
  },
  {
   "id": "c42258a8432f1ef2",
@@ -163,6 +240,17 @@
   "date": "2026-11-24T17:05:33.000Z",
   "fetched": "2026-11-24T17:33:12.920Z",
   "fromCloud": "2026-11-24T1733.json"
+ },
+ {
+  "id": "3b25974f93502f4d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Colibri Resource Corporation (CBI) Proposes All-Share Copper Project Acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVhfQXdrX3NCRlRGbVowMjFfY29UVUw3ZTZwQ28yeEhZcW1tby1lOWQwaFp5MnZySWs1YktZbU0tQjFtTnpoQl9IdnNWX2lpMGprcTkzdUdsbHBQc0t1QTVmQnhHTVVBcjJWQTZjMGxOWG8wemVQam1MejRwOEl6S0xuUDBMdzRkZ0pBWDN3SDVSUDdRV3BhSUU1aU12QmR6RTVzbUFWWjFLZmtxeDMwRU0wM1pDTm9wWkhvM080WF9rUmNRenctUnZXUUEyNDY5Z0xrNlZHTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVhfQXdrX3NCRlRGbVowMjFfY29UVUw3ZTZwQ28yeEhZcW1tby1lOWQwaFp5MnZySWs1YktZbU0tQjFtTnpoQl9IdnNWX2lpMGprcTkzdUdsbHBQc0t1QTVmQnhHTVVBcjJWQTZjMGxOWG8wemVQam1MejRwOEl6S0xuUDBMdzRkZ0pBWDN3SDVSUDdRV3BhSUU1aU12QmR6RTVzbUFWWjFLZm",
+  "date": "2026-11-24T17:05:00.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
  },
  {
   "id": "de8db458236fdedd",
@@ -1857,6 +1945,17 @@
   "fromCloud": "2026-11-24T1603.json"
  },
  {
+  "id": "92dd355beb85f40d",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "אחרי הזינוק בוול סטריט: הבורסה בת\"א סיימה במגמה מעורבת - YNET",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xWDRuUEpCd1hIdDlqOHNVTmQ3VlRsQThUOFFzcFFoUEZOVWRtRzVkbTBPY3lST2hfMnBLeDBiV1JqNjdhdUZzdmlBY25XUkVrVWhRZjVlZU9ONWhpX0E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xWDRuUEpCd1hIdDlqOHNVTmQ3VlRsQThUOFFzcFFoUEZOVWRtRzVkbTBPY3lST2hfMnBLeDBiV1JqNjdhdUZzdmlBY25XUkVrVWhRZjVlZU9ONWhpX0E?oc=5\" target=\"_blank\">אחרי הזינוק בוול סטריט: הבורסה בת\"א סיימה במגמה מעורבת</a>&nbsp;&nbsp;<font colo",
+  "date": "2026-11-24T12:34:21.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
+ },
+ {
   "id": "27daecc7e1697218",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -1912,6 +2011,28 @@
   "fromCloud": "2026-11-24T1703.json"
  },
  {
+  "id": "0783efcbd17ff3ba",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "משק אנרגיה תמכור חשמל לנכסי אשטרום בכ-250 מיליון שקל בעשור - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Jak02ZWhBdXRZYlpBZmVIU1Jub0JaU25sSHJLaEpNY2tHYnNaVnRqbFdwdVA0djl4SXh3cUYxNHZ2ZWdEQ0JJM2Y0MUY1Mm5UcHl0T05ESVdnUGxQSzRlMzFhVkdhd2c?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Jak02ZWhBdXRZYlpBZmVIU1Jub0JaU25sSHJLaEpNY2tHYnNaVnRqbFdwdVA0djl4SXh3cUYxNHZ2ZWdEQ0JJM2Y0MUY1Mm5UcHl0T05ESVdnUGxQSzRlMzFhVkdhd2c?oc=5\" target=\"_blank\">משק אנרגיה תמכור חשמל לנכסי אשטרום בכ-250 מיליון שקל בעשור</a>&nbsp;",
+  "date": "2026-11-24T11:38:00.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
+ },
+ {
+  "id": "b0749de64561a344",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שליח שמאחר ביותר מ-4 שעות מזכה את הלקוח בפיצוי של 300 שקל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hTzRiMFkwbnhHT3pjZ3ViaEN2MFdZNF9hdTl2bEc0TFl6eUN6eWpXWHhjZ1VfcHh1QmlpSmRFaDktTGZxVXJVUVVTNldLYU1VbXdURW9FVnZKTVhEaHFZU3VxOUVQQUJpT3NScE1MakI5RTBWWGdxMHJR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1hTzRiMFkwbnhHT3pjZ3ViaEN2MFdZNF9hdTl2bEc0TFl6eUN6eWpXWHhjZ1VfcHh1QmlpSmRFaDktTGZxVXJVUVVTNldLYU1VbXdURW9FVnZKTVhEaHFZU3VxOUVQQUJpT3NScE1MakI5RTBWWGdxMHJR?oc=5\" target=\"_blank\">שליח שמאחר ביותר מ-4 שעות מזכה את הלקוח בפי",
+  "date": "2026-11-24T11:32:00.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
+ },
+ {
   "id": "a73bc640f6896360",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -1943,6 +2064,17 @@
   "date": "2026-11-24T11:10:00.000Z",
   "fetched": "2026-11-24T14:33:12.932Z",
   "fromCloud": "2026-11-24T1433.json"
+ },
+ {
+  "id": "d7e6ff10861b4ec5",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "סקירת מט\"ח - אפקט אנבידיה: וול סטריט תיקנה בחדות אחרי שבוע של נפילות - פאנדר",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3ZjBuNnJxNWpUMU5ieDVndExIbTBlSHdObnNRQlZHM3JnR2dmanpaNjRyWEsxQTJwNGhQLWY3dGpFMk00TXJWYUZqZ0VHNjZ2?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3ZjBuNnJxNWpUMU5ieDVndExIbTBlSHdObnNRQlZHM3JnR2dmanpaNjRyWEsxQTJwNGhQLWY3dGpFMk00TXJWYUZqZ0VHNjZ2?oc=5\" target=\"_blank\">סקירת מט\"ח - אפקט אנבידיה: וול סטריט תיקנה בחדות אחרי שבוע של נפילות</a>&nbsp;&nbsp;<font color=\"#6",
+  "date": "2026-11-24T10:34:26.000Z",
+  "fetched": "2026-11-24T18:03:23.657Z",
+  "fromCloud": "2026-11-24T1803.json"
  },
  {
   "id": "d5cb9c0d945f77a4",
@@ -2042,16 +2174,5 @@
   "date": "2026-11-23T19:49:03.000Z",
   "fetched": "2026-11-24T15:33:16.231Z",
   "fromCloud": "2026-11-24T1533.json"
- },
- {
-  "id": "33c2cc319813e578",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "המשקיעים בורחים לחו\"ל: סיכום שבוע המסחר הסוער בבורסת ת\"א - ice (אייס)",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41cFoxR3B0UjVLeFhnRmRVQ0dWTURTZXZOb191U2xOYmRFVWVTeEc4eGhnUUpVQzgzRzJPdXRLdkFiakpjQ3FrNzhGbllBRzFvR2E5aHhaTVlKblNKcnpV?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE41cFoxR3B0UjVLeFhnRmRVQ0dWTURTZXZOb191U2xOYmRFVWVTeEc4eGhnUUpVQzgzRzJPdXRLdkFiakpjQ3FrNzhGbllBRzFvR2E5aHhaTVlKblNKcnpV?oc=5\" target=\"_blank\">המשקיעים בורחים לחו\"ל: סיכום שבוע המסחר הסוער בבורסת ת\"א</a>&nbsp;&nbsp;<font c",
-  "date": "2026-11-23T17:45:57.000Z",
-  "fetched": "2026-11-24T16:03:12.509Z",
-  "fromCloud": "2026-11-24T1603.json"
  }
 ]
