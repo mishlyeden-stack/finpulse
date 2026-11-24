@@ -139,3 +139,4 @@ Signal חוזר נשלח רק בהתפתחות מהותית שמשנה את הה
 | S-20261124-03 | וואן טכנולוגיות \| רכישת פיקס סולושנז ב-358 מיליון שקל — 12,000 עובדים, 7 מיליארד הכנסות \| 23.11.2026 | https://www.pc.co.il/featured/461970/ | Daily 24.11 (כדאי לדעת) | — | 📰 |
 | S-20261124-04 | מוסדיים ישראל \| חשיפה 191 מיליארד דולר לנכסים זרים — פי 6 מקורונה \| 23.11.2026 | https://www.bizportal.co.il/general/news/article/20049738 | Daily 24.11 (כדאי להבין) | — | 🧠 |
 | S-20261124-05 | SAP CFO \| AI יאט גיוסים + KPI חדש בינואר 2027 \| 23.11.2026 | https://www.cfodive.com/news/ai-productivity-gains-slow-headcount-sap-cfo-predicts/875530/ | Daily 24.11 (כדאי לחשוב) | — | 🎓 |
+| S-20261124-Rc55f | תומר / גיוס חוב 600 מיליון שקל / נובמבר 2026 | https://www.globes.co.il/news/article.aspx?did=1001564612#utm_source=RSS | Live RSS 2026-11-24 11:15 | — | 🔴 |
