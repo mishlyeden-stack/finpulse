@@ -2833,5 +2833,12 @@
   "first": 1795507804008,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "תומר / גיוס חוב 600 מיליון שקל / נובמבר 2026",
+  "level": "red",
+  "first": 1795511172551,
+  "sentLive": true,
+  "candidate": false
  }
 ]
