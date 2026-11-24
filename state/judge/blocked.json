@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 313,
+  "ok": 314,
   "blocked": 6
  },
  "calcalist.co.il": {
@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 393,
+  "ok": 394,
   "blocked": 10
  },
  "news.google.com": {
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 61,
+  "ok": 62,
   "blocked": 1
  },
  "securityweek.com": {
