@@ -1,89 +1,5 @@
 [
  {
-  "key": "רשות המסים | העלאת שיעור דיבידנד כפוי על רווחים כלואים ל-8% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794283627136,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פנטגון | אסטרטגיית רכש ארגונית ל-AI בסימולציה ומלחמה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794283627137,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Trade Desk | הכנסות Q3 עקפו ב-86 מיליון דולר — CFO מזהיר מרבעון חלש | נובמבר 2026",
-  "level": "learn",
-  "first": 1794283627137,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בנק ישראל | הוראת שעה מבצעי קבלנים — הדדליין מתקרב, 45% מדירות ספטמבר עם הטבות מימון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794283627137,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "סקיידאנס–פרמאונט | 6 מיליארד דולר חיסכון עלויות לאחר רכישה | נובמבר 2026",
-  "level": "learn",
-  "first": 1794283759586,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "לוסיד | החמצת תחזיות + הרחבת הלוואה סעודית + מבנה חוב | נובמבר 2026",
-  "level": "learn",
-  "first": 1794283759586,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קונסטליישן סופטוור | העלאת תחזית + זינוק 10% — מנכ״ל: תגובת השוק לבחירות מוגזמת | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794283989217,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "The Children's Place | פשיטת רגל פרק 11 + חיפוש קונה — קמעונאות ביגוד | נובמבר 2026",
-  "level": "learn",
-  "first": 1794283989217,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פפפסיקו | קיצוץ 1,000 משרות בצפון אמריקה — פעילות מתקשה | נובמבר 2026",
-  "level": "learn",
-  "first": 1794283989217,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארה״ב | מדד CPI אוקטובר יפורסם ללא נתון אינפלציה שנתית — השבתת 2025 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794283989217,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "דיפלומט | כניסה למקסיקו ב-45 מיליון דולר — רכישת שני מפיצים מקומיים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794283989218,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ביטוח | מנכ״לים תוקפים מודל תגמול סוכנים — ניוד יתר פוגע בחוסכים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794283989218,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ואנטה–פילאר | רכישת סטארטאפ ישראלי ב-150 מיליון דולר — פי 16 מהגיוס | נובמבר 2026",
   "level": "yellow",
   "first": 1794284214994,
@@ -4063,6 +3979,111 @@
   "key": "תע״א | דוחות Q3 2026 — צבר שיא 35.6 מיליארד דולר, מכירות +20%, רווח נקי +30%",
   "level": "yellow",
   "first": 1795442912660,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Peloton | בייבק 300 מיליון דולר אחרי מחזור חוב — מהפיגור לתזרים חיובי | נובמבר 2026",
+  "level": "learn",
+  "first": 1795493297185,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CrowdStrike–Zscaler | CEO מגן על הרכישה: ׳שילוב מנצח׳ | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493297186,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "HPE | רבעון שיא והעלאת תחזיות אבל מניה -7% אחרי שעות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493297186,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קוקה-קולה | נשיא וCFO פורשים — מינוי יורש | נובמבר 2026",
+  "level": "learn",
+  "first": 1795493297186,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI בארגונים | CIO ו-CFO הופכים לצמד הכוח החדש — שינוי מבני | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493297186,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שווקים | בורסות אסיה מזנקות — קוספי +6.7%, ניקיי +3.9% | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493297186,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Workday | השלמת רכישת C1.ai — ממשל זהות ל-AI Agents | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493297186,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה | Colette Kress בספוטלייט עם חזרת הואנג — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493454443,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב | פעילות עסקית מתקררת — אינפלציה מכבידה על S&P PMI — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493454443,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "PwC | הסמכת 85 אלף עובדים בחשיבה ביקורתית — AI וכוח אדם — נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493454443,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Gartner | CFO סדרי עדיפויות 2027 — שליטה בעלויות מול AI | נובמבר 2026",
+  "level": "learn",
+  "first": 1795493756640,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמזון | רכישת Decart ב-7.5 מיליארד דולר — אקזיט ישראל | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493756640,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "BTIG | ראלי וול סטריט הגיע ליעד — S&P 500 צפוי לחזור לרדת | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493756640,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI Enterprises | חברת ה-AI של יו״ר OpenAI מכפילה שווי ל-30 מיליארד | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493756640,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אירו סנטינל | רחפן 16 ק״מ בלי אנטנות חיצוניות | נובמבר 2026",
+  "level": "yellow",
+  "first": 1795493756641,
   "sentLive": false,
   "candidate": true
  }

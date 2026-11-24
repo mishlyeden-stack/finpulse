@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 307,
+  "ok": 308,
   "blocked": 6
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 207
+  "blocked": 209
  },
  "en.globes.co.il": {
   "ok": 59,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 380,
+  "ok": 386,
   "blocked": 10
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 282
+  "blocked": 285
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 119
+  "blocked": 120
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 168
+  "blocked": 172
  },
  "ecb.europa.eu": {
   "ok": 7,
@@ -109,7 +109,7 @@
  },
  "investing.com": {
   "ok": 0,
-  "blocked": 8
+  "blocked": 9
  },
  "sadanews.ps": {
   "ok": 1,
@@ -136,7 +136,7 @@
   "blocked": 0
  },
  "cfodive.com": {
-  "ok": 28,
+  "ok": 31,
   "blocked": 1
  },
  "businesswire.com": {
@@ -173,10 +173,10 @@
  },
  "streetinsider.com": {
   "ok": 0,
-  "blocked": 3
+  "blocked": 4
  },
  "cnbc.com": {
-  "ok": 23,
+  "ok": 24,
   "blocked": 3
  },
  "inquirer.com": {
@@ -184,7 +184,7 @@
   "blocked": 0
  },
  "fortune.com": {
-  "ok": 3,
+  "ok": 4,
   "blocked": 0
  },
  "mckinsey.com": {
@@ -261,7 +261,7 @@
  },
  "reuters.com": {
   "ok": 0,
-  "blocked": 8
+  "blocked": 9
  },
  "globalbankingandfinance.com": {
   "ok": 0,
@@ -288,7 +288,7 @@
   "blocked": 2
  },
  "citybiz.co": {
-  "ok": 0,
+  "ok": 1,
   "blocked": 1
  },
  "breakingthenews.net": {
@@ -424,7 +424,7 @@
   "blocked": 1
  },
  "finance.biggo.com": {
-  "ok": 6,
+  "ok": 7,
   "blocked": 0
  },
  "inc.com": {
@@ -437,7 +437,7 @@
  },
  "forbes.com": {
   "ok": 0,
-  "blocked": 1
+  "blocked": 2
  },
  "thedesk.net": {
   "ok": 0,
@@ -862,5 +862,13 @@
  "satelliteprome.com": {
   "ok": 0,
   "blocked": 1
+ },
+ "ajc.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "informationweek.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }
