@@ -1,0 +1,176 @@
+{
+ "batch": "2026-11-25T2133",
+ "created": "2026-11-25T21:33:11.994Z",
+ "items": [
+  {
+   "id": "70cc83f260cdc0a3",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Inflection Point Acquisition Corp. VII (0002088805) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026124196/0001213900-26-124196-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001213900-26-124196 <b>Size:</b> 385 KB <br>Item 5.07: Submission of Matters to a Vote of Security Holders <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+   "date": "2026-11-25T21:30:58.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "72715ae60998086e",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Retension Pharmaceuticals, Inc. (0002002988) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2002988/000110465926132078/0001104659-26-132078-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001104659-26-132078 <b>Size:</b> 312 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements o",
+   "date": "2026-11-25T21:30:39.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "7265ff086be15c65",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Dare Bioscience, Inc. (0001401914) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1401914/000140191426000059/0001401914-26-000059-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001401914-26-000059 <b>Size:</b> 161 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing <br>Item 8.01: Other Events",
+   "date": "2026-11-25T21:30:30.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "ff9f35dc0a8f4667",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Vesicor Therapeutics Holdings, Inc. (0002000775) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2000775/000182912626012883/0001829126-26-012883-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001829126-26-012883 <b>Size:</b> 4 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.01: Completion of Acquisition or Disposition of Assets <br>Item 3.03: Material Modifications to Rights of Security Holders <br>Item 4",
+   "date": "2026-11-25T21:30:24.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "592c7165d051e949",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Legato Merger Corp. IV (0002087450) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2087450/000182912626012882/0001829126-26-012882-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001829126-26-012882 <b>Size:</b> 263 KB <br>Item 4.02: Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review",
+   "date": "2026-11-25T21:30:18.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "16e2175b42595069",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Blackstone Private Equity Strategies Fund (TE) L.P. (0001953940) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1953940/000193005426000043/0001930054-26-000043-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001930054-26-000043 <b>Size:</b> 275 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure",
+   "date": "2026-11-25T21:27:40.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "163d242a4ca4a47f",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Blackstone Private Equity Strategies Fund L.P. (0001930054) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1930054/000193005426000043/0001930054-26-000043-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001930054-26-000043 <b>Size:</b> 275 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure",
+   "date": "2026-11-25T21:27:40.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "a94ea3b5cc97ab5b",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Blackstone Infrastructure Strategies (TE) L.P. (0002050229) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2050229/000203077226000043/0002030772-26-000043-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0002030772-26-000043 <b>Size:</b> 313 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure",
+   "date": "2026-11-25T21:22:45.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "c8043295f16f1abe",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Blackstone Infrastructure Strategies L.P. (0002030772) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2030772/000203077226000043/0002030772-26-000043-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0002030772-26-000043 <b>Size:</b> 313 KB <br>Item 3.02: Unregistered Sales of Equity Securities <br>Item 7.01: Regulation FD Disclosure",
+   "date": "2026-11-25T21:22:45.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "bec590e4ad6bfabe",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - Acumen Pharmaceuticals, Inc. (0001576885) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026075994/0001628280-26-075994-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001628280-26-075994 <b>Size:</b> 150 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+   "date": "2026-11-25T21:21:48.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "322d59d2ece8a1ee",
+   "source": "CNBC Business",
+   "group": "global-press",
+   "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+   "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+   "summary": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+   "date": "2026-11-25T21:26:36.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "2a4b6799458d509f",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Inflection Point Acquisition Corp. VII (IPXG) stock price, news, quote and history - Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LT01FcjYyUDlTQTRVcnV6ODdpTlJ0cmxRSkduWVBJVGlWd3BvSmlsZnFUczFHNzNUVHo2MHdDeFRTVXJNMTV6aU5mMUhfVG53RGc?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LT01FcjYyUDlTQTRVcnV6ODdpTlJ0cmxRSkduWVBJVGlWd3BvSmlsZnFUczFHNzNUVHo2MHdDeFRTVXJNMTV6aU5mMUhfVG53RGc?oc=5\" target=\"_blank\">Inflection Point Acquisition Corp. VII (IPXG) stock price, news, quote and history</a>&nbsp;&nbs",
+   "date": "2026-11-25T21:05:37.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "295dd256e8b89087",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Host Hotels Adds $29M Retail, Parking Properties to Brooklyn Hotel Buy - Commercial Observer",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmNRc1VRREN4SWoyRWtkRkhHdVRsMUphbmwtaXRCOTJRWEVvVUlGUS1Fb2I3UDVWQVpmTXVlamlvcm9obUxPczMzWV9LLUUwcXNlU0piMUU0ME1ZV0xTRXpfVTZaN1l6cGdhWUZTTnJVVUtEbzNpekJnd1c0dmNCRjFJZkZ5dVY5NXFBbTNuamc4RWwzcHlRNHd3?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmNRc1VRREN4SWoyRWtkRkhHdVRsMUphbmwtaXRCOTJRWEVvVUlGUS1Fb2I3UDVWQVpmTXVlamlvcm9obUxPczMzWV9LLUUwcXNlU0piMUU0ME1ZV0xTRXpfVTZaN1l6cGdhWUZTTnJVVUtEbzNpekJnd1c0dmNCRjFJZkZ5dVY5NXFBbTNuamc4RWwzcHlRNHd3?oc=5\" target=\"_blank\"",
+   "date": "2026-11-25T19:12:24.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "3cb5213157a8cfde",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Slate Grocery REIT unitholders approve acquisition by Brixmore and Everview (SGR.UN:CA:TSX) - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVFmMjJmaUhjOF80RDRxc3NqdktwcTNpOXhEbk5nRk5PV0h5SVFuaDY4SGZQUmxlbXVvSE0xVEYyXzQ1c3pnTkhaLUI5YjFHRnM2aTlKVkZxQ3lNLUY4UHJ6VWlkME1YRHUtT19wRXNQbGtWUWJIYUtnLU9FX2FWTjlMNjFkVHhfVzQxUjhXblR6d1lTZ01UYVNlTWplOVdOMVJ0dE1vVEhCSFJjbVB6ZFg2MA?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVFmMjJmaUhjOF80RDRxc3NqdktwcTNpOXhEbk5nRk5PV0h5SVFuaDY4SGZQUmxlbXVvSE0xVEYyXzQ1c3pnTkhaLUI5YjFHRnM2aTlKVkZxQ3lNLUY4UHJ6VWlkME1YRHUtT19wRXNQbGtWUWJIYUtnLU9FX2FWTjlMNjFkVHhfVzQxUjhXblR6d1lTZ01UYVNlTWplOVdOMVJ0dE1vVEhCSF",
+   "date": "2026-11-25T21:13:19.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "6c8e0b55fef06278",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Saab completes acquisition of Mythos AI for maritime tech - Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcU9FNjFFTE1LNnFRY1BKNTVXRGxyT3BhQjR6YmNscWl6Q3ZlSzJZS2xnaEtmS19zLWFEa2t1amdvbUxyN0U5NmE4VDM3MGY0M1FrX3haSGdLbkF0dkNkYmw3M21QaGI4SVRzQ3NUdmRhcmYwcEJLUlQ1LUJpVlRpcDBkWmhrZTVFd2NrX1FtY2hNX05DWDVmWm5Zb0t2dm9YblAxWQ?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcU9FNjFFTE1LNnFRY1BKNTVXRGxyT3BhQjR6YmNscWl6Q3ZlSzJZS2xnaEtmS19zLWFEa2t1amdvbUxyN0U5NmE4VDM3MGY0M1FrX3haSGdLbkF0dkNkYmw3M21QaGI4SVRzQ3NUdmRhcmYwcEJLUlQ1LUJpVlRpcDBkWmhrZTVFd2NrX1FtY2hNX05DWDVmWm5Zb0t2dm9YblAxWQ?oc=5\" t",
+   "date": "2026-11-25T21:17:21.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "c117a062fb5a838e",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "AMC Stock Gets A Lift From Early Free Cash Flow - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjlETzRLY25jN3pJN0EyNUhqaHpnYmdSU2VzWGVIem1OdWU5dS0tdzRlNFlXLWlsVG1OWTJKaVRxcWlxMElTc20yeWl0M3lTT1FQc3FHLVFfcXRxemFYSFAtdEtrUGhiR2FWeHZlWWRSa2JkQV9DZ092RHlZLTdRUWtBai1vRy1fc2p2QUxBYWRId2xkbGNVQS1oeEEySGpEeDFFSUxaVDM2THpZbE0tcGR4N3ZoR2tSNUdheVFPSWJZVm1w0gHKAUFVX3lxTE54SEt5bUVJbDBmNUNoVzYyZkdnUTdPdzNqcnRONmEyS09aNFdkYzNuWTl5UXFZZmpPT3Z1MHU4M0ZhNF8xWXV1S0FfZWZSYnlIX1k3M216Z05sMk12X1FFc0o1NndNRFV2R0twb0NyRXNzNDlWel9Pc1lJZDNkeWFrdFI0TmZiYkQyT21fcDIxbE1wbGh5OXNXcUp0bDFJRFBmUzFWWUhYaE9ESFRaTDBKTl9lc2tqQzNqU0tLQzB0UkVjZHNKbnROVlE?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjlETzRLY25jN3pJN0EyNUhqaHpnYmdSU2VzWGVIem1OdWU5dS0tdzRlNFlXLWlsVG1OWTJKaVRxcWlxMElTc20yeWl0M3lTT1FQc3FHLVFfcXRxemFYSFAtdEtrUGhiR2FWeHZlWWRSa2JkQV9DZ092RHlZLTdRUWtBai1vRy1fc2p2QUxBYWRId2xkbGNVQS1oeEEySGpEeDFFSUxaVDM2TH",
+   "date": "2026-11-25T21:11:57.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  },
+  {
+   "id": "3cf1120095725f79",
+   "source": "Google News – CFO / M&A",
+   "group": "cfo",
+   "title": "Inflection Point Acquisition Corp. VII Shareholders Approve Business Combination with Elroy Air - 巴士的報",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNklYWkwyYnpRZGRpTXhpdzFkTWRwYW5wLUtmNVRYOGRXSG45SGdQUTRXZDNOa0hRS3h0VUhHZXYzU0lra2tPN29lYkJOWUlCbHFybXFkTTc5d2ZkcFpRRFVWMF9aOEpqSDZwZU1BaUpnLTFNZnJCZzNVaFV6ekh1TzBVajRFTWFZcXJkSEYwZUc4UWhCdzg0eEFRbkZPSWhoRUF6aFh2dWgzYVFxbjFucU02U1lKZGVUYUVtczB0cU81RGRPLUl6SmI2MlRQbDhvSzRCdlRuemQ3ekd1Q3Vv?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNklYWkwyYnpRZGRpTXhpdzFkTWRwYW5wLUtmNVRYOGRXSG45SGdQUTRXZDNOa0hRS3h0VUhHZXYzU0lra2tPN29lYkJOWUlCbHFybXFkTTc5d2ZkcFpRRFVWMF9aOEpqSDZwZU1BaUpnLTFNZnJCZzNVaFV6ekh1TzBVajRFTWFZcXJkSEYwZUc4UWhCdzg0eEFRbkZPSWhoRUF6aFh2dWgzYV",
+   "date": "2026-11-25T21:05:55.000Z",
+   "fetched": "2026-11-25T21:33:11.994Z"
+  }
+ ]
+}
