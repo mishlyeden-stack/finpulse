@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 330,
+  "ok": 331,
   "blocked": 6
  },
  "calcalist.co.il": {
@@ -13,7 +13,7 @@
  },
  "bizportal.co.il": {
   "ok": 414,
-  "blocked": 10
+  "blocked": 11
  },
  "news.google.com": {
   "ok": 0,
@@ -28,7 +28,7 @@
   "blocked": 0
  },
  "israeldefense.co.il": {
-  "ok": 58,
+  "ok": 60,
   "blocked": 1
  },
  "themarker.com": {

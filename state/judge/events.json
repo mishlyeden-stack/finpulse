@@ -1,12 +1,5 @@
 [
  {
-  "key": "וול סטריט | CPI מאכזב — ריבית דצמבר כמעט ודאית + קורוויב זינקה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794380733746,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Barracuda | חולשות מנוצלות פעילות — עקיפת הרשאות ו-root access | נובמבר 2026",
   "level": "yellow",
   "first": 1794384290496,
@@ -2761,6 +2754,27 @@
   "key": "גלובס / סקירת בוקר / מכסים + נפט + מדדים / נובמבר 2026",
   "level": "yellow",
   "first": 1795588526001,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלקטרה / רווח תפעולי +130% אבל רווח נקי תקוע / נובמבר 2026",
+  "level": "learn",
+  "first": 1795590347454,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פגיעויות סייבר / תיקון לא מספיק / חשיבה חדשה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795590347454,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוקראינה / הכפלת רחפנים ושלישיית מכות עומק / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795590347454,
   "sentLive": false,
   "candidate": true
  }
