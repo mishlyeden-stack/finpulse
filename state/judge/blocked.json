@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 331,
+  "ok": 332,
   "blocked": 6
  },
  "calcalist.co.il": {
@@ -52,7 +52,7 @@
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 65,
+  "ok": 66,
   "blocked": 1
  },
  "securityweek.com": {
@@ -72,7 +72,7 @@
   "blocked": 21
  },
  "calcalistech.com": {
-  "ok": 89,
+  "ok": 91,
   "blocked": 0
  },
  "ptnow.co.il": {
