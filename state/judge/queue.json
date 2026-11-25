@@ -1,5 +1,236 @@
 [
  {
+  "id": "323bd1dea5d96455",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K/A - NXP Semiconductors N.V. (0001413447) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000064/0001413447-26-000064-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001413447-26-000064 <b>Size:</b> 247 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-25T22:01:55.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "e2775fe43eb87897",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Drilling Tools International Corp (0001884516) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1884516/000119312526478633/0001193125-26-478633-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001193125-26-478633 <b>Size:</b> 202 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-25T22:00:19.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "f01682689fc9da91",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2017950/000149315226054279/0001493152-26-054279-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001493152-26-054279 <b>Size:</b> 260 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-25T22:00:18.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "ea1f219ee201505d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Dermata Therapeutics, Inc. (0001853816) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1853816/000149315226054282/0001493152-26-054282-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001493152-26-054282 <b>Size:</b> 209 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
+  "date": "2026-11-25T22:00:18.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "425618e72a47e0ad",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Toppoint Holdings Inc. (0001960847) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1960847/000121390026124222/0001213900-26-124222-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001213900-26-124222 <b>Size:</b> 1 MB <br>Item 3.03: Material Modifications to Rights of Security Holders <br>Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year <br>Item 8.01: Other Events <br>Item 9.01: Fin",
+  "date": "2026-11-25T22:00:15.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "13bc2f24e179b9e3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Cantor Equity Partners I, Inc. (0002027708) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2027708/000121390026124223/0001213900-26-124223-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001213900-26-124223 <b>Size:</b> 293 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-25T22:00:14.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "107fdd7860a6ffc9",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Actinium Pharmaceuticals, Inc. (0001388320) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1388320/000121390026124224/0001213900-26-124224-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001213900-26-124224 <b>Size:</b> 199 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 5.07: Submission of Matters to",
+  "date": "2026-11-25T22:00:14.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "91b690fe5af9981d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Virtuix Holdings Inc. (0001606242) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1606242/000121390026124221/0001213900-26-124221-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001213900-26-124221 <b>Size:</b> 195 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
+  "date": "2026-11-25T22:00:13.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "147b5755b661238b",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "תוכנית האוצר לגביית מס של 40 מיליארד שקל: כך זה יפגע בכיס שלכם",
+  "link": "https://www.ynet.co.il/economy/article/yokra14970022",
+  "summary": "באוצר מגבשים עבור הממשלה החדשה תוכנית לגביית מסים במטרה להגדיל את הכנסות המדינה. בין ההצעות: ביטול הטבות מס ליישובים וצמצום נקודות זיכוי להורים, אבל יש גם הטבה: הנטו יגדל עם ריווח מדרגות מס הכנסה",
+  "date": "2026-11-25T22:00:00.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "186abc783ec76590",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "התחזית הפסימית של התאחדות הקבלנים: הירידה בהתחלות הבנייה תימשך גם ב-2027",
+  "link": "https://www.ynet.co.il/economy/article/yokra14969323",
+  "summary": "עבודה חדשה של התאחדות הקבלנים, שהגיעה לידי \"ממון\", צופה שבתרחיש של חוסר יציבות יתחילו לבנות ב-2027 רק 56 אלף דירות. זה פחות מבשנת 2020, ורחוק מאוד מהשיא של 80.6 אלף דירות ב-2025. נשיא ההתאחדות רוני בריק תוקף את בנק ישראל: \"הציבור ישלם את המחיר\"",
+  "date": "2026-11-25T22:00:00.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "ed3ab1a8b74184ff",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - NXP Semiconductors N.V. (0001413447) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1413447/000119312526478623/0001193125-26-478623-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-25 <b>AccNo:</b> 0001193125-26-478623 <b>Size:</b> 751 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01",
+  "date": "2026-11-25T21:57:26.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "e709cd035b6e8dd1",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "חברת התעופה הנורבגית הזהירה כי מצבה הפיננסי \"קריטי\" - המניה צנחה ב-85% - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50RTd5Mm1MWFFDWVlmNl9ZTmpwSXhnM0pOS2p5azlmWWhSSmRDeThwWWRKY2dIRld3aFBobW5TQ0lJbEcwcGVOeTlUYXVQb1dkTDEtUEVwazVURlcyTmEzUlVUbFgzZGVK?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE50RTd5Mm1MWFFDWVlmNl9ZTmpwSXhnM0pOS2p5azlmWWhSSmRDeThwWWRKY2dIRld3aFBobW5TQ0lJbEcwcGVOeTlUYXVQb1dkTDEtUEVwazVURlcyTmEzUlVUbFgzZGVK?oc=5\" target=\"_blank\">חברת התעופה הנורבגית הזהירה כי מצבה הפיננסי \"קריטי\" - המניה צנחה ב-",
+  "date": "2026-11-25T21:57:00.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "ffa1b1323b3f895c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Acrivon CFO steps down; VP of Finance to assume role - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHJDYUgybDdYUnlLRnlrTmVlN3p6RXRITDJmMnZDU3RpVC1PeGZZZk5xMUN5MzRjb1daWmRvclcyQ2hhYTBqc3JFRWxuUjRkZENHOEhpcTBFX2ZsTGQ2OWNyTzFPLW5qc1JpNjRaaTJBbkI0VWZ1LTZodW90Z1ZlVXhScnlDZS1yOVVuRk03VVJrSExIb2V5NXJKeDZaVEl1SEE3TzYwbnljZDNscFY0SUVtYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHJDYUgybDdYUnlLRnlrTmVlN3p6RXRITDJmMnZDU3RpVC1PeGZZZk5xMUN5MzRjb1daWmRvclcyQ2hhYTBqc3JFRWxuUjRkZENHOEhpcTBFX2ZsTGQ2OWNyTzFPLW5qc1JpNjRaaTJBbkI0VWZ1LTZodW90Z1ZlVXhScnlDZS1yOVVuRk03VVJrSExIb2V5NXJKeDZaVEl1SEE3TzYwbnljZD",
+  "date": "2026-11-25T21:56:16.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "c57713902a9dab3f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CVR Energy completes $1.25 billion senior secured notes offering for refinery acquisition - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUmlvbmdieXJXclE0dE12Q2ktZUlqMENzcnJpUmlyVFpZV2RXTW91bC1IRzdqZlJYRkNELU42bUxxTi1ncU9KaVVxSDBhZUpySzBCZi1BWjhmbm41RWxvcUxqWlZydjJWek9Ybm5lbGhnTDM2Qy1ENm9DSGNhWFdjXzViQUktZFlTb0xGRGxCWGJyWjM3RGlMVGx0SjFYd2FDVXM4dXE4QzVGT0JEc2xEN3RfWU1JTUN2QV9QaUtuaXdaT0hobjFlM2pnSzJXYzU4QUVDaUFtQTAydTA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUmlvbmdieXJXclE0dE12Q2ktZUlqMENzcnJpUmlyVFpZV2RXTW91bC1IRzdqZlJYRkNELU42bUxxTi1ncU9KaVVxSDBhZUpySzBCZi1BWjhmbm41RWxvcUxqWlZydjJWek9Ybm5lbGhnTDM2Qy1ENm9DSGNhWFdjXzViQUktZFlTb0xGRGxCWGJyWjM3RGlMVGx0SjFYd2FDVXM4dXE4QzVGT0",
+  "date": "2026-11-25T21:55:08.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "dd43bb82a614c39b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Microchip Technology CFO sells $187,829 in company stock - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVBxTnVibUc5RHdLOXhtaFN6ZVpUZUVxNWh6Z2Q3UWNLN1NPaFpSVWFyUFZ4ZXU1eGZUWE5CUzZmZVNMeXdFUDdjU3dYWkdrRm1XYnNWOGNFME1OSGc3WjhWc1JfbWw5aEVPM2U1ZnpNVklEbnpYQjIteFdlaG9EeU80Y05fVWxFaEw4aVVCbVdYay1wX1JJc1VNaE9EeEw1eHZJM0FLcDh1Q2R4WkoxTHBvVG5mOEkxRTNN?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVBxTnVibUc5RHdLOXhtaFN6ZVpUZUVxNWh6Z2Q3UWNLN1NPaFpSVWFyUFZ4ZXU1eGZUWE5CUzZmZVNMeXdFUDdjU3dYWkdrRm1XYnNWOGNFME1OSGc3WjhWc1JfbWw5aEVPM2U1ZnpNVklEbnpYQjIteFdlaG9EeU80Y05fVWxFaEw4aVVCbVdYay1wX1JJc1VNaE9EeEw1eHZJM0FLcDh1Q2",
+  "date": "2026-11-25T21:51:34.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "8b10bd5958673115",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Padres’ first significant acquisition of offseason is lefty reliever JoJo Romero - San Diego Union-Tribune",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWjU2ZE5WZkxRQmhlQzVzaEhuZGZFY0VZRFMycHZYb3BnNmhxOUZPa2tpblc0ZlZYTi11ZGJlUndnbGo5cWVyZG5tWlUyNTY3NzBMckdJLThHSzN3WjZIeTZJN292VUVzRmFUaXB6OGx5T1BZYWpYMEZmV052R1Z5UDlrRk5rODBsN2g0UEdEUFdFY2NUMnNIa2dqRTEzeS1GLVB5WmdIMUJkclZYWGJkanRTQ2NHOW9IanNhdThrXzFGRnJqTkp3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWjU2ZE5WZkxRQmhlQzVzaEhuZGZFY0VZRFMycHZYb3BnNmhxOUZPa2tpblc0ZlZYTi11ZGJlUndnbGo5cWVyZG5tWlUyNTY3NzBMckdJLThHSzN3WjZIeTZJN292VUVzRmFUaXB6OGx5T1BZYWpYMEZmV052R1Z5UDlrRk5rODBsN2g0UEdEUFdFY2NUMnNIa2dqRTEzeS1GLVB5WmdIMUJkcl",
+  "date": "2026-11-25T21:47:08.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "3fee07e185d03753",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "LS Power Completes Acquisition of 4.4 GW Natural Gas Generation Assets from Constellation - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV1FvTThkR1JjR25yRkRNRVJCeEFlS3BCY09KZVc3ZlVUd05wVHhhWlYxMlBobVRoQzhYN1pIUEVNQnFWSzhIZmkwaENLZWU2QlZrQ180NEt0NTVjZ3dIbm1fUDZYRTQzaXpFYzN6Yl8tanowNlY5XzdFRzdPb1NnRG1UazJrR0J0MWVpMkw3UUtoWkU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQV1FvTThkR1JjR25yRkRNRVJCeEFlS3BCY09KZVc3ZlVUd05wVHhhWlYxMlBobVRoQzhYN1pIUEVNQnFWSzhIZmkwaENLZWU2QlZrQ180NEt0NTVjZ3dIbm1fUDZYRTQzaXpFYzN6Yl8tanowNlY5XzdFRzdPb1NnRG1UazJrR0J0MWVpMkw3UUtoWkU?oc=5\" target=\"_blank\">LS Power",
+  "date": "2026-11-25T21:38:00.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "67801c48e2001cfb",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "LS Power Completes Acquisition of Approximately 4.4 GW of Generation Assets - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWW83Um9yTlloUW5RM3NzQUIxMjRhRS13MTktZ0tadnFIYlItbXVKRVRUQTY1bDRtVG9rc0tmRWVfSU1vYmpUMWV3WXdNM2RvTzNzc1hNTWhWcnF1T0hnOFphd2tDZ0htT3l2bjNhTW42Y081N2VVbWdvX2loOU5taXRXVGVnajlESmFxTkN1cURlSXBHTjNCM2w2cXo2T0lIR0szTFMyWkQ3RzQ0YURzSTZQYVZBY2EycXA4U0lmbjMtRDJHSkNpeW04WS1COUVaNk04?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWW83Um9yTlloUW5RM3NzQUIxMjRhRS13MTktZ0tadnFIYlItbXVKRVRUQTY1bDRtVG9rc0tmRWVfSU1vYmpUMWV3WXdNM2RvTzNzc1hNTWhWcnF1T0hnOFphd2tDZ0htT3l2bjNhTW42Y081N2VVbWdvX2loOU5taXRXVGVnajlESmFxTkN1cURlSXBHTjNCM2w2cXo2T0lIR0szTFMyWkQ3Rz",
+  "date": "2026-11-25T21:38:00.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "3fd0cb8ae9eb280f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Cayson Acquisition Deposits $60,000 for Third Extension Month - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeE9Cd0FmdUQ3eVVuVXVra29IOVFSQmpMSGxTWXpqb2tENXBRLWl4XzJHZ1NBN3AtM1ltbXVCN0w0NXNqaG82T0w5ZjJXRTBMQkZRc3p6LVZ5dmpUNzRXYUdYTlNmMDZsSThRbVFLS1lfU3pZNFZlc2Y3WEN4aE01THFVRDZ6bmEycnlXZFJYTmRGZTBTOW15UkdjY09VcnJzNHhCWERVNUhuUE83bV9TaThHR3JURFhiZDVwSk01VQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQeE9Cd0FmdUQ3eVVuVXVra29IOVFSQmpMSGxTWXpqb2tENXBRLWl4XzJHZ1NBN3AtM1ltbXVCN0w0NXNqaG82T0w5ZjJXRTBMQkZRc3p6LVZ5dmpUNzRXYUdYTlNmMDZsSThRbVFLS1lfU3pZNFZlc2Y3WEN4aE01THFVRDZ6bmEycnlXZFJYTmRGZTBTOW15UkdjY09VcnJzNHhCWERVNUhuUE",
+  "date": "2026-11-25T21:33:00.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "926df9455a838be1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tempus AI Secures $500 Million Five-Year Credit Facilities for Personalis Acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3pnWVg2QzEySjlQeFh0dDRPQk1SeHc2OXNOcU56VjdlMGIxWGo0Q1ZHLUlha1pxcWNrNU83N0VNOFp2bnl4T1pqNFJpQkZpZjlmY2pDZkFEdFRKRHdqUXFTZzlSUkRkazd4NThrUnBac3dwQ1gweGpDdDNhRnJxOEtxOTJhaG5GSUpkcHQwdjBDd2w2ZWFnZmF6cGxkMm1Ia2xCdGFqVVFtaGExY2loZ1Y4dmV4QXIwYjBqZE9rT1N4NXd0MUxIWVVyUThjWHUyRnRQYUU4UDUzeWxIQUw4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3pnWVg2QzEySjlQeFh0dDRPQk1SeHc2OXNOcU56VjdlMGIxWGo0Q1ZHLUlha1pxcWNrNU83N0VNOFp2bnl4T1pqNFJpQkZpZjlmY2pDZkFEdFRKRHdqUXFTZzlSUkRkazd4NThrUnBac3dwQ1gweGpDdDNhRnJxOEtxOTJhaG5GSUpkcHQwdjBDd2w2ZWFnZmF6cGxkMm1Ia2xCdGFqVVFtaG",
+  "date": "2026-11-25T21:33:00.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "b97556d76d2a437a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Glenwood Springs moves forward with land acquisition for new West Glenwood fire station - Post Independent",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdkVNd1ZJSzVuY1FwU1ZEZ1p3bTFQV3dmcWNwVHRPdXJrdG1LaHdzQ0hPRXV2d2Q2dnhSYzA5aHpRWWNWU3I5OC1RMmtvMmZxR3ZnVVZoMzRTQ2RQMGd3NncwS0lrc256MlFYZW1pTGd5YlNiamxyQ0NPSGdqWDVTbTJPY05GaDhyN1F0Y3JEazU3N1lNMWZfY3VkdHNmZ2w5NnA4M0FaSTFWZWVKX09WUWswM21aMlY3Q3ZwcDBWSzBzZGs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdkVNd1ZJSzVuY1FwU1ZEZ1p3bTFQV3dmcWNwVHRPdXJrdG1LaHdzQ0hPRXV2d2Q2dnhSYzA5aHpRWWNWU3I5OC1RMmtvMmZxR3ZnVVZoMzRTQ2RQMGd3NncwS0lrc256MlFYZW1pTGd5YlNiamxyQ0NPSGdqWDVTbTJPY05GaDhyN1F0Y3JEazU3N1lNMWZfY3VkdHNmZ2w5NnA4M0FaSTFWZW",
+  "date": "2026-11-25T21:31:55.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
   "id": "70cc83f260cdc0a3",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -77,6 +308,17 @@
   "fromCloud": "2026-11-25T2133.json"
  },
  {
+  "id": "4f6c33532c3010bc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Australia's Northern Star Resources appoints Lee-Anne de Bruin as CFO - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeGtNV2VGY1lac0J2djFCUzhEV2xqc05nVDlqR3NRS3UzaHByMHN1cFZNMldfVW1McVhOSGI3eHFxMTNmb3RzQjlhS0tuRXg2RVQ5LVhEbWxOdHJZSW1pM3IyVFVocjlqc0c4SkZoX2FObnlLQmd1UFFraWNxUW1STkN0ZURZQ3Q3cXZEc1lsb0NxWlF2bjIxZnNwTnBuaVU4cUVReWkzdng2S0lJMWw5bUxsS09jYUh1dXdIWXBKa1NIX2xqaFZjSDh6MTRHMG9WcV9MXzBR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeGtNV2VGY1lac0J2djFCUzhEV2xqc05nVDlqR3NRS3UzaHByMHN1cFZNMldfVW1McVhOSGI3eHFxMTNmb3RzQjlhS0tuRXg2RVQ5LVhEbWxOdHJZSW1pM3IyVFVocjlqc0c4SkZoX2FObnlLQmd1UFFraWNxUW1STkN0ZURZQ3Q3cXZEc1lsb0NxWlF2bjIxZnNwTnBuaVU4cUVReWkzdng2S0",
+  "date": "2026-11-25T21:27:38.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
   "id": "322d59d2ece8a1ee",
   "source": "CNBC Business",
   "group": "global-press",
@@ -86,6 +328,50 @@
   "date": "2026-11-25T21:26:36.000Z",
   "fetched": "2026-11-25T21:33:11.994Z",
   "fromCloud": "2026-11-25T2133.json"
+ },
+ {
+  "id": "b3b8b0ba4c9947f6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Canara HSBC Life Insurance CFO Tarun Rustagi Resigns - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkIwcEtvcmluZDdrU2RNQ09oeTEwM1QwMkJ1OEU1WDFRQnV5ek9aTFkzcXd6ZXZvRWF6Z1BIeFBfMlFxOUY5Y2tyR3dMVWc5X2ZlMG5mdmlzSkp1Y1JhSVhLeDlhVlJxcFY2Q2VVMmExNlJjVGZUSkpvTWx2WC1UaUh3WWZtRTJlREdweDdkQzVyY05oTUxGZlhrUDRtSDV4T1JSNG96MDF2STlacWc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkIwcEtvcmluZDdrU2RNQ09oeTEwM1QwMkJ1OEU1WDFRQnV5ek9aTFkzcXd6ZXZvRWF6Z1BIeFBfMlFxOUY5Y2tyR3dMVWc5X2ZlMG5mdmlzSkp1Y1JhSVhLeDlhVlJxcFY2Q2VVMmExNlJjVGZUSkpvTWx2WC1UaUh3WWZtRTJlREdweDdkQzVyY05oTUxGZlhrUDRtSDV4T1JSNG96MDF2ST",
+  "date": "2026-11-25T21:26:03.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "7f1bb18d16395d70",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Jackson Acquisition II Extends Business Combination Deadline by up to 12 Months - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1J3cFlCbDVZbTVoRm9kSjVzWkFockpFZ0NMNXotcVJaRjVKNXRaSVc4WnE4RkpqakZTUjhuTEVGYU9RQlY3RC1mUXB6WmhnOUlwUGpreVlfd0VjLW5HUUY1SVNObGpQX3F0dTVSSmRQQ0tnQmhybngteEFocWxaUWhISU1XSUs3Y0tDT1ZLQ24yRmFPQ2ZNZUNhRW8xdnktdXR0WGlXSkxsZlVMT3RpdkdaeDJOTlBpSExPRTZSOXpuVDNzZXN2dzlOUG1FbXVJRnc4dDVqUG0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1J3cFlCbDVZbTVoRm9kSjVzWkFockpFZ0NMNXotcVJaRjVKNXRaSVc4WnE4RkpqakZTUjhuTEVGYU9RQlY3RC1mUXB6WmhnOUlwUGpreVlfd0VjLW5HUUY1SVNObGpQX3F0dTVSSmRQQ0tnQmhybngteEFocWxaUWhISU1XSUs3Y0tDT1ZLQ24yRmFPQ2ZNZUNhRW8xdnktdXR0WGlXSkxsZl",
+  "date": "2026-11-25T21:23:01.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "21136b42bce3e82b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Lakeshore Acquisition III Receives $67,500 Fifth Extension Payment; Deadline Moves to Jan. 1, 2027 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaFNiQnI1ZlpZbERXX251dFpaSDlCeVQzbUtYVmRjVHdub3hTd0V3VnFLV21CNXdxN01IMG5LdUlHNmpTc0pmVENYblJhdnMxT04tVUNPbjF1ZEoxd1BBdjkwMU5hNVV3V1owV3labzdZaDN3cDdCeUo3MzlXdkRSdmNsUnNpazEwb2pjNkdCa1AzQlJHQnVLSVVsX2RDQUdZSUtXUG9MY2otR0xXaHRhbVBiZ3NzWUZCaU0xU2xKb0p0cGptbUN1M2J0TVdEUkwyRkRBeTBpeUl1cUNtYjIyTjRrdGdHUS1RTU54VA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaFNiQnI1ZlpZbERXX251dFpaSDlCeVQzbUtYVmRjVHdub3hTd0V3VnFLV21CNXdxN01IMG5LdUlHNmpTc0pmVENYblJhdnMxT04tVUNPbjF1ZEoxd1BBdjkwMU5hNVV3V1owV3labzdZaDN3cDdCeUo3MzlXdkRSdmNsUnNpazEwb2pjNkdCa1AzQlJHQnVLSVVsX2RDQUdZSUtXUG9MY2otR0",
+  "date": "2026-11-25T21:23:01.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
+  "id": "c3d46e55872e8a44",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Northern Star Resources Appoints Lee-Anne De Bruin As CFO Effective 1 April 2027 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVnNGOFdoS3BPbTlzZ1dwVU5FRnhUbWFEWVlPQUhwUEplSHhfMnhYYURpZ1paMER5aF9VNGZFTHVKd2gxQU45S3Z6cE5OR2Nhc051TE1IZnFiYjZhVUlwYVVlSWdkaU9jZEZtYk9TajJOdGg4QWNpVE55NU5YWU5OYWxmV3Bna3lSVFN2d3dTTUdOVTRoWnUwYmRCUFZHblBETW1XcWs5cVpOUFZiclBvRzI4SGlpaUF2OUxUN3h4WXZkM0FUYUVSaGlWSXlGTmExZy1ZMlM5VkZyMy1XM1FoWUdJT2o?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVnNGOFdoS3BPbTlzZ1dwVU5FRnhUbWFEWVlPQUhwUEplSHhfMnhYYURpZ1paMER5aF9VNGZFTHVKd2gxQU45S3Z6cE5OR2Nhc051TE1IZnFiYjZhVUlwYVVlSWdkaU9jZEZtYk9TajJOdGg4QWNpVE55NU5YWU5OYWxmV3Bna3lSVFN2d3dTTUdOVTRoWnUwYmRCUFZHblBETW1XcWs5cVpOUF",
+  "date": "2026-11-25T21:22:53.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
  },
  {
   "id": "a94ea3b5cc97ab5b",
@@ -154,6 +440,17 @@
   "fromCloud": "2026-11-25T2133.json"
  },
  {
+  "id": "62930931c395de55",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Celldex Therapeutics SVP and CFO Sold Shares Worth Over $1.9M - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc0MwTlQtdS1oZjkzalJRbUNmcFo2bEl4OXNwVE5XdkRwV2RjTE9ZNFE4aGVPRzM5Sk04RllLQ0xESE84VkRmWURuWldQWHRtazNrcFJEc3Uza1pZWFBZYW9FeXhaU01mSDU5Ry1aWG1vSncyZXVOdzBTSnY2aVpiUkh4aHE0QkZOdTVYVEFraFNKMHdNYnBjbGswS21iUkhRTVB0UGFYcGZTOGdGVWttWlBSMUxfbEZoV3JCZzFDZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPc0MwTlQtdS1oZjkzalJRbUNmcFo2bEl4OXNwVE5XdkRwV2RjTE9ZNFE4aGVPRzM5Sk04RllLQ0xESE84VkRmWURuWldQWHRtazNrcFJEc3Uza1pZWFBZYW9FeXhaU01mSDU5Ry1aWG1vSncyZXVOdzBTSnY2aVpiUkh4aHE0QkZOdTVYVEFraFNKMHdNYnBjbGswS21iUkhRTVB0UGFYcGZTOG",
+  "date": "2026-11-25T21:10:00.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
   "id": "3cf1120095725f79",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -163,6 +460,17 @@
   "date": "2026-11-25T21:05:55.000Z",
   "fetched": "2026-11-25T21:33:11.994Z",
   "fromCloud": "2026-11-25T2133.json"
+ },
+ {
+  "id": "10005c8bee66a480",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Inflection Point Acquisition Corp. VII Shareholders Approve Business Combination with Elroy Air - News-Press NOW",
+  "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNQ0dRWDdaU19KLWt6Ull3aUFSbC1jNmRkd3dqNHJrNGpTbWRHWWgwZ1h3Q0k5SmlYMFVDUG5HZmd4eGpGWEFkdW5RN25qU2E2eWs1WER3ZFY1THpIMk9KelNTUjlsbXh6NXVXcU0wX0x1T29ZY0pwN3drSjZUbm5vYmp2NlVqaVVWOXh5cHZLampPdF9tMGpFb1VHaUVzb2t3VmFDaFdqWnAtbW5FM3RNV3oxcUpJS3gxSjJicnBaQjhjOUppT3lCRUZ2cjJFQTc5OFJNWXdCOXM1YVF2NHhPVGdzbE9ua0dWS256WkIzTjBLZUQ1STc4VWQ0TzgyUlZENTB1ZENWaGRidFQzQ1ZVTzQ0UFdtekhMVmRFMUFCN0lXLUZUSVpQbQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxNQ0dRWDdaU19KLWt6Ull3aUFSbC1jNmRkd3dqNHJrNGpTbWRHWWgwZ1h3Q0k5SmlYMFVDUG5HZmd4eGpGWEFkdW5RN25qU2E2eWs1WER3ZFY1THpIMk9KelNTUjlsbXh6NXVXcU0wX0x1T29ZY0pwN3drSjZUbm5vYmp2NlVqaVVWOXh5cHZLampPdF9tMGpFb1VHaUVzb2t3VmFDaFdqWnAtbW",
+  "date": "2026-11-25T21:05:44.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
  },
  {
   "id": "2a4b6799458d509f",
@@ -273,6 +581,17 @@
   "date": "2026-11-25T20:38:34.000Z",
   "fetched": "2026-11-25T21:03:21.318Z",
   "fromCloud": "2026-11-25T2103.json"
+ },
+ {
+  "id": "e9c79b34c8836bff",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ההפסד הרבעוני של נורסטאר גדל ל-74 מיליון שקל, והמינוף עלה ל-68.7% - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DbEluQmJrRkRxMjhKaXhrbGRwVF9OWURjWm5xaEdSX0hxN2xWcDdKQ0lZRWxTb2pxZ1doZWNqS3lGNGVjZ2hnTVg0eU5pSFdpejFTZVgtNVBtWXVfVWxzd2k4WElEOVNQcG5MOTZKRHY?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5DbEluQmJrRkRxMjhKaXhrbGRwVF9OWURjWm5xaEdSX0hxN2xWcDdKQ0lZRWxTb2pxZ1doZWNqS3lGNGVjZ2hnTVg0eU5pSFdpejFTZVgtNVBtWXVfVWxzd2k4WElEOVNQcG5MOTZKRHY?oc=5\" target=\"_blank\">ההפסד הרבעוני של נורסטאר גדל ל-74 מיליון שקל, והמינוף על",
+  "date": "2026-11-25T20:37:00.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
  },
  {
   "id": "9906980871235b72",
@@ -691,6 +1010,17 @@
   "date": "2026-11-25T18:56:00.000Z",
   "fetched": "2026-11-25T21:03:21.318Z",
   "fromCloud": "2026-11-25T2103.json"
+ },
+ {
+  "id": "2b1ab9ca5489bde6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of SOZOHEALTH HOLDINGS LIMITED – ASX:SZH - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNakptVGc2NDcyRmF1MXBvNjh0eDFIQnRaYjh1WkNBdlpQakh3T09Vc2dINWpMNnV6bDFWNkNzOWM2dnVtUW4yWmNTWWJJdGUxdWpHdmFuRTNEc3dyd1pSVzBxNzUyQlpuYzRSUXhEeG5TdTdEVlNrUWNnSGxLbkpENGZrNXA3Tkk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNakptVGc2NDcyRmF1MXBvNjh0eDFIQnRaYjh1WkNBdlpQakh3T09Vc2dINWpMNnV6bDFWNkNzOWM2dnVtUW4yWmNTWWJJdGUxdWpHdmFuRTNEc3dyd1pSVzBxNzUyQlpuYzRSUXhEeG5TdTdEVlNrUWNnSGxLbkpENGZrNXA3Tkk?oc=5\" target=\"_blank\">Free cash flow of SOZOHE",
+  "date": "2026-11-25T18:53:05.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
  },
  {
   "id": "ea3ec9daba50a10c",
@@ -1298,6 +1628,17 @@
   "fromCloud": "2026-11-25T1733.json"
  },
  {
+  "id": "c58b3d6992265eaa",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Buhler Industries Inc. Announces Acquisition Of Goldoni - Canadian Manufacturing",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVg5aldQbktfZFhyTVlXbnFzeEYxWmxWYUdKRm9CZmExc2g0ZHptMWk5UDRySEVqanFBbUdXLTRqQ3JqWGN4OHpzY0Fic0lPaG1rY2gzdHQ1OHp6UVNnQnpxQVkzazV5R3A3M2lSaVlKdzlhcFc5OEZrV1FqVWdIUHlCLXB6bG8wbGQyVXQ3bE8tUktLbnlRSGN1a19ualJkTjNWYmQ5ZnJ4ZTFrZnZRVk4wSG8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVg5aldQbktfZFhyTVlXbnFzeEYxWmxWYUdKRm9CZmExc2g0ZHptMWk5UDRySEVqanFBbUdXLTRqQ3JqWGN4OHpzY0Fic0lPaG1rY2gzdHQ1OHp6UVNnQnpxQVkzazV5R3A3M2lSaVlKdzlhcFc5OEZrV1FqVWdIUHlCLXB6bG8wbGQyVXQ3bE8tUktLbnlRSGN1a19ualJkTjNWYmQ5ZnJ4ZT",
+  "date": "2026-11-25T17:00:42.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
+ },
+ {
   "id": "f1ffcd8a766dbb99",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -1835,6 +2176,17 @@
   "date": "2026-11-25T15:51:00.000Z",
   "fetched": "2026-11-25T18:03:13.216Z",
   "fromCloud": "2026-11-25T1803.json"
+ },
+ {
+  "id": "607b89f731243e58",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Sanofi Insmed Acquisition Expands Respiratory Portfolio - BioBuzz",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkJ4a0xYazdBa2lVOEwwMDgtZmROUEFOZzA4Y1l4ZmxFS01vUjd0My15eU1YQ3lDcW9Pb1Rod3lVdzc1TXlnRFgxa21YcUxYd1BacElyRGxYSGtmMURrZmxJRDVYSE82U3pDdEhWZ2VfV0IxVUhvR2ppdndJUUQ1SVdoalFqaDEzVUJkcC0yazBVUlVyWjFqMHlObzJKWnk5eFNz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxObkJ4a0xYazdBa2lVOEwwMDgtZmROUEFOZzA4Y1l4ZmxFS01vUjd0My15eU1YQ3lDcW9Pb1Rod3lVdzc1TXlnRFgxa21YcUxYd1BacElyRGxYSGtmMURrZmxJRDVYSE82U3pDdEhWZ2VfV0IxVUhvR2ppdndJUUQ1SVdoalFqaDEzVUJkcC0yazBVUlVyWjFqMHlObzJKWnk5eFNz?oc=5\" tar",
+  "date": "2026-11-25T15:47:53.000Z",
+  "fetched": "2026-11-25T22:03:11.981Z",
+  "fromCloud": "2026-11-25T2203.json"
  },
  {
   "id": "0d0d45a1a2741a09",
