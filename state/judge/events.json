@@ -1,124 +1,5 @@
 [
  {
-  "key": "CFO.com | סוכני AI בפיננסים — מה הם יכולים ומה לא | נובמבר 2026",
-  "level": "learn",
-  "first": 1794321523668,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | Bay ו-Daylight — גיוסי סייבר 50M ו-80M דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794321523668,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ECB | מירוץ לנשיאות — קנוט הנצי מול הרנאנדס דה קוס המתון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794321523668,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | הטבות מס לפני סוף שנה — קיזוז רווחים ודיבידנדים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370118629,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "OpenAI | הכנסות Q3 — 10 מיליארד דולר, מחצית מעסקים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370118630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פד–באומן | אכזבה מתשואות AI עלולה להפיל מניות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370118630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רשות החברות | סגירה והפרטה של חברות ממשלתיות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370118630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ועדת הכספים | פיקוח הדוק על העברות האוצר — ממשלת איזנקוט | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370118630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "OpenAI | רכישת סטארטאפ טיולים Odessia — מניות OTA צוללות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370118630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בריק | פיצול מכרות זהב צפון אמריקה — הנפקה בניו יורק | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370118630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ויקטורי–קרפור | תוכנית מימון רכישה — מוסדיים ומשפט פלילי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370118630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | מס על טיסות — ישראל הולכת נגד הזרם האירופאי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370118630,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "StubHub | CFO חדש + העלאת תחזית + תוצאות Q3 מעורבות | נובמבר 2026",
-  "level": "learn",
-  "first": 1794370396212,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | עוסק מורשה מול חברה בע״מ — סף הכדאיות 590 אלף שקל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370396212,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "SPAC | CFO חייב להתכונן לפדיונות גבוהים | נובמבר 2026",
-  "level": "learn",
-  "first": 1794370396212,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קרנות סל | הימור נגד חוב אורקל וקורוויב | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370396212,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קורוויב | העלאת תחזית הכנסות ל-13.3 מיליארד דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370396212,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "אורקל CFO | השקעות מרכזי נתונים מוצדקות למרות היקף ההוצאות | נובמבר 2026",
   "level": "learn",
   "first": 1794370723457,
@@ -2650,14 +2531,14 @@
   "level": "red",
   "first": 1795506864743,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "אנבידיה / הואנג חוזר כמנכ״ל + זינוק 30% / נובמבר 2026",
   "level": "red",
   "first": 1795506864743,
   "sentLive": true,
-  "candidate": false
+  "candidate": true
  },
  {
   "key": "מוסדיים ישראל / חשיפת חוב שוק מקומי / פי 6 מקורונה / נובמבר 2026",
@@ -2782,6 +2663,125 @@
   "key": "פיקס סולושנז / תוצאות שיא + מיזוג וואן / נובמבר 2026",
   "level": "yellow",
   "first": 1795529384781,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוסטרליה / אינפלציה עקשנית / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795579677370,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נערי הגבעות / נזקים כלכליים לתעשייה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795579832642,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Zebra Technologies / מחזור חוב 3.5 מיליארד דולר / נובמבר 2026",
+  "level": "learn",
+  "first": 1795579832642,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CIA / פריצת סייבר למערכת לא מסווגת / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795579832642,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב / הצעת חוק לכוח אדם ברכש IT פדרלי / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795579832642,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "CFO Risk Stack / Series B עד S-1 / סיכונים פיננסיים / נובמבר 2026",
+  "level": "learn",
+  "first": 1795580201501,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "STERIS / גיוס 1.5 מיליארד דולר באג״ח בכיר למימון רכישה / נובמבר 2026",
+  "level": "learn",
+  "first": 1795580201501,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב / מכס 12.5% על ייצוא ישראלי / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201501,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל / תקציב 2027 / חוסר ודאות / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201501,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אופקו / שומת מס 246 מיליון דולר בישראל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201501,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "BST / רכישת 65% מקרניל / מיזוג אוויר ואינסטלציה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201501,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פנטגון / פורד ו-GM / ייצור רכיבי כטב״מים / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201502,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב / סנטימנט צרכני / עלייה אחרי בחירות אמצע / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201502,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פינטרסט / ספקולציות מכירה / זינוק 11% / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201502,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ס&פ 500 / תחזית אנליסטים / עלייה 12.6% עד סוף 2027 / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201502,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ביל אקמן / השקעה 2 מיליארד דולר / שתי מניות חדשות / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201502,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Digi International / רכישת Disruptive Technologies / IoT ו-SmartSense / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795580201502,
   "sentLive": false,
   "candidate": true
  }
