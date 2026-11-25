@@ -5,7 +5,7 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 227
+  "blocked": 228
  },
  "en.globes.co.il": {
   "ok": 66,
@@ -17,7 +17,7 @@
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 297
+  "blocked": 298
  },
  "13tv.co.il": {
   "ok": 0,
@@ -41,7 +41,7 @@
  },
  "pc.co.il": {
   "ok": 41,
-  "blocked": 55
+  "blocked": 56
  },
  "ft.com": {
   "ok": 0,
@@ -60,7 +60,7 @@
   "blocked": 0
  },
  "ice.co.il": {
-  "ok": 12,
+  "ok": 13,
   "blocked": 10
  },
  "datacenterdynamics.com": {
