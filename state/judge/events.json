@@ -1,26 +1,5 @@
 [
  {
-  "key": "פאלו אלטו–סייברארק | עסקה ב-25 מיליארד שהפכה ל-37 מיליארד בסגירה | נובמבר 2026",
-  "level": "learn",
-  "first": 1794389759795,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אוטונומוס | קריסת מניה 50% + תשואות אג״ח מזנקות — מנכ״ל מכחיש שינוי עסקי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794389759796,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Cisco BroadWorks + Openwave | חולשות מנוצלות פעילות — דליפת מידע קונפיגורציה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794389759796,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "בזק–yes | רבעון חזק + חזרה לרווחיות | Q3 2026",
   "level": "yellow",
   "first": 1794393326790,
@@ -2782,6 +2761,62 @@
   "key": "AI / חשיפת שוק עבודה / רבע מדורשי עבודה בישראל / נובמבר 2026",
   "level": "yellow",
   "first": 1795597662117,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וויז / רשות המסים / שומת מס 20 מיליארד שקל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795601311147,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "משרד הביטחון / רפורמת רכש ביטחוני + זוכים מרובים / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795601311147,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מנורה מבטחים / קיצוץ דיבידנד + צניחת מניה / נובמבר 2026",
+  "level": "learn",
+  "first": 1795601311147,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "עזריאלי / FFO +11% + ירידת תפוסה ארה״ב 52% + אי-עמידה בתנאי הלוואה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795601311147,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אירופה / 45% תעשייה גדולה במצוקה פיננסית / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795601311147,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנלוג דיבייסס / תחזית מאכזבת + צניחה 19% + מחיקת 35 מיליארד דולר / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795601311147,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Idunno AntiCsrf / פגיעות unpatched בספרייה נטושה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795601311148,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "האקרים איראניים / תקיפת חברת תעופה קפריסאית עם קשרי ישראל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795601311148,
   "sentLive": false,
   "candidate": true
  }
