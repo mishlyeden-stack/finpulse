@@ -1,187 +1,5 @@
 [
  {
-  "key": "אורקל CFO | השקעות מרכזי נתונים מוצדקות למרות היקף ההוצאות | נובמבר 2026",
-  "level": "learn",
-  "first": 1794370723457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אורה | ביטול הנפקה + רכישת רופא AI ב-625 מיליון דולר | נובמבר 2026",
-  "level": "learn",
-  "first": 1794370723457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Outlook zero-day | ניצול פעיל — Patch Tuesday נובמבר 2026 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370723457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מיקרוואסט | קריסת מניה 64% — מזומנים לא יספיקו | נובמבר 2026",
-  "level": "learn",
-  "first": 1794370723457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה–ישראל | פעילות ישראלית — מעבר לשבבים לאבטחת מהפכת ה-AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370723457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "דולר | עלייה חדה ביותר מאז ספטמבר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370723457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "SEC | קיצוץ חובת גילוי שכר מנכ״לים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370723457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "וול סטריט | רוטציה מ-AI למניות דפנסיביות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370723457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנתרופיק–מיקרוסופט | כלי משרד AI מתחרים — מיקרוסופט נפלה 3.5% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794370723457,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ריבית ישראל | הורדה מתרחקת — ההחלטה האמריקאית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794371925892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אוקסידנטל | הפחתת חוב 10 מיליארד דולר תוך ירידת נפט | נובמבר 2026",
-  "level": "learn",
-  "first": 1794371925892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "די-ווייב | מוכרת יותר, מרוויחה פחות — משקיעים מאבדים סבלנות | נובמבר 2026",
-  "level": "learn",
-  "first": 1794371925892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רבולוט | רישיון בנק חדש בישראל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794371925892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ת״א | רווח נקי +37% Q3 2026 — גאות מסחר והנפקות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794371925892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קרנות גידור | חיתוך סיכון בקצב המהיר מזה עשור — מורגן סטנלי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794371925892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רפאל | טיל שיוט חדש ראש קרב חצי טון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794371925892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אדובי | עדכון אבטחה 110 חולשות ב-9 מוצרים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794371925892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | מותג ישראל בכנס Web Summit — חרם וסין | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794371925892,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פד–לוגן | העלאת ריבית לפחות פעמיים נוספות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794372138493,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה | CFO כמנכ״ל ביניים פוטנציאלי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794372138493,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "SBOM ו-AI BOM | שקיפות שרשרת אספקת תוכנה בעידן AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794372138493,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ארה״ב | CPI אוקטובר מאכזב — השלכות על ריבית ישראל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794372379672,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה | אנליסט מזהיר ממחיקה 1.3 טריליון דולר אם ג׳נסן יפרוש | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794372379672,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רפאל | עסקת שכירות 32 מיליון שקל — הרחבה לפארק המדע חיפה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794372379672,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | ראש המנהל הדיגיטלי — מערכות ממשלתיות כיעד סייבר עיקרי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794372379672,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בורסה ת״א | רווח נקי זינק 74% ל-224.7 מיליון שקל | Q3 2026",
-  "level": "yellow",
-  "first": 1794372379672,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "וול סטריט | תשואת אג״ח 10 שנים מעל 5% + מגמה מעורבת אסיה | נובמבר 2026",
   "level": "yellow",
   "first": 1794375477166,
@@ -2782,6 +2600,104 @@
   "key": "Digi International / רכישת Disruptive Technologies / IoT ו-SmartSense / נובמבר 2026",
   "level": "yellow",
   "first": 1795580201502,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קוקה-קולה / החלפת CFO מפארמה / נובמבר 2026",
+  "level": "learn",
+  "first": 1795581488419,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אל-על / רכישה חזרה של מועדון נוסע מתכוף / נובמבר 2026",
+  "level": "learn",
+  "first": 1795581488420,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פד / פרוטוקול הנחתת ריבית / אוקטובר 2026",
+  "level": "yellow",
+  "first": 1795581488420,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "חברת הנעת טילים ישראלית / גיוס 180 מיליון דולר / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795581488420,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מזרחי-טפחות / פיצול מניה לחמש / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795581488420,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מור השקעות / הכפלת רווח רבעוני + 230 מיליארד שקל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795581488420,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AMD / רישום מניות למכירה חוזרת / צניחה 9% / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795581739944,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דייקום / צניחה 17% למרות דוחות חזקים / האטת לקוחות גדולים / נובמבר 2026",
+  "level": "learn",
+  "first": 1795582011846,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דולר / התקרבות ל-3.35 שקל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795582011846,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "VMware / פגיעויות קריטיות ESX ו-vCenter / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795582011846,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ממשל ארה״ב / רשימת חסימת ייצוא / Megaspeed סינגפור / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795582011846,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הוט מובייל, ברגר קינג, זאפה / הנפקות קרובות ת״א / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795582011846,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט / פיצויי עזיבה 9 חודשים / אבל לא לישראל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795582011846,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל / משקיעי דירות / הפסדים ריאליים במכירות 2025 / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795582011846,
   "sentLive": false,
   "candidate": true
  }
