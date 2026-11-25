@@ -1,12 +1,5 @@
 [
  {
-  "key": "ישראל | בלי תקציב וריבית 3.25% — סיכון לבורסה ולמשק | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794386124128,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "פאלו אלטו–סייברארק | עסקה ב-25 מיליארד שהפכה ל-37 מיליארד בסגירה | נובמבר 2026",
   "level": "learn",
   "first": 1794389759795,
@@ -2768,6 +2761,27 @@
   "key": "אוקראינה / הכפלת רחפנים ושלישיית מכות עומק / נובמבר 2026",
   "level": "yellow",
   "first": 1795590347454,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מארלו / AI חוות שרתים / גיוס 277 מיליון דולר סיד / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795597662116,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Palo Alto Networks / Fragnesia / פגיעות חירום ב-firewall / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795597662116,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "AI / חשיפת שוק עבודה / רבע מדורשי עבודה בישראל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795597662117,
   "sentLive": false,
   "candidate": true
  }

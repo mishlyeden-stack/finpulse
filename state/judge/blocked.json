@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 332,
+  "ok": 334,
   "blocked": 6
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 225
+  "blocked": 226
  },
  "en.globes.co.il": {
   "ok": 65,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 414,
+  "ok": 415,
   "blocked": 11
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 296
+  "blocked": 297
  },
  "13tv.co.il": {
   "ok": 0,
@@ -56,7 +56,7 @@
   "blocked": 1
  },
  "securityweek.com": {
-  "ok": 96,
+  "ok": 97,
   "blocked": 0
  },
  "ice.co.il": {
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 34,
-  "blocked": 70
+  "blocked": 71
  },
  "funder.co.il": {
   "ok": 0,
