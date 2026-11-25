@@ -41,11 +41,11 @@
  },
  "pc.co.il": {
   "ok": 41,
-  "blocked": 54
+  "blocked": 55
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 178
+  "blocked": 179
  },
  "ecb.europa.eu": {
   "ok": 7,
@@ -61,7 +61,7 @@
  },
  "ice.co.il": {
   "ok": 12,
-  "blocked": 9
+  "blocked": 10
  },
  "datacenterdynamics.com": {
   "ok": 34,
