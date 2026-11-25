@@ -2700,5 +2700,75 @@
   "first": 1795582011846,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "טראמפ / מכסים עולמיים סיבוב חדש / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795583202090,
+  "sentLive": true,
+  "candidate": true
+ },
+ {
+  "key": "שווקים עולמיים / גל מימושים שבבים ו-AI / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795583202090,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נציבות אירופית / פרצת נתונים מחקירת סייבר / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795583202090,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Check Point / שרתי ניהול אבטחה / מתקפת AI / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795583447280,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב / PCE אינפלציה ליבה / שיא שנה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795583447280,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Eon / גיוס 6 מיליארד דולר / גיבוי ענן / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795583447280,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרון / רכישה עצמית 35 מיליארד / ירידה 6% / נובמבר 2026",
+  "level": "learn",
+  "first": 1795583447280,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דוראל / משק אנרגיה / עסקאות חשמל עסקי / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795583447281,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Saab / רכישת Mythos AI / AI ביטחוני / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795583447281,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "איראן / מתקפות סייבר מכליות / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795583691288,
+  "sentLive": false,
+  "candidate": true
  }
 ]
