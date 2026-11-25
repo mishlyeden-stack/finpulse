@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 336,
+  "ok": 337,
   "blocked": 6
  },
  "calcalist.co.il": {
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 129
+  "blocked": 130
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -65,7 +65,7 @@
  },
  "datacenterdynamics.com": {
   "ok": 34,
-  "blocked": 71
+  "blocked": 72
  },
  "funder.co.il": {
   "ok": 0,

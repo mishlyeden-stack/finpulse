@@ -2826,5 +2826,12 @@
   "first": 1795608411494,
   "sentLive": false,
   "candidate": true
+ },
+ {
+  "key": "רפאל / חוב מדינה 8 מיליארד שקל / משבר תזרים / נובמבר 2026",
+  "level": "red",
+  "first": 1795612030558,
+  "sentLive": true,
+  "candidate": false
  }
 ]
