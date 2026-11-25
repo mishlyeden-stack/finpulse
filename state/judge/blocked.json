@@ -5,14 +5,14 @@
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 228
+  "blocked": 229
  },
  "en.globes.co.il": {
-  "ok": 66,
+  "ok": 67,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 418,
+  "ok": 421,
   "blocked": 11
  },
  "news.google.com": {
@@ -33,15 +33,15 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 130
+  "blocked": 131
  },
  "silicon.co.uk": {
   "ok": 1,
   "blocked": 0
  },
  "pc.co.il": {
-  "ok": 41,
-  "blocked": 56
+  "ok": 42,
+  "blocked": 57
  },
  "ft.com": {
   "ok": 0,
@@ -56,7 +56,7 @@
   "blocked": 1
  },
  "securityweek.com": {
-  "ok": 98,
+  "ok": 99,
   "blocked": 0
  },
  "ice.co.il": {
@@ -65,14 +65,14 @@
  },
  "datacenterdynamics.com": {
   "ok": 34,
-  "blocked": 72
+  "blocked": 73
  },
  "funder.co.il": {
   "ok": 0,
   "blocked": 22
  },
  "calcalistech.com": {
-  "ok": 91,
+  "ok": 92,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -120,7 +120,7 @@
   "blocked": 1
  },
  "maariv.co.il": {
-  "ok": 17,
+  "ok": 18,
   "blocked": 0
  },
  "visionmonday.com": {
@@ -380,7 +380,7 @@
   "blocked": 0
  },
  "finance.walla.co.il": {
-  "ok": 2,
+  "ok": 3,
   "blocked": 0
  },
  "tech-insider.org": {
@@ -906,5 +906,9 @@
  "news.cision.com": {
   "ok": 1,
   "blocked": 0
+ },
+ "port2port.co.il": {
+  "ok": 0,
+  "blocked": 1
  }
 }

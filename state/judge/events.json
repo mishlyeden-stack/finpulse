@@ -1,89 +1,5 @@
 [
  {
-  "key": "ישראל | שקל מזנק + ריבית תוקפא — תחזיות מומחים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794402436188,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פורטינט | טלאי קרוב ל-100 חולשות — AI בבדיקות אבטחה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794402436188,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מרכזי נתונים | ציד טורבינות ומנועי סילון משומשים לצריכת חשמל AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794402436188,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נאייקס | החמצת הכנסות, עקיפת רווח, IPS נכנסת לתחזית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794402436188,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | ממשלה אישרה 3 תחנות כוח ו-2 שדות סולאריים — ביקוש חשמל AI ורכב חשמלי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794406175936,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Citrix ו-Ivanti | טלאים לחולשות קריטיות — ניצול מרחוק | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794406175936,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | משכנתאות אוקטובר 9.3 מיליארד שקל — 97.5 מיליארד מתחילת 2026 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794406175936,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "OpenAI | גיוס 11 מיליארד דולר שלב ראשון, דחיית הנפקה, שווי 1.25 טריליון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794406175936,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "בזק | רבעון Q3 — הכנסות +1.2%, רווח נקי זינק | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794406175936,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Vine Ventures | גיוס 236 מיליון דולר לקרן שלישית — AI וביטחון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794406175936,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Kratos | מחיר רחפן Valkyrie עלה ל-6–8 מיליון דולר — עליית עלויות כלי טיס אוטונומיים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794406175936,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה–סין | משרד המסחר האמריקאי עיכב סנקציות חרף אזהרות — פרשת הואנג | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794406175936,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Xero | רכישה עצמית מיליארד דולר + עזיבת CFO | נובמבר 2026",
   "level": "learn",
   "first": 1794456453266,
@@ -2833,5 +2749,47 @@
   "first": 1795612030558,
   "sentLive": true,
   "candidate": false
+ },
+ {
+  "key": "צהל / רכש מדף / קיצוץ פיתוח ייעודי / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795615787915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "FinCEN / מתקפת סייבר / ניתוק מערכות / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795615787915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמברלה / צניחה 40% / נאסד״ק / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795615787915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "חוב עולמי / 115 טריליון דולר / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795615787915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אינדרה / תחזית הכנסות 12 מיליארד אירו / 2030 / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795615787915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סינרג׳י / רכישת ארדן קצנשטיין / 270 מיליון שקל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795615787915,
+  "sentLive": false,
+  "candidate": true
  }
 ]
