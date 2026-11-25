@@ -1,11 +1,11 @@
 {
  "globes.co.il": {
-  "ok": 329,
+  "ok": 330,
   "blocked": 6
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 224
+  "blocked": 225
  },
  "en.globes.co.il": {
   "ok": 65,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 128
+  "blocked": 129
  },
  "silicon.co.uk": {
   "ok": 1,
