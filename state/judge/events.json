@@ -1,124 +1,5 @@
 [
  {
-  "key": "Xero | רכישה עצמית מיליארד דולר + עזיבת CFO | נובמבר 2026",
-  "level": "learn",
-  "first": 1794456453266,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנתרופיק | הנפקה צפויה עד 1.4 טריליון דולר — מבחן שוק AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456453267,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מאינד CTI | מכירת חברת תקשורת ישראלית 25 מיליון דולר — משבר השקעות בתחום | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456453267,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "רבולוט ישראל | בליץ גיוסים לקראת הקמת הבנק | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456453267,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלפאבית | גיוס 3 מיליארד דולר באסיה — פיזור מימון | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456453267,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פולימרקט | קיצוץ עובדים לפני הנפקה — ניקוי שורות | נובמבר 2026",
-  "level": "learn",
-  "first": 1794456915379,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "קוסטקו | דיבידנד מיוחד 13.3 מיליארד דולר — הגדול בתולדות החברה | נובמבר 2026",
-  "level": "learn",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פאלו אלטו–סייברארק | עלות פיטורי עובדים 60 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "מיקרוסופט | אזהרה מאיסור רכיבים סיניים — עיכוב מרוץ AI | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | הסמכת תחנות כוח 2,700 מגה-וואט בגז — שמיר, פאוורג׳ן, פלמחים | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה–ישראל | תביעה ייצוגית נגד הואנג + חוקר מונה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ביטחון | מניית ביטחון עם אפסייד 22% — וול סטריט | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "יונייטד | חסימת סוכני AI מהזמנת טיסות — השלכות על OTA | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טבע | העלאת יעד הכנסות ל-6–7 מיליארד דולר עד 2030 + שקלול רכישות | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AI חשמל | מניות מתאוששות — שאלת מימון הבנייה נפתחת | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ריסקיפייד | זינוק 22% — AI מהפך מניעת הונאות למנוע צמיחה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "נמל חיפה | סכסוך עבודה מלחיץ את אדאני | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794456915380,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "PwC | מחצית מהחברות פגיעות למתקפות AI — דו״ח אמון דיגיטלי 2027 | נובמבר 2026",
   "level": "yellow",
   "first": 1794457141043,
@@ -2789,6 +2670,160 @@
   "key": "סינרג׳י / רכישת ארדן קצנשטיין / 270 מיליון שקל / נובמבר 2026",
   "level": "yellow",
   "first": 1795615787915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דולר / זינוק 3% תוך יומיים / שיא שנה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666054914,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה / דירקטוריון / תלות במייסד / שיעור ממשל תאגידי / נובמבר 2026",
+  "level": "learn",
+  "first": 1795666054915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה / S&P מוריד תחזית לשלילית / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666054915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "JPMorgan / תחזית גיוסי חוב AI 450 מיליארד דולר / 2027 / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666054915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שטראוס + טבע + ישראכרט / גל פיטורים לענפים מסורתיים / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666054915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Five9 / רכישת Level AI / AI לשירות לקוחות / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666054915,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אוצר ישראל / תוכנית מיסוי 40 מיליארד שקל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666261791,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "קליל / אלומיניום +23% / הפסד ברבעון שלישי / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666261791,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "פייטון / רווח -84% וצבר הזמנות כמעט הוכפל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666261791,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "OpenAI / הנפקה / סיכוי 28% עד יוני 2027 / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666261791,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "התאחדות קבלנים / תחזית התחלות בנייה 2027 / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666261791,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Diversified Energy / רכישת Birch Permian 1.8 מיליארד דולר / מימון סקיוריטיזציה / נובמבר 2026",
+  "level": "learn",
+  "first": 1795666367789,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "American Tower / גיוס חוב 1.2 מיליארד אירו / רפינננסינג / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666367789,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אמזון דקארט / מס ישראלי כמעט 2 מיליארד דולר / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666733345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל / סטארטאפים ביטחוניים / יצוא ביטחוני 19 מיליארד דולר / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666733345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נורסטאר / צניחה 61% ביום ההנפקה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666733345,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Amplifon / אשראי 1.2 מיליארד אירו / מימון רכישת GN Hearing / נובמבר 2026",
+  "level": "learn",
+  "first": 1795666733346,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בתי זיקוק ישראל / רווחים מזנקים עקב מלחמה ברוסיה ואיראן / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666733346,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וויקס / קרן אקטיביסטית 7% / עלייה 16% / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666733346,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ספייס אקס / אישור מיליון לוויינים / מחשוב בחלל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666733346,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "הולנדיה / הנפקה בת״א / שווי מיליארד שקל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666733346,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ונצואלה / הסדר חוב 237.5 מיליארד דולר / תוכנית שחזור / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795666733346,
   "sentLive": false,
   "candidate": true
  }

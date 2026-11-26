@@ -1,23 +1,23 @@
 {
  "globes.co.il": {
-  "ok": 337,
+  "ok": 342,
   "blocked": 6
  },
  "calcalist.co.il": {
   "ok": 0,
-  "blocked": 229
+  "blocked": 235
  },
  "en.globes.co.il": {
   "ok": 67,
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 421,
+  "ok": 429,
   "blocked": 11
  },
  "news.google.com": {
   "ok": 0,
-  "blocked": 298
+  "blocked": 302
  },
  "13tv.co.il": {
   "ok": 0,
@@ -33,7 +33,7 @@
  },
  "themarker.com": {
   "ok": 0,
-  "blocked": 131
+  "blocked": 132
  },
  "silicon.co.uk": {
   "ok": 1,
@@ -45,14 +45,14 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 179
+  "blocked": 183
  },
  "ecb.europa.eu": {
   "ok": 7,
   "blocked": 0
  },
  "ynet.co.il": {
-  "ok": 66,
+  "ok": 68,
   "blocked": 1
  },
  "securityweek.com": {
@@ -61,7 +61,7 @@
  },
  "ice.co.il": {
   "ok": 13,
-  "blocked": 10
+  "blocked": 11
  },
  "datacenterdynamics.com": {
   "ok": 34,
@@ -72,7 +72,7 @@
   "blocked": 22
  },
  "calcalistech.com": {
-  "ok": 92,
+  "ok": 95,
   "blocked": 0
  },
  "ptnow.co.il": {
@@ -148,7 +148,7 @@
   "blocked": 2
  },
  "tradingview.com": {
-  "ok": 8,
+  "ok": 9,
   "blocked": 14
  },
  "govconwire.com": {
@@ -173,7 +173,7 @@
  },
  "streetinsider.com": {
   "ok": 0,
-  "blocked": 4
+  "blocked": 5
  },
  "cnbc.com": {
   "ok": 24,
@@ -245,7 +245,7 @@
  },
  "finance.yahoo.com": {
   "ok": 0,
-  "blocked": 23
+  "blocked": 24
  },
  "techtarget.com": {
   "ok": 1,
@@ -277,7 +277,7 @@
  },
  "sec.gov": {
   "ok": 0,
-  "blocked": 8
+  "blocked": 9
  },
  "newsquawk.com": {
   "ok": 1,
@@ -460,7 +460,7 @@
   "blocked": 1
  },
  "emess.co.il": {
-  "ok": 4,
+  "ok": 5,
   "blocked": 0
  },
  "thedailyupside.com": {
@@ -910,5 +910,25 @@
  "port2port.co.il": {
   "ok": 0,
   "blocked": 1
+ },
+ "legal.economictimes.indiatimes.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "jawlah.co": {
+  "ok": 0,
+  "blocked": 1
+ },
+ "energiesmedia.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "ynetnews.com": {
+  "ok": 1,
+  "blocked": 0
+ },
+ "hearingreview.com": {
+  "ok": 1,
+  "blocked": 0
  }
 }
