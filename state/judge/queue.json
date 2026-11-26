@@ -1,5 +1,27 @@
 [
  {
+  "id": "9f39ea5f654c34f1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Peter Marrone Announces Acquisition Of Securities Of Sendero Resources Corp. - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVDVOaXVRd2Exbk1RN2RQcnh3cHc5SkdmMGcxQXhIT2ktVno0V1d5R05jUEJjT044WFZUd2ZpVUYyOExKWmxobU9aN3dsVVR4cEZjUlFzRkNiN255MUtHclRNZTFTeldlaHA0SUd4amYwbFBNZHR6b2lvdTVwVktvNGtmMU9RaXJCQkRocjdCSENfWWxCMUZwUDFWOHZfUndjY3Z0MmE1N2Z5cWdxeDZYTFgzdDlQSjBDTFlBVEl2Q3hOX3V5M09PcldYNGFLcDJZWVFDYTdYd21jbDg0bjR5RzBzcjBQdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVDVOaXVRd2Exbk1RN2RQcnh3cHc5SkdmMGcxQXhIT2ktVno0V1d5R05jUEJjT044WFZUd2ZpVUYyOExKWmxobU9aN3dsVVR4cEZjUlFzRkNiN255MUtHclRNZTFTeldlaHA0SUd4amYwbFBNZHR6b2lvdTVwVktvNGtmMU9RaXJCQkRocjdCSENfWWxCMUZwUDFWOHZfUndjY3Z0MmE1N2Z5cW",
+  "date": "2026-11-26T22:25:07.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
+ },
+ {
+  "id": "6bdba4426d065cee",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of HiJoJo Partners Inc. – TSE:657A - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXB5SmVxQU1sNWluMVl3aEJLdmNRN0tfcFludUplelczaEc5MEJrdl9mMk1WR0E1cEFrZDl5bWh5ZlJKNTE5Y0d0MXNKVDZ5NVdGc3N2bGpLdDd4Z29tTkkyVlhHcXNVaXNtQzFtMEd6TXJObHZYMkFUQlQxcXhSOTZKVjNIS2JH?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXB5SmVxQU1sNWluMVl3aEJLdmNRN0tfcFludUplelczaEc5MEJrdl9mMk1WR0E1cEFrZDl5bWh5ZlJKNTE5Y0d0MXNKVDZ5NVdGc3N2bGpLdDd4Z29tTkkyVlhHcXNVaXNtQzFtMEd6TXJObHZYMkFUQlQxcXhSOTZKVjNIS2JH?oc=5\" target=\"_blank\">Free cash flow of HiJoJ",
+  "date": "2026-11-26T22:19:05.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
+ },
+ {
   "id": "ab08d66499c80704",
   "source": "ynet כלכלה",
   "group": "israel-press",
@@ -66,6 +88,17 @@
   "fromCloud": "2026-11-26T2203.json"
  },
  {
+  "id": "db3f37ea09cbde38",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "\"עיר חזקה לא רק מגדלת אלופים - היא מאפשרת לכל ילד לגלות את האלוף שבו\" - ראשון לציון 2026 - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVdyMDFNN0pYcEdFcTcyQy1WUWZ2U1dBRFdQZ29HNzFCQXZLUU1naVBDTlYyeXJRZWI3YmY5N2pnaWZ4ZHZOVWhXLVFhVENxN2FBcV9lQnV3NFZqLWNoVEVmTVRsYlV6VlFxV3FCZVZKYzVKTHJKSUI2R3JIOGhrZjVNLXlOdEhJY3h6aC1wQWJyclN4VXpHLVUtbFJfRS1BOFB3NUxZMWRLQmM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVdyMDFNN0pYcEdFcTcyQy1WUWZ2U1dBRFdQZ29HNzFCQXZLUU1naVBDTlYyeXJRZWI3YmY5N2pnaWZ4ZHZOVWhXLVFhVENxN2FBcV9lQnV3NFZqLWNoVEVmTVRsYlV6VlFxV3FCZVZKYzVKTHJKSUI2R3JIOGhrZjVNLXlOdEhJY3h6aC1wQWJyclN4VXpHLVUtbFJfRS1BOFB3NUxZMWRLQm",
+  "date": "2026-11-26T21:08:00.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
+ },
+ {
   "id": "388021f003d5ac1d",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -75,6 +108,28 @@
   "date": "2026-11-26T21:04:00.000Z",
   "fetched": "2026-11-26T21:33:10.476Z",
   "fromCloud": "2026-11-26T2133.json"
+ },
+ {
+  "id": "9764e9e138533399",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Enter Air SA – GPW:ENT_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGxYczByLXFYSUMtSGRMRDhHYXF2UEp3RmdmWUlfTlBWV21Qdjg3dkxhMi1QVEJsRXhoa1FkVUdIYTFXRTZFWmdJcDFOb2lobW5RLWVsWndQdlNtMmxQR3p6ekp6cEJteWZjeFBDbWpLSjFVcm9zOUpTN2R3MmYyUGd2WUFBeFFYZnc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGxYczByLXFYSUMtSGRMRDhHYXF2UEp3RmdmWUlfTlBWV21Qdjg3dkxhMi1QVEJsRXhoa1FkVUdIYTFXRTZFWmdJcDFOb2lobW5RLWVsWndQdlNtMmxQR3p6ekp6cEJteWZjeFBDbWpLSjFVcm9zOUpTN2R3MmYyUGd2WUFBeFFYZnc?oc=5\" target=\"_blank\">Free cash flow of En",
+  "date": "2026-11-26T21:03:37.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
+ },
+ {
+  "id": "9c0f8b509b6d4c58",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Marie Brizard Wine & Spirits SA – GPW:MBW_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnF4djBLZWdhVkZuczRRUXZvX3hOSEUzekFMbDZqeGxBdEFhLVJzanpkcWJvRVVCVVpwU09Ba3FxdG9nc2Q2VWh3UGlhRjhUdXlhQkFDREdSbF9BUjBBTG8tYTJSaldmQ2lnQnBMRVhVRmU0VGR0MFNwdTRiZWNMcEVxYXVGNm8tWUhVOWVMa2NqX25kZUdvY1k1X3MwQlZIS0lhVm9lTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnF4djBLZWdhVkZuczRRUXZvX3hOSEUzekFMbDZqeGxBdEFhLVJzanpkcWJvRVVCVVpwU09Ba3FxdG9nc2Q2VWh3UGlhRjhUdXlhQkFDREdSbF9BUjBBTG8tYTJSaldmQ2lnQnBMRVhVRmU0VGR0MFNwdTRiZWNMcEVxYXVGNm8tWUhVOWVMa2NqX25kZUdvY1k1X3MwQlZIS0lhVm9lTQ?oc=",
+  "date": "2026-11-26T21:03:36.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
  },
  {
   "id": "1eded40579b3e6c1",
@@ -97,6 +152,28 @@
   "date": "2026-11-26T20:55:00.000Z",
   "fetched": "2026-11-26T22:33:12.295Z",
   "fromCloud": "2026-11-26T2233.json"
+ },
+ {
+  "id": "d5332194b4e3d986",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "החיים הטובים מתחילים באלף - ראשון לציון 2026 - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWU80VTducm1VM2lFZDBqVXN0T2ZhWHpnb2U4ekVxN2V6Ukhad1pzOVhzZ0ZpYTd1SHlIU0M1aFdwdElQbEdjbmNwUk12Y1RxUHlJUTVxNmVYSzAtTzZTd0R5XzI1WEhPWHVzalA2M2thNmRxa3BtOEtBaXJudHVBT19oaDZhNE5FbVNVZGlXcC02SUZldGc5bHc1VUdvRjB2d3ZWRzJTaTJwMlk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWU80VTducm1VM2lFZDBqVXN0T2ZhWHpnb2U4ekVxN2V6Ukhad1pzOVhzZ0ZpYTd1SHlIU0M1aFdwdElQbEdjbmNwUk12Y1RxUHlJUTVxNmVYSzAtTzZTd0R5XzI1WEhPWHVzalA2M2thNmRxa3BtOEtBaXJudHVBT19oaDZhNE5FbVNVZGlXcC02SUZldGc5bHc1VUdvRjB2d3ZWRzJTaTJwMl",
+  "date": "2026-11-26T20:52:00.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
+ },
+ {
+  "id": "02d6f24b0c09f439",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Gapwaves AB Rights 2026-08.12.26 For Units Gapwaves Uts 26 – OMXSTO:GAPW_UR_B - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1c1SmxoYlRRQ1ZfcTBQSE10ZFhnanE3bHFMbVI3Nk9HVmtzdVpYemY0VWNOSXl0QlRGeG40Y3p6djdmS2RaZWNfdWhha0pnRTN1NHFISjhyOUZudDNDWl9uVGRNTDdDWWsxUHlHZG1yeS10UkN0cTdsaVJRclNYQlJsM2F3OHB5eUoteVRuU0hQMjA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1c1SmxoYlRRQ1ZfcTBQSE10ZFhnanE3bHFMbVI3Nk9HVmtzdVpYemY0VWNOSXl0QlRGeG40Y3p6djdmS2RaZWNfdWhha0pnRTN1NHFISjhyOUZudDNDWl9uVGRNTDdDWWsxUHlHZG1yeS10UkN0cTdsaVJRclNYQlJsM2F3OHB5eUoteVRuU0hQMjA?oc=5\" target=\"_blank\">Free cas",
+  "date": "2026-11-26T20:41:47.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
  },
  {
   "id": "205559b5061aa2f8",
@@ -352,6 +429,17 @@
   "fromCloud": "2026-11-26T1933.json"
  },
  {
+  "id": "82f184e955646d69",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Globe Trade Centre S.A. – GPW:GTC_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORWFnSURmY2l2Mm1oVTNGN0c1SUZ3SjRRWHRjTEZsSWo2ZUZ1eTR4Y2hZTVFLNjlJOWE4akdrREF3VTJxLVpueFlORzZ3OVgyaDhJUFp2WFRzU3F5SW05dExtVkp1WUs4a0M3RUlCTXRFbzJaTnJjTlJvWGF1bFFBYWZRcGdzVURJc1E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORWFnSURmY2l2Mm1oVTNGN0c1SUZ3SjRRWHRjTEZsSWo2ZUZ1eTR4Y2hZTVFLNjlJOWE4akdrREF3VTJxLVpueFlORzZ3OVgyaDhJUFp2WFRzU3F5SW05dExtVkp1WUs4a0M3RUlCTXRFbzJaTnJjTlJvWGF1bFFBYWZRcGdzVURJc1E?oc=5\" target=\"_blank\">Free cash flow of Gl",
+  "date": "2026-11-26T19:26:45.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
+ },
+ {
   "id": "4f05e2ab2e48a5a1",
   "source": "Calcalist Tech (Google News)",
   "group": "israel-press",
@@ -462,6 +550,17 @@
   "fromCloud": "2026-11-26T1933.json"
  },
  {
+  "id": "7d8898bcc76ba2f0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Quick ratio of JAB Acquisition Corp I – NASDAQ:ATLQW - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHhHSWUzN2ZyZTFSS2xTX3l6RjhSem5Db1NVZkJTWklyb2ZBUjRraXJlbjRVYmQ3TmR3dXJIUzlBQ2tIblZJSVdMRmtDam9OOGFTQi1FYVFnZTZ3TldzV0tSQzA3dG5nSEQzWkdyVDVaRHFhOUtHMGhDZUZ2N3hZemtjQ1E5TldVQlRkTmJYVXdUcXNBaGZ2YnBB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHhHSWUzN2ZyZTFSS2xTX3l6RjhSem5Db1NVZkJTWklyb2ZBUjRraXJlbjRVYmQ3TmR3dXJIUzlBQ2tIblZJSVdMRmtDam9OOGFTQi1FYVFnZTZ3TldzV0tSQzA3dG5nSEQzWkdyVDVaRHFhOUtHMGhDZUZ2N3hZemtjQ1E5TldVQlRkTmJYVXdUcXNBaGZ2YnBB?oc=5\" target=\"_blank\"",
+  "date": "2026-11-26T18:55:55.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
+ },
+ {
   "id": "0a498c10dc4b966a",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -493,6 +592,17 @@
   "date": "2026-11-26T18:48:00.000Z",
   "fetched": "2026-11-26T19:03:10.747Z",
   "fromCloud": "2026-11-26T1903.json"
+ },
+ {
+  "id": "9e9f88299c155dda",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Prochem S.A. – GPW:PRM_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkR2UTAtYUROY25XdWw0am16UlZxaFJxb3hMeDJGai1fU3ljbDRNOEg0akw1aFExaEZfS3p5WnF5bDNxVVcyODNrXzNwODlabUw3SUxVdmRuNmNJZU8yT3VBMk1UOG5EdXJjMlJvZnJfVDdITDd6WWxiQlViU09nVXZUS0R1QXE0enc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkR2UTAtYUROY25XdWw0am16UlZxaFJxb3hMeDJGai1fU3ljbDRNOEg0akw1aFExaEZfS3p5WnF5bDNxVVcyODNrXzNwODlabUw3SUxVdmRuNmNJZU8yT3VBMk1UOG5EdXJjMlJvZnJfVDdITDd6WWxiQlViU09nVXZUS0R1QXE0enc?oc=5\" target=\"_blank\">Free cash flow of Pr",
+  "date": "2026-11-26T18:46:50.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
  },
  {
   "id": "899ab9b9b4ff2278",
@@ -572,6 +682,17 @@
   "fromCloud": "2026-11-26T1903.json"
  },
  {
+  "id": "a4bbae7636a0029a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Debt to assets ratio of JAB Acquisition Corp I – NASDAQ:ATLQW - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOai1zVXBiTmYwR1VZcFBwaGQ4TkQ3X1czSVNsNDlZcnp5aWJsT3l1WExRblUtT01kWEhxcVBJTGllSVp5V2lHZUxBRXBNWWVQS3J6YzlGbW10NFBwZkh2bXBtTF83Tk1ULW84WFpESHBoR1V0VFYteDlpV3kyRVhIMENJV1hUUjNDclVjWjZXQlBia2pvTmotTWRKNW8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOai1zVXBiTmYwR1VZcFBwaGQ4TkQ3X1czSVNsNDlZcnp5aWJsT3l1WExRblUtT01kWEhxcVBJTGllSVp5V2lHZUxBRXBNWWVQS3J6YzlGbW10NFBwZkh2bXBtTF83Tk1ULW84WFpESHBoR1V0VFYteDlpV3kyRVhIMENJV1hUUjNDclVjWjZXQlBia2pvTmotTWRKNW8?oc=5\" target=\"_bla",
+  "date": "2026-11-26T18:27:45.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
+ },
+ {
   "id": "cb1a588bbc175623",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -581,6 +702,17 @@
   "date": "2026-11-26T18:27:27.000Z",
   "fetched": "2026-11-26T21:03:11.824Z",
   "fromCloud": "2026-11-26T2103.json"
+ },
+ {
+  "id": "5d94c1bb4e9f2245",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Arlen SA – GPW:ARL_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWJ5MTNNT0xNVE02WEQ5TW9sUFZvMllwUDM0MjVhbEtmNVRSSVlPMnpCTFN0RFR4NXZtVVNSUy03SWxWVF9oU05Iekd2TlVRbjVjbHdPN0J0NUlabjhsUHVub2ZxM3JZR1hXWDg2MUI1VE9pMVdBR25PWGFxUzVWdm00TUhqaVRHbmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWJ5MTNNT0xNVE02WEQ5TW9sUFZvMllwUDM0MjVhbEtmNVRSSVlPMnpCTFN0RFR4NXZtVVNSUy03SWxWVF9oU05Iekd2TlVRbjVjbHdPN0J0NUlabjhsUHVub2ZxM3JZR1hXWDg2MUI1VE9pMVdBR25PWGFxUzVWdm00TUhqaVRHbmc?oc=5\" target=\"_blank\">Free cash flow of Ar",
+  "date": "2026-11-26T18:26:02.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
  },
  {
   "id": "4fa0b7ac1249843f",
@@ -638,6 +770,17 @@
   "fromCloud": "2026-11-26T2003.json"
  },
  {
+  "id": "f1a11f4179a2d20b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Columbus Energy SA – GPW:CLC_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEJsTFJVN19ZeFJuRzd4SHowWlJOcEFfOXJnUDJ3TEROTjcyZEwtSEtCUElZTF9FNFlZNXZvY2tZazJJT05GRTdzZFhsU3dqQVlwLWI4OTh3U1ZNR05mUUkwdkN3OHZKTGNrLXFCajNWTWwzc1JDSUExdnNjeWlQR0ViODNaSGFZTUhBVzR1Tnh3NEM2OElHSEpvS05meWNBVDloeVIyWQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEJsTFJVN19ZeFJuRzd4SHowWlJOcEFfOXJnUDJ3TEROTjcyZEwtSEtCUElZTF9FNFlZNXZvY2tZazJJT05GRTdzZFhsU3dqQVlwLWI4OTh3U1ZNR05mUUkwdkN3OHZKTGNrLXFCajNWTWwzc1JDSUExdnNjeWlQR0ViODNaSGFZTUhBVzR1Tnh3NEM2OElHSEpvS05meWNBVDloeVIyWQ?oc=",
+  "date": "2026-11-26T18:16:46.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
+ },
+ {
   "id": "8576545f35d69214",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -691,6 +834,17 @@
   "date": "2026-11-26T18:03:39.000Z",
   "fetched": "2026-11-26T18:33:10.891Z",
   "fromCloud": "2026-11-26T1833.json"
+ },
+ {
+  "id": "2b10d3c40bccafc8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Delaware North Names Bogumil CFO, Pinto Returns to Penn - SBC Americas",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01RHZxcHFMUndnOW5URUdHUTNfaC1jaHlpV2QwWk1uZEEwNW1Cd3J3NVdVWjBGMFdKY2VUaWJsOHZaOTN6UEp0UXBlQ0ozSFhVdEdYc3pOWUlCQmNFNUJMbF8xYy1ZTGF6eHlJcF9rSnM0ME9IZXowUjZhMEpkd9IBgwFBVV95cUxNYlNacXlpWHlrRkZ6OWE5cWRvSDdpWUIxREtKT0F2WUlWYnNaMDFrMGpGVmNNdVhzRFhmY3M1MzQ1Z3hnR21fLUhlbmlPa0dmQlB1WmZZV004RUF0aGVBVnhPUVJSMnVnTHZNbS1MZThLZGIzQjNYSFVyMUlEdzNXbHFpNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE01RHZxcHFMUndnOW5URUdHUTNfaC1jaHlpV2QwWk1uZEEwNW1Cd3J3NVdVWjBGMFdKY2VUaWJsOHZaOTN6UEp0UXBlQ0ozSFhVdEdYc3pOWUlCQmNFNUJMbF8xYy1ZTGF6eHlJcF9rSnM0ME9IZXowUjZhMEpkd9IBgwFBVV95cUxNYlNacXlpWHlrRkZ6OWE5cWRvSDdpWUIxREtKT0F2WUlWYn",
+  "date": "2026-11-26T18:00:45.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
  },
  {
   "id": "75681d7ac0223786",
@@ -856,6 +1010,17 @@
   "date": "2026-11-26T17:33:20.000Z",
   "fetched": "2026-11-26T18:03:14.008Z",
   "fromCloud": "2026-11-26T1803.json"
+ },
+ {
+  "id": "1f88663a17c45939",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of ATAL S.A. – GPW:1AT_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmFwTTFWQWVKa3FWblZFeXhYam00X2dsX1hYSVlXOHhRZE9zM3hQS0hVYnUwYkI0bzNGMDkwWmNvd0UzeGtfVHcxeml1ZnFHOFJ2WUpYOU5vLThJRDN0U21kem9xeTNpWGJmR2hlaXNqYmIzbEV3bHNPcjdJa2hrbm9hSXdzMWhZbElHYWRheU5yX1BIQVJ4MDAzaXo4cmhNS09CU2FfYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmFwTTFWQWVKa3FWblZFeXhYam00X2dsX1hYSVlXOHhRZE9zM3hQS0hVYnUwYkI0bzNGMDkwWmNvd0UzeGtfVHcxeml1ZnFHOFJ2WUpYOU5vLThJRDN0U21kem9xeTNpWGJmR2hlaXNqYmIzbEV3bHNPcjdJa2hrbm9hSXdzMWhZbElHYWRheU5yX1BIQVJ4MDAzaXo4cmhNS09CU2FfYw?oc=",
+  "date": "2026-11-26T17:31:09.000Z",
+  "fetched": "2026-11-26T23:03:12.240Z",
+  "fromCloud": "2026-11-26T2303.json"
  },
  {
   "id": "333216ed83529c5e",
