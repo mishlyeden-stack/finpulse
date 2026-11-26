@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-26",
+  "headline": "מד האינפלציה האמריקאי בשיא של 3 שנים, חומת אש נפרצת, ו-Dell כפילה את ה-AI backlog",
+  "empty": false,
+  "know": [
+    {
+      "title": "הפד מקבל אישור: Core PCE בשיא 3 שנים — ריבית דצמבר כמעט ודאית",
+      "what": "ה-BEA פרסם ב-25 בנובמבר: Core PCE עלה ל-3.3% — שיא מזה 3 שנים. PCE כולל 3.8%. השוק מתמחר 89.7% ודאות להעלאת ריבית בדצמבר (3.75–4%).",
+      "why": "פרש ריביות בין ארה\"ב לישראל מתרחב. בנק ישראל ב-3.25%, הפד צועד לפניו. לחץ נוסף על השקל (3.35 ₪, שיא מתחילת השנה), מייקר ייבוא ומקשה על הפחתות ריבית.",
+      "concept": {
+        "name": "PCE — Personal Consumption Expenditures",
+        "explain": "מדד אינפלציה על הוצאות הצרכן בפועל; מגיב מהר יותר מ-CPI לשינויי הרגלים. זה המדד שהפד עוקב אחריו."
+      },
+      "source": {
+        "name": "Marketplace.org, 25.11",
+        "url": "https://www.marketplace.org/story/2026/11/25/core-pce-inflation-hit-a-3year-high-last-month"
+      }
+    },
+    {
+      "title": "פגיעות חירום בחומות אש של Palo Alto — מנוצלת בפועל",
+      "what": "ב-25 בנובמבר: CVE-2026-46300 (Fragnesia) — RCE קריטי ב-PAN-OS. תוקפים משלבים PHP2Shell לגישת root לממשק הניהול. עדכון חירום בתוקף, ניצול פעיל מאושר.",
+      "why": "PAN-OS מותקן בממשלה, בנקים ותשתיות. ממשק ניהול חשוף = גישה מלאה לרשת הפנימית. ארגונים שלא עדכנו חשופים עכשיו.",
+      "concept": null,
+      "source": {
+        "name": "BozoKMedia / PAN-SA-2026-0015, 25.11",
+        "url": "https://www.bozokmedia.com/en/technology/2026/11/25/palo-alto-networks-patches-fragnesia-flaw-exploited-by-hackers-to-root-firewalls-427190/"
+      }
+    }
+  ],
+  "understand": {
+    "title": "Dell: AI backlog של $132 מיליארד — למה כל רבעון ה\"הפתעה\" מתחדשת?",
+    "what": "Dell עדכנה ב-26 בנובמבר תחזית לפעם השלישית השנה: שרתי AI יגיעו ל-78 מיליארד דולר, כלל הכנסות 202 מיליארד דולר. 60 מיליארד הוזמנו ברבעון האחרון. backlog כולל 132 מיליארד דולר.",
+    "mechanism": "Hyperscalers מזמינים תשתיות 12–18 חודשים קדימה. כל תוצאה חזקה מאיצה הזמנות לרבעון הבא. Supply chain bottleneck (GPUs, שנאים, קירור) מנפח את ה-backlog. Bundled deals: רכישת Blackwell GPU מ-Nvidia לרוב מחייבת שרת שלם מ-Dell.",
+    "who": "חברות IT integration (מלם תים, מטריקס, וואן); ספקי חשמל וקירור; מרכזי נתונים. עבור IT ישראלי — backlog של Dell הוא מדד מוביל לביקוש ב-12–18 חודשים.",
+    "follow": "כשחברת שרתים מעלה תחזית — שאלי: כמה מזה כבר ב-backlog קיים מול הזמנות חדשות? backlog גדול נהדר, אבל גם מסתיר עיכובים בייצור ורגישות לביטולים.",
+    "concept": null,
+    "source": {
+      "name": "Dataconomy.com, 26.11",
+      "url": "https://dataconomy.com/2026/11/25/dell-revenue-doubles-as-ai-backlog-reaches-132-billion/"
+    }
+  },
+  "think": {
+    "title": "ארקיע: 107 מיליון דולר משרשרת ניהול סיכונים",
+    "case": "חברת התעופה ארקיע ספגה הפסד של 107 מיליון דולר ב-2026 ממדיניות ניהול סיכוני הדלק שלה, בעוד מתחרותיה כמעט לא הרגישו את עליית מחירי הדלק של 130%. הדירקטוריון קיבל את ההחלטה על אף המלצות הצוות המקצועי. בנובמבר 2026 הגיע משקיע חדש שרכש 82% מהחברה.",
+    "question": "לפני שאת קוראת את ההסבר — מה לדעתך הייתה ההחלטה הקריטית שהפכה 107 מיליון דולר לשרשרת ההתרסקות של ארקיע?",
+    "source": {
+      "name": "Globes English",
+      "url": "https://en.globes.co.il/en/article-the-fatal-mistake-that-doomed-arkia-to-losses-1001563570"
+    }
+  },
+  "field": null
+}
