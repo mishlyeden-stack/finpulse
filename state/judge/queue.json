@@ -33,6 +33,17 @@
   "fromCloud": "2026-11-26T0203.json"
  },
  {
+  "id": "29a4517b0de17efc",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Bank of Korea raises interest rates amid AI chip boom",
+  "link": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
+  "summary": "Third quarter-point increase this year takes benchmark rate to 3.25 per cent",
+  "date": "2026-11-26T01:47:50.000Z",
+  "fetched": "2026-11-26T02:08:26.918Z",
+  "fromCloud": "2026-11-26T0208.json"
+ },
+ {
   "id": "961797f38f60a582",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -295,6 +306,17 @@
   "date": "2026-11-25T22:21:00.000Z",
   "fetched": "2026-11-25T23:03:21.740Z",
   "fromCloud": "2026-11-25T2303.json"
+ },
+ {
+  "id": "3b155a7a56bfb400",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "האלומיניום התייקר ב-23% וקליל עברה להפסד ברבעון השלישי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCRFhjZGNrVFRCY2FFX0Rob3ZvcHdiRUtlcldBUzR4bFEwZU1DaVNnMmc5N3U2MlZsOUl6Tkh6UURMV1A4TE9GTzBSczdfcmVnS0dIaEpIcjhobWRWczRrMVdIQ0luYVNjZ2xpcUdqdGI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBCRFhjZGNrVFRCY2FFX0Rob3ZvcHdiRUtlcldBUzR4bFEwZU1DaVNnMmc5N3U2MlZsOUl6Tkh6UURMV1A4TE9GTzBSczdfcmVnS0dIaEpIcjhobWRWczRrMVdIQ0luYVNjZ2xpcUdqdGI?oc=5\" target=\"_blank\">האלומיניום התייקר ב-23% וקליל עברה להפסד ברבעון השלישי</",
+  "date": "2026-11-25T22:17:00.000Z",
+  "fetched": "2026-11-26T02:08:26.918Z",
+  "fromCloud": "2026-11-26T0208.json"
  },
  {
   "id": "479015ee7bd73e85",
