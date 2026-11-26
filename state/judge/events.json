@@ -1,82 +1,5 @@
 [
  {
-  "key": "PwC | מחצית מהחברות פגיעות למתקפות AI — דו״ח אמון דיגיטלי 2027 | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794457141043,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "FIS | מינוי CFO ביניים בחברת פינטק ענק לפני שלב אסטרטגי | נובמבר 2026",
-  "level": "learn",
-  "first": 1794457141043,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אפלייד אינטואישן | גיוס 1.5 מיליארד דולר בשווי 30 מיליארד | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794457141044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טאלן אנרג׳י | חוזה הספק חשמל 100 מיליון דולר בשנה עם מרכז נתונים — זינוק 6% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794457141044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה | חקירת משרד עורכי דין בפרשת הואנג + מניה קופצת 5% | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794457141044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ויקטורי–קרפור | שאלת השליטה — האם רביד יכול להשתלט? | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794457141044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "שוק הגמל | חצה טריליון שקל — הכשרה ביטוח נכנסת | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794457141044,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | ריבית יורדת — קרנות כספיות עוקפות אג״ח, איפה עוד תשואה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794458261839,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | מדד נובמבר — אינפלציה צפויה לרדת אך יש מלכוד | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794458261839,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Xen Orchestra | חולשות קריטיות מנוצלות — השתלטות על XCP-ng nodes | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794458261839,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "פולין–קטאר | ביטול חוזה גז מיליארדי בגלל חסימת הורמוז | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794458421112,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "אנבידיה–הואנג | ירידה 8% + דירקטוריון שוקל הדחה + CFO כמועמדת ביניים | נובמבר 2026",
   "level": "red",
   "first": 1794461881083,
@@ -2824,6 +2747,83 @@
   "key": "ונצואלה / הסדר חוב 237.5 מיליארד דולר / תוכנית שחזור / נובמבר 2026",
   "level": "yellow",
   "first": 1795666733346,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דולר / מצוקת נזילות דולרית בבנקים / שיא חדש / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795667908801,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מיקרוסופט / Code Red / תקלת ענק / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795667908801,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שקל / שיא 15 חודשים / 3.39 / נובמבר 2026",
+  "level": "red",
+  "first": 1795668108886,
+  "sentLive": true,
+  "candidate": false
+ },
+ {
+  "key": "Traeger / CFO עוזב / 8 חודשים אחרי בונוס שימור / נובמבר 2026",
+  "level": "learn",
+  "first": 1795668108886,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "וול סטריט / גל ירידות / גולדמן אזהרה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795668108886,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אר פי אופטיקל / דוחות מאכזבים + הורדת תחזית / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795668108886,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "GeoServer / פגיעויות RCE / ניצול פעיל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795668108886,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "יצרניות נשק אירופה / חבלה רוסית / אבטחה מוגברת / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795668108886,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דיפייק / זינוק גילויים + AI בהונאות פיננסיות / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795668252650,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ארה״ב / מכסים חדשים על 14 כלכלות / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795668425975,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל / שכר חוקר אבטחה vs מהנדס RF / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795668425976,
   "sentLive": false,
   "candidate": true
  }
