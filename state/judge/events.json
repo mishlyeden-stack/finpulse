@@ -1,26 +1,5 @@
 [
  {
-  "key": "אנבידיה–הואנג | ישראל וממשיכי הדרך — השלכות על פעילות ישראלית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794470780534,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "AI ושוק העבודה | תקנים נעלמים לפני הגיוס — מגמה ישראלית | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794470780534,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | חוזה מערכות רקטיות PULS נאט״ו 260 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794470780534,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "Maersk | גניבת נתונים 100GB + סחיטה 5 מיליון דולר | נובמבר 2026",
   "level": "yellow",
   "first": 1794474418382,
@@ -2754,6 +2733,20 @@
   "key": "ישראל / שכר חוקר אבטחה vs מהנדס RF / נובמבר 2026",
   "level": "yellow",
   "first": 1795668425976,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סלקום / רכישת אייקון גרופ / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795682184209,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלקטרה / ספק אגירה סיני + פיצוץ הזמנות / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795682184209,
   "sentLive": false,
   "candidate": true
  }

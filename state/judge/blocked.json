@@ -1,6 +1,6 @@
 {
  "globes.co.il": {
-  "ok": 344,
+  "ok": 345,
   "blocked": 6
  },
  "calcalist.co.il": {
@@ -12,7 +12,7 @@
   "blocked": 0
  },
  "bizportal.co.il": {
-  "ok": 432,
+  "ok": 433,
   "blocked": 11
  },
  "news.google.com": {
@@ -45,7 +45,7 @@
  },
  "ft.com": {
   "ok": 0,
-  "blocked": 187
+  "blocked": 188
  },
  "ecb.europa.eu": {
   "ok": 7,
