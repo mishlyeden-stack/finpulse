@@ -1,68 +1,5 @@
 [
  {
-  "key": "סוכני AI | מי ישלם על כוח המחשוב — מודל עלויות חדש | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794485316704,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אנבידיה | ג׳נסן הואנג מתפטר — CFO קרס כמנכ״לית ביניים | נובמבר 2026",
-  "level": "red",
-  "first": 1794492454822,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "דולר–שקל | זינוק + נפט ל-94 דולר אחרי צייץ טראמפ | נובמבר 2026",
-  "level": "red",
-  "first": 1794492454822,
-  "sentLive": true,
-  "candidate": false
- },
- {
-  "key": "סופטבנק | ביטול שריון טורבינות גז + מחיקת 3.7 מיליארד דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794492454822,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "GitHub | קמפיין גניבת סודות CI — 60 אלף מאגרים נפגעו | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794492454823,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "Chrome + Firefox | 180+ חולשות — עדכון דחוף | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794492454823,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "UVID DroneTech 2026 | צווארי בקבוק בייצור רחפנים + תקשורת לנשק מסיבי | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794492454823,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | חוזה PULS נאט״ו 260 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794492646648,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "טייוואן | כניסה למכרזי תחבורה ציבורית בישראל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794492646648,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "ישראל | מדד נובמבר ותחזית ריבית — למה בנק ישראל לא יוריד | נובמבר 2026",
   "level": "yellow",
   "first": 1794715921406,
@@ -1684,7 +1621,7 @@
   "level": "red",
   "first": 1795505809052,
   "sentLive": true,
-  "candidate": true
+  "candidate": false
  },
  {
   "key": "כצמן / נורסטאר-גי סיטי / משבר חוב / נובמבר 2026",
@@ -1859,14 +1796,14 @@
   "level": "red",
   "first": 1795506864743,
   "sentLive": true,
-  "candidate": true
+  "candidate": false
  },
  {
   "key": "אנבידיה / הואנג חוזר כמנכ״ל + זינוק 30% / נובמבר 2026",
   "level": "red",
   "first": 1795506864743,
   "sentLive": true,
-  "candidate": true
+  "candidate": false
  },
  {
   "key": "מוסדיים ישראל / חשיפת חוב שוק מקומי / פי 6 מקורונה / נובמבר 2026",
@@ -2782,6 +2719,83 @@
   "key": "עשות / חוזה טונגסטן למסוקים / 34 מיליון דולר / נובמבר 2026",
   "level": "yellow",
   "first": 1795694808619,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "חברות IT ישראליות / דוחות Q3 2026 / ענן ו-AI מובילים / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703224310,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "האיחוד האירופי / חוק קוונטום + קרן הון ריבוני 50 מיליארד אירו / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703224321,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלטייר / גיוס 100 מיליון דולר / סוכני AI במכשירי קצה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703224323,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Juniper Session Smart Conductor / פגיעות קריטית בניצול פעיל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703224326,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ECB / פרוטוקול ישיבת אוקטובר 2026 / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703224328,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "בריטניה / השקעה בתעשיית תחמושת מקומית / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703224330,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אנבידיה / קולט קרס חוזרת ל-CFO / אחרי 11 ימים כמנכ״ל / נובמבר 2026",
+  "level": "learn",
+  "first": 1795703413115,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אלביט / לוחמה אלקטרונית / פריגטות גרמניה / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703413123,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "אפקון / הכנסות +15% אבל שחיקת שולי רווח גולמי / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703413125,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "נוטניקס / עזיבת מנכ״ל / צניחה 15% / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703413127,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סנאט ארה״ב / טילים בקונטיינרים / 544 מיליון דולר / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795703413129,
   "sentLive": false,
   "candidate": true
  }
