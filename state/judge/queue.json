@@ -1,5 +1,82 @@
 [
  {
+  "id": "0177bb1886921725",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Modern data center cooling",
+  "link": "https://www.datacenterdynamics.com/en/whitepapers/modern-data-center-cooling/",
+  "summary": "<p data-block-key=\"pl0vp\">Everything you need to know about liquid cooling</p>",
+  "date": "2026-11-26T16:20:41.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
+  "id": "bf6da38f41da75ef",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "דיווח: ספקיות ענן ל-AI שישכירו כוח מחשוב לסין, יישארו בלי שבבי אנבידיה מתקדמים - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56OFFfTXZRTDdtSnVnWlJiVF9sN3QtT1pQejY4TEJMVmh6RV9yamk4MVlhQ0FkNzlzeThDU1dONW42eXRtbVIwY001ek5ydkxvN1JHN2FFUEJRTGs1SUFobU9NVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56OFFfTXZRTDdtSnVnWlJiVF9sN3QtT1pQejY4TEJMVmh6RV9yamk4MVlhQ0FkNzlzeThDU1dONW42eXRtbVIwY001ek5ydkxvN1JHN2FFUEJRTGs1SUFobU9NVQ?oc=5\" target=\"_blank\">דיווח: ספקיות ענן ל-AI שישכירו כוח מחשוב לסין, יישארו בלי שבבי אנבידיה מת",
+  "date": "2026-11-26T16:13:00.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
+  "id": "8de3166813c10bb5",
+  "source": "ynet כלכלה",
+  "group": "israel-press",
+  "title": "ברקע ההתקדמות במגעים להקמת ממשלה: מסכים ירוקים בבורסה, השקל מתחזק",
+  "link": "https://www.ynet.co.il/economy/article/syarhcb1mx",
+  "summary": "הבורסה בת\"א ננעלה בעליות חדות: מדד ת\"א 35 עלה ב-2.34%, ת\"א 125 ב-2.95% ות\"א 90 זינק ב-5.22%. מדד הבנייה קפץ ב-7.79%, הביטחוניות ב-5.57% והנדל\"ן ב-5.47%. במקביל, הדולר נחלש ב-1.1% ונסחר סביב 3.31 שקל, והאירו יורד בשיעור דומה",
+  "date": "2026-11-26T16:12:11.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
+  "id": "30846d663790683c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Julius Meinl completes largest acquisition in its 164-year history - World Coffee Portal",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRU80QTV0WFEwdEtoRUsyZ0pZLTRtcFRuWWhGT2p2bHN1UjUxWkJSMXZMVVdwQ3BWbEVDeGpyRFhYZEx3MWFiUDlYSXZBTFdma3lpQWpzUW9EYVJTN0R1bTY5YnY2azBkTkVTOE9CcnVFbmRqUWplbXpkYV9fbnBQaFB6Rm1NRTQ2N3BmaFBSMm1qd3gwSW96Nko5MTBobHhKVmVaZlU4N1BGUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRU80QTV0WFEwdEtoRUsyZ0pZLTRtcFRuWWhGT2p2bHN1UjUxWkJSMXZMVVdwQ3BWbEVDeGpyRFhYZEx3MWFiUDlYSXZBTFdma3lpQWpzUW9EYVJTN0R1bTY5YnY2azBkTkVTOE9CcnVFbmRqUWplbXpkYV9fbnBQaFB6Rm1NRTQ2N3BmaFBSMm1qd3gwSW96Nko5MTBobHhKVmVaZlU4N1BGUQ",
+  "date": "2026-11-26T16:11:05.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
+  "id": "d63324f595c005cb",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "הישראלי בקרן שהימרה על אנתרופיק: \"היה ויכוח על גודל הצ'ק שנשקיע\"",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001565198#utm_source=RSS",
+  "summary": "אדם פישר, שהקים את הסניף הישראלי של קרן ההון סיכון בסמר, מספר בראיון לגלובס על תהליך ההשקעה באנתרופיק שהונפקה לפני שבוע בשווי של 1.5 טריליון דולר &#8226; פישר מדבר על הדילמות (\"הסכומים היו מעל ומעבר\"), מה הרגיש כשדקארט נמכרה לאמזון ומוטרד מהתעמולה נגד ישראל בעולם: \"לא מוכנים לזה\"",
+  "date": "2026-11-26T16:07:00.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
+  "id": "ca5b28f4707c9f2a",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "כמה כסף יקבל כל אחד ממייסדי דקארט שנמכרה לאמזון?",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564722#utm_source=RSS",
+  "summary": "השבוע נחשף בגלובס השינוי הדרמטי שעומר אדם מקדם במועדון זאפה לאחר רכישתו. מהו? &#8226; מי רשמו הפסדים של מיליארדים לאחר שג'נסן הואנג חזר לתפקיד מנכ\"ל אנבידיה? &#8226; וגם: מה קרה לשקל מאז הבחירות בישראל? &bull; בואו לבחון את הידע שלכם &bull; החידון הכלכלי של גלובס",
+  "date": "2026-11-26T16:03:00.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
+  "id": "5064aafa9cfe8991",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB",
+  "link": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
+  "summary": "Spanish economist is seen as a skilled diplomat with a ‘unique blend of diplomatic finesse and academic rigour’",
+  "date": "2026-11-26T16:02:36.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
   "id": "66039365b205bed1",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -22,6 +99,17 @@
   "fromCloud": "2026-11-26T1603.json"
  },
  {
+  "id": "281ba9501a36b1ad",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "האנליסטים מסבירים מה עומד מאחורי הזינוק בבורסה",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001565276#utm_source=RSS",
+  "summary": "המגעים לקואליציה, ההיפוך אמש בנאסד\"ק ותמחור הפחתת הריבית הזניקו את ת\"א 90 ליום החזק מאז שיא הקורונה &#8226; בלאומי, דיסקונט וברק פיננסים מנתחים את הראלי - ומזהירים מפני \"אפקט אינרציה\" ותגובות יתר",
+  "date": "2026-11-26T15:50:00.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
   "id": "d8cc50a57fdf152c",
   "source": "Calcalist Tech (Google News)",
   "group": "israel-press",
@@ -31,6 +119,17 @@
   "date": "2026-11-26T15:43:00.000Z",
   "fetched": "2026-11-26T16:03:12.561Z",
   "fromCloud": "2026-11-26T1603.json"
+ },
+ {
+  "id": "29c84fba9e62fd22",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "ESAB Corporation’s (ESAB) Solid Organic Growth Offset by Margin Pressure and Acquisition Investment Costs - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLU1mUW0yUEpRLVNhTWtwd3FESUpia1FLVmhaYm9ROUd3WnZEMjNHT3RkaHRNTVpwOTc1MUgxSVVrRXF4SU1lLXNGUnhGb1VVS2c5ZnFINEVIR2RMQjIxTFdmQ0xFRldkWkJXeXdFaHFCUkcyQTNVZHFTcW9PYkVIUmRLenM2eXIxaHRJMVJQNXBadVRDa1JRNXdsekEwY2x1QUE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPLU1mUW0yUEpRLVNhTWtwd3FESUpia1FLVmhaYm9ROUd3WnZEMjNHT3RkaHRNTVpwOTc1MUgxSVVrRXF4SU1lLXNGUnhGb1VVS2c5ZnFINEVIR2RMQjIxTFdmQ0xFRldkWkJXeXdFaHFCUkcyQTNVZHFTcW9PYkVIUmRLenM2eXIxaHRJMVJQNXBadVRDa1JRNXdsekEwY2x1QUE?oc=5\" targ",
+  "date": "2026-11-26T15:42:35.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
  },
  {
   "id": "bc778422bb62ce33",
@@ -99,6 +198,17 @@
   "fromCloud": "2026-11-26T1533.json"
  },
  {
+  "id": "fb4d58df8a57f910",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Zvika Chalamish - calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByNFVKMlpqellSTHhvVjJQNFdRN2JNVWkyOGZRMnlER01TR0pfUzhZTkZQSnlzV25qSmdfWG9maVFDdEFpckVpOHplUU1FUEFlM2lvM0xEU0hUYTZPb0E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFByNFVKMlpqellSTHhvVjJQNFdRN2JNVWkyOGZRMnlER01TR0pfUzhZTkZQSnlzV25qSmdfWG9maVFDdEFpckVpOHplUU1FUEFlM2lvM0xEU0hUYTZPb0E?oc=5\" target=\"_blank\">Zvika Chalamish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+  "date": "2026-11-26T15:29:12.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
   "id": "881adad458024321",
   "source": "Financial Times",
   "group": "global-press",
@@ -141,6 +251,17 @@
   "date": "2026-11-26T15:18:12.000Z",
   "fetched": "2026-11-26T15:33:11.256Z",
   "fromCloud": "2026-11-26T1533.json"
+ },
+ {
+  "id": "0d87d1c5280a89d1",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "יומן-דעות-ישראל: סערת משפט נתניהו, המגעים לממשלה ויוקר המימון - News1 מחלקה ראשונה",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ENkhFZ0x3T0RUeURqMkNmMUtLaHBGQmNqcDQyM0QxYlpIVUx0RDRudE1aRGVSXzh5UlBiRGhKWXNER1NjYUJ2b0RTRTZlVTNLcDJma1pnTkEzc1JsVjhVQ2hiTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ENkhFZ0x3T0RUeURqMkNmMUtLaHBGQmNqcDQyM0QxYlpIVUx0RDRudE1aRGVSXzh5UlBiRGhKWXNER1NjYUJ2b0RTRTZlVTNLcDJma1pnTkEzc1JsVjhVQ2hiTQ?oc=5\" target=\"_blank\">יומן-דעות-ישראל: סערת משפט נתניהו, המגעים לממשלה ויוקר המימון</a>&nbsp;&n",
+  "date": "2026-11-26T15:17:27.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
  },
  {
   "id": "372f12684fbc719b",
@@ -264,6 +385,17 @@
   "fromCloud": "2026-11-26T1533.json"
  },
  {
+  "id": "cf5a5097d9fb4dc0",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Equity in earnings of YHN Acquisition I Limited – OTC:YHNRF - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVQwV3YzeGpuT3V4eTRIX3F4VlcxNDJUU2lvQVlMSEhKN1B2NER3ak9qMElRaVc1MlF6bGVScjBFMkg0djhTRUxfbmplQWh4OWVyV0s3eG9jamozQjJYd0w5RkxFOXFrcHJJVVljSjl6X3FsUnZFR1F2ZWtrb2ZwaXRVY2tJYzNrZk50d3pkYjlmQVpiMlVaRw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVQwV3YzeGpuT3V4eTRIX3F4VlcxNDJUU2lvQVlMSEhKN1B2NER3ak9qMElRaVc1MlF6bGVScjBFMkg0djhTRUxfbmplQWh4OWVyV0s3eG9jamozQjJYd0w5RkxFOXFrcHJJVVljSjl6X3FsUnZFR1F2ZWtrb2ZwaXRVY2tJYzNrZk50d3pkYjlmQVpiMlVaRw?oc=5\" target=\"_blank\">E",
+  "date": "2026-11-26T14:59:06.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
   "id": "73fe8543ba2b07dc",
   "source": "Financial Times",
   "group": "global-press",
@@ -306,6 +438,17 @@
   "date": "2026-11-26T14:52:00.000Z",
   "fetched": "2026-11-26T15:03:13.346Z",
   "fromCloud": "2026-11-26T1503.json"
+ },
+ {
+  "id": "905c7543d52eb3e4",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "מתקפת סייבר על פיפ\"א: האקרים גנבו מידע על בכירים - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iNGdyQXNHMjI5eU52ZVprNnowSFZTN0k0MEtPaTBNOWdMMzNfTkQzSG5CTEFIZExvbVVWR2ItUEZ6MzgtRXo5R1dEeE16NV9OS1dvVnNFVE5Pa0t3cS1aRWh1QldBMlRiMmYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5iNGdyQXNHMjI5eU52ZVprNnowSFZTN0k0MEtPaTBNOWdMMzNfTkQzSG5CTEFIZExvbVVWR2ItUEZ6MzgtRXo5R1dEeE16NV9OS1dvVnNFVE5Pa0t3cS1aRWh1QldBMlRiMmYw?oc=5\" target=\"_blank\">מתקפת סייבר על פיפ\"א: האקרים גנבו מידע על בכירים</a>&nbsp;&nbsp",
+  "date": "2026-11-26T14:52:00.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
  },
  {
   "id": "4b5528694ba33550",
@@ -484,6 +627,17 @@
   "fromCloud": "2026-11-26T1433.json"
  },
  {
+  "id": "707baa0b82793cb6",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CB Financial Services CFO sells $16,808 in common stock - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcm9zMGxGMGwtSUpBN2hvbzRhTE1Dc2pTRWxJcFdpeDlnUnZhUDZyVk5ObnBzOE9ldGVTT2JnLTY1VmR4R0ljQ1pxSjE0d2hValQzOG1GeFJnRHpKNHRZSXlKZUNaeTVsNmdGcnFobDd5QVoxc3JLTU9oUGhrcEVhUENLeXF6TzMwSU1pSWtibEVlNHRHaDRmZ2MzX1BvcGkyNS1mdmdMaFBoVHlEanVQeGVyS1ZYUTBzLXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcm9zMGxGMGwtSUpBN2hvbzRhTE1Dc2pTRWxJcFdpeDlnUnZhUDZyVk5ObnBzOE9ldGVTT2JnLTY1VmR4R0ljQ1pxSjE0d2hValQzOG1GeFJnRHpKNHRZSXlKZUNaeTVsNmdGcnFobDd5QVoxc3JLTU9oUGhrcEVhUENLeXF6TzMwSU1pSWtibEVlNHRHaDRmZ2MzX1BvcGkyNS1mdmdMaFBoVH",
+  "date": "2026-11-26T14:20:26.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
   "id": "ada3e43688a93341",
   "source": "אנשים ומחשבים",
   "group": "industry",
@@ -548,6 +702,17 @@
   "date": "2026-11-26T14:11:00.000Z",
   "fetched": "2026-11-26T14:33:12.307Z",
   "fromCloud": "2026-11-26T1433.json"
+ },
+ {
+  "id": "c01428e9fb3e1174",
+  "source": "Globes English",
+  "group": "israel-press",
+  "title": "Tel Aviv Central Bus Station bridge demolition to begin January",
+  "link": "https://en.globes.co.il/en/article-1001565202#utm_source=RSS",
+  "summary": "The bridge demolition brings forward part of the plan to vacate the Central Bus Station, which is expected to take place in about five years.",
+  "date": "2026-11-26T14:10:48.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
  },
  {
   "id": "c425cf61d9dfe77c",
@@ -746,6 +911,28 @@
   "date": "2026-11-26T12:30:00.000Z",
   "fetched": "2026-11-26T16:03:12.561Z",
   "fromCloud": "2026-11-26T1603.json"
+ },
+ {
+  "id": "0519b6cea8b42bf3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Net debt of YHN Acquisition I Limited – OTC:YHNRF - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnlpbHBFSGNFY1ZPYlh4TGhfU3k5YUVpWjRkZUx4NWYxa0ZZMW5BbVJiMnlSNmFaaWVRbk9POE5MVFhFYXQzTEFPMW1DVVo1dmI2OTU0aTNPMFFJRkU5eWM5TkxwWndLb3U3Y3BVSHk3R0tyT25tSzJDYlVodXh4OWs2UHFaNzg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnlpbHBFSGNFY1ZPYlh4TGhfU3k5YUVpWjRkZUx4NWYxa0ZZMW5BbVJiMnlSNmFaaWVRbk9POE5MVFhFYXQzTEFPMW1DVVo1dmI2OTU0aTNPMFFJRkU5eWM5TkxwWndLb3U3Y3BVSHk3R0tyT25tSzJDYlVodXh4OWs2UHFaNzg?oc=5\" target=\"_blank\">Net debt of YHN Acquisit",
+  "date": "2026-11-26T12:29:05.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
+ },
+ {
+  "id": "8ff52706c2df9d26",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "BST הכפילה את הרווח ברבעון; שילמה להפניקס 52.5 מיליון שקל על ההנפקה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qdm1mOTF6N0VmemFQTDJqbkFNYnltS3RGVDAwLXlxQnNPWjBCSzA1ZXlWQWNLdHBIUmFpdGF4TndLR24ySGZrOWIwcHkyUU1pUG1ubXlHSHh1WTlCaWNBeEU1Zk5Cak5pTFlXY0Jn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9qdm1mOTF6N0VmemFQTDJqbkFNYnltS3RGVDAwLXlxQnNPWjBCSzA1ZXlWQWNLdHBIUmFpdGF4TndLR24ySGZrOWIwcHkyUU1pUG1ubXlHSHh1WTlCaWNBeEU1Zk5Cak5pTFlXY0Jn?oc=5\" target=\"_blank\">BST הכפילה את הרווח ברבעון; שילמה להפניקס 52.5 מיליון שקל ע",
+  "date": "2026-11-26T11:45:00.000Z",
+  "fetched": "2026-11-26T16:33:11.921Z",
+  "fromCloud": "2026-11-26T1633.json"
  },
  {
   "id": "75f2d88490ea09c0",
