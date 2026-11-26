@@ -1,7 +1,7 @@
 {
- "lastResult": "ok",
- "lastError": "",
- "queue": 21,
- "at": "2026-11-26T12:33:36.728Z",
+ "lastResult": "error",
+ "lastError": "claude exit 1 success: You've hit your limit · re et  4:20pm (A ia/Jeru alem)",
+ "queue": 47,
+ "at": "2026-11-26T13:03:36.741Z",
  "okAt": "2026-11-26T12:33:36.728Z"
 }
