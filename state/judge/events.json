@@ -1,12 +1,5 @@
 [
  {
-  "key": "משכנתאות ישראל | פרדוקס — לווים שיא אבל שוק קפוא + פריים רבע מהתיק | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794481968518,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "סוכני AI | מי ישלם על כוח המחשוב — מודל עלויות חדש | נובמבר 2026",
   "level": "yellow",
   "first": 1794485316704,
@@ -2775,6 +2768,20 @@
   "key": "בית שמש מנועים / רווח זינק + הרחבת פעילות טילים שיוט / נובמבר 2026",
   "level": "yellow",
   "first": 1795691329837,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "Mitel MiCollab / זירו-דיי / ניצול פעיל עם AI / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795694808618,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "עשות / חוזה טונגסטן למסוקים / 34 מיליון דולר / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795694808619,
   "sentLive": false,
   "candidate": true
  }
