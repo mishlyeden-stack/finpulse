@@ -1,40 +1,5 @@
 [
  {
-  "key": "Maersk | גניבת נתונים 100GB + סחיטה 5 מיליון דולר | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794474418382,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "חלל תקשורת | הכנסות יורדות למרות צמצום חוב | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794474418383,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "אלביט | חוזה PULS נאט״ו +800 מיליון שקל | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794474418383,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ברזאני | הנפקה בת״א — מיליארד שקל, שווי 2.25 מיליארד | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794474418383,
-  "sentLive": false,
-  "candidate": true
- },
- {
-  "key": "ישראל | בית הדין הארצי — מכתב פיטורים כתאונת עבודה | נובמבר 2026",
-  "level": "yellow",
-  "first": 1794474418383,
-  "sentLive": false,
-  "candidate": true
- },
- {
   "key": "אנבידיה–הואנג | מועמדים להחלפה כולל ישראלים | נובמבר 2026",
   "level": "yellow",
   "first": 1794480089259,
@@ -2747,6 +2712,55 @@
   "key": "אלקטרה / ספק אגירה סיני + פיצוץ הזמנות / נובמבר 2026",
   "level": "yellow",
   "first": 1795682184209,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "תעשייה האווירית / הנפקה / גדולה בישראל / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795685853777,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "1Password / פרצת אבטחה / קוד מקור ונתוני לקוחות / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795685853777,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "דוראל / תוצאות Q3 / צמיחה עם הפסד נקי / נובמבר 2026",
+  "level": "learn",
+  "first": 1795685853777,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "ישראל / תלות בנבידיה / סיכון ריכוז / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795685853777,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "מרכזי נתונים AI / מעבר לערים ולבתים / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795685853778,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "סמארט שוטר / תוצאות שיא + תחזית מוגברת / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795685853778,
+  "sentLive": false,
+  "candidate": true
+ },
+ {
+  "key": "שבבי זיכרון / מחסור / ייקור סמארטפונים 28% / נובמבר 2026",
+  "level": "yellow",
+  "first": 1795685853778,
   "sentLive": false,
   "candidate": true
  }
