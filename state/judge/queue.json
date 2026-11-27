@@ -1,5 +1,170 @@
 [
  {
+  "id": "0b620956fa8c6cb0",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - BioNexus Gene Lab Corp (0001737523) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1737523/000147793226007329/0001477932-26-007329-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001477932-26-007329 <b>Size:</b> 176 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-27T14:00:47.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "f0599fe65c554f30",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Navitas Semiconductor Corp (0001821769) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1821769/000110465926132343/0001104659-26-132343-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001104659-26-132343 <b>Size:</b> 298 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-27T14:00:41.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "dc77b7f9badfe37f",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "SpaceX installs $250m worth of Tesla Megapack batteries at Starbase data center site in Texas - report",
+  "link": "https://www.datacenterdynamics.com/en/news/spacex-installs-250m-worth-of-tesla-megapack-batteries-at-starbase-data-center-site-in-texas-report/",
+  "summary": "<p data-block-key=\"h9adb\">Company seeking to develop up to $24bn data center and natural gas power plant at the site</p>",
+  "date": "2026-11-27T14:00:38.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "d7910a53402b785b",
+  "source": "ECB",
+  "group": "global-official",
+  "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+  "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+  "summary": "",
+  "date": "2026-11-27T14:00:00.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "197242774942e10c",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "חברת התעופה הנורווגית Norse Atlantic קורסת: הגישה בקשה לפשיטת רגל - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVdmR1N1dnS1oyUFl1Qjh0SkYtOUJhOU56eFVicmVuWVJ0c004SDh5NDkwOHRwcUR4THZUMzJxRHBMYTRpRVFaTVhBaWpjSG8wN0tFd0NGaUE3QkhCUklGSVVXMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVdmR1N1dnS1oyUFl1Qjh0SkYtOUJhOU56eFVicmVuWVJ0c004SDh5NDkwOHRwcUR4THZUMzJxRHBMYTRpRVFaTVhBaWpjSG8wN0tFd0NGaUE3QkhCUklGSVVXMA?oc=5\" target=\"_blank\">חברת התעופה הנורווגית Norse Atlantic קורסת: הגישה בקשה לפשיטת רגל</a>&nbs",
+  "date": "2026-11-27T13:59:00.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "e3d67d5430ecb463",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "בית קפה בניחוח יפני, קיבוץ מפתיע ויין על הנחל: טיול סתווי בצפון",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001564824#utm_source=RSS",
+  "summary": "בעונת נדידת העגורים יצאנו ליום בגליל העליון &#8226; פתחנו בביס משגע של ריקוטה ואוכמניות, גילינו אווירה הודית בקיבוץ, טיילנו בין גפנים על הירדן וקינחנו ברוזה ליד המים &#8226; חגית אברון תופרת יום",
+  "date": "2026-11-27T13:58:00.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "ae8576d4efe3a9d3",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "du deploys 5G+ network at Dubai International Airport",
+  "link": "https://www.datacenterdynamics.com/en/news/du-deploys-5g-network-at-dubai-international-airport/",
+  "summary": "<p data-block-key=\"4q5qy\">Connectivity boost for one of the world's busiest airports</p>",
+  "date": "2026-11-27T13:50:45.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "76875f31e129684c",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Vodafone to triple Safaricom’s data center footprint to 35MW",
+  "link": "https://www.datacenterdynamics.com/en/news/vodafone-to-triple-safaricoms-data-center-footprint-to-35mw/",
+  "summary": "<p data-block-key=\"ucoq9\">Telco’s footprint currently totals 9.1MW across six facilities</p>",
+  "date": "2026-11-27T13:44:13.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "bc62a4ce20259b54",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Allan Bødskov Andersen Appointed Chief Financial Officer of Bavarian Nordic - BioSpace",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmNrUW8wcncwSHhzSFp3TFlaaGdpR1BpSDlLRUg1QmxXQjQ5bmpHLTR0UjdYUWpkamRpMmRMZ2lQdG1qbmx6NjF6azFObDcxWWFSX281NDJNU0dTZDZQNktnNWlMNFAyWUMtd05yV204Y2I4QUNMWWJTd1I3bTk0TDBUM1ZCUG5OY1I5SkJSU0t6RjNyX3dRMkZnSFlhanBYdmJLRjZteVBBdzhEY25WZmxubkxBSEltRm52bA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmNrUW8wcncwSHhzSFp3TFlaaGdpR1BpSDlLRUg1QmxXQjQ5bmpHLTR0UjdYUWpkamRpMmRMZ2lQdG1qbmx6NjF6azFObDcxWWFSX281NDJNU0dTZDZQNktnNWlMNFAyWUMtd05yV204Y2I4QUNMWWJTd1I3bTk0TDBUM1ZCUG5OY1I5SkJSU0t6RjNyX3dRMkZnSFlhanBYdmJLRjZteVBBdz",
+  "date": "2026-11-27T13:43:24.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "5395d060584c9162",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Altria’s Imperial Brands Acquisition: Is the Dividend King’s Cash Flow at Risk? - NAI500",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckN6WkprU2FseTZ4UjZKVVc2WVdUcWl6Wm5WWXFnWWM5V25zQ293VUNOS3VhWHVNTEQ5ZEJvM05ZbWJXY3dRS0Z0MlhEOWdxblJxcXF1SXB2Z1dTd2lTUGZaRWxyNEMtZWhrcTFZeDExSThzMFl3WkV5cmFQTDRLRzQwRG5TUDVEQ3prRnJFalRHRVl0YWw5VnJFVzlNdU1xaVZsMG56ck9XUHpO?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOckN6WkprU2FseTZ4UjZKVVc2WVdUcWl6Wm5WWXFnWWM5V25zQ293VUNOS3VhWHVNTEQ5ZEJvM05ZbWJXY3dRS0Z0MlhEOWdxblJxcXF1SXB2Z1dTd2lTUGZaRWxyNEMtZWhrcTFZeDExSThzMFl3WkV5cmFQTDRLRzQwRG5TUDVEQ3prRnJFalRHRVl0YWw5VnJFVzlNdU1xaVZsMG56ck9XUH",
+  "date": "2026-11-27T13:42:25.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "2c4f6462e8f3cd83",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Summit Group announces proposed acquisition of Rhone Services - Channel Eye",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3NHY1FjMHdPZWktbDlNdXV6b3VzaGpRa3ctNzd4Z1BiUWRqQlJkQnFHdW5hT3VhODNoeFZEYlQzcFZtZl8wLTJ4WUJNblRGUFJWNVRzRDZJdWcxU09NOWoyTUlWMFAwNGgxakFCMUFXb3FBRi03Z1pmTnp6Y3d6TlVzZkNDUW9GMU5SSWl5eEI?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3NHY1FjMHdPZWktbDlNdXV6b3VzaGpRa3ctNzd4Z1BiUWRqQlJkQnFHdW5hT3VhODNoeFZEYlQzcFZtZl8wLTJ4WUJNblRGUFJWNVRzRDZJdWcxU09NOWoyTUlWMFAwNGgxakFCMUFXb3FBRi03Z1pmTnp6Y3d6TlVzZkNDUW9GMU5SSWl5eEI?oc=5\" target=\"_blank\">Summit Group",
+  "date": "2026-11-27T13:42:00.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "41ab0f73a0818d02",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Galaxy Digital files for next phase of development at Helios data center campus in Texas",
+  "link": "https://www.datacenterdynamics.com/en/news/galaxy-digital-files-for-next-phase-of-development-at-helios-data-center-campus-in-texas/",
+  "summary": "<p data-block-key=\"zj5e9\">Company looks to build another building at CoreWeave-leased campus</p>",
+  "date": "2026-11-27T13:40:40.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "3de98967103f2f61",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Mansfield Nearing Acquisition Of 14 Acres On Maple Road - Patch",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1BFVUIxVWgwTU9IaFptd0FSRGpqY0d5cFVRbTZjNVlNVmg4clFSQ2kwZjY4WGFZZktiX1BwRWxKTlRnTGxpNmJManZEam1aeG8tVXMtUnZVZmtuVFlRVFJESzVBbVZjX1JlMVZXUUNrRDh2RjNMODJONEdqeGx6QlQwRWQwNDRpMlYtdzJTWm9mY0HSAawBQVVfeXFMT1VPVG01bU9QX0M3NlRtNnBKXzlNbGxsbllXcUlqR2NhQlVfdkRyZlUyX19DM01mVllyZXhMMDUtM2xzakEwWWRIbkdvelEwVG11MXNQaGRqZVN5ZEwyNV9aZkMxNjFzOWtoWGNLR0VEVmE1YTNkbkcySXRNOThSdV9XdFJ6N3ZJaENERVRCYmgyb2NkMDIySlpBUURIcmNBRzc3NnotUUlxQk1rVg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1BFVUIxVWgwTU9IaFptd0FSRGpqY0d5cFVRbTZjNVlNVmg4clFSQ2kwZjY4WGFZZktiX1BwRWxKTlRnTGxpNmJManZEam1aeG8tVXMtUnZVZmtuVFlRVFJESzVBbVZjX1JlMVZXUUNrRDh2RjNMODJONEdqeGx6QlQwRWQwNDRpMlYtdzJTWm9mY0HSAawBQVVfeXFMT1VPVG01bU9QX0M3Nl",
+  "date": "2026-11-27T13:39:25.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "d275e8bd2b366301",
+  "source": "גלובס – ראשי",
+  "group": "israel-press",
+  "title": "\"אנחנו עומדים בפני בינת־על\": אמנון שעשוע על המהפכה שמטלטלת את המדע",
+  "link": "https://www.globes.co.il/news/article.aspx?did=1001565258#utm_source=RSS",
+  "summary": "ענקיות ה־AI פותרות בקצב מסחרר בעיות מתמטיות עתיקות, ומעוררות שאלות קיומיות על עתיד החוקרים באקדמיה &#8226; בראיון לגלובס מספר פרופ' אמנון שעשוע על ההישג המפתיע של הסטארט־אפ החדש שלו doubleAI שגייס 220 מיליון דולר, ומסביר איך היעדר יכולת האימות המוחלטת מונע בינתיים מהמהפכה לזלוג ל",
+  "date": "2026-11-27T13:31:00.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "efd264f161448a21",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "לאחר שצברה חובות: רשת KFC בישראל נמכרת - זה הבעלים החדשים - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YOVQ5aHcxb2NESE5nNU5TTzc1c3djTm9NdjFGS1FyNzhWaTNzaThzVmMxcEphVVNqUEpmR3FDUzl4WTZMclE1RE11X3ZBY1JGdUJfazVvUTZGWF9ZSl9iS1dFR3l4LVBOUHc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5YOVQ5aHcxb2NESE5nNU5TTzc1c3djTm9NdjFGS1FyNzhWaTNzaThzVmMxcEphVVNqUEpmR3FDUzl4WTZMclE1RE11X3ZBY1JGdUJfazVvUTZGWF9ZSl9iS1dFR3l4LVBOUHc?oc=5\" target=\"_blank\">לאחר שצברה חובות: רשת KFC בישראל נמכרת - זה הבעלים החדשים</a>&nb",
+  "date": "2026-11-27T13:31:00.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
   "id": "9dcb50dc4865da49",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -9,6 +174,17 @@
   "date": "2026-11-27T13:30:57.000Z",
   "fetched": "2026-11-27T13:33:11.045Z",
   "fromCloud": "2026-11-27T1333.json"
+ },
+ {
+  "id": "312d631db3a09825",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Haleon’s reported HealthKart acquisition could revive growth strategy, says Jefferies - Proactive financial news",
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVlTbjc2akIxRzgwYzdZNzI0ZlF0eTBVYkV4YnNweENIYjhkVFRkSFpDY0I0RDRXQ0NkN1U3TGUtYVM4b1piSW5KdjV2WDR2TFp6akotbnpxNlo5UTFuZ2dzN1JoSzJIWGVqc1BidVQxWnRVTWVySXFpZ05DYzZTb01uS1hSZlBZRFdNb0dBNlVCYXlaRzVlc0czN1pZMzQ2TEluamNPeGhyQ1dqQl9OS2JMNEZ5VlViOEtXYzZac2xmWm5pb0NpNHd0VWVGbmpoRFV6U0t2MU9HVTREUWRWM1BiM19tWnFsR0tz?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVlTbjc2akIxRzgwYzdZNzI0ZlF0eTBVYkV4YnNweENIYjhkVFRkSFpDY0I0RDRXQ0NkN1U3TGUtYVM4b1piSW5KdjV2WDR2TFp6akotbnpxNlo5UTFuZ2dzN1JoSzJIWGVqc1BidVQxWnRVTWVySXFpZ05DYzZTb01uS1hSZlBZRFdNb0dBNlVCYXlaRzVlc0czN1pZMzQ2TEluamNPeGhyQ1",
+  "date": "2026-11-27T13:22:00.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
  },
  {
   "id": "501b383f152a7b82",
@@ -42,6 +218,17 @@
   "date": "2026-11-27T13:17:06.000Z",
   "fetched": "2026-11-27T13:33:11.045Z",
   "fromCloud": "2026-11-27T1333.json"
+ },
+ {
+  "id": "f3f5d87eb7af68f7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Southern Company (The) 2026 Series A Corporate – NYSE:SONN - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmtnQ3ZIcUxpa2pWT1JhbkplSnpZSjEzd0EyVHl4Z2JmZ1BoNWZJN2w4T0xJMHhWV29vamptX1hlOE9EQlY1NUJ4NjBLOWtQaC1BNmc3WU1KTF9YTG0xSk5zaTRMNF9YOE5uQkF3QVYxZTk5RmFBUDhLLXNCLUFPYW5IT1lHdXh1QS1kOTU3UFdzRFdvV041UzE1SDdWX1dLanZ2N2lfOA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmtnQ3ZIcUxpa2pWT1JhbkplSnpZSjEzd0EyVHl4Z2JmZ1BoNWZJN2w4T0xJMHhWV29vamptX1hlOE9EQlY1NUJ4NjBLOWtQaC1BNmc3WU1KTF9YTG0xSk5zaTRMNF9YOE5uQkF3QVYxZTk5RmFBUDhLLXNCLUFPYW5IT1lHdXh1QS1kOTU3UFdzRFdvV041UzE1SDdWX1dLanZ2N2lfOA?oc=",
+  "date": "2026-11-27T13:13:03.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
  },
  {
   "id": "d8610bd01fa348a7",
@@ -253,6 +440,17 @@
   "fromCloud": "2026-11-27T1303.json"
  },
  {
+  "id": "66fbbfc0e9434fb1",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הורדת אפליקציה - ביזפורטל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ob3lvZl9KTmkzd0JLMHpvTGJFTXA0WE0tb29HV2hFZ0Y5WkllWUZxdGdnX1FYWEgwa1dSNWU2OEtjck4xOVRSWFRjOS1NWHdILUpBYzV0ekpRb3E0OHJPQzh0Ym8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ob3lvZl9KTmkzd0JLMHpvTGJFTXA0WE0tb29HV2hFZ0Y5WkllWUZxdGdnX1FYWEgwa1dSNWU2OEtjck4xOVRSWFRjOS1NWHdILUpBYzV0ekpRb3E0OHJPQzh0Ym8?oc=5\" target=\"_blank\">הורדת אפליקציה - ביזפורטל</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל<",
+  "date": "2026-11-27T12:31:58.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
   "id": "a12e756dfc4da944",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -284,6 +482,17 @@
   "date": "2026-11-27T12:28:00.000Z",
   "fetched": "2026-11-27T12:33:12.319Z",
   "fromCloud": "2026-11-27T1233.json"
+ },
+ {
+  "id": "3cc610ecc91e98a3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Atomos Limited TEMP – CHIXAU:AMSDA - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW9TV3NmcDkwM05HY0g2eXJXend2THNqekNRcm1ZMmk0VDJzZjFDMU9Ea2IzNEltNUgxZG9RZnprNEljdHZUaHZuOEF5VV9HNVpILWhKNjE0X3VGSmYxX2NWTURuMml3RDdBMFJrUTFrS0RZUXlQWTBIU2RVdEh2T3Vvc1d1S1N1ZHJvTkZR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW9TV3NmcDkwM05HY0g2eXJXend2THNqekNRcm1ZMmk0VDJzZjFDMU9Ea2IzNEltNUgxZG9RZnprNEljdHZUaHZuOEF5VV9HNVpILWhKNjE0X3VGSmYxX2NWTURuMml3RDdBMFJrUTFrS0RZUXlQWTBIU2RVdEh2T3Vvc1d1S1N1ZHJvTkZR?oc=5\" target=\"_blank\">Free cash flow ",
+  "date": "2026-11-27T12:27:23.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
  },
  {
   "id": "a190b4fe16960524",
@@ -372,6 +581,17 @@
   "date": "2026-11-27T12:10:44.000Z",
   "fetched": "2026-11-27T12:33:12.319Z",
   "fromCloud": "2026-11-27T1233.json"
+ },
+ {
+  "id": "f0e9c1bb73324356",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Enea Dismisses CFO Marek Lelątko From Management Board - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzJaT2FLTUpNUV9aMWgwbVNLUmRoWDhqdW5ySjUtdzFqcWRKU2lnNVB3Vld4bGt4RVlXeG0wMVdUTmRRQkZSM0hJeXJqY3h0RlVtTmZJVnpNLWNLaWR3SGZnZ0JkdmoyODZ3cGxSQjFTOTV3ZTFwOTJQWVJwLWRSQThwZjlpVlhoU0NwekVmd2JEaFgybW9Yc2p1YTZuWUtPcm0weVZvU0hQMXFNckU5TFR4SEFic08zTlZ3X2ptcmVHQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzJaT2FLTUpNUV9aMWgwbVNLUmRoWDhqdW5ySjUtdzFqcWRKU2lnNVB3Vld4bGt4RVlXeG0wMVdUTmRRQkZSM0hJeXJqY3h0RlVtTmZJVnpNLWNLaWR3SGZnZ0JkdmoyODZ3cGxSQjFTOTV3ZTFwOTJQWVJwLWRSQThwZjlpVlhoU0NwekVmd2JEaFgybW9Yc2p1YTZuWUtPcm0weVZvU0hQMX",
+  "date": "2026-11-27T12:10:00.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
  },
  {
   "id": "e3724e1690b0ab3c",
@@ -1076,6 +1296,17 @@
   "date": "2026-11-27T11:00:00.000Z",
   "fetched": "2026-11-27T13:03:13.079Z",
   "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "68283b685d8045f7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Daishin Balance No.20 Special Purpose Acquisition Company (0134X0.KQ) company profile and facts - Yahoo Finance UK",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uZW1PZW1SN09FRld4eVUxY0RtMzBCOTlEZzZ3UTNibmlEWDh5Wm9SQXJIM2w4bmhiUFVnQ05XdEk2RHozZmthOTBHZWlfTkx4NmxMRUZyM2dpRWlLc2EtNHg0SQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uZW1PZW1SN09FRld4eVUxY0RtMzBCOTlEZzZ3UTNibmlEWDh5Wm9SQXJIM2w4bmhiUFVnQ05XdEk2RHozZmthOTBHZWlfTkx4NmxMRUZyM2dpRWlLc2EtNHg0SQ?oc=5\" target=\"_blank\">Daishin Balance No.20 Special Purpose Acquisition Company (0134X0.KQ) com",
+  "date": "2026-11-27T10:57:14.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
  },
  {
   "id": "c3aa5e181dfcdf8d",
@@ -4092,6 +4323,17 @@
   "fromCloud": "2026-11-27T0333.json"
  },
  {
+  "id": "7769bf846e4a9f4d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מרמה - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zU2FFZG5oZ0JWUVhkTEpUeXJTWE1IWFdtSlVsTjRlalZyR3NmbHZYMU5ZaDBDV3pYRTZyOWRIMVdVeU9QaHJVbnBJamZjcm1wN3dsSzlkVFdBNE8zVms4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zU2FFZG5oZ0JWUVhkTEpUeXJTWE1IWFdtSlVsTjRlalZyR3NmbHZYMU5ZaDBDV3pYRTZyOWRIMVdVeU9QaHJVbnBJamZjcm1wN3dsSzlkVFdBNE8zVms4?oc=5\" target=\"_blank\">מרמה</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-27T01:29:22.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
   "id": "e217eb13d7d51832",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -6490,6 +6732,17 @@
   "fromCloud": "2026-11-26T1633.json"
  },
  {
+  "id": "4ed80c1799fe9545",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "משפט כתבות נוספות - עמוד 688 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DVDkyMnVzOVF2eXNucXdCNWFzaEZJWXZBdG15Ylk0dnM1SXVZUzFFMXBaVnNjSTNHdFRJb1lqVzc5UTh3M0ZzcURwbE81T2JCVTFLdi00WlM4TGgx?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DVDkyMnVzOVF2eXNucXdCNWFzaEZJWXZBdG15Ylk0dnM1SXVZUzFFMXBaVnNjSTNHdFRJb1lqVzc5UTh3M0ZzcURwbE81T2JCVTFLdi00WlM4TGgx?oc=5\" target=\"_blank\">משפט כתבות נוספות - עמוד 688</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-26T16:20:15.000Z",
+  "fetched": "2026-11-27T14:03:11.447Z",
+  "fromCloud": "2026-11-27T1403.json"
+ },
+ {
   "id": "8409b001bb788821",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -7619,105 +7872,6 @@
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODZCV3RPTmdPQTJad2RZU24tWV9kdEx1cy1HN3JxM1l3bTFwYU13UzRaTzZIcWZ2MW1jMkswbHNwZmk2Sk04b2FfdFhWTEVsWkxJLXFBOGxZZ19WdF9iOU91LVFTc0p3dzNaZEZpdDR0UExDdGppWmZxTE9HVG5WdEl6YW5hcFhyczhKWGU1enVrWUVMWXdMTlRfM1hNSE1yY1cxN09BNXVMMnBwQVZvLV9KRkR1UlhUMk9yZ3FQcHV2a1lFcXc?oc=5",
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPODZCV3RPTmdPQTJad2RZU24tWV9kdEx1cy1HN3JxM1l3bTFwYU13UzRaTzZIcWZ2MW1jMkswbHNwZmk2Sk04b2FfdFhWTEVsWkxJLXFBOGxZZ19WdF9iOU91LVFTc0p3dzNaZEZpdDR0UExDdGppWmZxTE9HVG5WdEl6YW5hcFhyczhKWGU1enVrWUVMWXdMTlRfM1hNSE1yY1cxN09BNXVMMn",
   "date": "2026-11-26T14:07:00.000Z",
-  "fetched": "2026-11-26T14:33:12.307Z",
-  "fromCloud": "2026-11-26T1433.json"
- },
- {
-  "id": "c6fda0237fab7bd1",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "מימוש רווחים מפוזיציית לונג על הדולר מול השקל (USD/ILS) - פאנדר",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nVjBnNWxLWlBqS0tYcDhsdGZhTEpUcEhEZTJRM2RoU08xaFNIMHdQczB6ZnlUOHB3WmJpbkUyVVZISVRtN3lQazRVQjdDbGRy?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nVjBnNWxLWlBqS0tYcDhsdGZhTEpUcEhEZTJRM2RoU08xaFNIMHdQczB6ZnlUOHB3WmJpbkUyVVZISVRtN3lQazRVQjdDbGRy?oc=5\" target=\"_blank\">מימוש רווחים מפוזיציית לונג על הדולר מול השקל (USD/ILS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">פאנדר<",
-  "date": "2026-11-26T14:00:32.000Z",
-  "fetched": "2026-11-26T15:33:11.256Z",
-  "fromCloud": "2026-11-26T1533.json"
- },
- {
-  "id": "035065d0a14c7b84",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Still Not Dead, Encore Edition – Valero Acquisition Breathes New Life into LyondellBasell’s Shuttered Houston Refinery - RBN Energy",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUV1RzVjc0JBdWsyaGtDREdhRS1uWV9mdGN4czFoaXB1UEZYSTFtLUJHX1VsYnN2bldvMUJOczBNLUEzOUVTSGpMYzJCSGVPRldINUpJUFExNGdydWlWTVJKNXpzUFR1Zkk2ZlY1cXBna3FVek9zNXM0RVlGT3hkR3dBaXRPZTkwX2JEc29xMEc5OGRBbHVEWHAxYTFyNEc0Ny1kNF9tWURoQ3kyRW8yM011YTlYZm9OcEtXTw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUV1RzVjc0JBdWsyaGtDREdhRS1uWV9mdGN4czFoaXB1UEZYSTFtLUJHX1VsYnN2bldvMUJOczBNLUEzOUVTSGpMYzJCSGVPRldINUpJUFExNGdydWlWTVJKNXpzUFR1Zkk2ZlY1cXBna3FVek9zNXM0RVlGT3hkR3dBaXRPZTkwX2JEc29xMEc5OGRBbHVEWHAxYTFyNEc0Ny1kNF9tWURoQ3",
-  "date": "2026-11-26T13:57:12.000Z",
-  "fetched": "2026-11-26T14:33:12.307Z",
-  "fromCloud": "2026-11-26T1433.json"
- },
- {
-  "id": "85c60e1799be2a31",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "איך הופכים את חוויית האימהות למערכת יחסים ארוכה עם הלקוחות - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3BYLVVXbVRPdzlpdG16cmp0Z01YUlp6MDc1OEdOU2Y3dXNRMDlEcWw5T1BaNnlhWi1qRklZdldEeE41ZnhPV0dvX2NUNGFjZi1fdDdXVkhYcS12NEYyWFpjUzVaZlpkMEM0d1NJNWNmU2hES281TkVDWUM3M3JXVzBiRzR2Qm0tMDRwSUp5eE5IZzFySUo4TWtJSnJKN0NDVjkxZ2hoUUtNVXNYZ3c0YkV1V2RkOXRLdkZQWEI3M2p1UG1VZGc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3BYLVVXbVRPdzlpdG16cmp0Z01YUlp6MDc1OEdOU2Y3dXNRMDlEcWw5T1BaNnlhWi1qRklZdldEeE41ZnhPV0dvX2NUNGFjZi1fdDdXVkhYcS12NEYyWFpjUzVaZlpkMEM0d1NJNWNmU2hES281TkVDWUM3M3JXVzBiRzR2Qm0tMDRwSUp5eE5IZzFySUo4TWtJSnJKN0NDVjkxZ2hoUUtNVX",
-  "date": "2026-11-26T13:56:00.000Z",
-  "fetched": "2026-11-26T15:03:13.346Z",
-  "fromCloud": "2026-11-26T1503.json"
- },
- {
-  "id": "89d6acd67a16ed14",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "הטבות והנחות לא יספיקו: כך משמרים לקוחות בעידן ה־AI - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQak9kRHRJVXpTTXg4Vk01SlN1UzZzaFVvUVJsVHNHaUY4SFhOb0NLNTZodFlVdFY0MldWdmgxT3p4X1dMZHNlZnRDd1hTNHAtdDI2bnpMM09fY2lxSnJHc0RocEd1OXB5V2MyYUplWHFiN2tDakNJZ0Fqb0dEVU42VnM4X3k4c1FoaElMQnVMcC11VlhoaS1HZDQxRUhqSS1CRlFjOHRUMjdzbm9VQXctbDBxMVN2U3ROcVNCZTNDeXZoc21OaUE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQak9kRHRJVXpTTXg4Vk01SlN1UzZzaFVvUVJsVHNHaUY4SFhOb0NLNTZodFlVdFY0MldWdmgxT3p4X1dMZHNlZnRDd1hTNHAtdDI2bnpMM09fY2lxSnJHc0RocEd1OXB5V2MyYUplWHFiN2tDakNJZ0Fqb0dEVU42VnM4X3k4c1FoaElMQnVMcC11VlhoaS1HZDQxRUhqSS1CRlFjOHRUMjdzbm",
-  "date": "2026-11-26T13:52:00.000Z",
-  "fetched": "2026-11-26T15:03:13.346Z",
-  "fromCloud": "2026-11-26T1503.json"
- },
- {
-  "id": "1aa446a9e3c82d45",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Envision Greenwise: Revenue surged on metals trading and AI-computing expansion, alongside sizable acquisition commitments - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUHRPTjNBLTZ1T21JcjFNVXF5UG5CeHk4REphLTZFSGtnNDlqeXZEYWVlMGxJcGNLMEk1cTlhT1lvSlI1aDU5X3dIdEZqbjZNamVLcUR1ZjYxcDZJZ3NpRE9faE1jM3pINmF5dkhTLUxzUm5QVHRIeWZOZlE5QXRWbWRrcDVzUWhiQTlzeW1aUWNsWFpXdDR0NzhOcnFfdHhYTzBIXzRTQ2VWeDRZaXYzbmswdmJFSDU2czdUMEdYVTJkZUhtdFNTVVplaFYxYk4wNUpzRE9UMHlkb2ctRE5feTNnS1RrY0xqSEZkWHpiZ21uYk1FLWJGdFgxNDJ0UWgzVnZRSmZDZXNnWUJNVm91UWxyUUY4TElpY3JWTGw5amRvSUpfSWFFQnZqUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUHRPTjNBLTZ1T21JcjFNVXF5UG5CeHk4REphLTZFSGtnNDlqeXZEYWVlMGxJcGNLMEk1cTlhT1lvSlI1aDU5X3dIdEZqbjZNamVLcUR1ZjYxcDZJZ3NpRE9faE1jM3pINmF5dkhTLUxzUm5QVHRIeWZOZlE5QXRWbWRrcDVzUWhiQTlzeW1aUWNsWFpXdDR0NzhOcnFfdHhYTzBIXzRTQ2VWeD",
-  "date": "2026-11-26T13:51:28.000Z",
-  "fetched": "2026-11-26T15:03:13.346Z",
-  "fromCloud": "2026-11-26T1503.json"
- },
- {
-  "id": "059f335f08cd94c9",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"פעם עסקו רק במחיר, היום בודקים את התמורה\" - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVdzNE9MRHNDZTFrNm52V25obWxaaFd4SnRwS2ZGMXRCbmVqQy1vVTc2aEt3ZEtabjJGRU9Qb3VHZlpPUUgtTnBwMkFuZnY1US1hbTZWM0JKUkYzT1pMTW83YzNPSF9xbEQ0WGFSNGdsYlR6ZUJyZFNZLW9HY0dKdTdGYVR3d2QzQ1BSOTFQRlpueGNRcVB6aV9sUVRRNlZXUDhySkZYZEFydzFRVFROQmpGTlBkT19FV1JyM1pqZGtVbjF4anc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVdzNE9MRHNDZTFrNm52V25obWxaaFd4SnRwS2ZGMXRCbmVqQy1vVTc2aEt3ZEtabjJGRU9Qb3VHZlpPUUgtTnBwMkFuZnY1US1hbTZWM0JKUkYzT1pMTW83YzNPSF9xbEQ0WGFSNGdsYlR6ZUJyZFNZLW9HY0dKdTdGYVR3d2QzQ1BSOTFQRlpueGNRcVB6aV9sUVRRNlZXUDhySkZYZEFydz",
-  "date": "2026-11-26T13:50:00.000Z",
-  "fetched": "2026-11-26T15:03:13.346Z",
-  "fromCloud": "2026-11-26T1503.json"
- },
- {
-  "id": "9a96eb746a2cef72",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "אנבידיה זינקה ב-31.5%. מה המשקיעים מפספסים? - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Kc05zcW9EY0RmLWdHanJnSFdXX2RKRVhFVkdlVnp5TnJVeHlmRHdrcDRaRVJvbUR3TjRSZDhKcWxGWkNVUmNtOXFudldRbVU2TWZLa0M2WEhPd0RxSGFCZlVyVmZJNVB4eGZnSQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9Kc05zcW9EY0RmLWdHanJnSFdXX2RKRVhFVkdlVnp5TnJVeHlmRHdrcDRaRVJvbUR3TjRSZDhKcWxGWkNVUmNtOXFudldRbVU2TWZLa0M2WEhPd0RxSGFCZlVyVmZJNVB4eGZnSQ?oc=5\" target=\"_blank\">אנבידיה זינקה ב-31.5%. מה המשקיעים מפספסים?</a>&nbsp;&nbsp;<f",
-  "date": "2026-11-26T13:47:00.000Z",
-  "fetched": "2026-11-26T20:03:10.664Z",
-  "fromCloud": "2026-11-26T2003.json"
- },
- {
-  "id": "520ffecc49d58f8c",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "BizTech כתבות נוספות - עמוד 282 - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pSVdyeDNJU3UwdUY1NDdoc1ZZRVFVeXhyclJZQ3JGWGpoOXBBMHB5ZnlMd19pY1NXT1c1Y1lKNXNHNmNyMFhNZ1BXU0hNbGR1ZU1IY292c1lzWkxaS2c?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pSVdyeDNJU3UwdUY1NDdoc1ZZRVFVeXhyclJZQ3JGWGpoOXBBMHB5ZnlMd19pY1NXT1c1Y1lKNXNHNmNyMFhNZ1BXU0hNbGR1ZU1IY292c1lzWkxaS2c?oc=5\" target=\"_blank\">BizTech כתבות נוספות - עמוד 282</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</f",
-  "date": "2026-11-26T13:36:02.000Z",
-  "fetched": "2026-11-27T11:33:14.816Z",
-  "fromCloud": "2026-11-27T1133.json"
- },
- {
-  "id": "7a02936e12b175fa",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "כמה עולה לשכור דירה של 4 חדרים בכל אחת מ-18 הערים הגדולות - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tdXdpY0RleFZXTzlhQU1HczRVdnlNV0l5b0ZianFocFZYNlhHSXExdVZQVUVsRWNDWWc5UW1xbkE0VWZaRjF6TkFlSV82eTk1aTR1RWQ0MkVNMUNWVzJ3T0tvOTJQRmNYVDgxV1JB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5tdXdpY0RleFZXTzlhQU1HczRVdnlNV0l5b0ZianFocFZYNlhHSXExdVZQVUVsRWNDWWc5UW1xbkE0VWZaRjF6TkFlSV82eTk1aTR1RWQ0MkVNMUNWVzJ3T0tvOTJQRmNYVDgxV1JB?oc=5\" target=\"_blank\">כמה עולה לשכור דירה של 4 חדרים בכל אחת מ-18 הערים הגדולות</",
-  "date": "2026-11-26T13:34:00.000Z",
   "fetched": "2026-11-26T14:33:12.307Z",
   "fromCloud": "2026-11-26T1433.json"
  }
