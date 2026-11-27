@@ -11,6 +11,17 @@
   "fromCloud": "2026-11-27T1202.json"
  },
  {
+  "id": "4b3fac9a3013b84b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Deutsche Börse AG: Deutsche Börse Group Receives Unconditional Clearance of Allfunds Acquisition from European Commission - www.marketscreener.com",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTlZGc2paRTFhZ2hsb3NWNDBpXzJ1MFNjZGdxYXdxdHkwdm82ZEpXN0ZvSDhLWWZUVzc5SjN0a2wtbHF1TXdmTzB4N3FzYUFoTHExbVE1TkZfVldoZzRqVFNDN043bHdVM3lmV25lajBkVFliWXdZeVlFQmdrS2xzZ09abFhDY1NFYnVvOHctVTN6LTR5cjZlY1NiQ3YzdmZLZXh2Y01MRUJNTC1GTUZkRkxMMURkdFJNc2d1dktqMVl1NzZvRzJEeHl4UENWbGxQV3dSUVE4YkRCa2VULUx6QjI0VFJRYW8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTlZGc2paRTFhZ2hsb3NWNDBpXzJ1MFNjZGdxYXdxdHkwdm82ZEpXN0ZvSDhLWWZUVzc5SjN0a2wtbHF1TXdmTzB4N3FzYUFoTHExbVE1TkZfVldoZzRqVFNDN043bHdVM3lmV25lajBkVFliWXdZeVlFQmdrS2xzZ09abFhDY1NFYnVvOHctVTN6LTR5cjZlY1NiQ3YzdmZLZXh2Y01MRUJNTC",
+  "date": "2026-11-27T11:46:03.000Z",
+  "fetched": "2026-11-27T12:03:11.125Z",
+  "fromCloud": "2026-11-27T1203.json"
+ },
+ {
   "id": "f745ad174a27a294",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -66,6 +77,17 @@
   "fromCloud": "2026-11-27T1202.json"
  },
  {
+  "id": "79732f4f75db55bf",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "שר השיכון חיים כץ משך את מכתב ההתפטרות שהגיש - פוליטי - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1psOEJvVnBybjR1T3pGb2lhMlpsMm5oTVB4bG9Ha1BNLU55RnJPX2pzdGluNFdoRHRYRnl0VENieVlrLXROUWFheDlJbjNMZEFXUllPVk5sMy1iZnZxVktuVENXSWZlOEtpTmtNd2g0LVFEUUxoc2RnbHlzVzZ6ZHlCWXJJVGZ1RHNuMFluOGFiMktZSmdxdF9oSFFYQnUydzQzY0IxRS1rS0g1VHc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1psOEJvVnBybjR1T3pGb2lhMlpsMm5oTVB4bG9Ha1BNLU55RnJPX2pzdGluNFdoRHRYRnl0VENieVlrLXROUWFheDlJbjNMZEFXUllPVk5sMy1iZnZxVktuVENXSWZlOEtpTmtNd2g0LVFEUUxoc2RnbHlzVzZ6ZHlCWXJJVGZ1RHNuMFluOGFiMktZSmdxdF9oSFFYQnUydzQzY0IxRS1rS0",
+  "date": "2026-11-27T11:40:00.000Z",
+  "fetched": "2026-11-27T12:03:11.125Z",
+  "fromCloud": "2026-11-27T1203.json"
+ },
+ {
   "id": "79fc8eb154881639",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -86,6 +108,17 @@
   "date": "2026-11-27T11:35:32.000Z",
   "fetched": "2026-11-27T12:02:11.328Z",
   "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "0094788e48184d1e",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "יאיר גולן לביטחון הפנים: שוטרים וסוהרים מאיימים בפרישה - אמס",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hMzNiWUh4SDR0bldYV1QtS2VyMlBLRnJNQk5ZZVFnb1NQVHhjVy12SWZDdWpVSmQwaHhHSzNmcWotX2ZtUE1Rc05qS3IyUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hMzNiWUh4SDR0bldYV1QtS2VyMlBLRnJNQk5ZZVFnb1NQVHhjVy12SWZDdWpVSmQwaHhHSzNmcWotX2ZtUE1Rc05qS3IyUQ?oc=5\" target=\"_blank\">יאיר גולן לביטחון הפנים: שוטרים וסוהרים מאיימים בפרישה</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</font",
+  "date": "2026-11-27T11:35:26.000Z",
+  "fetched": "2026-11-27T12:03:11.125Z",
+  "fromCloud": "2026-11-27T1203.json"
  },
  {
   "id": "34fbdcce4f503098",
@@ -110,6 +143,17 @@
   "fromCloud": "2026-11-27T1202.json"
  },
  {
+  "id": "0424debbe1dc43b8",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "לתפילה ולמלחמה: 42 עריקים ישהו בשבת בכלא הצבאי - אמס",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWlRoeGhKV2ItTEdqaWdUREFDR2pCVC1vcUxJM3FUVHJaY25zNGFEN2V1UVFaRy02UTZVS29uZm1yTVgxbVV6Q09weGhFQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JWlRoeGhKV2ItTEdqaWdUREFDR2pCVC1vcUxJM3FUVHJaY25zNGFEN2V1UVFaRy02UTZVS29uZm1yTVgxbVV6Q09weGhFQQ?oc=5\" target=\"_blank\">לתפילה ולמלחמה: 42 עריקים ישהו בשבת בכלא הצבאי</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</font>",
+  "date": "2026-11-27T11:31:25.000Z",
+  "fetched": "2026-11-27T12:03:11.125Z",
+  "fromCloud": "2026-11-27T1203.json"
+ },
+ {
   "id": "6c7e66ace6b09ed8",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -130,6 +174,17 @@
   "date": "2026-11-27T11:30:00.000Z",
   "fetched": "2026-11-27T11:33:14.816Z",
   "fromCloud": "2026-11-27T1133.json"
+ },
+ {
+  "id": "13f307e29495c330",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Viomi Technology Completes Brondell Acquisition - TipRanks",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekIwS1J2c0psZ2hWa2Rmdjd3ZEJGdTczR3ZCZEhyUmIxbWlHaG4zbVE5c2ZpX0FZMXhKRlBPRGNMOW9mWk5OZUlkS2NvX0xUTGdHTFNsR2RNNk1YMGVVc1NTME5BV050dkJ6VDlhV2FEWTA2bm5PZEQ0MEtVdGRnOEI3N0tsOEdrR25DY1NGT1hUd05oSFdvd2w4ZXNGQ1hn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQekIwS1J2c0psZ2hWa2Rmdjd3ZEJGdTczR3ZCZEhyUmIxbWlHaG4zbVE5c2ZpX0FZMXhKRlBPRGNMOW9mWk5OZUlkS2NvX0xUTGdHTFNsR2RNNk1YMGVVc1NTME5BV050dkJ6VDlhV2FEWTA2bm5PZEQ0MEtVdGRnOEI3N0tsOEdrR25DY1NGT1hUd05oSFdvd2w4ZXNGQ1hn?oc=5\" target=",
+  "date": "2026-11-27T11:28:55.000Z",
+  "fetched": "2026-11-27T12:03:11.125Z",
+  "fromCloud": "2026-11-27T1203.json"
  },
  {
   "id": "6d23b78435fba7da",
@@ -231,6 +286,17 @@
   "fromCloud": "2026-11-27T1133.json"
  },
  {
+  "id": "3f7bf61eb964bf73",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "An all-cash merger brings a developer of water filters and home wellness products into Viomi (VIOT). - Stock Titan",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzVyeTgtbi1jNEUyblY0R3pHUzdxZG5BcU9jWW5JTTFFN0tRVXgtZzRSSGlha1BoN2IyMEVZZDNxTVZubU9KSDRDcVQ0TGNyZ3NxVkRCQzdhTk4tOUZtRzd5SkJ5WDNrbC1MWVZDWmNPeHF0ejBGV2tkbXA2SkstT2N4anFIakMzcFRleC1ud012Z3lzRWszNUx2NlpxeWh3cGNBQnRTNUl2dE9LY1JmYXVrRl9UUHB5WmJB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzVyeTgtbi1jNEUyblY0R3pHUzdxZG5BcU9jWW5JTTFFN0tRVXgtZzRSSGlha1BoN2IyMEVZZDNxTVZubU9KSDRDcVQ0TGNyZ3NxVkRCQzdhTk4tOUZtRzd5SkJ5WDNrbC1MWVZDWmNPeHF0ejBGV2tkbXA2SkstT2N4anFIakMzcFRleC1ud012Z3lzRWszNUx2NlpxeWh3cGNBQnRTNUl2dE",
+  "date": "2026-11-27T11:10:44.000Z",
+  "fetched": "2026-11-27T12:03:11.125Z",
+  "fromCloud": "2026-11-27T1203.json"
+ },
+ {
   "id": "224e666ef2b578c5",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -240,6 +306,17 @@
   "date": "2026-11-27T11:10:06.000Z",
   "fetched": "2026-11-27T11:33:14.816Z",
   "fromCloud": "2026-11-27T1133.json"
+ },
+ {
+  "id": "899e021068af4672",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Kingboard Holdings Discloses Property Acquisition Details - TipRanks",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjFJeDl0V1BaeWRGM1pkOEV2aUROVnFHUUhNTmVscDdiU1pkRUEzU0FDdGtCZGtyRU1tREFwU29DV0NUT2NMelNiM1ZDakJfUUVnQ3FhbFc0MWFYOE5idFhJYXRDOFNpTTFNNEc2TjAtT1ZMWG02M2s5RnZvN3cwa0d5TTVkM0loNTJTS0Q4ZldaWEFQSmRuUElrVDRfX2FraWxwQ25aOS14ZnhsZlE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjFJeDl0V1BaeWRGM1pkOEV2aUROVnFHUUhNTmVscDdiU1pkRUEzU0FDdGtCZGtyRU1tREFwU29DV0NUT2NMelNiM1ZDakJfUUVnQ3FhbFc0MWFYOE5idFhJYXRDOFNpTTFNNEc2TjAtT1ZMWG02M2s5RnZvN3cwa0d5TTVkM0loNTJTS0Q4ZldaWEFQSmRuUElrVDRfX2FraWxwQ25aOS14Zn",
+  "date": "2026-11-27T11:09:54.000Z",
+  "fetched": "2026-11-27T12:03:11.125Z",
+  "fromCloud": "2026-11-27T1203.json"
  },
  {
   "id": "68bdacfe96fbf2a3",
@@ -253,6 +330,17 @@
   "fromCloud": "2026-11-27T1133.json"
  },
  {
+  "id": "fcd8b819a2782a29",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Shareholders of Range Resources (EQT) would own 27% of the combined company if EQT’s deal closes. - Stock Titan",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkNtbFVnS01lTU1aQTRWdml6WU5mQTQwbjZjX1piU1BXM3M2MnJFbUIzQ1BERGJ6VmF0M2w0VmdLSUU4RkxMUWZxbmN6R3JPR01EdjUzaWNSVG84YUp4ZVMtUFdxT0NaSHQwbkR0WXBuanlNVlFjcldwZy1teDVDTksxWG1JQzVHWEswcnBZcmtCVDRjZVl4bEtfZ0lsVmt0NzUta2k2Vzg2MWREekVFVGJmRXlnZkVvUFVaYQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkNtbFVnS01lTU1aQTRWdml6WU5mQTQwbjZjX1piU1BXM3M2MnJFbUIzQ1BERGJ6VmF0M2w0VmdLSUU4RkxMUWZxbmN6R3JPR01EdjUzaWNSVG84YUp4ZVMtUFdxT0NaSHQwbkR0WXBuanlNVlFjcldwZy1teDVDTksxWG1JQzVHWEswcnBZcmtCVDRjZVl4bEtfZ0lsVmt0NzUta2k2Vzg2MW",
+  "date": "2026-11-27T11:07:51.000Z",
+  "fetched": "2026-11-27T12:03:11.125Z",
+  "fromCloud": "2026-11-27T1203.json"
+ },
+ {
   "id": "4cc3244b1e196d32",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -262,6 +350,17 @@
   "date": "2026-11-27T11:05:00.000Z",
   "fetched": "2026-11-27T11:33:14.816Z",
   "fromCloud": "2026-11-27T1133.json"
+ },
+ {
+  "id": "20dbb1eac8df2bcd",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Miluna Acquisition Corp SEC Filing (Nov 27, 2026) - Stock Titan",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWhQTGpiaGlDOTg3cENPTzJnWms1ZUNWQVlEUk1hdGdQTFlfbkxBWGpFNE5Ocjk3S2FIbERsRVA3U0U4bXZDNHNuR0d0d2Q2b29nSTNhZWF3Q3BiTkFsRS1pM3B3V0VkWmJSU2stOWd3UXRGb0xZMHc0MTVDRUd5S2N6ejFwMmFoOGtKU0VmWmM1UmpiWmVkOHlodTlzNnhHRTRzS3Bn?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWhQTGpiaGlDOTg3cENPTzJnWms1ZUNWQVlEUk1hdGdQTFlfbkxBWGpFNE5Ocjk3S2FIbERsRVA3U0U4bXZDNHNuR0d0d2Q2b29nSTNhZWF3Q3BiTkFsRS1pM3B3V0VkWmJSU2stOWd3UXRGb0xZMHc0MTVDRUd5S2N6ejFwMmFoOGtKU0VmWmM1UmpiWmVkOHlodTlzNnhHRTRzS3Bn?oc=5\"",
+  "date": "2026-11-27T11:03:34.000Z",
+  "fetched": "2026-11-27T12:03:11.125Z",
+  "fromCloud": "2026-11-27T1203.json"
  },
  {
   "id": "2dc42e4b34d260c3",
