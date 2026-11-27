@@ -1,0 +1,16 @@
+{
+ "batch": "2026-11-27T2303",
+ "created": "2026-11-27T23:03:20.071Z",
+ "items": [
+  {
+   "id": "d4e69959219e6a92",
+   "source": "SEC EDGAR 8-K",
+   "group": "filings",
+   "title": "8-K - 60 DEGREES PHARMACEUTICALS, INC. (0001946563) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1946563/000121390026124592/0001213900-26-124592-index.htm",
+   "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001213900-26-124592 <b>Size:</b> 243 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing <br>Item 7.01: Regulation FD Disclosure",
+   "date": "2026-11-27T21:39:18.000Z",
+   "fetched": "2026-11-27T23:03:20.071Z"
+  }
+ ]
+}
