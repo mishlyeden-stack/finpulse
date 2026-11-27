@@ -1,5 +1,115 @@
 [
  {
+  "id": "d4ec3631a117ecfe",
+  "source": "ECB",
+  "group": "global-official",
+  "title": "ECB Consumer Expectations Survey results – October 2026",
+  "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+  "summary": "",
+  "date": "2026-11-27T09:00:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "9e44a318c19d7d34",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Eldridge-led consortium announces acquisition of Lukoil International - Enerdata",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa25CYWNsNGN0bEd6U2c3X25QbTRPR2hCRzRrWGJ1am1YeVFmTlJqdGY2bzZWeGh5bVlZTDhwSEkwWkRRODBnSW9TY1RHYzVsdWx0bDdzNnIwQVc0bHM5emJOdEpUak1zOWRIaFRwbEtCaFAyUnhuMDlMaG1HRHFrRHo0YXI2YzNrLUhtZEJvTC01UVh6MGxHUGs0WFRmbjlDbG1ObUxrcUpuNWU0S2d1VktmdTVIQjg3VFlUZ3A5Z3lDTUdLaGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQa25CYWNsNGN0bEd6U2c3X25QbTRPR2hCRzRrWGJ1am1YeVFmTlJqdGY2bzZWeGh5bVlZTDhwSEkwWkRRODBnSW9TY1RHYzVsdWx0bDdzNnIwQVc0bHM5emJOdEpUak1zOWRIaFRwbEtCaFAyUnhuMDlMaG1HRHFrRHo0YXI2YzNrLUhtZEJvTC01UVh6MGxHUGs0WFRmbjlDbG1ObUxrcUpuNW",
+  "date": "2026-11-27T08:55:46.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "9c319dbf4b3bf84a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Banijay Gaming completes €465m JOA casino acquisition - European Gaming",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTZtdlRYek9pSmhzcURrSzNPd2JRMTE0Wm9SbVJsV0lyV1pmbnFLdlFUYmZ4UnpzWlM4MGF5aF8tRkx6T2ZCaEFnR2FEZkd4WWxsZG9KckdKR2NfQmgzVDAxQ2tyWlA0elpqZllOdDhOR09xOXJreXI3S0luOTVaMjl6VHlUZmRwZnV5QTZpTTEyZGNYNTA5czNsQW1jM3psZHNzanVNNA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTZtdlRYek9pSmhzcURrSzNPd2JRMTE0Wm9SbVJsV0lyV1pmbnFLdlFUYmZ4UnpzWlM4MGF5aF8tRkx6T2ZCaEFnR2FEZkd4WWxsZG9KckdKR2NfQmgzVDAxQ2tyWlA0elpqZllOdDhOR09xOXJreXI3S0luOTVaMjl6VHlUZmRwZnV5QTZpTTEyZGNYNTA5czNsQW1jM3psZHNzanVNNA?oc=",
+  "date": "2026-11-27T08:54:57.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "a93e4069ec139560",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "בריטניה מהמרת על \"כוח ימי היברידי\" חדש ועתידני - בעולם - TheMarker - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlFTOF9yMm1IeTNVcmxsLXJEMkExVm5ES01WTlNJNVg0bkRJMnpQUVpZLXNRU05sREVnY0JwTnhRd3RtdU9YWjlCaWdvTElQY3otMmxMS1VfblE5ZUs4Z3B6QWJJckJLazA5dS1NLW9WdU5YckxEQzVsaWpoNDBaVTVGZnhXVldzTko1Zi03R0I0cFV4SDFBa2VZLWhjNGZ3U29zNm5vMA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlFTOF9yMm1IeTNVcmxsLXJEMkExVm5ES01WTlNJNVg0bkRJMnpQUVpZLXNRU05sREVnY0JwTnhRd3RtdU9YWjlCaWdvTElQY3otMmxMS1VfblE5ZUs4Z3B6QWJJckJLazA5dS1NLW9WdU5YckxEQzVsaWpoNDBaVTVGZnhXVldzTko1Zi03R0I0cFV4SDFBa2VZLWhjNGZ3U29zNm5vMA?oc=",
+  "date": "2026-11-27T08:53:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "67b21618880cc7d8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Japan Tobacco shares surge on talk of Imperial acquisition - 朝日新聞",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MMVRWQl8wNnNoUU9vMFowMHhFRE9yQjJoOTRwUHJvYTk0RkJka2JVbk9LeDl4SE5YeFpoRnN0ZGd3bV9OVHp2T21yd0ZrM2NHV0pYaGV3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MMVRWQl8wNnNoUU9vMFowMHhFRE9yQjJoOTRwUHJvYTk0RkJka2JVbk9LeDl4SE5YeFpoRnN0ZGd3bV9OVHp2T21yd0ZrM2NHV0pYaGV3?oc=5\" target=\"_blank\">Japan Tobacco shares surge on talk of Imperial acquisition</a>&nbsp;&nbsp;<font color=\"#6f6",
+  "date": "2026-11-27T08:42:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "c41dfb0f8e578c91",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "למה עובד מצטיין עלול לפספס את העדכון השנתי של השכר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kU0hlTHNfRGlpbVBDZUhVNlFZcVNLb3RRbGNMWUJHTm9qQnY5ZTlJLTZrQlZ2U0NjbnlCT1UtNFljUWdOSWZfblBPWnJ6ajc0dGFmTmh0QU05dkdSSG5WZnlXdkRmQVk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kU0hlTHNfRGlpbVBDZUhVNlFZcVNLb3RRbGNMWUJHTm9qQnY5ZTlJLTZrQlZ2U0NjbnlCT1UtNFljUWdOSWZfblBPWnJ6ajc0dGFmTmh0QU05dkdSSG5WZnlXdkRmQVk?oc=5\" target=\"_blank\">למה עובד מצטיין עלול לפספס את העדכון השנתי של השכר</a>&nbsp;&nbsp;<f",
+  "date": "2026-11-27T08:39:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "27584005a4f28164",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Blackbird appoints Simon Sacerdoti as new CFO t... - Pluang",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3gyZmRwVGlhTUs0SDVpdXRMay02WFJnOU1CTU1femdzS0Jkb0lCanlZdGxpbkJtYjVDcWFncW5sbW9HdWd2aEhEa1pQbklOdzhxcUg4UkZnUVpRN2Q5TUktcEVBV19LUklkakxrMzBxb2lMeGYwc2E4b1NncnU1a3FObzRSQ2N3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3gyZmRwVGlhTUs0SDVpdXRMay02WFJnOU1CTU1femdzS0Jkb0lCanlZdGxpbkJtYjVDcWFncW5sbW9HdWd2aEhEa1pQbklOdzhxcUg4UkZnUVpRN2Q5TUktcEVBV19LUklkakxrMzBxb2lMeGYwc2E4b1NncnU1a3FObzRSQ2N3?oc=5\" target=\"_blank\">Blackbird appoints Simo",
+  "date": "2026-11-27T08:34:02.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "bfddc60185ef3894",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "Battlefield success doesn't guarantee a defense startup's future - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52V1VLbFpzLVBFb0VrSW1hb1hudFFYRXdGV01YVGJSb24tYnZsNW1jX043emc0SW1ZMFVoN3ZNcVVRUlBHWlp3Q3V4bm55S0x4Z0pzY2ozVm1FVm1BZUpHaE5qX3BFLUU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52V1VLbFpzLVBFb0VrSW1hb1hudFFYRXdGV01YVGJSb24tYnZsNW1jX043emc0SW1ZMFVoN3ZNcVVRUlBHWlp3Q3V4bm55S0x4Z0pzY2ozVm1FVm1BZUpHaE5qX3BFLUU?oc=5\" target=\"_blank\">Battlefield success doesn't guarantee a defense startup's future</a>",
+  "date": "2026-11-27T08:31:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "38c5ee6502ef2470",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "A clear-eyed view of global industry and China opportunity 2.0 - CTech",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YRWtqRUtIeUlyM0hjS2tLUHkyWUJJamh2a2tPVjdQOF9TV1E1VkUwTG94bWFhcGhpUy1meE5FZzctb1lCcnNaSVIzaVpWbnNBZHY2ajl5MEcxQndoakNPTHZPQnpSLWM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YRWtqRUtIeUlyM0hjS2tLUHkyWUJJamh2a2tPVjdQOF9TV1E1VkUwTG94bWFhcGhpUy1meE5FZzctb1lCcnNaSVIzaVpWbnNBZHY2ajl5MEcxQndoakNPTHZPQnpSLWM?oc=5\" target=\"_blank\">A clear-eyed view of global industry and China opportunity 2.0</a>&n",
+  "date": "2026-11-27T08:30:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "aa9231660cb70276",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "מאסק מרחיב את התרומה: מניית SpaceX לכל ילד בארה\"ב מדי שנה - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CTF9QZkpJQWtoNFQzMlAtTXp6VEc2MEpwWC1NSF9KbENXQk9xejNiNTRXX1RwR2Q2bjh1V0VKaEdqVUROZHVJQzZzODREY1V6dzRxdEdXay1OQnhwWjRhSXJVY0FyTXc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CTF9QZkpJQWtoNFQzMlAtTXp6VEc2MEpwWC1NSF9KbENXQk9xejNiNTRXX1RwR2Q2bjh1V0VKaEdqVUROZHVJQzZzODREY1V6dzRxdEdXay1OQnhwWjRhSXJVY0FyTXc?oc=5\" target=\"_blank\">מאסק מרחיב את התרומה: מניית SpaceX לכל ילד בארה\"ב מדי שנה</a>&nbsp;&",
+  "date": "2026-11-27T08:29:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
   "id": "78ea3cbdd0c3d8d4",
   "source": "גלובס – ראשי",
   "group": "israel-press",
@@ -31,6 +141,17 @@
   "date": "2026-11-27T08:22:33.000Z",
   "fetched": "2026-11-27T08:33:12.195Z",
   "fromCloud": "2026-11-27T0833.json"
+ },
+ {
+  "id": "dc90e61895306a14",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "French economy shrinks 0.2% in third quarter",
+  "link": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+  "summary": "Quarterly GDP reduction was worse than initially estimated",
+  "date": "2026-11-27T08:19:11.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
  },
  {
   "id": "aebf0c0e1c6f6d35",
@@ -97,6 +218,17 @@
   "date": "2026-11-27T08:00:00.000Z",
   "fetched": "2026-11-27T08:33:12.195Z",
   "fromCloud": "2026-11-27T0833.json"
+ },
+ {
+  "id": "0f5bf414ee9d17b1",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "\"אלה לא חוקים פרסונליים, כי זהו בדיוק תפקידה של הכנסת\" - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2UU5jY0NzT3pRMC1oVTJacUQ0MHNjcVN4enJRSXhCMW5aMEdvdEJ0VVJXSEs3WEVEMkZ6SGg2VDFGV0wwenBiMFFiRnN6Y24xVFVienpJMXNwRUk0ME9NU3NmczZGOHc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2UU5jY0NzT3pRMC1oVTJacUQ0MHNjcVN4enJRSXhCMW5aMEdvdEJ0VVJXSEs3WEVEMkZ6SGg2VDFGV0wwenBiMFFiRnN6Y24xVFVienpJMXNwRUk0ME9NU3NmczZGOHc?oc=5\" target=\"_blank\">\"אלה לא חוקים פרסונליים, כי זהו בדיוק תפקידה של הכנסת\"</a>&nbsp;&nbs",
+  "date": "2026-11-27T07:57:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
  },
  {
   "id": "0277ac36ba8d53fd",
@@ -407,6 +539,17 @@
   "fromCloud": "2026-11-27T0833.json"
  },
  {
+  "id": "3c71014221ba78ea",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "ראש המוסד גופמן תומך בתקיפה באיראן ללא ארה\"ב, זמיר מסתייג - אמס",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZdDFJU3NCNUNMenRyMGJtYk9ReDRWczFBVzJKcFh6VUlyaWZ3TWM1S2lBbFpfQWt4d1A0QzMyUEZHUldORDR6OWxrMVNUdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZdDFJU3NCNUNMenRyMGJtYk9ReDRWczFBVzJKcFh6VUlyaWZ3TWM1S2lBbFpfQWt4d1A0QzMyUEZHUldORDR6OWxrMVNUdw?oc=5\" target=\"_blank\">ראש המוסד גופמן תומך בתקיפה באיראן ללא ארה\"ב, זמיר מסתייג</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</f",
+  "date": "2026-11-27T06:47:01.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
   "id": "117355243e3816b7",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -493,6 +636,17 @@
   "date": "2026-11-27T06:34:00.000Z",
   "fetched": "2026-11-27T07:03:10.618Z",
   "fromCloud": "2026-11-27T0703.json"
+ },
+ {
+  "id": "36832d26629b4d0d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Form 4 IX Acquisition Corp. For: 27 November By Investing.com - Investing.com UK",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSzhkNThYbEVFOTdLYXpTMFJhYzlDMnZfSGU2MXVsQ0ROc3doMzZkY0x6aFBreWh1TGxYRmtyeUlkUDc1RjFuU0tnb3lxaDJkVmtaaGl6UEdMTTU1YUwtOE1CbE5oQ3UyZWpacXloT1M1U0pBc2NQNTF1bkpxNzZFbkpiQUZGVVdjSFNsbUlOWngzY1JCSUtOUkN2X1RWbllTdmNHQ25n?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSzhkNThYbEVFOTdLYXpTMFJhYzlDMnZfSGU2MXVsQ0ROc3doMzZkY0x6aFBreWh1TGxYRmtyeUlkUDc1RjFuU0tnb3lxaDJkVmtaaGl6UEdMTTU1YUwtOE1CbE5oQ3UyZWpacXloT1M1U0pBc2NQNTF1bkpxNzZFbkpiQUZGVVdjSFNsbUlOWngzY1JCSUtOUkN2X1RWbllTdmNHQ25n?oc=5\"",
+  "date": "2026-11-27T06:32:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
  },
  {
   "id": "5b877ecf93582766",
@@ -691,6 +845,17 @@
   "date": "2026-11-27T05:37:14.000Z",
   "fetched": "2026-11-27T06:03:11.425Z",
   "fromCloud": "2026-11-27T0603.json"
+ },
+ {
+  "id": "7aa40a37d9119080",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "רכבת ההרים של הדולר: כיצד היא משפיעה על ההשקעות שלכם? מה עדיף, קרן סל רגילה או מנוטרלת ? - פאנדר",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoWXBOM0FqVUxnczBpZ2NuYkdNUzdUTWxna3ZEUlRkZUxMRFRqcGNkR0ZSeGFlU3VGMlA2eHNjbl9sOElrZEp3WndkMHVmUV8y?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoWXBOM0FqVUxnczBpZ2NuYkdNUzdUTWxna3ZEUlRkZUxMRFRqcGNkR0ZSeGFlU3VGMlA2eHNjbl9sOElrZEp3WndkMHVmUV8y?oc=5\" target=\"_blank\">רכבת ההרים של הדולר: כיצד היא משפיעה על ההשקעות שלכם? מה עדיף, קרן סל רגילה או מנוטרלת ?</a>&nbsp;&",
+  "date": "2026-11-27T05:33:32.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
  },
  {
   "id": "e37c1be9cf17b990",
@@ -1032,6 +1197,17 @@
   "date": "2026-11-27T05:00:00.000Z",
   "fetched": "2026-11-27T06:33:11.730Z",
   "fromCloud": "2026-11-27T0633.json"
+ },
+ {
+  "id": "87995176dc2f2318",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "סיכום השבוע: חמש הכתבות שהכי אהבתם בכלכליסט - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZYzVPT2kyVW5PZUktVnhNMC12OFpnMGwtX25oVGhOTFlSQXdSY1Qtbm84ZEtUMDg3b0NHbm1vNmNSbzVIR0dXZTRubVBuaWNCY2dtTUJJUW83eGFFc1VpekY2c3NBUVND?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZYzVPT2kyVW5PZUktVnhNMC12OFpnMGwtX25oVGhOTFlSQXdSY1Qtbm84ZEtUMDg3b0NHbm1vNmNSbzVIR0dXZTRubVBuaWNCY2dtTUJJUW83eGFFc1VpekY2c3NBUVND?oc=5\" target=\"_blank\">סיכום השבוע: חמש הכתבות שהכי אהבתם בכלכליסט</a>&nbsp;&nbsp;<font co",
+  "date": "2026-11-27T05:00:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
  },
  {
   "id": "3f165553ee7c5c9e",
@@ -1945,6 +2121,17 @@
   "date": "2026-11-26T22:19:05.000Z",
   "fetched": "2026-11-26T23:03:12.240Z",
   "fromCloud": "2026-11-26T2303.json"
+ },
+ {
+  "id": "490789fe8c15e370",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Dexus Announces CFO Changes - www.marketscreener.com",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNm5TOEVCWkhOcGphd1JCMnhzUW93ZWpQQzdjb1paOU4yNG8waTFiRnczdF9fQ2hYZGgwVHIydWlsS3VoWmxucHJLdTV2QW45QXZQSzRUT1o3dHRrMXdtZlZkZnpEZEQ0MDhVT1pYVW85dldwQnRrdDIzQjgySWo3VkZBNlJBZzA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPNm5TOEVCWkhOcGphd1JCMnhzUW93ZWpQQzdjb1paOU4yNG8waTFiRnczdF9fQ2hYZGgwVHIydWlsS3VoWmxucHJLdTV2QW45QXZQSzRUT1o3dHRrMXdtZlZkZnpEZEQ0MDhVT1pYVW85dldwQnRrdDIzQjgySWo3VkZBNlJBZzA?oc=5\" target=\"_blank\">Dexus Announces CFO Chan",
+  "date": "2026-11-26T22:05:00.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
  },
  {
   "id": "ab08d66499c80704",
@@ -2926,6 +3113,17 @@
   "fromCloud": "2026-11-26T2233.json"
  },
  {
+  "id": "2d53291a8674fbd8",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Northmarq’s Debt + Equity team arranges $10.5m refinancing of grocery-anchored retail property - NEREJ",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGRIQVJ4bFlwdmZ2T1NfRG1KRjB6bk5MYnVLZER5NHNvR3JPRndaYVNiXzBNaDdhWXpyYjhYQTJHWUg3T3ZMUVpSNV8wY3Q1NnpoNnE1ZjdpQjdZYjM3dms0SVpmWlRlbnlCN3J2ZmdlVVVlVmY4a3phOEZFUTlMV253ci14ZWN4MURwY1FVYnAtQkxTbF9RTHNvZ2Z6VW1ZUzBLbnF5aFF4MFk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGRIQVJ4bFlwdmZ2T1NfRG1KRjB6bk5MYnVLZER5NHNvR3JPRndaYVNiXzBNaDdhWXpyYjhYQTJHWUg3T3ZMUVpSNV8wY3Q1NnpoNnE1ZjdpQjdZYjM3dms0SVpmWlRlbnlCN3J2ZmdlVVVlVmY4a3phOEZFUTlMV253ci14ZWN4MURwY1FVYnAtQkxTbF9RTHNvZ2Z6VW1ZUzBLbnF5aFF4MF",
+  "date": "2026-11-26T18:20:20.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
+ },
+ {
   "id": "ab96070e0e3bbac5",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -3254,6 +3452,17 @@
   "date": "2026-11-26T17:33:20.000Z",
   "fetched": "2026-11-26T18:03:14.008Z",
   "fromCloud": "2026-11-26T1803.json"
+ },
+ {
+  "id": "f33f1b29454a8b45",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "חופשת סקי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10TW1ZQ1UxWVViX1ZCaWZuQlE0NV9JZFZBazNCQkpvNEdIOE9WX0VYMEVmc29NQXFyVnFPbkNlQ2JLeWdfZENpR0FzSm42R1JxOTVUUXln?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE10TW1ZQ1UxWVViX1ZCaWZuQlE0NV9JZFZBazNCQkpvNEdIOE9WX0VYMEVmc29NQXFyVnFPbkNlQ2JLeWdfZENpR0FzSm42R1JxOTVUUXln?oc=5\" target=\"_blank\">חופשת סקי</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-26T17:32:17.000Z",
+  "fetched": "2026-11-27T09:03:13.643Z",
+  "fromCloud": "2026-11-27T0903.json"
  },
  {
   "id": "1f88663a17c45939",
@@ -5564,38 +5773,5 @@
   "date": "2026-11-26T09:03:59.000Z",
   "fetched": "2026-11-26T15:03:13.346Z",
   "fromCloud": "2026-11-26T1503.json"
- },
- {
-  "id": "471183d1fea04ad7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Ratos ready to accelerate acquisition pace, according to Pareto, raises target price - www.marketscreener.com",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNHN1ZDVmR09PeEFvVV9CMHhTYVJzVEdPbVFZaWtXY2xfT2lEd0phQ3pIR2lCbjVOc0VLLXNsUTlJNnFEcXRILWVUWmg2b0U4SEhwMFZZZi0xMTU3bXk0SXpMblVvbTVMdktTdnZ2aEYxOHBDeHRHRTR6Q3JCUWFRazdsZngwS1d1WmM0QzBTU0VYb1RmVlo2aXBwSDhzeU9wVFJPMG9kVlBJa0hKMXl5MnZZLXlIbUFuLWRYMkEydlAtOTlfdnNJSkp3d05pakYw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNHN1ZDVmR09PeEFvVV9CMHhTYVJzVEdPbVFZaWtXY2xfT2lEd0phQ3pIR2lCbjVOc0VLLXNsUTlJNnFEcXRILWVUWmg2b0U4SEhwMFZZZi0xMTU3bXk0SXpMblVvbTVMdktTdnZ2aEYxOHBDeHRHRTR6Q3JCUWFRazdsZngwS1d1WmM0QzBTU0VYb1RmVlo2aXBwSDhzeU9wVFJPMG9kVlBJa0",
-  "date": "2026-11-26T08:57:22.000Z",
-  "fetched": "2026-11-27T03:03:10.469Z",
-  "fromCloud": "2026-11-27T0303.json"
- },
- {
-  "id": "5764daa7e6c8c559",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "ריבאונד במטבע הישראלי: הדולר יורד ל-3.34 שקלים, היורו ל-3.66 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51dnBOV0tlSlNFX2tBeE4zZXNFdjlER2VZQ045M2d5dWo4LXVrTmdITnVHSDBnbGpBX1EzRFNSYkFZaGt2cnVJQnZVRlpmakM0WnF5Wnl1dXZkTm1kVXl0cFFaM3R3b2J4TjQ4?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE51dnBOV0tlSlNFX2tBeE4zZXNFdjlER2VZQ045M2d5dWo4LXVrTmdITnVHSDBnbGpBX1EzRFNSYkFZaGt2cnVJQnZVRlpmakM0WnF5Wnl1dXZkTm1kVXl0cFFaM3R3b2J4TjQ4?oc=5\" target=\"_blank\">ריבאונד במטבע הישראלי: הדולר יורד ל-3.34 שקלים, היורו ל-3.66</a",
-  "date": "2026-11-26T08:51:43.000Z",
-  "fetched": "2026-11-26T19:33:11.015Z",
-  "fromCloud": "2026-11-26T1933.json"
- },
- {
-  "id": "786f553161f8e9e5",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Iberdrola completes regulatory approvals for Caruna acquisition - Windtech International",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1E2ZkZOZ05MNlJ0RWl3TDRjcmp5MC1LQVhQZzVnQ2d3RVZYZHFIdmFBaDYtV2VGd19CUVFTRERyU1lVbEJMeHp6MWR4TzVZSHJkTmpjRG9RZTdfVlhqYXlBa3dtMDh0NXRaMVpsN0loTkpGRFZNUllDb3FtajdsMTBkWEpCQlVHNGRfVEk4MjlScGtFT3JNakNBcE1tNFd6eHp1N2xOMDdkRml3MG9fOUFMQUJiZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1E2ZkZOZ05MNlJ0RWl3TDRjcmp5MC1LQVhQZzVnQ2d3RVZYZHFIdmFBaDYtV2VGd19CUVFTRERyU1lVbEJMeHp6MWR4TzVZSHJkTmpjRG9RZTdfVlhqYXlBa3dtMDh0NXRaMVpsN0loTkpGRFZNUllDb3FtajdsMTBkWEpCQlVHNGRfVEk4MjlScGtFT3JNakNBcE1tNFd6eHp1N2xOMDdkRm",
-  "date": "2026-11-26T08:41:25.000Z",
-  "fetched": "2026-11-26T16:03:12.561Z",
-  "fromCloud": "2026-11-26T1603.json"
  }
 ]
