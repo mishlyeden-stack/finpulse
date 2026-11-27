@@ -1,5 +1,82 @@
 [
  {
+  "id": "fbf99ddd884c1623",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Cantor Equity Partners IV, Inc. (0002034267) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2034267/000121390026124563/0001213900-26-124563-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001213900-26-124563 <b>Size:</b> 190 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-27T21:05:36.000Z",
+  "fetched": "2026-11-27T21:07:17.469Z",
+  "fromCloud": "2026-11-27T2107.json"
+ },
+ {
+  "id": "fdef734eabe01a92",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Cantor Equity Partners V, Inc. (0002034266) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2034266/000121390026124561/0001213900-26-124561-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001213900-26-124561 <b>Size:</b> 190 KB <br>Item 8.01: Other Events",
+  "date": "2026-11-27T21:05:36.000Z",
+  "fetched": "2026-11-27T21:07:17.469Z",
+  "fromCloud": "2026-11-27T2107.json"
+ },
+ {
+  "id": "f131b486ee4eebca",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Reliance Global Group, Inc. (0001812727) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226054495/0001493152-26-054495-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001493152-26-054495 <b>Size:</b> 300 KB <br>Item 8.01: Other Events <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-27T21:05:36.000Z",
+  "fetched": "2026-11-27T21:07:17.469Z",
+  "fromCloud": "2026-11-27T2107.json"
+ },
+ {
+  "id": "ddb47f0bf0ded755",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Rocky Mountain Chocolate Factory, Inc. (0001616262) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1616262/000121390026124560/0001213900-26-124560-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001213900-26-124560 <b>Size:</b> 248 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; App",
+  "date": "2026-11-27T21:05:35.000Z",
+  "fetched": "2026-11-27T21:07:17.469Z",
+  "fromCloud": "2026-11-27T2107.json"
+ },
+ {
+  "id": "3bb8210d06a3c70f",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - PharmaCyte Biotech, Inc. (0001157075) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1157075/000168316826009159/0001683168-26-009159-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001683168-26-009159 <b>Size:</b> 316 KB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-27T21:05:33.000Z",
+  "fetched": "2026-11-27T21:07:17.469Z",
+  "fromCloud": "2026-11-27T2107.json"
+ },
+ {
+  "id": "6a02e6efcea89ec3",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - FrontView REIT, Inc. (0001988494) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1988494/000119312526480254/0001193125-26-480254-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001193125-26-480254 <b>Size:</b> 287 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 9.01: Financial Statements and",
+  "date": "2026-11-27T21:05:14.000Z",
+  "fetched": "2026-11-27T21:07:17.469Z",
+  "fromCloud": "2026-11-27T2107.json"
+ },
+ {
+  "id": "e020f6134035192f",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הילדים כבר רשומים כבעלי הדירה בטאבו - האם ההורים יכולים לקבל אותה בחזרה? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcFNsNXBObmNuakpvZTMzLWdBUnpZS3VZYXh6eXRkY2ZjSC1yNDJ4d3FCajhTMUlhaFhqeHBQX3RnNld2aDh0azA4bFh1bzg0dnFpaXVhcmkyZ3hfQ18tVWlvcmlKZm8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcFNsNXBObmNuakpvZTMzLWdBUnpZS3VZYXh6eXRkY2ZjSC1yNDJ4d3FCajhTMUlhaFhqeHBQX3RnNld2aDh0azA4bFh1bzg0dnFpaXVhcmkyZ3hfQ18tVWlvcmlKZm8?oc=5\" target=\"_blank\">הילדים כבר רשומים כבעלי הדירה בטאבו - האם ההורים יכולים לקבל אותה בח",
+  "date": "2026-11-27T21:02:00.000Z",
+  "fetched": "2026-11-27T21:07:17.469Z",
+  "fromCloud": "2026-11-27T2107.json"
+ },
+ {
   "id": "2b5770c2266555f9",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -9,6 +86,17 @@
   "date": "2026-11-27T21:01:33.000Z",
   "fetched": "2026-11-27T21:03:11.365Z",
   "fromCloud": "2026-11-27T2103.json"
+ },
+ {
+  "id": "818de683c131965d",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "המטפלת קיבלה את הדירה בירושה - האם הילדים יכולים לבטל את הצוואה? - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxeUw5U2lsTkNWM2JaZWp5V1BtVWhHaUpLQnlUdXpqU0haSkFOcEQtM2tUZFYzamMtakpmZ2JpWTNETkhWZTNIdnFZX0hVU1AzbU5nMVN5UmRTVkVPQ3g3Z2RoaXZ5ems?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxeUw5U2lsTkNWM2JaZWp5V1BtVWhHaUpLQnlUdXpqU0haSkFOcEQtM2tUZFYzamMtakpmZ2JpWTNETkhWZTNIdnFZX0hVU1AzbU5nMVN5UmRTVkVPQ3g3Z2RoaXZ5ems?oc=5\" target=\"_blank\">המטפלת קיבלה את הדירה בירושה - האם הילדים יכולים לבטל את הצוואה?</a>",
+  "date": "2026-11-27T21:01:00.000Z",
+  "fetched": "2026-11-27T21:07:17.469Z",
+  "fromCloud": "2026-11-27T2107.json"
  },
  {
   "id": "94bbd72be475154b",
@@ -7080,50 +7168,6 @@
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVdyMDFNN0pYcEdFcTcyQy1WUWZ2U1dBRFdQZ29HNzFCQXZLUU1naVBDTlYyeXJRZWI3YmY5N2pnaWZ4ZHZOVWhXLVFhVENxN2FBcV9lQnV3NFZqLWNoVEVmTVRsYlV6VlFxV3FCZVZKYzVKTHJKSUI2R3JIOGhrZjVNLXlOdEhJY3h6aC1wQWJyclN4VXpHLVUtbFJfRS1BOFB3NUxZMWRLQmM?oc=5",
   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVdyMDFNN0pYcEdFcTcyQy1WUWZ2U1dBRFdQZ29HNzFCQXZLUU1naVBDTlYyeXJRZWI3YmY5N2pnaWZ4ZHZOVWhXLVFhVENxN2FBcV9lQnV3NFZqLWNoVEVmTVRsYlV6VlFxV3FCZVZKYzVKTHJKSUI2R3JIOGhrZjVNLXlOdEhJY3h6aC1wQWJyclN4VXpHLVUtbFJfRS1BOFB3NUxZMWRLQm",
   "date": "2026-11-26T21:08:00.000Z",
-  "fetched": "2026-11-26T23:03:12.240Z",
-  "fromCloud": "2026-11-26T2303.json"
- },
- {
-  "id": "b6a33a341d3d923f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow of Trakcja SA – GPW:TRK_C - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0g2Yl94VUZfQll4em1sTEF0djR5Mk5aSVJ3VDQydGs5c0htY0lyWXFFNGF3dzU2Q0FYUW5lR0gwOVppeDl0SnFhckFkb0JuaTJSQUtVd055QmNOTjNoUzJrS0RaSFNkc2d0WXAtLTZTdERTOWMxdG1mT2hXS3JEY25FZWNXWWZiZkE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0g2Yl94VUZfQll4em1sTEF0djR5Mk5aSVJ3VDQydGs5c0htY0lyWXFFNGF3dzU2Q0FYUW5lR0gwOVppeDl0SnFhckFkb0JuaTJSQUtVd055QmNOTjNoUzJrS0RaSFNkc2d0WXAtLTZTdERTOWMxdG1mT2hXS3JEY25FZWNXWWZiZkE?oc=5\" target=\"_blank\">Free cash flow of Tr",
-  "date": "2026-11-26T21:04:14.000Z",
-  "fetched": "2026-11-27T00:03:10.633Z",
-  "fromCloud": "2026-11-27T0003.json"
- },
- {
-  "id": "388021f003d5ac1d",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "שופרסל שיפרה את הרווחיות הגולמית, אבל הרווח הנקי נשחק ב-21% - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zeURUMmtDQTFxdHFINDZBWmlYVmszVzNlSTdIRDVCZVZkV3dudkc4THpkemhRX0JtNm5JZWNRUkk0cGFacFp2aVI0LTVKZFJ3bzJwcWVwTUcyYkhaUDE0aXhVTjZPRV9DUnRac00xZXA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5zeURUMmtDQTFxdHFINDZBWmlYVmszVzNlSTdIRDVCZVZkV3dudkc4THpkemhRX0JtNm5JZWNRUkk0cGFacFp2aVI0LTVKZFJ3bzJwcWVwTUcyYkhaUDE0aXhVTjZPRV9DUnRac00xZXA?oc=5\" target=\"_blank\">שופרסל שיפרה את הרווחיות הגולמית, אבל הרווח הנקי נשחק ב-",
-  "date": "2026-11-26T21:04:00.000Z",
-  "fetched": "2026-11-26T21:33:10.476Z",
-  "fromCloud": "2026-11-26T2133.json"
- },
- {
-  "id": "9764e9e138533399",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow of Enter Air SA – GPW:ENT_C - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGxYczByLXFYSUMtSGRMRDhHYXF2UEp3RmdmWUlfTlBWV21Qdjg3dkxhMi1QVEJsRXhoa1FkVUdIYTFXRTZFWmdJcDFOb2lobW5RLWVsWndQdlNtMmxQR3p6ekp6cEJteWZjeFBDbWpLSjFVcm9zOUpTN2R3MmYyUGd2WUFBeFFYZnc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGxYczByLXFYSUMtSGRMRDhHYXF2UEp3RmdmWUlfTlBWV21Qdjg3dkxhMi1QVEJsRXhoa1FkVUdIYTFXRTZFWmdJcDFOb2lobW5RLWVsWndQdlNtMmxQR3p6ekp6cEJteWZjeFBDbWpLSjFVcm9zOUpTN2R3MmYyUGd2WUFBeFFYZnc?oc=5\" target=\"_blank\">Free cash flow of En",
-  "date": "2026-11-26T21:03:37.000Z",
-  "fetched": "2026-11-26T23:03:12.240Z",
-  "fromCloud": "2026-11-26T2303.json"
- },
- {
-  "id": "9c0f8b509b6d4c58",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Marie Brizard Wine & Spirits SA – GPW:MBW_C - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnF4djBLZWdhVkZuczRRUXZvX3hOSEUzekFMbDZqeGxBdEFhLVJzanpkcWJvRVVCVVpwU09Ba3FxdG9nc2Q2VWh3UGlhRjhUdXlhQkFDREdSbF9BUjBBTG8tYTJSaldmQ2lnQnBMRVhVRmU0VGR0MFNwdTRiZWNMcEVxYXVGNm8tWUhVOWVMa2NqX25kZUdvY1k1X3MwQlZIS0lhVm9lTQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnF4djBLZWdhVkZuczRRUXZvX3hOSEUzekFMbDZqeGxBdEFhLVJzanpkcWJvRVVCVVpwU09Ba3FxdG9nc2Q2VWh3UGlhRjhUdXlhQkFDREdSbF9BUjBBTG8tYTJSaldmQ2lnQnBMRVhVRmU0VGR0MFNwdTRiZWNMcEVxYXVGNm8tWUhVOWVMa2NqX25kZUdvY1k1X3MwQlZIS0lhVm9lTQ?oc=",
-  "date": "2026-11-26T21:03:36.000Z",
   "fetched": "2026-11-26T23:03:12.240Z",
   "fromCloud": "2026-11-26T2303.json"
  }
