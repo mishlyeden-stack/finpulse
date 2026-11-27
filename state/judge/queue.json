@@ -1,5 +1,60 @@
 [
  {
+  "id": "669992730c7e28a1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Fidelity Core Real Estate Fund (0001953520) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1953520/000119312526479493/0001193125-26-479493-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001193125-26-479493 <b>Size:</b> 162 KB <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-11-27T15:52:51.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
+ },
+ {
+  "id": "86fcafb06403be3a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "לוקאויל מוכרת את נכסיה בחו\"ל תמורת מניות שלה בשווי 10 מיליארד דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HVGM3UFRMZi1pYWhlRE8tMEdzNUJJMC1KcEVRelp6Mldmek1FTzF3NldXcTNabnpZUjRJcXJTaWcxYzY3QURpdWtrbFNPQUxEbFR3Z2lGMk1NNFdVc0JHLXQ2eHctZ2ptbmR4UzBncmw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1HVGM3UFRMZi1pYWhlRE8tMEdzNUJJMC1KcEVRelp6Mldmek1FTzF3NldXcTNabnpZUjRJcXJTaWcxYzY3QURpdWtrbFNPQUxEbFR3Z2lGMk1NNFdVc0JHLXQ2eHctZ2ptbmR4UzBncmw?oc=5\" target=\"_blank\">לוקאויל מוכרת את נכסיה בחו\"ל תמורת מניות שלה בשווי 10 מי",
+  "date": "2026-11-27T15:52:00.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
+ },
+ {
+  "id": "028334c74fc0b970",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MDA SPACE COMPLETES ACQUISITION OF BLUE CANYON TECHNOLOGIES - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmpELTFKZ1VadGY3MVJjUEZCUU1ScXI4VzI2bXc2Z1VWQlJORkFWYUNnRmlVS1dGMVVTTVZ5RkRiempPR3FJV3c2VXRvQ2lPTmlpRzNINXVWdmFubU5KSWIwd1V5UWRkY2RGblFSNXRLSzdWWkhnVGNoRVJTN2Nya3hTMXMzSUZ0aHdCaDZlZG8zeFFDYTJCT1o0OERJRXVsVEJ1bA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmpELTFKZ1VadGY3MVJjUEZCUU1ScXI4VzI2bXc2Z1VWQlJORkFWYUNnRmlVS1dGMVVTTVZ5RkRiempPR3FJV3c2VXRvQ2lPTmlpRzNINXVWdmFubU5KSWIwd1V5UWRkY2RGblFSNXRLSzdWWkhnVGNoRVJTN2Nya3hTMXMzSUZ0aHdCaDZlZG8zeFFDYTJCT1o0OERJRXVsVEJ1bA?oc=5\" t",
+  "date": "2026-11-27T15:50:45.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
+ },
+ {
+  "id": "a2527e62f9c1037e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tesla Stock Rises After Filing Reveals EMAG Acquisition Pursuit: What's Happening? - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmsyMWFPLW9MN2laRmdNS0t0Qm9vN2wwbmpuaGt4c2VwcUwzR1NOUlJMbm42TjNjZFR5ckl5UUZNREZFVVFPVkRYblFLWldDd21FWEgwajFoYnlNcC1JN2VqRHQzQ0swUzd4S19VUTdUc0xoRWQ3X05TX3NBRmM2QTZ0dHRjREk1REgxa1ZFdlZDMjBoMUtxYm1jbmJJYzg3TzdJVFpuZDNqM2pzQXhTMHd5YjBuQ2JoUmVPVXdadTQtdzhwMjQydEcyQUFDWEI0YXlWajE0TQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmsyMWFPLW9MN2laRmdNS0t0Qm9vN2wwbmpuaGt4c2VwcUwzR1NOUlJMbm42TjNjZFR5ckl5UUZNREZFVVFPVkRYblFLWldDd21FWEgwajFoYnlNcC1JN2VqRHQzQ0swUzd4S19VUTdUc0xoRWQ3X05TX3NBRmM2QTZ0dHRjREk1REgxa1ZFdlZDMjBoMUtxYm1jbmJJYzg3TzdJVFpuZDNqM2",
+  "date": "2026-11-27T15:49:46.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
+ },
+ {
+  "id": "ffe481c2f9c39c58",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "פרח שחור לזכרו: האמן מוש קאשי הלך לעולמו בגיל 60 - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GMEhWOUpEYll0Y1Y2YU1tMFFiRkltREtGVzE3emZnT0QzbHNHTkExMTV2SjM4bllQREwwTXFGdE1ndm1kTk4wRGVlaDFaSE96T1F3WEg2QVFhTjItWFl5Zy1R?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GMEhWOUpEYll0Y1Y2YU1tMFFiRkltREtGVzE3emZnT0QzbHNHTkExMTV2SjM4bllQREwwTXFGdE1ndm1kTk4wRGVlaDFaSE96T1F3WEg2QVFhTjItWFl5Zy1R?oc=5\" target=\"_blank\">פרח שחור לזכרו: האמן מוש קאשי הלך לעולמו בגיל 60</a>&nbsp;&nbsp;<font color",
+  "date": "2026-11-27T15:42:00.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
+ },
+ {
   "id": "d98aa29635acfb77",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -42,6 +97,17 @@
   "date": "2026-11-27T15:18:00.000Z",
   "fetched": "2026-11-27T15:33:13.734Z",
   "fromCloud": "2026-11-27T1533.json"
+ },
+ {
+  "id": "824740c92c856292",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "China Petroleum & Chemical (SEHK:386) Says CFO Will Step Down - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTJLRDYzSEJ5TzlrMlR5RnBZZkNaWGNsOUE2M3cwQ0VhMHZQMk9vUlZPamdSTFRNY0dlaU10S2pLTHp4WkJra0ZuWXBJa1Q2WVgwSUlaU3FFa0JGWWVKcnF4dlVpbVl3RnFaWXQwbFNqZkFRSHBnQ0NFc2duZ1N2VzJpQnpHbDRCVWU0Y3RiUnpIcG5iYlY0dnNkMHduNmM?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTJLRDYzSEJ5TzlrMlR5RnBZZkNaWGNsOUE2M3cwQ0VhMHZQMk9vUlZPamdSTFRNY0dlaU10S2pLTHp4WkJra0ZuWXBJa1Q2WVgwSUlaU3FFa0JGWWVKcnF4dlVpbVl3RnFaWXQwbFNqZkFRSHBnQ0NFc2duZ1N2VzJpQnpHbDRCVWU0Y3RiUnpIcG5iYlY0dnNkMHduNmM?oc=5\" target=\"",
+  "date": "2026-11-27T15:14:13.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
  },
  {
   "id": "fa911a70c32cfec7",
@@ -97,6 +163,17 @@
   "date": "2026-11-27T14:59:47.000Z",
   "fetched": "2026-11-27T15:03:11.580Z",
   "fromCloud": "2026-11-27T1503.json"
+ },
+ {
+  "id": "1e97202cd0ce4895",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Clifford Chance advises Airbus Atlantic on the acquisition of Grupo MASA - Clifford Chance",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFRBTm5mbUFVNldjSS1KVUhVTHoyN3JyYkJqZnluUFZtcWNFTVE5cXlrcUM0ZTBBdzduX2EwQ2lBUkpsLUhPV0lid2tiUzItN21WQlE1TUFybzhsNlBOTFl6NkFES1I1Z0hEdWs4OEp0TjUtanZDNHZSOVh2TVVpWndsRnhCTmFrUXVjTUF5YnFyZzlRM0hSRUlwdW1rVFdBajV4OHgxTlc5c2FC?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFRBTm5mbUFVNldjSS1KVUhVTHoyN3JyYkJqZnluUFZtcWNFTVE5cXlrcUM0ZTBBdzduX2EwQ2lBUkpsLUhPV0lid2tiUzItN21WQlE1TUFybzhsNlBOTFl6NkFES1I1Z0hEdWs4OEp0TjUtanZDNHZSOVh2TVVpWndsRnhCTmFrUXVjTUF5YnFyZzlRM0hSRUlwdW1rVFdBajV4OHgxTlc5c2",
+  "date": "2026-11-27T14:58:12.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
  },
  {
   "id": "bcb2d0cba791feba",
@@ -174,6 +251,17 @@
   "date": "2026-11-27T14:30:41.000Z",
   "fetched": "2026-11-27T15:03:11.580Z",
   "fromCloud": "2026-11-27T1503.json"
+ },
+ {
+  "id": "67f2ccbfb0dfb230",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "LHV Group's own share acquisition transactions - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXlOcF92SHVKRGxLSU9HRVRvNVhZcWtobTJBckt5Y2RaWmxCRWotTTRjTnVNN2tqQnl5UFFwNmJrYXpIQ1c5UWV5dDNIOHdJdk42XzUyNkVway0zRzNLZm9NRU82MnN4TDZDRk5LaE1nQ0t3UGZXUVFyWTNVdGZqbVJUMDlwZERGRmVlVWdBSzVDTC1Wemg4T3B3ckJRdw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTXlOcF92SHVKRGxLSU9HRVRvNVhZcWtobTJBckt5Y2RaWmxCRWotTTRjTnVNN2tqQnl5UFFwNmJrYXpIQ1c5UWV5dDNIOHdJdk42XzUyNkVway0zRzNLZm9NRU82MnN4TDZDRk5LaE1nQ0t3UGZXUVFyWTNVdGZqbVJUMDlwZERGRmVlVWdBSzVDTC1Wemg4T3B3ckJRdw?oc=5\" target=\"_",
+  "date": "2026-11-27T14:30:00.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
  },
  {
   "id": "5e5681fee65b9925",
@@ -603,6 +691,17 @@
   "date": "2026-11-27T13:13:03.000Z",
   "fetched": "2026-11-27T14:03:11.447Z",
   "fromCloud": "2026-11-27T1403.json"
+ },
+ {
+  "id": "bb251f095a89ad0c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Gulftainer completes acquisition of Bangkok's Suksawat container terminal - Container Management",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1JGQzdDemtnaU1CUDQxd2c5d1V0WFhMbnhUSFpSZllHZjdLX2FWcUFXaS1BaGFUWm4wNktTSXFCV0d4WnJkLU1OMWZNYmhBaEtZT0lsZ0FKamlIYTUtWlJVV0YyaWctRG5MSWpwdGR6Skc4SVJINTd1eGk4MzFOTjROMnNZUE1pWmN5QmszcTZIMjdFVVlwN3NFSWF6dnpFZlh5Yw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1JGQzdDemtnaU1CUDQxd2c5d1V0WFhMbnhUSFpSZllHZjdLX2FWcUFXaS1BaGFUWm4wNktTSXFCV0d4WnJkLU1OMWZNYmhBaEtZT0lsZ0FKamlIYTUtWlJVV0YyaWctRG5MSWpwdGR6Skc4SVJINTd1eGk4MzFOTjROMnNZUE1pWmN5QmszcTZIMjdFVVlwN3NFSWF6dnpFZlh5Yw?oc=5\" t",
+  "date": "2026-11-27T13:10:44.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
  },
  {
   "id": "8b911a0119f9e77a",
@@ -2198,6 +2297,17 @@
   "date": "2026-11-27T10:19:12.000Z",
   "fetched": "2026-11-27T10:33:11.945Z",
   "fromCloud": "2026-11-27T1033.json"
+ },
+ {
+  "id": "097039807ad2e744",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "מניית (פיבי) 763011 - TheMarker Finance",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRfSHNhWER6SHlCbE56RklVQXpTcFFxYjEzZkdQMUZxNWtxd2RmLWVTeG1HMEVjR0Y4RTRucUJmZDdfd25LWjZUNjM5cVpiRjV4Sm5RbXFCVGUyc2J0d202SE40X0l5My1sOXZQOG9mcldSVTRsN0dsR1UtQWcwX093RG9fTkt6NHJRWWM3QWlFNENEZlZXS2RpcDBNd2k3M2tkNXNhd1Zwalo3QWdUN1oyN2VYN3dubEF3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRfSHNhWER6SHlCbE56RklVQXpTcFFxYjEzZkdQMUZxNWtxd2RmLWVTeG1HMEVjR0Y4RTRucUJmZDdfd25LWjZUNjM5cVpiRjV4Sm5RbXFCVGUyc2J0d202SE40X0l5My1sOXZQOG9mcldSVTRsN0dsR1UtQWcwX093RG9fTkt6NHJRWWM3QWlFNENEZlZXS2RpcDBNd2k3M2tkNXNhd1Zwal",
+  "date": "2026-11-27T10:18:37.000Z",
+  "fetched": "2026-11-27T16:03:11.631Z",
+  "fromCloud": "2026-11-27T1603.json"
  },
  {
   "id": "284df8ee29b5c513",
@@ -7357,225 +7467,5 @@
   "date": "2026-11-26T16:07:00.000Z",
   "fetched": "2026-11-26T16:33:11.921Z",
   "fromCloud": "2026-11-26T1633.json"
- },
- {
-  "id": "ca5b28f4707c9f2a",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "כמה כסף יקבל כל אחד ממייסדי דקארט שנמכרה לאמזון?",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001564722#utm_source=RSS",
-  "summary": "השבוע נחשף בגלובס השינוי הדרמטי שעומר אדם מקדם במועדון זאפה לאחר רכישתו. מהו? &#8226; מי רשמו הפסדים של מיליארדים לאחר שג'נסן הואנג חזר לתפקיד מנכ\"ל אנבידיה? &#8226; וגם: מה קרה לשקל מאז הבחירות בישראל? &bull; בואו לבחון את הידע שלכם &bull; החידון הכלכלי של גלובס",
-  "date": "2026-11-26T16:03:00.000Z",
-  "fetched": "2026-11-26T16:33:11.921Z",
-  "fromCloud": "2026-11-26T1633.json"
- },
- {
-  "id": "9fbff36bbebfdde9",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "GE ורנובה ירדה ב-22% מאז בחירות האמצע בארה\"ב - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1paXdWZ1NZSk5jTk5JOUR4UEhNcm1IWkFfMnh2SDg2RnVrOHVuN0lTSnBGMk1RVzl4eWxwVkVWd3NzODRuWU1BWnVpSEJYYXlsc3pTb3cwUkw5U0xlX3lWdWFRY19mc3g1LWp2MXl2dnA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1paXdWZ1NZSk5jTk5JOUR4UEhNcm1IWkFfMnh2SDg2RnVrOHVuN0lTSnBGMk1RVzl4eWxwVkVWd3NzODRuWU1BWnVpSEJYYXlsc3pTb3cwUkw5U0xlX3lWdWFRY19mc3g1LWp2MXl2dnA?oc=5\" target=\"_blank\">GE ורנובה ירדה ב-22% מאז בחירות האמצע בארה\"ב</a>&nbsp;&n",
-  "date": "2026-11-26T16:03:00.000Z",
-  "fetched": "2026-11-26T22:33:12.295Z",
-  "fromCloud": "2026-11-26T2233.json"
- },
- {
-  "id": "5064aafa9cfe8991",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB",
-  "link": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
-  "summary": "Spanish economist is seen as a skilled diplomat with a ‘unique blend of diplomatic finesse and academic rigour’",
-  "date": "2026-11-26T16:02:36.000Z",
-  "fetched": "2026-11-26T16:33:11.921Z",
-  "fromCloud": "2026-11-26T1633.json"
- },
- {
-  "id": "dd06fa74e598892b",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מטר ויש בה מקום ל-4 אנשים. איגניס החשמלית של סוזוקי - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yVkJXNm1SVXVRck8xa0Q4OWxmak5ZV3FRS1lqYmJBTVowNEJudVpralBKdUJLUTJwSXZFV3JRZzM0TnZPUW8tSWFpWUU0VHA3eF9MNUZGdnFSRzRhMGJoSE1lVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yVkJXNm1SVXVRck8xa0Q4OWxmak5ZV3FRS1lqYmJBTVowNEJudVpralBKdUJLUTJwSXZFV3JRZzM0TnZPUW8tSWFpWUU0VHA3eF9MNUZGdnFSRzRhMGJoSE1lVQ?oc=5\" target=\"_blank\">מטר ויש בה מקום ל-4 אנשים. איגניס החשמלית של סוזוקי</a>&nbsp;&nbsp;<font ",
-  "date": "2026-11-26T16:02:00.000Z",
-  "fetched": "2026-11-26T20:17:23.711Z",
-  "fromCloud": "2026-11-26T2017.json"
- },
- {
-  "id": "526670484caf373c",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מניית לי אוטו עלתה 8% בהונג קונג אחרי שההפסד הצטמצם בחצי - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQTF1M2FTLWdCQ0ZXdUF1WEgwVldxMm0tLXhSb0tTM092QW14N2pmZDNBN1BlMklVMFdCalBzTkVTNDVvQ3gyNEhVM1B6aXc3TDBTRW1tU1hYbXhxdmdDLVlza1lBVGpDaFBMWUk4Qlo?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQTF1M2FTLWdCQ0ZXdUF1WEgwVldxMm0tLXhSb0tTM092QW14N2pmZDNBN1BlMklVMFdCalBzTkVTNDVvQ3gyNEhVM1B6aXc3TDBTRW1tU1hYbXhxdmdDLVlza1lBVGpDaFBMWUk4Qlo?oc=5\" target=\"_blank\">מניית לי אוטו עלתה 8% בהונג קונג אחרי שההפסד הצטמצם בחצי",
-  "date": "2026-11-26T16:02:00.000Z",
-  "fetched": "2026-11-26T22:03:12.920Z",
-  "fromCloud": "2026-11-26T2203.json"
- },
- {
-  "id": "c82ee089117b7812",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Empire Petroleum Corporation – MUN:6W8 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUliSzhQMlc2b3lpTlE1S2NTdFZpZF9sNUtSWFBRUFNycjdFUDVXTzBXZ0dyV3dtRXNnRGNkLUYxQWlLYkhocnBvWFJxQi1EQjlYN0dvUTNuT0xvZDJnOF93Qk5TUnE5Q01PLXk5U0FJdWVEdGYyU19BUGh4ZGIxXzNoM3hscmJZRHhvbjFKYkhrZEstYnJZVlRyWmVqeXYyMEt3Mg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUliSzhQMlc2b3lpTlE1S2NTdFZpZF9sNUtSWFBRUFNycjdFUDVXTzBXZ0dyV3dtRXNnRGNkLUYxQWlLYkhocnBvWFJxQi1EQjlYN0dvUTNuT0xvZDJnOF93Qk5TUnE5Q01PLXk5U0FJdWVEdGYyU19BUGh4ZGIxXzNoM3hscmJZRHhvbjFKYkhrZEstYnJZVlRyWmVqeXYyMEt3Mg?oc=5\" t",
-  "date": "2026-11-26T15:59:13.000Z",
-  "fetched": "2026-11-26T18:33:10.891Z",
-  "fromCloud": "2026-11-26T1833.json"
- },
- {
-  "id": "66039365b205bed1",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "PPC signs major acquisition deals in Romania, Italy - Balkan Green Energy News",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaFlHY1laX2RrMEVsTFl6MWJaaHg4SjZhVDNrdmRFQkNuVExkNVdGOS1zaGNvNHZIU1RDWUJVMWxKUHpCWkVLVjQzcUtqbTNjREVxYzBwTUREaEJwdnlscmZPVW9uMjZsUkJBVGVtUF9KSk4wMHBvak9NYy1hNXhtRkJvY1E0NWxOMWZpbURR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOaFlHY1laX2RrMEVsTFl6MWJaaHg4SjZhVDNrdmRFQkNuVExkNVdGOS1zaGNvNHZIU1RDWUJVMWxKUHpCWkVLVjQzcUtqbTNjREVxYzBwTUREaEJwdnlscmZPVW9uMjZsUkJBVGVtUF9KSk4wMHBvak9NYy1hNXhtRkJvY1E0NWxOMWZpbURR?oc=5\" target=\"_blank\">PPC signs major",
-  "date": "2026-11-26T15:58:00.000Z",
-  "fetched": "2026-11-26T16:03:12.561Z",
-  "fromCloud": "2026-11-26T1603.json"
- },
- {
-  "id": "bbe73e1afe5b73ed",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Israeli startup turns to AI to tackle shortage of specialists in spinal surgery - www.calcalistech.com",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96eVZpcDFYTHJWbHJRRFlJOTE0Y3VkeTk0MEYwZkNITm5JRnJmNG1YMUN3TmRNbGJ2VDF3cVY1UjYxZVpPSUx4enpBLVBmQmt4SWVaejAyRkc3WDcxWlFVb2ZiRGdQdGF1?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE96eVZpcDFYTHJWbHJRRFlJOTE0Y3VkeTk0MEYwZkNITm5JRnJmNG1YMUN3TmRNbGJ2VDF3cVY1UjYxZVpPSUx4enpBLVBmQmt4SWVaejAyRkc3WDcxWlFVb2ZiRGdQdGF1?oc=5\" target=\"_blank\">Israeli startup turns to AI to tackle shortage of specialists in sp",
-  "date": "2026-11-26T15:51:00.000Z",
-  "fetched": "2026-11-26T16:03:12.561Z",
-  "fromCloud": "2026-11-26T1603.json"
- },
- {
-  "id": "281ba9501a36b1ad",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "האנליסטים מסבירים מה עומד מאחורי הזינוק בבורסה",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001565276#utm_source=RSS",
-  "summary": "המגעים לקואליציה, ההיפוך אמש בנאסד\"ק ותמחור הפחתת הריבית הזניקו את ת\"א 90 ליום החזק מאז שיא הקורונה &#8226; בלאומי, דיסקונט וברק פיננסים מנתחים את הראלי - ומזהירים מפני \"אפקט אינרציה\" ותגובות יתר",
-  "date": "2026-11-26T15:50:00.000Z",
-  "fetched": "2026-11-26T16:33:11.921Z",
-  "fromCloud": "2026-11-26T1633.json"
- },
- {
-  "id": "4e5803dd357f6f43",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "JAB Acquisition Corp I Earnings and Revenue – NASDAQ:ATLQW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoZzdNMEctR3lkVzBtbkZudlpPcWs0WWFyeTVrYnZTOTEzMnJ0VTFWaVZQSnp1eGRVbG9ibm5OR285Tkl4SUhzektNbU95dGRLUmJiZVkzaXAxNjdTRzRLVzNmT1V3STN2RDE2eU45X0lmQ0JRdkRERg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBoZzdNMEctR3lkVzBtbkZudlpPcWs0WWFyeTVrYnZTOTEzMnJ0VTFWaVZQSnp1eGRVbG9ibm5OR285Tkl4SUhzektNbU95dGRLUmJiZVkzaXAxNjdTRzRLVzNmT1V3STN2RDE2eU45X0lmQ0JRdkRERg?oc=5\" target=\"_blank\">JAB Acquisition Corp I Earnings and Revenue –",
-  "date": "2026-11-26T15:49:55.000Z",
-  "fetched": "2026-11-26T18:03:14.008Z",
-  "fromCloud": "2026-11-26T1803.json"
- },
- {
-  "id": "77f1e43c06c81829",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מאפס ל-195 מיליון שקל: המתנה שכנפיים קיבלה באל על - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cmlnRFRzZm9aUlE0QXRGQXlRMWR3WXJwMWhFWHZHTWNnS2EtN2VJcE9OSVBQSTZZTHhjWVMwM2p1YXdMLXVyemlrZzR3Vm1qY29idnRVaWNZbFB6Q3lXdktKX1NBX2lUekZZSUNuYS0?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE51cmlnRFRzZm9aUlE0QXRGQXlRMWR3WXJwMWhFWHZHTWNnS2EtN2VJcE9OSVBQSTZZTHhjWVMwM2p1YXdMLXVyemlrZzR3Vm1qY29idnRVaWNZbFB6Q3lXdktKX1NBX2lUekZZSUNuYS0?oc=5\" target=\"_blank\">מאפס ל-195 מיליון שקל: המתנה שכנפיים קיבלה באל על</a>&nb",
-  "date": "2026-11-26T15:48:00.000Z",
-  "fetched": "2026-11-26T18:03:14.008Z",
-  "fromCloud": "2026-11-26T1803.json"
- },
- {
-  "id": "2b78066c6f144f3c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Irish High Court Blocks BAWAG's €1.6B Acquisition of Permanent TSB - Global Banking & Finance Review",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHluOFZWYXRyOWhsTGFraWs1TWhTUzZFMVNsb1NzTTMzb0RRYm9EZ05LSWZKWExtbDlIbGdnWmU5d2YxZ2c3b1ZuYU5uOTQ2QTBsMmF6NnBRZzFuMkdRVlowX0FFeXlKYVh4Q2dOeVZROGltU0lHaGtoV3RsNEthNWRBZk1qWHVDTG5LUGFudnQtTkdKcXBZ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHluOFZWYXRyOWhsTGFraWs1TWhTUzZFMVNsb1NzTTMzb0RRYm9EZ05LSWZKWExtbDlIbGdnWmU5d2YxZ2c3b1ZuYU5uOTQ2QTBsMmF6NnBRZzFuMkdRVlowX0FFeXlKYVh4Q2dOeVZROGltU0lHaGtoV3RsNEthNWRBZk1qWHVDTG5LUGFudnQtTkdKcXBZ?oc=5\" target=\"_blank\">Iri",
-  "date": "2026-11-26T15:45:00.000Z",
-  "fetched": "2026-11-26T17:33:10.674Z",
-  "fromCloud": "2026-11-26T1733.json"
- },
- {
-  "id": "d8cc50a57fdf152c",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Israel and U.S. test new ways to stop drones after battlefield defenses come under pressure - CTech",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WZmIzenRObUdEY0trWWZodDIzbGtPSG1ON2QwVWFkQ0U1NjgwQXhyNUQxcWwwRjFSZnc4QkQwaXBDZUM4VDRNd0VwVmdOZkFTZGViSGhNRzVkWEZnckd5LVZEUkl6Y1Fh?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WZmIzenRObUdEY0trWWZodDIzbGtPSG1ON2QwVWFkQ0U1NjgwQXhyNUQxcWwwRjFSZnc4QkQwaXBDZUM4VDRNd0VwVmdOZkFTZGViSGhNRzVkWEZnckd5LVZEUkl6Y1Fh?oc=5\" target=\"_blank\">Israel and U.S. test new ways to stop drones after battlefield defe",
-  "date": "2026-11-26T15:43:00.000Z",
-  "fetched": "2026-11-26T16:03:12.561Z",
-  "fromCloud": "2026-11-26T1603.json"
- },
- {
-  "id": "29c84fba9e62fd22",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "ESAB Corporation’s (ESAB) Solid Organic Growth Offset by Margin Pressure and Acquisition Investment Costs - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLU1mUW0yUEpRLVNhTWtwd3FESUpia1FLVmhaYm9ROUd3WnZEMjNHT3RkaHRNTVpwOTc1MUgxSVVrRXF4SU1lLXNGUnhGb1VVS2c5ZnFINEVIR2RMQjIxTFdmQ0xFRldkWkJXeXdFaHFCUkcyQTNVZHFTcW9PYkVIUmRLenM2eXIxaHRJMVJQNXBadVRDa1JRNXdsekEwY2x1QUE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPLU1mUW0yUEpRLVNhTWtwd3FESUpia1FLVmhaYm9ROUd3WnZEMjNHT3RkaHRNTVpwOTc1MUgxSVVrRXF4SU1lLXNGUnhGb1VVS2c5ZnFINEVIR2RMQjIxTFdmQ0xFRldkWkJXeXdFaHFCUkcyQTNVZHFTcW9PYkVIUmRLenM2eXIxaHRJMVJQNXBadVRDa1JRNXdsekEwY2x1QUE?oc=5\" targ",
-  "date": "2026-11-26T15:42:35.000Z",
-  "fetched": "2026-11-26T16:33:11.921Z",
-  "fromCloud": "2026-11-26T1633.json"
- },
- {
-  "id": "a7e52eadda99e0eb",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow of Tortoise Energy Infrastructure Corporation – NASDAQ:XTYGX - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3RyYTNncXhDRjRBZVpfb1BZZnBUMWMwa0M4ZjdKbnphaDB5ZHNFT2ZBd3BGREtCU3BpR3FXTXZyUTR6d3pMU2xJd0dLMXZwYXZfam1oZ1E1cEx0T2pWWk1NcWlmUUc5SzgyOTNDV2xfclNCWTZwQ2VzWXVyU3oxZXRmSllQMEtoT2xYdWx3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3RyYTNncXhDRjRBZVpfb1BZZnBUMWMwa0M4ZjdKbnphaDB5ZHNFT2ZBd3BGREtCU3BpR3FXTXZyUTR6d3pMU2xJd0dLMXZwYXZfam1oZ1E1cEx0T2pWWk1NcWlmUUc5SzgyOTNDV2xfclNCWTZwQ2VzWXVyU3oxZXRmSllQMEtoT2xYdWx3?oc=5\" target=\"_blank\">Free cash flow ",
-  "date": "2026-11-26T15:41:52.000Z",
-  "fetched": "2026-11-26T18:03:14.008Z",
-  "fromCloud": "2026-11-26T1803.json"
- },
- {
-  "id": "bc778422bb62ce33",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "\"מלחמה שקטה\" אוחזת באיראן בעוד כלכלתה מתקשה לעמוד בלחצי המצור האמריקאי",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001565125#utm_source=RSS",
-  "summary": "הקיצוץ בסבסוד הדלק והמזון מגביר את הלחץ על הציבור האיראני ומבליט את המחלוקות הפוליטיות בתוך המדינה",
-  "date": "2026-11-26T15:41:00.000Z",
-  "fetched": "2026-11-26T16:03:12.561Z",
-  "fromCloud": "2026-11-26T1603.json"
- },
- {
-  "id": "6e42f6a537ffa166",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Pretax income of JAB Acquisition Corp I – NASDAQ:ATLQW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFc2S0huWmROMTQ5OVZRekpucVdyT3lyb3J1UFlWbkpPbTJiZncyVFptZC16a3pJd1ZIUy1ydDlybFplYVpCbnR0aVUyaUw5RXpROXlYY2hqbDZhd0RqbkI3VUJtSzRiNUkzMFpSOGxxLW1VRHhESVh6VzFjR2lYNWJhTTZkWXhoVFoyajBkM0hjXzVzTmc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFc2S0huWmROMTQ5OVZRekpucVdyT3lyb3J1UFlWbkpPbTJiZncyVFptZC16a3pJd1ZIUy1ydDlybFplYVpCbnR0aVUyaUw5RXpROXlYY2hqbDZhd0RqbkI3VUJtSzRiNUkzMFpSOGxxLW1VRHhESVh6VzFjR2lYNWJhTTZkWXhoVFoyajBkM0hjXzVzTmc?oc=5\" target=\"_blank\">Pret",
-  "date": "2026-11-26T15:38:36.000Z",
-  "fetched": "2026-11-26T18:33:10.891Z",
-  "fromCloud": "2026-11-26T1833.json"
- },
- {
-  "id": "877b872f889fb156",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "הונאה ממבט ראשון: הסרט על אליזבת הולמס מערער את כל מה שחשבנו על האמת - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0NDRxUkZ0NVVFbzhnOHBySFZOOGNTTEpvbm9JMGZlb2NmNDlmdGd1djF3TXByNDltZ2FWUTllbTY4YlVmak1DUVZRLUdNMEhhZDJaUVlyV1ZNaTM4Zk1vaEJR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0NDRxUkZ0NVVFbzhnOHBySFZOOGNTTEpvbm9JMGZlb2NmNDlmdGd1djF3TXByNDltZ2FWUTllbTY4YlVmak1DUVZRLUdNMEhhZDJaUVlyV1ZNaTM4Zk1vaEJR?oc=5\" target=\"_blank\">הונאה ממבט ראשון: הסרט על אליזבת הולמס מערער את כל מה שחשבנו על האמת</a>&nb",
-  "date": "2026-11-26T15:37:00.000Z",
-  "fetched": "2026-11-26T16:03:12.561Z",
-  "fromCloud": "2026-11-26T1603.json"
- },
- {
-  "id": "d50196314e5eaa46",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Taxes of JAB Acquisition Corp I – NASDAQ:ATLQW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFFPbUtaU0hDSHIyZHFvbFQ1N0lLaVBMY2FXVkVweXhiQnc5WUFiRy14VE5SRnQzMEdJODVmc1lSUExURGtWaUVPbEJwUlFjZzhGdlBjTjgyNzBMM0psa081eXhybzUtU3NCaF9rTGpIc05PVmdxOXpCS1NvMDB0bDduaFhFbzhTaVhuVEtqcXNJZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFFPbUtaU0hDSHIyZHFvbFQ1N0lLaVBMY2FXVkVweXhiQnc5WUFiRy14VE5SRnQzMEdJODVmc1lSUExURGtWaUVPbEJwUlFjZzhGdlBjTjgyNzBMM0psa081eXhybzUtU3NCaF9rTGpIc05PVmdxOXpCS1NvMDB0bDduaFhFbzhTaVhuVEtqcXNJZw?oc=5\" target=\"_blank\">Taxes of ",
-  "date": "2026-11-26T15:34:32.000Z",
-  "fetched": "2026-11-26T18:33:10.891Z",
-  "fromCloud": "2026-11-26T1833.json"
- },
- {
-  "id": "1613e1c0e058dc3f",
-  "source": "Calcalist Tech (Google News)",
-  "group": "israel-press",
-  "title": "Israeli chipmaker Altair raises $100 million to connect the next generation of AI devices - www.calcalistech.com",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12bldreE1tekVTeW1lM00tUE1kUzRTcUFiSHdkWExiVkNCcHozLVg0VndTNENqUUxDVXozRW5sNVlvZlFjbHh1YmFPMWpacTVKcGlqd0dtNGFMX0FhaVJIcURfamhXT1k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12bldreE1tekVTeW1lM00tUE1kUzRTcUFiSHdkWExiVkNCcHozLVg0VndTNENqUUxDVXozRW5sNVlvZlFjbHh1YmFPMWpacTVKcGlqd0dtNGFMX0FhaVJIcURfamhXT1k?oc=5\" target=\"_blank\">Israeli chipmaker Altair raises $100 million to connect the next gen",
-  "date": "2026-11-26T15:34:00.000Z",
-  "fetched": "2026-11-26T16:03:12.561Z",
-  "fromCloud": "2026-11-26T1603.json"
  }
 ]
