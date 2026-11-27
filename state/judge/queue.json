@@ -209,6 +209,17 @@
   "fromCloud": "2026-11-27T2203.json"
  },
  {
+  "id": "d4e69959219e6a92",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - 60 DEGREES PHARMACEUTICALS, INC. (0001946563) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1946563/000121390026124592/0001213900-26-124592-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001213900-26-124592 <b>Size:</b> 243 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing <br>Item 7.01: Regulation FD Disclosure",
+  "date": "2026-11-27T21:39:18.000Z",
+  "fetched": "2026-11-27T23:03:20.071Z",
+  "fromCloud": "2026-11-27T2303.json"
+ },
+ {
   "id": "b8795b96cd679c0a",
   "source": "SEC EDGAR 8-K",
   "group": "filings",
@@ -7346,71 +7357,5 @@
   "date": "2026-11-26T23:04:04.000Z",
   "fetched": "2026-11-27T03:03:10.469Z",
   "fromCloud": "2026-11-27T0303.json"
- },
- {
-  "id": "e52230aee1edf9c6",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "אימפריאל ברנדס - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdwbEhUQ2NqeXl5N2hHbldQOE1RMkd6MXhpZTBWTkdOQWJrOHFqOGpzTUtiQm8xRHYwZ3FsMzFUOWhjOHlHcG55MlJjUnRsY08yTnJZNE5yYXZWTFRVck13cDdQbkwxOHdJRTIwaFNrYngyZms2QXQ3Rm5OazRHaVJkVUt0V3ZJT085M3Q5NFoxWGROWnFxdUxIaGZtemN0d0VIZkJ6RjBwaVFLM2dNS3h3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdwbEhUQ2NqeXl5N2hHbldQOE1RMkd6MXhpZTBWTkdOQWJrOHFqOGpzTUtiQm8xRHYwZ3FsMzFUOWhjOHlHcG55MlJjUnRsY08yTnJZNE5yYXZWTFRVck13cDdQbkwxOHdJRTIwaFNrYngyZms2QXQ3Rm5OazRHaVJkVUt0V3ZJT085M3Q5NFoxWGROWnFxdUxIaGZtemN0d0VIZkJ6RjBwaV",
-  "date": "2026-11-26T23:01:52.000Z",
-  "fetched": "2026-11-27T01:03:13.182Z",
-  "fromCloud": "2026-11-27T0103.json"
- },
- {
-  "id": "a9684ebd1f706803",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Bell AI Fabric Undervalued In BCE (NYSE: BCE) Share Price, CFO Says As Contracted Capacity Hits 335 Megawatts - Foreign Policy Journal",
-  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbkpwZU1FY1ZVRUNLRzYzT3lwWlIzVTV3Y0VrcHBFWW0xSUlwbXdnYXBnRUdPWUtTQmRqd3dXQ1RTWF83bE9VNkVRVnJ4ZkhXOG5zVURTQndnRGM3ZmxfTWh5Y054Zm5raGlRRTYwWUx4VlQ0MHZEUS1XWHlyOHhraC1acndIclg0T0pVbTFCOGxCRmM2Wk1oUllmWGpiNnQ1SHpmOHNiVXlIUkNtSnp2VGZ6VUU1a3NqeEtxeEs5Y1AzU1NpY0U1ODQ2Q2tpTVA0QnZRNWF2ektBcExYNzRFOVI3ZDA4Rm96dmc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbkpwZU1FY1ZVRUNLRzYzT3lwWlIzVTV3Y0VrcHBFWW0xSUlwbXdnYXBnRUdPWUtTQmRqd3dXQ1RTWF83bE9VNkVRVnJ4ZkhXOG5zVURTQndnRGM3ZmxfTWh5Y054Zm5raGlRRTYwWUx4VlQ0MHZEUS1XWHlyOHhraC1acndIclg0T0pVbTFCOGxCRmM2Wk1oUllmWGpiNnQ1SHpmOHNiVXlIUk",
-  "date": "2026-11-26T23:00:00.000Z",
-  "fetched": "2026-11-26T23:33:11.693Z",
-  "fromCloud": "2026-11-26T2333.json"
- },
- {
-  "id": "b716bd1f1d7c008f",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "בדידות שנמשכת שנים נקשרה לסיכון גבוה ב-38% לדמנציה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KRE1BczdDcko5Ukw5clR4UzN2Q1pJYThNRVh1R1RhdmtFNV92aENkZktfNnE0ejRONm1fQ21rWjNtTVlYQjI0VG5vbVRFdjBaUnNSU0RzUWpGbXdiekhQNW9UeW02ZG9k?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KRE1BczdDcko5Ukw5clR4UzN2Q1pJYThNRVh1R1RhdmtFNV92aENkZktfNnE0ejRONm1fQ21rWjNtTVlYQjI0VG5vbVRFdjBaUnNSU0RzUWpGbXdiekhQNW9UeW02ZG9k?oc=5\" target=\"_blank\">בדידות שנמשכת שנים נקשרה לסיכון גבוה ב-38% לדמנציה</a>&nbsp;&nbsp;<",
-  "date": "2026-11-26T22:59:00.000Z",
-  "fetched": "2026-11-27T07:33:11.087Z",
-  "fromCloud": "2026-11-27T0733.json"
- },
- {
-  "id": "49b928d91cad31e5",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Remix Therapeutics, Inc. – NASDAQ:RMTX - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSm5NdjFRZy1CY05ISjdrTWtvVmxvZ21hLXlMWWVkQ2Z6WlFCX2g5UWJKR2ZIM1JUTG1lLU5YdjVrZkZMelpBdi1vTTFuNFBWek9tUUtPaGFvbGs3N25sSFFhWVZ1MGdyN0MtUUVVVHplcEVBaWk5c1hlNDMweElTcFltNHF5c29kckZsN0dJWnUtRGJPRkpGOFJFTzROT1hZTEdVQzFTNHFOZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSm5NdjFRZy1CY05ISjdrTWtvVmxvZ21hLXlMWWVkQ2Z6WlFCX2g5UWJKR2ZIM1JUTG1lLU5YdjVrZkZMelpBdi1vTTFuNFBWek9tUUtPaGFvbGs3N25sSFFhWVZ1MGdyN0MtUUVVVHplcEVBaWk5c1hlNDMweElTcFltNHF5c29kckZsN0dJWnUtRGJPRkpGOFJFTzROT1hZTEdVQzFTNHFOZw",
-  "date": "2026-11-26T22:56:45.000Z",
-  "fetched": "2026-11-27T00:33:24.134Z",
-  "fromCloud": "2026-11-27T0033.json"
- },
- {
-  "id": "e68aad2ed90a1800",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of BBI Development SA – GPW:BBD_C - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakt3eVJOeXFXLWxtZzZFOW1ZM2NvLXZfVVROdWpxV1BUQmltZ1FKSmc4eTFCRFZvMExTTmc2eVRRWUdOX2YyTG1CaDN3Q25sQm5JNC16U1E1dU1QSzhKX05sb0RqYnlXMmhsQ3dxN2x3UWhaWXFSMmRQTGM4UWh6NmRuaTZJcUVIb1p4eFlBVmFHU2RpV1FkblphVERmRDJoVU9KWW84bw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNakt3eVJOeXFXLWxtZzZFOW1ZM2NvLXZfVVROdWpxV1BUQmltZ1FKSmc4eTFCRFZvMExTTmc2eVRRWUdOX2YyTG1CaDN3Q25sQm5JNC16U1E1dU1QSzhKX05sb0RqYnlXMmhsQ3dxN2x3UWhaWXFSMmRQTGM4UWh6NmRuaTZJcUVIb1p4eFlBVmFHU2RpV1FkblphVERmRDJoVU9KWW84bw?oc=",
-  "date": "2026-11-26T22:49:50.000Z",
-  "fetched": "2026-11-27T00:03:10.633Z",
-  "fromCloud": "2026-11-27T0003.json"
- },
- {
-  "id": "2ca74ff4d91e4940",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "בעקבות הסגרת הבחורים: מפגינים חוסמים צירים בנתב\"ג - אמס",
-  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oMm5HVDB0NXh5emFFemVaZzJiN013a1kwX3NNeHJNVzhUaEFXWHR5c0NvOXdpbEl2Y0cyNE10dEVIckRaRnp3OWZoQzR4QQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oMm5HVDB0NXh5emFFemVaZzJiN013a1kwX3NNeHJNVzhUaEFXWHR5c0NvOXdpbEl2Y0cyNE10dEVIckRaRnp3OWZoQzR4QQ?oc=5\" target=\"_blank\">בעקבות הסגרת הבחורים: מפגינים חוסמים צירים בנתב\"ג</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</font>",
-  "date": "2026-11-26T22:34:05.000Z",
-  "fetched": "2026-11-27T19:03:12.829Z",
-  "fromCloud": "2026-11-27T1903.json"
  }
 ]
