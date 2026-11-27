@@ -1,5 +1,60 @@
 [
  {
+  "id": "2b5770c2266555f9",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Propanc Biopharma, Inc. (0001517681) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1517681/000149315226054492/0001493152-26-054492-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001493152-26-054492 <b>Size:</b> 1 MB <br>Item 1.01: Entry into a Material Definitive Agreement <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 3.02: ",
+  "date": "2026-11-27T21:01:33.000Z",
+  "fetched": "2026-11-27T21:03:11.365Z",
+  "fromCloud": "2026-11-27T2103.json"
+ },
+ {
+  "id": "94bbd72be475154b",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Interactive Strength, Inc. (0001785056) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1785056/000119312526480235/0001193125-26-480235-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001193125-26-480235 <b>Size:</b> 158 KB <br>Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; App",
+  "date": "2026-11-27T21:00:39.000Z",
+  "fetched": "2026-11-27T21:03:11.365Z",
+  "fromCloud": "2026-11-27T2103.json"
+ },
+ {
+  "id": "e7c93f7ada064bfc",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "MDA Space closes Blue Canyon Technologies acquisition, creating MDA Space USA - SpaceQ",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00OXBQeFdyX0R0WDBrLXNFNVU5Q1lpSmdoRUxuMXREU3BXRlNaMUM5b2czb2JjMHgzOVVsODNGZVp1RDlqRUNYYUhhZkZ3TkJSZmVFMm1xRkRaWi15aWdxdDdoTV9lNW1TdkdKS09mS21na1lacDJEbU5JOUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE00OXBQeFdyX0R0WDBrLXNFNVU5Q1lpSmdoRUxuMXREU3BXRlNaMUM5b2czb2JjMHgzOVVsODNGZVp1RDlqRUNYYUhhZkZ3TkJSZmVFMm1xRkRaWi15aWdxdDdoTV9lNW1TdkdKS09mS21na1lacDJEbU5JOUQ?oc=5\" target=\"_blank\">MDA Space closes Blue Canyon Technologie",
+  "date": "2026-11-27T20:58:03.000Z",
+  "fetched": "2026-11-27T21:03:11.365Z",
+  "fromCloud": "2026-11-27T2103.json"
+ },
+ {
+  "id": "1d3c07fcfaa8b424",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Federal Home Loan Bank of New York (0001329842) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426010172/0001654954-26-010172-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001654954-26-010172 <b>Size:</b> 170 KB <br>Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-27T20:54:41.000Z",
+  "fetched": "2026-11-27T21:03:11.365Z",
+  "fromCloud": "2026-11-27T2103.json"
+ },
+ {
+  "id": "6b93d459c184947d",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "הקרב נמשך: OpenAI תובעת את אפל על גניבת סודות מסחריים - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDX1RKTWgzUl9sWlZaWUZ4M3c5Rjk0c0FRWGxiaHoxbWVfTjhTVUNFckZsM3F0b01ac05rVGpEZWVQcEJQY0llVmdFd3RpNzBsOTJXTTlRQ3EtUllnSFFheXBHcktvYzVpNkc5Qw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBDX1RKTWgzUl9sWlZaWUZ4M3c5Rjk0c0FRWGxiaHoxbWVfTjhTVUNFckZsM3F0b01ac05rVGpEZWVQcEJQY0llVmdFd3RpNzBsOTJXTTlRQ3EtUllnSFFheXBHcktvYzVpNkc5Qw?oc=5\" target=\"_blank\">הקרב נמשך: OpenAI תובעת את אפל על גניבת סודות מסחריים</a>&nbs",
+  "date": "2026-11-27T20:37:00.000Z",
+  "fetched": "2026-11-27T21:03:11.365Z",
+  "fromCloud": "2026-11-27T2103.json"
+ },
+ {
   "id": "fed4be358e0eef32",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +64,28 @@
   "date": "2026-11-27T20:26:48.000Z",
   "fetched": "2026-11-27T20:33:11.826Z",
   "fromCloud": "2026-11-27T2033.json"
+ },
+ {
+  "id": "f1bf053336ab349a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tla’amin Nation acquisition gains U.S.$64 million federal loan guarantee backing in British Columbia forestry - Traders Union",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWNCUG51R2lJckw4TDBtTUszOGxWTWJDd28wRFFfMUN5d0Jmb29jcGlJT1QzSm9jb0RSUm13cldIdXBWdVNRWU5Fbmd3OHVXWktMVFBqd19CQXNMbEVuSTRKY3FESXFMMGJYRUVZQmdkd0tEeE92cWFWRU1fZVQ2aVJxUHA5NjlRblVsRHRDZjVhR2R4RUNJSjhGc2wwb28y?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWNCUG51R2lJckw4TDBtTUszOGxWTWJDd28wRFFfMUN5d0Jmb29jcGlJT1QzSm9jb0RSUm13cldIdXBWdVNRWU5Fbmd3OHVXWktMVFBqd19CQXNMbEVuSTRKY3FESXFMMGJYRUVZQmdkd0tEeE92cWFWRU1fZVQ2aVJxUHA5NjlRblVsRHRDZjVhR2R4RUNJSjhGc2wwb28y?oc=5\" target=",
+  "date": "2026-11-27T20:22:40.000Z",
+  "fetched": "2026-11-27T21:03:11.365Z",
+  "fromCloud": "2026-11-27T2103.json"
+ },
+ {
+  "id": "565aa6fea23fa98d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Form 4 Bank of N.T. Butterfield & Son Ltd: Michael Schrum (CFO) For: 25 November - Investing.com Australia",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMVg4OV9KZTRXVzBmR1FlM1RYRHJHZk9leHB3dC1VakZVcEZRRzJuSEZxNWMzZWE3ZUxROVRUY2Z1Wk1mSy1nRTc3Y0JEOUpwSVJNejh1UmFiWERkWGRIMlFmLXp1OFRwaWNJYTdoUFQ4WHB6VjgtVnJ4cGxWOEpxR2lUVDZJZW4wMXJid0Q0SFZ2ck5oWXVwTDhRejVKNXdvejJCdlFSRXIxTUduVURCZVBneGs2M3JndklRUnducmJTSWExVnJRY3pUQjNIZGs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOMVg4OV9KZTRXVzBmR1FlM1RYRHJHZk9leHB3dC1VakZVcEZRRzJuSEZxNWMzZWE3ZUxROVRUY2Z1Wk1mSy1nRTc3Y0JEOUpwSVJNejh1UmFiWERkWGRIMlFmLXp1OFRwaWNJYTdoUFQ4WHB6VjgtVnJ4cGxWOEpxR2lUVDZJZW4wMXJid0Q0SFZ2ck5oWXVwTDhRejVKNXdvejJCdlFSRXIxTU",
+  "date": "2026-11-27T20:20:08.000Z",
+  "fetched": "2026-11-27T21:03:11.365Z",
+  "fromCloud": "2026-11-27T2103.json"
  },
  {
   "id": "c57ec78acc15d109",
@@ -196,6 +273,17 @@
   "date": "2026-11-27T19:05:49.000Z",
   "fetched": "2026-11-27T20:33:11.826Z",
   "fromCloud": "2026-11-27T2033.json"
+ },
+ {
+  "id": "586d7367854c7e1f",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Tim Hodgson Touts Support for Tla’amin Nation’s Acquisition of Forestry Op - CPAC",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZUdnVDh6ZkJCMnVVMFV3NGt1SFlFUDNsSkNHZW8yckNmLVBDZHpfWXdiRWZyOEw1VGZWTFZrQmF6Q0lYWE1mcFFXejljWVJ6TUZNbUNqTnNyOWw0V09ZN1BaR05HOFd0Y0loQnYtMGRNNnZucnJucDJRcE9kTG14Zkh5aVAtU08wd014UUFYODNWWUNkWjNWSHh1VC1SWllnSHJNV3FLS0V6d09CLVNHRXlPNHpCek1nTUIxNkp6Y2RlM1hNUW5iYUNhS1ZLLVdBckhndE1YckZmd1hmckZ0NnJuZVU2MnlMbGV2UVZRUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZUdnVDh6ZkJCMnVVMFV3NGt1SFlFUDNsSkNHZW8yckNmLVBDZHpfWXdiRWZyOEw1VGZWTFZrQmF6Q0lYWE1mcFFXejljWVJ6TUZNbUNqTnNyOWw0V09ZN1BaR05HOFd0Y0loQnYtMGRNNnZucnJucDJRcE9kTG14Zkh5aVAtU08wd014UUFYODNWWUNkWjNWSHh1VC1SWllnSHJNV3FLS0V6d0",
+  "date": "2026-11-27T19:05:22.000Z",
+  "fetched": "2026-11-27T21:03:11.365Z",
+  "fromCloud": "2026-11-27T2103.json"
  },
  {
   "id": "84904d15fb2ab6c2",
@@ -1373,6 +1461,17 @@
   "date": "2026-11-27T14:39:56.000Z",
   "fetched": "2026-11-27T16:33:11.095Z",
   "fromCloud": "2026-11-27T1633.json"
+ },
+ {
+  "id": "4c4f68a907adadb1",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "VA Says It Knew Oracle EHR Was Not Fully Section 508-Compliant at Acquisition - MeriTalk",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbExVeW1qR2JNeWhlc1daY1FUTWhTVFBiYU92V0toNG1rdXVyZmtwRUlUYjlPUHNfcmJDdWN1N3VpdlJJZW5qMDBGV2YtYkdBTzVkWVZEZnhtalEzUnlCUEVFVVZEVHhMUEJCUzh6VkRWZEtNelkzb1dCdkhuUlh3UDQ5UHZXVU1uV1lBNlVYa0NNN0J6TVpuaGpkRU4tWlhjNDZranpTYkJodEMtWUMxbkFR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbExVeW1qR2JNeWhlc1daY1FUTWhTVFBiYU92V0toNG1rdXVyZmtwRUlUYjlPUHNfcmJDdWN1N3VpdlJJZW5qMDBGV2YtYkdBTzVkWVZEZnhtalEzUnlCUEVFVVZEVHhMUEJCUzh6VkRWZEtNelkzb1dCdkhuUlh3UDQ5UHZXVU1uV1lBNlVYa0NNN0J6TVpuaGpkRU4tWlhjNDZranpTYkJodE",
+  "date": "2026-11-27T14:33:16.000Z",
+  "fetched": "2026-11-27T21:03:11.365Z",
+  "fromCloud": "2026-11-27T2103.json"
  },
  {
   "id": "d51ec5b6af4a3f0a",
@@ -7027,82 +7126,5 @@
   "date": "2026-11-26T21:03:36.000Z",
   "fetched": "2026-11-26T23:03:12.240Z",
   "fromCloud": "2026-11-26T2303.json"
- },
- {
-  "id": "1eded40579b3e6c1",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "מכבי אימפריה - ראשון לציון 2026 - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFhBay10WnRPTXoyZktyd3hsTXFHMVE0WUJweTZUSTM2ZFNYT3BmbHRwa3A2LWlOcVZQaTVweWRjdVRxS2N5SlNMZi1naFdiWHNSbFhVNlJTeHhTYnM0WmduR1llbHhRVEpEN1kzX3lDZ3pCQmQwbmFNQU5TY2k5Zjl0WkNOLWQyNXJYSkF0LXlINVdHSWQ2OXp1LW9ZX3NLb0cwckVVUGV3cGM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFhBay10WnRPTXoyZktyd3hsTXFHMVE0WUJweTZUSTM2ZFNYT3BmbHRwa3A2LWlOcVZQaTVweWRjdVRxS2N5SlNMZi1naFdiWHNSbFhVNlJTeHhTYnM0WmduR1llbHhRVEpEN1kzX3lDZ3pCQmQwbmFNQU5TY2k5Zjl0WkNOLWQyNXJYSkF0LXlINVdHSWQ2OXp1LW9ZX3NLb0cwckVVUGV3cG",
-  "date": "2026-11-26T20:57:00.000Z",
-  "fetched": "2026-11-26T22:33:12.295Z",
-  "fromCloud": "2026-11-26T2233.json"
- },
- {
-  "id": "2ae0cf8359e26e1b",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "לקראת מו\"מ פומבי עם איזנקוט: מרנן ראשי הישיבה נועדו - אמס",
-  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hLWRmNHk1Q1ZFMmxtRldNMHZVVnJfd25SdjdIYjB2VzNwbVFTSkI5WHBtM2lsRnFxUjgxNEl1VjM3eHZweWJWSTc4QjZUdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hLWRmNHk1Q1ZFMmxtRldNMHZVVnJfd25SdjdIYjB2VzNwbVFTSkI5WHBtM2lsRnFxUjgxNEl1VjM3eHZweWJWSTc4QjZUdw?oc=5\" target=\"_blank\">לקראת מו\"מ פומבי עם איזנקוט: מרנן ראשי הישיבה נועדו</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</font>",
-  "date": "2026-11-26T20:56:02.000Z",
-  "fetched": "2026-11-27T06:03:11.425Z",
-  "fromCloud": "2026-11-27T0603.json"
- },
- {
-  "id": "94ae375a21ee77da",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "כשהחשיבה העסקית פוגשת את הפיתוח העירוני - ראשון לציון 2026 - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFBNMnhDWEltalA0Tm5sLVpLTjBTWTBERFhoUXZ1cXpSYm9VTlk0YXpUZlVMSEg2b3lXdXl4b2pUVUNkNGNibHFIaXZfQWtZaURYREVqRXMtN3lQUVl1SE1vaFk4X1RxM01wYkpLWUI1N1NwVkVpSEViWVJfN04zXzNZSVNySTdIUjh3bjhSZVVud3hpc2ZWTE5jdVpVSktLVzkyTmNxYzdrZHc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFBNMnhDWEltalA0Tm5sLVpLTjBTWTBERFhoUXZ1cXpSYm9VTlk0YXpUZlVMSEg2b3lXdXl4b2pUVUNkNGNibHFIaXZfQWtZaURYREVqRXMtN3lQUVl1SE1vaFk4X1RxM01wYkpLWUI1N1NwVkVpSEViWVJfN04zXzNZSVNySTdIUjh3bjhSZVVud3hpc2ZWTE5jdVpVSktLVzkyTmNxYzdrZH",
-  "date": "2026-11-26T20:55:00.000Z",
-  "fetched": "2026-11-26T22:33:12.295Z",
-  "fromCloud": "2026-11-26T2233.json"
- },
- {
-  "id": "d83b592e2b867cf2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Czerwona Torebka SA – GPW:CZT_C - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWJEeGNFc3llZnpVZU1GV2dEZnRhYi01dDRObXNVOHZmMG54TGFLOFNmeDVEV1ZvMlRhVFRsY2Vua0wzYUJfTEREeUIyMlItbWRqOEkyNVlNNWhBYVpHcktaa0E0c3pDS0c5ZlBKYVlmQmVJSFV4d2V3REc2NzhvOTRvTzNWSU4zT0N4S18wNDVXLUt4bGRrcndqQ0xlTU10d1pKUkRIRQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWJEeGNFc3llZnpVZU1GV2dEZnRhYi01dDRObXNVOHZmMG54TGFLOFNmeDVEV1ZvMlRhVFRsY2Vua0wzYUJfTEREeUIyMlItbWRqOEkyNVlNNWhBYVpHcktaa0E0c3pDS0c5ZlBKYVlmQmVJSFV4d2V3REc2NzhvOTRvTzNWSU4zT0N4S18wNDVXLUt4bGRrcndqQ0xlTU10d1pKUkRIRQ?oc=",
-  "date": "2026-11-26T20:52:49.000Z",
-  "fetched": "2026-11-27T04:33:10.628Z",
-  "fromCloud": "2026-11-27T0433.json"
- },
- {
-  "id": "d5332194b4e3d986",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "החיים הטובים מתחילים באלף - ראשון לציון 2026 - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWU80VTducm1VM2lFZDBqVXN0T2ZhWHpnb2U4ekVxN2V6Ukhad1pzOVhzZ0ZpYTd1SHlIU0M1aFdwdElQbEdjbmNwUk12Y1RxUHlJUTVxNmVYSzAtTzZTd0R5XzI1WEhPWHVzalA2M2thNmRxa3BtOEtBaXJudHVBT19oaDZhNE5FbVNVZGlXcC02SUZldGc5bHc1VUdvRjB2d3ZWRzJTaTJwMlk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWU80VTducm1VM2lFZDBqVXN0T2ZhWHpnb2U4ekVxN2V6Ukhad1pzOVhzZ0ZpYTd1SHlIU0M1aFdwdElQbEdjbmNwUk12Y1RxUHlJUTVxNmVYSzAtTzZTd0R5XzI1WEhPWHVzalA2M2thNmRxa3BtOEtBaXJudHVBT19oaDZhNE5FbVNVZGlXcC02SUZldGc5bHc1VUdvRjB2d3ZWRzJTaTJwMl",
-  "date": "2026-11-26T20:52:00.000Z",
-  "fetched": "2026-11-26T23:03:12.240Z",
-  "fromCloud": "2026-11-26T2303.json"
- },
- {
-  "id": "02d6f24b0c09f439",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow of Gapwaves AB Rights 2026-08.12.26 For Units Gapwaves Uts 26 – OMXSTO:GAPW_UR_B - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1c1SmxoYlRRQ1ZfcTBQSE10ZFhnanE3bHFMbVI3Nk9HVmtzdVpYemY0VWNOSXl0QlRGeG40Y3p6djdmS2RaZWNfdWhha0pnRTN1NHFISjhyOUZudDNDWl9uVGRNTDdDWWsxUHlHZG1yeS10UkN0cTdsaVJRclNYQlJsM2F3OHB5eUoteVRuU0hQMjA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1c1SmxoYlRRQ1ZfcTBQSE10ZFhnanE3bHFMbVI3Nk9HVmtzdVpYemY0VWNOSXl0QlRGeG40Y3p6djdmS2RaZWNfdWhha0pnRTN1NHFISjhyOUZudDNDWl9uVGRNTDdDWWsxUHlHZG1yeS10UkN0cTdsaVJRclNYQlJsM2F3OHB5eUoteVRuU0hQMjA?oc=5\" target=\"_blank\">Free cas",
-  "date": "2026-11-26T20:41:47.000Z",
-  "fetched": "2026-11-26T23:03:12.240Z",
-  "fromCloud": "2026-11-26T2303.json"
- },
- {
-  "id": "a19e5f16f3235f66",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Enterprise value to revenue forward of Wen Acquisition Corp – BOATS:WENNW - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGQ5V241RlI1SjZkdVMyOFBZQ3UyakJZYnJHUk5abFhJUUpUS0daMFNVRmZXV3MtOVNQLWlGdngySkpWczRuVFBDQWYtLU1pc1lBajlZcFFHQUJ1T0dXTk1XVllYT2dtR2JuYmR0bEVaRWl0QlpDSDBiOHpmYVhVUEwyMkZhM1FyNDhYWVBSR1ltTkxLcl9LTHd5WHhPZkNXcUc4ZTBBTm1HdXNM?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGQ5V241RlI1SjZkdVMyOFBZQ3UyakJZYnJHUk5abFhJUUpUS0daMFNVRmZXV3MtOVNQLWlGdngySkpWczRuVFBDQWYtLU1pc1lBajlZcFFHQUJ1T0dXTk1XVllYT2dtR2JuYmR0bEVaRWl0QlpDSDBiOHpmYVhVUEwyMkZhM1FyNDhYWVBSR1ltTkxLcl9LTHd5WHhPZkNXcUc4ZTBBTm1HdX",
-  "date": "2026-11-26T20:34:38.000Z",
-  "fetched": "2026-11-27T02:03:12.253Z",
-  "fromCloud": "2026-11-27T0203.json"
  }
 ]
