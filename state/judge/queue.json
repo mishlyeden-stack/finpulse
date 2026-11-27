@@ -1,5 +1,104 @@
 [
  {
+  "id": "406c8d3053231a5d",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - Columbia Financial, Inc./MD/ (0002115119) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/2115119/000119312526479217/0001193125-26-479217-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001193125-26-479217 <b>Size:</b> 155 KB <br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers <br>Item 8.01: Other Events <br>Item 9.",
+  "date": "2026-11-27T12:59:37.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "18ff29e469e01251",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "UAE's BitHash targets AI data centers, eyes 250MW project in Oman",
+  "link": "https://www.datacenterdynamics.com/en/news/uaes-bithash-targets-ai-data-centers-eyes-250mw-project-in-oman/",
+  "summary": "<p data-block-key=\"v9w9f\">Another cryptominer plans AI capacity</p>",
+  "date": "2026-11-27T12:50:33.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "b10dd4858d9b02ca",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "OneConstruction Group Limited Announces CFO Changes, Effective November 23, 2026 - marketscreener.com",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVlwOFRnYi13cjdPZG5pbE9iWVpESTU3azYxSGFWQmFoTGhwV2s2djg5ZVBDWFduUG9TV3JMS3p6ZnJzU3RvaTczX0l1NzN1N05wbWpOZGNGNDlBRV82WXZNeVF3dGFOeVBDY0x5Y0tGSW1WRW8ySG8wVllnRlJ6UHVpNWsyc1NpMTlId2J6SW82S2RPUnd2V1loR0xmWnczbVFFMkZxby1fclh3RTAzOXlqOG9TdU1tZWJ2X3lvYkljNy1OZEo3SU1jZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVlwOFRnYi13cjdPZG5pbE9iWVpESTU3azYxSGFWQmFoTGhwV2s2djg5ZVBDWFduUG9TV3JMS3p6ZnJzU3RvaTczX0l1NzN1N05wbWpOZGNGNDlBRV82WXZNeVF3dGFOeVBDY0x5Y0tGSW1WRW8ySG8wVllnRlJ6UHVpNWsyc1NpMTlId2J6SW82S2RPUnd2V1loR0xmWnczbVFFMkZxby1fcl",
+  "date": "2026-11-27T12:50:30.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "32910765c30c0e4a",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Columbia Financial Announces CFO Resignation and Appointment of Interim Chief Financial Officer - Quiver Quantitative",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDB6QzdGc2JTMFo5R0VNd05ZdUVaVVFlQml3YTREMzFxOWhOWm9pWnpCbE02U05HWXlZTE9oWmFRQ0VVWFgyRlM0UTJ4bEJrSWtnR0ZfcXZxeWo4SDk3bDdOWWY3N2liOVZ0T3psT0VjMy11RFRFZ1YzMjdSYXR4VHpCWFBvM2tNR1J3d0ttYWZwZTVNa2FIbkJvXzRSZERNMEh3eWZYNGZDd0s0ZFN3U2QtaGExYkdPa0FSMlAzRnpibGZKUEg4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDB6QzdGc2JTMFo5R0VNd05ZdUVaVVFlQml3YTREMzFxOWhOWm9pWnpCbE02U05HWXlZTE9oWmFRQ0VVWFgyRlM0UTJ4bEJrSWtnR0ZfcXZxeWo4SDk3bDdOWWY3N2liOVZ0T3psT0VjMy11RFRFZ1YzMjdSYXR4VHpCWFBvM2tNR1J3d0ttYWZwZTVNa2FIbkJvXzRSZERNMEh3eWZYNGZDd0",
+  "date": "2026-11-27T12:50:00.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "089864660a466d2e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "A former CFO will return as interim while Columbia Financial searches for a permanent replacement. - Stock Titan",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzlhdTFtTVZ2RWxpODA3Q2JEUW90d1l1RW1iTm1uQWw0d0RWZjJDT3JXdDVOdG1OUkItTzNVTnlWaFo4N1BVWUZOUkFKYkN1amVFVWZLNjY0bktrVHlMaUF4Q2hnVWtjcjNTOHlLb2dNZzBjQzduOGhrZWRDSlVuZjdCYWNBYkRQckxtUTNqRjcxRVByV0E?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzlhdTFtTVZ2RWxpODA3Q2JEUW90d1l1RW1iTm1uQWw0d0RWZjJDT3JXdDVOdG1OUkItTzNVTnlWaFo4N1BVWUZOUkFKYkN1amVFVWZLNjY0bktrVHlMaUF4Q2hnVWtjcjNTOHlLb2dNZzBjQzduOGhrZWRDSlVuZjdCYWNBYkRQckxtUTNqRjcxRVByV0E?oc=5\" target=\"_blank\">A fo",
+  "date": "2026-11-27T12:45:00.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "1edea83d8b662d51",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Deutsche Börse gets Brussels approval for Allfunds acquisition - Citywire",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09jR2EwM2tUZ2RfekkxYnNIQkhqczREZ292TlI5a294SVR5RFB1MkxUVFR5Y0FxbG5NcFhPdEtqRDRLaVRxMmNFTEhZLTd5TkhJbERhVVRNS3UtSDdtVlRmbFE2MjZmdFVnVUF1MWQ1Wkw3ZmVYTldlZXRxY1RUZGN6alVLeU93ODVmOGNqZ1JVNURQd3RGVU9WSUhEaFdia2xkT21vQmY2RlVHdHdwRg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09jR2EwM2tUZ2RfekkxYnNIQkhqczREZ292TlI5a294SVR5RFB1MkxUVFR5Y0FxbG5NcFhPdEtqRDRLaVRxMmNFTEhZLTd5TkhJbERhVVRNS3UtSDdtVlRmbFE2MjZmdFVnVUF1MWQ1Wkw3ZmVYTldlZXRxY1RUZGN6alVLeU93ODVmOGNqZ1JVNURQd3RGVU9WSUhEaFdia2xkT21vQmY2Rl",
+  "date": "2026-11-27T12:43:37.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "b9ba2ffccbcba2b1",
+  "source": "SEC EDGAR 8-K",
+  "group": "filings",
+  "title": "8-K - WW INTERNATIONAL, INC. (0000105319) (Filer)",
+  "link": "https://www.sec.gov/Archives/edgar/data/105319/000119312526479191/0001193125-26-479191-index.htm",
+  "summary": "<b>Filed:</b> 2026-11-27 <b>AccNo:</b> 0001193125-26-479191 <b>Size:</b> 151 KB <br>Item 7.01: Regulation FD Disclosure <br>Item 9.01: Financial Statements and Exhibits",
+  "date": "2026-11-27T12:40:07.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "a02bdf6ba6f25125",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "אחרי שנה בתפקיד: משנה למנכ\"ל הפועלים רכש מניות של הבנק בחצי מיליון שקל - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nTWRNWU93UzVMcDhMekZvQS1RODFSVDNCRm9zUWtuTnNNQlh5OE9zMm91ZUJZOS1XcWdTZFhNTTR0Z3VGWGMtV1RfS3RVeF9jakNVX3JwdGxJd1NIZVc0SG9qTQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nTWRNWU93UzVMcDhMekZvQS1RODFSVDNCRm9zUWtuTnNNQlh5OE9zMm91ZUJZOS1XcWdTZFhNTTR0Z3VGWGMtV1RfS3RVeF9jakNVX3JwdGxJd1NIZVc0SG9qTQ?oc=5\" target=\"_blank\">אחרי שנה בתפקיד: משנה למנכ\"ל הפועלים רכש מניות של הבנק בחצי מיליון שקל</a",
+  "date": "2026-11-27T12:39:00.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "13caa50ff7187534",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "HSBC מורידה את HP להחזק עם מחיר יעד של 29.4 דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lYUpocEt0a3FIWEE0ZlRiWGZ1dzVCN0RSNVB5LXFvai1KRkFFMUNoVFR0TVB1OE1ZNkRrODFlVFJaYlhRLUI2ODB6TUFHTW56Nk95T0JfYVkzV0dteS0yVTNTVXhXU192S1JlYg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1lYUpocEt0a3FIWEE0ZlRiWGZ1dzVCN0RSNVB5LXFvai1KRkFFMUNoVFR0TVB1OE1ZNkRrODFlVFJaYlhRLUI2ODB6TUFHTW56Nk95T0JfYVkzV0dteS0yVTNTVXhXU192S1JlYg?oc=5\" target=\"_blank\">HSBC מורידה את HP להחזק עם מחיר יעד של 29.4 דולר</a>&nbsp;&nb",
+  "date": "2026-11-27T12:33:00.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
   "id": "57610c9d91a495ed",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -9,6 +108,39 @@
   "date": "2026-11-27T12:32:38.000Z",
   "fetched": "2026-11-27T12:33:12.319Z",
   "fromCloud": "2026-11-27T1233.json"
+ },
+ {
+  "id": "53c058822f652f32",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "First principles to cling to when markets convulse",
+  "link": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
+  "summary": "If you haven’t a clue what to do right now, stick to the investment basics",
+  "date": "2026-11-27T12:32:08.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "a12e756dfc4da944",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Helios Solar and Galaxy Venus Data Center sign MoU to explore solar supply for data center in Perak, Malaysia",
+  "link": "https://www.datacenterdynamics.com/en/news/helios-solar-and-galaxy-venus-data-center-sign-mou-to-explore-solar-supply-for-data-center-in-perak-malaysia/",
+  "summary": "<p data-block-key=\"wctz8\">Tied to Helios' up to 1GW solar project in Gua Musang, Malaysia</p>",
+  "date": "2026-11-27T12:30:57.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "373345f65a417faf",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "LetkoBrosseau Intends to Vote AGAINST the Proposed Acquisition of Advantage Energy by Canadian Natural Resources for $13.55/share - PR Newswire Canada",
+  "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdUdjVmtlbHVIX21mY2haT2w3OXFGQm5WS2NHQ3lQSElMcW9LUzdDcHQyZUlVTXVNX0VpY1I1RWYwRG50T2Jyc2piSlh1aXhTajNpRDd5bnQyTlNlenBmVzk5eVlZaFlxUWFPeDVNNkhtSFN6aW1jSjd6N0s4a2tLbjZsc1hMLXZvaDQyLXBCV3BGRmxHRzJzbHBGeEVtWGtWMi1veDVJTmMzN2VoNjhjOVltOXkyeUpfS2ZnV0VUWWdiOUZpYkVYTjk1cnRRM1NOTkI3eWdWMmd4d0FtUXlGZXdmaE5lMWJqcmFfRThsNnJ2MU1nTEhkS1F5d19rLW5GbXJjak04VFhJcnZyUEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOdUdjVmtlbHVIX21mY2haT2w3OXFGQm5WS2NHQ3lQSElMcW9LUzdDcHQyZUlVTXVNX0VpY1I1RWYwRG50T2Jyc2piSlh1aXhTajNpRDd5bnQyTlNlenBmVzk5eVlZaFlxUWFPeDVNNkhtSFN6aW1jSjd6N0s4a2tLbjZsc1hMLXZvaDQyLXBCV3BGRmxHRzJzbHBGeEVtWGtWMi1veDVJTmMzN2",
+  "date": "2026-11-27T12:30:00.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
  },
  {
   "id": "747531890d3cc0b5",
@@ -42,6 +174,17 @@
   "date": "2026-11-27T12:20:29.000Z",
   "fetched": "2026-11-27T12:33:12.319Z",
   "fromCloud": "2026-11-27T1233.json"
+ },
+ {
+  "id": "30d63c1b30334dde",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "צפי לזינוק בוול סטריט, אך גולדמן מזהירה מגל מכירות של 100 מיליארד דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZTBaR21NeUFFWTBNd2RHZXRQUnRlMVJDeXFDeHV2U1ZXT1NWTW9nb1dabmoxV0FuVlRDdlF6YV94TTkweE1USmtUdWFRYmRfZGJnOGRMcGMweFlEN211ZFNpT3F3Vk5IZklfYg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZTBaR21NeUFFWTBNd2RHZXRQUnRlMVJDeXFDeHV2U1ZXT1NWTW9nb1dabmoxV0FuVlRDdlF6YV94TTkweE1USmtUdWFRYmRfZGJnOGRMcGMweFlEN211ZFNpT3F3Vk5IZklfYg?oc=5\" target=\"_blank\">צפי לזינוק בוול סטריט, אך גולדמן מזהירה מגל מכירות של 100 מיל",
+  "date": "2026-11-27T12:17:00.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
  },
  {
   "id": "e5964d32149f5f23",
@@ -132,6 +275,28 @@
   "fromCloud": "2026-11-27T1233.json"
  },
  {
+  "id": "c96bf3bc23a74e07",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of Blackrock World Mining Trust PLC – LSX:889250 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmozdVlWekJmTGRLdHh5MzllSy0tQXYxdzM0d1hrdDhHWFpPcTY5NXNBN0ZEbWJzRjQ1cDJuOVZ1ZzNNcnM4VEFkMVlLZ251SzR5UXNkb25rcVBreVUzYTFwNFJsMWVvNlg5eW1CbVhOZG5KR3FjOW01Y19hMmN6c1ZFTmxXNy1XX0VV?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmozdVlWekJmTGRLdHh5MzllSy0tQXYxdzM0d1hrdDhHWFpPcTY5NXNBN0ZEbWJzRjQ1cDJuOVZ1ZzNNcnM4VEFkMVlLZ251SzR5UXNkb25rcVBreVUzYTFwNFJsMWVvNlg5eW1CbVhOZG5KR3FjOW01Y19hMmN6c1ZFTmxXNy1XX0VV?oc=5\" target=\"_blank\">Free cash flow of B",
+  "date": "2026-11-27T12:00:16.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "6a018f7acf3d5cc3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Grupa Pracuj spolka akcyjna – GPW:GPP_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaldIRnBGWHd1Y25CR3VzV2RXb1JBa3VWNkRzLUdDZ0VOUjUxNUpOT2JRdUhXQ19BV2RRMmMycWVpeUQ5M3lDV0dNZXRxQ3dYQ1dzQXZOTl9oaFJOYWdyTDg1NUR2dTdXSERRTzFzeEpvWUM4M2pydHpuNmhQYnpQVmNqRmtQaG4tZlZwVHhhdHZOMUxldWlZTXc2SHoxSWRiVGpRQUNpOA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNaldIRnBGWHd1Y25CR3VzV2RXb1JBa3VWNkRzLUdDZ0VOUjUxNUpOT2JRdUhXQ19BV2RRMmMycWVpeUQ5M3lDV0dNZXRxQ3dYQ1dzQXZOTl9oaFJOYWdyTDg1NUR2dTdXSERRTzFzeEpvWUM4M2pydHpuNmhQYnpQVmNqRmtQaG4tZlZwVHhhdHZOMUxldWlZTXc2SHoxSWRiVGpRQUNpOA?oc=",
+  "date": "2026-11-27T11:50:51.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
   "id": "6831b8b40ca88df7",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -152,6 +317,17 @@
   "date": "2026-11-27T11:49:57.000Z",
   "fetched": "2026-11-27T12:33:12.319Z",
   "fromCloud": "2026-11-27T1233.json"
+ },
+ {
+  "id": "cba9e08402ca9935",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Cash flow from investing activities of Spark I Acquisition Corp. – OTC:SPKWF - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFlvdjZVbjNCUmNmazNQeVIzSWprZkZXNDhKQ2M4c3VEUUtnZFpsSzlGczBVbHdjZmZTVUFwYnZjamZod2NRWTFoeEZrd3ZYTWdvMUdacTI2NUQ5a3JvVmg3UGZJWVJNVUpENHFTQVNoeGx1cndzT09JdzY4QWR2VkNBR1ZFbzFVYk5WUWRqRkQyVEsxSGMteTFPOA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFlvdjZVbjNCUmNmazNQeVIzSWprZkZXNDhKQ2M4c3VEUUtnZFpsSzlGczBVbHdjZmZTVUFwYnZjamZod2NRWTFoeEZrd3ZYTWdvMUdacTI2NUQ5a3JvVmg3UGZJWVJNVUpENHFTQVNoeGx1cndzT09JdzY4QWR2VkNBR1ZFbzFVYk5WUWRqRkQyVEsxSGMteTFPOA?oc=5\" target=\"_blan",
+  "date": "2026-11-27T11:48:15.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
  },
  {
   "id": "4b3fac9a3013b84b",
@@ -627,6 +803,17 @@
   "fromCloud": "2026-11-27T1233.json"
  },
  {
+  "id": "431ecba9d98e427b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "WELLSTAR Technologies Corp. (WSTR) Names Rodrigo Pinto CFO Effective Dec. 1 - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEMwU05wX0hrYnVkd3RsVG5iUE5aTnMycVNhZkZkOEJGanZhVE1FcUtrSEpQVVpGdXdmczZGMlNmR2k5ZWx4TkpxODBTWjFuR1dSVk1fYmZKME92YjZ4d1g2Y2FPMDQwWGZ4eHQ3aDlBTkNJT0tuWFgzVTdPTjN5NGljbzVzeXJoa2pCSE9FeXFYaVZfRVJCLXV6bUVkMVNCdVdyLWo5S3B3ODlYQW1VV0FLcVdEZDlWeHdONjdOWkx4dVdWOHFJZjNaRThGQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEMwU05wX0hrYnVkd3RsVG5iUE5aTnMycVNhZkZkOEJGanZhVE1FcUtrSEpQVVpGdXdmczZGMlNmR2k5ZWx4TkpxODBTWjFuR1dSVk1fYmZKME92YjZ4d1g2Y2FPMDQwWGZ4eHQ3aDlBTkNJT0tuWFgzVTdPTjN5NGljbzVzeXJoa2pCSE9FeXFYaVZfRVJCLXV6bUVkMVNCdVdyLWo5S3B3OD",
+  "date": "2026-11-27T11:00:00.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
   "id": "c3aa5e181dfcdf8d",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -680,6 +867,28 @@
   "date": "2026-11-27T10:49:31.000Z",
   "fetched": "2026-11-27T11:03:14.972Z",
   "fromCloud": "2026-11-27T1103.json"
+ },
+ {
+  "id": "54f188575e9e7c85",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Spark I Acquisition Corp. Balance Sheet – OTC:SPKWF - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qd3dxX0ZkVjAwWmltWVN3VDBrMGVZRk5OX0c1WTNfRG9VT2tiV1M4NVhaUTRGWUpRdVpGVkNtc2RqN3h5RmJDWG1sVER0VnIwTzMtdzZWM0xYTW5Eb2Q5LUl0ajQyOXhmVVYwcUtvbHlQemk2WUxtRW1jQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1qd3dxX0ZkVjAwWmltWVN3VDBrMGVZRk5OX0c1WTNfRG9VT2tiV1M4NVhaUTRGWUpRdVpGVkNtc2RqN3h5RmJDWG1sVER0VnIwTzMtdzZWM0xYTW5Eb2Q5LUl0ajQyOXhmVVYwcUtvbHlQemk2WUxtRW1jQQ?oc=5\" target=\"_blank\">Spark I Acquisition Corp. Balance Sheet –",
+  "date": "2026-11-27T10:46:54.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
+  "id": "ab1c32228ca0c0d9",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Price to cash flow ratio of Spark I Acquisition Corp. – OTC:SPKWF - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2NpeWtaNmZocENRTjJUUlU5cFNUYTJDUXFNby1MQ0Z5VTAzLVNfZm8wcjQ3cnNPQUFaY3RBeUZienRJeHRBWGpuRy1iV0ZxMVliQXFvMmVKdmdOZ0ZJQktKc2JVckJqUlBJQ2hyenhGNjFYa3hoZ1pkQ1dTYXFjVThrZnl6bTlMTUJGQjRJaVREQVBtSnU4eGh0UQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2NpeWtaNmZocENRTjJUUlU5cFNUYTJDUXFNby1MQ0Z5VTAzLVNfZm8wcjQ3cnNPQUFaY3RBeUZienRJeHRBWGpuRy1iV0ZxMVliQXFvMmVKdmdOZ0ZJQktKc2JVckJqUlBJQ2hyenhGNjFYa3hoZ1pkQ1dTYXFjVThrZnl6bTlMTUJGQjRJaVREQVBtSnU4eGh0UQ?oc=5\" target=\"_blan",
+  "date": "2026-11-27T10:45:02.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
  },
  {
   "id": "a4566070dceea632",
@@ -823,6 +1032,17 @@
   "date": "2026-11-27T10:32:00.000Z",
   "fetched": "2026-11-27T11:03:14.972Z",
   "fromCloud": "2026-11-27T1103.json"
+ },
+ {
+  "id": "f35f604d14ae218b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Zalando SE (ZAL) Reports Acquisition Transaction Disclosure - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ3FkNHYxWGdNZi1yLTZFM0Q3ZThBNU1sN0lPdnVla2YzN19EWE1xampKdW94aU92bDlxWkV2cDFtcVhzZnEwbUp0cndEVW9lVy15VFlNeDVCeGlVb3k2OTE3VTdsVThBZDFKS3pTemplMl9wZ1ZNZmExNHVBUEd5NkFYekQ1ak5PYkJ3djktbmJkcVpxT0VBRE90TkctOXU4UFFER3YyMFlZM3NIMFNsekVrRWFydUZZYnRr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ3FkNHYxWGdNZi1yLTZFM0Q3ZThBNU1sN0lPdnVla2YzN19EWE1xampKdW94aU92bDlxWkV2cDFtcVhzZnEwbUp0cndEVW9lVy15VFlNeDVCeGlVb3k2OTE3VTdsVThBZDFKS3pTemplMl9wZ1ZNZmExNHVBUEd5NkFYekQ1ak5PYkJ3djktbmJkcVpxT0VBRE90TkctOXU4UFFER3YyMFlZM3",
+  "date": "2026-11-27T10:30:40.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
  },
  {
   "id": "f2a623ba567f5682",
@@ -1076,6 +1296,17 @@
   "date": "2026-11-27T10:09:34.000Z",
   "fetched": "2026-11-27T11:03:14.972Z",
   "fromCloud": "2026-11-27T1103.json"
+ },
+ {
+  "id": "39e0274f42805cab",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Pure Cycle CFO buys $4,835 in company stock By Investing.com - Investing.com Canada",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDY1NF9zMmQxbHdnbGdQNy1ZLTlyMnpVbzM5RFdhZG1oVHJhanFmUW5qVGVOZkZPTjZqaHluc29kYlprcDMyX2pQUWhLYXE4ZGk3TFQ3c0s2akU4M2lmSmpLUl9FNkVTdDlTWFNhSXBQQWR3QWZzMDFzbHplYTV0SHM3cklQQTQwbTYwMFVidUlmbWk2LWNpSF9oNE1ubXF5eEJIUA?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDY1NF9zMmQxbHdnbGdQNy1ZLTlyMnpVbzM5RFdhZG1oVHJhanFmUW5qVGVOZkZPTjZqaHluc29kYlprcDMyX2pQUWhLYXE4ZGk3TFQ3c0s2akU4M2lmSmpLUl9FNkVTdDlTWFNhSXBQQWR3QWZzMDFzbHplYTV0SHM3cklQQTQwbTYwMFVidUlmbWk2LWNpSF9oNE1ubXF5eEJIUA?oc=5\" t",
+  "date": "2026-11-27T10:08:29.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
  },
  {
   "id": "e023633be6c470ee",
@@ -2189,6 +2420,17 @@
   "fromCloud": "2026-11-27T0703.json"
  },
  {
+  "id": "e251742cccc3b496",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "עליות חדות ברוב בורסות אסיה: מדד שנזן בסין מזנק ביותר מ-6% - ice (אייס)",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82anJxWHRTM1dQdzl3VDV4cm4xTWxhcmlPTEVFd1VHd1BRMGVHcWRUQjJoNkpDVHRwZ05CQlZKeUhHckJDekw4TVhNc1ZiczhGM1FyZHZ5ekt4Qm1nLVFr?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE82anJxWHRTM1dQdzl3VDV4cm4xTWxhcmlPTEVFd1VHd1BRMGVHcWRUQjJoNkpDVHRwZ05CQlZKeUhHckJDekw4TVhNc1ZiczhGM1FyZHZ5ekt4Qm1nLVFr?oc=5\" target=\"_blank\">עליות חדות ברוב בורסות אסיה: מדד שנזן בסין מזנק ביותר מ-6%</a>&nbsp;&nbsp;<font",
+  "date": "2026-11-27T06:41:00.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
+ },
+ {
   "id": "3744b02065d6a797",
   "source": "Calcalist Tech (Google News)",
   "group": "israel-press",
@@ -2836,6 +3078,17 @@
   "date": "2026-11-27T05:00:04.000Z",
   "fetched": "2026-11-27T05:33:15.294Z",
   "fromCloud": "2026-11-27T0533.json"
+ },
+ {
+  "id": "3b3c0da59211bd9a",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "China’s super-rich have a new obsession: million-dollar fish",
+  "link": "https://www.ft.com/content/5a8b6b3c-c293-4f38-9f14-f5cc6cf98a34?syn-25a6b1a6=1",
+  "summary": "Collectors are spending fortunes on koi, but an economic slowdown and Beijing’s crackdown on conspicuous wealth are threatening the market",
+  "date": "2026-11-27T05:00:04.000Z",
+  "fetched": "2026-11-27T13:03:13.079Z",
+  "fromCloud": "2026-11-27T1303.json"
  },
  {
   "id": "5d5459ad620fcafe",
@@ -7214,148 +7467,5 @@
   "date": "2026-11-26T13:08:00.000Z",
   "fetched": "2026-11-26T16:03:12.561Z",
   "fromCloud": "2026-11-26T1603.json"
- },
- {
-  "id": "52fa429f93c1bf51",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "מנכ\"ל משק אנרגיה: \"ב-2029 תמונת הרווח תשתנה מהותית\"; \"דליה עובדת על פיתוח של עוד חוות שרתים\" - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqRTJtX2lFYll2TXVEREJpVl9oSFZtUHhjdm1oUDdBdWhxMG5hZUxRX2t2bDVKMnp1Vmp5ZVBfS2hzMWdqOTNkdGVqdDVvYmJvcl9CdkNUTW5FSTdsNmo5bU9vNHpoQUpRVWFTZkRPWWs?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBqRTJtX2lFYll2TXVEREJpVl9oSFZtUHhjdm1oUDdBdWhxMG5hZUxRX2t2bDVKMnp1Vmp5ZVBfS2hzMWdqOTNkdGVqdDVvYmJvcl9CdkNUTW5FSTdsNmo5bU9vNHpoQUpRVWFTZkRPWWs?oc=5\" target=\"_blank\">מנכ\"ל משק אנרגיה: \"ב-2029 תמונת הרווח תשתנה מהותית\"; \"דל",
-  "date": "2026-11-26T13:03:00.000Z",
-  "fetched": "2026-11-26T16:03:12.561Z",
-  "fromCloud": "2026-11-26T1603.json"
- },
- {
-  "id": "25e1a82ce44c8718",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הריבית הקבועה במשכנתא בפעימות מובטחת רק לשחרור הראשון - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11ZFFEckp6dnA0dVNQczZhajNYblpHRk95UUk3LUkxZTdNN0RTYkhHbEtNOHdyZk9LbVFwYTA3NEtOalZtR2JqWnZDMllUay1MLXdyY2hzUjZmd2tqa3FXSDlWazVYcEtlODkwTkthcW9qZw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE11ZFFEckp6dnA0dVNQczZhajNYblpHRk95UUk3LUkxZTdNN0RTYkhHbEtNOHdyZk9LbVFwYTA3NEtOalZtR2JqWnZDMllUay1MLXdyY2hzUjZmd2tqa3FXSDlWazVYcEtlODkwTkthcW9qZw?oc=5\" target=\"_blank\">הריבית הקבועה במשכנתא בפעימות מובטחת רק לשחרור הראשון",
-  "date": "2026-11-26T12:58:00.000Z",
-  "fetched": "2026-11-27T01:03:13.182Z",
-  "fromCloud": "2026-11-27T0103.json"
- },
- {
-  "id": "6d3be197e06f1bec",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "שוק ההון כתבות נוספות - עמוד 4052 - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQOEpJcDRiY0gwZUdJTUJvdjFxOTNHa1g1b2syREZKT1ZweUk5eEdCMFpMSy1SbEpiQ0hPY3FUUjFtMktpTWVibVVOem1pQ280WGdYTV9TclpzbzZPRjJjdnJUMWdCS1U?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQOEpJcDRiY0gwZUdJTUJvdjFxOTNHa1g1b2syREZKT1ZweUk5eEdCMFpMSy1SbEpiQ0hPY3FUUjFtMktpTWVibVVOem1pQ280WGdYTV9TclpzbzZPRjJjdnJUMWdCS1U?oc=5\" target=\"_blank\">שוק ההון כתבות נוספות - עמוד 4052</a>&nbsp;&nbsp;<font color=\"#6f6f6",
-  "date": "2026-11-26T12:57:53.000Z",
-  "fetched": "2026-11-27T11:33:14.816Z",
-  "fromCloud": "2026-11-27T1133.json"
- },
- {
-  "id": "009500cf2d5a5952",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "נפגעתם? אל תפגעו פעמיים - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTnlsdlhQZUFiNTA1U3VDemtzVnpqRFZuSDR4OUp0ZV9leTBiZEswR19hQWhOZWYzVnJPbFR0U0JuVllFVGMzTllLQlgwSTNnSkROV0x0NDllczFFLXlad0N2UHFCVXlVbUtZcEdweHUxZGZrZUFqSktud292bmdBenFjQ2MxRDZIbjJzN2h0TzFRUllidGlzTlJ5Z0g3Q241bUJuWVIzRzd2UFk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTnlsdlhQZUFiNTA1U3VDemtzVnpqRFZuSDR4OUp0ZV9leTBiZEswR19hQWhOZWYzVnJPbFR0U0JuVllFVGMzTllLQlgwSTNnSkROV0x0NDllczFFLXlad0N2UHFCVXlVbUtZcEdweHUxZGZrZUFqSktud292bmdBenFjQ2MxRDZIbjJzN2h0TzFRUllidGlzTlJ5Z0g3Q241bUJuWVIzRzd2UF",
-  "date": "2026-11-26T12:57:00.000Z",
-  "fetched": "2026-11-26T20:33:10.827Z",
-  "fromCloud": "2026-11-26T2033.json"
- },
- {
-  "id": "7ba9c9d25f849034",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "המתכון של מושיק רוט להפיכת לקוחות מזדמנים ללקוחות קבועים - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUC1sVXc3ckVwNnF2STVxNWVraF9LcF9xR0t2Wlk2UUtXRzhUbllTbXVBSDUtcWVSQVFqUWQxRnpYN3pNXzVXeVUxeUI1QUVqcVpTeWN2cENMSF9ncDVIZ3ZoYlp5YTBpT1lCTUVndHV0RW9YMlV4dUF3MlJNMW90dFFkSTdTVThrNXY0aTVIejB2SExKXzJSbm9ETHhaOUlpRF94Q3B6WGQ5WUNtQVVBdGRUYkRxRzBYajdxVXlNYzdPU3dlNFE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUC1sVXc3ckVwNnF2STVxNWVraF9LcF9xR0t2Wlk2UUtXRzhUbllTbXVBSDUtcWVSQVFqUWQxRnpYN3pNXzVXeVUxeUI1QUVqcVpTeWN2cENMSF9ncDVIZ3ZoYlp5YTBpT1lCTUVndHV0RW9YMlV4dUF3MlJNMW90dFFkSTdTVThrNXY0aTVIejB2SExKXzJSbm9ETHhaOUlpRF94Q3B6WGQ5WU",
-  "date": "2026-11-26T12:53:00.000Z",
-  "fetched": "2026-11-26T15:03:13.346Z",
-  "fromCloud": "2026-11-26T1503.json"
- },
- {
-  "id": "45a7ada47f133492",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Renatus Tactical Acquisition Corp I (RTAC) Seasonal returns chart - Yahoo Finance UK",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrdnpiY3lqMWpCUmxMVl9ydURZWkQ2Q1RXVm4wckdOX2VVcHJGaHlDOTZlNlRIbDNuNi0zM0o3QXJMdTNzeWEtZlBRTkx4VGNHcjZZSTFNenBtQWJHMnRmWVV3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrdnpiY3lqMWpCUmxMVl9ydURZWkQ2Q1RXVm4wckdOX2VVcHJGaHlDOTZlNlRIbDNuNi0zM0o3QXJMdTNzeWEtZlBRTkx4VGNHcjZZSTFNenBtQWJHMnRmWVV3?oc=5\" target=\"_blank\">Renatus Tactical Acquisition Corp I (RTAC) Seasonal returns chart</a>&nbsp;",
-  "date": "2026-11-26T12:51:07.000Z",
-  "fetched": "2026-11-27T05:33:15.294Z",
-  "fromCloud": "2026-11-27T0533.json"
- },
- {
-  "id": "972016b53d86b1d7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Black Spade Acquisition III Co (BIII) Analyst insights, Price targets and Recommendations - Yahoo Finance UK",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45SzJzZW1vcWdPb1pzWFdiVVp0bWdHSmlIejhMV29wVEtFWjd1cURfUzNlcFBPTHR1ZS1IUDFMdG1TU0JDeEFHRk40djJQcFg0SVNhRlFSSzl6bDRtc3NwUVhkVFI4TXV6?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE45SzJzZW1vcWdPb1pzWFdiVVp0bWdHSmlIejhMV29wVEtFWjd1cURfUzNlcFBPTHR1ZS1IUDFMdG1TU0JDeEFHRk40djJQcFg0SVNhRlFSSzl6bDRtc3NwUVhkVFI4TXV6?oc=5\" target=\"_blank\">Black Spade Acquisition III Co (BIII) Analyst insights, Price targe",
-  "date": "2026-11-26T12:50:48.000Z",
-  "fetched": "2026-11-26T20:03:10.664Z",
-  "fromCloud": "2026-11-26T2003.json"
- },
- {
-  "id": "1ab52d628c5f2687",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "היקב הישן מתעורר לחיים: המהפך של לב ראשון לציון - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2xhTVJDdkNXN0VaVXNXOWUyQm9fdkJWWHVKMWN5clVOVDlBcVkzZ0Z1UFZVQlRtZEdVcURQVENsT3hVUm5URjRXWi1vaTlWZnN6RTJnal9QZkZyS3lsR3R5MHFWUF9ucVRvNWVxVDBmakRWLTUtZ1Mta1NyajhZT0Z5c1BIa0hhUFM1ZnJ0MldwOHRiQ3R3TEF6RFZKZ1JjTmtFV1U4VU9YQ2c?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2xhTVJDdkNXN0VaVXNXOWUyQm9fdkJWWHVKMWN5clVOVDlBcVkzZ0Z1UFZVQlRtZEdVcURQVENsT3hVUm5URjRXWi1vaTlWZnN6RTJnal9QZkZyS3lsR3R5MHFWUF9ucVRvNWVxVDBmakRWLTUtZ1Mta1NyajhZT0Z5c1BIa0hhUFM1ZnJ0MldwOHRiQ3R3TEF6RFZKZ1JjTmtFV1U4VU9YQ2",
-  "date": "2026-11-26T12:48:00.000Z",
-  "fetched": "2026-11-26T15:33:11.256Z",
-  "fromCloud": "2026-11-26T1533.json"
- },
- {
-  "id": "71ae1c3d106b85ad",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "מהפכת הבריאות של כללית בראשון לציון - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWlFaUNORThfT3lORU9YVzVieHloYU1jbEVNMFNzMTd6NldsY3dGQkRJQmFOR3NySzJheG1oRHlkNW8xV05mSFZrREJiZVpFZU4zLXZGQkwtcW4xcDM1V2lFeUI3c2VhQUl5LV84QVRjSi1WNWNWWDdmLVY2QXJUZVlJLWhucmN6MmlXTmhYb2FpZFBocU1TY0tZa1pYdkdYQ3Bwa3pxZEozVzA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWlFaUNORThfT3lORU9YVzVieHloYU1jbEVNMFNzMTd6NldsY3dGQkRJQmFOR3NySzJheG1oRHlkNW8xV05mSFZrREJiZVpFZU4zLXZGQkwtcW4xcDM1V2lFeUI3c2VhQUl5LV84QVRjSi1WNWNWWDdmLVY2QXJUZVlJLWhucmN6MmlXTmhYb2FpZFBocU1TY0tZa1pYdkdYQ3Bwa3pxZEozVz",
-  "date": "2026-11-26T12:47:00.000Z",
-  "fetched": "2026-11-26T20:33:10.827Z",
-  "fromCloud": "2026-11-26T2033.json"
- },
- {
-  "id": "f6c06a35232fe21e",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ביטוח ישיר בוחנת הקמת חברה מנהלת בתחום החיסכון - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcWtrNTM4eGFMNUJ6NHMzbTBZLW16cUhwWG44dnh2dG9oVE1XaTNzVTQtczFidm9HX0hFenFOU0Z1ZWlWeVcyVndEMmViTkJnbVB0YzZmNWpsQmVnVUdLVVpYbGdMOXd4R1piV1lnTFA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcWtrNTM4eGFMNUJ6NHMzbTBZLW16cUhwWG44dnh2dG9oVE1XaTNzVTQtczFidm9HX0hFenFOU0Z1ZWlWeVcyVndEMmViTkJnbVB0YzZmNWpsQmVnVUdLVVpYbGdMOXd4R1piV1lnTFA?oc=5\" target=\"_blank\">ביטוח ישיר בוחנת הקמת חברה מנהלת בתחום החיסכון</a>&nbsp;",
-  "date": "2026-11-26T12:46:00.000Z",
-  "fetched": "2026-11-26T19:03:10.747Z",
-  "fromCloud": "2026-11-26T1903.json"
- },
- {
-  "id": "fdfd2a7883e8aeaf",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Japan Tobacco studies deal for Imperial Brands - The Japan Times",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTJTdlh6WENWTFlXYUhLLUdxSHRrM19rUUNSaGJObFhkYWdVaWNGUU9ZQVhRTzVEVy1VTkdOcEwyTzh5eV9Gd3huTmd4NXVRa2JzZGxZaVpHNERjYUZDdGQwN1hYSzhUbEd2X0c2OTBZMTJEZmtBQ1dBVTdBWVlBNFM5T0ZYWmtDalVzdDJDcVllLTc1UkJfbkF6ZTgwTGxudktaSlFxWQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTJTdlh6WENWTFlXYUhLLUdxSHRrM19rUUNSaGJObFhkYWdVaWNGUU9ZQVhRTzVEVy1VTkdOcEwyTzh5eV9Gd3huTmd4NXVRa2JzZGxZaVpHNERjYUZDdGQwN1hYSzhUbEd2X0c2OTBZMTJEZmtBQ1dBVTdBWVlBNFM5T0ZYWmtDalVzdDJDcVllLTc1UkJfbkF6ZTgwTGxudktaSlFxWQ?oc=",
-  "date": "2026-11-26T12:46:00.000Z",
-  "fetched": "2026-11-26T19:03:10.747Z",
-  "fromCloud": "2026-11-26T1903.json"
- },
- {
-  "id": "db86e434aeebe9d2",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "בלי השכנים מלמטה: 75% הסכמה הספיקה לבנייה על הגג - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jUDd1S2JtYTFiOUg1aEZnNFBYMHppdTB5bl9VSzM5SVI1SFV4ZGFuRC1Pa1RFR0pUd2ZwZUZsNy1GeDBFd04yMTdzMi10V0owQUhuMUhwVl9DU3lpX050SUdoWXlZbFk?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jUDd1S2JtYTFiOUg1aEZnNFBYMHppdTB5bl9VSzM5SVI1SFV4ZGFuRC1Pa1RFR0pUd2ZwZUZsNy1GeDBFd04yMTdzMi10V0owQUhuMUhwVl9DU3lpX050SUdoWXlZbFk?oc=5\" target=\"_blank\">בלי השכנים מלמטה: 75% הסכמה הספיקה לבנייה על הגג</a>&nbsp;&nbsp;<fon",
-  "date": "2026-11-26T12:41:00.000Z",
-  "fetched": "2026-11-26T14:33:12.307Z",
-  "fromCloud": "2026-11-26T1433.json"
- },
- {
-  "id": "cdc9a7381e6b445a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "LS Power completes acquisition of 4.4 GW of gas-fired plants from Constellation - energynews.pro",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUxRRzRVTU85anlTbDl5aHNabnZ0SjluLWJ1QThWTEFTRjllVnhsLWxuTzVkMXZsVFl4cGtocHZOZ0FjNndOMklBNUdyM2hOT0ZEdHczeVpORDJFdEk2UVV1WnFtMUp0N0s4czBqanNwZFp5TDJHVUtGX2lhODN1cmlUcEhzeUd6RVF0SHAwdFJ2bTUyT1JvQUJSeXNaYXdUU3FNYmRSRQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUxRRzRVTU85anlTbDl5aHNabnZ0SjluLWJ1QThWTEFTRjllVnhsLWxuTzVkMXZsVFl4cGtocHZOZ0FjNndOMklBNUdyM2hOT0ZEdHczeVpORDJFdEk2UVV1WnFtMUp0N0s4czBqanNwZFp5TDJHVUtGX2lhODN1cmlUcEhzeUd6RVF0SHAwdFJ2bTUyT1JvQUJSeXNaYXdUU3FNYmRSRQ?oc=",
-  "date": "2026-11-26T12:33:44.000Z",
-  "fetched": "2026-11-26T15:03:13.346Z",
-  "fromCloud": "2026-11-26T1503.json"
  }
 ]
