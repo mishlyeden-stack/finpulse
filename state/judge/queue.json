@@ -1,5 +1,115 @@
 [
  {
+  "id": "6831b8b40ca88df7",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "Construction paused at Google data center in Farciennes, Belgium",
+  "link": "https://www.datacenterdynamics.com/en/news/construction-paused-at-google-data-center-in-farciennes-belgium/",
+  "summary": "<p data-block-key=\"hibip\">Company had been building despite a permit being revoked</p>",
+  "date": "2026-11-27T11:50:37.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "f745ad174a27a294",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "הרווח הנקי של טי אנד אם עלה ב-171% ל-13.3 מיליון שקל - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6NmlnLVBzbldEaXhLY1NIYjRxRkt0TGhvSmJMRUQya0R3dzZNS3JScXc1OS1ZU0tNUVNQZE90ajBHdmhxZ2dEM1dSZEM1b3dmMTA5ZDJMN1EtQVdJZ2xJUmJnV0wteEU0QW1ZMVpZTkU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB6NmlnLVBzbldEaXhLY1NIYjRxRkt0TGhvSmJMRUQya0R3dzZNS3JScXc1OS1ZU0tNUVNQZE90ajBHdmhxZ2dEM1dSZEM1b3dmMTA5ZDJMN1EtQVdJZ2xJUmJnV0wteEU0QW1ZMVpZTkU?oc=5\" target=\"_blank\">הרווח הנקי של טי אנד אם עלה ב-171% ל-13.3 מיליון שקל</a>",
+  "date": "2026-11-27T11:45:00.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "5c3d38dc62af30b9",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "מתן כהנא שובר שתיקה: נתניהו מנסה לגרור את ישראל לבחירות - אמס",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Kbmp5WnEyUGNhWG9kdGNOLVBEeUt0ZUJsYzhxbDF6U0Zib3pfS29NX1R2R3NIU244NVphVF9CRDJ5OXp6N1Y2S3BoUWFHZw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Kbmp5WnEyUGNhWG9kdGNOLVBEeUt0ZUJsYzhxbDF6U0Zib3pfS29NX1R2R3NIU244NVphVF9CRDJ5OXp6N1Y2S3BoUWFHZw?oc=5\" target=\"_blank\">מתן כהנא שובר שתיקה: נתניהו מנסה לגרור את ישראל לבחירות</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</fon",
+  "date": "2026-11-27T11:43:27.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "d2d372910dce466f",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "ריינמטאל עולה בכ-4% בפרנקפורט למרות הורדת יעד המכירות ל-2030 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1teTlOYjdWR1hzQWltbll4djJYVDI4SXRONGs2LS1rQ2hSQmJlTmdtY0x1UDJic1JwNXlLTnkxcnNMMEpobmNyRTROZmh0WUFUaXVuNi1jZDN2alVaRThoQ0JTaEc0dEVFMDVmd2w0aVQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1teTlOYjdWR1hzQWltbll4djJYVDI4SXRONGs2LS1rQ2hSQmJlTmdtY0x1UDJic1JwNXlLTnkxcnNMMEpobmNyRTROZmh0WUFUaXVuNi1jZDN2alVaRThoQ0JTaEc0dEVFMDVmd2w0aVQ?oc=5\" target=\"_blank\">ריינמטאל עולה בכ-4% בפרנקפורט למרות הורדת יעד המכירות ל-",
+  "date": "2026-11-27T11:43:00.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "370f27b6b7b3e738",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EirTrade launches 14-aircraft acquisition drive with first 737-800 - AviTrader Aviation News",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzBrbGk3ampnMWZ4NnNWUzYtNGh5MTZHODJ4dnh3cU5tUm1BMC1Dc1BwQTJodEE4UkoxcFRrblpISVA3ek5MbFppampkc1oxTk5TZ2xRaXRxNEJMTXFzVXloS1NqcGV1ZVlGNXdMemxKX0p6OVYydm9lMEhsNUlLNUFLQmtNYXlvcnJHTDloVzJzaU9fQTk0T3Ryc1FYbUdBSnc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObzBrbGk3ampnMWZ4NnNWUzYtNGh5MTZHODJ4dnh3cU5tUm1BMC1Dc1BwQTJodEE4UkoxcFRrblpISVA3ek5MbFppampkc1oxTk5TZ2xRaXRxNEJMTXFzVXloS1NqcGV1ZVlGNXdMemxKX0p6OVYydm9lMEhsNUlLNUFLQmtNYXlvcnJHTDloVzJzaU9fQTk0T3Ryc1FYbUdBSnc?oc=5\" targ",
+  "date": "2026-11-27T11:42:52.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "f8357f9511d46631",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מניית פלרם צוללת 17% אחרי רבעון חלש - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zU0J2S2VwWG5PV2lPaGVtVi12aV9yNjY3TWxDc2JZUlZxTVplaHBjb2xTTGpRRWtvaDJOdWRnOHhZZndjY1o5N2s5aXVVOWJNeEJTNlh4YlJHVG1NNnRFN0d4cFR2dGxQRVNIM0NNdC0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5zU0J2S2VwWG5PV2lPaGVtVi12aV9yNjY3TWxDc2JZUlZxTVplaHBjb2xTTGpRRWtvaDJOdWRnOHhZZndjY1o5N2s5aXVVOWJNeEJTNlh4YlJHVG1NNnRFN0d4cFR2dGxQRVNIM0NNdC0?oc=5\" target=\"_blank\">מניית פלרם צוללת 17% אחרי רבעון חלש</a>&nbsp;&nbsp;<font",
+  "date": "2026-11-27T11:41:00.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "79fc8eb154881639",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Deutsche Boerse wins EU antitrust approval for Allfunds acquisition - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2wwa3NCVGlMa3dWeXIxbm5lTEdhdWFJOWJFckt3YjlPVW9HT0x3cndqcXhseHIyZHJadGNzWVV2TmV1aENaaXliYmtvNjZTS21FRmppV3NSTXhNME9jSGxWN0lSSy1CS3p0TTI4bmhTcGNTTnMxejVoR3ZBZUxLQ19rNFpPVmlCb0JwSThsQnJzQ084NXZnZmpIVy1CTERHQXlzNHJyV0I0ZGVtR1hkQmFmdkNSSmc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2wwa3NCVGlMa3dWeXIxbm5lTEdhdWFJOWJFckt3YjlPVW9HT0x3cndqcXhseHIyZHJadGNzWVV2TmV1aENaaXliYmtvNjZTS21FRmppV3NSTXhNME9jSGxWN0lSSy1CS3p0TTI4bmhTcGNTTnMxejVoR3ZBZUxLQ19rNFpPVmlCb0JwSThsQnJzQ084NXZnZmpIVy1CTERHQXlzNHJyV0I0ZG",
+  "date": "2026-11-27T11:36:47.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "f0f25363e077ca4b",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Bavarian Nordic’s quick CFO pick ends leadership limbo, analyst says - medwatch.com",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCdHJVOTBwQnZ2emN3S05xdkY4ZmV6eDNwZVVDQ3FIQkRWa0d1c2dxR21sZFdhRGZubGlnSWVTWnJmbGE1SUFDSnFOUUszdzAtTzRLWjAyOGdFcGE3VDBGNmZicEl2bUF4bnEzV1lzQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBCdHJVOTBwQnZ2emN3S05xdkY4ZmV6eDNwZVVDQ3FIQkRWa0d1c2dxR21sZFdhRGZubGlnSWVTWnJmbGE1SUFDSnFOUUszdzAtTzRLWjAyOGdFcGE3VDBGNmZicEl2bUF4bnEzV1lzQQ?oc=5\" target=\"_blank\">Bavarian Nordic’s quick CFO pick ends leadership limbo, a",
+  "date": "2026-11-27T11:35:32.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "34fbdcce4f503098",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EY advises Dragados on Voltan Group acquisition - Iberian Lawyer",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92N3ExNmJOeGZqTDU4LTB1WnlKLXpTTFUtcDNrdHZHb1FCNlpxTXFITXBEekVadUV6VF9PMnRybHBpVzRNUVhESUdfTU1NSTNQaWs5c3pacFRIcy1YZW5VOFdUU2dUZHU5eUZpam42Y0J1a1ZfcnEzaGRRd3VjdVU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE92N3ExNmJOeGZqTDU4LTB1WnlKLXpTTFUtcDNrdHZHb1FCNlpxTXFITXBEekVadUV6VF9PMnRybHBpVzRNUVhESUdfTU1NSTNQaWs5c3pacFRIcy1YZW5VOFdUU2dUZHU5eUZpam42Y0J1a1ZfcnEzaGRRd3VjdVU?oc=5\" target=\"_blank\">EY advises Dragados on Voltan Group ",
+  "date": "2026-11-27T11:33:21.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "bef062b8395c298a",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מדד CSI 300 מזנק 4.2% אחרי הבטחת התמיכה של בייג'ינג - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90bm9JODJ2Nm1YeE51ZjJKZHFUc1hUYUktOWxJUHpNb2RjMlVxV005dWYwMkp0bGVNV2N0LV9UNzRWemdoeTdEQ3ZhR2YzR1pWUHVkbEQyaHBrTkctTnJuTDZJNmEzeUt3UG9RVzlDbXk?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE90bm9JODJ2Nm1YeE51ZjJKZHFUc1hUYUktOWxJUHpNb2RjMlVxV005dWYwMkp0bGVNV2N0LV9UNzRWemdoeTdEQ3ZhR2YzR1pWUHVkbEQyaHBrTkctTnJuTDZJNmEzeUt3UG9RVzlDbXk?oc=5\" target=\"_blank\">מדד CSI 300 מזנק 4.2% אחרי הבטחת התמיכה של בייג'ינג</a>&",
+  "date": "2026-11-27T11:33:00.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
   "id": "6c7e66ace6b09ed8",
   "source": "DCD – Data Center Dynamics",
   "group": "industry",
@@ -33,6 +143,17 @@
   "fromCloud": "2026-11-27T1133.json"
  },
  {
+  "id": "ff13985ef35066a2",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "גלובל כתבות נוספות - עמוד 3423 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zbmU4dUZKMV9KOTU4NE43cUdaVlNudWo2TjR5czQwSDI3TFlIclhSZHFTcS0wMU1BS1hpdFEwNzFhRjNEY1NyNUNEdklhclVVU0pvc3JVZHNZdkYxbFVoN2tDQWNpdzQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zbmU4dUZKMV9KOTU4NE43cUdaVlNudWo2TjR5czQwSDI3TFlIclhSZHFTcS0wMU1BS1hpdFEwNzFhRjNEY1NyNUNEdklhclVVU0pvc3JVZHNZdkYxbFVoN2tDQWNpdzQ?oc=5\" target=\"_blank\">גלובל כתבות נוספות - עמוד 3423</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+  "date": "2026-11-27T11:25:02.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
   "id": "e8abe4b44db38d64",
   "source": "TheMarker (Google News)",
   "group": "israel-press",
@@ -64,6 +185,17 @@
   "date": "2026-11-27T11:15:44.000Z",
   "fetched": "2026-11-27T11:33:14.816Z",
   "fromCloud": "2026-11-27T1133.json"
+ },
+ {
+  "id": "b1b05df5362544a7",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שלמה גרינברג: מפלצת אבטחת הסייבר החדשה שנולדה בוול סטריט - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0YmhaRGtvRWFZcVJwSWtyLXUxQ0ZwUTdwbVZkQmtIeEdKVU1DTG5DdlJ0SEVUQmxXdVluQmw2QjY3MDRJdU9lQnBEMElMV3ZBTFd5WXlfcGxjWXFFd2N6S1Z3X0t2Vkd0OW00cTk4WGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB0YmhaRGtvRWFZcVJwSWtyLXUxQ0ZwUTdwbVZkQmtIeEdKVU1DTG5DdlJ0SEVUQmxXdVluQmw2QjY3MDRJdU9lQnBEMElMV3ZBTFd5WXlfcGxjWXFFd2N6S1Z3X0t2Vkd0OW00cTk4WGc?oc=5\" target=\"_blank\">שלמה גרינברג: מפלצת אבטחת הסייבר החדשה שנולדה בוול סטריט",
+  "date": "2026-11-27T11:15:00.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
  },
  {
   "id": "2b3429a2d3c80521",
@@ -130,6 +262,17 @@
   "date": "2026-11-27T11:05:00.000Z",
   "fetched": "2026-11-27T11:33:14.816Z",
   "fromCloud": "2026-11-27T1133.json"
+ },
+ {
+  "id": "2dc42e4b34d260c3",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Spark I Acquisition Corp. Cash Flow – OTC:SPKWF - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CZVJXQ1Zib0NTQWx6UXRRLS1xVkVHbk9xUVhaUVdRMTRPVmhmVEtMTXFsbFdUYjJKQXZqZEpJRzNSSnBQc2F0V0F5OV9LTU5KX0pfb0Jiam1XSExocENBYTVHMGZEQWZycFYyV3VXU2RRZEh6Rnc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9CZVJXQ1Zib0NTQWx6UXRRLS1xVkVHbk9xUVhaUVdRMTRPVmhmVEtMTXFsbFdUYjJKQXZqZEpJRzNSSnBQc2F0V0F5OV9LTU5KX0pfb0Jiam1XSExocENBYTVHMGZEQWZycFYyV3VXU2RRZEh6Rnc?oc=5\" target=\"_blank\">Spark I Acquisition Corp. Cash Flow – OTC:SPKWF<",
+  "date": "2026-11-27T11:02:22.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
  },
  {
   "id": "fed79662617e5169",
@@ -297,6 +440,17 @@
   "fromCloud": "2026-11-27T1103.json"
  },
  {
+  "id": "cc942d2f2300d546",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of Spark I Acquisition Corp. – OTC:SPKWF - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXNENFVjWE1xSXpCNEExSkRrSDB2ZEFpckJEU0tSNk9qMzRkQ3JOUEFGR1hzSm5SYndfZl8wczRGOE1velpGZ2xBa2RCZnlDeHFpQ25KVWlrM1RUSExOLThXVm51YnVGX3NWcFpjeVVuZ1hPNHJ1WmRXYWVLUmlkdGV0V2hENUNnd3lCNzVKeVVNOGdNSWE2bGVHUnFfWUI5RldnOUtFYw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXNENFVjWE1xSXpCNEExSkRrSDB2ZEFpckJEU0tSNk9qMzRkQ3JOUEFGR1hzSm5SYndfZl8wczRGOE1velpGZ2xBa2RCZnlDeHFpQ25KVWlrM1RUSExOLThXVm51YnVGX3NWcFpjeVVuZ1hPNHJ1WmRXYWVLUmlkdGV0V2hENUNnd3lCNzVKeVVNOGdNSWE2bGVHUnFfWUI5RldnOUtFYw?oc=",
+  "date": "2026-11-27T10:39:38.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
   "id": "38a54f501718e3ce",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -385,6 +539,17 @@
   "fromCloud": "2026-11-27T1133.json"
  },
  {
+  "id": "a5cec52520c4cacf",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Zalando SE (ZAL) Reports Manager Acquisition; Transaction Size Not Disclosed - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOC05bVo3bEtWSTRGR0FVR2p0TEVDSFM5ZUFkVmh6eEN0WFZVYVNTOE1iNlY0SDZVeHlqUTExdk5XempwNVJkMFpJMzJjNVR6YzJSaTJwTHVBZGlsS2lYVFl1ZG0xVlN6NTlNang5VFNpYXRjTlpLRnhYSUxRLVZLV0M3M1hnd1VNY25NZ0EtQ0JVSldkMkR1elA4MVJKOS1LSFJLeTRFOEQyQVA2R1dhTDZTajF1WWFqTV8tU24yYXN0NzF5SXZaYkZQdVdoZkJs?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOC05bVo3bEtWSTRGR0FVR2p0TEVDSFM5ZUFkVmh6eEN0WFZVYVNTOE1iNlY0SDZVeHlqUTExdk5XempwNVJkMFpJMzJjNVR6YzJSaTJwTHVBZGlsS2lYVFl1ZG0xVlN6NTlNang5VFNpYXRjTlpLRnhYSUxRLVZLV0M3M1hnd1VNY25NZ0EtQ0JVSldkMkR1elA4MVJKOS1LSFJLeTRFOEQyQV",
+  "date": "2026-11-27T10:30:33.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
   "id": "a559c79cf0f1ab80",
   "source": "Google News – CFO / M&A",
   "group": "cfo",
@@ -416,6 +581,17 @@
   "date": "2026-11-27T10:30:31.000Z",
   "fetched": "2026-11-27T11:33:14.816Z",
   "fromCloud": "2026-11-27T1133.json"
+ },
+ {
+  "id": "e6bde47d5b63f6e2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Spark I Acquisition Corp. Earnings and Revenue – OTC:SPKWF - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11ZVhKZWdpMHUtUG9qb0ZCdlFkOUJUVlFaVVE1VG5uTk10T1FkYy12aEt6Y3dvSzNnMGVCdUprTUh3Qjg1anJja0tVOW1PdTBMNDFJTjFIMU9zc0FTbjRWZUVZMUVWZ1N5TjlFQVRmUGd0MDB0?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE11ZVhKZWdpMHUtUG9qb0ZCdlFkOUJUVlFaVVE1VG5uTk10T1FkYy12aEt6Y3dvSzNnMGVCdUprTUh3Qjg1anJja0tVOW1PdTBMNDFJTjFIMU9zc0FTbjRWZUVZMUVWZ1N5TjlFQVRmUGd0MDB0?oc=5\" target=\"_blank\">Spark I Acquisition Corp. Earnings and Revenue – OT",
+  "date": "2026-11-27T10:28:57.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
  },
  {
   "id": "456ada237abd1b5e",
@@ -737,6 +913,17 @@
   "fromCloud": "2026-11-27T1033.json"
  },
  {
+  "id": "e2044cab2d14d437",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of ULMA Construccion Polska S.A. – GPW:ULM_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1FHeHAxTnpudU1YWU5VYWVvV2NUYkpNSG02bmEyN3NiLWhzYTk0TzVfWFcySk1jV2VhNE5neHkxOE0wS1hVS2dDQXhPLXF1U0RxTTh6OFN4Q2gtUk9PNE9BS0VoaHVOVUlqR1dwd2FYUkowUkdLWEY0ZlRtRGdwNTNVVXp5NnRGWkw2eF9rWlk0enFTMzJMQjR0RWh1WnRZd0Z3SE44aw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1FHeHAxTnpudU1YWU5VYWVvV2NUYkpNSG02bmEyN3NiLWhzYTk0TzVfWFcySk1jV2VhNE5neHkxOE0wS1hVS2dDQXhPLXF1U0RxTTh6OFN4Q2gtUk9PNE9BS0VoaHVOVUlqR1dwd2FYUkowUkdLWEY0ZlRtRGdwNTNVVXp5NnRGWkw2eF9rWlk0enFTMzJMQjR0RWh1WnRZd0Z3SE44aw?oc=",
+  "date": "2026-11-27T09:39:52.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
   "id": "f31417a66d1f767d",
   "source": "Calcalist Tech (Google News)",
   "group": "israel-press",
@@ -790,6 +977,28 @@
   "date": "2026-11-27T09:30:54.000Z",
   "fetched": "2026-11-27T09:33:11.526Z",
   "fromCloud": "2026-11-27T0933.json"
+ },
+ {
+  "id": "081e57eeee565009",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EnviTec Biogas AG (ETG) Corrects Reported Acquisition Details - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXhub0lNT3NyZndCRzlrZFRjVzQyMldUNkxQWU1faE5MZmpBRHBrX2FrMG1ZTkl5eTdTTnNsVlFqYm5vVmgxSVh2bVMxVVN3VS1MQ1RFd0tXb29tTkJuZVBWWjl2cHA3RjBHMU5IY2FTUFd1RkhYd2ZWcWRTQ0dQWERuU0NWNWRncFRNdXlEUUhpVHpHYnZ4eS0tNC1ZQnhaa1lVcVFUVEdoTEYwREdEOU15bGtDdHR1eUh2cmhB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXhub0lNT3NyZndCRzlrZFRjVzQyMldUNkxQWU1faE5MZmpBRHBrX2FrMG1ZTkl5eTdTTnNsVlFqYm5vVmgxSVh2bVMxVVN3VS1MQ1RFd0tXb29tTkJuZVBWWjl2cHA3RjBHMU5IY2FTUFd1RkhYd2ZWcWRTQ0dQWERuU0NWNWRncFRNdXlEUUhpVHpHYnZ4eS0tNC1ZQnhaa1lVcVFUVEdoTE",
+  "date": "2026-11-27T09:30:22.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
+  "id": "4e2972318c542d53",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "EnviTec Biogas AG (ETG) Reports Managerial Person Acquisition - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN1lkMkRWd1JzVHkycUFSSXlEazhtLWNDMjdzcjNkTzU2OHVDUUVaT1RpUVhuSldnQ29sTWlOQVpvS0ZLZXUtZkpOSUNvNld0eEQtRDdrWHpQVmp1ODZJdi1xWlJsV2Zlb2VsU0tmQ05BbnpNTmd3Vzh6RU5FQnN4TmlIMmM2Q1JhaVlCcGFrZUlvTlVMWElGcHQ4Yk5BNDVxMU5obkJpNFFTV1RqNVR2WjJoZGdqUkRNNU1NUHhR?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNN1lkMkRWd1JzVHkycUFSSXlEazhtLWNDMjdzcjNkTzU2OHVDUUVaT1RpUVhuSldnQ29sTWlOQVpvS0ZLZXUtZkpOSUNvNld0eEQtRDdrWHpQVmp1ODZJdi1xWlJsV2Zlb2VsU0tmQ05BbnpNTmd3Vzh6RU5FQnN4TmlIMmM2Q1JhaVlCcGFrZUlvTlVMWElGcHQ4Yk5BNDVxMU5obkJpNFFTV1",
+  "date": "2026-11-27T09:30:20.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
  },
  {
   "id": "4fe64896a7e30b53",
@@ -1034,6 +1243,17 @@
   "fromCloud": "2026-11-27T1003.json"
  },
  {
+  "id": "4908f5b911f8c998",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "[Orix Buffaloes] Official announcement of the acquisition of former Rakuten Eagles player Tomohito Sakai: 'As a rookie, I have to be aggressive.' The relief right-hander with 318 career games makes a fresh start in his hometown | Pacific League.com | Professio - パ・リーグ.com",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6Q2V6R3lBQ3pCTGhDVDRRNFBrelRaTjJTckx0TVB2ZzFpdElUcmZ6UEh5Z282TTBSN0l1bW1yNHk0dG5HSlFtRnE5clEyeU1TU1RnQlg2dlNVVlBER2sw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6Q2V6R3lBQ3pCTGhDVDRRNFBrelRaTjJTckx0TVB2ZzFpdElUcmZ6UEh5Z282TTBSN0l1bW1yNHk0dG5HSlFtRnE5clEyeU1TU1RnQlg2dlNVVlBER2sw?oc=5\" target=\"_blank\">[Orix Buffaloes] Official announcement of the acquisition of former Rakuten Eag",
+  "date": "2026-11-27T08:27:18.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
   "id": "7c00727608a2efcf",
   "source": "בנק ישראל ומשק (Google News)",
   "group": "israel-official",
@@ -1043,6 +1263,17 @@
   "date": "2026-11-27T08:26:22.000Z",
   "fetched": "2026-11-27T10:03:17.864Z",
   "fromCloud": "2026-11-27T1003.json"
+ },
+ {
+  "id": "fd026826e2e1ad7c",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow per share of RECEPTIONIST, Inc. – TSE:660A - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOU9CRjJyRnlXQnVEc1AzbVRoYmh5VXlFblJBeENUUDgzMmhEZ1VibUgyb1R5NUVYRFF0NVNrOVpNSVZFOGtud2lhQWVuWThmZXhlb2QzaVJ6Z1ZrQTZueHlwWFhtcmtEcDdxeWlPb25qWVU1ZUlrdTcwWE83NDFvakszRVdiQUg1b1Bla0dSam5FcGluX0EtMEJmZTlIbmtZRjFVa0FB?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNOU9CRjJyRnlXQnVEc1AzbVRoYmh5VXlFblJBeENUUDgzMmhEZ1VibUgyb1R5NUVYRFF0NVNrOVpNSVZFOGtud2lhQWVuWThmZXhlb2QzaVJ6Z1ZrQTZueHlwWFhtcmtEcDdxeWlPb25qWVU1ZUlrdTcwWE83NDFvakszRVdiQUg1b1Bla0dSam5FcGluX0EtMEJmZTlIbmtZRjFVa0FB?oc=5\"",
+  "date": "2026-11-27T08:26:06.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
  },
  {
   "id": "78ea3cbdd0c3d8d4",
@@ -1188,6 +1419,17 @@
   "fromCloud": "2026-11-27T0833.json"
  },
  {
+  "id": "e43351d74edc1a27",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Free cash flow of MILITARY GROUP S.A. – GPW:MIG_C - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM29nZEVkeFJDZWRQMGkyZWtZMEtDQ3B2eW5KcElzUFpMUE5ONHJEcWt6bDlxbHZ1OWE0QkN6QzRMb1l5OTZLdldNVHM4UmxSY0cza2NVdF90UW9MZFd3X3lXSEplMmF0b25FZWRSUWR1YWxPQmxvR1N6cHhSQkRxOHkyRGhPdFdfaEE?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPM29nZEVkeFJDZWRQMGkyZWtZMEtDQ3B2eW5KcElzUFpMUE5ONHJEcWt6bDlxbHZ1OWE0QkN6QzRMb1l5OTZLdldNVHM4UmxSY0cza2NVdF90UW9MZFd3X3lXSEplMmF0b25FZWRSUWR1YWxPQmxvR1N6cHhSQkRxOHkyRGhPdFdfaEE?oc=5\" target=\"_blank\">Free cash flow of MI",
+  "date": "2026-11-27T07:59:29.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
+ },
+ {
   "id": "0f5bf414ee9d17b1",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -1274,6 +1516,17 @@
   "date": "2026-11-27T07:41:00.000Z",
   "fetched": "2026-11-27T08:33:12.195Z",
   "fromCloud": "2026-11-27T0833.json"
+ },
+ {
+  "id": "5ed6c9445fe917b2",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "Gamma Communications Says All Regulatory Conditions For Gamma Acquisition Satisfied - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTmpQM19lc0hiVTN2cDZYVklQdDJTaDVtSFVBbGJPRGhkUnpuYWJjNGs2ZVdhb0pLLWFPdHRxR19hbzgxS3JvZDNkaDF3LTVHdlB3aGtjMEs0TlNnMHE2ZEhfMlpnNnppZEQ4VS1qaE52WFNIOEYtMGJCdUVGVThmT2JrU1UybEpkZ3lhaUFDaGVMX0xkQ05raUdIMkZINVRwU1dKWjNXUEVGdXFuT3lCYzJzZzZmZ1ZTLWtNQmJGMkMzbWVmeGYxd3ZJNkk1ODFlbWNwSklzY21PSUxtemFWckZKTnpUcUtN?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTmpQM19lc0hiVTN2cDZYVklQdDJTaDVtSFVBbGJPRGhkUnpuYWJjNGs2ZVdhb0pLLWFPdHRxR19hbzgxS3JvZDNkaDF3LTVHdlB3aGtjMEs0TlNnMHE2ZEhfMlpnNnppZEQ4VS1qaE52WFNIOEYtMGJCdUVGVThmT2JrU1UybEpkZ3lhaUFDaGVMX0xkQ05raUdIMkZINVRwU1dKWjNXUEVGdX",
+  "date": "2026-11-27T07:40:00.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
  },
  {
   "id": "c699272578f57b8f",
@@ -1890,6 +2143,17 @@
   "date": "2026-11-27T05:58:00.000Z",
   "fetched": "2026-11-27T07:03:10.618Z",
   "fromCloud": "2026-11-27T0703.json"
+ },
+ {
+  "id": "a16671f468122e73",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "אוסטרליה מחייבת יצואני LNG לשמור עד 20% מהגז לשוק המקומי - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YQ1h5TVBwOGNEWnNCOEcyeWtaUS1UMWY2Ni1hZ0tGdTV3NzF5SjhrcnF3eWdFdklvU1hFbk9LOHBaZEVtT0pqRDF2dE90TmloSnZpYmxfRnBZRlRIeXMtODFWa213dUU?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YQ1h5TVBwOGNEWnNCOEcyeWtaUS1UMWY2Ni1hZ0tGdTV3NzF5SjhrcnF3eWdFdklvU1hFbk9LOHBaZEVtT0pqRDF2dE90TmloSnZpYmxfRnBZRlRIeXMtODFWa213dUU?oc=5\" target=\"_blank\">אוסטרליה מחייבת יצואני LNG לשמור עד 20% מהגז לשוק המקומי</a>&nbsp;&n",
+  "date": "2026-11-27T05:57:00.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
  },
  {
   "id": "373dbe78f18b6752",
@@ -3045,6 +3309,17 @@
   "date": "2026-11-27T00:58:41.000Z",
   "fetched": "2026-11-27T07:33:11.087Z",
   "fromCloud": "2026-11-27T0733.json"
+ },
+ {
+  "id": "6f6a7f5577831a7d",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "China Blocks SoftBank’s Acquisition of ABB Robotics Business in China - foundry-planet.com",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkZoT09XRG1nZFRFZWdNSG9ua0FlQTQydTRFSVduNk9wU3paaklTczRqM3FEeW9aOFVpQld3aFVKejh5aEsyY18tc2wtR1haMzd2ejhITTFPVVhJSnFKa3V4WWFiNXR1dXFqbWFLaU44bE95VHNldU1wak5teVdiSkphX3ZXMkZaYTd2VEtIRXRrLUNhaU5VTW5ZbEVCcGZnb2RvNg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkZoT09XRG1nZFRFZWdNSG9ua0FlQTQydTRFSVduNk9wU3paaklTczRqM3FEeW9aOFVpQld3aFVKejh5aEsyY18tc2wtR1haMzd2ejhITTFPVVhJSnFKa3V4WWFiNXR1dXFqbWFLaU44bE95VHNldU1wak5teVdiSkphX3ZXMkZaYTd2VEtIRXRrLUNhaU5VTW5ZbEVCcGZnb2RvNg?oc=5\" t",
+  "date": "2026-11-27T00:55:40.000Z",
+  "fetched": "2026-11-27T12:02:11.328Z",
+  "fromCloud": "2026-11-27T1202.json"
  },
  {
   "id": "c76dfbce93b4e4e3",
@@ -6851,16 +7126,5 @@
   "date": "2026-11-26T12:14:43.000Z",
   "fetched": "2026-11-27T11:33:14.816Z",
   "fromCloud": "2026-11-27T1133.json"
- },
- {
-  "id": "8ff52706c2df9d26",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "BST הכפילה את הרווח ברבעון; שילמה להפניקס 52.5 מיליון שקל על ההנפקה - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qdm1mOTF6N0VmemFQTDJqbkFNYnltS3RGVDAwLXlxQnNPWjBCSzA1ZXlWQWNLdHBIUmFpdGF4TndLR24ySGZrOWIwcHkyUU1pUG1ubXlHSHh1WTlCaWNBeEU1Zk5Cak5pTFlXY0Jn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9qdm1mOTF6N0VmemFQTDJqbkFNYnltS3RGVDAwLXlxQnNPWjBCSzA1ZXlWQWNLdHBIUmFpdGF4TndLR24ySGZrOWIwcHkyUU1pUG1ubXlHSHh1WTlCaWNBeEU1Zk5Cak5pTFlXY0Jn?oc=5\" target=\"_blank\">BST הכפילה את הרווח ברבעון; שילמה להפניקס 52.5 מיליון שקל ע",
-  "date": "2026-11-26T11:45:00.000Z",
-  "fetched": "2026-11-26T16:33:11.921Z",
-  "fromCloud": "2026-11-26T1633.json"
  }
 ]
