@@ -1,5 +1,27 @@
 [
  {
+  "id": "0ccdf7922d799c77",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "איך יוצאים מחוב בכרטיס אשראי: 6 צעדים מעשיים - חדשות מבזק לייב",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zRTJtOVBYNXBHaUdhcVpMZTdNdjJ1dm1OdDVpVEFoQnh3eG0zYVlkQ1M1T1VpYUJZdTZZY0RoRW9OYzhtMVlDTkNrWnVzRlhJbFBYWjRHWVo?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zRTJtOVBYNXBHaUdhcVpMZTdNdjJ1dm1OdDVpVEFoQnh3eG0zYVlkQ1M1T1VpYUJZdTZZY0RoRW9OYzhtMVlDTkNrWnVzRlhJbFBYWjRHWVo?oc=5\" target=\"_blank\">איך יוצאים מחוב בכרטיס אשראי: 6 צעדים מעשיים</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">חדשות ",
+  "date": "2026-11-28T00:44:31.000Z",
+  "fetched": "2026-11-28T01:03:12.669Z",
+  "fromCloud": "2026-11-28T0103.json"
+ },
+ {
+  "id": "a5c7ade627ef1c3b",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "טעות במודל ההון בלונדון עלתה לסיטי בהזרמה של 3 מיליארד דולר - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xclNtQ1BrYkpQdjN2OEttelpmM2NWUHMwVU9oOU1jQ2hfSUpsOTV6bzB2ZEtBTDBLajh3RkxpYnh6d29aSnRyWUdRTTRLTF9sZXdQZWNHdHo0aWluOFJUQmE5VlZabHBBZmZFaw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0xclNtQ1BrYkpQdjN2OEttelpmM2NWUHMwVU9oOU1jQ2hfSUpsOTV6bzB2ZEtBTDBLajh3RkxpYnh6d29aSnRyWUdRTTRLTF9sZXdQZWNHdHo0aWluOFJUQmE5VlZabHBBZmZFaw?oc=5\" target=\"_blank\">טעות במודל ההון בלונדון עלתה לסיטי בהזרמה של 3 מיליארד דולר</",
+  "date": "2026-11-28T00:43:00.000Z",
+  "fetched": "2026-11-28T01:03:12.669Z",
+  "fromCloud": "2026-11-28T0103.json"
+ },
+ {
   "id": "5435e00ecdf30924",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -53,6 +75,17 @@
   "date": "2026-11-27T23:42:00.000Z",
   "fetched": "2026-11-28T00:03:11.101Z",
   "fromCloud": "2026-11-28T0003.json"
+ },
+ {
+  "id": "0dd72e55a4482cad",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "זלקינד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SbWQ1eDk3eExvUzQ2YXRvdHMzRW9uMm9iOE9keXlrVFJ3aWxTenM3dHFFSENINGxMbEs1MEVKaU1rMXJBcEl3dHVlTWloWTJMNHJoT0ZxbGtuamFScHM4?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SbWQ1eDk3eExvUzQ2YXRvdHMzRW9uMm9iOE9keXlrVFJ3aWxTenM3dHFFSENINGxMbEs1MEVKaU1rMXJBcEl3dHVlTWloWTJMNHJoT0ZxbGtuamFScHM4?oc=5\" target=\"_blank\">זלקינד</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
+  "date": "2026-11-27T23:41:01.000Z",
+  "fetched": "2026-11-28T01:03:12.669Z",
+  "fromCloud": "2026-11-28T0103.json"
  },
  {
   "id": "fc3d45d5f3a2d45a",
@@ -119,6 +152,17 @@
   "date": "2026-11-27T23:07:16.000Z",
   "fetched": "2026-11-27T23:33:11.215Z",
   "fromCloud": "2026-11-27T2333.json"
+ },
+ {
+  "id": "242508842b908f4e",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "CSN Board Elects Mario Augusto da Silva as CFO and Investor Relations Executive Officer - The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcGE0ckl1Y2tIYm1Kc0gwV3ljR0IwTXFGaXg0N3BibnhGX29UOHltOGNEWGVvY3ktYkh2YnJxUlRMbzl6YmpLQTU4YnRudmRDdnhqc0VmR3V2UHVqNThuckpnMUxaQ1UxdEZFQU5MajRaVkVudTFWUXozMHR0d2JybGpfMlhmc3BLSnRxLU9PMGE2ZVMyZW00akhReEstYi0xZ3BFaHdoemhCeE9DdHBRWk02VV9lNXM1RWJkT0pEbm9YVGtxVkk5QnNnX0FDNlpRSXV5MnpFaHMwdlFDMk9Id2ZoQ193Yl9mQUp3VXVUeFFxN1l1U0lndFRkZk8?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcGE0ckl1Y2tIYm1Kc0gwV3ljR0IwTXFGaXg0N3BibnhGX29UOHltOGNEWGVvY3ktYkh2YnJxUlRMbzl6YmpLQTU4YnRudmRDdnhqc0VmR3V2UHVqNThuckpnMUxaQ1UxdEZFQU5MajRaVkVudTFWUXozMHR0d2JybGpfMlhmc3BLSnRxLU9PMGE2ZVMyZW00akhReEstYi0xZ3BFaHdoemhCeE",
+  "date": "2026-11-27T23:01:56.000Z",
+  "fetched": "2026-11-28T01:03:12.669Z",
+  "fromCloud": "2026-11-28T0103.json"
  },
  {
   "id": "d0e1a6beada02896",
@@ -867,6 +911,17 @@
   "date": "2026-11-27T20:58:03.000Z",
   "fetched": "2026-11-27T21:03:11.365Z",
   "fromCloud": "2026-11-27T2103.json"
+ },
+ {
+  "id": "9480c56187b394b0",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "מטבעות דיגיטליים כתבות נוספות - עמוד 125 - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDWHFjSXNYX3A3aUcwVGZYTTFZeFo4YlFRNXQ3MlBwSzdxcmN4dHRRRVEtWXpGY2VzdmNoUVJFTWJjOUlkUDdiV1FzWkZ5c1E1VTNLaEViTS1QOUlMSXBialc5SkdnU3ZOcGc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBDWHFjSXNYX3A3aUcwVGZYTTFZeFo4YlFRNXQ3MlBwSzdxcmN4dHRRRVEtWXpGY2VzdmNoUVJFTWJjOUlkUDdiV1FzWkZ5c1E1VTNLaEViTS1QOUlMSXBialc5SkdnU3ZOcGc?oc=5\" target=\"_blank\">מטבעות דיגיטליים כתבות נוספות - עמוד 125</a>&nbsp;&nbsp;<font co",
+  "date": "2026-11-27T20:56:46.000Z",
+  "fetched": "2026-11-28T01:03:12.669Z",
+  "fromCloud": "2026-11-28T0103.json"
  },
  {
   "id": "1d3c07fcfaa8b424",
@@ -4972,6 +5027,17 @@
   "fromCloud": "2026-11-27T1003.json"
  },
  {
+  "id": "ab095e788bc4764b",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "סוכל פיגוע בבנימין: שלושה מחבלים נעצרו לאחר התרעת שב\"כ - אמס",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9INU9PRG9KNU00c0RjT3hPeFo2ckJKWU9sZjdwNzBidUttLTVOclpvNUtmdlpBUDVQV0puSkEwZlZqd2xSR3c4dnVfeDMzUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9INU9PRG9KNU00c0RjT3hPeFo2ckJKWU9sZjdwNzBidUttLTVOclpvNUtmdlpBUDVQV0puSkEwZlZqd2xSR3c4dnVfeDMzUQ?oc=5\" target=\"_blank\">סוכל פיגוע בבנימין: שלושה מחבלים נעצרו לאחר התרעת שב\"כ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</font",
+  "date": "2026-11-27T09:31:01.000Z",
+  "fetched": "2026-11-28T01:03:12.669Z",
+  "fromCloud": "2026-11-28T0103.json"
+ },
+ {
   "id": "564b5565654ac562",
   "source": "SecurityWeek",
   "group": "industry",
@@ -5234,6 +5300,17 @@
   "date": "2026-11-27T08:34:02.000Z",
   "fetched": "2026-11-27T09:03:13.643Z",
   "fromCloud": "2026-11-27T0903.json"
+ },
+ {
+  "id": "5949c412a65a6c36",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "מדוע דווקא \"רץ כצבי\"? הגילוי המרתק של ה'שפת אמת' - אמס",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GT3V0cHRseENsWWR2NE9LSmwxWlJoMWF6Z1EtMFlydGVoaWhXVHljWUg5YzM3eVYtbThGdHRJTk5ES21ub21GeWFVamhSUQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GT3V0cHRseENsWWR2NE9LSmwxWlJoMWF6Z1EtMFlydGVoaWhXVHljWUg5YzM3eVYtbThGdHRJTk5ES21ub21GeWFVamhSUQ?oc=5\" target=\"_blank\">מדוע דווקא \"רץ כצבי\"? הגילוי המרתק של ה'שפת אמת'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</font>",
+  "date": "2026-11-27T08:32:43.000Z",
+  "fetched": "2026-11-28T01:03:12.669Z",
+  "fromCloud": "2026-11-28T0103.json"
  },
  {
   "id": "bfddc60185ef3894",
@@ -7478,60 +7555,5 @@
   "date": "2026-11-27T01:08:46.000Z",
   "fetched": "2026-11-27T07:33:11.087Z",
   "fromCloud": "2026-11-27T0733.json"
- },
- {
-  "id": "ec81eab244f03c8a",
-  "source": "Financial Times",
-  "group": "global-press",
-  "title": "Lula names banker as Brazil finance minister in attempt to calm markets",
-  "link": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
-  "summary": "Luiz Carlos Trabuco’s appointment follows a sell-off in the country’s assets",
-  "date": "2026-11-27T00:59:07.000Z",
-  "fetched": "2026-11-27T02:03:12.253Z",
-  "fromCloud": "2026-11-27T0203.json"
- },
- {
-  "id": "fda14d5f360f7b23",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Sky director Philip Bowman discloses acquisition of 25,000 shares - TipRanks",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWVzeGFjVkg0a2EzRnd2UEwtNWFTRGc3TGY4Uk9TVmxiSjVWajVkanEzTzNIMmFyQjRHa1VsTExJMDRmRVBJODBpV0NSMm5FTUhRZVZWMGVoMkstWkpjejhtRFphcmNBVUItRDVxR21KRmxlcnY1NGp6Q3VDT28zaW1mX2d1Y0hHazN4ZDRBdTZGcTNtQ3dMa2EwNGN3QlZWSUpMVVZRaDRESGhLeEhJYVV4cWdmeW8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWVzeGFjVkg0a2EzRnd2UEwtNWFTRGc3TGY4Uk9TVmxiSjVWajVkanEzTzNIMmFyQjRHa1VsTExJMDRmRVBJODBpV0NSMm5FTUhRZVZWMGVoMkstWkpjejhtRFphcmNBVUItRDVxR21KRmxlcnY1NGp6Q3VDT28zaW1mX2d1Y0hHazN4ZDRBdTZGcTNtQ3dMa2EwNGN3QlZWSUpMVVZRaDRESG",
-  "date": "2026-11-27T00:58:41.000Z",
-  "fetched": "2026-11-27T07:33:11.087Z",
-  "fromCloud": "2026-11-27T0733.json"
- },
- {
-  "id": "6f6a7f5577831a7d",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "China Blocks SoftBank’s Acquisition of ABB Robotics Business in China - foundry-planet.com",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkZoT09XRG1nZFRFZWdNSG9ua0FlQTQydTRFSVduNk9wU3paaklTczRqM3FEeW9aOFVpQld3aFVKejh5aEsyY18tc2wtR1haMzd2ejhITTFPVVhJSnFKa3V4WWFiNXR1dXFqbWFLaU44bE95VHNldU1wak5teVdiSkphX3ZXMkZaYTd2VEtIRXRrLUNhaU5VTW5ZbEVCcGZnb2RvNg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkZoT09XRG1nZFRFZWdNSG9ua0FlQTQydTRFSVduNk9wU3paaklTczRqM3FEeW9aOFVpQld3aFVKejh5aEsyY18tc2wtR1haMzd2ejhITTFPVVhJSnFKa3V4WWFiNXR1dXFqbWFLaU44bE95VHNldU1wak5teVdiSkphX3ZXMkZaYTd2VEtIRXRrLUNhaU5VTW5ZbEVCcGZnb2RvNg?oc=5\" t",
-  "date": "2026-11-27T00:55:40.000Z",
-  "fetched": "2026-11-27T12:02:11.328Z",
-  "fromCloud": "2026-11-27T1202.json"
- },
- {
-  "id": "c76dfbce93b4e4e3",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Horizon Space Acquisition I Corp. (HSPOF) Seasonal returns chart - Yahoo Finance UK",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vUlpSYmtkNGFYbldHb0g3SFRURndlQVo5cGloSXRWZG9WbUNRZnB6c2tFUng2Q1p1TnBxOXROdFpWLTNUTEtxR2w1a2N3T3UwT2swTmhhSFV2YURjQTd6RkNGUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vUlpSYmtkNGFYbldHb0g3SFRURndlQVo5cGloSXRWZG9WbUNRZnB6c2tFUng2Q1p1TnBxOXROdFpWLTNUTEtxR2w1a2N3T3UwT2swTmhhSFV2YURjQTd6RkNGUQ?oc=5\" target=\"_blank\">Horizon Space Acquisition I Corp. (HSPOF) Seasonal returns chart</a>&nbsp",
-  "date": "2026-11-27T00:54:35.000Z",
-  "fetched": "2026-11-27T05:33:15.294Z",
-  "fromCloud": "2026-11-27T0533.json"
- },
- {
-  "id": "f74fabe290bf4098",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of XTPL SA – GPW:XTP_C - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUxjNjlpRURMWVZxWlozbFdVbjJmZnM4ckRSUTUtSEJ2a0tmeGdOUHNURUVQR1BCRWVRRUpHdGl6LV9DNUpSbktrLTUwMkUyUzA4WkNMYzVvbGkxZDFXdVd4MThXdVVJdkZrcHRHZzFsVWJhQzJFaV9IeFdLbzRYcUdRbFN4c2w5MlNpTEw1VDJ1OFpMU2s0NlNqZWV3ME1KOFBsVVZIOA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUxjNjlpRURMWVZxWlozbFdVbjJmZnM4ckRSUTUtSEJ2a0tmeGdOUHNURUVQR1BCRWVRRUpHdGl6LV9DNUpSbktrLTUwMkUyUzA4WkNMYzVvbGkxZDFXdVd4MThXdVVJdkZrcHRHZzFsVWJhQzJFaV9IeFdLbzRYcUdRbFN4c2w5MlNpTEw1VDJ1OFpMU2s0NlNqZWV3ME1KOFBsVVZIOA?oc=",
-  "date": "2026-11-27T00:54:24.000Z",
-  "fetched": "2026-11-27T10:03:17.864Z",
-  "fromCloud": "2026-11-27T1003.json"
  }
 ]
