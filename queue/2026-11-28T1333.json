@@ -1,0 +1,26 @@
+{
+ "batch": "2026-11-28T1333",
+ "created": "2026-11-28T13:33:10.621Z",
+ "items": [
+  {
+   "id": "1534de5532262873",
+   "source": "Calcalist Tech (Google News)",
+   "group": "israel-press",
+   "title": "CTech's Book Review: A grounding reminder of what actually builds enduring companies - www.calcalistech.com",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UnctaDNRYU9Eb2dTaUJObGhpVUNlVE82aFRIWnowajZLNVFpTU5zbTNSOGU1eG56MzJkTzRsTGRQSVlHSXlQcERHbUkxeC1QZThrb19OdDd0YkxGSnZrZWlFMFZIR1k?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UnctaDNRYU9Eb2dTaUJObGhpVUNlVE82aFRIWnowajZLNVFpTU5zbTNSOGU1eG56MzJkTzRsTGRQSVlHSXlQcERHbUkxeC1QZThrb19OdDd0YkxGSnZrZWlFMFZIR1k?oc=5\" target=\"_blank\">CTech's Book Review: A grounding reminder of what actually builds en",
+   "date": "2026-11-28T13:04:00.000Z",
+   "fetched": "2026-11-28T13:33:10.621Z"
+  },
+  {
+   "id": "a42919f6405b94ee",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "The outsider from Cannes shaking up France’s presidential race",
+   "link": "https://www.ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1",
+   "summary": "Rightwing mayor David Lisnard has surged in polls with punchy attacks on the bloated state and promises of radical spending cuts",
+   "date": "2026-11-28T12:00:03.000Z",
+   "fetched": "2026-11-28T13:33:10.621Z"
+  }
+ ]
+}
