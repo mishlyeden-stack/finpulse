@@ -1,0 +1,66 @@
+{
+ "batch": "2026-11-28T0533",
+ "created": "2026-11-28T05:33:11.045Z",
+ "items": [
+  {
+   "id": "a29870c95c7f24e9",
+   "source": "TheMarker (Google News)",
+   "group": "israel-press",
+   "title": "הסכסוך בין ענקיות הטכנולוגיה מחריף: OpenAI הגישה תביעה נגדית נגד אפל - TheMarker",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1BHc29WOWIycUQwY2VtT0RxaTZNQW1nYWFIODRTNFRCSkRYQWpPWFRHZlVEaktlUC1GU2dqVTVKUllEdjRXUS1FUVZFbGVHaG9ZczQwbXE0bkRiNHdKU3I0b3VjQVFfVHJxVjFFbmdYRGRkekQwUXo0SGdVOXRWcENEQUZSNWcyYTFLYzJkM3VtR1pZUnBrN2Z5VThsT2QwZ1Z3Sk1Ybw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1BHc29WOWIycUQwY2VtT0RxaTZNQW1nYWFIODRTNFRCSkRYQWpPWFRHZlVEaktlUC1GU2dqVTVKUllEdjRXUS1FUVZFbGVHaG9ZczQwbXE0bkRiNHdKU3I0b3VjQVFfVHJxVjFFbmdYRGRkekQwUXo0SGdVOXRWcENEQUZSNWcyYTFLYzJkM3VtR1pZUnBrN2Z5VThsT2QwZ1Z3Sk1Ybw?oc=",
+   "date": "2026-11-28T05:18:00.000Z",
+   "fetched": "2026-11-28T05:33:11.045Z"
+  },
+  {
+   "id": "895ea84045eb13ea",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "AI agents are coming for big business",
+   "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
+   "summary": "The technology could unleash much greater competition. But users are wary of giving away too much",
+   "date": "2026-11-28T05:00:14.000Z",
+   "fetched": "2026-11-28T05:33:11.045Z"
+  },
+  {
+   "id": "1039773ec9e69f93",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "‘Only in America’ and other good lies",
+   "link": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
+   "summary": "Diverse societies need noble myths to keep them whole",
+   "date": "2026-11-28T05:00:32.000Z",
+   "fetched": "2026-11-28T05:33:11.045Z"
+  },
+  {
+   "id": "54c6c61bc628a37e",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Pedro Sánchez: the partisan warrior fighting to the last",
+   "link": "https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1",
+   "summary": "Spain’s socialist prime minister is a political survivor — but anger over migration and housing could mark the end of his tenure",
+   "date": "2026-11-28T05:00:32.000Z",
+   "fetched": "2026-11-28T05:33:11.045Z"
+  },
+  {
+   "id": "a33845f41aaf1f7a",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
+   "link": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
+   "summary": "At least six vessels have been victims of ‘double tapping’ in the past two months",
+   "date": "2026-11-28T05:00:41.000Z",
+   "fetched": "2026-11-28T05:33:11.045Z"
+  },
+  {
+   "id": "3533a0024a28bf6e",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "US military repelled drones at RAF base",
+   "link": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
+   "summary": "New details emerge about incident at RAF Lakenheath in Suffolk earlier this month",
+   "date": "2026-11-28T05:00:41.000Z",
+   "fetched": "2026-11-28T05:33:11.045Z"
+  }
+ ]
+}
