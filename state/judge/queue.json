@@ -1,5 +1,71 @@
 [
  {
+  "id": "a29870c95c7f24e9",
+  "source": "TheMarker (Google News)",
+  "group": "israel-press",
+  "title": "הסכסוך בין ענקיות הטכנולוגיה מחריף: OpenAI הגישה תביעה נגדית נגד אפל - TheMarker",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1BHc29WOWIycUQwY2VtT0RxaTZNQW1nYWFIODRTNFRCSkRYQWpPWFRHZlVEaktlUC1GU2dqVTVKUllEdjRXUS1FUVZFbGVHaG9ZczQwbXE0bkRiNHdKU3I0b3VjQVFfVHJxVjFFbmdYRGRkekQwUXo0SGdVOXRWcENEQUZSNWcyYTFLYzJkM3VtR1pZUnBrN2Z5VThsT2QwZ1Z3Sk1Ybw?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1BHc29WOWIycUQwY2VtT0RxaTZNQW1nYWFIODRTNFRCSkRYQWpPWFRHZlVEaktlUC1GU2dqVTVKUllEdjRXUS1FUVZFbGVHaG9ZczQwbXE0bkRiNHdKU3I0b3VjQVFfVHJxVjFFbmdYRGRkekQwUXo0SGdVOXRWcENEQUZSNWcyYTFLYzJkM3VtR1pZUnBrN2Z5VThsT2QwZ1Z3Sk1Ybw?oc=",
+  "date": "2026-11-28T05:18:00.000Z",
+  "fetched": "2026-11-28T05:33:11.045Z",
+  "fromCloud": "2026-11-28T0533.json"
+ },
+ {
+  "id": "a33845f41aaf1f7a",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
+  "link": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
+  "summary": "At least six vessels have been victims of ‘double tapping’ in the past two months",
+  "date": "2026-11-28T05:00:41.000Z",
+  "fetched": "2026-11-28T05:33:11.045Z",
+  "fromCloud": "2026-11-28T0533.json"
+ },
+ {
+  "id": "3533a0024a28bf6e",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "US military repelled drones at RAF base",
+  "link": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
+  "summary": "New details emerge about incident at RAF Lakenheath in Suffolk earlier this month",
+  "date": "2026-11-28T05:00:41.000Z",
+  "fetched": "2026-11-28T05:33:11.045Z",
+  "fromCloud": "2026-11-28T0533.json"
+ },
+ {
+  "id": "1039773ec9e69f93",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "‘Only in America’ and other good lies",
+  "link": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
+  "summary": "Diverse societies need noble myths to keep them whole",
+  "date": "2026-11-28T05:00:32.000Z",
+  "fetched": "2026-11-28T05:33:11.045Z",
+  "fromCloud": "2026-11-28T0533.json"
+ },
+ {
+  "id": "54c6c61bc628a37e",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "Pedro Sánchez: the partisan warrior fighting to the last",
+  "link": "https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1",
+  "summary": "Spain’s socialist prime minister is a political survivor — but anger over migration and housing could mark the end of his tenure",
+  "date": "2026-11-28T05:00:32.000Z",
+  "fetched": "2026-11-28T05:33:11.045Z",
+  "fromCloud": "2026-11-28T0533.json"
+ },
+ {
+  "id": "895ea84045eb13ea",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "AI agents are coming for big business",
+  "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
+  "summary": "The technology could unleash much greater competition. But users are wary of giving away too much",
+  "date": "2026-11-28T05:00:14.000Z",
+  "fetched": "2026-11-28T05:33:11.045Z",
+  "fromCloud": "2026-11-28T0533.json"
+ },
+ {
   "id": "b784eb5c623635b7",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -6950,159 +7016,5 @@
   "date": "2026-11-27T05:37:14.000Z",
   "fetched": "2026-11-27T06:03:11.425Z",
   "fromCloud": "2026-11-27T0603.json"
- },
- {
-  "id": "7aa40a37d9119080",
-  "source": "בנק ישראל ומשק (Google News)",
-  "group": "israel-official",
-  "title": "רכבת ההרים של הדולר: כיצד היא משפיעה על ההשקעות שלכם? מה עדיף, קרן סל רגילה או מנוטרלת ? - פאנדר",
-  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoWXBOM0FqVUxnczBpZ2NuYkdNUzdUTWxna3ZEUlRkZUxMRFRqcGNkR0ZSeGFlU3VGMlA2eHNjbl9sOElrZEp3WndkMHVmUV8y?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoWXBOM0FqVUxnczBpZ2NuYkdNUzdUTWxna3ZEUlRkZUxMRFRqcGNkR0ZSeGFlU3VGMlA2eHNjbl9sOElrZEp3WndkMHVmUV8y?oc=5\" target=\"_blank\">רכבת ההרים של הדולר: כיצד היא משפיעה על ההשקעות שלכם? מה עדיף, קרן סל רגילה או מנוטרלת ?</a>&nbsp;&",
-  "date": "2026-11-27T05:33:32.000Z",
-  "fetched": "2026-11-27T09:03:13.643Z",
-  "fromCloud": "2026-11-27T0903.json"
- },
- {
-  "id": "e37c1be9cf17b990",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "נביוס איבדה 27% מאז הכלל שמחייב ספקיות ענן לבדוק לקוחות סינים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ycFRvRzlUZU42V0lpVHVyTEwzRHl0eE5pRVFyamR3TXh3Z1ZmSUZNb1FkUFJrWGFGeUlFMjdodHRfOXRxckJsZFpuak9zZXZ1azNYM1pZR0VfWlRUV29LZGxQR1JsQURIMjFseVRGRjY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8ycFRvRzlUZU42V0lpVHVyTEwzRHl0eE5pRVFyamR3TXh3Z1ZmSUZNb1FkUFJrWGFGeUlFMjdodHRfOXRxckJsZFpuak9zZXZ1azNYM1pZR0VfWlRUV29LZGxQR1JsQURIMjFseVRGRjY?oc=5\" target=\"_blank\">נביוס איבדה 27% מאז הכלל שמחייב ספקיות ענן לבדוק לקוחות ",
-  "date": "2026-11-27T05:33:00.000Z",
-  "fetched": "2026-11-27T08:03:11.695Z",
-  "fromCloud": "2026-11-27T0803.json"
- },
- {
-  "id": "1ea4da62d8975a97",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "DIC Completes Acquisition of 542,000 Treasury Shares - TipRanks",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblZvU2xZcHRGRzg5SDZmNm03RWZFWEJ6dWhfVkhpUUxqcVhmMHVNZ1dROWJVckYyOFgzdE54cWhWc3pFRy01UUtNN1FrT19hR3ZDZGlVZ29XWVVfc1pPU1kxandVam1DWFVNVHFLRVoyNVFqcnZPd0hCYmcwQS1pZE9yYnNaaDZrTHRUTTRWaWJ6NHo3N3RjMUNOdWFwT2s0QU54WmJn?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOblZvU2xZcHRGRzg5SDZmNm03RWZFWEJ6dWhfVkhpUUxqcVhmMHVNZ1dROWJVckYyOFgzdE54cWhWc3pFRy01UUtNN1FrT19hR3ZDZGlVZ29XWVVfc1pPU1kxandVam1DWFVNVHFLRVoyNVFqcnZPd0hCYmcwQS1pZE9yYnNaaDZrTHRUTTRWaWJ6NHo3N3RjMUNOdWFwT2s0QU54WmJn?oc=5\"",
-  "date": "2026-11-27T05:31:39.000Z",
-  "fetched": "2026-11-27T07:33:11.087Z",
-  "fromCloud": "2026-11-27T0733.json"
- },
- {
-  "id": "1a1c27b7f0cecd24",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "ה-AI אומר לכם מה שאתם רוצים לשמוע? כך תגרמו לו להתריע כשאתם טועים - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96YmNKSjV1ZlhtVWhIaWRJdXpwRS13cURHTkI1NWcxaUJPRXZEbmJ0LUVFVDFfNExHUUU5d0dIVzQ2dWg5ZGJFMUpadmc5QmUxSWxkQWp5ZUctakFqWGxpVlRtY1Z0WFpYUUtZ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96YmNKSjV1ZlhtVWhIaWRJdXpwRS13cURHTkI1NWcxaUJPRXZEbmJ0LUVFVDFfNExHUUU5d0dIVzQ2dWg5ZGJFMUpadmc5QmUxSWxkQWp5ZUctakFqWGxpVlRtY1Z0WFpYUUtZ?oc=5\" target=\"_blank\">ה-AI אומר לכם מה שאתם רוצים לשמוע? כך תגרמו לו להתריע כשאתם טוע",
-  "date": "2026-11-27T05:30:00.000Z",
-  "fetched": "2026-11-27T05:33:15.294Z",
-  "fromCloud": "2026-11-27T0533.json"
- },
- {
-  "id": "8f50e646fbb9f4e9",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Dentons advises Partners Group on tax aspects of proposed StraitNZ acquisition - Dentons Kensington Swan",
-  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaG9DY1Bvc2ItVkZHQ1dtU19MUng1TXhudEVUNjl2TXZRcndETlByOWhabFh5Ql9YMUlqWkRvdVlqRGJocFQ4ZTNpZ3Zjb081WFFNMkpSZWNoMEFrc3RMdUhnbG5DVW9YZnJhN0JVb0FoVDdnOEVnaG1TS0FxeDkzeVlsTW9XODhZd0NrZnU3RlljRnJwVzhoUFBUdlg1T29xMW10bUFFeFBmMWFZQXVpcEU1NUFFWmc0VFJpS19WNzNqVWpyUUxVQkVnX2VpaUZiT0VBQzV6WVotaF9fdndWbWJzQ2R6QUN3QVNN?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaG9DY1Bvc2ItVkZHQ1dtU19MUng1TXhudEVUNjl2TXZRcndETlByOWhabFh5Ql9YMUlqWkRvdVlqRGJocFQ4ZTNpZ3Zjb081WFFNMkpSZWNoMEFrc3RMdUhnbG5DVW9YZnJhN0JVb0FoVDdnOEVnaG1TS0FxeDkzeVlsTW9XODhZd0NrZnU3RlljRnJwVzhoUFBUdlg1T29xMW10bUFFeFBmMW",
-  "date": "2026-11-27T05:28:15.000Z",
-  "fetched": "2026-11-27T10:03:17.864Z",
-  "fromCloud": "2026-11-27T1003.json"
- },
- {
-  "id": "91aa0f8c155b6ea4",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Macquarie completes acquisition of Hwasung Cosmetics and NOWCOS - Chosunbiz",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcXlVZHc3OTBIWjE5WFdGcE4xbmo1c1FweEdiRGtLT3RLZENRRG1YOThjOUgyaTZUOENUM2pfd2ZISFAtcWdUWUFabG0wazZ5R2Zra1JrUDhOTm5Fa2RHMnozUXNYaEZlN3V2U1lRT3dZRWFiMHRpXzBabDhkLTR5ctIBlAFBVV95cUxNRnJGRDhQSFNsRnBDZEVjMU0wR3lhSWJJVURyd3paamNWenlLT00wQ1ZVenlEaVZKdzFTY0hUWDBKUUlQNlV0NFJUWWlwMmtTa2JfUHpKa3kta3N5N1BtTHc4eGxwZE9RTUpaRnY1ajdNaGl3LWFObWZ1U2tmUkdlMWJ2bE9Bdi1leC1BRjZENDNIYnl3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcXlVZHc3OTBIWjE5WFdGcE4xbmo1c1FweEdiRGtLT3RLZENRRG1YOThjOUgyaTZUOENUM2pfd2ZISFAtcWdUWUFabG0wazZ5R2Zra1JrUDhOTm5Fa2RHMnozUXNYaEZlN3V2U1lRT3dZRWFiMHRpXzBabDhkLTR5ctIBlAFBVV95cUxNRnJGRDhQSFNsRnBDZEVjMU0wR3lhSWJJVURyd3paam",
-  "date": "2026-11-27T05:27:00.000Z",
-  "fetched": "2026-11-27T07:03:10.618Z",
-  "fromCloud": "2026-11-27T0703.json"
- },
- {
-  "id": "e85bccc1355ba96f",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "The Finance Leader as Strategic Architect: How Snowflake Intelligence Transforms the Modern CFO - Snowflake",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91MFB0djg2aFdvM3NwQlFleVVZdHFLTXdsUC1fcFlVSUpVdGVZc3Q0SU9mVFZmZE1jX0g3VURzQUdlVEtKT0djWnd1ZXFGRmN3TTgzOVNOUGJFRkdhMjQwVG9OZ2JMeVU3azUwdDlVMTY?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE91MFB0djg2aFdvM3NwQlFleVVZdHFLTXdsUC1fcFlVSUpVdGVZc3Q0SU9mVFZmZE1jX0g3VURzQUdlVEtKT0djWnd1ZXFGRmN3TTgzOVNOUGJFRkdhMjQwVG9OZ2JMeVU3azUwdDlVMTY?oc=5\" target=\"_blank\">The Finance Leader as Strategic Architect: How Snowflake",
-  "date": "2026-11-27T05:25:44.000Z",
-  "fetched": "2026-11-27T10:03:17.864Z",
-  "fromCloud": "2026-11-27T1003.json"
- },
- {
-  "id": "138b5613d59631d5",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "עובד ברשות האוכלוסין הזמין 3,900 פעמים מזון ב-83,000 שקל - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03NGJxSWxVcmo3bXJCbXVrOW9PZVI3SFFudG1PZXFNaWQwaHg2M3BnVlRBRmVTNzI3N3pfR1d0d0xEZEtzQW5tWHAycHpoV01OYnlHQUhPYjRXc1g0ekxuM2ZwcFpDeDA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03NGJxSWxVcmo3bXJCbXVrOW9PZVI3SFFudG1PZXFNaWQwaHg2M3BnVlRBRmVTNzI3N3pfR1d0d0xEZEtzQW5tWHAycHpoV01OYnlHQUhPYjRXc1g0ekxuM2ZwcFpDeDA?oc=5\" target=\"_blank\">עובד ברשות האוכלוסין הזמין 3,900 פעמים מזון ב-83,000 שקל</a>&nbsp;&n",
-  "date": "2026-11-27T05:25:00.000Z",
-  "fetched": "2026-11-27T06:33:11.730Z",
-  "fromCloud": "2026-11-27T0633.json"
- },
- {
-  "id": "b345dfd0c5a38856",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "נדחה ערעורו של תומך נתניהו: הטריד בציוצים את העדה הדס קליין - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9raFB6ejYyRUM2dVdHckRYX0tNcmN6WjkwbXZxdWZQZ042M2dXaDZWbDZ2ZWVmTG1oZUpsTnJDeUU5Szl0cDhrdHFMTE9uV3R2dEhRLXlUbERyUWlPRHpxdVpYclpiQW8?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9raFB6ejYyRUM2dVdHckRYX0tNcmN6WjkwbXZxdWZQZ042M2dXaDZWbDZ2ZWVmTG1oZUpsTnJDeUU5Szl0cDhrdHFMTE9uV3R2dEhRLXlUbERyUWlPRHpxdVpYclpiQW8?oc=5\" target=\"_blank\">נדחה ערעורו של תומך נתניהו: הטריד בציוצים את העדה הדס קליין</a>&nbsp",
-  "date": "2026-11-27T05:24:00.000Z",
-  "fetched": "2026-11-27T06:33:11.730Z",
-  "fromCloud": "2026-11-27T0633.json"
- },
- {
-  "id": "0b3b5ba04e304fd2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Big Cheese Studio S.A – GPW:BCS_C - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHg5TW9keTJBbXNuQ3JUVkxMRW9yTTlpYmphdTZCMnFaSzlqcFNuZlRPV1JueVZfSkU2Vm5MMG5hbXNGWnlzM3daRUMzU3pRSFNJd0RaV2l5ck1iWFd3cmg2MlRGb2htbE9OeHhmMkVZamxhZkZsUHRTNzhUWWt0UEZjUGZhQkZOdWNDSHRRYUtGSnlCU3BfN1BsVFNEZUNSbC1VSXFOOA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHg5TW9keTJBbXNuQ3JUVkxMRW9yTTlpYmphdTZCMnFaSzlqcFNuZlRPV1JueVZfSkU2Vm5MMG5hbXNGWnlzM3daRUMzU3pRSFNJd0RaV2l5ck1iWFd3cmg2MlRGb2htbE9OeHhmMkVZamxhZkZsUHRTNzhUWWt0UEZjUGZhQkZOdWNDSHRRYUtGSnlCU3BfN1BsVFNEZUNSbC1VSXFOOA?oc=",
-  "date": "2026-11-27T05:23:28.000Z",
-  "fetched": "2026-11-27T06:33:11.730Z",
-  "fromCloud": "2026-11-27T0633.json"
- },
- {
-  "id": "75379da7c24540c0",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "הנשיא טראמפ: \"דיברתי עם נתניהו. אם נעשה משהו, בוודאות נתקוף את הר המכוש\"",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001565315#utm_source=RSS",
-  "summary": "טראמפ אמר שהוא שוחח עם נתניהו בימים האחרונים, והוסיף כי \"יהיה נחמד לעשות עסקה\" &#8226; בשיחת טלפון עם חיילים אמריקאיים, הצהיר: \"הניצחון באיראן נמצא בהישג ידינו\" &#8226; במהלך הלילה: הקואליציה בהובלת סעודיה יירטה כטב\"ם ששיגרו החות'ים לעבר האזור הדרומי של המדינה",
-  "date": "2026-11-27T05:20:00.000Z",
-  "fetched": "2026-11-27T05:33:15.294Z",
-  "fromCloud": "2026-11-27T0533.json"
- },
- {
-  "id": "c8e008d7142de760",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "מהו החלום האמריקני: לצאת לפנסיה בגיל 27 – או לזכות בקזינו ולחזור בידיים ריקות?",
-  "link": "https://www.ynet.co.il/economy/article/b1pzssskql",
-  "summary": "עובד גוגל שמרוויח יותר מ-300 אלף דולר בשנה חי בצמצום קיצוני כדי לפרוש בגיל 27, וישראלי שזכה ב-10,000 דולר בקזינו נותר בלי הכסף בגלל שמירת שבת. וגם: המציאות של בלאק פריידיי, המניה הביטחונית שצנחה אחרי מינוי אביב כוכבי והדוחות, והבור התקציבי של הסאבוויי בניו יורק | הצמרת הכלכלית – ",
-  "date": "2026-11-27T05:10:54.000Z",
-  "fetched": "2026-11-27T05:33:15.294Z",
-  "fromCloud": "2026-11-27T0533.json"
- },
- {
-  "id": "a8bc0f4b8299a3d4",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "\"אני מכור, זה חיידק\": הקאמבק של המסעדן שהוביל את מהפכת רשתות ההמבורגרים",
-  "link": "https://www.ynet.co.il/economy/article/bk300wl41xx",
-  "summary": "רן יונגר הפתיע כשהודיע על רכישת רשת ההמבורגרים הפופולרית הגראז' לפי שווי של 10 מיליון שקל, פחות משנה בלבד לאחר שסגר את רשת וולפנייטס שהייתה מחלוצות הז'אנר בראשית שנות האלפיים. בראיון ל-ynet מספר יונגר מה הצליח לשבור אותו, למה הוא בטוח שעסקאות המיליונים בענף המסעדנות הן לא בועה - ",
-  "date": "2026-11-27T05:10:46.000Z",
-  "fetched": "2026-11-27T05:33:15.294Z",
-  "fromCloud": "2026-11-27T0533.json"
- },
- {
-  "id": "4e437c7fabbe8898",
-  "source": "AV Network",
-  "group": "industry",
-  "title": "On Audio: Legrand Integrated AV",
-  "link": "https://www.avnetwork.com/news/on-audio-legrand-integrated-av",
-  "summary": "Alyssa Adnani, Senior Product Manager, Power and Furniture at Legrand Integrated AV, shares insights and trends on audio developments for enterprise, higher ed, live events, and similar markets.",
-  "date": "2026-11-27T05:05:00.000Z",
-  "fetched": "2026-11-27T05:33:15.294Z",
-  "fromCloud": "2026-11-27T0533.json"
  }
 ]
