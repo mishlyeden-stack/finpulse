@@ -1,0 +1,26 @@
+{
+ "batch": "2026-11-28T1033",
+ "created": "2026-11-28T10:33:12.624Z",
+ "items": [
+  {
+   "id": "d5360b0ee2183e55",
+   "source": "ביזפורטל (Google News)",
+   "group": "israel-press",
+   "title": "מחיר מכונית חדשה בארה\"ב הגיע ל-51 אלף דולר, 34% יותר מ-2019 - ביזפורטל",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42MWJBdTNQX1JLamhVajQyVGpnTFJNcEltbGlmVE9mZG0tVzVadThNUzlFSTJiSDMzRXM1bWxRTWZ3MGV3dkNhdlVWM1pfdUlkR2VuRk43VnhOdVBBS3k4UURRaw?oc=5",
+   "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE42MWJBdTNQX1JLamhVajQyVGpnTFJNcEltbGlmVE9mZG0tVzVadThNUzlFSTJiSDMzRXM1bWxRTWZ3MGV3dkNhdlVWM1pfdUlkR2VuRk43VnhOdVBBS3k4UURRaw?oc=5\" target=\"_blank\">מחיר מכונית חדשה בארה\"ב הגיע ל-51 אלף דולר, 34% יותר מ-2019</a>&nbsp;&nbs",
+   "date": "2026-11-28T10:28:00.000Z",
+   "fetched": "2026-11-28T10:33:12.624Z"
+  },
+  {
+   "id": "6887ada5c5a46178",
+   "source": "Financial Times",
+   "group": "global-press",
+   "title": "Israeli strike kills two Médecins Sans Frontières workers in Gaza",
+   "link": "https://www.ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c?syn-25a6b1a6=1",
+   "summary": "Medical charity calls for accountability as Israeli military claims men were involved in Hamas",
+   "date": "2026-11-28T10:14:12.000Z",
+   "fetched": "2026-11-28T10:33:12.624Z"
+  }
+ ]
+}
