@@ -1,5 +1,16 @@
 [
  {
+  "id": "1534de5532262873",
+  "source": "Calcalist Tech (Google News)",
+  "group": "israel-press",
+  "title": "CTech's Book Review: A grounding reminder of what actually builds enduring companies - www.calcalistech.com",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UnctaDNRYU9Eb2dTaUJObGhpVUNlVE82aFRIWnowajZLNVFpTU5zbTNSOGU1eG56MzJkTzRsTGRQSVlHSXlQcERHbUkxeC1QZThrb19OdDd0YkxGSnZrZWlFMFZIR1k?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UnctaDNRYU9Eb2dTaUJObGhpVUNlVE82aFRIWnowajZLNVFpTU5zbTNSOGU1eG56MzJkTzRsTGRQSVlHSXlQcERHbUkxeC1QZThrb19OdDd0YkxGSnZrZWlFMFZIR1k?oc=5\" target=\"_blank\">CTech's Book Review: A grounding reminder of what actually builds en",
+  "date": "2026-11-28T13:04:00.000Z",
+  "fetched": "2026-11-28T13:33:10.621Z",
+  "fromCloud": "2026-11-28T1333.json"
+ },
+ {
   "id": "9273792f28fbcfc0",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -108,6 +119,17 @@
   "date": "2026-11-28T12:00:47.000Z",
   "fetched": "2026-11-28T12:03:15.913Z",
   "fromCloud": "2026-11-28T1203.json"
+ },
+ {
+  "id": "a42919f6405b94ee",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "The outsider from Cannes shaking up France’s presidential race",
+  "link": "https://www.ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1",
+  "summary": "Rightwing mayor David Lisnard has surged in polls with punchy attacks on the bloated state and promises of radical spending cuts",
+  "date": "2026-11-28T12:00:03.000Z",
+  "fetched": "2026-11-28T13:33:10.621Z",
+  "fromCloud": "2026-11-28T1333.json"
  },
  {
   "id": "9547284a713b3407",
@@ -4717,236 +4739,5 @@
   "date": "2026-11-27T13:38:03.000Z",
   "fetched": "2026-11-27T14:33:16.737Z",
   "fromCloud": "2026-11-27T1433.json"
- },
- {
-  "id": "d275e8bd2b366301",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "\"אנחנו עומדים בפני בינת־על\": אמנון שעשוע על המהפכה שמטלטלת את המדע",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001565258#utm_source=RSS",
-  "summary": "ענקיות ה־AI פותרות בקצב מסחרר בעיות מתמטיות עתיקות, ומעוררות שאלות קיומיות על עתיד החוקרים באקדמיה &#8226; בראיון לגלובס מספר פרופ' אמנון שעשוע על ההישג המפתיע של הסטארט־אפ החדש שלו doubleAI שגייס 220 מיליון דולר, ומסביר איך היעדר יכולת האימות המוחלטת מונע בינתיים מהמהפכה לזלוג ל",
-  "date": "2026-11-27T13:31:00.000Z",
-  "fetched": "2026-11-27T14:03:11.447Z",
-  "fromCloud": "2026-11-27T1403.json"
- },
- {
-  "id": "efd264f161448a21",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "לאחר שצברה חובות: רשת KFC בישראל נמכרת - זה הבעלים החדשים - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YOVQ5aHcxb2NESE5nNU5TTzc1c3djTm9NdjFGS1FyNzhWaTNzaThzVmMxcEphVVNqUEpmR3FDUzl4WTZMclE1RE11X3ZBY1JGdUJfazVvUTZGWF9ZSl9iS1dFR3l4LVBOUHc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5YOVQ5aHcxb2NESE5nNU5TTzc1c3djTm9NdjFGS1FyNzhWaTNzaThzVmMxcEphVVNqUEpmR3FDUzl4WTZMclE1RE11X3ZBY1JGdUJfazVvUTZGWF9ZSl9iS1dFR3l4LVBOUHc?oc=5\" target=\"_blank\">לאחר שצברה חובות: רשת KFC בישראל נמכרת - זה הבעלים החדשים</a>&nb",
-  "date": "2026-11-27T13:31:00.000Z",
-  "fetched": "2026-11-27T14:03:11.447Z",
-  "fromCloud": "2026-11-27T1403.json"
- },
- {
-  "id": "9dcb50dc4865da49",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "NeuralSat raises $3.2m pre-seed on 72-satellite 50Gbps data relay & processing constellation",
-  "link": "https://www.datacenterdynamics.com/en/news/neuralsat-raises-32m-pre-seed-on-72-satellite-50gbps-data-relay-processing-constellation/",
-  "summary": "<p data-block-key=\"fq3xl\">Startup offers European compute-ready orbital access and data network to unlock LEO power in the EU</p>",
-  "date": "2026-11-27T13:30:57.000Z",
-  "fetched": "2026-11-27T13:33:11.045Z",
-  "fromCloud": "2026-11-27T1333.json"
- },
- {
-  "id": "0754e607acb068f1",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Sienna Completes Acquisition in Ontario - Yahoo! Finance Canada",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmFkN3RWYTZYWU14WXZ1MHRJN3NJNDFPSzdRcXktb3A0MHM2eEVjOE1nUHJpTk4wd0FFTVBXejlzYjNHS0xPTW04VEM1OW1zRHV2eTRfTDRwY19NRlV6cDZ0Smd5Q1E0LVpLUHlTQnpBTHEtSzhLaTZGQjd1TGNORGVYa2w0UlR3LVRra3hB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmFkN3RWYTZYWU14WXZ1MHRJN3NJNDFPSzdRcXktb3A0MHM2eEVjOE1nUHJpTk4wd0FFTVBXejlzYjNHS0xPTW04VEM1OW1zRHV2eTRfTDRwY19NRlV6cDZ0Smd5Q1E0LVpLUHlTQnpBTHEtSzhLaTZGQjd1TGNORGVYa2w0UlR3LVRra3hB?oc=5\" target=\"_blank\">Sienna Complete",
-  "date": "2026-11-27T13:30:00.000Z",
-  "fetched": "2026-11-27T15:33:13.734Z",
-  "fromCloud": "2026-11-27T1533.json"
- },
- {
-  "id": "81c4f3de77b43fc3",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Greek owner Velos seals double MR tanker acquisition, takes 2026 investment spree above US$180M - www.rivieramm.com",
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd25NMnNwY195ZkZCR3FXMTZjaXYtMHRCSkh5WjQ2TFZjdm9OWHBSQW9VWWp3blVzd1VadldNVkthdkdIUm1FNEoycnNYaW10eXBEWFRXNlJ4cXgzZU03akhmSE5iV3ptUjUtcTZKY2xTdThXZ04tbVlDOUtsODM3RnpTQTB3TDZ3Ni1ibEJJeDlsSkJRMU5FdGVKcXZzTUR6aVFFcjhwOWpzWUxaazdhenlmSDlJZW9Va21ta1RVRWNTS1Nobi1mal9SOHVraVlDNzZzODIwWVZVQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd25NMnNwY195ZkZCR3FXMTZjaXYtMHRCSkh5WjQ2TFZjdm9OWHBSQW9VWWp3blVzd1VadldNVkthdkdIUm1FNEoycnNYaW10eXBEWFRXNlJ4cXgzZU03akhmSE5iV3ptUjUtcTZKY2xTdThXZ04tbVlDOUtsODM3RnpTQTB3TDZ3Ni1ibEJJeDlsSkJRMU5FdGVKcXZzTUR6aVFFcjhwOWpzWU",
-  "date": "2026-11-27T13:29:45.000Z",
-  "fetched": "2026-11-27T19:33:11.214Z",
-  "fromCloud": "2026-11-27T1933.json"
- },
- {
-  "id": "312d631db3a09825",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Haleon’s reported HealthKart acquisition could revive growth strategy, says Jefferies - Proactive financial news",
-  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVlTbjc2akIxRzgwYzdZNzI0ZlF0eTBVYkV4YnNweENIYjhkVFRkSFpDY0I0RDRXQ0NkN1U3TGUtYVM4b1piSW5KdjV2WDR2TFp6akotbnpxNlo5UTFuZ2dzN1JoSzJIWGVqc1BidVQxWnRVTWVySXFpZ05DYzZTb01uS1hSZlBZRFdNb0dBNlVCYXlaRzVlc0czN1pZMzQ2TEluamNPeGhyQ1dqQl9OS2JMNEZ5VlViOEtXYzZac2xmWm5pb0NpNHd0VWVGbmpoRFV6U0t2MU9HVTREUWRWM1BiM19tWnFsR0tz?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVlTbjc2akIxRzgwYzdZNzI0ZlF0eTBVYkV4YnNweENIYjhkVFRkSFpDY0I0RDRXQ0NkN1U3TGUtYVM4b1piSW5KdjV2WDR2TFp6akotbnpxNlo5UTFuZ2dzN1JoSzJIWGVqc1BidVQxWnRVTWVySXFpZ05DYzZTb01uS1hSZlBZRFdNb0dBNlVCYXlaRzVlc0czN1pZMzQ2TEluamNPeGhyQ1",
-  "date": "2026-11-27T13:22:00.000Z",
-  "fetched": "2026-11-27T14:03:11.447Z",
-  "fromCloud": "2026-11-27T1403.json"
- },
- {
-  "id": "501b383f152a7b82",
-  "source": "DCD – Data Center Dynamics",
-  "group": "industry",
-  "title": "BT in British AI-RAN 'first' with Ericsson",
-  "link": "https://www.datacenterdynamics.com/en/news/bt-in-british-ai-ran-first-with-ericsson/",
-  "summary": "<p data-block-key=\"od14x\">EE arm deploys Ericsson's AI-native Scheduler for Link Adaptation across London</p>",
-  "date": "2026-11-27T13:20:33.000Z",
-  "fetched": "2026-11-27T13:33:11.045Z",
-  "fromCloud": "2026-11-27T1333.json"
- },
- {
-  "id": "63c4af4a72687800",
-  "source": "ynet כלכלה",
-  "group": "israel-press",
-  "title": "לאחר שצברה חובות: KFC ישראל תימכר לאיש העסקים אמיר חמיאס",
-  "link": "https://www.ynet.co.il/economy/article/hymnz11wj7x",
-  "summary": "בלעדי: רשת KFC ישראל מפעילה כיום 12 סניפים ומעסיקה כ-120 עובדים. חובותיה עומדים על 50 מיליון שקל. אמיר חמיאס שבבעלותו חברה לייצור ושיווק עופות ובשר ישלם תמורת רכישת הרשת כ-2.7 מיליון שקל. במסגרת העסקה הוא יגדיל את מספר סניפי הרשת וימשיך להעסיק 80% מהעובדים. המכירה כפופה לאישור בי",
-  "date": "2026-11-27T13:18:40.000Z",
-  "fetched": "2026-11-27T13:33:11.045Z",
-  "fromCloud": "2026-11-27T1333.json"
- },
- {
-  "id": "e06c0a3d2d8e8f77",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "First Helium Acquisition Update: Trading Halt Continues as Valuation Remains Pending - ChemAnalyst",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXN4RkZzdmR3Vl94bGtTNWpZZTBuSHI4RHFzZXRZQTdZc2Y4WFkwTzNrVkJvRzQyendSWDQydncxXzdQYmZiNXZCRVpCOXBtOW1nTFo5clNZajYtdk9VSjAzSzVQalB5SnVIMG9laG1adXNuOFZlb2IxTWdnWlhDY2tkT3djb3dqTm9xU01PVmd1QlZmYVV0NFRSYjVMUmlCbUt4YnY5bWR3Z1pvWUFYU0pJVQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXN4RkZzdmR3Vl94bGtTNWpZZTBuSHI4RHFzZXRZQTdZc2Y4WFkwTzNrVkJvRzQyendSWDQydncxXzdQYmZiNXZCRVpCOXBtOW1nTFo5clNZajYtdk9VSjAzSzVQalB5SnVIMG9laG1adXNuOFZlb2IxTWdnWlhDY2tkT3djb3dqTm9xU01PVmd1QlZmYVV0NFRSYjVMUmlCbUt4YnY5bWR3Z1",
-  "date": "2026-11-27T13:17:06.000Z",
-  "fetched": "2026-11-27T13:33:11.045Z",
-  "fromCloud": "2026-11-27T1333.json"
- },
- {
-  "id": "f3f5d87eb7af68f7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Southern Company (The) 2026 Series A Corporate – NYSE:SONN - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmtnQ3ZIcUxpa2pWT1JhbkplSnpZSjEzd0EyVHl4Z2JmZ1BoNWZJN2w4T0xJMHhWV29vamptX1hlOE9EQlY1NUJ4NjBLOWtQaC1BNmc3WU1KTF9YTG0xSk5zaTRMNF9YOE5uQkF3QVYxZTk5RmFBUDhLLXNCLUFPYW5IT1lHdXh1QS1kOTU3UFdzRFdvV041UzE1SDdWX1dLanZ2N2lfOA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmtnQ3ZIcUxpa2pWT1JhbkplSnpZSjEzd0EyVHl4Z2JmZ1BoNWZJN2w4T0xJMHhWV29vamptX1hlOE9EQlY1NUJ4NjBLOWtQaC1BNmc3WU1KTF9YTG0xSk5zaTRMNF9YOE5uQkF3QVYxZTk5RmFBUDhLLXNCLUFPYW5IT1lHdXh1QS1kOTU3UFdzRFdvV041UzE1SDdWX1dLanZ2N2lfOA?oc=",
-  "date": "2026-11-27T13:13:03.000Z",
-  "fetched": "2026-11-27T14:03:11.447Z",
-  "fromCloud": "2026-11-27T1403.json"
- },
- {
-  "id": "bb251f095a89ad0c",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Gulftainer completes acquisition of Bangkok's Suksawat container terminal - Container Management",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1JGQzdDemtnaU1CUDQxd2c5d1V0WFhMbnhUSFpSZllHZjdLX2FWcUFXaS1BaGFUWm4wNktTSXFCV0d4WnJkLU1OMWZNYmhBaEtZT0lsZ0FKamlIYTUtWlJVV0YyaWctRG5MSWpwdGR6Skc4SVJINTd1eGk4MzFOTjROMnNZUE1pWmN5QmszcTZIMjdFVVlwN3NFSWF6dnpFZlh5Yw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1JGQzdDemtnaU1CUDQxd2c5d1V0WFhMbnhUSFpSZllHZjdLX2FWcUFXaS1BaGFUWm4wNktTSXFCV0d4WnJkLU1OMWZNYmhBaEtZT0lsZ0FKamlIYTUtWlJVV0YyaWctRG5MSWpwdGR6Skc4SVJINTd1eGk4MzFOTjROMnNZUE1pWmN5QmszcTZIMjdFVVlwN3NFSWF6dnpFZlh5Yw?oc=5\" t",
-  "date": "2026-11-27T13:10:44.000Z",
-  "fetched": "2026-11-27T16:03:11.631Z",
-  "fromCloud": "2026-11-27T1603.json"
- },
- {
-  "id": "8b911a0119f9e77a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "AT&S Austria Technologie & Systemtechnik AG (ATS) Reports Insider Acquisition - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1lienRZQ1ROVWNUc0tMWkw1VHk5bGtweUVlV0tDb3NXUGFWU2FGb1BiTE1pTWFUTzBIU1JnTXZ4M2JqOER1amFta3NlWUE2Uk5HZlV2U3d0RFgyZmNSZ2VRYWZTSXZnZlE3b0FVRTlpM01iUUd5SVBCbVFGeWpWQ0Y1NXdJZGNDU2cwZ3VBNGtyQWdDRy1CNHNJTFA4QklhdHhaejEtbkptQkJaZlRPbENOWkhVeWplc0ZRblhLelAwRGpXSjlONGtCRHoyR2xz?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1lienRZQ1ROVWNUc0tMWkw1VHk5bGtweUVlV0tDb3NXUGFWU2FGb1BiTE1pTWFUTzBIU1JnTXZ4M2JqOER1amFta3NlWUE2Uk5HZlV2U3d0RFgyZmNSZ2VRYWZTSXZnZlE3b0FVRTlpM01iUUd5SVBCbVFGeWpWQ0Y1NXdJZGNDU2cwZ3VBNGtyQWdDRy1CNHNJTFA4QklhdHhaejEtbkptQk",
-  "date": "2026-11-27T13:09:21.000Z",
-  "fetched": "2026-11-27T14:33:16.737Z",
-  "fromCloud": "2026-11-27T1433.json"
- },
- {
-  "id": "beb1aa931259e906",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Columbia Financial CFO Thomas Splaine to step down - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDVzblRiT3E5ckdPMVJYaVZGQWNOVFhQMVhEakFQQmlBaU5xT0ZDMlRpUktLYlNkTENIZG1kVUpqUm0tT050OHNpVV9EV2M4NUE1UERhVXBsUXNZRkJ4b2k5c1lUTExZaHNEeDJQRU1YSmZXOVltT051YlJ1WTgya2YwTEMwUHVEeTQyU2hENTY4R1JoNFdsNlBSUGRaSDNUVXFnLWxEYlFXVkd3cVozSVdrdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDVzblRiT3E5ckdPMVJYaVZGQWNOVFhQMVhEakFQQmlBaU5xT0ZDMlRpUktLYlNkTENIZG1kVUpqUm0tT050OHNpVV9EV2M4NUE1UERhVXBsUXNZRkJ4b2k5c1lUTExZaHNEeDJQRU1YSmZXOVltT051YlJ1WTgya2YwTEMwUHVEeTQyU2hENTY4R1JoNFdsNlBSUGRaSDNUVXFnLWxEYlFXVk",
-  "date": "2026-11-27T13:09:11.000Z",
-  "fetched": "2026-11-27T15:33:13.734Z",
-  "fromCloud": "2026-11-27T1533.json"
- },
- {
-  "id": "d8610bd01fa348a7",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "השוואת ערים: כמה עולה דירה בערים שונות? מחשבון - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Jb3MyaEtZdmxpeV9PaXlFTkhvWDZ6aG9CTWZ6SFJfUUFwMm9jamhmY1BTTVFfOEgxSDN5ZEFqeUN4cGwxZHZyX0VDd3RwRDkwbmxqa1lqcDdnN1Z5U2IzN19qU0dXRmpUTXFCLTJ3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5Jb3MyaEtZdmxpeV9PaXlFTkhvWDZ6aG9CTWZ6SFJfUUFwMm9jamhmY1BTTVFfOEgxSDN5ZEFqeUN4cGwxZHZyX0VDd3RwRDkwbmxqa1lqcDdnN1Z5U2IzN19qU0dXRmpUTXFCLTJ3?oc=5\" target=\"_blank\">השוואת ערים: כמה עולה דירה בערים שונות? מחשבון</a>&nbsp;&nb",
-  "date": "2026-11-27T13:08:00.000Z",
-  "fetched": "2026-11-27T13:33:11.045Z",
-  "fromCloud": "2026-11-27T1333.json"
- },
- {
-  "id": "5838fdabebc3cdb9",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Columbia Financial CFO Thomas Splaine Resigns, Gibney Named Interim - kalkine.com",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUxFakRWZzZ1X3A2THhyMXktaW5JYnJwbEFmS2o4WjBxc0tMX2h2MkVZbXNMNnlfQnA4alVlbFUtNmc0VzBkNEhvT0pZcExPbEUtN1MwNHpEUVBiR0dSNXFfUS1mTUFsaUpqMHRWaEVNM3hBOTlTM1lZbGJCbFlzMXIxNDBNT3NXZnZwZm4zTmFSY0NyU2JtdVhvdkRjdTl5Z25zcWhlQWQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUxFakRWZzZ1X3A2THhyMXktaW5JYnJwbEFmS2o4WjBxc0tMX2h2MkVZbXNMNnlfQnA4alVlbFUtNmc0VzBkNEhvT0pZcExPbEUtN1MwNHpEUVBiR0dSNXFfUS1mTUFsaUpqMHRWaEVNM3hBOTlTM1lZbGJCbFlzMXIxNDBNT3NXZnZwZm4zTmFSY0NyU2JtdVhvdkRjdTl5Z25zcWhlQWQ?oc",
-  "date": "2026-11-27T13:07:36.000Z",
-  "fetched": "2026-11-27T15:33:13.734Z",
-  "fromCloud": "2026-11-27T1533.json"
- },
- {
-  "id": "7fd641f928bd56de",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Innok Robotics Group AG Reports Acquisition of 3.6M Shares at €1.00 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd09NN1JoTHBad1JkOTU0M2FsTmEwbUVVUlROeWtxN3FtN2dQei00eTVucEY2dEVLcHZ4RHFTdFFWem1JRzFoQmE5T04xc2FuSHo3Vjh2RWxmZlBzQjFaQk5pNkhocVB1ZlYwd2JJQ1Q1cGpEVnVfdThqT3g3NkRuTXQ4bVh3dnlORjRIU3lxMEktcUxrallMenJXcVJtZHlPYkdkS3N6UGhQYU1Sa2xtZHhiRC01SUtDY2FxeG5PS3pqSm80bWFz?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNd09NN1JoTHBad1JkOTU0M2FsTmEwbUVVUlROeWtxN3FtN2dQei00eTVucEY2dEVLcHZ4RHFTdFFWem1JRzFoQmE5T04xc2FuSHo3Vjh2RWxmZlBzQjFaQk5pNkhocVB1ZlYwd2JJQ1Q1cGpEVnVfdThqT3g3NkRuTXQ4bVh3dnlORjRIU3lxMEktcUxrallMenJXcVJtZHlPYkdkS3N6UGhQYU",
-  "date": "2026-11-27T13:06:29.000Z",
-  "fetched": "2026-11-27T14:33:16.737Z",
-  "fromCloud": "2026-11-27T1433.json"
- },
- {
-  "id": "1f9774af4b903942",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Innok Robotics Group AG: Prolimity GmbH, Acquisition of 3,626,686 shares as part of a capital increase through contributions in kind at an issue price of EUR 1.00 per share - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaXpKNk9lOXZXZHE0R3NBNER1T2tucU9XOFFyMFJsbzlaWUk2TDR5ellYbEFGNEE1eTQzNHpsWXRHeDAtQ0xuNWRlSFJva29qMV9od1AtRXlJZTNOTVRrdGR4X3NWQ2dlNURhOUhoNzIxV3dqanFfdGFyX2VfUkt5WlU0WGtjZ1AzMXU2LXpmYk92azlBbFRKZjQya3BpUXlWdlFCcjUzSDFQOFFHblJtZXZLemlOZGtpdXROaTZELTVtTmZuc0kwMmZSeVoxVVpwUnBEclpqMjJYUkQyWUpNS1ZtWC1oV3JCaGZFRm8xbmJ0cU5FeVFRTlNkZmVxbzVlZDFla3RmVGZCTnpEUHJDRjBYTEpDaXJFUERBWVhpVVhDakJJYk51S0dXczNWODV2NHktOHV2R0o0VEw1X2hROUZ5M3Jfa3c?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxPaXpKNk9lOXZXZHE0R3NBNER1T2tucU9XOFFyMFJsbzlaWUk2TDR5ellYbEFGNEE1eTQzNHpsWXRHeDAtQ0xuNWRlSFJva29qMV9od1AtRXlJZTNOTVRrdGR4X3NWQ2dlNURhOUhoNzIxV3dqanFfdGFyX2VfUkt5WlU0WGtjZ1AzMXU2LXpmYk92azlBbFRKZjQya3BpUXlWdlFCcjUzSDFQOF",
-  "date": "2026-11-27T13:06:29.000Z",
-  "fetched": "2026-11-27T14:33:16.737Z",
-  "fromCloud": "2026-11-27T1433.json"
- },
- {
-  "id": "cd5c29af422a6672",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Innok Robotics Group AG: Alwin Heerklotz, Acquisition of 523,250 shares as part of a capital increase through contributions in kind at an issue price of EUR 1.00 per share - www.marketscreener.com",
-  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWjZoZnRWMmh4NWZFUkJsQVJsNE1fUnFNelhwVk4zTE12QzQ3UTh2NmN4WFJkQjdYZkljNDNYZHdob29KUm9rVlFLaUNDUmRFVTdNWHN2T2ZHMU41aXhpaTNUQkRJbi1uQ1FFVWVUaVlPcGoyWHp0ZnBuTy1pWWNDa2I3VVp1VEJqdk1HWTBmWEl6NlJLc1B6OHllc2pYUVI2c0ZmdDdTQThkNGFfVnVxQ0ZSSTlCQ2VvSFhUblB6VWd2VkhzejlHTlJYM3A1cktCTGlsUEVRaVFnTWlPUUJQOHhKaWc0Zw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWjZoZnRWMmh4NWZFUkJsQVJsNE1fUnFNelhwVk4zTE12QzQ3UTh2NmN4WFJkQjdYZkljNDNYZHdob29KUm9rVlFLaUNDUmRFVTdNWHN2T2ZHMU41aXhpaTNUQkRJbi1uQ1FFVWVUaVlPcGoyWHp0ZnBuTy1pWWNDa2I3VVp1VEJqdk1HWTBmWEl6NlJLc1B6OHllc2pYUVI2c0ZmdDdTQThkNG",
-  "date": "2026-11-27T13:06:05.000Z",
-  "fetched": "2026-11-27T15:03:11.580Z",
-  "fromCloud": "2026-11-27T1503.json"
- },
- {
-  "id": "0af19156355f78e5",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Columbia Financial announces CFO resignation an... - Pluang",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1U2aHhTUU5xUUhoLURjMS1WMEFhTWRKYUxBV1RLUnhCOVMtNjhaVjBCZHpZd1lPVmpZWEJRZDhLS0ZwT0FpY0hFM21ZT2daSVljVlFRQ3NYQWxXUVZJS1Y4ZENUYklyMDN1dFRPRmVQWVYyandqa21adXJhTGhTaTJiT2N1Zw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1U2aHhTUU5xUUhoLURjMS1WMEFhTWRKYUxBV1RLUnhCOVMtNjhaVjBCZHpZd1lPVmpZWEJRZDhLS0ZwT0FpY0hFM21ZT2daSVljVlFRQ3NYQWxXUVZJS1Y4ZENUYklyMDN1dFRPRmVQWVYyandqa21adXJhTGhTaTJiT2N1Zw?oc=5\" target=\"_blank\">Columbia Financial announ",
-  "date": "2026-11-27T13:05:16.000Z",
-  "fetched": "2026-11-27T15:03:11.580Z",
-  "fromCloud": "2026-11-27T1503.json"
- },
- {
-  "id": "7d585fe70c9e5a7b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "CFO scrutiny: 5 workforce metrics that stand up - HR Executive",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XR004WFE4SkpCUXEyQV9XcWxINFE5NklKN0ZkNlFXb0htN2tDT3VMNkJUNUw4a1NkZnMwMm9xVDFHM1FaOG9Ld21SeFl2dmRGZnR4UFZmN3dEZjdlUmlyZ0FuTDJGRnV6bldkSHNiWXhqR0RsbGNRM1FhWQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5XR004WFE4SkpCUXEyQV9XcWxINFE5NklKN0ZkNlFXb0htN2tDT3VMNkJUNUw4a1NkZnMwMm9xVDFHM1FaOG9Ld21SeFl2dmRGZnR4UFZmN3dEZjdlUmlyZ0FuTDJGRnV6bldkSHNiWXhqR0RsbGNRM1FhWQ?oc=5\" target=\"_blank\">CFO scrutiny: 5 workforce metrics that st",
-  "date": "2026-11-27T13:05:06.000Z",
-  "fetched": "2026-11-27T13:33:11.045Z",
-  "fromCloud": "2026-11-27T1333.json"
- },
- {
-  "id": "0737b489518e66f7",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "השקעה של 100 אלף שקל בסטארט-אפ מזכה ב-25 אלף שקל זיכוי ממס - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RX0FHYW9pQ1Y5ZDNNT1ptcVFSb1Z2S1BORHljaTdTVkx0ZUthU3l6WFYzQldEaGRRV2dSNGNQT0pmRUNNZVN1cWU5bjdfOThjUGYwbEl1d1NWYkY5eW9PVTFVaFlnYnFj?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RX0FHYW9pQ1Y5ZDNNT1ptcVFSb1Z2S1BORHljaTdTVkx0ZUthU3l6WFYzQldEaGRRV2dSNGNQT0pmRUNNZVN1cWU5bjdfOThjUGYwbEl1d1NWYkY5eW9PVTFVaFlnYnFj?oc=5\" target=\"_blank\">השקעה של 100 אלף שקל בסטארט-אפ מזכה ב-25 אלף שקל זיכוי ממס</a>&nbsp",
-  "date": "2026-11-27T13:05:00.000Z",
-  "fetched": "2026-11-27T13:33:11.045Z",
-  "fromCloud": "2026-11-27T1333.json"
  }
 ]
