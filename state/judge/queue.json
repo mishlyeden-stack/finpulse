@@ -4961,6 +4961,17 @@
   "fromCloud": "2026-11-27T1033.json"
  },
  {
+  "id": "881c44769cecf3eb",
+  "source": "בנק ישראל ומשק (Google News)",
+  "group": "israel-official",
+  "title": "במוצ\"ש ב'אמס': חוגגים י\"ט כסלו עם גדולי הזמר החסידי - אמס",
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yVVFTN0p5RDdEdE1FeVN1NDdraWo0eDY5VFNJMS1NTzdvdDNaWFBOdWVaYV9uLXBkTWM2NUZhaUdvdE4tb3haamFaRkRVQQ?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yVVFTN0p5RDdEdE1FeVN1NDdraWo0eDY5VFNJMS1NTzdvdDNaWFBOdWVaYV9uLXBkTWM2NUZhaUdvdE4tb3haamFaRkRVQQ?oc=5\" target=\"_blank\">במוצ\"ש ב'אמס': חוגגים י\"ט כסלו עם גדולי הזמר החסידי</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">אמס</font>",
+  "date": "2026-11-27T10:21:13.000Z",
+  "fetched": "2026-11-28T03:33:11.757Z",
+  "fromCloud": "2026-11-28T0333.json"
+ },
+ {
   "id": "7524403194b13ea7",
   "source": "כלכליסט (Google News)",
   "group": "israel-press",
@@ -7500,16 +7511,5 @@
   "date": "2026-11-27T03:45:32.000Z",
   "fetched": "2026-11-27T10:33:11.945Z",
   "fromCloud": "2026-11-27T1033.json"
- },
- {
-  "id": "f97ef82388741acb",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "הצופים - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uRXJkZjNFa19VbzJzdU94VWw5SWtxLXE5MTR6QmVBR0xINm9hY2dQYUFDR0pSR2p4YXFjb2tSUlJjNk9YM25WR1I4QkJHR0FMQzdnaWtwZ0k3NlFIMTlB?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uRXJkZjNFa19VbzJzdU94VWw5SWtxLXE5MTR6QmVBR0xINm9hY2dQYUFDR0pSR2p4YXFjb2tSUlJjNk9YM25WR1I4QkJHR0FMQzdnaWtwZ0k3NlFIMTlB?oc=5\" target=\"_blank\">הצופים</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ביזפורטל</font>",
-  "date": "2026-11-27T03:31:52.000Z",
-  "fetched": "2026-11-27T19:33:11.214Z",
-  "fromCloud": "2026-11-27T1933.json"
  }
 ]
