@@ -1,5 +1,49 @@
 [
  {
+  "id": "fee72a657413fca2",
+  "source": "DCD – Data Center Dynamics",
+  "group": "industry",
+  "title": "The hidden reliability layer in data centers: why physical connections matter more than ever",
+  "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-reliability-layer-in-data-centers-why-physical-connections-matter-more-than-ever/",
+  "summary": "<p data-block-key=\"f2090\">The infrastructure layer nobody measures until it fails</p>",
+  "date": "2026-11-28T11:00:27.000Z",
+  "fetched": "2026-11-28T11:03:10.898Z",
+  "fromCloud": "2026-11-28T1103.json"
+ },
+ {
+  "id": "b05edf2d9e6323eb",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "יוקרה משומשת בסין צמחה ב-15% לכ-4 מיליארד דולר, בעוד השוק הכללי ירד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05LXlvUGhRWWlDeV85MjkzWU5WVTVlbTd5ZWxfbTR5Wk5HRkNvdUtmVDFFR2hlQWRVdGhUMTNuZ09EUDZVcVVHbjdIOUg2OWhKeFdSYmZIQVVZYUd2WmhoUXlST1kyN3BKck91emRXVTc?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE05LXlvUGhRWWlDeV85MjkzWU5WVTVlbTd5ZWxfbTR5Wk5HRkNvdUtmVDFFR2hlQWRVdGhUMTNuZ09EUDZVcVVHbjdIOUg2OWhKeFdSYmZIQVVZYUd2WmhoUXlST1kyN3BKck91emRXVTc?oc=5\" target=\"_blank\">יוקרה משומשת בסין צמחה ב-15% לכ-4 מיליארד דולר, בעוד השו",
+  "date": "2026-11-28T11:00:00.000Z",
+  "fetched": "2026-11-28T11:03:10.898Z",
+  "fromCloud": "2026-11-28T1103.json"
+ },
+ {
+  "id": "85bc3f280feb9237",
+  "source": "ביזפורטל (Google News)",
+  "group": "israel-press",
+  "title": "שוק המשחקים העולמי צפוי ל-214 מיליארד דולר, ברובו מהנייד - ביזפורטל",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2ZHJaeVRzX2psRGtRU2Z1UU1qMzZXT1NIN3ZTWXBrQWNZZnQ5VncxZUx0aGx0bTBhbUxVdzVzZWFpaFQ0dTIzdG9EX00ydVlzc3BNOG9LcjY4STlkQWdsN19COTIyNGJj?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2ZHJaeVRzX2psRGtRU2Z1UU1qMzZXT1NIN3ZTWXBrQWNZZnQ5VncxZUx0aGx0bTBhbUxVdzVzZWFpaFQ0dTIzdG9EX00ydVlzc3BNOG9LcjY4STlkQWdsN19COTIyNGJj?oc=5\" target=\"_blank\">שוק המשחקים העולמי צפוי ל-214 מיליארד דולר, ברובו מהנייד</a>&nbsp;&",
+  "date": "2026-11-28T10:42:00.000Z",
+  "fetched": "2026-11-28T11:03:10.898Z",
+  "fromCloud": "2026-11-28T1103.json"
+ },
+ {
+  "id": "28b9f9ea9e25fdfe",
+  "source": "כלכליסט (Google News)",
+  "group": "israel-press",
+  "title": "לוס אנג'לס נגד גוגל: חוסמת את השימוש במאפייני ה-AI שלה בבתי הספר - כלכליסט",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GX1BCQXdpMHpocUwzMUgzZWk2emVjclhCNjZ5dUczU3hiX0JfWWxoQVRTNDNUVS1tRDB4VGNEbEh0aTk2Rm9VeVFFaU5QSXJrNUhvSlFoLXhaYzhZMHNLbnBRamR5dHY5Z3ZTYg?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1GX1BCQXdpMHpocUwzMUgzZWk2emVjclhCNjZ5dUczU3hiX0JfWWxoQVRTNDNUVS1tRDB4VGNEbEh0aTk2Rm9VeVFFaU5QSXJrNUhvSlFoLXhaYzhZMHNLbnBRamR5dHY5Z3ZTYg?oc=5\" target=\"_blank\">לוס אנג'לס נגד גוגל: חוסמת את השימוש במאפייני ה-AI שלה בבתי ה",
+  "date": "2026-11-28T10:36:00.000Z",
+  "fetched": "2026-11-28T11:03:10.898Z",
+  "fromCloud": "2026-11-28T1103.json"
+ },
+ {
   "id": "d5360b0ee2183e55",
   "source": "ביזפורטל (Google News)",
   "group": "israel-press",
@@ -363,6 +407,17 @@
   "fromCloud": "2026-11-28T0833.json"
  },
  {
+  "id": "a23fc944dccdbfa7",
+  "source": "Google News – CFO / M&A",
+  "group": "cfo",
+  "title": "RS Bundamedik targets acquisition of five hospitals over next 5 years - IDNFinancials",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFRBWHdhWXNHUlZDaEhXa0lDekx1eWt2Y29jLW44RDhoQ2wwU200dWd6Y2RZMjNZOW5tQWNOdG5xZDlnWVBsQzR0RTF3NW5qSmNDeFRtYmtlNG1yZWlIVVpVWjRCT3JjSHE0MTktX1NOamZwQW9IVnF4ZklLaEg0X1FyaEo5N2pDUWpQb3NoTldkWndmdlQ3M1Azc3pmZDNKQWdwX2g1T0g2dTVVMkl3?oc=5",
+  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFRBWHdhWXNHUlZDaEhXa0lDekx1eWt2Y29jLW44RDhoQ2wwU200dWd6Y2RZMjNZOW5tQWNOdG5xZDlnWVBsQzR0RTF3NW5qSmNDeFRtYmtlNG1yZWlIVVpVWjRCT3JjSHE0MTktX1NOamZwQW9IVnF4ZklLaEg0X1FyaEo5N2pDUWpQb3NoTldkWndmdlQ3M1Azc3pmZDNKQWdwX2g1T0g2dT",
+  "date": "2026-11-28T07:05:00.000Z",
+  "fetched": "2026-11-28T11:03:10.898Z",
+  "fromCloud": "2026-11-28T1103.json"
+ },
+ {
   "id": "937bb338ee13721a",
   "source": "Calcalist Tech (Google News)",
   "group": "israel-press",
@@ -625,6 +680,17 @@
   "date": "2026-11-28T05:00:41.000Z",
   "fetched": "2026-11-28T05:33:11.045Z",
   "fromCloud": "2026-11-28T0533.json"
+ },
+ {
+  "id": "b283e6c61879461a",
+  "source": "Financial Times",
+  "group": "global-press",
+  "title": "England’s post-Brexit fishing windfall swept up by Dutch tycoon",
+  "link": "https://www.ft.com/content/13566b4a-e996-4029-829b-94fb89a76841?syn-25a6b1a6=1",
+  "summary": "Smaller operators initially won a quarter of quotas, but their share dwindled to less than 1 per cent in 2025",
+  "date": "2026-11-28T05:00:41.000Z",
+  "fetched": "2026-11-28T11:03:10.898Z",
+  "fromCloud": "2026-11-28T1103.json"
  },
  {
   "id": "1039773ec9e69f93",
@@ -5487,357 +5553,5 @@
   "date": "2026-11-27T11:03:34.000Z",
   "fetched": "2026-11-27T12:03:11.125Z",
   "fromCloud": "2026-11-27T1203.json"
- },
- {
-  "id": "2dc42e4b34d260c3",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Spark I Acquisition Corp. Cash Flow – OTC:SPKWF - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CZVJXQ1Zib0NTQWx6UXRRLS1xVkVHbk9xUVhaUVdRMTRPVmhmVEtMTXFsbFdUYjJKQXZqZEpJRzNSSnBQc2F0V0F5OV9LTU5KX0pfb0Jiam1XSExocENBYTVHMGZEQWZycFYyV3VXU2RRZEh6Rnc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9CZVJXQ1Zib0NTQWx6UXRRLS1xVkVHbk9xUVhaUVdRMTRPVmhmVEtMTXFsbFdUYjJKQXZqZEpJRzNSSnBQc2F0V0F5OV9LTU5KX0pfb0Jiam1XSExocENBYTVHMGZEQWZycFYyV3VXU2RRZEh6Rnc?oc=5\" target=\"_blank\">Spark I Acquisition Corp. Cash Flow – OTC:SPKWF<",
-  "date": "2026-11-27T11:02:22.000Z",
-  "fetched": "2026-11-27T12:02:11.328Z",
-  "fromCloud": "2026-11-27T1202.json"
- },
- {
-  "id": "fed79662617e5169",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Rational AG: NSG Invest GmbH & Co. KG, Transfer (acquisition) of 349,999 shares in RATIONAL Aktiengesellschaft free of charge - www.marketscreener.com",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdXI5b1hQQWtWcmpQdGlXQzVKSWNCV2RPYWN1bnFtNjMycHlsMGtQRmRNOFhtYmRSMHJudjRia1BoRWVTTjB3SE1nNlh0amRtWmhlaFBJRHkwbnlybzU2eG5IUHhJNTFmclpOLXpodXM2R19fS01DMm9GeUdGMzFHcE53ck5NUFNfOHZQcy1Rd0dGS0xlemU3VTVMaTJrYVZrWlZTRk1Yd1BNQ2tUNElNV2dPQkd6cEJuSS1UYy1nMV9uS2Y1Qks3TkhvZDJoa3JGNFVoSkE5dVc3VVJSc2pz?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdXI5b1hQQWtWcmpQdGlXQzVKSWNCV2RPYWN1bnFtNjMycHlsMGtQRmRNOFhtYmRSMHJudjRia1BoRWVTTjB3SE1nNlh0amRtWmhlaFBJRHkwbnlybzU2eG5IUHhJNTFmclpOLXpodXM2R19fS01DMm9GeUdGMzFHcE53ck5NUFNfOHZQcy1Rd0dGS0xlemU3VTVMaTJrYVZrWlZTRk1Yd1BNQ2",
-  "date": "2026-11-27T11:01:03.000Z",
-  "fetched": "2026-11-27T11:33:14.816Z",
-  "fromCloud": "2026-11-27T1133.json"
- },
- {
-  "id": "f654b63f2b68c9e2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Rational AG: Cornelius Invest GmbH & Co. KG, Transfer (acquisition) of 349,999 shares in RATIONAL Aktiengesellschaft free of charge | Persons subject to reporting requirements who have a close relationship, Person in a managerial role - www.marketscreener.com",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS1NxQ1NTOENfSXFacmpBdGNuUlNHZ3BSSmx2Mm5kcmJ5UmRIQnlnTHNwWmdqZ0hjeXhiTDNCYXRaOUFkdFJMOGRRSlVPcksxbzlIZ3BNMW9JekhiUUJhRks0SFYyd1NMSkt4WUJCOGhxWkU0NEZhc3VRMU9ENjc2Nk1XZjI5QjdLRy1kV3k2S2RHUWNyclROTVJ6dUFsN0ZGb0VPSW5nd0IzMW95SEliU0R1cGh2M2ZTcnJvOVlhM0trM0tBaWozTzdidXlkQ2dQRnIyQ3ZWUnk0cE9zNThZ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS1NxQ1NTOENfSXFacmpBdGNuUlNHZ3BSSmx2Mm5kcmJ5UmRIQnlnTHNwWmdqZ0hjeXhiTDNCYXRaOUFkdFJMOGRRSlVPcksxbzlIZ3BNMW9JekhiUUJhRks0SFYyd1NMSkt4WUJCOGhxWkU0NEZhc3VRMU9ENjc2Nk1XZjI5QjdLRy1kV3k2S2RHUWNyclROTVJ6dUFsN0ZGb0VPSW5nd0IzMW",
-  "date": "2026-11-27T11:01:03.000Z",
-  "fetched": "2026-11-27T11:33:14.816Z",
-  "fromCloud": "2026-11-27T1133.json"
- },
- {
-  "id": "43a7562981e182f2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Rational AG: Cornelius Invest GmbH & Co. KG, Transfer (acquisition) of 349,999 shares in RATIONAL Aktiengesellschaft free of charge | Persons subject to reporting requirements who have a close relationship, Person in a managerial role: Walter Kurtz, Chair - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPZTQzM1E3MklFQVNXMW5PSlRQd0Z0OFpzV0NSREV6WWMyMjdKcXN2bmYxVy13YU11Y1RhSmx3UGVtc2ROTy1HYmRsNVVGeXZTZm52MjZWbHVHQV9jR0NHN2ZGNWF0TWdiTV9TT3N6MU5uUDYwQnZaQ2UwVERRSXNYRWtoSmhabEhSMF9BRFpXakx4dWZja1ZfMEZkaU5wckw3NXdWdW85LTZVLW12WnVqd09VT0ZTZkNnLUNJNnUzMzlvUmppbFFHMElSTnBsZ0J0VFlUUm5tZWMyV3RqSGZ4anROWUU3Uk9mdHBORzBtSnAtX2laUlhQS0prNU0yRU9XTDN3cGxTdzFjNzBhOTkyNjd0VzlOc053bEw0R3pRNEx1NlQzdU1temhHRzY4UWprcXMxWUVLcjRLUDlxajVzWUR4SUJzZVhFQWZyZkNLNy10SEZ3RWFMVHlKMkg1QWlFNXhLbVYtSzYwTUtzaXhOc2w2UXJLOGlJbjVvUjRwZjh2UENMWFFYZW5jLUdUb2ZYZHoyY0h4MTZNN0NOd3V4VGpLVTQ2MElWcVBBWldRVFFqTFBTZmZNVUpqM09MTFRSRUJKdjE1MUV1bGNWZ2wwd2VDdHBuOURjamtSY1JKVFF1NlhnSDJITnhYU0pmMXptRy15SHF1U0l0ZDBkTmRJ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wNBVV95cUxPZTQzM1E3MklFQVNXMW5PSlRQd0Z0OFpzV0NSREV6WWMyMjdKcXN2bmYxVy13YU11Y1RhSmx3UGVtc2ROTy1HYmRsNVVGeXZTZm52MjZWbHVHQV9jR0NHN2ZGNWF0TWdiTV9TT3N6MU5uUDYwQnZaQ2UwVERRSXNYRWtoSmhabEhSMF9BRFpXakx4dWZja1ZfMEZkaU5wckw3NXdWdW85LTZVLW",
-  "date": "2026-11-27T11:00:21.000Z",
-  "fetched": "2026-11-27T12:33:12.319Z",
-  "fromCloud": "2026-11-27T1233.json"
- },
- {
-  "id": "ffc7af8ca835a177",
-  "source": "CNBC Business",
-  "group": "global-press",
-  "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-  "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-  "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
-  "date": "2026-11-27T11:00:01.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "db4a5f90bd411011",
-  "source": "SecurityWeek",
-  "group": "industry",
-  "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
-  "link": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
-  "summary": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities appeared ",
-  "date": "2026-11-27T11:00:00.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "a9359f74a24334e5",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "WELLSTAR Technologies Corp. (WSTR) Appoints Rodrigo Pinto as CFO - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDRLSmJSakFjZVh3UGVITnI2cUtoSmNGZjJvcjRITUZIUDZYQWp1VDUwZW5aTk9meHNORWR0d1h3NHhUU1JhQTYxS0s4N3NBMmpsUjJGcjJud1I1S1BsbjczckJBRnhxd09BN0tWLTVCTnFvaHJYLXBla01pZ0pJV3NsVUU2anBoQXBRQzlEUlowVGdQQ2JJRXBaYlhtRmVtc3dZeVd3a3BvQVZsUzdNYS14UWhjcEJ2dVk0NHFiUGw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDRLSmJSakFjZVh3UGVITnI2cUtoSmNGZjJvcjRITUZIUDZYQWp1VDUwZW5aTk9meHNORWR0d1h3NHhUU1JhQTYxS0s4N3NBMmpsUjJGcjJud1I1S1BsbjczckJBRnhxd09BN0tWLTVCTnFvaHJYLXBla01pZ0pJV3NsVUU2anBoQXBRQzlEUlowVGdQQ2JJRXBaYlhtRmVtc3dZeVd3a3BvQV",
-  "date": "2026-11-27T11:00:00.000Z",
-  "fetched": "2026-11-27T12:33:12.319Z",
-  "fromCloud": "2026-11-27T1233.json"
- },
- {
-  "id": "431ecba9d98e427b",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "WELLSTAR Technologies Corp. (WSTR) Names Rodrigo Pinto CFO Effective Dec. 1 - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEMwU05wX0hrYnVkd3RsVG5iUE5aTnMycVNhZkZkOEJGanZhVE1FcUtrSEpQVVpGdXdmczZGMlNmR2k5ZWx4TkpxODBTWjFuR1dSVk1fYmZKME92YjZ4d1g2Y2FPMDQwWGZ4eHQ3aDlBTkNJT0tuWFgzVTdPTjN5NGljbzVzeXJoa2pCSE9FeXFYaVZfRVJCLXV6bUVkMVNCdVdyLWo5S3B3ODlYQW1VV0FLcVdEZDlWeHdONjdOWkx4dVdWOHFJZjNaRThGQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEMwU05wX0hrYnVkd3RsVG5iUE5aTnMycVNhZkZkOEJGanZhVE1FcUtrSEpQVVpGdXdmczZGMlNmR2k5ZWx4TkpxODBTWjFuR1dSVk1fYmZKME92YjZ4d1g2Y2FPMDQwWGZ4eHQ3aDlBTkNJT0tuWFgzVTdPTjN5NGljbzVzeXJoa2pCSE9FeXFYaVZfRVJCLXV6bUVkMVNCdVdyLWo5S3B3OD",
-  "date": "2026-11-27T11:00:00.000Z",
-  "fetched": "2026-11-27T13:03:13.079Z",
-  "fromCloud": "2026-11-27T1303.json"
- },
- {
-  "id": "68283b685d8045f7",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Daishin Balance No.20 Special Purpose Acquisition Company (0134X0.KQ) company profile and facts - Yahoo Finance UK",
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uZW1PZW1SN09FRld4eVUxY0RtMzBCOTlEZzZ3UTNibmlEWDh5Wm9SQXJIM2w4bmhiUFVnQ05XdEk2RHozZmthOTBHZWlfTkx4NmxMRUZyM2dpRWlLc2EtNHg0SQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uZW1PZW1SN09FRld4eVUxY0RtMzBCOTlEZzZ3UTNibmlEWDh5Wm9SQXJIM2w4bmhiUFVnQ05XdEk2RHozZmthOTBHZWlfTkx4NmxMRUZyM2dpRWlLc2EtNHg0SQ?oc=5\" target=\"_blank\">Daishin Balance No.20 Special Purpose Acquisition Company (0134X0.KQ) com",
-  "date": "2026-11-27T10:57:14.000Z",
-  "fetched": "2026-11-27T14:03:11.447Z",
-  "fromCloud": "2026-11-27T1403.json"
- },
- {
-  "id": "c3aa5e181dfcdf8d",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "יישאר עם 4 תיקים: חיים כץ משך את התפטרותו מתפקיד שר השיכון - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wekgyMDcxV0xjaTdqS2xvLVBBNmdhVE1VVjBUSm9jSk00alY5MkI4eEN1Q0tKZ2RNSG1hYlpnamRLWklmYlpROE1vcVpKdWVVdVM5Y2NHVVpLbk0xc1RwNWxhVEhMdnlYS1E?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0wekgyMDcxV0xjaTdqS2xvLVBBNmdhVE1VVjBUSm9jSk00alY5MkI4eEN1Q0tKZ2RNSG1hYlpnamRLWklmYlpROE1vcVpKdWVVdVM5Y2NHVVpLbk0xc1RwNWxhVEhMdnlYS1E?oc=5\" target=\"_blank\">יישאר עם 4 תיקים: חיים כץ משך את התפטרותו מתפקיד שר השיכון</a>&n",
-  "date": "2026-11-27T10:55:00.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "bac349282b190d0a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "White & Case advises Tyro Group on As de Pic’s acquisition - White & Case LLP",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0M0MjZwdDdYUzQtSUt3VzBfZUcyaHZRUWRiM3pIREgxQTVWeGRyVkxQZ3o3REJsR3JRTm9NYUZ6em0tdk5Fdm1SUXFuVEFMMktvQ2lYR0gydm9iQUxZR0FWTGFfVkctYTR4Q1NDdjhMNlNVRU11YURDRDVlazlNaG1kZU5mUDNQTm00WVdLUk13SWNtdTQ2S2d3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0M0MjZwdDdYUzQtSUt3VzBfZUcyaHZRUWRiM3pIREgxQTVWeGRyVkxQZ3o3REJsR3JRTm9NYUZ6em0tdk5Fdm1SUXFuVEFMMktvQ2lYR0gydm9iQUxZR0FWTGFfVkctYTR4Q1NDdjhMNlNVRU11YURDRDVlazlNaG1kZU5mUDNQTm00WVdLUk13SWNtdTQ2S2d3?oc=5\" target=\"_blank\"",
-  "date": "2026-11-27T10:54:02.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "b6f543d106e351f1",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "White & Case advises Amplifon on permanent funding for GN Hearing acquisition through €600 million bond offering and €1.2 billion credit facility - White & Case LLP",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVlqSXhJV05TSHVKcTh1RnBMa0FEZ3gydGc5VDFzdVhuNWFmWFJpcVU2eUxDV0ppNGRUeUs0ZTl1V3EwSnc3a090VFUzZDc5NmNKdzFZRHFhaWlfanpXYmdaaTNZbE1ITU0yR1g4ekI2cXpHd3RoM3BqcTIxTFRKbEp6MmE0VUQyQ1lsVlFad09zb05XQjhvdkFyeTBxajRaOGlsS3lBem9DUlpBeGlzOW5QRy1XM0FCTHFTZHVR?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVlqSXhJV05TSHVKcTh1RnBMa0FEZ3gydGc5VDFzdVhuNWFmWFJpcVU2eUxDV0ppNGRUeUs0ZTl1V3EwSnc3a090VFUzZDc5NmNKdzFZRHFhaWlfanpXYmdaaTNZbE1ITU0yR1g4ekI2cXpHd3RoM3BqcTIxTFRKbEp6MmE0VUQyQ1lsVlFad09zb05XQjhvdkFyeTBxajRaOGlsS3lBem9DUl",
-  "date": "2026-11-27T10:54:01.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "197f5f2db0c0c3a3",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Hungary’s OTP eyes acquisition in Ukraine, with Sense Bank and Ukrgasbank seen as likely targets - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkpwRzlNT0lBakctOXFCUTBVZEc5MVFyWC1UczNnNFROUVJtWXYwbjkwRHMyRHUxYzRtcU9CY250UmdZUjhhc3ZvYVlhbXJWOFJwZGg0NlZRWHRKekRaY19nb1l5dmxweXF6OUE0OWdEcXRyZUxTYnZxQjNXeHpCUHdma2x3T084TzUtSU4wOFhfWE5fclNteDIybGdWbEVId0F3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkpwRzlNT0lBakctOXFCUTBVZEc5MVFyWC1UczNnNFROUVJtWXYwbjkwRHMyRHUxYzRtcU9CY250UmdZUjhhc3ZvYVlhbXJWOFJwZGg0NlZRWHRKekRaY19nb1l5dmxweXF6OUE0OWdEcXRyZUxTYnZxQjNXeHpCUHdma2x3T084TzUtSU4wOFhfWE5fclNteDIybGdWbEVId0F3?oc=5\" tar",
-  "date": "2026-11-27T10:51:18.000Z",
-  "fetched": "2026-11-27T11:33:14.816Z",
-  "fromCloud": "2026-11-27T1133.json"
- },
- {
-  "id": "8be28ca4639fa198",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Form 4 HB Fuller Company: John J. Corkrean (Executive VP and CFO) For: 20 November - Investing.com Canada",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGN1UnpVU05vSndlbEdCT2x3N2VDQVZac3NFV1dDN0lzMG5CX1AzSUhyX01FTjZXZnlvT1AwQ2p3a3VMV24wTlkwTXg0SFVaZDJMQ19CdFh1TGQ5bTB0WVV2clZQRWphTm1VUXhWUlF1N2FSYUVlWHgzV1hhRDVzbkYzMEc1andtQjdkU1VJbzNjZDVsTlpaSjNnS3R2dEdNb3FtMmxUY0JNT2tLeWVpbXgzOExadXhKTlhMU0M5U2hvZ3V1VjBRMnIxWDVHQ3RjUmNVWA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGN1UnpVU05vSndlbEdCT2x3N2VDQVZac3NFV1dDN0lzMG5CX1AzSUhyX01FTjZXZnlvT1AwQ2p3a3VMV24wTlkwTXg0SFVaZDJMQ19CdFh1TGQ5bTB0WVV2clZQRWphTm1VUXhWUlF1N2FSYUVlWHgzV1hhRDVzbkYzMEc1andtQjdkU1VJbzNjZDVsTlpaSjNnS3R2dEdNb3FtMmxUY0JNT2",
-  "date": "2026-11-27T10:49:31.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "54f188575e9e7c85",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Spark I Acquisition Corp. Balance Sheet – OTC:SPKWF - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qd3dxX0ZkVjAwWmltWVN3VDBrMGVZRk5OX0c1WTNfRG9VT2tiV1M4NVhaUTRGWUpRdVpGVkNtc2RqN3h5RmJDWG1sVER0VnIwTzMtdzZWM0xYTW5Eb2Q5LUl0ajQyOXhmVVYwcUtvbHlQemk2WUxtRW1jQQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1qd3dxX0ZkVjAwWmltWVN3VDBrMGVZRk5OX0c1WTNfRG9VT2tiV1M4NVhaUTRGWUpRdVpGVkNtc2RqN3h5RmJDWG1sVER0VnIwTzMtdzZWM0xYTW5Eb2Q5LUl0ajQyOXhmVVYwcUtvbHlQemk2WUxtRW1jQQ?oc=5\" target=\"_blank\">Spark I Acquisition Corp. Balance Sheet –",
-  "date": "2026-11-27T10:46:54.000Z",
-  "fetched": "2026-11-27T13:03:13.079Z",
-  "fromCloud": "2026-11-27T1303.json"
- },
- {
-  "id": "ab1c32228ca0c0d9",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Price to cash flow ratio of Spark I Acquisition Corp. – OTC:SPKWF - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2NpeWtaNmZocENRTjJUUlU5cFNUYTJDUXFNby1MQ0Z5VTAzLVNfZm8wcjQ3cnNPQUFaY3RBeUZienRJeHRBWGpuRy1iV0ZxMVliQXFvMmVKdmdOZ0ZJQktKc2JVckJqUlBJQ2hyenhGNjFYa3hoZ1pkQ1dTYXFjVThrZnl6bTlMTUJGQjRJaVREQVBtSnU4eGh0UQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2NpeWtaNmZocENRTjJUUlU5cFNUYTJDUXFNby1MQ0Z5VTAzLVNfZm8wcjQ3cnNPQUFaY3RBeUZienRJeHRBWGpuRy1iV0ZxMVliQXFvMmVKdmdOZ0ZJQktKc2JVckJqUlBJQ2hyenhGNjFYa3hoZ1pkQ1dTYXFjVThrZnl6bTlMTUJGQjRJaVREQVBtSnU4eGh0UQ?oc=5\" target=\"_blan",
-  "date": "2026-11-27T10:45:02.000Z",
-  "fetched": "2026-11-27T13:03:13.079Z",
-  "fromCloud": "2026-11-27T1303.json"
- },
- {
-  "id": "a4566070dceea632",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Viomi Technology completes all-cash acquisition of Brondell - grafa.com",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWhJU3psX3RuY2lmZlhqVldtTkJCbTZneFpWd0l4NThlcXhGY2RUTjBLUmZmUklKWUZIR3ZJOHR4WDJhTElXcGwzME9HVjJRZDBVRW5TRVRNYndXS1V3SDdWSFlxZ3BRZ1pvQVRXbTRoQ3ZidjRaR2U2UGNYZExBMlBwTVlDOU5sLWRFdzBuM0s?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWhJU3psX3RuY2lmZlhqVldtTkJCbTZneFpWd0l4NThlcXhGY2RUTjBLUmZmUklKWUZIR3ZJOHR4WDJhTElXcGwzME9HVjJRZDBVRW5TRVRNYndXS1V3SDdWSFlxZ3BRZ1pvQVRXbTRoQ3ZidjRaR2U2UGNYZExBMlBwTVlDOU5sLWRFdzBuM0s?oc=5\" target=\"_blank\">Viomi Techno",
-  "date": "2026-11-27T10:45:01.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "e64900160b711317",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Enterprise value to EBITDA ratio of Spark I Acquisition Corp. – OTC:SPKWF - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEFDOXNBVEJSdU5uSThLX0ltWmk4NnVYcDlqQ2lhYWhVWFd4LVYweUQwcUFEd1Y4dXZORTc0VGdMZXVyOENmc09OZ2lsRDFOYktrYnZtcXBKODhUMnUxdTI0QWprOXIwRU1BaFBRay05MnhZeWFIUHVOQnV6VXRXdjc0bVQ3aS1BZjNiR21UWk5nek5QMVZnd2lmN0c0TGZhUkMtTkp3?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEFDOXNBVEJSdU5uSThLX0ltWmk4NnVYcDlqQ2lhYWhVWFd4LVYweUQwcUFEd1Y4dXZORTc0VGdMZXVyOENmc09OZ2lsRDFOYktrYnZtcXBKODhUMnUxdTI0QWprOXIwRU1BaFBRay05MnhZeWFIUHVOQnV6VXRXdjc0bVQ3aS1BZjNiR21UWk5nek5QMVZnd2lmN0c0TGZhUkMtTkp3?oc=5\"",
-  "date": "2026-11-27T10:44:38.000Z",
-  "fetched": "2026-11-27T13:33:11.045Z",
-  "fromCloud": "2026-11-27T1333.json"
- },
- {
-  "id": "3b6320219afed962",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Altria Group (MO) Eyes Imperial Brands Acquisition to Expand Com - GuruFocus",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjdlNjZtRFc1bm5SV0haZEFKdWN3bkR0UXNaQ016eEhFWmpDV3FtMnByb19rX2duYUN3djFSVC1UZWIwY1JzczB1cWJ0ZjktcWhLb0YxNU1LeEkxY3RNbjNtODF5QmVmVVFjcVV1N3o5b1JGa2VneURuZGowbmdwaGVVTjBCVHJNTV9hMkN6NjVoeEV4dHFWd3RLbDFwUkFUWXFFWnBBVFlfYlhYeGNldEFTU0IxakRlWEFwZnd2TmhwZnRvMzN5Z2xpUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjdlNjZtRFc1bm5SV0haZEFKdWN3bkR0UXNaQ016eEhFWmpDV3FtMnByb19rX2duYUN3djFSVC1UZWIwY1JzczB1cWJ0ZjktcWhLb0YxNU1LeEkxY3RNbjNtODF5QmVmVVFjcVV1N3o5b1JGa2VneURuZGowbmdwaGVVTjBCVHJNTV9hMkN6NjVoeEV4dHFWd3RLbDFwUkFUWXFFWnBBVFlfYl",
-  "date": "2026-11-27T10:43:06.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "54eb627f0ae277c2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Altria Group (MO) Explores Acquisition of Imperial Brands with J - GuruFocus",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3B4ZHBCWnIyeGRLNlpaLXpjcWh2VGlYdU05bnp5ek9yZ1NEZ3dzYVFuZ1BCQ0NyRklNTXZUUWhfOVpYYk9kelVWN3QzbHgxbGVxa1otQWsxS1FpRlN5WkVud3ZuYW9LV09JTEVhUmJ2VjVBVEZ6X2tnNnJNa3hKcGJvRkZ5MXN1V3k5SENxM2FycDFjNHdHZEZQNDZveElWTVRoSWxRd1FXVkVmM2RyRFlwM3M4SzNCUWlqYWVoQ3ZkT3c?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3B4ZHBCWnIyeGRLNlpaLXpjcWh2VGlYdU05bnp5ek9yZ1NEZ3dzYVFuZ1BCQ0NyRklNTXZUUWhfOVpYYk9kelVWN3QzbHgxbGVxa1otQWsxS1FpRlN5WkVud3ZuYW9LV09JTEVhUmJ2VjVBVEZ6X2tnNnJNa3hKcGJvRkZ5MXN1V3k5SENxM2FycDFjNHdHZEZQNDZveElWTVRoSWxRd1FXVk",
-  "date": "2026-11-27T10:43:06.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "11ded6d0579155d6",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "מנכ\"ל מגדל בדרך למליסרון? רונן אגסי מועמד מוביל לתפקיד המנכ\"ל",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001565321#utm_source=RSS",
-  "summary": "לאחר פטירתו הפתאומית של המנכ\"ל לשעבר אופיר שריד, אגסי הוא ככל הנראה המועמד המוביל להחלפתו בראש חברת הנדל\"ן המניב",
-  "date": "2026-11-27T10:42:00.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "1c463e6479aebfd0",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Huaxin Subsidiary Completes Tranche 1a of Holcim Philippines Acquisition - TipRanks",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3hkYVpCSm5LSm16dXZfd0J6cWw4UDlmcHlsLTIzS1FiNThKZUE5SF9sckZGZEEwb29tQjduTmVBM1hCVUJmckZZQzlRUEEyY0d4dnZrWDVKVXdaQ2RxUWQtYkk0YUg3SjhVUGxQLTJXbUR1VGR3VGdCel85REVhc2JBZWJSM3g0SEtYYW5YUVdLZHZPdWNrWUhZd3pKSEN5aTQtaTJFRkFOVWdNUlZYdGxBZGp3aVRuZlF1OW9LLUV4Zw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3hkYVpCSm5LSm16dXZfd0J6cWw4UDlmcHlsLTIzS1FiNThKZUE5SF9sckZGZEEwb29tQjduTmVBM1hCVUJmckZZQzlRUEEyY0d4dnZrWDVKVXdaQ2RxUWQtYkk0YUg3SjhVUGxQLTJXbUR1VGR3VGdCel85REVhc2JBZWJSM3g0SEtYYW5YUVdLZHZPdWNrWUhZd3pKSEN5aTQtaTJFRkFOVW",
-  "date": "2026-11-27T10:40:51.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "67e43f1664805af2",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Operating cash flow per share of Spark I Acquisition Corp. – OTC:SPKWF - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXZBWS1uMkpaQmVkeUFGbGJCbk93bl83QVE5SlRPbUp3SzFzaU5XNEFUZ2UxVG5CdTlCMFhzVUZtR3NvaWRYYnVQYkgtWkkwS2VxZnJuTS01T3lHMzNxeXAxLWgzdlRYTHBUSmhjZXVPeXozZzUxZDZwbXZ4TzFHenM0N1AzV0Q3eXV3YTBKc00yeElJbFozdmU5Z1pkV2xzNkVLMzBmNExiX1FwLUE?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXZBWS1uMkpaQmVkeUFGbGJCbk93bl83QVE5SlRPbUp3SzFzaU5XNEFUZ2UxVG5CdTlCMFhzVUZtR3NvaWRYYnVQYkgtWkkwS2VxZnJuTS01T3lHMzNxeXAxLWgzdlRYTHBUSmhjZXVPeXozZzUxZDZwbXZ4TzFHenM0N1AzV0Q3eXV3YTBKc00yeElJbFozdmU5Z1pkV2xzNkVLMzBmNExiX1",
-  "date": "2026-11-27T10:40:36.000Z",
-  "fetched": "2026-11-27T16:33:11.095Z",
-  "fromCloud": "2026-11-27T1633.json"
- },
- {
-  "id": "a2c68e224b67ed41",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Inherent gains foothold in Corsica with new acquisition - Telecompaper",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYnBqV2F6NTVqbk1uSkFoRnNUSGMwczRzX0p5UkZZeWlFT0NWdE1SQWR3NmhrUVpCdnEwbTFZY3dkVXA3UHQ1SmUyanY5TktWczN1bnpfbEd3bk5LV3Y5eXBKSEt4eFY3RGdHNTZvd3pRNTRmRW5LektQQUt5VjBOY1RnVUJuTF9Jc1NXNU9XR2tqbjVZVVVGTFlKRnZkMjg?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYnBqV2F6NTVqbk1uSkFoRnNUSGMwczRzX0p5UkZZeWlFT0NWdE1SQWR3NmhrUVpCdnEwbTFZY3dkVXA3UHQ1SmUyanY5TktWczN1bnpfbEd3bk5LV3Y5eXBKSEt4eFY3RGdHNTZvd3pRNTRmRW5LektQQUt5VjBOY1RnVUJuTF9Jc1NXNU9XR2tqbjVZVVVGTFlKRnZkMjg?oc=5\" target=\"",
-  "date": "2026-11-27T10:40:02.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "5c0620a41a01819a",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Debt to assets ratio of Spark I Acquisition Corp. – OTC:SPKWF - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjZ4S3VvYVdHZkVIdF9ud1F1RXdQM2VUNWVUdzhPZ2U3MmN2Qm9BVWFCck5VcHF0REhyX2YwOFpPTmhmYkRrLUM4NjNQSk9VazRibFV3Nm1KWFU4R1BkSV9ZNS10bndYamZvMER5alJ6ZmxKMmdtdU5henNISXNPbHRpX2lKTGRwSGlCcEVUNEZZb3U2dDYyUA?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjZ4S3VvYVdHZkVIdF9ud1F1RXdQM2VUNWVUdzhPZ2U3MmN2Qm9BVWFCck5VcHF0REhyX2YwOFpPTmhmYkRrLUM4NjNQSk9VazRibFV3Nm1KWFU4R1BkSV9ZNS10bndYamZvMER5alJ6ZmxKMmdtdU5henNISXNPbHRpX2lKTGRwSGlCcEVUNEZZb3U2dDYyUA?oc=5\" target=\"_blank\">D",
-  "date": "2026-11-27T10:39:41.000Z",
-  "fetched": "2026-11-27T14:33:16.737Z",
-  "fromCloud": "2026-11-27T1433.json"
- },
- {
-  "id": "cc942d2f2300d546",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Free cash flow per share of Spark I Acquisition Corp. – OTC:SPKWF - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXNENFVjWE1xSXpCNEExSkRrSDB2ZEFpckJEU0tSNk9qMzRkQ3JOUEFGR1hzSm5SYndfZl8wczRGOE1velpGZ2xBa2RCZnlDeHFpQ25KVWlrM1RUSExOLThXVm51YnVGX3NWcFpjeVVuZ1hPNHJ1WmRXYWVLUmlkdGV0V2hENUNnd3lCNzVKeVVNOGdNSWE2bGVHUnFfWUI5RldnOUtFYw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXNENFVjWE1xSXpCNEExSkRrSDB2ZEFpckJEU0tSNk9qMzRkQ3JOUEFGR1hzSm5SYndfZl8wczRGOE1velpGZ2xBa2RCZnlDeHFpQ25KVWlrM1RUSExOLThXVm51YnVGX3NWcFpjeVVuZ1hPNHJ1WmRXYWVLUmlkdGV0V2hENUNnd3lCNzVKeVVNOGdNSWE2bGVHUnFfWUI5RldnOUtFYw?oc=",
-  "date": "2026-11-27T10:39:38.000Z",
-  "fetched": "2026-11-27T12:02:11.328Z",
-  "fromCloud": "2026-11-27T1202.json"
- },
- {
-  "id": "38a54f501718e3ce",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Coca-Cola HBC AG Completion of CCBA acquisition - https://www.ccbagroup.com/",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZXVkQnNZdHBJQ1VBLVM2M2V3czJBLTR6dl9wNmYwd0N5N203TTMxdm0xSzBUcmdWRmg3bUdLVlVGNGxFT1NmRUFhQy1TQmxkUjdLUmJzUjJzaGZwS2kzU09hcVpzYjRiNHhHSHJLcW1SZmUzbzU1Q3dCMkZGTms?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZXVkQnNZdHBJQ1VBLVM2M2V3czJBLTR6dl9wNmYwd0N5N203TTMxdm0xSzBUcmdWRmg3bUdLVlVGNGxFT1NmRUFhQy1TQmxkUjdLUmJzUjJzaGZwS2kzU09hcVpzYjRiNHhHSHJLcW1SZmUzbzU1Q3dCMkZGTms?oc=5\" target=\"_blank\">Coca-Cola HBC AG Completion of CCBA ",
-  "date": "2026-11-27T10:37:22.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "e21ece4c0d2f34a4",
-  "source": "Google News – CFO / M&A",
-  "group": "cfo",
-  "title": "Thales Targets Lumibird Acquisition In Laser Push - Aviation Week",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEdpNHRGQnp4ZTFqRWF3ZzNDQ2R1Y0tWNUxXcGtiUkgyaGpBODQzMEFub3JRZ2FwMXJFdFZCQ2JUeG1TczA5cUlTbmlFYXcxLUEwQVZNV1oyWlJ0SkpNdDI4aVk1bUhsT1RDbEhSc09tWURXdWxPLUJwZnR0bGN4cnJVcnBkYjdFT1prLVpia0t6UG1kMW9aX00yTF9WNzlpM2JNcFlsT2hxUQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEdpNHRGQnp4ZTFqRWF3ZzNDQ2R1Y0tWNUxXcGtiUkgyaGpBODQzMEFub3JRZ2FwMXJFdFZCQ2JUeG1TczA5cUlTbmlFYXcxLUEwQVZNV1oyWlJ0SkpNdDI4aVk1bUhsT1RDbEhSc09tWURXdWxPLUJwZnR0bGN4cnJVcnBkYjdFT1prLVpia0t6UG1kMW9aX00yTF9WNzlpM2JNcFlsT2hxUQ",
-  "date": "2026-11-27T10:36:53.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "8d171c3f88e5de84",
-  "source": "TheMarker (Google News)",
-  "group": "israel-press",
-  "title": "\"החזרנו את השליטה\": הגירה נטו לבריטניה נפלה לרמה הנמוכה ביותר מאז 1997 - בעולם - TheMarker - TheMarker",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkFoRUhwOERHVzMtUUE3WjJKdjVEWE85czEtamVGZUdnS3pXRnRBNlV3cnJVTzROVVhXakduZXdya1h3R2djRC1nSkpVa3pkNWh4QXMtR1FVa2I0YjBISWEwYTRnWUZocUw0ZmRvOTEzWHp5eHNnblNVWEp0Zl9HeHA3RklLVWd6bkVXX0xPYTRUeTQ5dUttLVFVX3NuSWpLX1FzWVMyWQ?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkFoRUhwOERHVzMtUUE3WjJKdjVEWE85czEtamVGZUdnS3pXRnRBNlV3cnJVTzROVVhXakduZXdya1h3R2djRC1nSkpVa3pkNWh4QXMtR1FVa2I0YjBISWEwYTRnWUZocUw0ZmRvOTEzWHp5eHNnblNVWEp0Zl9HeHA3RklLVWd6bkVXX0xPYTRUeTQ5dUttLVFVX3NuSWpLX1FzWVMyWQ?oc=",
-  "date": "2026-11-27T10:36:00.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "ca767ff31d6a442d",
-  "source": "גלובס – ראשי",
-  "group": "israel-press",
-  "title": "המניה הקיבוצית שצונחת ב-14% אחרי דוחות חלשים",
-  "link": "https://www.globes.co.il/news/article.aspx?did=1001565320#utm_source=RSS",
-  "summary": "מניית פלרם מקיבוץ רמת יוחנן צוללת בבורסה, אחרי שהתחזקות השקל, עיכובי משלוחים בעקבות איראן, המכסים של טראמפ, ואפילו האינפלציה והריבית הגבוהה, ומלחמת רוסיה אוקראינה ריסקו את הרווח שלה ב-65% &#8226; החברה גם מחקה מלאי ב-5 מיליון שקל",
-  "date": "2026-11-27T10:35:00.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "dd822714969efe8b",
-  "source": "כלכליסט (Google News)",
-  "group": "israel-press",
-  "title": "בלאק פריידי: עלייה של 5% בקניות באשראי עד 11 בבוקר - כלכליסט",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wcldiT2JDMmZpZG9Yc2UyVzBTQjMxUkhxMEZpTmxHU05UN0Q4ZGR6aVE1bkoxSVZhTWdaajVfWG02cmllLWxHbWhPWDR1bkpvS19xTjR5UThLTjF3WXNvRkNhME5Hdw?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wcldiT2JDMmZpZG9Yc2UyVzBTQjMxUkhxMEZpTmxHU05UN0Q4ZGR6aVE1bkoxSVZhTWdaajVfWG02cmllLWxHbWhPWDR1bkpvS19xTjR5UThLTjF3WXNvRkNhME5Hdw?oc=5\" target=\"_blank\">בלאק פריידי: עלייה של 5% בקניות באשראי עד 11 בבוקר</a>&nbsp;&nbsp;<fo",
-  "date": "2026-11-27T10:34:00.000Z",
-  "fetched": "2026-11-27T11:03:14.972Z",
-  "fromCloud": "2026-11-27T1103.json"
- },
- {
-  "id": "1eb7156a82bc0ca7",
-  "source": "ביזפורטל (Google News)",
-  "group": "israel-press",
-  "title": "ניתוחים ודעות כתבות נוספות - עמוד 655 - ביזפורטל",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54V3I5WWlhcGtTbnE1VXBmNFAwYjM3WnVOZmVnRHZGQ1o2cEtHTHdDRFdaX3NwdW1PMXAzZWt4UWJ2NlBPU2lNUmNzQkd0WWZsYVM2VkRMWlhYYW5sWU83aGVJS2RseHc?oc=5",
-  "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54V3I5WWlhcGtTbnE1VXBmNFAwYjM3WnVOZmVnRHZGQ1o2cEtHTHdDRFdaX3NwdW1PMXAzZWt4UWJ2NlBPU2lNUmNzQkd0WWZsYVM2VkRMWlhYYW5sWU83aGVJS2RseHc?oc=5\" target=\"_blank\">ניתוחים ודעות כתבות נוספות - עמוד 655</a>&nbsp;&nbsp;<font color=\"#6",
-  "date": "2026-11-27T10:33:39.000Z",
-  "fetched": "2026-11-27T22:03:13.438Z",
-  "fromCloud": "2026-11-27T2203.json"
  }
 ]
